@@ -7,5 +7,9 @@
   "genres": [
     "Macera"
   ],
-  "episodes": []
+  "episodes": [],
+  "embeds": [
+    "/diziyeni/player.php?k=v1.zaqGQ_nPu3R-TDW9.CMMMVp_6GV73irFQQFGKqXpccjNvYlim-Qxl7_f223gAsHT0jKiw74uItG2UBi3F4t4uB4y7B5J0BwBCgjxm9FQWeoNj1qfHaM2LI8PrOskjcfuBWWOfMWDGmcpiAENpwG2Iosit8QxMduTBLoz3._kJIIKl6f_uhDlUwElaE_w",
+    "/diziyeni/player.php?k=v1.ndDxI5zZzdXSZKy9.3N9vcWDlnmIkaf95fR5wSymRl79poY9y8iJOdXNVDV2yj8SnCuRUtppIUC3KzODO4WBfv1hFjafK4nnzW3jfW-D8y0u1ADEqGRfTZiSvLshyRpH7sqGg7iDNid_gkKh-SNjp7EeZX4I.rDg8lVzqhfjGIZPbyyZ5zA"
+  ]
 }

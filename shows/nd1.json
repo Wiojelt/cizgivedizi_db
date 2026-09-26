@@ -8,5 +8,9 @@
     "Spor",
     "Komedi"
   ],
-  "episodes": []
+  "episodes": [],
+  "embeds": [
+    "/diziyeni/player.php?k=v1.tmzHtU5LC61CxUUB.D0P90omF88oQAcKdVzfcEzWTBOcqvayp6fgZwCEsxgpjADC2a-MlNwLyAByMAHRwh22VebZMmrC0-ecfEZz3dNsjWRfILDKqBjmcv-FH3RlAE_omUOf-n7hTa04HZDl_6Xp7P4Y9bKP2tflm.RGa2G4DkAKgnofcx_RnYTQ",
+    "/diziyeni/player.php?k=v1.MIWp9QDN1ISPLTOf.Dj5ase0H4HDsyxApxaU4jc86SBGkzPJhWPguQ29NzkpNsypo0lVyi-Q4jqmhi0MSXtBxq7_7RLqwUdP5xrp6SWkciLQ-QIdhL1PNcotNA49s6Wwz_aQss4xvnpiDBoA8FfKSo_A.WrQuoKw64pij36-oacKRHQ"
+  ]
 }

@@ -7,5 +7,9 @@
   "genres": [
     "Bilim Kurgu"
   ],
-  "episodes": []
+  "episodes": [],
+  "embeds": [
+    "/diziyeni/player.php?k=v1.k3VATkrBcjMeU_fY.9er6qfsIWSer1Iapy1Nx9lW-EstmCLjS0hd5XcdxXCHkI3utTKYwZNlnfMuBp-gInaOaWOsU-zQpTh8F8qFmpXsGshT3V25WVbRQ8WwsKZLGKIWbHip-pHJ_gXH_Yx2rlATOyRdDHw.4ve7dNMEiYrm6nFyyfZ79Q",
+    "/diziyeni/player.php?k=v1.xPoc9P4ImPxBhQns.rC_Xe_F3O0J5W7fsZlMc6s3Tio44HVE4dfuUQH0PNLS7EhzH2GXBPkZRtpaJOpZT466CXxoQ0ykmxws1EZoXpbXEPFXdUddW0Vj7V2WU_cxFmHd9-I2SMN9k8a5E64iwLbfkEwexjnwRrueeBg.gNU5jiysJ_0W9Ngoy9aIKw"
+  ]
 }

@@ -8,5 +8,9 @@
     "Aksiyon",
     "Komedi"
   ],
-  "episodes": []
+  "episodes": [],
+  "embeds": [
+    "/diziyeni/player.php?k=v1.IF6YQt4ZooC7_ZUv.AVH_9lEwJnQ_BU8OC_RwiPZ5sfLkorYCtgJtGE5jrGErJpqiEdfS2EfnJ2wXeiUWiazWmTvqvmMS_FNuGoetq3T3bU2Rs7kFN3r9qFAPoBgg7XfJNp2mefDZo8AGSvOBhuI.6i8qiAl7PzHE5HAVXF4L4Q",
+    "/diziyeni/player.php?k=v1.bmAybv674IYH2Wea.EWA_ybQMTSidbiA-QnJKP8UqGadOO3SJbS_TucljyV6ppImOKE0Pud7Mi2cB-wC8IlOeKBFH7j6aIMg3Vn971eRU1lUrWrwgihUm7YK__i0EoBpSKNPgpmjf4qmhS-XC8Us.dthEknDK2vDnx2m62PD5Tw"
+  ]
 }

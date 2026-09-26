@@ -7,5 +7,9 @@
   "genres": [
     "Fantastik"
   ],
-  "episodes": []
+  "episodes": [],
+  "embeds": [
+    "/diziyeni/player.php?k=v1.StPZek9hD_ES_06K.acO-OZPW4GH_Bl39AFHsT8zeGeLmxg9pWA861edCN2j1NWzD0myKMy57wOP0YN5I2fuFN7JC6fyx-4vu6Ip0rrbGSMFIqUgfhU0Vq9xfBBGiZnx_2uK0HWoFNyw-MfG5Vm8VQzazRZlvaFPVosvsFRuqT8yk.gKJCdD19eiWWLP2HqHiQxA",
+    "/diziyeni/player.php?k=v1.bBUKEosY7CJCL24d.AxBagoxwavPusPEaUYs6d0hsrSaQmUt3Pnm8kLODocgiywyey-swi1sF1y9Hug-QCRvz13HMEuFbuEO5fUtxlD5QJ-dPYFlGpnn6Q2LCR5LXnINuEUo2uz8pOQ4gnvAjRjxTpsKhTHPnbY4p2g.3_yiGAxUfqZhC2qB26FV0A"
+  ]
 }

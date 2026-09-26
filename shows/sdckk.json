@@ -9,5 +9,9 @@
     "Komedi",
     "Korku"
   ],
-  "episodes": []
+  "episodes": [],
+  "embeds": [
+    "/diziyeni/player.php?k=v1.USi37_01p9qTowrb.naLpLyMo4UujrdKbGiv6hIDy0dDc6EAL_Dw_ADaKhr6pv6MuUw2XOELbyNl3uBCjCB6lN9ji4DqIWh8mH6KFnG9VPeeGRtEL5N97dmQV3ntJkYfNs-kJMe0HWKkiSxvkv1va.yboBAH5Wv1yJ9RqfKesnBg",
+    "/diziyeni/player.php?k=v1.RyyAtq91yCxuzutF.aQdU2PmsKDnkgsquxlhYKGX3rH9hfWQZPH4rxRyrsKiwAUm12S44806HgKBUbEA1Gc7bFfbmiBoM2e1epdVdzNYGEzLY4-k5UHcGObzdosVjDHpXUunjcjkq3GA_qaVb_DQiQw.nThydgy36vrkrA_VeuWb8A"
+  ]
 }

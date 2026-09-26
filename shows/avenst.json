@@ -7,5 +7,9 @@
   "genres": [
     "Aksiyon"
   ],
-  "episodes": []
+  "episodes": [],
+  "embeds": [
+    "/diziyeni/player.php?k=v1.N7-knMYa7mZtyYEQ.6qii7NHVtybiDBUDahMwlcEOELA4EUBmYoWD5Yk7RGZf7Cd8yGFll9uIciTAeV4dpy6IebKQT1FdgEmtI0SjAzxWVOQ-7fQc4so1qslVdJapLaX4hvjNyyTp0s4lPpB2fPIMUVkfB_C4ELtAfQ.sFaUzvaO2T_1xCJ2IzRMdw",
+    "/diziyeni/player.php?k=v1.0DfaVyr0SauvLTTF.zZOqJfm_dh9o4t1ipUi0pT4yoUnS0bqeelhzDKeBC2DScVBksUsFEK4Zxupv0ECLHNAaXBEcsZIMesbAEtkNsd7CyjDqIYT4DFmlaB65aYQCENqtw8w0W6SvgyfdzSoA1aXfxzwYQt4uuFmX5Q.jsRKdXDHhbPDH8gZEuZYjw"
+  ]
 }

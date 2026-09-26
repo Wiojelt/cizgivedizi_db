@@ -7,5 +7,9 @@
   "genres": [
     "Komedi"
   ],
-  "episodes": []
+  "episodes": [],
+  "embeds": [
+    "/diziyeni/player.php?k=v1.ElrSmcw8n_IQaJau.TWOW3tXNS9KoNBFIFQDPhs7Z_6oq7WmaUxAcN6iIuOm9oDgIDJ3THxFP6UyFsXwS-Q6wOTM5cBK51C_uiKr09aXqDOu9Z4hGQqhtvTxzcCl0dgBY0k4QZzavF_XeEU4dEkhxSnCiG1SArusG.4cj2m7EO1V2dmiwAYlFzKQ",
+    "/diziyeni/player.php?k=v1.ov6I2jq4aAYlDoAX.6IljSDap7HVawMx4t9C4Gyxf7SQX7C7HSm7JPIx4ym4-dkYGDMqUV-cS6n4V5UIp24DniWWe4oPczdHQSBXsy8vKjtWhKeyXL2_0cC8FPgBs-vqR6gRPidVWNvfU7GvlDdVhporQa2HgArZa.q8NZ02laa7SJeg8UYjd-gA"
+  ]
 }
