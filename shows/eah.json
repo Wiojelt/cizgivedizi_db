@@ -3,6 +3,7 @@
   "title": "ever after high",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/EAHPoster.avif",
+  "plot": "Masal kahramanlarÄ±nÄ±n Ã§ocuklarÄ±nÄ±n gittiÄŸi bu okuldaki Ã¶ÄŸrenciler ikiye ayrÄ±lÄ±r: Masallardaki kaderini kabul edenler ve kendi kaderini yazmak isteyenler.",
   "channel": "Netflix",
   "genres": [
     "Fantastik",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/1/ever_after_high_dunyasi"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Apple's Tale: The Story of a Royal",
       "diziid": "eah",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/2/applein_oykusu%3A_bir_asilin_hikayesi"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Raven's Tale: The Story of a Rebel",
       "diziid": "eah",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/3/ravenin_oykusu%3A_bir_asinin_hikayesi"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "The Tale of Legacy Day",
       "diziid": "eah",
@@ -42,8 +43,8 @@
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/4/karar_gununun_oykusu"
     },
     {
-      "season": 1,
-      "episode": 5,
+      "season": 2,
+      "episode": 1,
       "title": "Stark Raven Mad",
       "diziid": "eah",
       "bolum": "5",
@@ -51,95 +52,95 @@
     },
     {
       "season": 2,
-      "episode": 6,
+      "episode": 2,
       "title": "True Reflections",
       "diziid": "eah",
       "bolum": "6",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/6/gercek_yansimalar"
     },
     {
-      "season": 3,
-      "episode": 7,
+      "season": 2,
+      "episode": 3,
       "title": "Maddie-in-Chief",
       "diziid": "eah",
       "bolum": "7",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/7/maddie_is_basinda"
     },
     {
-      "season": 4,
-      "episode": 8,
+      "season": 2,
+      "episode": 4,
       "title": "Briar's Study Party",
       "diziid": "eah",
       "bolum": "8",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/8/briarin_ders_calisma_partisi"
     },
     {
-      "season": 5,
-      "episode": 9,
+      "season": 2,
+      "episode": 5,
       "title": "Here Comes Cupid",
       "diziid": "eah",
       "bolum": "9",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/9/cupid_geliyor"
     },
     {
-      "season": 6,
-      "episode": 10,
+      "season": 2,
+      "episode": 6,
       "title": "The Shoe Must Go On",
       "diziid": "eah",
       "bolum": "10",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/10/magaza_hazirliklari"
     },
     {
-      "season": 7,
-      "episode": 11,
+      "season": 2,
+      "episode": 7,
       "title": "The Cat Who Cried Wolf",
       "diziid": "eah",
       "bolum": "11",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/11/haylaz_kitty"
     },
     {
-      "season": 8,
-      "episode": 12,
+      "season": 2,
+      "episode": 8,
       "title": "Cedar Wood Would Love to Lie",
       "diziid": "eah",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/12/cedar_wood_yalan_soylemeyi_cok_isterdi"
     },
     {
-      "season": 9,
-      "episode": 13,
+      "season": 2,
+      "episode": 9,
       "title": "Catching Raven",
       "diziid": "eah",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/13/raveni_yakalamak"
     },
     {
-      "season": 10,
-      "episode": 14,
+      "season": 2,
+      "episode": 10,
       "title": "The Day Ever After",
       "diziid": "eah",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/14/ertesi_gun"
     },
     {
-      "season": 11,
-      "episode": 15,
+      "season": 2,
+      "episode": 11,
       "title": "Replacing Raven",
       "diziid": "eah",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/15/ravenin_degisimi"
     },
     {
-      "season": 1,
-      "episode": 16,
+      "season": 3,
+      "episode": 1,
       "title": "Blondie's Just Right",
       "diziid": "eah",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/16/blondie_her_zaman_hakli"
     },
     {
-      "season": 2,
-      "episode": 17,
+      "season": 3,
+      "episode": 2,
       "title": "True Hearts Day Part 1",
       "diziid": "eah",
       "bolum": "17",
@@ -147,191 +148,191 @@
     },
     {
       "season": 3,
-      "episode": 18,
+      "episode": 3,
       "title": "True Hearts Day Part 2",
       "diziid": "eah",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/18/samimi_kalpler_gunu_2.bolum"
     },
     {
-      "season": 4,
-      "episode": 19,
+      "season": 3,
+      "episode": 4,
       "title": "True Hearts Day Part 3",
       "diziid": "eah",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/19/samimi_kalpler_gunu_3.bolum"
     },
     {
-      "season": 5,
-      "episode": 20,
+      "season": 3,
+      "episode": 5,
       "title": "Class Confusion",
       "diziid": "eah",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/20/farkli_dersler"
     },
     {
-      "season": 6,
-      "episode": 21,
+      "season": 3,
+      "episode": 6,
       "title": "Apple's Birthday Bake-Off",
       "diziid": "eah",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/21/applein_dogum_gunu"
     },
     {
-      "season": 7,
-      "episode": 22,
+      "season": 3,
+      "episode": 7,
       "title": "The Beautiful Truth",
       "diziid": "eah",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/22/gercek_guzellik"
     },
     {
-      "season": 8,
-      "episode": 23,
+      "season": 3,
+      "episode": 8,
       "title": "MirrorNet Down",
       "diziid": "eah",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/23/aynanet_coktu"
     },
     {
-      "season": 9,
-      "episode": 24,
+      "season": 3,
+      "episode": 9,
       "title": "Rebel's Got Talent",
       "diziid": "eah",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/24/yetenek_asilerde"
     },
     {
-      "season": 10,
-      "episode": 25,
+      "season": 3,
+      "episode": 10,
       "title": "Once Upon a Table",
       "diziid": "eah",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/25/evvel_zaman_icinde_bir_masa_varmis"
     },
     {
-      "season": 11,
-      "episode": 26,
+      "season": 3,
+      "episode": 11,
       "title": "Blondie Branches Out",
       "diziid": "eah",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/26/blondie_dallaniyor"
     },
     {
-      "season": 12,
-      "episode": 27,
+      "season": 3,
+      "episode": 12,
       "title": "Poppy the Roybel",
       "diziid": "eah",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/27/asi_poppy"
     },
     {
-      "season": 13,
-      "episode": 28,
+      "season": 3,
+      "episode": 13,
       "title": "O'Hair's Split Ends",
       "diziid": "eah",
       "bolum": "28",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/28/ohairin_catallasmis_saclari"
     },
     {
-      "season": 14,
-      "episode": 29,
+      "season": 3,
+      "episode": 14,
       "title": "Maddie's Hat-tastic Party",
       "diziid": "eah",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/29/cay_partisi_cilginligi"
     },
     {
-      "season": 15,
-      "episode": 30,
+      "season": 3,
+      "episode": 15,
       "title": "Lizzie Heart's Fairytale First Date",
       "diziid": "eah",
       "bolum": "30",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/30/lizzie_heartsin_ilk_randevusu"
     },
     {
-      "season": 16,
-      "episode": 31,
+      "season": 3,
+      "episode": 16,
       "title": "Apple's Princess Practice",
       "diziid": "eah",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/31/applein_prenseslik_provasi"
     },
     {
-      "season": 17,
-      "episode": 32,
+      "season": 3,
+      "episode": 17,
       "title": "Lizzie Shuffles the Deck",
       "diziid": "eah",
       "bolum": "32",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/32/lizzie_desteyi_karistiriyor"
     },
     {
-      "season": 18,
-      "episode": 33,
+      "season": 3,
+      "episode": 18,
       "title": "Duchess Swan's Lake",
       "diziid": "eah",
       "bolum": "33",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/33/duses_swanin_golu"
     },
     {
-      "season": 19,
-      "episode": 34,
+      "season": 3,
+      "episode": 19,
       "title": "Cerise's Picnic Panic",
       "diziid": "eah",
       "bolum": "34",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/34/cericein_piknik_telasi"
     },
     {
-      "season": 20,
-      "episode": 35,
+      "season": 3,
+      "episode": 20,
       "title": "Kitty's Curious Tale",
       "diziid": "eah",
       "bolum": "35",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/35/kittynin_ilginc_hikayesi"
     },
     {
-      "season": 21,
-      "episode": 36,
+      "season": 3,
+      "episode": 21,
       "title": "Cupid Comes Clean... Kinda",
       "diziid": "eah",
       "bolum": "36",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/36/cupid_itiraf_ediyor%2C_sanki"
     },
     {
-      "season": 22,
-      "episode": 37,
+      "season": 3,
+      "episode": 22,
       "title": "And the Thronecoming Queen Is...",
       "diziid": "eah",
       "bolum": "37",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/37/ve_iste_yil_sonu_balo_kralicesi..."
     },
     {
-      "season": 23,
-      "episode": 38,
+      "season": 3,
+      "episode": 23,
       "title": "Best Feather Forward",
       "diziid": "eah",
       "bolum": "38",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/38/karsiliksiz_iyilik"
     },
     {
-      "season": 1,
-      "episode": 39,
+      "season": 4,
+      "episode": 1,
       "title": "Ginger in the BreadHOUSE",
       "diziid": "eah",
       "bolum": "39",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/39/sekerden_ev"
     },
     {
-      "season": 2,
-      "episode": 40,
+      "season": 4,
+      "episode": 2,
       "title": "Ashlynn's Fashion Frolic",
       "diziid": "eah",
       "bolum": "40",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/40/ashlynnin_moda_muzipligi"
     },
     {
-      "season": 3,
-      "episode": 41,
+      "season": 4,
+      "episode": 3,
       "title": "An Hexclusive Invitation",
       "diziid": "eah",
       "bolum": "41",
@@ -339,175 +340,175 @@
     },
     {
       "season": 4,
-      "episode": 42,
+      "episode": 4,
       "title": "Chosen with Care",
       "diziid": "eah",
       "bolum": "42",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/42/itinayla_secildi"
     },
     {
-      "season": 5,
-      "episode": 43,
+      "season": 4,
+      "episode": 5,
       "title": "Just Sweet",
       "diziid": "eah",
       "bolum": "43",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/43/mukemmel"
     },
     {
-      "season": 6,
-      "episode": 44,
+      "season": 4,
+      "episode": 6,
       "title": "Through the Woods",
       "diziid": "eah",
       "bolum": "44",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/44/ormandan_gecerken"
     },
     {
-      "season": 7,
-      "episode": 45,
+      "season": 4,
+      "episode": 7,
       "title": "Baking and Entering",
       "diziid": "eah",
       "bolum": "45",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/45/yemek_hirsizligi"
     },
     {
-      "season": 8,
-      "episode": 46,
+      "season": 4,
+      "episode": 8,
       "title": "Date Night",
       "diziid": "eah",
       "bolum": "46",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/46/randevu_gecesi"
     },
     {
-      "season": 9,
-      "episode": 47,
+      "season": 4,
+      "episode": 9,
       "title": "Driving Me Cuckoo",
       "diziid": "eah",
       "bolum": "47",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/47/karanlik_orman"
     },
     {
-      "season": 10,
-      "episode": 48,
+      "season": 4,
+      "episode": 10,
       "title": "Bog Bash",
       "diziid": "eah",
       "bolum": "48",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/48/bataklik_partisi"
     },
     {
-      "season": 11,
-      "episode": 49,
+      "season": 4,
+      "episode": 11,
       "title": "Faybelle's Choice",
       "diziid": "eah",
       "bolum": "49",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/49/faybellein_secimi"
     },
     {
-      "season": 12,
-      "episode": 50,
+      "season": 4,
+      "episode": 12,
       "title": "The Legacy Orchard",
       "diziid": "eah",
       "bolum": "50",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/50/gizli_bahce_gezisi"
     },
     {
-      "season": 13,
-      "episode": 51,
+      "season": 4,
+      "episode": 13,
       "title": "Sugar Coated",
       "diziid": "eah",
       "bolum": "51",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/51/zencefilli_kekler"
     },
     {
-      "season": 14,
-      "episode": 52,
+      "season": 4,
+      "episode": 14,
       "title": "Fairest on Ice",
       "diziid": "eah",
       "bolum": "52",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/52/buz_dansi"
     },
     {
-      "season": 15,
-      "episode": 53,
+      "season": 4,
+      "episode": 15,
       "title": "Heart Struck",
       "diziid": "eah",
       "bolum": "53",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/53/ask_salgini"
     },
     {
-      "season": 16,
-      "episode": 54,
+      "season": 4,
+      "episode": 16,
       "title": "Bunny & Alistair Forever After",
       "diziid": "eah",
       "bolum": "54",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/54/bunny_%2B_alistair_sonsuza_dek_en_iyi_arkadaslar"
     },
     {
-      "season": 17,
-      "episode": 55,
+      "season": 4,
+      "episode": 17,
       "title": "Croquet-Tastrophe!",
       "diziid": "eah",
       "bolum": "55",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/55/felaket_kroket"
     },
     {
-      "season": 18,
-      "episode": 56,
+      "season": 4,
+      "episode": 18,
       "title": "Save Me, Darling!",
       "diziid": "eah",
       "bolum": "56",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/56/kurtar_beni_prensim%21"
     },
     {
-      "season": 19,
-      "episode": 57,
+      "season": 4,
+      "episode": 19,
       "title": "Rosabella's Animal Rescue",
       "diziid": "eah",
       "bolum": "57",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/57/rosabellanin_dunyasi"
     },
     {
-      "season": 20,
-      "episode": 58,
+      "season": 4,
+      "episode": 20,
       "title": "What's in the Cards for Courtly Jester?",
       "diziid": "eah",
       "bolum": "58",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/58/kartlar_courtly_jester_icin_neler_diyor"
     },
     {
-      "season": 21,
-      "episode": 59,
+      "season": 4,
+      "episode": 21,
       "title": "Tri-Castle-On",
       "diziid": "eah",
       "bolum": "59",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/59/ever_after_high_spor_turnuvasi"
     },
     {
-      "season": 1,
-      "episode": 60,
+      "season": 5,
+      "episode": 1,
       "title": "Moonlight Mystery",
       "diziid": "eah",
       "bolum": "60",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/60/gizemli_ay_isigi"
     },
     {
-      "season": 2,
-      "episode": 61,
+      "season": 5,
+      "episode": 2,
       "title": "Wish List",
       "diziid": "eah",
       "bolum": "61",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/61/dilek_listesi"
     },
     {
-      "season": 3,
-      "episode": 62,
+      "season": 5,
+      "episode": 3,
       "title": "A Tale of Two Parties",
       "diziid": "eah",
       "bolum": "62",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/62/iki_parti_macerasi"
     },
     {
-      "season": 4,
-      "episode": 63,
+      "season": 5,
+      "episode": 4,
       "title": "Piping Hot Beats",
       "diziid": "eah",
       "bolum": "63",
@@ -515,95 +516,95 @@
     },
     {
       "season": 5,
-      "episode": 64,
+      "episode": 5,
       "title": "Thumb-believable!",
       "diziid": "eah",
       "bolum": "64",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/64/inanilmaz%21"
     },
     {
-      "season": 6,
-      "episode": 65,
+      "season": 5,
+      "episode": 6,
       "title": "Beanstalk Bravado",
       "diziid": "eah",
       "bolum": "65",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/65/fasulye_sirigi"
     },
     {
-      "season": 7,
-      "episode": 66,
+      "season": 5,
+      "episode": 7,
       "title": "Meeshell comes out of her Shell",
       "diziid": "eah",
       "bolum": "66",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/66/meeshell_kabugundan_cikiyor"
     },
     {
-      "season": 8,
-      "episode": 67,
+      "season": 5,
+      "episode": 8,
       "title": "There's no business Like Snow Business",
       "diziid": "eah",
       "bolum": "67",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/67/kar_gibisi_yok"
     },
     {
-      "season": 9,
-      "episode": 68,
+      "season": 5,
+      "episode": 9,
       "title": "A Big Bad Secret!",
       "diziid": "eah",
       "bolum": "68",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/68/buyuk_sir"
     },
     {
-      "season": 1,
-      "episode": 69,
+      "season": 6,
+      "episode": 1,
       "title": "Legacy Day: A Tale of Two Tales",
       "diziid": "eah",
       "bolum": "0",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/0/iki_masalin_masali"
     },
     {
-      "season": 1,
-      "episode": 70,
+      "season": 6,
+      "episode": 2,
       "title": "True Hearts Day",
       "diziid": "eah",
       "bolum": "0",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/0/samimi_kalpler_gunu"
     },
     {
-      "season": 1,
-      "episode": 71,
+      "season": 6,
+      "episode": 3,
       "title": "Thronecoming",
       "diziid": "eah",
       "bolum": "0",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/0/buyuk_balo"
     },
     {
-      "season": 1,
-      "episode": 72,
+      "season": 6,
+      "episode": 4,
       "title": "Spring Unsprung",
       "diziid": "eah",
       "bolum": "0",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/0/bahar_geldi"
     },
     {
-      "season": 1,
-      "episode": 73,
+      "season": 6,
+      "episode": 5,
       "title": "Card Tricks / Jester's Wild / Shuffle the Deck / A Royal Flush",
       "diziid": "eah",
       "bolum": "0",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/0/kart_oyunu__cilgin_dersler__yeni_anlasma__kraliyet_toreni"
     },
     {
-      "season": 1,
-      "episode": 74,
+      "season": 6,
+      "episode": 6,
       "title": "Shatter the Mirror / Hatch the Dragons / Escape the Forest / Battle the Queen",
       "diziid": "eah",
       "bolum": "0",
       "url": "https://cizgivedizi.com/dizi/eah/ever_after_high/0/kirik_ayna__zindandaki_ayna__ormandan_kacis__kraliceyle_savas"
     },
     {
-      "season": 1,
-      "episode": 75,
+      "season": 6,
+      "episode": 7,
       "title": "Snow Day / Wicked Winter / Ice Castle Quest / Crystal Rose",
       "diziid": "eah",
       "bolum": "0",

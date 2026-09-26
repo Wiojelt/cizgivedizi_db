@@ -3,6 +3,7 @@
   "title": "Ä±nside job",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/INJOBPoster.avif",
+  "plot": "Kertenkele insanlar gerÃ§ekten var! Aya iniÅŸ ise koca bir yalan! DÃ¼nyanÄ±n komplolarÄ±nÄ± yÃ¶netmek tuhaf bir dÃ¢hi ve sorunlu Ã§alÄ±ÅŸma arkadaÅŸlarÄ± iÃ§in tam zamanlÄ± bir iÅŸtir.",
   "channel": "Netflix",
   "genres": [
     "Komedi",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/insjob/inside_job/1/robot_baskan"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Clone Gunman",
       "diziid": "insjob",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/insjob/inside_job/2/klon_suikastci"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Blue Bloods",
       "diziid": "insjob",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/insjob/inside_job/3/mavi_kanlilar"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Sex Machina",
       "diziid": "insjob",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/insjob/inside_job/4/robotla_randevu"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "The Brettfast Club",
       "diziid": "insjob",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/insjob/inside_job/5/brett_ile_1980ler_nostaljisi"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "My Big Flat Earth Wedding",
       "diziid": "insjob",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/insjob/inside_job/6/duz_dunyacilarla_dugun"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Ghost Protocol",
       "diziid": "insjob",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/insjob/inside_job/7/hayalet_protokol"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Buzzkill",
       "diziid": "insjob",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/insjob/inside_job/8/tatsiz_bir_gorev"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Mole Hunt",
       "diziid": "insjob",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/insjob/inside_job/9/kostebek_avi"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Inside Reagan",
       "diziid": "insjob",
@@ -90,8 +91,8 @@
       "url": "https://cizgivedizi.com/dizi/insjob/inside_job/10/reaganin_zihninde"
     },
     {
-      "season": 1,
-      "episode": 11,
+      "season": 2,
+      "episode": 1,
       "title": "How Reagan Got Her Grove Back",
       "diziid": "insjob",
       "bolum": "11",
@@ -99,55 +100,55 @@
     },
     {
       "season": 2,
-      "episode": 12,
+      "episode": 2,
       "title": "Whoas-Feratu",
       "diziid": "insjob",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/insjob/inside_job/12/vay-pirler"
     },
     {
-      "season": 3,
-      "episode": 13,
+      "season": 2,
+      "episode": 3,
       "title": "Reagan & Mychelle's Hive School Reunion",
       "diziid": "insjob",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/insjob/inside_job/13/lise_bulusmasi"
     },
     {
-      "season": 4,
-      "episode": 14,
+      "season": 2,
+      "episode": 4,
       "title": "We Found Love in a Popeless Place",
       "diziid": "insjob",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/insjob/inside_job/14/ask_mi%2C_papa_mi"
     },
     {
-      "season": 5,
-      "episode": 15,
+      "season": 2,
+      "episode": 5,
       "title": "Brettwork",
       "diziid": "insjob",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/insjob/inside_job/15/brettten_al_haberi"
     },
     {
-      "season": 6,
-      "episode": 16,
+      "season": 2,
+      "episode": 6,
       "title": "Rontagion",
       "diziid": "insjob",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/insjob/inside_job/16/dostluk_virusu"
     },
     {
-      "season": 7,
-      "episode": 17,
+      "season": 2,
+      "episode": 7,
       "title": "Project Reboot",
       "diziid": "insjob",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/insjob/inside_job/17/yeniden_baslama_projesi"
     },
     {
-      "season": 8,
-      "episode": 18,
+      "season": 2,
+      "episode": 8,
       "title": "Appleton",
       "diziid": "insjob",
       "bolum": "18",

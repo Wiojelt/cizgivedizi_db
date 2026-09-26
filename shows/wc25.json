@@ -3,6 +3,7 @@
   "title": "winx club: sihir geri dÃ¶nÃ¼yor",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/WC25Poster.avif",
+  "plot": "Peri olduÄŸunu Ã¶ÄŸrenen 16 yaÅŸÄ±ndaki Bloom, yazÄ±ldÄ±ÄŸÄ± sihirli okulda gÃ¼Ã§lerini geliÅŸtirir, yeni arkadaÅŸlar edinir ve karanlÄ±k gÃ¼Ã§lere karÅŸÄ± savaÅŸÄ±r.",
   "channel": "Netflix",
   "genres": [
     "Aksiyon",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/wc25/winx_club%3A_sihir_geri_donuyor/1/alfeada_yeni_bir_peri"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Which Fairy is Witch?",
       "diziid": "wc25",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/wc25/winx_club%3A_sihir_geri_donuyor/2/cadi_olan_peri_hangisi"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Winx Versus Trix",
       "diziid": "wc25",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/wc25/winx_club%3A_sihir_geri_donuyor/3/winx%2C_trixe_karsi"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "A Trick by the Trix",
       "diziid": "wc25",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/wc25/winx_club%3A_sihir_geri_donuyor/4/trixin_oyunu"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "The Shopping Trip",
       "diziid": "wc25",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/wc25/winx_club%3A_sihir_geri_donuyor/5/alisveris_gezisi"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Into the Woods",
       "diziid": "wc25",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/wc25/winx_club%3A_sihir_geri_donuyor/6/ormanda_kamp"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Dark Bloom",
       "diziid": "wc25",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/wc25/winx_club%3A_sihir_geri_donuyor/7/karanlik_bloom"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Rock and Roll Fairies",
       "diziid": "wc25",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/wc25/winx_club%3A_sihir_geri_donuyor/8/rock_and_roll_perileri"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "The Simulation Room",
       "diziid": "wc25",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/wc25/winx_club%3A_sihir_geri_donuyor/9/simulasyon_odasi"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Stella's New Crush",
       "diziid": "wc25",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/wc25/winx_club%3A_sihir_geri_donuyor/10/stellanin_yeni_aski"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "A New Enemy",
       "diziid": "wc25",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/wc25/winx_club%3A_sihir_geri_donuyor/11/yeni_bir_dusman"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Lightrock Fortress",
       "diziid": "wc25",
@@ -106,7 +107,7 @@
       "url": "https://cizgivedizi.com/dizi/wc25/winx_club%3A_sihir_geri_donuyor/12/isik_kalesi"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "The Power of the Dragon Flame",
       "diziid": "wc25",
@@ -114,8 +115,8 @@
       "url": "https://cizgivedizi.com/dizi/wc25/winx_club%3A_sihir_geri_donuyor/13/ejder_atesinin_gucu"
     },
     {
-      "season": 1,
-      "episode": 14,
+      "season": 2,
+      "episode": 1,
       "title": "The Truth About Bloom",
       "diziid": "wc25",
       "bolum": "14",
@@ -123,39 +124,39 @@
     },
     {
       "season": 2,
-      "episode": 15,
+      "episode": 2,
       "title": "Without Power",
       "diziid": "wc25",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/wc25/winx_club%3A_sihir_geri_donuyor/15/guclerim_olmadan"
     },
     {
-      "season": 3,
-      "episode": 16,
+      "season": 2,
+      "episode": 3,
       "title": "Damien's Choice",
       "diziid": "wc25",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/wc25/winx_club%3A_sihir_geri_donuyor/16/damien%E2%80%99in_secimi"
     },
     {
-      "season": 4,
-      "episode": 17,
+      "season": 2,
+      "episode": 4,
       "title": "The Firewall",
       "diziid": "wc25",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/wc25/winx_club%3A_sihir_geri_donuyor/17/isin_duvari"
     },
     {
-      "season": 5,
-      "episode": 18,
+      "season": 2,
+      "episode": 5,
       "title": "Alfea Under Attack",
       "diziid": "wc25",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/wc25/winx_club%3A_sihir_geri_donuyor/18/alfea_saldiri_altinda"
     },
     {
-      "season": 6,
-      "episode": 19,
+      "season": 2,
+      "episode": 6,
       "title": "The Evil Fairy",
       "diziid": "wc25",
       "bolum": "19",

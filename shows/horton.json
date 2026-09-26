@@ -3,6 +3,7 @@
   "title": "dr. seuss: horton",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/HORTONPoster.avif",
+  "plot": "Ormandaki arkadaÅŸlarÄ±nÄ±n acil yardÄ±ma ihtiyacÄ± olunca, Horton ve Samson onlara yardÄ±m etmek iÃ§in sÃ¶z veriyor. Hem de fil sÃ¶zÃ¼ ve kuÅŸ sÃ¶zÃ¼!",
   "channel": "Netflix",
   "genres": [
     "Macera",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/horton/dr._seuss%3A_horton/1/dogum_gunu_pastasi_felaketi__ucurtmayi_yakala"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Bust a Move/Snowy Situation",
       "diziid": "horton",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/horton/dr._seuss%3A_horton/2/harekete_gec__karli_durum"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Special Delivery / Ready...Set...Bath!",
       "diziid": "horton",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/horton/dr._seuss%3A_horton/3/ozel_teslimat__yerine..._hazir..._banyo%21"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "A Howl for Help/The Amazing Race",
       "diziid": "horton",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/horton/dr._seuss%3A_horton/4/yardim_cigligi__muhtesem_yaris"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Star Trek / Horton Helps a Who",
       "diziid": "horton",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/horton/dr._seuss%3A_horton/5/yildiz_gemisi__horton_kime_yardim_ediyor"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Jungle Scout Adventure / Flower Power",
       "diziid": "horton",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/horton/dr._seuss%3A_horton/6/orman_kasifi_macerasi__cicek_gucu"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Up...Up...and Away!/Nighttime Nuisance",
       "diziid": "horton",
@@ -66,8 +67,8 @@
       "url": "https://cizgivedizi.com/dizi/horton/dr._seuss%3A_horton/7/yukari..._yukari..._ve_uc%21__gece_rahatsizligi"
     },
     {
-      "season": 1,
-      "episode": 8,
+      "season": 2,
+      "episode": 1,
       "title": "Hiding Hedgehogs/Hoppy Birthday",
       "diziid": "horton",
       "bolum": "8",
@@ -75,39 +76,39 @@
     },
     {
       "season": 2,
-      "episode": 9,
+      "episode": 2,
       "title": "Star Search/Horton Helps a Caterpillar",
       "diziid": "horton",
       "bolum": "9",
       "url": "https://cizgivedizi.com/dizi/horton/dr._seuss%3A_horton/9/yildiz_arayisi__horton%2C_tirtila_yardim_ediyor"
     },
     {
-      "season": 3,
-      "episode": 10,
+      "season": 2,
+      "episode": 3,
       "title": "The Twinkleberry Tree/Runaway Stuffie",
       "diziid": "horton",
       "bolum": "10",
       "url": "https://cizgivedizi.com/dizi/horton/dr._seuss%3A_horton/10/parilti_agaci__kacak_pelus_oyuncak"
     },
     {
-      "season": 4,
-      "episode": 11,
+      "season": 2,
+      "episode": 4,
       "title": "X Marks the Spot/Message in a Bottle",
       "diziid": "horton",
       "bolum": "11",
       "url": "https://cizgivedizi.com/dizi/horton/dr._seuss%3A_horton/11/x_isaretli_yer__sisedeki_mesaj"
     },
     {
-      "season": 5,
-      "episode": 12,
+      "season": 2,
+      "episode": 5,
       "title": "Nool Grand Prix/Baby on Board",
       "diziid": "horton",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/horton/dr._seuss%3A_horton/12/nool_buyuk_yarisi__dikkat_bebek_var"
     },
     {
-      "season": 6,
-      "episode": 13,
+      "season": 2,
+      "episode": 6,
       "title": "Fish Out of Water/Hiccup Trip",
       "diziid": "horton",
       "bolum": "13",

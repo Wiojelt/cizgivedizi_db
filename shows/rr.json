@@ -3,6 +3,7 @@
   "title": "richie rich",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/RRPoster.avif",
+  "plot": "DÃ¼nyanÄ±n en zengin Ã§ocuÄŸunun maceralarÄ±.",
   "channel": "Planet Ã‡ocuk",
   "genres": [
     "Macera"
@@ -17,7 +18,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/1/soyguncu"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Reggie's Pet Monkey",
       "diziid": "rr",
@@ -25,7 +26,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/2/reggienin_maymunu"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Muscle Beach",
       "diziid": "rr",
@@ -33,7 +34,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/3/plaj_ve_ask"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Dollar's Itch",
       "diziid": "rr",
@@ -41,7 +42,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/4/dollarin_kasintisi"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "The Robotnappers",
       "diziid": "rr",
@@ -49,7 +50,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/5/irona_kacirildi"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "The Rare Scare",
       "diziid": "rr",
@@ -57,7 +58,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/6/ozel_pul"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Richie's Tan",
       "diziid": "rr",
@@ -65,7 +66,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/7/bronzlasmak_istemek"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Kitty Sitter",
       "diziid": "rr",
@@ -73,7 +74,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/8/kedi_ve_kucuk"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Richie and the Baseball Diamonds",
       "diziid": "rr",
@@ -81,7 +82,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/9/tas"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "One of Our Aircraft Carriers is Missing",
       "diziid": "rr",
@@ -89,7 +90,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/10/kayip_ucak_gemisi"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Spring Cleaning",
       "diziid": "rr",
@@ -97,7 +98,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/11/temizlik"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Richie's Stuffed Pillows",
       "diziid": "rr",
@@ -105,7 +106,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/12/minder"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "Silence is Golden",
       "diziid": "rr",
@@ -113,7 +114,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/13/milyoner_kizamigi"
     },
     {
-      "season": 14,
+      "season": 1,
       "episode": 14,
       "title": "Richie and the Wishing Well",
       "diziid": "rr",
@@ -121,7 +122,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/14/kuyu"
     },
     {
-      "season": 15,
+      "season": 1,
       "episode": 15,
       "title": "The Shocking Lady Strikes Again",
       "diziid": "rr",
@@ -129,7 +130,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/15/elektrikci"
     },
     {
-      "season": 16,
+      "season": 1,
       "episode": 16,
       "title": "The Blur",
       "diziid": "rr",
@@ -137,7 +138,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/16/sesten_hizli_robot"
     },
     {
-      "season": 17,
+      "season": 1,
       "episode": 17,
       "title": "Professor Keenbean's Super Computer",
       "diziid": "rr",
@@ -145,7 +146,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/17/dunyanin_en_zeki_bilgisayari"
     },
     {
-      "season": 18,
+      "season": 1,
       "episode": 18,
       "title": "Cur Wash",
       "diziid": "rr",
@@ -153,7 +154,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/18/banyo_gunu"
     },
     {
-      "season": 19,
+      "season": 1,
       "episode": 19,
       "title": "Robot Bank Teller",
       "diziid": "rr",
@@ -161,7 +162,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/19/10.000_dolarlik_avans"
     },
     {
-      "season": 20,
+      "season": 1,
       "episode": 20,
       "title": "The Kangaroo Hop",
       "diziid": "rr",
@@ -169,7 +170,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/20/kanguru"
     },
     {
-      "season": 21,
+      "season": 1,
       "episode": 21,
       "title": "Irona Versus Demona",
       "diziid": "rr",
@@ -177,7 +178,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/21/irona_ve_demona"
     },
     {
-      "season": 22,
+      "season": 1,
       "episode": 22,
       "title": "Richie and the Department Store Santa",
       "diziid": "rr",
@@ -185,7 +186,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/22/richie_ve_noel_baba"
     },
     {
-      "season": 23,
+      "season": 1,
       "episode": 23,
       "title": "Chef's Surprise",
       "diziid": "rr",
@@ -193,7 +194,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/23/asci_basi_ve_dollar"
     },
     {
-      "season": 24,
+      "season": 1,
       "episode": 24,
       "title": "Richie's Art Gallery",
       "diziid": "rr",
@@ -201,7 +202,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/24/richienin_resim_galerisi"
     },
     {
-      "season": 25,
+      "season": 1,
       "episode": 25,
       "title": "The Snow Bounders",
       "diziid": "rr",
@@ -209,7 +210,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/25/ani_sogutma_sistemi"
     },
     {
-      "season": 26,
+      "season": 1,
       "episode": 26,
       "title": "The Abominable Snow Plan",
       "diziid": "rr",
@@ -217,7 +218,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/26/piknik_bozma_planlari"
     },
     {
-      "season": 27,
+      "season": 1,
       "episode": 27,
       "title": "Richie's Camping Trip",
       "diziid": "rr",
@@ -225,7 +226,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/27/kamp_kurmak"
     },
     {
-      "season": 28,
+      "season": 1,
       "episode": 28,
       "title": "Miss Robot America",
       "diziid": "rr",
@@ -233,7 +234,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/28/brutus"
     },
     {
-      "season": 29,
+      "season": 1,
       "episode": 29,
       "title": "Richie Feeds his Goldfish",
       "diziid": "rr",
@@ -241,7 +242,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/29/richie_baligini_besliyor"
     },
     {
-      "season": 30,
+      "season": 1,
       "episode": 30,
       "title": "Constructo",
       "diziid": "rr",
@@ -249,7 +250,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/30/constructo"
     },
     {
-      "season": 31,
+      "season": 1,
       "episode": 31,
       "title": "Counterfeit Dollar",
       "diziid": "rr",
@@ -257,7 +258,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/31/sahte_dollar"
     },
     {
-      "season": 32,
+      "season": 1,
       "episode": 32,
       "title": "Gloria's Birthday",
       "diziid": "rr",
@@ -265,7 +266,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/32/glorianin_dogum_gunu_hediyesi"
     },
     {
-      "season": 33,
+      "season": 1,
       "episode": 33,
       "title": "The Greatest Invention in the World",
       "diziid": "rr",
@@ -273,7 +274,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/33/dunya_tarihinin_en_buyuk_icadi"
     },
     {
-      "season": 34,
+      "season": 1,
       "episode": 34,
       "title": "Winslow's Visit",
       "diziid": "rr",
@@ -281,7 +282,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/34/winslowun_ziyareti"
     },
     {
-      "season": 35,
+      "season": 1,
       "episode": 35,
       "title": "Who's Afraid of the Big Bad Bug?",
       "diziid": "rr",
@@ -289,7 +290,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/35/kim_korkar_bocekten"
     },
     {
-      "season": 36,
+      "season": 1,
       "episode": 36,
       "title": "Poor Little Richbillies",
       "diziid": "rr",
@@ -297,7 +298,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/36/richienin_fakir_akrabalari"
     },
     {
-      "season": 37,
+      "season": 1,
       "episode": 37,
       "title": "Richie's Birdhouse",
       "diziid": "rr",
@@ -305,7 +306,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/37/richienin_kus_evi"
     },
     {
-      "season": 38,
+      "season": 1,
       "episode": 38,
       "title": "Chowhound",
       "diziid": "rr",
@@ -313,7 +314,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/38/kopek_mamasi_fabrikasi"
     },
     {
-      "season": 39,
+      "season": 1,
       "episode": 39,
       "title": "Lunch Bag",
       "diziid": "rr",
@@ -321,7 +322,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/39/kese_kagidi"
     },
     {
-      "season": 40,
+      "season": 1,
       "episode": 40,
       "title": "Mystery Mountain",
       "diziid": "rr",
@@ -329,7 +330,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/40/gizemli_dag"
     },
     {
-      "season": 41,
+      "season": 1,
       "episode": 41,
       "title": "Wiped Out!",
       "diziid": "rr",
@@ -337,7 +338,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/41/mahvolduk"
     },
     {
-      "season": 42,
+      "season": 1,
       "episode": 42,
       "title": "Richie's Telephone",
       "diziid": "rr",
@@ -345,7 +346,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/42/richienin_telefonu"
     },
     {
-      "season": 43,
+      "season": 1,
       "episode": 43,
       "title": "Welcome, Uncle Cautious",
       "diziid": "rr",
@@ -353,7 +354,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/43/tedbirli_amca"
     },
     {
-      "season": 44,
+      "season": 1,
       "episode": 44,
       "title": "Richie's Artificial Planet",
       "diziid": "rr",
@@ -361,7 +362,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/44/richienin_ozel_uydusu"
     },
     {
-      "season": 45,
+      "season": 1,
       "episode": 45,
       "title": "Disaster Master",
       "diziid": "rr",
@@ -369,7 +370,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/45/felaket_tellali"
     },
     {
-      "season": 46,
+      "season": 1,
       "episode": 46,
       "title": "The Most Unforgettable Butler",
       "diziid": "rr",
@@ -377,7 +378,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/46/cadbury_kacirildi"
     },
     {
-      "season": 47,
+      "season": 1,
       "episode": 47,
       "title": "Richie on a Game Show",
       "diziid": "rr",
@@ -385,7 +386,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/47/gizli_konuk"
     },
     {
-      "season": 48,
+      "season": 1,
       "episode": 48,
       "title": "T.V. Dollar",
       "diziid": "rr",
@@ -393,7 +394,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/48/dollar_ve_televizyon_reklami"
     },
     {
-      "season": 49,
+      "season": 1,
       "episode": 49,
       "title": "Dollar and the Eye Chart",
       "diziid": "rr",
@@ -401,7 +402,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/49/dollar_ve_goz_kontrolu"
     },
     {
-      "season": 50,
+      "season": 1,
       "episode": 50,
       "title": "Disappearing Dignitaries",
       "diziid": "rr",
@@ -409,7 +410,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/50/kacirilan_delegeler"
     },
     {
-      "season": 51,
+      "season": 1,
       "episode": 51,
       "title": "Prankster Beware",
       "diziid": "rr",
@@ -417,7 +418,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/51/sakalar_ve_hirsizlar"
     },
     {
-      "season": 52,
+      "season": 1,
       "episode": 52,
       "title": "Clothes Make the Butler",
       "diziid": "rr",
@@ -425,7 +426,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/52/cadbury_ve_elbise"
     },
     {
-      "season": 53,
+      "season": 1,
       "episode": 53,
       "title": "Phantom of the Movies",
       "diziid": "rr",
@@ -433,7 +434,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/53/tin_tin_can"
     },
     {
-      "season": 54,
+      "season": 1,
       "episode": 54,
       "title": "Cave Boy Richie",
       "diziid": "rr",
@@ -441,7 +442,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/54/zamanda_yolculuk"
     },
     {
-      "season": 55,
+      "season": 1,
       "episode": 55,
       "title": "Movie Theater",
       "diziid": "rr",
@@ -449,7 +450,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/55/sinema_bileti"
     },
     {
-      "season": 56,
+      "season": 1,
       "episode": 56,
       "title": "Young Irona",
       "diziid": "rr",
@@ -457,7 +458,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/56/cocuk_irona"
     },
     {
-      "season": 57,
+      "season": 1,
       "episode": 57,
       "title": "Richie's Farm",
       "diziid": "rr",
@@ -465,7 +466,7 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/57/richienin_ciftligi"
     },
     {
-      "season": 58,
+      "season": 1,
       "episode": 58,
       "title": "The Great Charity Train Robbery",
       "diziid": "rr",
@@ -473,344 +474,344 @@
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/58/yardim_treni_soygunu"
     },
     {
-      "season": 21,
-      "episode": 59,
+      "season": 2,
+      "episode": 1,
       "title": "Bye-Bye Baby",
       "diziid": "rr",
       "bolum": "79",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/79/bebek"
     },
     {
-      "season": 22,
-      "episode": 60,
+      "season": 2,
+      "episode": 2,
       "title": "Reggie and the Golf Ball",
       "diziid": "rr",
       "bolum": "80",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/80/super_golf_topu"
     },
     {
-      "season": 23,
-      "episode": 61,
+      "season": 2,
+      "episode": 3,
       "title": "A Special Talent",
       "diziid": "rr",
       "bolum": "81",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/81/dollarin_yetenegi"
     },
     {
-      "season": 24,
-      "episode": 62,
+      "season": 2,
+      "episode": 4,
       "title": "Richie and the Giant Band-Aid",
       "diziid": "rr",
       "bolum": "82",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/82/dunyanin_en_buyuk_yara_bandi"
     },
     {
-      "season": 25,
-      "episode": 63,
+      "season": 2,
+      "episode": 5,
       "title": "Richie's Jellybeans",
       "diziid": "rr",
       "bolum": "83",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/83/fasulye_sekeri"
     },
     {
-      "season": 26,
-      "episode": 64,
+      "season": 2,
+      "episode": 6,
       "title": "Richie's Robot Milkshake Maker",
       "diziid": "rr",
       "bolum": "84",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/84/milkshake_yapan_robot"
     },
     {
-      "season": 27,
-      "episode": 65,
+      "season": 2,
+      "episode": 7,
       "title": "Villains Incorporated",
       "diziid": "rr",
       "bolum": "85",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/85/super_robot"
     },
     {
-      "season": 19,
-      "episode": 66,
+      "season": 3,
+      "episode": 1,
       "title": "Born Flea",
       "diziid": "rr",
       "bolum": "104",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/104/pire"
     },
     {
-      "season": 20,
-      "episode": 67,
+      "season": 3,
+      "episode": 2,
       "title": "Gloria and the Money Plant",
       "diziid": "rr",
       "bolum": "105",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/105/para_bitkisi"
     },
     {
-      "season": 21,
-      "episode": 68,
+      "season": 3,
+      "episode": 3,
       "title": "How Human!",
       "diziid": "rr",
       "bolum": "106",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/106/alkislanmak_icin"
     },
     {
-      "season": 22,
-      "episode": 69,
+      "season": 3,
+      "episode": 4,
       "title": "The Collector",
       "diziid": "rr",
       "bolum": "107",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/107/koleksiyoncu"
     },
     {
-      "season": 23,
-      "episode": 70,
+      "season": 3,
+      "episode": 5,
       "title": "The Midas Touch",
       "diziid": "rr",
       "bolum": "108",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/108/midas_dokunusu"
     },
     {
-      "season": 24,
-      "episode": 71,
+      "season": 3,
+      "episode": 6,
       "title": "Richie and the Ball Room",
       "diziid": "rr",
       "bolum": "109",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/109/richie_ve_oyun_odasi"
     },
     {
-      "season": 25,
-      "episode": 72,
+      "season": 3,
+      "episode": 7,
       "title": "Dignified Doggie",
       "diziid": "rr",
       "bolum": "110",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/110/saygi_duyulmasi_gereken_kopek"
     },
     {
-      "season": 26,
-      "episode": 73,
+      "season": 3,
+      "episode": 8,
       "title": "The Genie With the Light Brown Hair",
       "diziid": "rr",
       "bolum": "111",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/111/ali_babanin_hazinesi"
     },
     {
-      "season": 27,
-      "episode": 74,
+      "season": 3,
+      "episode": 9,
       "title": "Mayda Munny",
       "diziid": "rr",
       "bolum": "112",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/112/mayda_munny"
     },
     {
-      "season": 28,
-      "episode": 75,
+      "season": 3,
+      "episode": 10,
       "title": "Coin Flipper",
       "diziid": "rr",
       "bolum": "113",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/113/yazi_tura"
     },
     {
-      "season": 29,
-      "episode": 76,
+      "season": 3,
+      "episode": 11,
       "title": "Busy Butler",
       "diziid": "rr",
       "bolum": "114",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/114/mesgul_hizmetkar"
     },
     {
-      "season": 30,
-      "episode": 77,
+      "season": 3,
+      "episode": 12,
       "title": "The Haunting of Castle Rich",
       "diziid": "rr",
       "bolum": "115",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/115/lanetli_sato"
     },
     {
-      "season": 31,
-      "episode": 78,
+      "season": 3,
+      "episode": 13,
       "title": "Suavo",
       "diziid": "rr",
       "bolum": "116",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/116/suavo"
     },
     {
-      "season": 32,
-      "episode": 79,
+      "season": 3,
+      "episode": 14,
       "title": "Gloria and the Sugar Bowl",
       "diziid": "rr",
       "bolum": "117",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/117/seker_kutusu"
     },
     {
-      "season": 33,
-      "episode": 80,
+      "season": 3,
+      "episode": 15,
       "title": "Shoe Biz",
       "diziid": "rr",
       "bolum": "118",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/118/dollar_icin_ayakkabi"
     },
     {
-      "season": 34,
-      "episode": 81,
+      "season": 3,
+      "episode": 16,
       "title": "The Giant Ape Caper",
       "diziid": "rr",
       "bolum": "119",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/119/buyume_formulu"
     },
     {
-      "season": 35,
-      "episode": 82,
+      "season": 3,
+      "episode": 17,
       "title": "The Pie-Eyed Piper",
       "diziid": "rr",
       "bolum": "120",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/120/pie-eyed_piper"
     },
     {
-      "season": 36,
-      "episode": 83,
+      "season": 3,
+      "episode": 18,
       "title": "Giant Pearl",
       "diziid": "rr",
       "bolum": "121",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/121/dev_inci"
     },
     {
-      "season": 37,
-      "episode": 84,
+      "season": 3,
+      "episode": 19,
       "title": "Guard Dog",
       "diziid": "rr",
       "bolum": "122",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/122/bekci_kopegi"
     },
     {
-      "season": 38,
-      "episode": 85,
+      "season": 3,
+      "episode": 20,
       "title": "Richie Goes to Shirik",
       "diziid": "rr",
       "bolum": "123",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/123/kayip_sultan"
     },
     {
-      "season": 39,
-      "episode": 86,
+      "season": 3,
+      "episode": 21,
       "title": "Boy of the Year",
       "diziid": "rr",
       "bolum": "124",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/124/yilin_cocugu"
     },
     {
-      "season": 40,
-      "episode": 87,
+      "season": 3,
+      "episode": 22,
       "title": "Robot Bug Guards",
       "diziid": "rr",
       "bolum": "125",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/125/robot_bocek_muhafizlari"
     },
     {
-      "season": 41,
-      "episode": 88,
+      "season": 3,
+      "episode": 23,
       "title": "I Say You All",
       "diziid": "rr",
       "bolum": "126",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/126/iyi_usak_cadbury"
     },
     {
-      "season": 42,
-      "episode": 89,
+      "season": 3,
+      "episode": 24,
       "title": "The Youth Maker",
       "diziid": "rr",
       "bolum": "127",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/127/genclik_makinesi"
     },
     {
-      "season": 43,
-      "episode": 90,
+      "season": 3,
+      "episode": 25,
       "title": "Everybody's Doing It",
       "diziid": "rr",
       "bolum": "128",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/128/sakiz"
     },
     {
-      "season": 44,
-      "episode": 91,
+      "season": 3,
+      "episode": 26,
       "title": "Richie's Cube",
       "diziid": "rr",
       "bolum": "129",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/129/kup"
     },
     {
-      "season": 45,
-      "episode": 92,
+      "season": 3,
+      "episode": 27,
       "title": "Dollar's Exercise",
       "diziid": "rr",
       "bolum": "130",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/130/en_hizli_kopek"
     },
     {
-      "season": 46,
-      "episode": 93,
+      "season": 3,
+      "episode": 28,
       "title": "The Maltese Monkey",
       "diziid": "rr",
       "bolum": "131",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/131/malta_maymunu"
     },
     {
-      "season": 47,
-      "episode": 94,
+      "season": 3,
+      "episode": 29,
       "title": "Look A-Like",
       "diziid": "rr",
       "bolum": "132",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/132/tipatip"
     },
     {
-      "season": 48,
-      "episode": 95,
+      "season": 3,
+      "episode": 30,
       "title": "Gold Frame",
       "diziid": "rr",
       "bolum": "133",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/133/altin_cerceve"
     },
     {
-      "season": 49,
-      "episode": 96,
+      "season": 3,
+      "episode": 31,
       "title": "Hard to Study",
       "diziid": "rr",
       "bolum": "134",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/134/richienin_makalesi"
     },
     {
-      "season": 50,
-      "episode": 97,
+      "season": 3,
+      "episode": 32,
       "title": "Sky Hook",
       "diziid": "rr",
       "bolum": "135",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/135/sky_hook"
     },
     {
-      "season": 1,
-      "episode": 98,
+      "season": 4,
+      "episode": 1,
       "title": "The T.V. Phantom",
       "diziid": "rr",
       "bolum": "136",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/136/televizyon_hayaleti"
     },
     {
-      "season": 2,
-      "episode": 99,
+      "season": 4,
+      "episode": 2,
       "title": "Richie Hood",
       "diziid": "rr",
       "bolum": "137",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/137/richie_hood"
     },
     {
-      "season": 5,
-      "episode": 100,
+      "season": 4,
+      "episode": 3,
       "title": "The Snowman Cometh",
       "diziid": "rr",
       "bolum": "140",
       "url": "https://cizgivedizi.com/dizi/rr/richie_rich/140/karsi_konulmaz_karlar_seytani"
     },
     {
-      "season": 6,
-      "episode": 101,
+      "season": 4,
+      "episode": 4,
       "title": "The Ends of the Earth",
       "diziid": "rr",
       "bolum": "141",

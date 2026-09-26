@@ -3,6 +3,7 @@
   "title": "dahilerin rekabeti",
   "type": "other",
   "poster": "https://cizgivedizi.com/resim/DAHRPoster.avif",
+  "plot": "Bu belgesel, elektrikten tutun da bilgisayarlarÄ±n geliÅŸtirilmesine kadar, icatlarÄ±yla yaÅŸadÄ±ÄŸÄ±mÄ±zÄ± dÃ¼nyayÄ± temelli deÄŸiÅŸtiren dÃ¢hilerin hikayelerini anlatÄ±yor.",
   "channel": "Da Vinci",
   "genres": [
     "Tarihi",
@@ -10,7 +11,7 @@
   ],
   "episodes": [
     {
-      "season": 2,
+      "season": 1,
       "episode": 1,
       "title": "Wright Brothers vs. Curtiss",
       "diziid": "dahr",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/dahr/dahilerin_rekabeti/2/wright_kardesler%2C_curtisse_karsi"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 2,
       "title": "Farnsworth vs. Sarnoff",
       "diziid": "dahr",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/dahr/dahilerin_rekabeti/3/farnsworth%2C_sarnoffa_karsi"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 3,
       "title": "Hearst vs. Pulitzer",
       "diziid": "dahr",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/dahr/dahilerin_rekabeti/4/hearst%2C_pulitzera_karsi"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 4,
       "title": "Space Race",
       "diziid": "dahr",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/dahr/dahilerin_rekabeti/5/amerika%2C_sovyetler_birligine_karsi"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 5,
       "title": "Oppenheimer vs. Heisenberg",
       "diziid": "dahr",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/dahr/dahilerin_rekabeti/7/oppenheimer%2C_heisenberge_karsi"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 6,
       "title": "Edison vs. Tesla",
       "diziid": "dahr",

@@ -3,6 +3,7 @@
   "title": "mumya",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/MUMMPoster.avif",
+  "plot": "Alex adÄ±nda bir Ã§ocuk ve arkeolog ebeveynlerinin maceralarÄ±!",
   "channel": "Bilinmiyor",
   "genres": [
     "Korku",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/1/davet"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "A Candle in the Darkness",
       "diziid": "mumm",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/2/karanlikta_bir_mum"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Against the Elements",
       "diziid": "mumm",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/3/hava_sartlarina_karsi"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "The Deep Blue Sea",
       "diziid": "mumm",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/4/derin_mavi_deniz"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Eruption",
       "diziid": "mumm",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/5/patlama"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Orb of Aten",
       "diziid": "mumm",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/6/atenin_kuresi"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "The Black Forest",
       "diziid": "mumm",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/7/kara_orman"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "The Cloud People",
       "diziid": "mumm",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/8/bulut_insanlar"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 9,
       "title": "Howl",
       "diziid": "mumm",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/11/uluma"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 10,
       "title": "The Puzzle",
       "diziid": "mumm",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/12/bulmaca"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 11,
       "title": "The Maze",
       "diziid": "mumm",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/13/labirent"
     },
     {
-      "season": 14,
+      "season": 1,
       "episode": 12,
       "title": "A New Beginning: Part 1",
       "diziid": "mumm",
@@ -106,7 +107,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/14/yeni_bir_baslangic_1.bolum"
     },
     {
-      "season": 15,
+      "season": 1,
       "episode": 13,
       "title": "A New Beginning: Part 2",
       "diziid": "mumm",
@@ -114,7 +115,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/15/yeni_bir_baslangic_2.bolum"
     },
     {
-      "season": 17,
+      "season": 1,
       "episode": 14,
       "title": "Like Father, Like Son",
       "diziid": "mumm",
@@ -122,7 +123,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/17/babasinin_oglu"
     },
     {
-      "season": 18,
+      "season": 1,
       "episode": 15,
       "title": "A Fair to Remember",
       "diziid": "mumm",
@@ -130,7 +131,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/18/unutulmaz_bir_panayir"
     },
     {
-      "season": 19,
+      "season": 1,
       "episode": 16,
       "title": "The Enemy of My Enemy",
       "diziid": "mumm",
@@ -138,7 +139,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/19/dusmanimin_dusmani"
     },
     {
-      "season": 20,
+      "season": 1,
       "episode": 17,
       "title": "The Cold",
       "diziid": "mumm",
@@ -146,7 +147,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/20/soguk"
     },
     {
-      "season": 21,
+      "season": 1,
       "episode": 18,
       "title": "Time Before Time",
       "diziid": "mumm",
@@ -154,7 +155,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/21/zamandan_onceki_zaman"
     },
     {
-      "season": 22,
+      "season": 1,
       "episode": 19,
       "title": "Spring of Evil",
       "diziid": "mumm",
@@ -162,7 +163,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/22/kotuluk_kaynagi"
     },
     {
-      "season": 24,
+      "season": 1,
       "episode": 20,
       "title": "Old Friends",
       "diziid": "mumm",
@@ -170,7 +171,7 @@
       "url": "https://cizgivedizi.com/dizi/mumm/mumya/24/eski_arkadaslar"
     },
     {
-      "season": 26,
+      "season": 1,
       "episode": 21,
       "title": "The Reckoning",
       "diziid": "mumm",

@@ -3,6 +3,7 @@
   "title": "daniel spellbound",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/DANSPPoster.avif",
+  "plot": "New York'ta genÃ§ bir iz sÃ¼rÃ¼cÃ¼, bulunmasÄ± zor mistik eÅŸyalarÄ± bÃ¼yÃ¼cÃ¼lere satarak geÃ§imini saÄŸlamaktadÄ±r. Ancak sihirle uÄŸraÅŸmak riskli bir iÅŸ olabilir.",
   "channel": "Netflix",
   "genres": [
     "Fantastik",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/dansp/daniel_spellbound/1/kanunsuz_eller"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "D Is for Dungeon",
       "diziid": "dansp",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/dansp/daniel_spellbound/2/k_harfi_kodesten_geliyor"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "The Cheat Code",
       "diziid": "dansp",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/dansp/daniel_spellbound/3/hile_kodu"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Under the Open Waters",
       "diziid": "dansp",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/dansp/daniel_spellbound/4/acik_denizin_altinda"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "I Will Win Your Heart",
       "diziid": "dansp",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/dansp/daniel_spellbound/5/kalbinizi_kazanacagim"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Look What I Got",
       "diziid": "dansp",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/dansp/daniel_spellbound/6/bak_bende_ne_var"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Big Fat Nope",
       "diziid": "dansp",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/dansp/daniel_spellbound/7/kesinlikle_hayir"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "How Dare You",
       "diziid": "dansp",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/dansp/daniel_spellbound/8/bu_ne_curet%21"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "A Sandwich of Evil",
       "diziid": "dansp",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/dansp/daniel_spellbound/9/kotuluk_sandvici"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Hold On Tight",
       "diziid": "dansp",
@@ -90,8 +91,8 @@
       "url": "https://cizgivedizi.com/dizi/dansp/daniel_spellbound/10/siki_tutunun"
     },
     {
-      "season": 1,
-      "episode": 11,
+      "season": 2,
+      "episode": 1,
       "title": "Swing Batter Batter",
       "diziid": "dansp",
       "bolum": "11",
@@ -99,71 +100,71 @@
     },
     {
       "season": 2,
-      "episode": 12,
+      "episode": 2,
       "title": "A Secret for a Secret",
       "diziid": "dansp",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/dansp/daniel_spellbound/12/bir_sirra_karsi_bir_sir"
     },
     {
-      "season": 3,
-      "episode": 13,
+      "season": 2,
+      "episode": 3,
       "title": "The Hidden Island",
       "diziid": "dansp",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/dansp/daniel_spellbound/13/gizli_ada"
     },
     {
-      "season": 4,
-      "episode": 14,
+      "season": 2,
+      "episode": 4,
       "title": "The Tickle Pit",
       "diziid": "dansp",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/dansp/daniel_spellbound/14/gidiklama_cukuru"
     },
     {
-      "season": 5,
-      "episode": 15,
+      "season": 2,
+      "episode": 5,
       "title": "Witches Only",
       "diziid": "dansp",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/dansp/daniel_spellbound/15/sadece_cadilar"
     },
     {
-      "season": 6,
-      "episode": 16,
+      "season": 2,
+      "episode": 6,
       "title": "Break On Through",
       "diziid": "dansp",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/dansp/daniel_spellbound/16/oteki_tarafa_gecmek"
     },
     {
-      "season": 7,
-      "episode": 17,
+      "season": 2,
+      "episode": 7,
       "title": "Gizmos and Death Traps",
       "diziid": "dansp",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/dansp/daniel_spellbound/17/ivir_zivir_ve_olum_tuzaklari"
     },
     {
-      "season": 8,
-      "episode": 18,
+      "season": 2,
+      "episode": 8,
       "title": "The Final Trial",
       "diziid": "dansp",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/dansp/daniel_spellbound/18/son_sinav"
     },
     {
-      "season": 9,
-      "episode": 19,
+      "season": 2,
+      "episode": 9,
       "title": "The Scepter and the Sacrifice",
       "diziid": "dansp",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/dansp/daniel_spellbound/19/asa_ve_fedakarlik"
     },
     {
-      "season": 10,
-      "episode": 20,
+      "season": 2,
+      "episode": 10,
       "title": "You've Looked Better",
       "diziid": "dansp",
       "bolum": "20",

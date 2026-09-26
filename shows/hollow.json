@@ -3,6 +3,7 @@
   "title": "hollow",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/HOLLOWPoster.avif",
+  "plot": "BÃ¼yÃ¼lÃ¼ portallar, kafa karÄ±ÅŸtÄ±rÄ±cÄ± bilmeceler ve korkunÃ§ yaratÄ±klarla dolu garip bir dÃ¼nyada uyanan Ã¼Ã§ genÃ§, eve dÃ¶nÃ¼ÅŸ yolunu bulmak iÃ§in iÅŸ birliÄŸi yapar.",
   "channel": "Netflix",
   "genres": [
     "Bilim Kurgu",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/hollow/hollow/1/oda"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "The Desert",
       "diziid": "hollow",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/hollow/hollow/2/col"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Apocalypse",
       "diziid": "hollow",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/hollow/hollow/3/mahser"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "The Lighthouse",
       "diziid": "hollow",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/hollow/hollow/4/deniz_feneri"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Ishibo",
       "diziid": "hollow",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/hollow/hollow/5/ishibo"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Undead",
       "diziid": "hollow",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/hollow/hollow/6/zombiler"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "The Riddle",
       "diziid": "hollow",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/hollow/hollow/7/bilmece"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Ice",
       "diziid": "hollow",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/hollow/hollow/8/buz"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Cocoon",
       "diziid": "hollow",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/hollow/hollow/9/orumcek_agi"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Colrath",
       "diziid": "hollow",
@@ -90,8 +91,8 @@
       "url": "https://cizgivedizi.com/dizi/hollow/hollow/10/colrath"
     },
     {
-      "season": 1,
-      "episode": 11,
+      "season": 2,
+      "episode": 1,
       "title": "Home",
       "diziid": "hollow",
       "bolum": "11",
@@ -99,71 +100,71 @@
     },
     {
       "season": 2,
-      "episode": 12,
+      "episode": 2,
       "title": "Hollow Games",
       "diziid": "hollow",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/hollow/hollow/12/hollow_oyunlari"
     },
     {
-      "season": 3,
-      "episode": 13,
+      "season": 2,
+      "episode": 3,
       "title": "The Return",
       "diziid": "hollow",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/hollow/hollow/13/donus"
     },
     {
-      "season": 4,
-      "episode": 14,
+      "season": 2,
+      "episode": 4,
       "title": "Puzzles",
       "diziid": "hollow",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/hollow/hollow/14/bilmeceler"
     },
     {
-      "season": 5,
-      "episode": 15,
+      "season": 2,
+      "episode": 5,
       "title": "Alchemy",
       "diziid": "hollow",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/hollow/hollow/15/simya"
     },
     {
-      "season": 6,
-      "episode": 16,
+      "season": 2,
+      "episode": 6,
       "title": "Dead End",
       "diziid": "hollow",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/hollow/hollow/16/cikmaz"
     },
     {
-      "season": 7,
-      "episode": 17,
+      "season": 2,
+      "episode": 7,
       "title": "Unbalanced",
       "diziid": "hollow",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/hollow/hollow/17/denge"
     },
     {
-      "season": 8,
-      "episode": 18,
+      "season": 2,
+      "episode": 8,
       "title": "Fang",
       "diziid": "hollow",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/hollow/hollow/18/dis"
     },
     {
-      "season": 9,
-      "episode": 19,
+      "season": 2,
+      "episode": 9,
       "title": "Fire",
       "diziid": "hollow",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/hollow/hollow/19/yangin"
     },
     {
-      "season": 10,
-      "episode": 20,
+      "season": 2,
+      "episode": 10,
       "title": "Race",
       "diziid": "hollow",
       "bolum": "20",

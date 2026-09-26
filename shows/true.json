@@ -3,6 +3,7 @@
   "title": "true ve gÃ¶kkuÅŸaÄŸÄ± krallÄ±ÄŸÄ±",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/TRUEPoster.avif",
+  "plot": "GÃ¶kkuÅŸaÄŸÄ± KrallÄ±ÄŸÄ±'nda bir sorun olduÄŸunda iyi kalpli koruyucu True ve en iyi arkadaÅŸÄ± Bartleby dilekleri gerÃ§ekleÅŸtirip gÃ¼nÃ¼ kurtarÄ±r.",
   "channel": "Netflix",
   "genres": [
     "Fantastik"
@@ -17,7 +18,7 @@
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/1/super_dans_partisi"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Frookie Sitting",
       "diziid": "true",
@@ -25,7 +26,7 @@
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/2/frookie_oturumu"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Zappy Cling!",
       "diziid": "true",
@@ -33,7 +34,7 @@
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/3/neseli_sarilma"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Zip Zap Zooooom!",
       "diziid": "true",
@@ -41,7 +42,7 @@
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/4/zip_zap_zooooom%21"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "A Royal Stink",
       "diziid": "true",
@@ -49,7 +50,7 @@
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/5/krallara_layik_kotu_koku"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Great Grizmos!",
       "diziid": "true",
@@ -57,7 +58,7 @@
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/6/buyuk_grizmolar%21"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Little Helpers",
       "diziid": "true",
@@ -65,7 +66,7 @@
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/7/kucuk_yardimcilar"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Wishing Heart Hollow",
       "diziid": "true",
@@ -73,7 +74,7 @@
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/8/dilek_kalbi_oyugu"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "The Kittynati",
       "diziid": "true",
@@ -81,7 +82,7 @@
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/9/kittyminati"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "A Berry Big Mystery",
       "diziid": "true",
@@ -89,8 +90,8 @@
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/10/buyuk_bir_meyveli_gizem"
     },
     {
-      "season": 1,
-      "episode": 11,
+      "season": 2,
+      "episode": 1,
       "title": "Princess Grizbot",
       "diziid": "true",
       "bolum": "11",
@@ -98,87 +99,87 @@
     },
     {
       "season": 2,
-      "episode": 12,
+      "episode": 2,
       "title": "Hino Tari Hullabaloo",
       "diziid": "true",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/12/hadi_hop_yaygara"
     },
     {
-      "season": 3,
-      "episode": 13,
+      "season": 2,
+      "episode": 3,
       "title": "Queens of the Day and Night",
       "diziid": "true",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/13/gece_ve_gunduzun_kraliceleri"
     },
     {
-      "season": 4,
-      "episode": 14,
+      "season": 2,
+      "episode": 4,
       "title": "True Switcheroo",
       "diziid": "true",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/14/true_degisiyoroo"
     },
     {
-      "season": 5,
-      "episode": 15,
+      "season": 2,
+      "episode": 5,
       "title": "Fee Fi Fo Frookie!",
       "diziid": "true",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/15/fi_fa_fo_frookie"
     },
     {
-      "season": 6,
-      "episode": 16,
+      "season": 2,
+      "episode": 6,
       "title": "The Living Sea",
       "diziid": "true",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/16/yasayan_deniz"
     },
     {
-      "season": 7,
-      "episode": 17,
+      "season": 2,
+      "episode": 7,
       "title": "Cosmic Sneeze",
       "diziid": "true",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/17/kozmik_hapsirik"
     },
     {
-      "season": 8,
-      "episode": 18,
+      "season": 2,
+      "episode": 8,
       "title": "Woo-Woo Sky Blubbs",
       "diziid": "true",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/18/vu_vu_gok_balonlari"
     },
     {
-      "season": 9,
-      "episode": 19,
+      "season": 2,
+      "episode": 9,
       "title": "Wish Gone Wild",
       "diziid": "true",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/19/dilek_raydan_cikiyor"
     },
     {
-      "season": 10,
-      "episode": 20,
+      "season": 2,
+      "episode": 10,
       "title": "Big Mossy Mess",
       "diziid": "true",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/20/buyuk_yosun_karisikligi"
     },
     {
-      "season": 1,
-      "episode": 21,
+      "season": 3,
+      "episode": 1,
       "title": "Where's Cumulo?",
       "diziid": "true",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/21/cumulo_nerede"
     },
     {
-      "season": 2,
-      "episode": 22,
+      "season": 3,
+      "episode": 2,
       "title": "A Snoozy Sleepover",
       "diziid": "true",
       "bolum": "22",
@@ -186,111 +187,111 @@
     },
     {
       "season": 3,
-      "episode": 23,
+      "episode": 3,
       "title": "True's Birthday Party",
       "diziid": "true",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/23/truenun_dogum_gunu_partisi"
     },
     {
-      "season": 4,
-      "episode": 24,
+      "season": 3,
+      "episode": 4,
       "title": "The Big Green Bounce",
       "diziid": "true",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/24/buyuk_yesil_zip_zip"
     },
     {
-      "season": 5,
-      "episode": 25,
+      "season": 3,
+      "episode": 5,
       "title": "Itty Bitty Yeti",
       "diziid": "true",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/25/minik_koca_ayaklar"
     },
     {
-      "season": 6,
-      "episode": 26,
+      "season": 3,
+      "episode": 6,
       "title": "Yeti Sitting",
       "diziid": "true",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/26/koca_ayak_bakicilari"
     },
     {
-      "season": 7,
-      "episode": 27,
+      "season": 3,
+      "episode": 7,
       "title": "Mount Huffinpuff",
       "diziid": "true",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/27/of_puf_dagi"
     },
     {
-      "season": 8,
-      "episode": 28,
+      "season": 3,
+      "episode": 8,
       "title": "Scratch and Share",
       "diziid": "true",
       "bolum": "28",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/28/kasi_ve_paylas"
     },
     {
-      "season": 9,
-      "episode": 29,
+      "season": 3,
+      "episode": 9,
       "title": "The Ni Ni Tree",
       "diziid": "true",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/29/ni_ni_agaci"
     },
     {
-      "season": 1,
-      "episode": 30,
+      "season": 4,
+      "episode": 1,
       "title": "Happy Hearts Day",
       "diziid": "true",
       "bolum": "0",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/0/mutlu_kalpler_gunu"
     },
     {
-      "season": 1,
-      "episode": 31,
+      "season": 4,
+      "episode": 2,
       "title": "Tricky Treat Day",
       "diziid": "true",
       "bolum": "0",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/0/cadilar_bayrami_sekerleri"
     },
     {
-      "season": 1,
-      "episode": 32,
+      "season": 4,
+      "episode": 3,
       "title": "Grabbleapple Harvest",
       "diziid": "true",
       "bolum": "0",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/0/elma_hasadi"
     },
     {
-      "season": 1,
-      "episode": 33,
+      "season": 4,
+      "episode": 4,
       "title": "Winter Wishes",
       "diziid": "true",
       "bolum": "0",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/0/kis_dilekleri"
     },
     {
-      "season": 1,
-      "episode": 34,
+      "season": 4,
+      "episode": 5,
       "title": "Wuzzle Wegg Day",
       "diziid": "true",
       "bolum": "0",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/0/vazil_veg_gunu"
     },
     {
-      "season": 1,
-      "episode": 35,
+      "season": 4,
+      "episode": 6,
       "title": "Rainbow Rescue",
       "diziid": "true",
       "bolum": "0",
       "url": "https://cizgivedizi.com/dizi/true/true_ve_gokkusagi_kralligi/0/gokkusagi_kurtarma_operasyonu"
     },
     {
-      "season": 1,
-      "episode": 36,
+      "season": 4,
+      "episode": 7,
       "title": "Friendship Day",
       "diziid": "true",
       "bolum": "0",

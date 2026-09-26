@@ -3,6 +3,7 @@
   "title": "lost",
   "type": "dizi",
   "poster": "https://cizgivedizi.com/resim/LOSTPoster.avif",
+  "plot": "Adaya geri dÃ¶nÃ¼n ve Oceanic 815 uÃ§uÅŸunun mahsur kalan yolcularÄ± evlerine dÃ¶nmeye Ã§alÄ±ÅŸÄ±rken onlara katÄ±lÄ±n.",
   "channel": "Disney+",
   "genres": [
     "Dram",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/1/pilot_kisim_1__2"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Pilot: Part 2",
       "diziid": "lost",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/2/pilot_kisim_2__2"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Tabula Rasa",
       "diziid": "lost",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/3/tabula_rasa"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Walkabout",
       "diziid": "lost",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/4/gezinti"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "White Rabbit",
       "diziid": "lost",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/5/beyaz_tavsan"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "House of the Rising Sun",
       "diziid": "lost",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/6/sunin_dirilisi"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "The Moth",
       "diziid": "lost",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/7/guve"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Confidence Man",
       "diziid": "lost",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/8/uckagitci"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Solitary",
       "diziid": "lost",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/9/tek_basina"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Raised by Another",
       "diziid": "lost",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/10/baskasinin_yetistirdigi"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "All the Best Cowboys Have Daddy Issues",
       "diziid": "lost",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/11/butun_iyi_kovboylarin_baba_sorunu_vardir"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Whatever the Case May Be",
       "diziid": "lost",
@@ -106,7 +107,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/12/durum_ne_olursa_olsun"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "Hearts and Minds",
       "diziid": "lost",
@@ -114,7 +115,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/13/kalpler_ve_zihinler"
     },
     {
-      "season": 14,
+      "season": 1,
       "episode": 14,
       "title": "Special",
       "diziid": "lost",
@@ -122,7 +123,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/14/ozel"
     },
     {
-      "season": 15,
+      "season": 1,
       "episode": 15,
       "title": "Homecoming",
       "diziid": "lost",
@@ -130,7 +131,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/15/eve_donus"
     },
     {
-      "season": 16,
+      "season": 1,
       "episode": 16,
       "title": "Outlaws",
       "diziid": "lost",
@@ -138,7 +139,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/16/kanun_kacaklari"
     },
     {
-      "season": 17,
+      "season": 1,
       "episode": 17,
       "title": "...In Translation",
       "diziid": "lost",
@@ -146,7 +147,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/17/bir_basina"
     },
     {
-      "season": 18,
+      "season": 1,
       "episode": 18,
       "title": "Numbers",
       "diziid": "lost",
@@ -154,7 +155,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/18/sayilar"
     },
     {
-      "season": 19,
+      "season": 1,
       "episode": 19,
       "title": "Deus ex Machina",
       "diziid": "lost",
@@ -162,7 +163,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/19/beklenmedik_kurtulus"
     },
     {
-      "season": 20,
+      "season": 1,
       "episode": 20,
       "title": "Do No Harm",
       "diziid": "lost",
@@ -170,7 +171,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/20/zarar_vermeyeceksin"
     },
     {
-      "season": 21,
+      "season": 1,
       "episode": 21,
       "title": "The Greater Good",
       "diziid": "lost",
@@ -178,7 +179,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/21/cogunlugun_iyiligi_icin"
     },
     {
-      "season": 22,
+      "season": 1,
       "episode": 22,
       "title": "Born to Run",
       "diziid": "lost",
@@ -186,7 +187,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/22/kacmak_icin_dogmus"
     },
     {
-      "season": 23,
+      "season": 1,
       "episode": 23,
       "title": "Exodus (1)",
       "diziid": "lost",
@@ -194,7 +195,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/23/toplu_goc_-_kisim_1__3"
     },
     {
-      "season": 24,
+      "season": 1,
       "episode": 24,
       "title": "Exodus (2)",
       "diziid": "lost",
@@ -202,7 +203,7 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/24/toplu_goc_-_kisim_2__3"
     },
     {
-      "season": 25,
+      "season": 1,
       "episode": 25,
       "title": "Exodus (3)",
       "diziid": "lost",
@@ -210,8 +211,8 @@
       "url": "https://cizgivedizi.com/dizi/lost/lost/25/toplu_goc_-_kisim_3__3"
     },
     {
-      "season": 1,
-      "episode": 26,
+      "season": 2,
+      "episode": 1,
       "title": "Man of Science, Man of Faith",
       "diziid": "lost",
       "bolum": "26",
@@ -219,199 +220,199 @@
     },
     {
       "season": 2,
-      "episode": 27,
+      "episode": 2,
       "title": "Adrift",
       "diziid": "lost",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/lost/lost/27/akintiya_kapilanlar"
     },
     {
-      "season": 3,
-      "episode": 28,
+      "season": 2,
+      "episode": 3,
       "title": "Orientation",
       "diziid": "lost",
       "bolum": "28",
       "url": "https://cizgivedizi.com/dizi/lost/lost/28/alisma"
     },
     {
-      "season": 4,
-      "episode": 29,
+      "season": 2,
+      "episode": 4,
       "title": "Everybody Hates Hugo",
       "diziid": "lost",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/lost/lost/29/hugodan_herkes_nefret_ediyor"
     },
     {
-      "season": 5,
-      "episode": 30,
+      "season": 2,
+      "episode": 5,
       "title": "...And Found",
       "diziid": "lost",
       "bolum": "30",
       "url": "https://cizgivedizi.com/dizi/lost/lost/30/%E2%80%A6ve_bulunur"
     },
     {
-      "season": 6,
-      "episode": 31,
+      "season": 2,
+      "episode": 6,
       "title": "Abandoned",
       "diziid": "lost",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/lost/lost/31/terkedilmis"
     },
     {
-      "season": 7,
-      "episode": 32,
+      "season": 2,
+      "episode": 7,
       "title": "The Other 48 Days",
       "diziid": "lost",
       "bolum": "32",
       "url": "https://cizgivedizi.com/dizi/lost/lost/32/diger_48_gun"
     },
     {
-      "season": 8,
-      "episode": 33,
+      "season": 2,
+      "episode": 8,
       "title": "Collision",
       "diziid": "lost",
       "bolum": "33",
       "url": "https://cizgivedizi.com/dizi/lost/lost/33/catisma"
     },
     {
-      "season": 9,
-      "episode": 34,
+      "season": 2,
+      "episode": 9,
       "title": "What Kate Did",
       "diziid": "lost",
       "bolum": "34",
       "url": "https://cizgivedizi.com/dizi/lost/lost/34/katein_yaptigi"
     },
     {
-      "season": 10,
-      "episode": 35,
+      "season": 2,
+      "episode": 10,
       "title": "The 23rd Psalm",
       "diziid": "lost",
       "bolum": "35",
       "url": "https://cizgivedizi.com/dizi/lost/lost/35/ilahi"
     },
     {
-      "season": 11,
-      "episode": 36,
+      "season": 2,
+      "episode": 11,
       "title": "The Hunting Party",
       "diziid": "lost",
       "bolum": "36",
       "url": "https://cizgivedizi.com/dizi/lost/lost/36/av_partisi"
     },
     {
-      "season": 12,
-      "episode": 37,
+      "season": 2,
+      "episode": 12,
       "title": "Fire + Water",
       "diziid": "lost",
       "bolum": "37",
       "url": "https://cizgivedizi.com/dizi/lost/lost/37/su_%2B_ates"
     },
     {
-      "season": 13,
-      "episode": 38,
+      "season": 2,
+      "episode": 13,
       "title": "The Long Con",
       "diziid": "lost",
       "bolum": "38",
       "url": "https://cizgivedizi.com/dizi/lost/lost/38/cakalin_cakali_var"
     },
     {
-      "season": 14,
-      "episode": 39,
+      "season": 2,
+      "episode": 14,
       "title": "One of Them",
       "diziid": "lost",
       "bolum": "39",
       "url": "https://cizgivedizi.com/dizi/lost/lost/39/onlardan_biri"
     },
     {
-      "season": 15,
-      "episode": 40,
+      "season": 2,
+      "episode": 15,
       "title": "Maternity Leave",
       "diziid": "lost",
       "bolum": "40",
       "url": "https://cizgivedizi.com/dizi/lost/lost/40/dogum_izni"
     },
     {
-      "season": 16,
-      "episode": 41,
+      "season": 2,
+      "episode": 16,
       "title": "The Whole Truth",
       "diziid": "lost",
       "bolum": "41",
       "url": "https://cizgivedizi.com/dizi/lost/lost/41/tum_gercek"
     },
     {
-      "season": 17,
-      "episode": 42,
+      "season": 2,
+      "episode": 17,
       "title": "Lockdown",
       "diziid": "lost",
       "bolum": "42",
       "url": "https://cizgivedizi.com/dizi/lost/lost/42/kapan"
     },
     {
-      "season": 18,
-      "episode": 43,
+      "season": 2,
+      "episode": 18,
       "title": "Dave",
       "diziid": "lost",
       "bolum": "43",
       "url": "https://cizgivedizi.com/dizi/lost/lost/43/dave"
     },
     {
-      "season": 19,
-      "episode": 44,
+      "season": 2,
+      "episode": 19,
       "title": "S.O.S.",
       "diziid": "lost",
       "bolum": "44",
       "url": "https://cizgivedizi.com/dizi/lost/lost/44/s.o.s."
     },
     {
-      "season": 20,
-      "episode": 45,
+      "season": 2,
+      "episode": 20,
       "title": "Two for the Road",
       "diziid": "lost",
       "bolum": "45",
       "url": "https://cizgivedizi.com/dizi/lost/lost/45/iki_kadeh_yolluk"
     },
     {
-      "season": 21,
-      "episode": 46,
+      "season": 2,
+      "episode": 21,
       "title": "?",
       "diziid": "lost",
       "bolum": "46",
       "url": "https://cizgivedizi.com/dizi/lost/lost/46/"
     },
     {
-      "season": 22,
-      "episode": 47,
+      "season": 2,
+      "episode": 22,
       "title": "Three Minutes",
       "diziid": "lost",
       "bolum": "47",
       "url": "https://cizgivedizi.com/dizi/lost/lost/47/uc_dakika"
     },
     {
-      "season": 23,
-      "episode": 48,
+      "season": 2,
+      "episode": 23,
       "title": "Live Together, Die Alone (1)",
       "diziid": "lost",
       "bolum": "48",
       "url": "https://cizgivedizi.com/dizi/lost/lost/48/beraber_yasa%2C_yalniz_ol_kisim_1__2"
     },
     {
-      "season": 24,
-      "episode": 49,
+      "season": 2,
+      "episode": 24,
       "title": "Live Together, Die Alone (2)",
       "diziid": "lost",
       "bolum": "49",
       "url": "https://cizgivedizi.com/dizi/lost/lost/49/beraber_yasa%2C_yalniz_ol_kisim_2__2"
     },
     {
-      "season": 1,
-      "episode": 50,
+      "season": 3,
+      "episode": 1,
       "title": "A Tale of Two Cities",
       "diziid": "lost",
       "bolum": "50",
       "url": "https://cizgivedizi.com/dizi/lost/lost/50/iki_sehrin_hikayesi"
     },
     {
-      "season": 2,
-      "episode": 51,
+      "season": 3,
+      "episode": 2,
       "title": "The Glass Ballerina",
       "diziid": "lost",
       "bolum": "51",
@@ -419,191 +420,191 @@
     },
     {
       "season": 3,
-      "episode": 52,
+      "episode": 3,
       "title": "Further Instructions",
       "diziid": "lost",
       "bolum": "52",
       "url": "https://cizgivedizi.com/dizi/lost/lost/52/ek_talimatlar"
     },
     {
-      "season": 4,
-      "episode": 53,
+      "season": 3,
+      "episode": 4,
       "title": "Every Man for Himself",
       "diziid": "lost",
       "bolum": "53",
       "url": "https://cizgivedizi.com/dizi/lost/lost/53/her_koyun_kendi_bacagindan_asilir"
     },
     {
-      "season": 5,
-      "episode": 54,
+      "season": 3,
+      "episode": 5,
       "title": "The Cost of Living",
       "diziid": "lost",
       "bolum": "54",
       "url": "https://cizgivedizi.com/dizi/lost/lost/54/yasamanin_bedeli"
     },
     {
-      "season": 6,
-      "episode": 55,
+      "season": 3,
+      "episode": 6,
       "title": "I Do",
       "diziid": "lost",
       "bolum": "55",
       "url": "https://cizgivedizi.com/dizi/lost/lost/55/evet"
     },
     {
-      "season": 7,
-      "episode": 56,
+      "season": 3,
+      "episode": 7,
       "title": "Not in Portland",
       "diziid": "lost",
       "bolum": "56",
       "url": "https://cizgivedizi.com/dizi/lost/lost/56/portlandda_degil"
     },
     {
-      "season": 8,
-      "episode": 57,
+      "season": 3,
+      "episode": 8,
       "title": "Flashes Before Your Eyes",
       "diziid": "lost",
       "bolum": "57",
       "url": "https://cizgivedizi.com/dizi/lost/lost/57/bir_film_seridi_gibi"
     },
     {
-      "season": 9,
-      "episode": 58,
+      "season": 3,
+      "episode": 9,
       "title": "Stranger in a Strange Land",
       "diziid": "lost",
       "bolum": "58",
       "url": "https://cizgivedizi.com/dizi/lost/lost/58/garip_bir_diyardaki_yabanci"
     },
     {
-      "season": 10,
-      "episode": 59,
+      "season": 3,
+      "episode": 10,
       "title": "Tricia Tanaka Is Dead",
       "diziid": "lost",
       "bolum": "59",
       "url": "https://cizgivedizi.com/dizi/lost/lost/59/tricia_tanaka_oldu"
     },
     {
-      "season": 11,
-      "episode": 60,
+      "season": 3,
+      "episode": 11,
       "title": "Enter 77",
       "diziid": "lost",
       "bolum": "60",
       "url": "https://cizgivedizi.com/dizi/lost/lost/60/77_yaz"
     },
     {
-      "season": 12,
-      "episode": 61,
+      "season": 3,
+      "episode": 12,
       "title": "Par Avion",
       "diziid": "lost",
       "bolum": "61",
       "url": "https://cizgivedizi.com/dizi/lost/lost/61/hava_postasi"
     },
     {
-      "season": 13,
-      "episode": 62,
+      "season": 3,
+      "episode": 13,
       "title": "The Man from Tallahassee",
       "diziid": "lost",
       "bolum": "62",
       "url": "https://cizgivedizi.com/dizi/lost/lost/62/tallahasseeli_adam"
     },
     {
-      "season": 14,
-      "episode": 63,
+      "season": 3,
+      "episode": 14,
       "title": "ExposÃ©",
       "diziid": "lost",
       "bolum": "63",
       "url": "https://cizgivedizi.com/dizi/lost/lost/63/kirli_camasirlar"
     },
     {
-      "season": 15,
-      "episode": 64,
+      "season": 3,
+      "episode": 15,
       "title": "Left Behind",
       "diziid": "lost",
       "bolum": "64",
       "url": "https://cizgivedizi.com/dizi/lost/lost/64/geride_birakilan"
     },
     {
-      "season": 16,
-      "episode": 65,
+      "season": 3,
+      "episode": 16,
       "title": "One of Us",
       "diziid": "lost",
       "bolum": "65",
       "url": "https://cizgivedizi.com/dizi/lost/lost/65/icimizden_biri"
     },
     {
-      "season": 17,
-      "episode": 66,
+      "season": 3,
+      "episode": 17,
       "title": "Catch-22",
       "diziid": "lost",
       "bolum": "66",
       "url": "https://cizgivedizi.com/dizi/lost/lost/66/ikilem"
     },
     {
-      "season": 18,
-      "episode": 67,
+      "season": 3,
+      "episode": 18,
       "title": "D.O.C.",
       "diziid": "lost",
       "bolum": "67",
       "url": "https://cizgivedizi.com/dizi/lost/lost/67/gebelik_tarihi"
     },
     {
-      "season": 19,
-      "episode": 68,
+      "season": 3,
+      "episode": 19,
       "title": "The Brig",
       "diziid": "lost",
       "bolum": "68",
       "url": "https://cizgivedizi.com/dizi/lost/lost/68/hucre"
     },
     {
-      "season": 20,
-      "episode": 69,
+      "season": 3,
+      "episode": 20,
       "title": "The Man Behind the Curtain",
       "diziid": "lost",
       "bolum": "69",
       "url": "https://cizgivedizi.com/dizi/lost/lost/69/perdenin_arkasindaki_adam"
     },
     {
-      "season": 21,
-      "episode": 70,
+      "season": 3,
+      "episode": 21,
       "title": "Greatest Hits",
       "diziid": "lost",
       "bolum": "70",
       "url": "https://cizgivedizi.com/dizi/lost/lost/70/en_iyi_sarkilar"
     },
     {
-      "season": 22,
-      "episode": 71,
+      "season": 3,
+      "episode": 22,
       "title": "Through the Looking Glass (1)",
       "diziid": "lost",
       "bolum": "71",
       "url": "https://cizgivedizi.com/dizi/lost/lost/71/aynadan_iceri_kisim_1__2"
     },
     {
-      "season": 23,
-      "episode": 72,
+      "season": 3,
+      "episode": 23,
       "title": "Through the Looking Glass (2)",
       "diziid": "lost",
       "bolum": "72",
       "url": "https://cizgivedizi.com/dizi/lost/lost/72/aynadan_iceri_kisim_2__2"
     },
     {
-      "season": 1,
-      "episode": 73,
+      "season": 4,
+      "episode": 1,
       "title": "The Beginning of the End",
       "diziid": "lost",
       "bolum": "73",
       "url": "https://cizgivedizi.com/dizi/lost/lost/73/sonun_baslangici"
     },
     {
-      "season": 2,
-      "episode": 74,
+      "season": 4,
+      "episode": 2,
       "title": "Confirmed Dead",
       "diziid": "lost",
       "bolum": "74",
       "url": "https://cizgivedizi.com/dizi/lost/lost/74/kurtulan_yok"
     },
     {
-      "season": 3,
-      "episode": 75,
+      "season": 4,
+      "episode": 3,
       "title": "The Economist",
       "diziid": "lost",
       "bolum": "75",
@@ -611,119 +612,119 @@
     },
     {
       "season": 4,
-      "episode": 76,
+      "episode": 4,
       "title": "Eggtown",
       "diziid": "lost",
       "bolum": "76",
       "url": "https://cizgivedizi.com/dizi/lost/lost/76/kotu_bir_anlasma"
     },
     {
-      "season": 5,
-      "episode": 77,
+      "season": 4,
+      "episode": 5,
       "title": "The Constant",
       "diziid": "lost",
       "bolum": "77",
       "url": "https://cizgivedizi.com/dizi/lost/lost/77/sabit_deger"
     },
     {
-      "season": 6,
-      "episode": 78,
+      "season": 4,
+      "episode": 6,
       "title": "The Other Woman",
       "diziid": "lost",
       "bolum": "78",
       "url": "https://cizgivedizi.com/dizi/lost/lost/78/diger_kadin"
     },
     {
-      "season": 7,
-      "episode": 79,
+      "season": 4,
+      "episode": 7,
       "title": "Ji Yeon",
       "diziid": "lost",
       "bolum": "79",
       "url": "https://cizgivedizi.com/dizi/lost/lost/79/ji_yeon%2C_ilahi_sabir"
     },
     {
-      "season": 8,
-      "episode": 80,
+      "season": 4,
+      "episode": 8,
       "title": "Meet Kevin Johnson",
       "diziid": "lost",
       "bolum": "80",
       "url": "https://cizgivedizi.com/dizi/lost/lost/80/kevin_johnson"
     },
     {
-      "season": 9,
-      "episode": 81,
+      "season": 4,
+      "episode": 9,
       "title": "The Shape of Things to Come",
       "diziid": "lost",
       "bolum": "81",
       "url": "https://cizgivedizi.com/dizi/lost/lost/81/gelecek_seylerin_sekli"
     },
     {
-      "season": 10,
-      "episode": 82,
+      "season": 4,
+      "episode": 10,
       "title": "Something Nice Back Home",
       "diziid": "lost",
       "bolum": "82",
       "url": "https://cizgivedizi.com/dizi/lost/lost/82/gecmisin_guzel_anilari"
     },
     {
-      "season": 11,
-      "episode": 83,
+      "season": 4,
+      "episode": 11,
       "title": "Cabin Fever",
       "diziid": "lost",
       "bolum": "83",
       "url": "https://cizgivedizi.com/dizi/lost/lost/83/hafakan"
     },
     {
-      "season": 12,
-      "episode": 84,
+      "season": 4,
+      "episode": 12,
       "title": "There's No Place Like Home (1)",
       "diziid": "lost",
       "bolum": "84",
       "url": "https://cizgivedizi.com/dizi/lost/lost/84/ev_gibisi_yok_kisim_1__3"
     },
     {
-      "season": 13,
-      "episode": 85,
+      "season": 4,
+      "episode": 13,
       "title": "There's No Place Like Home (2)",
       "diziid": "lost",
       "bolum": "85",
       "url": "https://cizgivedizi.com/dizi/lost/lost/85/ev_gibisi_yok_kisim_2__3"
     },
     {
-      "season": 14,
-      "episode": 86,
+      "season": 4,
+      "episode": 14,
       "title": "There's No Place Like Home (3)",
       "diziid": "lost",
       "bolum": "86",
       "url": "https://cizgivedizi.com/dizi/lost/lost/86/ev_gibisi_yok_kisim_3__3"
     },
     {
-      "season": 1,
-      "episode": 87,
+      "season": 5,
+      "episode": 1,
       "title": "Because You Left",
       "diziid": "lost",
       "bolum": "87",
       "url": "https://cizgivedizi.com/dizi/lost/lost/87/cunku_buradan_ayrildin"
     },
     {
-      "season": 2,
-      "episode": 88,
+      "season": 5,
+      "episode": 2,
       "title": "The Lie",
       "diziid": "lost",
       "bolum": "88",
       "url": "https://cizgivedizi.com/dizi/lost/lost/88/yalan"
     },
     {
-      "season": 3,
-      "episode": 89,
+      "season": 5,
+      "episode": 3,
       "title": "Jughead",
       "diziid": "lost",
       "bolum": "89",
       "url": "https://cizgivedizi.com/dizi/lost/lost/89/bomba"
     },
     {
-      "season": 4,
-      "episode": 90,
+      "season": 5,
+      "episode": 4,
       "title": "The Little Prince",
       "diziid": "lost",
       "bolum": "90",
@@ -731,143 +732,143 @@
     },
     {
       "season": 5,
-      "episode": 91,
+      "episode": 5,
       "title": "This Place Is Death",
       "diziid": "lost",
       "bolum": "91",
       "url": "https://cizgivedizi.com/dizi/lost/lost/91/burasi%2C_olum"
     },
     {
-      "season": 6,
-      "episode": 92,
+      "season": 5,
+      "episode": 6,
       "title": "316",
       "diziid": "lost",
       "bolum": "92",
       "url": "https://cizgivedizi.com/dizi/lost/lost/92/316"
     },
     {
-      "season": 7,
-      "episode": 93,
+      "season": 5,
+      "episode": 7,
       "title": "The Life and Death of Jeremy Bentham",
       "diziid": "lost",
       "bolum": "93",
       "url": "https://cizgivedizi.com/dizi/lost/lost/93/jeremy_benthamin_yasami_ve_olumu"
     },
     {
-      "season": 8,
-      "episode": 94,
+      "season": 5,
+      "episode": 8,
       "title": "LaFleur",
       "diziid": "lost",
       "bolum": "94",
       "url": "https://cizgivedizi.com/dizi/lost/lost/94/lafleur"
     },
     {
-      "season": 9,
-      "episode": 95,
+      "season": 5,
+      "episode": 9,
       "title": "Namaste",
       "diziid": "lost",
       "bolum": "95",
       "url": "https://cizgivedizi.com/dizi/lost/lost/95/namaste"
     },
     {
-      "season": 10,
-      "episode": 96,
+      "season": 5,
+      "episode": 10,
       "title": "He's Our You",
       "diziid": "lost",
       "bolum": "96",
       "url": "https://cizgivedizi.com/dizi/lost/lost/96/bizim_sayidimiz_o"
     },
     {
-      "season": 11,
-      "episode": 97,
+      "season": 5,
+      "episode": 11,
       "title": "Whatever Happened, Happened",
       "diziid": "lost",
       "bolum": "97",
       "url": "https://cizgivedizi.com/dizi/lost/lost/97/olan_olmus"
     },
     {
-      "season": 12,
-      "episode": 98,
+      "season": 5,
+      "episode": 12,
       "title": "Dead is Dead",
       "diziid": "lost",
       "bolum": "98",
       "url": "https://cizgivedizi.com/dizi/lost/lost/98/olmussen%2C_olmussundur"
     },
     {
-      "season": 13,
-      "episode": 99,
+      "season": 5,
+      "episode": 13,
       "title": "Some Like It Hoth",
       "diziid": "lost",
       "bolum": "99",
       "url": "https://cizgivedizi.com/dizi/lost/lost/99/bazilari_hoth_sever"
     },
     {
-      "season": 14,
-      "episode": 100,
+      "season": 5,
+      "episode": 14,
       "title": "The Variable",
       "diziid": "lost",
       "bolum": "100",
       "url": "https://cizgivedizi.com/dizi/lost/lost/100/degisken"
     },
     {
-      "season": 15,
-      "episode": 101,
+      "season": 5,
+      "episode": 15,
       "title": "Follow the Leader",
       "diziid": "lost",
       "bolum": "101",
       "url": "https://cizgivedizi.com/dizi/lost/lost/101/lideri_takip_et"
     },
     {
-      "season": 16,
-      "episode": 102,
+      "season": 5,
+      "episode": 16,
       "title": "The Incident (1)",
       "diziid": "lost",
       "bolum": "102",
       "url": "https://cizgivedizi.com/dizi/lost/lost/102/olay_kisim_1__2"
     },
     {
-      "season": 17,
-      "episode": 103,
+      "season": 5,
+      "episode": 17,
       "title": "The Incident (2)",
       "diziid": "lost",
       "bolum": "103",
       "url": "https://cizgivedizi.com/dizi/lost/lost/103/olay_kisim_2__2"
     },
     {
-      "season": 1,
-      "episode": 104,
+      "season": 6,
+      "episode": 1,
       "title": "LA X (1)",
       "diziid": "lost",
       "bolum": "104",
       "url": "https://cizgivedizi.com/dizi/lost/lost/104/la_x_kisim_1__2"
     },
     {
-      "season": 2,
-      "episode": 105,
+      "season": 6,
+      "episode": 2,
       "title": "LA X (2)",
       "diziid": "lost",
       "bolum": "105",
       "url": "https://cizgivedizi.com/dizi/lost/lost/105/la_x_kisim_2__2"
     },
     {
-      "season": 3,
-      "episode": 106,
+      "season": 6,
+      "episode": 3,
       "title": "What Kate Does",
       "diziid": "lost",
       "bolum": "106",
       "url": "https://cizgivedizi.com/dizi/lost/lost/106/katein_hep_yaptigi"
     },
     {
-      "season": 4,
-      "episode": 107,
+      "season": 6,
+      "episode": 4,
       "title": "The Substitute",
       "diziid": "lost",
       "bolum": "107",
       "url": "https://cizgivedizi.com/dizi/lost/lost/107/jacobin_vekili"
     },
     {
-      "season": 5,
-      "episode": 108,
+      "season": 6,
+      "episode": 5,
       "title": "Lighthouse",
       "diziid": "lost",
       "bolum": "108",
@@ -875,95 +876,95 @@
     },
     {
       "season": 6,
-      "episode": 109,
+      "episode": 6,
       "title": "Sundown",
       "diziid": "lost",
       "bolum": "109",
       "url": "https://cizgivedizi.com/dizi/lost/lost/109/gun_batimi"
     },
     {
-      "season": 7,
-      "episode": 110,
+      "season": 6,
+      "episode": 7,
       "title": "Dr. Linus",
       "diziid": "lost",
       "bolum": "110",
       "url": "https://cizgivedizi.com/dizi/lost/lost/110/dr._linus"
     },
     {
-      "season": 8,
-      "episode": 111,
+      "season": 6,
+      "episode": 8,
       "title": "Recon",
       "diziid": "lost",
       "bolum": "111",
       "url": "https://cizgivedizi.com/dizi/lost/lost/111/kesif"
     },
     {
-      "season": 9,
-      "episode": 112,
+      "season": 6,
+      "episode": 9,
       "title": "Ab Aeterno",
       "diziid": "lost",
       "bolum": "112",
       "url": "https://cizgivedizi.com/dizi/lost/lost/112/cehennem"
     },
     {
-      "season": 10,
-      "episode": 113,
+      "season": 6,
+      "episode": 10,
       "title": "The Last Recruit",
       "diziid": "lost",
       "bolum": "113",
       "url": "https://cizgivedizi.com/dizi/lost/lost/113/yeni_eleman"
     },
     {
-      "season": 11,
-      "episode": 114,
+      "season": 6,
+      "episode": 11,
       "title": "The Package",
       "diziid": "lost",
       "bolum": "114",
       "url": "https://cizgivedizi.com/dizi/lost/lost/114/paket"
     },
     {
-      "season": 12,
-      "episode": 115,
+      "season": 6,
+      "episode": 12,
       "title": "Happily Ever After",
       "diziid": "lost",
       "bolum": "115",
       "url": "https://cizgivedizi.com/dizi/lost/lost/115/mutlu_mesut"
     },
     {
-      "season": 13,
-      "episode": 116,
+      "season": 6,
+      "episode": 13,
       "title": "Everybody Loves Hugo",
       "diziid": "lost",
       "bolum": "116",
       "url": "https://cizgivedizi.com/dizi/lost/lost/116/hugoyu_herkes_seviyor"
     },
     {
-      "season": 14,
-      "episode": 117,
+      "season": 6,
+      "episode": 14,
       "title": "The Candidate",
       "diziid": "lost",
       "bolum": "117",
       "url": "https://cizgivedizi.com/dizi/lost/lost/117/aday"
     },
     {
-      "season": 15,
-      "episode": 118,
+      "season": 6,
+      "episode": 15,
       "title": "Across the Sea",
       "diziid": "lost",
       "bolum": "118",
       "url": "https://cizgivedizi.com/dizi/lost/lost/118/adanin_disinda"
     },
     {
-      "season": 16,
-      "episode": 119,
+      "season": 6,
+      "episode": 16,
       "title": "What They Died For",
       "diziid": "lost",
       "bolum": "119",
       "url": "https://cizgivedizi.com/dizi/lost/lost/119/ne_icin_olduler"
     },
     {
-      "season": 1,
-      "episode": 120,
+      "season": 6,
+      "episode": 17,
       "title": "The End",
       "diziid": "lost",
       "bolum": "120",

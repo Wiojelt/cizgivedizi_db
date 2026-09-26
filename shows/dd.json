@@ -3,6 +3,7 @@
   "title": "duck dodgers",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/DDPoster.avif",
+  "plot": "YarÄ± kahraman ama beceriksiz uzay KaptanÄ± Duck Dodgers ve yardÄ±mcÄ±sÄ±nÄ±n maceralarÄ±.",
   "channel": "TV8",
   "genres": [
     "Bilim Kurgu",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/1/duck_dodgersin_durusmasi__bocek_hanimlar"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 2,
       "title": "Duck Deception / The Spy Who Didn't Love Me",
       "diziid": "dd",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/3/ordek_hilesi__beni_sevmeyen_ajan"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 3,
       "title": "Duck Codgers / Where's Baby Smartypants?",
       "diziid": "dd",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/4/duck_bunak_dodgers__cok_bilmis_bebek_nerede"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 4,
       "title": "I'm Going to Get You Fat Sucka / Detained Duck",
       "diziid": "dd",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/5/seni_yakalayacagim_tombul%21__tutsak_ordek"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 5,
       "title": "K-9 Kaddy / Pig of Action",
       "diziid": "dd",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/6/k-9__hareket_seven_domuz"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 6,
       "title": "Shiver Me Dodgers",
       "diziid": "dd",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/7/titret_beni_dodgers"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 7,
       "title": "The Wrath of Canasta / They Stole Dodgers' Brain",
       "diziid": "dd",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/8/canastanin_ofkesi__dodgersin_beynini_caldilar"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 8,
       "title": "The Green Loontern",
       "diziid": "dd",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/9/yesil_sapsal_fener"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 9,
       "title": "Quarterback Quack / To Love a Duck",
       "diziid": "dd",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/10/oyun_kurucu_vakvak__bir_ordegi_sevmek"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 10,
       "title": "Hooray for Hollywood Planet",
       "diziid": "dd",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/11/yasasin_hollywood_gezegeni"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 11,
       "title": "The Queen Is Wild / Back to the Academy",
       "diziid": "dd",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/12/vahsi_kralice__akademiye_donus"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 12,
       "title": "Enemy Yours / Duck Departure",
       "diziid": "dd",
@@ -106,8 +107,8 @@
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/13/can_dusmani__duck_dodgers_isi_birakiyor"
     },
     {
-      "season": 1,
-      "episode": 13,
+      "season": 2,
+      "episode": 1,
       "title": "Pig Planet",
       "diziid": "dd",
       "bolum": "14",
@@ -115,95 +116,95 @@
     },
     {
       "season": 2,
-      "episode": 14,
+      "episode": 2,
       "title": "Invictus Interruptus / Pet Peeved",
       "diziid": "dd",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/15/korkunc_invictus__minik_hircin_koko"
     },
     {
-      "season": 3,
-      "episode": 15,
+      "season": 2,
+      "episode": 3,
       "title": "The Menace of Maninsuit / K9 Quarry",
       "diziid": "dd",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/16/kostumlu_canavar_tehdidi__k-9"
     },
     {
-      "season": 4,
-      "episode": 16,
+      "season": 2,
+      "episode": 4,
       "title": "Talent Show a Go-Go / The Love of a Father",
       "diziid": "dd",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/17/yetenek_yarismasi__bir_babanin_aski"
     },
     {
-      "season": 5,
-      "episode": 17,
+      "season": 2,
+      "episode": 5,
       "title": "The New Cadet / The Love Duck",
       "diziid": "dd",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/18/yeni_caylak__yardimsever_ordek"
     },
     {
-      "season": 6,
-      "episode": 18,
+      "season": 2,
+      "episode": 6,
       "title": "The Fudd",
       "diziid": "dd",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/19/fudd_salgini"
     },
     {
-      "season": 7,
-      "episode": 19,
+      "season": 2,
+      "episode": 7,
       "title": "The Mark of Xero / I See Duck People",
       "diziid": "dd",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/20/xeronun_isareti__lanetli_gemi"
     },
     {
-      "season": 8,
-      "episode": 20,
+      "season": 2,
+      "episode": 8,
       "title": "Deathmatch Duck / Deconstructing Dodgers",
       "diziid": "dd",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/21/canli_mineral_gezegeni__dodgers_cozumlemesi"
     },
     {
-      "season": 11,
-      "episode": 21,
+      "season": 2,
+      "episode": 9,
       "title": "Surf the Stars / Samurai Quack",
       "diziid": "dd",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/24/sorf_krali_duck_dodgers__samuray_vakvak"
     },
     {
-      "season": 12,
-      "episode": 22,
+      "season": 2,
+      "episode": 10,
       "title": "Of Course You Know This Means War and Peace: Part I",
       "diziid": "dd",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/25/tabii_ki_bunun_savas_demek_oldugunu_biliyorsun_birinci_bolum"
     },
     {
-      "season": 13,
-      "episode": 23,
+      "season": 2,
+      "episode": 11,
       "title": "Of Course You Know This Means War and Peace: Part II",
       "diziid": "dd",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/26/tabii_ki_bunun_savas_demek_oldugunu_biliyorsun_ikinci_bolum"
     },
     {
-      "season": 1,
-      "episode": 24,
+      "season": 3,
+      "episode": 1,
       "title": "Till Doom Do Us Part",
       "diziid": "dd",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/27/olum_bizi_ayirana_kadar"
     },
     {
-      "season": 2,
-      "episode": 25,
+      "season": 3,
+      "episode": 2,
       "title": "Villainstruck / Just the Two of Us",
       "diziid": "dd",
       "bolum": "28",
@@ -211,87 +212,87 @@
     },
     {
       "season": 3,
-      "episode": 26,
+      "episode": 3,
       "title": "The Kids Are All Wrong / Win, Lose or Duck",
       "diziid": "dd",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/29/zamane_gencligi__kazan%2C_kaybet_ya_da_ordekle"
     },
     {
-      "season": 4,
-      "episode": 27,
+      "season": 3,
+      "episode": 4,
       "title": "Boar to Be Riled / Clean Bill of Health",
       "diziid": "dd",
       "bolum": "30",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/30/deli_domuz__biyogenetik_arindirici"
     },
     {
-      "season": 5,
-      "episode": 28,
+      "season": 3,
+      "episode": 5,
       "title": "The Best of Captains, the Worst of Captains / That's Lifomatica",
       "diziid": "dd",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/31/en_iyi_kaptan%2C_en_kotu_kaptan__lifomatica"
     },
     {
-      "season": 6,
-      "episode": 29,
+      "season": 3,
+      "episode": 6,
       "title": "Diamond Boogie / Corporate Pigfall",
       "diziid": "dd",
       "bolum": "32",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/32/kayip_elmaslar__yonetim_kurulu_baskani_bay_caylak"
     },
     {
-      "season": 7,
-      "episode": 30,
+      "season": 3,
+      "episode": 7,
       "title": "The Six Wazillion Dollar Duck",
       "diziid": "dd",
       "bolum": "33",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/33/alti_vazilyon_dolarlik_ordek"
     },
     {
-      "season": 8,
-      "episode": 31,
+      "season": 3,
+      "episode": 8,
       "title": "Too Close for Combat / The Fins of War",
       "diziid": "dd",
       "bolum": "34",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/34/savasmak_icin_cok_yakiniz__savasin_sonu"
     },
     {
-      "season": 9,
-      "episode": 32,
+      "season": 3,
+      "episode": 9,
       "title": "Good Duck Hunting / Consumption Overruled",
       "diziid": "dd",
       "bolum": "35",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/35/iyi_ordek_avlamalar__tuketim_yasaklanmali"
     },
     {
-      "season": 10,
-      "episode": 33,
+      "season": 3,
+      "episode": 10,
       "title": "A Lame Duck Mind",
       "diziid": "dd",
       "bolum": "36",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/36/ordegin_kit_akli"
     },
     {
-      "season": 11,
-      "episode": 34,
+      "season": 3,
+      "episode": 11,
       "title": "Master & Disaster / All in the Crime Family",
       "diziid": "dd",
       "bolum": "37",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/37/usta_ve_caylak__buyuk_suc_cetesi"
     },
     {
-      "season": 12,
-      "episode": 35,
+      "season": 3,
+      "episode": 12,
       "title": "In Space, No One Can Hear You Rock / Ridealong Calamity",
       "diziid": "dd",
       "bolum": "38",
       "url": "https://cizgivedizi.com/dizi/dd/duck_dodgers/38/uzayda_kimse_rock_yaptigini_duyamaz__benimle_uzay_bizonu_sur"
     },
     {
-      "season": 13,
-      "episode": 36,
+      "season": 3,
+      "episode": 13,
       "title": "Bonafide Heroes",
       "diziid": "dd",
       "bolum": "39",

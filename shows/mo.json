@@ -3,6 +3,7 @@
   "title": "mÃ¼zik okulu",
   "type": "dizi",
   "poster": "https://cizgivedizi.com/resim/MOPoster.avif",
+  "plot": "Prestijli bir hazÄ±rlÄ±k okulunda sÄ±ra dÄ±ÅŸÄ± ve baÅŸarÄ±lÄ± Ã¶ÄŸrencilerine rock 'n' roll Ã§almayÄ± ve sevmeyi Ã¶ÄŸreten, kendini vekil Ã¶ÄŸretmen olarak gÃ¶steren bir rockÃ§Ä± olan Dewey Finn'in talihsizliâ€¦",
   "channel": "Nickelodeon",
   "genres": [
     "MÃ¼zik/MÃ¼zikal",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/1/birlik_olun"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Cover Me",
       "diziid": "mo",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/2/koru_beni"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Video Killed the Speed Debate Star",
       "diziid": "mo",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/3/video_munazara_yildizini_oldurdu"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "The Story of Us (But More About Me)",
       "diziid": "mo",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/4/bizim_hikayemiz_daha_cok_benim"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "We're Not Gonna Take It",
       "diziid": "mo",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/5/bunu_kabul_edemeyiz"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "A Band with No Name",
       "diziid": "mo",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/6/isimsiz_grup"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "We Can Be Heroes, Sort Of",
       "diziid": "mo",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/7/biz_de_kahraman_olabiliriz%2C_yani_sayilir"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Should I Stay or Should I Go?",
       "diziid": "mo",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/8/kalsam_mi_gitsem_mi"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Money (That's What I Want)",
       "diziid": "mo",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/9/para_istedigim_sey_bu"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Freddy Fights for His Right to Party",
       "diziid": "mo",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/10/freddy_parti_hakki_icin_mucadele_veriyor"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "(Really Really) Old Time Rock and Roll",
       "diziid": "mo",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/11/gercekten_cok_eski_usul_rock_and_roll"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "We Are the Champions ... Maybe",
       "diziid": "mo",
@@ -106,8 +107,8 @@
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/12/sampiyon_biziz..._yani_belki"
     },
     {
-      "season": 1,
-      "episode": 13,
+      "season": 2,
+      "episode": 1,
       "title": "Changes",
       "diziid": "mo",
       "bolum": "13",
@@ -115,111 +116,111 @@
     },
     {
       "season": 2,
-      "episode": 14,
+      "episode": 2,
       "title": "Wouldn't It Be Nice?",
       "diziid": "mo",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/14/guzel_olmaz_miydi"
     },
     {
-      "season": 3,
-      "episode": 15,
+      "season": 2,
+      "episode": 3,
       "title": "With or Without You",
       "diziid": "mo",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/15/ya_seninle_ya_sensiz"
     },
     {
-      "season": 4,
-      "episode": 16,
+      "season": 2,
+      "episode": 4,
       "title": "Brilliant Disguise",
       "diziid": "mo",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/16/mukemmel_kamuflaj"
     },
     {
-      "season": 5,
-      "episode": 17,
+      "season": 2,
+      "episode": 5,
       "title": "I Put a Spell on You",
       "diziid": "mo",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/17/sana_buyu_yapiyorum"
     },
     {
-      "season": 6,
-      "episode": 18,
+      "season": 2,
+      "episode": 6,
       "title": "Welcome to My Nightmare",
       "diziid": "mo",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/18/kabusuma_hos_geldin"
     },
     {
-      "season": 7,
-      "episode": 19,
+      "season": 2,
+      "episode": 7,
       "title": "Truckin'",
       "diziid": "mo",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/19/minibusculuk"
     },
     {
-      "season": 8,
-      "episode": 20,
+      "season": 2,
+      "episode": 8,
       "title": "Voices Carry",
       "diziid": "mo",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/20/sesler_korosu"
     },
     {
-      "season": 9,
-      "episode": 21,
+      "season": 2,
+      "episode": 9,
       "title": "Is She Really Going Out with Him",
       "diziid": "mo",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/21/bu_kizla_gercekten_cikiyor_mu"
     },
     {
-      "season": 10,
-      "episode": 22,
+      "season": 2,
+      "episode": 10,
       "title": "Total Eclipse of the Heart",
       "diziid": "mo",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/22/kalp_tutulmasi"
     },
     {
-      "season": 11,
-      "episode": 23,
+      "season": 2,
+      "episode": 11,
       "title": "Takin' Care of Business",
       "diziid": "mo",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/23/isler_gucler"
     },
     {
-      "season": 12,
-      "episode": 24,
+      "season": 2,
+      "episode": 12,
       "title": "Don't Let Me Be Misunderstood",
       "diziid": "mo",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/24/beni_yanlis_anlama"
     },
     {
-      "season": 13,
-      "episode": 25,
+      "season": 2,
+      "episode": 13,
       "title": "Don't Stop Believin'",
       "diziid": "mo",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/25/inanmaktan_vazgecme"
     },
     {
-      "season": 1,
-      "episode": 26,
+      "season": 3,
+      "episode": 1,
       "title": "Hold on Loosely",
       "diziid": "mo",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/26/gevsek_tutun"
     },
     {
-      "season": 2,
-      "episode": 27,
+      "season": 3,
+      "episode": 2,
       "title": "Do You Want to Know a Secret?",
       "diziid": "mo",
       "bolum": "27",
@@ -227,143 +228,143 @@
     },
     {
       "season": 3,
-      "episode": 28,
+      "episode": 3,
       "title": "True Colors",
       "diziid": "mo",
       "bolum": "28",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/28/gercek_renkler"
     },
     {
-      "season": 4,
-      "episode": 29,
+      "season": 3,
+      "episode": 4,
       "title": "Leader of the Band",
       "diziid": "mo",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/29/grubun_lideri"
     },
     {
-      "season": 5,
-      "episode": 30,
+      "season": 3,
+      "episode": 5,
       "title": "The Other Side of Summer",
       "diziid": "mo",
       "bolum": "30",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/30/summerin_oteki_yuzu"
     },
     {
-      "season": 6,
-      "episode": 31,
+      "season": 3,
+      "episode": 6,
       "title": "Minimum Wage",
       "diziid": "mo",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/31/asgari_ucret"
     },
     {
-      "season": 7,
-      "episode": 32,
+      "season": 3,
+      "episode": 7,
       "title": "Heroes and Villains",
       "diziid": "mo",
       "bolum": "32",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/32/kahramanlar_ve_kotuler"
     },
     {
-      "season": 8,
-      "episode": 33,
+      "season": 3,
+      "episode": 8,
       "title": "Jingle Bell Rock",
       "diziid": "mo",
       "bolum": "33",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/33/noelde_rock"
     },
     {
-      "season": 9,
-      "episode": 34,
+      "season": 3,
+      "episode": 9,
       "title": "Kool Thing",
       "diziid": "mo",
       "bolum": "34",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/34/havali_sey"
     },
     {
-      "season": 10,
-      "episode": 35,
+      "season": 3,
+      "episode": 10,
       "title": "Would I Lie to You?",
       "diziid": "mo",
       "bolum": "35",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/35/sana_hic_yalan_soyler_miyim"
     },
     {
-      "season": 11,
-      "episode": 36,
+      "season": 3,
+      "episode": 11,
       "title": "Puppy Love",
       "diziid": "mo",
       "bolum": "36",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/36/yavru_sevgisi"
     },
     {
-      "season": 12,
-      "episode": 37,
+      "season": 3,
+      "episode": 12,
       "title": "Love Is a Battlefield",
       "diziid": "mo",
       "bolum": "37",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/37/ask_bir_savas_alanidir"
     },
     {
-      "season": 13,
-      "episode": 38,
+      "season": 3,
+      "episode": 13,
       "title": "A Matter of Trust",
       "diziid": "mo",
       "bolum": "38",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/38/guven_meselesi"
     },
     {
-      "season": 14,
-      "episode": 39,
+      "season": 3,
+      "episode": 14,
       "title": "Don't Know What You Got ('Til It's Gone)",
       "diziid": "mo",
       "bolum": "39",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/39/kaybedene_kadar_neye_sahip_oldugunun_farkinda_degil_misin"
     },
     {
-      "season": 15,
-      "episode": 40,
+      "season": 3,
+      "episode": 15,
       "title": "Not Afraid",
       "diziid": "mo",
       "bolum": "40",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/40/korkma"
     },
     {
-      "season": 16,
-      "episode": 41,
+      "season": 3,
+      "episode": 16,
       "title": "Surprise, Surprise",
       "diziid": "mo",
       "bolum": "41",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/41/surpriz%21"
     },
     {
-      "season": 17,
-      "episode": 42,
+      "season": 3,
+      "episode": 17,
       "title": "We Gotta Get Out of This Place",
       "diziid": "mo",
       "bolum": "42",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/42/buradan_kurtulmaliyim"
     },
     {
-      "season": 18,
-      "episode": 43,
+      "season": 3,
+      "episode": 18,
       "title": "Photograph",
       "diziid": "mo",
       "bolum": "43",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/43/tum_resimler_bir_hikaye_anlatir"
     },
     {
-      "season": 19,
-      "episode": 44,
+      "season": 3,
+      "episode": 19,
       "title": "I Love Rock and Roll: Part 1",
       "diziid": "mo",
       "bolum": "44",
       "url": "https://cizgivedizi.com/dizi/mo/muzik_okulu/44/rock_and_rollu_seviyorum_1.kisim"
     },
     {
-      "season": 20,
-      "episode": 45,
+      "season": 3,
+      "episode": 20,
       "title": "I Love Rock and Roll: Part 2",
       "diziid": "mo",
       "bolum": "45",

@@ -3,6 +3,7 @@
   "title": "9-1-1: lone star",
   "type": "dizi",
   "poster": "https://cizgivedizi.com/ESKÄ°/dizi/resim/poster/911LSPoster.avif",
+  "plot": "Bir New York itfaiyecisi, oÄŸluyla birlikte Austin'e yerleÅŸir ve orada en savunmasÄ±z olanlarÄ± kurtarma gÃ¶reviyle kendi hayatÄ±ndaki sorunlarÄ± Ã§Ã¶zmeyi dengelemeye Ã§alÄ±ÅŸmalÄ±dÄ±r.",
   "channel": "Disney+",
   "genres": [
     "Dram",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/1/pilot_bolum"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Yee-Haw",
       "diziid": "911ls",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/2/yasasin"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Texas Proud",
       "diziid": "911ls",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/3/teksas_gururu"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Act of God",
       "diziid": "911ls",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/4/tanrinin_isi"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Studs",
       "diziid": "911ls",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/5/cekici_erkekler"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Friends Like These",
       "diziid": "911ls",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/6/boyle_arkadaslar"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Bum Steer",
       "diziid": "911ls",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/7/yaniltici_bilgi"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Monster Inside",
       "diziid": "911ls",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/8/icerideki_canavar"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Awakening",
       "diziid": "911ls",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/9/uyanis"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Austin, We Have a Problem",
       "diziid": "911ls",
@@ -90,8 +91,8 @@
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/10/austin%2C_bir_sorunumuz_var"
     },
     {
-      "season": 1,
-      "episode": 11,
+      "season": 2,
+      "episode": 1,
       "title": "Back in the Saddle",
       "diziid": "911ls",
       "bolum": "11",
@@ -99,119 +100,119 @@
     },
     {
       "season": 2,
-      "episode": 12,
+      "episode": 2,
       "title": "2100Â°",
       "diziid": "911ls",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/12/2100%C2%B0"
     },
     {
-      "season": 3,
-      "episode": 13,
+      "season": 2,
+      "episode": 3,
       "title": "Hold the Line",
       "diziid": "911ls",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/13/hatta_kal"
     },
     {
-      "season": 4,
-      "episode": 14,
+      "season": 2,
+      "episode": 4,
       "title": "Friends with Benefits",
       "diziid": "911ls",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/14/fiziksel_cikar_iliskisi"
     },
     {
-      "season": 5,
-      "episode": 15,
+      "season": 2,
+      "episode": 5,
       "title": "Difficult Conversations",
       "diziid": "911ls",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/15/zor_konusmalar"
     },
     {
-      "season": 6,
-      "episode": 16,
+      "season": 2,
+      "episode": 6,
       "title": "Everyone and Their Brother",
       "diziid": "911ls",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/16/herkes_ve_kardesleri"
     },
     {
-      "season": 7,
-      "episode": 17,
+      "season": 2,
+      "episode": 7,
       "title": "Displaced",
       "diziid": "911ls",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/17/yerinden_olmus"
     },
     {
-      "season": 8,
-      "episode": 18,
+      "season": 2,
+      "episode": 8,
       "title": "Bad Call",
       "diziid": "911ls",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/18/kotu_cagri"
     },
     {
-      "season": 9,
-      "episode": 19,
+      "season": 2,
+      "episode": 9,
       "title": "Saving Grace",
       "diziid": "911ls",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/19/gracei_kurtarmak"
     },
     {
-      "season": 10,
-      "episode": 20,
+      "season": 2,
+      "episode": 10,
       "title": "A Little Help from My Friends",
       "diziid": "911ls",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/20/arkadaslarimin_kucuk_yardimi"
     },
     {
-      "season": 11,
-      "episode": 21,
+      "season": 2,
+      "episode": 11,
       "title": "Slow Burn",
       "diziid": "911ls",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/21/yavas_adimlar"
     },
     {
-      "season": 12,
-      "episode": 22,
+      "season": 2,
+      "episode": 12,
       "title": "The Big Heat",
       "diziid": "911ls",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/22/buyuk_ates"
     },
     {
-      "season": 13,
-      "episode": 23,
+      "season": 2,
+      "episode": 13,
       "title": "One Day",
       "diziid": "911ls",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/23/bir_gun"
     },
     {
-      "season": 14,
-      "episode": 24,
+      "season": 2,
+      "episode": 14,
       "title": "Dust to Dust",
       "diziid": "911ls",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/24/toprak_topraga"
     },
     {
-      "season": 1,
-      "episode": 25,
+      "season": 3,
+      "episode": 1,
       "title": "The Big Chill",
       "diziid": "911ls",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/25/buyuk_donma"
     },
     {
-      "season": 2,
-      "episode": 26,
+      "season": 3,
+      "episode": 2,
       "title": "Thin Ice",
       "diziid": "911ls",
       "bolum": "26",
@@ -219,151 +220,151 @@
     },
     {
       "season": 3,
-      "episode": 27,
+      "episode": 3,
       "title": "Shock & Thaw",
       "diziid": "911ls",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/27/sokla_ve_coz"
     },
     {
-      "season": 4,
-      "episode": 28,
+      "season": 3,
+      "episode": 4,
       "title": "Push",
       "diziid": "911ls",
       "bolum": "28",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/28/ikin"
     },
     {
-      "season": 5,
-      "episode": 29,
+      "season": 3,
+      "episode": 5,
       "title": "Child Care",
       "diziid": "911ls",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/29/cocuk_bakimi"
     },
     {
-      "season": 6,
-      "episode": 30,
+      "season": 3,
+      "episode": 6,
       "title": "The ATX-Files",
       "diziid": "911ls",
       "bolum": "30",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/30/atx_dosyalari"
     },
     {
-      "season": 7,
-      "episode": 31,
+      "season": 3,
+      "episode": 7,
       "title": "Red vs. Blue",
       "diziid": "911ls",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/31/kirmizi%2C_maviye_karsi"
     },
     {
-      "season": 8,
-      "episode": 32,
+      "season": 3,
+      "episode": 8,
       "title": "In the Unlikely Event of an Emergency",
       "diziid": "911ls",
       "bolum": "32",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/32/beklenmedik_bir_acil_durumda"
     },
     {
-      "season": 9,
-      "episode": 33,
+      "season": 3,
+      "episode": 9,
       "title": "The Bird",
       "diziid": "911ls",
       "bolum": "33",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/33/kus"
     },
     {
-      "season": 10,
-      "episode": 34,
+      "season": 3,
+      "episode": 10,
       "title": "Parental Guidance",
       "diziid": "911ls",
       "bolum": "34",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/34/ebeveyn_rehberligi"
     },
     {
-      "season": 11,
-      "episode": 35,
+      "season": 3,
+      "episode": 11,
       "title": "Prince Albert in a Can",
       "diziid": "911ls",
       "bolum": "35",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/35/kutudaki_prens_albert"
     },
     {
-      "season": 12,
-      "episode": 36,
+      "season": 3,
+      "episode": 12,
       "title": "Negative Space",
       "diziid": "911ls",
       "bolum": "36",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/36/negatif_alan"
     },
     {
-      "season": 13,
-      "episode": 37,
+      "season": 3,
+      "episode": 13,
       "title": "Riddle of the Sphynx",
       "diziid": "911ls",
       "bolum": "37",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/37/sphynxin_bilmecesi"
     },
     {
-      "season": 14,
-      "episode": 38,
+      "season": 3,
+      "episode": 14,
       "title": "Impulse Control",
       "diziid": "911ls",
       "bolum": "38",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/38/durtu_kontrolu"
     },
     {
-      "season": 15,
-      "episode": 39,
+      "season": 3,
+      "episode": 15,
       "title": "Down to Clown",
       "diziid": "911ls",
       "bolum": "39",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/39/palyacoyu_oynamak"
     },
     {
-      "season": 16,
-      "episode": 40,
+      "season": 3,
+      "episode": 16,
       "title": "Shift-Less",
       "diziid": "911ls",
       "bolum": "40",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/40/yuzlesme"
     },
     {
-      "season": 17,
-      "episode": 41,
+      "season": 3,
+      "episode": 17,
       "title": "Spring Cleaning",
       "diziid": "911ls",
       "bolum": "41",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/41/bahar_temizligi"
     },
     {
-      "season": 18,
-      "episode": 42,
+      "season": 3,
+      "episode": 18,
       "title": "A Bright and Cloudless Morning",
       "diziid": "911ls",
       "bolum": "42",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/42/acik_ve_bulutsuz_bir_sabah"
     },
     {
-      "season": 1,
-      "episode": 43,
+      "season": 4,
+      "episode": 1,
       "title": "The New Hotness",
       "diziid": "911ls",
       "bolum": "43",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/43/yeni_gozde"
     },
     {
-      "season": 2,
-      "episode": 44,
+      "season": 4,
+      "episode": 2,
       "title": "The New Hot Mess",
       "diziid": "911ls",
       "bolum": "44",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/44/yeni_atesli_karmasa"
     },
     {
-      "season": 3,
-      "episode": 45,
+      "season": 4,
+      "episode": 3,
       "title": "Cry Wolf",
       "diziid": "911ls",
       "bolum": "45",
@@ -371,151 +372,151 @@
     },
     {
       "season": 4,
-      "episode": 46,
+      "episode": 4,
       "title": "Abandoned",
       "diziid": "911ls",
       "bolum": "46",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/46/terkedilmis"
     },
     {
-      "season": 5,
-      "episode": 47,
+      "season": 4,
+      "episode": 5,
       "title": "Human Resources",
       "diziid": "911ls",
       "bolum": "47",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/47/insan_kaynaklari"
     },
     {
-      "season": 6,
-      "episode": 48,
+      "season": 4,
+      "episode": 6,
       "title": "This Is Not a Drill",
       "diziid": "911ls",
       "bolum": "48",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/48/bu_bir_tatbikat_degildir"
     },
     {
-      "season": 7,
-      "episode": 49,
+      "season": 4,
+      "episode": 7,
       "title": "Tommy Dearest",
       "diziid": "911ls",
       "bolum": "49",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/49/tommy_canim"
     },
     {
-      "season": 8,
-      "episode": 50,
+      "season": 4,
+      "episode": 8,
       "title": "Control Freaks",
       "diziid": "911ls",
       "bolum": "50",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/50/kontrol_manyaklari"
     },
     {
-      "season": 9,
-      "episode": 51,
+      "season": 4,
+      "episode": 9,
       "title": "Road Kill",
       "diziid": "911ls",
       "bolum": "51",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/51/olum_yolu"
     },
     {
-      "season": 10,
-      "episode": 52,
+      "season": 4,
+      "episode": 10,
       "title": "Sellouts",
       "diziid": "911ls",
       "bolum": "52",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/52/satilanlar"
     },
     {
-      "season": 11,
-      "episode": 53,
+      "season": 4,
+      "episode": 11,
       "title": "Double Trouble",
       "diziid": "911ls",
       "bolum": "53",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/53/cifte_bela"
     },
     {
-      "season": 12,
-      "episode": 54,
+      "season": 4,
+      "episode": 12,
       "title": "Swipe Left",
       "diziid": "911ls",
       "bolum": "54",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/54/sola_kaydir"
     },
     {
-      "season": 13,
-      "episode": 55,
+      "season": 4,
+      "episode": 13,
       "title": "Open",
       "diziid": "911ls",
       "bolum": "55",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/55/acik"
     },
     {
-      "season": 14,
-      "episode": 56,
+      "season": 4,
+      "episode": 14,
       "title": "Tongues Out",
       "diziid": "911ls",
       "bolum": "56",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/56/jaccuse%21"
     },
     {
-      "season": 15,
-      "episode": 57,
+      "season": 4,
+      "episode": 15,
       "title": "Donors",
       "diziid": "911ls",
       "bolum": "57",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/57/donorler"
     },
     {
-      "season": 16,
-      "episode": 58,
+      "season": 4,
+      "episode": 16,
       "title": "A House Divided",
       "diziid": "911ls",
       "bolum": "58",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/58/bolunmus_bir_ev"
     },
     {
-      "season": 17,
-      "episode": 59,
+      "season": 4,
+      "episode": 17,
       "title": "Best of Men",
       "diziid": "911ls",
       "bolum": "59",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/59/erkeklerin_en_iyisi"
     },
     {
-      "season": 18,
-      "episode": 60,
+      "season": 4,
+      "episode": 18,
       "title": "In Sickness and in Health",
       "diziid": "911ls",
       "bolum": "60",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/60/hastalikta_ve_saglikta"
     },
     {
-      "season": 1,
-      "episode": 61,
+      "season": 5,
+      "episode": 1,
       "title": "Both Sides, Now",
       "diziid": "911ls",
       "bolum": "61",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/61/iki_taraf_da_simdi"
     },
     {
-      "season": 2,
-      "episode": 62,
+      "season": 5,
+      "episode": 2,
       "title": "Trainwrecks",
       "diziid": "911ls",
       "bolum": "62",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/62/tren_kazalari"
     },
     {
-      "season": 3,
-      "episode": 63,
+      "season": 5,
+      "episode": 3,
       "title": "Cl2",
       "diziid": "911ls",
       "bolum": "63",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/63/cl2"
     },
     {
-      "season": 4,
-      "episode": 64,
+      "season": 5,
+      "episode": 4,
       "title": "My Way",
       "diziid": "911ls",
       "bolum": "64",
@@ -523,63 +524,63 @@
     },
     {
       "season": 5,
-      "episode": 65,
+      "episode": 5,
       "title": "Thunderstruck",
       "diziid": "911ls",
       "bolum": "65",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/65/afallamis"
     },
     {
-      "season": 6,
-      "episode": 66,
+      "season": 5,
+      "episode": 6,
       "title": "Naked Truth",
       "diziid": "911ls",
       "bolum": "66",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/66/ciplak_gercek"
     },
     {
-      "season": 7,
-      "episode": 67,
+      "season": 5,
+      "episode": 7,
       "title": "Kiddos",
       "diziid": "911ls",
       "bolum": "67",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/67/cocuklar"
     },
     {
-      "season": 8,
-      "episode": 68,
+      "season": 5,
+      "episode": 8,
       "title": "The Quiet Ones",
       "diziid": "911ls",
       "bolum": "68",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/68/sessiz_kalanlar"
     },
     {
-      "season": 9,
-      "episode": 69,
+      "season": 5,
+      "episode": 9,
       "title": "Fall from Grace",
       "diziid": "911ls",
       "bolum": "69",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/69/gozden_dusus"
     },
     {
-      "season": 10,
-      "episode": 70,
+      "season": 5,
+      "episode": 10,
       "title": "All Who Wander",
       "diziid": "911ls",
       "bolum": "70",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/70/yolunu_arayanlar"
     },
     {
-      "season": 11,
-      "episode": 71,
+      "season": 5,
+      "episode": 11,
       "title": "Impact",
       "diziid": "911ls",
       "bolum": "71",
       "url": "https://cizgivedizi.com/dizi/911ls/9-1-1%3A_lone_star/71/darbe"
     },
     {
-      "season": 12,
-      "episode": 72,
+      "season": 5,
+      "episode": 12,
       "title": "Homecoming",
       "diziid": "911ls",
       "bolum": "72",

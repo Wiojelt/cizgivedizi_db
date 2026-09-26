@@ -3,6 +3,7 @@
   "title": "ben 10",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/B10Poster.avif",
+  "plot": "Sahibine farklÄ± gÃ¼Ã§ler bahÅŸeden Omnitrix adlÄ± â€œsaatâ€ sayesinde Ben; her biri farklÄ± yeteneklere sahip on uzaylÄ±ya dÃ¶nÃ¼ÅŸebilir. BÃ¼tÃ¼n bunlarÄ±n yanÄ±nda Ben, 10 yaÅŸÄ±nda bir Ã§ocuktur.",
   "channel": "Cartoon Network",
   "genres": [
     "Aksiyon",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/1/ve_sonra_10_var"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Washington B.C.",
       "diziid": "b10",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/2/washington"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "The Krakken",
       "diziid": "b10",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/3/gol_canavari"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Permanent Retirement",
       "diziid": "b10",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/4/sonsuza_kadar_emeklilik"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Hunted",
       "diziid": "b10",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/5/avlanma"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Tourist Trap",
       "diziid": "b10",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/6/turist_tuzagi"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Kevin 11",
       "diziid": "b10",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/7/kevin_11"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "The Alliance",
       "diziid": "b10",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/8/ittifak"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Last Laugh",
       "diziid": "b10",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/9/son_kahkaha"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Lucky Girl",
       "diziid": "b10",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/10/sansli_kiz"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "A Small Problem",
       "diziid": "b10",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/11/kucuk_bir_problem"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Side Effects",
       "diziid": "b10",
@@ -106,7 +107,7 @@
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/12/yan_etki"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "Secrets",
       "diziid": "b10",
@@ -114,8 +115,8 @@
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/13/sirlar"
     },
     {
-      "season": 1,
-      "episode": 14,
+      "season": 2,
+      "episode": 1,
       "title": "Truth",
       "diziid": "b10",
       "bolum": "14",
@@ -123,111 +124,111 @@
     },
     {
       "season": 2,
-      "episode": 15,
+      "episode": 2,
       "title": "The Big Tick",
       "diziid": "b10",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/15/buyuk_bit"
     },
     {
-      "season": 3,
-      "episode": 16,
+      "season": 2,
+      "episode": 3,
       "title": "Framed",
       "diziid": "b10",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/16/tuzak"
     },
     {
-      "season": 4,
-      "episode": 17,
+      "season": 2,
+      "episode": 4,
       "title": "Gwen 10",
       "diziid": "b10",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/17/gwen_10"
     },
     {
-      "season": 5,
-      "episode": 18,
+      "season": 2,
+      "episode": 5,
       "title": "Grudge Match",
       "diziid": "b10",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/18/kin_maci"
     },
     {
-      "season": 6,
-      "episode": 19,
+      "season": 2,
+      "episode": 6,
       "title": "The Galactic Enforcers",
       "diziid": "b10",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/19/galaktik_polisler"
     },
     {
-      "season": 7,
-      "episode": 20,
+      "season": 2,
+      "episode": 7,
       "title": "Camp Fear",
       "diziid": "b10",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/20/kampta_korku"
     },
     {
-      "season": 8,
-      "episode": 21,
+      "season": 2,
+      "episode": 8,
       "title": "Ultimate Weapon",
       "diziid": "b10",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/21/en_buyuk_silah"
     },
     {
-      "season": 9,
-      "episode": 22,
+      "season": 2,
+      "episode": 9,
       "title": "Tough Luck",
       "diziid": "b10",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/22/zor_sans"
     },
     {
-      "season": 10,
-      "episode": 23,
+      "season": 2,
+      "episode": 10,
       "title": "They Lurk Below",
       "diziid": "b10",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/23/asagida_dolasiyorlar"
     },
     {
-      "season": 11,
-      "episode": 24,
+      "season": 2,
+      "episode": 11,
       "title": "Ghostfreaked Out",
       "diziid": "b10",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/24/golge_hayalet_korktu"
     },
     {
-      "season": 12,
-      "episode": 25,
+      "season": 2,
+      "episode": 12,
       "title": "Dr. Animo and the Mutant Ray",
       "diziid": "b10",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/25/dr._animo_ve_mutant_isigi"
     },
     {
-      "season": 13,
-      "episode": 26,
+      "season": 2,
+      "episode": 13,
       "title": "Back with a Vengeance",
       "diziid": "b10",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/26/intikam_icin_donus"
     },
     {
-      "season": 1,
-      "episode": 27,
+      "season": 3,
+      "episode": 1,
       "title": "Ben 10,000",
       "diziid": "b10",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/27/ben_10%2C000"
     },
     {
-      "season": 2,
-      "episode": 28,
+      "season": 3,
+      "episode": 2,
       "title": "Midnight Madness",
       "diziid": "b10",
       "bolum": "28",
@@ -235,111 +236,111 @@
     },
     {
       "season": 3,
-      "episode": 29,
+      "episode": 3,
       "title": "A Change of Face",
       "diziid": "b10",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/29/yuz_degistirme"
     },
     {
-      "season": 4,
-      "episode": 30,
+      "season": 3,
+      "episode": 4,
       "title": "Merry Christmas",
       "diziid": "b10",
       "bolum": "30",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/30/mutlu_noeller"
     },
     {
-      "season": 5,
-      "episode": 31,
+      "season": 3,
+      "episode": 5,
       "title": "Benwolf",
       "diziid": "b10",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/31/kurt_ben"
     },
     {
-      "season": 6,
-      "episode": 32,
+      "season": 3,
+      "episode": 6,
       "title": "Game Over",
       "diziid": "b10",
       "bolum": "32",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/32/oyun_bitti"
     },
     {
-      "season": 7,
-      "episode": 33,
+      "season": 3,
+      "episode": 7,
       "title": "Super Alien Hero Buddy Adventures",
       "diziid": "b10",
       "bolum": "33",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/33/super_uzayli_kahraman_kafadar_maceralari"
     },
     {
-      "season": 8,
-      "episode": 34,
+      "season": 3,
+      "episode": 8,
       "title": "Under Wraps",
       "diziid": "b10",
       "bolum": "34",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/34/sargilar_icinde"
     },
     {
-      "season": 9,
-      "episode": 35,
+      "season": 3,
+      "episode": 9,
       "title": "The Unnaturals",
       "diziid": "b10",
       "bolum": "35",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/35/anormaller"
     },
     {
-      "season": 10,
-      "episode": 36,
+      "season": 3,
+      "episode": 10,
       "title": "Monster Weather",
       "diziid": "b10",
       "bolum": "36",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/36/canavar_havasi"
     },
     {
-      "season": 11,
-      "episode": 37,
+      "season": 3,
+      "episode": 11,
       "title": "The Return",
       "diziid": "b10",
       "bolum": "37",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/37/donus"
     },
     {
-      "season": 12,
-      "episode": 38,
+      "season": 3,
+      "episode": 12,
       "title": "Be Afraid of the Dark",
       "diziid": "b10",
       "bolum": "38",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/38/karanliktan_korkmak"
     },
     {
-      "season": 13,
-      "episode": 39,
+      "season": 3,
+      "episode": 13,
       "title": "The Visitor",
       "diziid": "b10",
       "bolum": "39",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/39/ziyaretci"
     },
     {
-      "season": 1,
-      "episode": 40,
+      "season": 4,
+      "episode": 1,
       "title": "Perfect Day",
       "diziid": "b10",
       "bolum": "40",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/40/harika_gun"
     },
     {
-      "season": 2,
-      "episode": 41,
+      "season": 4,
+      "episode": 2,
       "title": "Divided We Stand",
       "diziid": "b10",
       "bolum": "41",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/41/biz_ayakta_bolunduk"
     },
     {
-      "season": 3,
-      "episode": 42,
+      "season": 4,
+      "episode": 3,
       "title": "Don't Drink the Water",
       "diziid": "b10",
       "bolum": "42",
@@ -347,79 +348,79 @@
     },
     {
       "season": 4,
-      "episode": 43,
+      "episode": 4,
       "title": "Big Fat Alien Wedding",
       "diziid": "b10",
       "bolum": "43",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/43/koca_sisman_uzayli_dugunu"
     },
     {
-      "season": 5,
-      "episode": 44,
+      "season": 4,
+      "episode": 5,
       "title": "Ben 10: Secret of the Omnitrix, Part 1",
       "diziid": "b10",
       "bolum": "44",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/44/omnitrixin_sirri_1.bolum"
     },
     {
-      "season": 6,
-      "episode": 45,
+      "season": 4,
+      "episode": 6,
       "title": "Ben 10: Secret of the Omnitrix, Part 2",
       "diziid": "b10",
       "bolum": "45",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/45/omnitrixin_sirri_2.bolum"
     },
     {
-      "season": 7,
-      "episode": 46,
+      "season": 4,
+      "episode": 7,
       "title": "Ben 10: Secret of the Omnitrix, Part 3",
       "diziid": "b10",
       "bolum": "46",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/46/omnitrixin_sirri_3.bolum"
     },
     {
-      "season": 8,
-      "episode": 47,
+      "season": 4,
+      "episode": 8,
       "title": "Ben 4 Good Buddy",
       "diziid": "b10",
       "bolum": "47",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/47/iyi_dostlar_icin_ben"
     },
     {
-      "season": 9,
-      "episode": 48,
+      "season": 4,
+      "episode": 9,
       "title": "Ready to Rumble",
       "diziid": "b10",
       "bolum": "48",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/48/hirpalamaya_hazir"
     },
     {
-      "season": 10,
-      "episode": 49,
+      "season": 4,
+      "episode": 10,
       "title": "Ken 10",
       "diziid": "b10",
       "bolum": "49",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/49/ken_10"
     },
     {
-      "season": 11,
-      "episode": 50,
+      "season": 4,
+      "episode": 11,
       "title": "Ben 10 vs. Negative 10: Part 1",
       "diziid": "b10",
       "bolum": "50",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/50/ben_10_negatif_10e_karsi%3A_1.bolum"
     },
     {
-      "season": 12,
-      "episode": 51,
+      "season": 4,
+      "episode": 12,
       "title": "Ben 10 vs. Negative 10: Part 2",
       "diziid": "b10",
       "bolum": "51",
       "url": "https://cizgivedizi.com/dizi/b10/ben_10/51/ben_10_negatif_10e_karsi%3A_2.bolum"
     },
     {
-      "season": 13,
-      "episode": 52,
+      "season": 4,
+      "episode": 13,
       "title": "Goodbye and Good Riddance",
       "diziid": "b10",
       "bolum": "52",

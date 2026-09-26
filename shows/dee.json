@@ -3,6 +3,7 @@
   "title": "dee ve dostlarÄ±",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/DEEPoster.avif",
+  "plot": "Gizemli bir anahtar sayesinde Oz diyarÄ±na giden Dee adÄ±ndaki sÄ±radan bir Ã§ocuk, sihri kurtarmak ve Ã¶ykÃ¼nÃ¼n kahramanÄ± olmak iÃ§in mÃ¼zikal bir yolculuÄŸa Ã§Ä±kar.",
   "channel": "Netflix",
   "genres": [
     "Fantastik",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/dee/dee_ve_dostlari/1/dee_ve_ozun_muhtesem_okulu"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Dee and the Ozling Rescue",
       "diziid": "dee",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/dee/dee_ve_dostlari/2/dee_ve_kurtarma_operasyonu"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Dee and the Magical Gemstone",
       "diziid": "dee",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/dee/dee_ve_dostlari/3/dee_ve_sihirli_tas"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Dee and the Ozberry Adventure",
       "diziid": "dee",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/dee/dee_ve_dostlari/4/dee_ve_ozmeyvesi_festivali"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Dee and the Banana Gemstone",
       "diziid": "dee",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/dee/dee_ve_dostlari/5/dee_ve_muz_tasi"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Dee and the Do-Your-Best-Fest",
       "diziid": "dee",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/dee/dee_ve_dostlari/6/dee_ve_emek_festivali"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Dee and the Cloud Gemstone",
       "diziid": "dee",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/dee/dee_ve_dostlari/7/dee_ve_bulut_tasi"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Dee and the Heart Gemstone",
       "diziid": "dee",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/dee/dee_ve_dostlari/8/dee_ve_kalp_tasi"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Dee and the Crown of Oz",
       "diziid": "dee",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/dee/dee_ve_dostlari/9/dee_ve_oz_taci"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Dee and the Trouble in Tinland",
       "diziid": "dee",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/dee/dee_ve_dostlari/10/dee_ve_teneke_diyarindaki_sorun"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Dee and the Giant Ozlings",
       "diziid": "dee",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/dee/dee_ve_dostlari/11/dee_ve_dev_ozlingler"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Dee and the Shrink Bug",
       "diziid": "dee",
@@ -106,7 +107,7 @@
       "url": "https://cizgivedizi.com/dizi/dee/dee_ve_dostlari/12/dee_ve_kucultme_bocegi"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "Dee, Tin, and the Golden Ozberry",
       "diziid": "dee",
@@ -114,7 +115,7 @@
       "url": "https://cizgivedizi.com/dizi/dee/dee_ve_dostlari/13/dee%2C_teneke_ve_altin_ozmeyvesi"
     },
     {
-      "season": 14,
+      "season": 1,
       "episode": 14,
       "title": "Dee and the Magic Balloon",
       "diziid": "dee",
@@ -122,7 +123,7 @@
       "url": "https://cizgivedizi.com/dizi/dee/dee_ve_dostlari/14/dee_ve_sihirli_balon"
     },
     {
-      "season": 15,
+      "season": 1,
       "episode": 15,
       "title": "Dee and the Oz Emergencies",
       "diziid": "dee",
@@ -130,7 +131,7 @@
       "url": "https://cizgivedizi.com/dizi/dee/dee_ve_dostlari/15/dee_ve_ozdaki_acil_durumlar"
     },
     {
-      "season": 16,
+      "season": 1,
       "episode": 16,
       "title": "Dee and the Wizard of Oz",
       "diziid": "dee",
@@ -138,8 +139,8 @@
       "url": "https://cizgivedizi.com/dizi/dee/dee_ve_dostlari/16/dee_ve_oz_buyucusu"
     },
     {
-      "season": 1,
-      "episode": 17,
+      "season": 2,
+      "episode": 1,
       "title": "Dee ve DostlarÄ±: Film",
       "diziid": "dee",
       "bolum": "0",

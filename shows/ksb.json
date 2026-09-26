@@ -3,6 +3,7 @@
   "title": "karÅŸÄ±nÄ±zda storybots",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/KSBPoster.avif",
+  "plot": "Tiny Beep, Bing, Bang, Boop ve Bo Ã§ocuklarÄ±n bÃ¼yÃ¼k sorularÄ±na cevap bulmak iÃ§in dÃ¼nyayÄ± geziyorlar ve seyahatleri sÄ±rasÄ±nda renkli karakterle karÅŸÄ±laÅŸÄ±yorlar.",
   "channel": "Netflix",
   "genres": [
     "EÄŸitici/Ã–ÄŸretici"
@@ -17,7 +18,7 @@
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/1/gece_nasil_oluyor"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "How Do Airplanes Fly?",
       "diziid": "ksb",
@@ -25,7 +26,7 @@
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/2/ucaklar_nasil_ucabiliyor"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Why Do I Have to Brush My Teeth?",
       "diziid": "ksb",
@@ -33,7 +34,7 @@
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/3/dislerimi_neden_fircalamaliyim"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Why Is the Sky Blue?",
       "diziid": "ksb",
@@ -41,7 +42,7 @@
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/4/gokyuzu_neden_mavi"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Where Do French Fries Come From?",
       "diziid": "ksb",
@@ -49,7 +50,7 @@
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/5/patates_kizartmasi_nasil_oluyor"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Where Does Rain Come From?",
       "diziid": "ksb",
@@ -57,8 +58,8 @@
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/6/yagmur_nasil_yagiyor"
     },
     {
-      "season": 1,
-      "episode": 7,
+      "season": 2,
+      "episode": 1,
       "title": "How Do Computers Work?",
       "diziid": "ksb",
       "bolum": "7",
@@ -66,71 +67,71 @@
     },
     {
       "season": 2,
-      "episode": 8,
+      "episode": 2,
       "title": "Why Can't I Eat Dessert All the Time?",
       "diziid": "ksb",
       "bolum": "8",
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/8/neden_her_zaman_tatli_yiyemem"
     },
     {
-      "season": 3,
-      "episode": 9,
+      "season": 2,
+      "episode": 3,
       "title": "How Many Types of Animals Are There?",
       "diziid": "ksb",
       "bolum": "9",
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/9/kac_farkli_tur_hayvan_vardir"
     },
     {
-      "season": 4,
-      "episode": 10,
+      "season": 2,
+      "episode": 4,
       "title": "How Do Ears Hear?",
       "diziid": "ksb",
       "bolum": "10",
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/10/kulaklar_nasil_duyuyor"
     },
     {
-      "season": 5,
-      "episode": 11,
+      "season": 2,
+      "episode": 5,
       "title": "How Do Volcanoes Work?",
       "diziid": "ksb",
       "bolum": "11",
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/11/yanardaglar_nasil_olusuyor"
     },
     {
-      "season": 6,
-      "episode": 12,
+      "season": 2,
+      "episode": 6,
       "title": "Where Does Electricity Come From?",
       "diziid": "ksb",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/12/elektrik_nereden_geliyor"
     },
     {
-      "season": 7,
-      "episode": 13,
+      "season": 2,
+      "episode": 7,
       "title": "How Do Flowers Grow?",
       "diziid": "ksb",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/13/cicekler_nasil_buyuyor"
     },
     {
-      "season": 8,
-      "episode": 14,
+      "season": 2,
+      "episode": 8,
       "title": "How Do People Catch a Cold?",
       "diziid": "ksb",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/14/insanlar_nasil_usutuyor"
     },
     {
-      "season": 1,
-      "episode": 15,
+      "season": 3,
+      "episode": 1,
       "title": "How Do You Make Music?",
       "diziid": "ksb",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/15/muzik_nasil_yapilir"
     },
     {
-      "season": 2,
-      "episode": 16,
+      "season": 3,
+      "episode": 2,
       "title": "Where Do Planets Come From?",
       "diziid": "ksb",
       "bolum": "16",
@@ -138,47 +139,47 @@
     },
     {
       "season": 3,
-      "episode": 17,
+      "episode": 3,
       "title": "Why Do People Look Different?",
       "diziid": "ksb",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/17/insanlar_neden_farkli_gorunur"
     },
     {
-      "season": 4,
-      "episode": 18,
+      "season": 3,
+      "episode": 4,
       "title": "Why Do We Have to Recycle?",
       "diziid": "ksb",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/18/neden_geri_donusum_yapmaliyiz"
     },
     {
-      "season": 5,
-      "episode": 19,
+      "season": 3,
+      "episode": 5,
       "title": "How Do Cell Phones Work?",
       "diziid": "ksb",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/19/cep_telefonlari_nasil_calisir"
     },
     {
-      "season": 6,
-      "episode": 20,
+      "season": 3,
+      "episode": 6,
       "title": "What Happens When You Flush the Toilet?",
       "diziid": "ksb",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/20/sifonu_cekince_ne_olur"
     },
     {
-      "season": 7,
-      "episode": 21,
+      "season": 3,
+      "episode": 7,
       "title": "Where Does Chocolate Come From?",
       "diziid": "ksb",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/ksb/karsinizda_storybots/21/cikolata_nereden_gelir"
     },
     {
-      "season": 8,
-      "episode": 22,
+      "season": 3,
+      "episode": 8,
       "title": "How Do Eyes See?",
       "diziid": "ksb",
       "bolum": "22",

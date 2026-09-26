@@ -3,6 +3,7 @@
   "title": "tom ve jerry",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/TVJPoster.avif",
+  "plot": "Kendince bir yaÅŸam sÃ¼rmek isteyen fare Jerryâ€™e azÄ±lÄ± dÃ¼ÅŸmanÄ± kedi Tom nefes aldÄ±rmÄ±yor. Tom, bu akÄ±llÄ± fareyi yakalayabilmek iÃ§in bin bir tÃ¼rlÃ¼ tuzak kursa da Jerry aklÄ±yla onu alt edebilmeâ€¦",
   "channel": "Bilinmiyor",
   "genres": [
     "Komedi"
@@ -17,7 +18,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/1/ilk_bolum"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "The Midnight Snack",
       "diziid": "tvj",
@@ -25,7 +26,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/2/gece_yarisi_atistirmaligi"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "The Night Before Christmas",
       "diziid": "tvj",
@@ -33,7 +34,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/3/noel_arifesi"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Fraidy Cat",
       "diziid": "tvj",
@@ -41,7 +42,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/4/korkak_kedi"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Dog Trouble",
       "diziid": "tvj",
@@ -49,7 +50,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/5/kopek_sorunu"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Puss N' Toots",
       "diziid": "tvj",
@@ -57,7 +58,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/6/kucuk_kedi_yavrusu"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "The Bowling Alley-Cat",
       "diziid": "tvj",
@@ -65,7 +66,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/7/bowling"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Fine Feathered Friend",
       "diziid": "tvj",
@@ -73,7 +74,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/8/tuylu_dost"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Sufferin' Cats!",
       "diziid": "tvj",
@@ -81,7 +82,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/9/iki_kotu_kedi"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "The Lonesome Mouse",
       "diziid": "tvj",
@@ -89,7 +90,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/10/tom_giderse"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "The Yankee Doodle Mouse",
       "diziid": "tvj",
@@ -97,7 +98,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/11/savasci_fare"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Baby Puss",
       "diziid": "tvj",
@@ -105,7 +106,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/12/bebek_kedi"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "The Zoot Cat",
       "diziid": "tvj",
@@ -113,7 +114,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/13/hayvanat_bahcesi"
     },
     {
-      "season": 14,
+      "season": 1,
       "episode": 14,
       "title": "The Million Dollar Cat",
       "diziid": "tvj",
@@ -121,7 +122,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/14/milyon_dolarlik_kedi"
     },
     {
-      "season": 15,
+      "season": 1,
       "episode": 15,
       "title": "The Bodyguard",
       "diziid": "tvj",
@@ -129,7 +130,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/15/koruma"
     },
     {
-      "season": 16,
+      "season": 1,
       "episode": 16,
       "title": "Puttin' On the Dog",
       "diziid": "tvj",
@@ -137,7 +138,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/16/kopek_kiliginda"
     },
     {
-      "season": 17,
+      "season": 1,
       "episode": 17,
       "title": "Mouse Trouble",
       "diziid": "tvj",
@@ -145,7 +146,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/17/fare_sorunu"
     },
     {
-      "season": 18,
+      "season": 1,
       "episode": 18,
       "title": "The Mouse Comes to Dinner",
       "diziid": "tvj",
@@ -153,7 +154,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/18/aksam_yemegi"
     },
     {
-      "season": 19,
+      "season": 1,
       "episode": 19,
       "title": "Mouse in Manhattan",
       "diziid": "tvj",
@@ -161,7 +162,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/19/manhattandaki_fare"
     },
     {
-      "season": 20,
+      "season": 1,
       "episode": 20,
       "title": "Tee for Two",
       "diziid": "tvj",
@@ -169,7 +170,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/20/tom_ve_golf"
     },
     {
-      "season": 21,
+      "season": 1,
       "episode": 21,
       "title": "Flirty Birdy",
       "diziid": "tvj",
@@ -177,7 +178,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/21/flortoz_kus"
     },
     {
-      "season": 22,
+      "season": 1,
       "episode": 22,
       "title": "Quiet Please!",
       "diziid": "tvj",
@@ -185,7 +186,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/22/sessizlik_lutfen%21"
     },
     {
-      "season": 23,
+      "season": 1,
       "episode": 23,
       "title": "Springtime for Thomas",
       "diziid": "tvj",
@@ -193,7 +194,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/23/ilkbaharda_tom"
     },
     {
-      "season": 24,
+      "season": 1,
       "episode": 24,
       "title": "The Milky Waif",
       "diziid": "tvj",
@@ -201,7 +202,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/24/sut_sorunu"
     },
     {
-      "season": 25,
+      "season": 1,
       "episode": 25,
       "title": "Trap Happy",
       "diziid": "tvj",
@@ -209,7 +210,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/25/yeni_fare"
     },
     {
-      "season": 26,
+      "season": 1,
       "episode": 26,
       "title": "Solid Serenade",
       "diziid": "tvj",
@@ -217,7 +218,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/26/serenat"
     },
     {
-      "season": 27,
+      "season": 1,
       "episode": 27,
       "title": "Cat Fishin'",
       "diziid": "tvj",
@@ -225,7 +226,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/27/balik_tutan_kedi"
     },
     {
-      "season": 28,
+      "season": 1,
       "episode": 28,
       "title": "Part Time Pal",
       "diziid": "tvj",
@@ -233,7 +234,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/28/yari_zamanli_dost"
     },
     {
-      "season": 29,
+      "season": 1,
       "episode": 29,
       "title": "The Cat Concerto",
       "diziid": "tvj",
@@ -241,7 +242,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/29/kedi_koncertosu"
     },
     {
-      "season": 30,
+      "season": 1,
       "episode": 30,
       "title": "Dr. Jekyll and Mr. Mouse",
       "diziid": "tvj",
@@ -249,7 +250,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/30/dr._jekyll_ve_bay_fare"
     },
     {
-      "season": 31,
+      "season": 1,
       "episode": 31,
       "title": "Salt Water Tabby",
       "diziid": "tvj",
@@ -257,7 +258,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/31/tuzlu_su_kedisi"
     },
     {
-      "season": 32,
+      "season": 1,
       "episode": 32,
       "title": "A Mouse in the House",
       "diziid": "tvj",
@@ -265,7 +266,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/32/evde_bir_fare"
     },
     {
-      "season": 33,
+      "season": 1,
       "episode": 33,
       "title": "The Invisible Mouse",
       "diziid": "tvj",
@@ -273,7 +274,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/33/gorunmez_fare"
     },
     {
-      "season": 34,
+      "season": 1,
       "episode": 34,
       "title": "Kitty Foiled",
       "diziid": "tvj",
@@ -281,7 +282,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/34/kanarya"
     },
     {
-      "season": 35,
+      "season": 1,
       "episode": 35,
       "title": "The Truce Hurts",
       "diziid": "tvj",
@@ -289,7 +290,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/35/ateskesi_bozmak"
     },
     {
-      "season": 36,
+      "season": 1,
       "episode": 36,
       "title": "Old Rockin' Chair Tom",
       "diziid": "tvj",
@@ -297,7 +298,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/36/yasli_tembel_tom"
     },
     {
-      "season": 37,
+      "season": 1,
       "episode": 37,
       "title": "Professor Tom",
       "diziid": "tvj",
@@ -305,7 +306,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/37/profesor_tom"
     },
     {
-      "season": 38,
+      "season": 1,
       "episode": 38,
       "title": "Mouse Cleaning",
       "diziid": "tvj",
@@ -313,7 +314,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/38/ev_temizleme"
     },
     {
-      "season": 39,
+      "season": 1,
       "episode": 39,
       "title": "Polka-Dot Puss",
       "diziid": "tvj",
@@ -321,7 +322,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/39/yalan_hastalik"
     },
     {
-      "season": 40,
+      "season": 1,
       "episode": 40,
       "title": "Hatch Up Your Troubles",
       "diziid": "tvj",
@@ -329,7 +330,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/40/kucuk_kedi"
     },
     {
-      "season": 41,
+      "season": 1,
       "episode": 41,
       "title": "The Little Orphan",
       "diziid": "tvj",
@@ -337,7 +338,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/41/unut_dertlerini"
     },
     {
-      "season": 42,
+      "season": 1,
       "episode": 42,
       "title": "Heavenly Puss",
       "diziid": "tvj",
@@ -345,7 +346,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/42/cennete_girmek_isteyen_kedi"
     },
     {
-      "season": 43,
+      "season": 1,
       "episode": 43,
       "title": "The Cat and the Mermouse",
       "diziid": "tvj",
@@ -353,7 +354,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/43/kedi_ve_denizkizi_fare"
     },
     {
-      "season": 44,
+      "season": 1,
       "episode": 44,
       "title": "Love That Pup",
       "diziid": "tvj",
@@ -361,7 +362,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/44/o_yavruyu_seviyorum"
     },
     {
-      "season": 45,
+      "season": 1,
       "episode": 45,
       "title": "Jerry's Diary",
       "diziid": "tvj",
@@ -369,7 +370,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/45/jerrynin_gunlugu"
     },
     {
-      "season": 46,
+      "season": 1,
       "episode": 46,
       "title": "Tennis Chumps",
       "diziid": "tvj",
@@ -377,7 +378,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/46/tenis_sampiyonasi"
     },
     {
-      "season": 47,
+      "season": 1,
       "episode": 47,
       "title": "Little Quacker",
       "diziid": "tvj",
@@ -385,7 +386,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/47/kucuk_sarlatan"
     },
     {
-      "season": 48,
+      "season": 1,
       "episode": 48,
       "title": "Saturday Evening Puss",
       "diziid": "tvj",
@@ -393,7 +394,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/48/cumartesi_gecesi_kedileri"
     },
     {
-      "season": 49,
+      "season": 1,
       "episode": 49,
       "title": "Texas Tom",
       "diziid": "tvj",
@@ -401,7 +402,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/49/texas_tom"
     },
     {
-      "season": 50,
+      "season": 1,
       "episode": 50,
       "title": "Jerry and the Lion",
       "diziid": "tvj",
@@ -409,7 +410,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/50/jerry_ve_aslan"
     },
     {
-      "season": 51,
+      "season": 1,
       "episode": 51,
       "title": "Safety Second",
       "diziid": "tvj",
@@ -417,7 +418,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/51/guvenlik_sonra_gelir"
     },
     {
-      "season": 52,
+      "season": 1,
       "episode": 52,
       "title": "The Hollywood Bowl",
       "diziid": "tvj",
@@ -425,7 +426,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/52/tom_ve_jerry_hollywoodda"
     },
     {
-      "season": 53,
+      "season": 1,
       "episode": 53,
       "title": "The Framed Cat",
       "diziid": "tvj",
@@ -433,7 +434,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/53/iftiralar"
     },
     {
-      "season": 54,
+      "season": 1,
       "episode": 54,
       "title": "Cue Ball Cat",
       "diziid": "tvj",
@@ -441,7 +442,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/54/bilardo_duellosu"
     },
     {
-      "season": 55,
+      "season": 1,
       "episode": 55,
       "title": "Casanova Cat",
       "diziid": "tvj",
@@ -449,7 +450,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/55/kazanova_kedisi"
     },
     {
-      "season": 56,
+      "season": 1,
       "episode": 56,
       "title": "Jerry and the Goldfish",
       "diziid": "tvj",
@@ -457,7 +458,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/56/jerry_ve_japon_baligi"
     },
     {
-      "season": 57,
+      "season": 1,
       "episode": 57,
       "title": "Jerry's Cousin",
       "diziid": "tvj",
@@ -465,7 +466,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/57/jerrynin_kuzeni"
     },
     {
-      "season": 58,
+      "season": 1,
       "episode": 58,
       "title": "Sleepy-Time Tom",
       "diziid": "tvj",
@@ -473,7 +474,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/58/uykulu_tom"
     },
     {
-      "season": 59,
+      "season": 1,
       "episode": 59,
       "title": "His Mouse Friday",
       "diziid": "tvj",
@@ -481,7 +482,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/59/yerli_koy"
     },
     {
-      "season": 60,
+      "season": 1,
       "episode": 60,
       "title": "Slicked-Up Pup",
       "diziid": "tvj",
@@ -489,7 +490,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/60/kurnaz_kopek_yavrusu"
     },
     {
-      "season": 61,
+      "season": 1,
       "episode": 61,
       "title": "Nit-Witty Kitty",
       "diziid": "tvj",
@@ -497,7 +498,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/61/sersemlemis_kedi"
     },
     {
-      "season": 62,
+      "season": 1,
       "episode": 62,
       "title": "Cat Napping",
       "diziid": "tvj",
@@ -505,7 +506,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/62/hamak_kavgasi"
     },
     {
-      "season": 63,
+      "season": 1,
       "episode": 63,
       "title": "The Flying Cat",
       "diziid": "tvj",
@@ -513,7 +514,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/63/ucan_kedi"
     },
     {
-      "season": 64,
+      "season": 1,
       "episode": 64,
       "title": "The Duck Doctor",
       "diziid": "tvj",
@@ -521,7 +522,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/64/ordek_doktoru"
     },
     {
-      "season": 65,
+      "season": 1,
       "episode": 65,
       "title": "The Two Mouseketeers",
       "diziid": "tvj",
@@ -529,7 +530,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/65/iki_silahsor"
     },
     {
-      "season": 66,
+      "season": 1,
       "episode": 66,
       "title": "Smitten Kitten",
       "diziid": "tvj",
@@ -537,7 +538,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/66/kalbinden_vurulmus"
     },
     {
-      "season": 67,
+      "season": 1,
       "episode": 67,
       "title": "Triplet Trouble",
       "diziid": "tvj",
@@ -545,7 +546,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/67/uc_kedi_yavrusu"
     },
     {
-      "season": 68,
+      "season": 1,
       "episode": 68,
       "title": "Little Runaway",
       "diziid": "tvj",
@@ -553,7 +554,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/68/kucuk_kacak"
     },
     {
-      "season": 69,
+      "season": 1,
       "episode": 69,
       "title": "Fit to Be Tied",
       "diziid": "tvj",
@@ -561,7 +562,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/69/tasma"
     },
     {
-      "season": 70,
+      "season": 1,
       "episode": 70,
       "title": "Push-Button Kitty",
       "diziid": "tvj",
@@ -569,7 +570,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/70/robot_kedi"
     },
     {
-      "season": 71,
+      "season": 1,
       "episode": 71,
       "title": "Cruise Cat",
       "diziid": "tvj",
@@ -577,7 +578,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/71/seyir_kedisi"
     },
     {
-      "season": 72,
+      "season": 1,
       "episode": 72,
       "title": "The Dog House",
       "diziid": "tvj",
@@ -585,7 +586,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/72/kopek_evi"
     },
     {
-      "season": 73,
+      "season": 1,
       "episode": 73,
       "title": "The Missing Mouse",
       "diziid": "tvj",
@@ -593,7 +594,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/73/kayip_fare"
     },
     {
-      "season": 74,
+      "season": 1,
       "episode": 74,
       "title": "Jerry and Jumbo",
       "diziid": "tvj",
@@ -601,7 +602,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/74/jerry_ve_jumbo"
     },
     {
-      "season": 75,
+      "season": 1,
       "episode": 75,
       "title": "Johann Mouse",
       "diziid": "tvj",
@@ -609,7 +610,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/75/johann_fare"
     },
     {
-      "season": 76,
+      "season": 1,
       "episode": 76,
       "title": "That's My Pup!",
       "diziid": "tvj",
@@ -617,7 +618,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/76/bu_benim_yavrum%21"
     },
     {
-      "season": 77,
+      "season": 1,
       "episode": 77,
       "title": "Just Ducky",
       "diziid": "tvj",
@@ -625,7 +626,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/77/sadece_ordek"
     },
     {
-      "season": 78,
+      "season": 1,
       "episode": 78,
       "title": "Two Little Indians",
       "diziid": "tvj",
@@ -633,7 +634,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/78/iki_kucuk_kizilderili"
     },
     {
-      "season": 79,
+      "season": 1,
       "episode": 79,
       "title": "Life with Tom",
       "diziid": "tvj",
@@ -641,7 +642,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/79/tom_ile_yasam"
     },
     {
-      "season": 80,
+      "season": 1,
       "episode": 80,
       "title": "Puppy Tale",
       "diziid": "tvj",
@@ -649,7 +650,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/80/kopek_yavrusu_hikayesi"
     },
     {
-      "season": 81,
+      "season": 1,
       "episode": 81,
       "title": "Posse Cat",
       "diziid": "tvj",
@@ -657,7 +658,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/81/kedi_sahibi"
     },
     {
-      "season": 82,
+      "season": 1,
       "episode": 82,
       "title": "Hic-cup Pup",
       "diziid": "tvj",
@@ -665,7 +666,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/82/hickirik_sorunu"
     },
     {
-      "season": 83,
+      "season": 1,
       "episode": 83,
       "title": "Little School Mouse",
       "diziid": "tvj",
@@ -673,7 +674,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/83/kucuk_okul_faresi"
     },
     {
-      "season": 84,
+      "season": 1,
       "episode": 84,
       "title": "Baby Butch",
       "diziid": "tvj",
@@ -681,7 +682,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/84/bebek_butch"
     },
     {
-      "season": 85,
+      "season": 1,
       "episode": 85,
       "title": "Mice Follies",
       "diziid": "tvj",
@@ -689,7 +690,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/85/donmus_mutfak"
     },
     {
-      "season": 86,
+      "season": 1,
       "episode": 86,
       "title": "Neapolitan Mouse",
       "diziid": "tvj",
@@ -697,7 +698,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/86/tom_ve_jerry%2C_napolide"
     },
     {
-      "season": 87,
+      "season": 1,
       "episode": 87,
       "title": "Downhearted Duckling",
       "diziid": "tvj",
@@ -705,7 +706,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/87/morali_bozuk_ordek"
     },
     {
-      "season": 88,
+      "season": 1,
       "episode": 88,
       "title": "Pet Peeve",
       "diziid": "tvj",
@@ -713,7 +714,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/88/evde_kalma_mucadelesi"
     },
     {
-      "season": 89,
+      "season": 1,
       "episode": 89,
       "title": "TouchÃ©, Pussy Cat!",
       "diziid": "tvj",
@@ -721,7 +722,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/89/yavru_kedi_disari"
     },
     {
-      "season": 90,
+      "season": 1,
       "episode": 90,
       "title": "Southbound Duckling",
       "diziid": "tvj",
@@ -729,7 +730,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/90/guneye_giden_ordek_yavrusu"
     },
     {
-      "season": 91,
+      "season": 1,
       "episode": 91,
       "title": "Pup on a Picnic",
       "diziid": "tvj",
@@ -737,7 +738,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/91/piknikteki_yavru"
     },
     {
-      "season": 92,
+      "season": 1,
       "episode": 92,
       "title": "Mouse for Sale",
       "diziid": "tvj",
@@ -745,7 +746,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/92/satilik_fare"
     },
     {
-      "season": 93,
+      "season": 1,
       "episode": 93,
       "title": "Designs on Jerry",
       "diziid": "tvj",
@@ -753,7 +754,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/93/jerrynin_tasarimlari"
     },
     {
-      "season": 94,
+      "season": 1,
       "episode": 94,
       "title": "Tom and ChÃ©rie",
       "diziid": "tvj",
@@ -761,7 +762,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/94/tom_ve_cherie"
     },
     {
-      "season": 95,
+      "season": 1,
       "episode": 95,
       "title": "Smarty Cat",
       "diziid": "tvj",
@@ -769,7 +770,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/95/zeki_kurk"
     },
     {
-      "season": 96,
+      "season": 1,
       "episode": 96,
       "title": "Pecos Pest",
       "diziid": "tvj",
@@ -777,7 +778,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/96/pecos_pest"
     },
     {
-      "season": 97,
+      "season": 1,
       "episode": 97,
       "title": "That's My Mommy",
       "diziid": "tvj",
@@ -785,7 +786,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/97/o_benim_annem"
     },
     {
-      "season": 98,
+      "season": 1,
       "episode": 98,
       "title": "The Flying Sorceress",
       "diziid": "tvj",
@@ -793,7 +794,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/98/ucan_buyucu"
     },
     {
-      "season": 99,
+      "season": 1,
       "episode": 99,
       "title": "The Egg and Jerry",
       "diziid": "tvj",
@@ -801,7 +802,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/99/yumurta_ve_jerry"
     },
     {
-      "season": 100,
+      "season": 1,
       "episode": 100,
       "title": "Busy Buddies",
       "diziid": "tvj",
@@ -809,7 +810,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/100/bebek_bakiciligi"
     },
     {
-      "season": 101,
+      "season": 1,
       "episode": 101,
       "title": "Muscle Beach Tom",
       "diziid": "tvj",
@@ -817,7 +818,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/101/plajda_rekabet"
     },
     {
-      "season": 102,
+      "season": 1,
       "episode": 102,
       "title": "Down Beat Bear",
       "diziid": "tvj",
@@ -825,7 +826,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/102/dans_eden_ayi"
     },
     {
-      "season": 103,
+      "season": 1,
       "episode": 103,
       "title": "Blue Cat Blues",
       "diziid": "tvj",
@@ -833,7 +834,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/103/ask_depresyonu"
     },
     {
-      "season": 104,
+      "season": 1,
       "episode": 104,
       "title": "Barbecue Brawl",
       "diziid": "tvj",
@@ -841,7 +842,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/104/mangal_sorunu"
     },
     {
-      "season": 105,
+      "season": 1,
       "episode": 105,
       "title": "Tops with Pops",
       "diziid": "tvj",
@@ -849,7 +850,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/105/o_yavruyu_seviyorum"
     },
     {
-      "season": 106,
+      "season": 1,
       "episode": 106,
       "title": "Timid Tabby",
       "diziid": "tvj",
@@ -857,7 +858,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/106/korkak_kedi"
     },
     {
-      "season": 107,
+      "season": 1,
       "episode": 107,
       "title": "Feedin' the Kiddie",
       "diziid": "tvj",
@@ -865,7 +866,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/107/kiddieyi_beslemek"
     },
     {
-      "season": 108,
+      "season": 1,
       "episode": 108,
       "title": "Mucho Mouse",
       "diziid": "tvj",
@@ -873,7 +874,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/108/fare_yakalama"
     },
     {
-      "season": 109,
+      "season": 1,
       "episode": 109,
       "title": "Tom's Photo Finish",
       "diziid": "tvj",
@@ -881,7 +882,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/109/tomun_suc_ustu_fotografi"
     },
     {
-      "season": 110,
+      "season": 1,
       "episode": 110,
       "title": "Happy Go Ducky",
       "diziid": "tvj",
@@ -889,7 +890,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/110/mutlu_ordek"
     },
     {
-      "season": 111,
+      "season": 1,
       "episode": 111,
       "title": "Royal Cat Nap",
       "diziid": "tvj",
@@ -897,7 +898,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/111/asil_kedinin_uykusu"
     },
     {
-      "season": 112,
+      "season": 1,
       "episode": 112,
       "title": "The Vanishing Duck",
       "diziid": "tvj",
@@ -905,7 +906,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/112/yok_olan_ordek"
     },
     {
-      "season": 113,
+      "season": 1,
       "episode": 113,
       "title": "Robin Hoodwinked",
       "diziid": "tvj",
@@ -913,7 +914,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/113/robin_hood"
     },
     {
-      "season": 114,
+      "season": 1,
       "episode": 114,
       "title": "Tot Watchers",
       "diziid": "tvj",
@@ -921,7 +922,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/114/bebek_bakicisi"
     },
     {
-      "season": 115,
+      "season": 1,
       "episode": 115,
       "title": "Switchin' Kitten",
       "diziid": "tvj",
@@ -929,7 +930,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/115/degisen_kedi"
     },
     {
-      "season": 116,
+      "season": 1,
       "episode": 116,
       "title": "Down and Outing",
       "diziid": "tvj",
@@ -937,7 +938,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/116/dusmus_ve_dislanmis"
     },
     {
-      "season": 117,
+      "season": 1,
       "episode": 117,
       "title": "It's Greek to Me-Ow!",
       "diziid": "tvj",
@@ -945,7 +946,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/117/yunanistan"
     },
     {
-      "season": 118,
+      "season": 1,
       "episode": 118,
       "title": "High Steaks",
       "diziid": "tvj",
@@ -953,7 +954,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/118/yuksek_biftek"
     },
     {
-      "season": 119,
+      "season": 1,
       "episode": 119,
       "title": "Mouse into Space",
       "diziid": "tvj",
@@ -961,7 +962,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/119/uzaya_gidecek_fare"
     },
     {
-      "season": 120,
+      "season": 1,
       "episode": 120,
       "title": "Landing Stripling",
       "diziid": "tvj",
@@ -969,7 +970,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/120/tom%2C_kus_ve_jerry"
     },
     {
-      "season": 121,
+      "season": 1,
       "episode": 121,
       "title": "Calypso Cat",
       "diziid": "tvj",
@@ -977,7 +978,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/121/kalipso_kedi"
     },
     {
-      "season": 122,
+      "season": 1,
       "episode": 122,
       "title": "Dicky Moe",
       "diziid": "tvj",
@@ -985,7 +986,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/122/beyaz_balina"
     },
     {
-      "season": 123,
+      "season": 1,
       "episode": 123,
       "title": "The Tom and Jerry Cartoon Kit",
       "diziid": "tvj",
@@ -993,7 +994,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/123/cizgi_film_kiti"
     },
     {
-      "season": 124,
+      "season": 1,
       "episode": 124,
       "title": "Tall in the Trap",
       "diziid": "tvj",
@@ -1001,7 +1002,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/124/gezgin_fare_avcisi"
     },
     {
-      "season": 125,
+      "season": 1,
       "episode": 125,
       "title": "Sorry Safari",
       "diziid": "tvj",
@@ -1009,7 +1010,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/125/safari"
     },
     {
-      "season": 126,
+      "season": 1,
       "episode": 126,
       "title": "Buddies Thicker Than Water",
       "diziid": "tvj",
@@ -1017,7 +1018,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/126/sudan_dostluklar"
     },
     {
-      "season": 127,
+      "season": 1,
       "episode": 127,
       "title": "Carmen Get It!",
       "diziid": "tvj",
@@ -1025,7 +1026,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/127/opera"
     },
     {
-      "season": 128,
+      "season": 1,
       "episode": 128,
       "title": "Pent-House Mouse",
       "diziid": "tvj",
@@ -1033,7 +1034,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/128/cati_kati_faresi"
     },
     {
-      "season": 129,
+      "season": 1,
       "episode": 129,
       "title": "The Cat Above and the Mouse Below",
       "diziid": "tvj",
@@ -1041,7 +1042,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/129/yukaridaki_kedi_ve_asagidaki_fare"
     },
     {
-      "season": 130,
+      "season": 1,
       "episode": 130,
       "title": "Is There a Doctor in the Mouse?",
       "diziid": "tvj",
@@ -1049,7 +1050,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/130/sehrin_fare_doktoru"
     },
     {
-      "season": 131,
+      "season": 1,
       "episode": 131,
       "title": "Much Ado About Mousing",
       "diziid": "tvj",
@@ -1057,7 +1058,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/131/fareyle_ilgili_cok_sey"
     },
     {
-      "season": 132,
+      "season": 1,
       "episode": 132,
       "title": "Snowbody Loves Me",
       "diziid": "tvj",
@@ -1065,7 +1066,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/132/kar_topu_beni_cok_seviyor"
     },
     {
-      "season": 133,
+      "season": 1,
       "episode": 133,
       "title": "The Unshrinkable Jerry Mouse",
       "diziid": "tvj",
@@ -1073,7 +1074,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/133/buzulmez_jerry"
     },
     {
-      "season": 134,
+      "season": 1,
       "episode": 134,
       "title": "Ah, Sweet Mouse-Story of Life",
       "diziid": "tvj",
@@ -1081,7 +1082,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/134/ah%2C_tatli_fare-hayat_hikayesi"
     },
     {
-      "season": 135,
+      "season": 1,
       "episode": 135,
       "title": "Tom-ic Energy",
       "diziid": "tvj",
@@ -1089,7 +1090,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/135/enerjik_tom"
     },
     {
-      "season": 136,
+      "season": 1,
       "episode": 136,
       "title": "Bad Day at Cat Rock",
       "diziid": "tvj",
@@ -1097,7 +1098,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/136/cat_rockta_kotu_gun"
     },
     {
-      "season": 137,
+      "season": 1,
       "episode": 137,
       "title": "The Brothers Carry-Mouse-Off",
       "diziid": "tvj",
@@ -1105,7 +1106,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/137/disi_fare"
     },
     {
-      "season": 138,
+      "season": 1,
       "episode": 138,
       "title": "Haunted Mouse",
       "diziid": "tvj",
@@ -1113,7 +1114,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/138/perili_fare"
     },
     {
-      "season": 139,
+      "season": 1,
       "episode": 139,
       "title": "I'm Just Wild About Jerry",
       "diziid": "tvj",
@@ -1121,7 +1122,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/139/jerry_hakkinda_sadece_cildiriyorum"
     },
     {
-      "season": 140,
+      "season": 1,
       "episode": 140,
       "title": "Of Feline Bondage",
       "diziid": "tvj",
@@ -1129,7 +1130,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/140/peri_fare"
     },
     {
-      "season": 141,
+      "season": 1,
       "episode": 141,
       "title": "The Year of the Mouse",
       "diziid": "tvj",
@@ -1137,7 +1138,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/141/yilin_faresi"
     },
     {
-      "season": 142,
+      "season": 1,
       "episode": 142,
       "title": "The Cat's Me-Ouch",
       "diziid": "tvj",
@@ -1145,7 +1146,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/142/koruyucu_kopek"
     },
     {
-      "season": 143,
+      "season": 1,
       "episode": 143,
       "title": "Duel Personality",
       "diziid": "tvj",
@@ -1153,7 +1154,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/143/duello"
     },
     {
-      "season": 144,
+      "season": 1,
       "episode": 144,
       "title": "Jerry, Jerry, Quite Contrary",
       "diziid": "tvj",
@@ -1161,7 +1162,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/144/tom_baski_altinda"
     },
     {
-      "season": 145,
+      "season": 1,
       "episode": 145,
       "title": "Jerry-Go-Round",
       "diziid": "tvj",
@@ -1169,7 +1170,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/145/jerry_ve_fil"
     },
     {
-      "season": 146,
+      "season": 1,
       "episode": 146,
       "title": "Love Me, Love My Mouse",
       "diziid": "tvj",
@@ -1177,7 +1178,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/146/beni_sev%2C_faremi_sev"
     },
     {
-      "season": 147,
+      "season": 1,
       "episode": 147,
       "title": "Puss 'N' Boats",
       "diziid": "tvj",
@@ -1185,7 +1186,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/147/kedi_ve_tekne"
     },
     {
-      "season": 148,
+      "season": 1,
       "episode": 148,
       "title": "Filet Meow",
       "diziid": "tvj",
@@ -1193,7 +1194,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/148/japon_baligi"
     },
     {
-      "season": 149,
+      "season": 1,
       "episode": 149,
       "title": "Matinee Mouse",
       "diziid": "tvj",
@@ -1201,7 +1202,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/149/fareler_matinesi"
     },
     {
-      "season": 150,
+      "season": 1,
       "episode": 150,
       "title": "The A-TOM-iNABLE Snowman",
       "diziid": "tvj",
@@ -1209,7 +1210,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/150/karda_kovalamaca"
     },
     {
-      "season": 151,
+      "season": 1,
       "episode": 151,
       "title": "Catty-Cornered",
       "diziid": "tvj",
@@ -1217,7 +1218,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/151/jerry%2C_tom_ve_simseke_karsi"
     },
     {
-      "season": 152,
+      "season": 1,
       "episode": 152,
       "title": "Cat and Dupli-Cat",
       "diziid": "tvj",
@@ -1225,7 +1226,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/152/venedik_macerasi"
     },
     {
-      "season": 153,
+      "season": 1,
       "episode": 153,
       "title": "O-Solar-Meow",
       "diziid": "tvj",
@@ -1233,7 +1234,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/153/uzayli_kedi"
     },
     {
-      "season": 154,
+      "season": 1,
       "episode": 154,
       "title": "Guided Mouse-ille",
       "diziid": "tvj",
@@ -1241,7 +1242,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/154/gelecek"
     },
     {
-      "season": 155,
+      "season": 1,
       "episode": 155,
       "title": "Rock 'N' Rodent",
       "diziid": "tvj",
@@ -1249,7 +1250,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/155/uyuyamayan_tom"
     },
     {
-      "season": 156,
+      "season": 1,
       "episode": 156,
       "title": "Cannery Rodent",
       "diziid": "tvj",
@@ -1257,7 +1258,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/156/konserve"
     },
     {
-      "season": 157,
+      "season": 1,
       "episode": 157,
       "title": "The Mouse from H.U.N.G.E.R.",
       "diziid": "tvj",
@@ -1265,7 +1266,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/157/gizli_ajan_fare"
     },
     {
-      "season": 158,
+      "season": 1,
       "episode": 158,
       "title": "Surf-Bored Cat",
       "diziid": "tvj",
@@ -1273,7 +1274,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/158/super_sorfcu_tom"
     },
     {
-      "season": 159,
+      "season": 1,
       "episode": 159,
       "title": "Shutter-Bugged Cat",
       "diziid": "tvj",
@@ -1281,7 +1282,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/159/haylaz_kedi"
     },
     {
-      "season": 160,
+      "season": 1,
       "episode": 160,
       "title": "Advance and Be Mechanized",
       "diziid": "tvj",
@@ -1289,7 +1290,7 @@
       "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/160/ilerleyin_ve_mekanize_olun"
     },
     {
-      "season": 161,
+      "season": 1,
       "episode": 161,
       "title": "Purr-Chance to Dream",
       "diziid": "tvj",

@@ -3,6 +3,7 @@
   "title": "gumball gÃ¼nlÃ¼kleri",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/GMBGPoster.avif",
+  "plot": "Gumball; Ã¶fkeli bir T-Rex tarafÄ±ndan kovalanmak, bir robot kimliÄŸini Ã§aldÄ±ÄŸÄ±nda sert bir ÅŸekilde tepki vermek veya hayallerindeki kÄ±zÄ± etkilemek iÃ§in bir amigo kÄ±z gibi giyinmek gibi on ikiâ€¦",
   "channel": "Cartoon Network",
   "genres": [
     "Komedi",
@@ -10,7 +11,7 @@
   ],
   "episodes": [
     {
-      "season": 2,
+      "season": 1,
       "episode": 1,
       "title": "Vote Gumball ... and Penny?",
       "diziid": "gmbg",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/gmbg/gumball_gunlukleri/2/gumball_ve_pennyye_oy_verin"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 2,
       "title": "Vote Gumball ... and Leslie?",
       "diziid": "gmbg",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/gmbg/gumball_gunlukleri/3/gumball_ve_leslieye_oy_verin"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 3,
       "title": "Vote Gumball ... and Bobert?",
       "diziid": "gmbg",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/gmbg/gumball_gunlukleri/4/gumball_ve_boberta_oy_verin"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 4,
       "title": "Vote Gumballâ€¦ and Anyone?",
       "diziid": "gmbg",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/gmbg/gumball_gunlukleri/5/gumball_ile_kim_olursa_ona_oy_verin"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 5,
       "title": "Ancestor Act",
       "diziid": "gmbg",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/gmbg/gumball_gunlukleri/6/soy_agaci"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 6,
       "title": "Mother's Day",
       "diziid": "gmbg",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/gmbg/gumball_gunlukleri/7/anneler_gunu"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 7,
       "title": "Elmore's Most Wanted",
       "diziid": "gmbg",

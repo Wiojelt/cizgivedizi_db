@@ -3,6 +3,7 @@
   "title": "mickey'nin Ã¼rkÃ¼tÃ¼cÃ¼ hikÃ¢yeleri",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/MICKÃœRKHPoster.avif",
+  "plot": "Mickey ve ArkadaÅŸlarÄ± eÄŸlence dolu CadÄ±lar BayramÄ± hikÃ¢yeleri anlatÄ±yor.",
   "channel": "Disney Jr.",
   "genres": [
     "Korku"
@@ -12,39 +13,39 @@
       "season": 1,
       "episode": 1,
       "title": "A Goofy Ghost Story",
-      "diziid": "mick%C3%BCh",
+      "diziid": "mickÃ¼h",
       "bolum": "1",
       "url": "https://cizgivedizi.com/dizi/mick%C3%BCh/mickeynin_urkutucu_hikayeleri/1/hayaletli_goofy_hikayesi"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Daisy's Scary Fairy Tale",
-      "diziid": "mick%C3%BCh",
+      "diziid": "mickÃ¼h",
       "bolum": "2",
       "url": "https://cizgivedizi.com/dizi/mick%C3%BCh/mickeynin_urkutucu_hikayeleri/2/daisynin_korkunc_peri_masali"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Donald's Tale of Spooky Spells",
-      "diziid": "mick%C3%BCh",
+      "diziid": "mickÃ¼h",
       "bolum": "3",
       "url": "https://cizgivedizi.com/dizi/mick%C3%BCh/mickeynin_urkutucu_hikayeleri/3/donaldin_urkutucu_sihir_kitabi_masali"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Minnie's Creepy-Crawly Tale",
-      "diziid": "mick%C3%BCh",
+      "diziid": "mickÃ¼h",
       "bolum": "4",
       "url": "https://cizgivedizi.com/dizi/mick%C3%BCh/mickeynin_urkutucu_hikayeleri/4/minnienin_urkutucu_orumcek_hikayesi"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "A Mickey Monster Tale",
-      "diziid": "mick%C3%BCh",
+      "diziid": "mickÃ¼h",
       "bolum": "5",
       "url": "https://cizgivedizi.com/dizi/mick%C3%BCh/mickeynin_urkutucu_hikayeleri/5/canavar_mickey_hikayesi"
     }

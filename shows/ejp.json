@@ -3,6 +3,7 @@
   "title": "ejderhalar prensi",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/EJPPoster.avif",
+  "plot": "SÄ±ra dÄ±ÅŸÄ± bir keÅŸfin ardÄ±ndan, prens ve bir elf suikastÃ§Ä± savaÅŸ hÃ¢lindeki Ã¼lkelerine barÄ±ÅŸ getirmek iÃ§in birlikte destansÄ± bir yolculuÄŸa Ã§Ä±kar.",
   "channel": "Netflix",
   "genres": [
     "Fantastik",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/1/gok_gurultusunun_yankilari"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "What Is Done",
       "diziid": "ejp",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/2/olan_oldu"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Moonrise",
       "diziid": "ejp",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/3/ay_dogumu"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Bloodthirsty",
       "diziid": "ejp",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/4/kana_susamis"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "An Empty Throne",
       "diziid": "ejp",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/5/bos_bir_taht"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Through the Ice",
       "diziid": "ejp",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/6/buzun_arasinda"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "The Dagger and the Wolf",
       "diziid": "ejp",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/7/hancer_ve_kurt"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Cursed Caldera",
       "diziid": "ejp",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/8/lanetli_kaldera"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Wonderstorm",
       "diziid": "ejp",
@@ -82,8 +83,8 @@
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/9/sihirli_firtina"
     },
     {
-      "season": 1,
-      "episode": 10,
+      "season": 2,
+      "episode": 1,
       "title": "A Secret and a Spark",
       "diziid": "ejp",
       "bolum": "10",
@@ -91,79 +92,79 @@
     },
     {
       "season": 2,
-      "episode": 11,
+      "episode": 2,
       "title": "Half Moon Lies",
       "diziid": "ejp",
       "bolum": "11",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/11/yarim_ay_yalanlari"
     },
     {
-      "season": 3,
-      "episode": 12,
+      "season": 2,
+      "episode": 3,
       "title": "Smoke and Mirrors",
       "diziid": "ejp",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/12/aldatma_ve_kandirma"
     },
     {
-      "season": 4,
-      "episode": 13,
+      "season": 2,
+      "episode": 4,
       "title": "Voyage of the Ruthless",
       "diziid": "ejp",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/13/gemi_yolculugu"
     },
     {
-      "season": 5,
-      "episode": 14,
+      "season": 2,
+      "episode": 5,
       "title": "Breaking the Seal",
       "diziid": "ejp",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/14/muhru_bozmak"
     },
     {
-      "season": 6,
-      "episode": 15,
+      "season": 2,
+      "episode": 6,
       "title": "Heart of a Titan",
       "diziid": "ejp",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/15/titan_kalbi"
     },
     {
-      "season": 7,
-      "episode": 16,
+      "season": 2,
+      "episode": 7,
       "title": "Fire and Fury",
       "diziid": "ejp",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/16/ates_ve_ofke"
     },
     {
-      "season": 8,
-      "episode": 17,
+      "season": 2,
+      "episode": 8,
       "title": "The Book of Destiny",
       "diziid": "ejp",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/17/kader_kitabi"
     },
     {
-      "season": 9,
-      "episode": 18,
+      "season": 2,
+      "episode": 9,
       "title": "Breathe",
       "diziid": "ejp",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/18/nefes_al"
     },
     {
-      "season": 1,
-      "episode": 19,
+      "season": 3,
+      "episode": 1,
       "title": "Sol Regem",
       "diziid": "ejp",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/19/sol_regem"
     },
     {
-      "season": 2,
-      "episode": 20,
+      "season": 3,
+      "episode": 2,
       "title": "The Crown",
       "diziid": "ejp",
       "bolum": "20",
@@ -171,79 +172,79 @@
     },
     {
       "season": 3,
-      "episode": 21,
+      "episode": 3,
       "title": "Ghost",
       "diziid": "ejp",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/21/hayalet"
     },
     {
-      "season": 4,
-      "episode": 22,
+      "season": 3,
+      "episode": 4,
       "title": "The Midnight Desert",
       "diziid": "ejp",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/22/gece_yarisi_colu"
     },
     {
-      "season": 5,
-      "episode": 23,
+      "season": 3,
+      "episode": 5,
       "title": "Heroes and Masterminds",
       "diziid": "ejp",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/23/kahramanlar_ve_planlayicilar"
     },
     {
-      "season": 6,
-      "episode": 24,
+      "season": 3,
+      "episode": 6,
       "title": "Thunderfall",
       "diziid": "ejp",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/24/gok_gurultusunun_dususu"
     },
     {
-      "season": 7,
-      "episode": 25,
+      "season": 3,
+      "episode": 7,
       "title": "Hearts of Cinder",
       "diziid": "ejp",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/25/korlasmis_kalpler"
     },
     {
-      "season": 8,
-      "episode": 26,
+      "season": 3,
+      "episode": 8,
       "title": "Dragonguard",
       "diziid": "ejp",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/26/ejderha_muhafizi"
     },
     {
-      "season": 9,
-      "episode": 27,
+      "season": 3,
+      "episode": 9,
       "title": "The Final Battle",
       "diziid": "ejp",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/27/son_savas"
     },
     {
-      "season": 1,
-      "episode": 28,
+      "season": 4,
+      "episode": 1,
       "title": "Rebirthday",
       "diziid": "ejp",
       "bolum": "28",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/28/yeniden_dogum_gunu"
     },
     {
-      "season": 2,
-      "episode": 29,
+      "season": 4,
+      "episode": 2,
       "title": "Fallen Stars",
       "diziid": "ejp",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/29/kayan_yildizlar"
     },
     {
-      "season": 3,
-      "episode": 30,
+      "season": 4,
+      "episode": 3,
       "title": "Breathtaking",
       "diziid": "ejp",
       "bolum": "30",
@@ -251,79 +252,79 @@
     },
     {
       "season": 4,
-      "episode": 31,
+      "episode": 4,
       "title": "Through the Looking Glass",
       "diziid": "ejp",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/31/aynanin_icinden"
     },
     {
-      "season": 5,
-      "episode": 32,
+      "season": 4,
+      "episode": 5,
       "title": "The Great Gates",
       "diziid": "ejp",
       "bolum": "32",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/32/buyuk_kapilar"
     },
     {
-      "season": 6,
-      "episode": 33,
+      "season": 4,
+      "episode": 6,
       "title": "The Drakewood",
       "diziid": "ejp",
       "bolum": "33",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/33/drakewood"
     },
     {
-      "season": 7,
-      "episode": 34,
+      "season": 4,
+      "episode": 7,
       "title": "Beneath the Surface",
       "diziid": "ejp",
       "bolum": "34",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/34/derinde"
     },
     {
-      "season": 8,
-      "episode": 35,
+      "season": 4,
+      "episode": 8,
       "title": "Rex Igneous",
       "diziid": "ejp",
       "bolum": "35",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/35/rex_igneous"
     },
     {
-      "season": 9,
-      "episode": 36,
+      "season": 4,
+      "episode": 9,
       "title": "Escape from Umber Tor",
       "diziid": "ejp",
       "bolum": "36",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/36/umber_tordan_kacis"
     },
     {
-      "season": 1,
-      "episode": 37,
+      "season": 5,
+      "episode": 1,
       "title": "Domina Profundis",
       "diziid": "ejp",
       "bolum": "37",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/37/domina_profundis"
     },
     {
-      "season": 2,
-      "episode": 38,
+      "season": 5,
+      "episode": 2,
       "title": "Old Wounds",
       "diziid": "ejp",
       "bolum": "38",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/38/eski_yaralar"
     },
     {
-      "season": 3,
-      "episode": 39,
+      "season": 5,
+      "episode": 3,
       "title": "Nightmares and Revelations",
       "diziid": "ejp",
       "bolum": "39",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/39/kabuslar_ve_aciga_cikan_gercekler"
     },
     {
-      "season": 4,
-      "episode": 40,
+      "season": 5,
+      "episode": 4,
       "title": "The Great Bookery",
       "diziid": "ejp",
       "bolum": "40",
@@ -331,79 +332,79 @@
     },
     {
       "season": 5,
-      "episode": 41,
+      "episode": 5,
       "title": "Archmage Akiyu",
       "diziid": "ejp",
       "bolum": "41",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/41/akiyu"
     },
     {
-      "season": 6,
-      "episode": 42,
+      "season": 5,
+      "episode": 6,
       "title": "Bait and Switch",
       "diziid": "ejp",
       "bolum": "42",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/42/soygun"
     },
     {
-      "season": 7,
-      "episode": 43,
+      "season": 5,
+      "episode": 7,
       "title": "Sea Legs",
       "diziid": "ejp",
       "bolum": "43",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/43/denizde"
     },
     {
-      "season": 8,
-      "episode": 44,
+      "season": 5,
+      "episode": 8,
       "title": "Finnegrin's Wake",
       "diziid": "ejp",
       "bolum": "44",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/44/finnegrinin_vahi"
     },
     {
-      "season": 9,
-      "episode": 45,
+      "season": 5,
+      "episode": 9,
       "title": "Infantis Sanguine",
       "diziid": "ejp",
       "bolum": "45",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/45/cocuk_kani"
     },
     {
-      "season": 1,
-      "episode": 46,
+      "season": 6,
+      "episode": 1,
       "title": "Startouched",
       "diziid": "ejp",
       "bolum": "46",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/46/yildiz_bagi_elfinin_etkisi"
     },
     {
-      "season": 2,
-      "episode": 47,
+      "season": 6,
+      "episode": 2,
       "title": "Love, War and Mushrooms",
       "diziid": "ejp",
       "bolum": "47",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/47/ask%2C_savas_ve_mantarlar"
     },
     {
-      "season": 3,
-      "episode": 48,
+      "season": 6,
+      "episode": 3,
       "title": "The Frozen Ship",
       "diziid": "ejp",
       "bolum": "48",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/48/cozulen_buzlar"
     },
     {
-      "season": 4,
-      "episode": 49,
+      "season": 6,
+      "episode": 4,
       "title": "The Starscraper",
       "diziid": "ejp",
       "bolum": "49",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/49/yildiz_delen"
     },
     {
-      "season": 5,
-      "episode": 50,
+      "season": 6,
+      "episode": 5,
       "title": "Moonless Night",
       "diziid": "ejp",
       "bolum": "50",
@@ -411,79 +412,79 @@
     },
     {
       "season": 6,
-      "episode": 51,
+      "episode": 6,
       "title": "Moment of Truth",
       "diziid": "ejp",
       "bolum": "51",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/51/kader_ani"
     },
     {
-      "season": 7,
-      "episode": 52,
+      "season": 6,
+      "episode": 7,
       "title": "The Red Wedding",
       "diziid": "ejp",
       "bolum": "52",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/52/kizil_dugun"
     },
     {
-      "season": 8,
-      "episode": 53,
+      "season": 6,
+      "episode": 8,
       "title": "We All Fall Down",
       "diziid": "ejp",
       "bolum": "53",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/53/hepimiz_dusuyoruz"
     },
     {
-      "season": 9,
-      "episode": 54,
+      "season": 6,
+      "episode": 9,
       "title": "Stardust",
       "diziid": "ejp",
       "bolum": "54",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/54/yildiz_tozu"
     },
     {
-      "season": 1,
-      "episode": 55,
+      "season": 7,
+      "episode": 1,
       "title": "Death Alive",
       "diziid": "ejp",
       "bolum": "55",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/55/canli_olum"
     },
     {
-      "season": 2,
-      "episode": 56,
+      "season": 7,
+      "episode": 2,
       "title": "True Heart",
       "diziid": "ejp",
       "bolum": "56",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/56/masum_yurek"
     },
     {
-      "season": 3,
-      "episode": 57,
+      "season": 7,
+      "episode": 3,
       "title": "The Glittering Bones",
       "diziid": "ejp",
       "bolum": "57",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/57/pariltili_kemikler"
     },
     {
-      "season": 4,
-      "episode": 58,
+      "season": 7,
+      "episode": 4,
       "title": "Unfinished Business",
       "diziid": "ejp",
       "bolum": "58",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/58/yarim_kalan_isler"
     },
     {
-      "season": 5,
-      "episode": 59,
+      "season": 7,
+      "episode": 5,
       "title": "Sticky Fingers",
       "diziid": "ejp",
       "bolum": "59",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/59/yapiskan_parmaklar"
     },
     {
-      "season": 6,
-      "episode": 60,
+      "season": 7,
+      "episode": 6,
       "title": "Inversion",
       "diziid": "ejp",
       "bolum": "60",
@@ -491,23 +492,23 @@
     },
     {
       "season": 7,
-      "episode": 61,
+      "episode": 7,
       "title": "The Titan and the King",
       "diziid": "ejp",
       "bolum": "61",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/61/titan_ve_kral"
     },
     {
-      "season": 8,
-      "episode": 62,
+      "season": 7,
+      "episode": 8,
       "title": "Dying Light",
       "diziid": "ejp",
       "bolum": "62",
       "url": "https://cizgivedizi.com/dizi/ejp/ejderhalar_prensi/62/sonen_isik"
     },
     {
-      "season": 9,
-      "episode": 63,
+      "season": 7,
+      "episode": 9,
       "title": "Nova",
       "diziid": "ejp",
       "bolum": "63",

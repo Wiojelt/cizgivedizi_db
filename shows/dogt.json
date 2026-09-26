@@ -3,6 +3,7 @@
   "title": "dogtanian",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/DOGTPoster.avif",
+  "plot": "17. yÃ¼zyÄ±l Fransa'sÄ±nda genÃ§ Dogtanian, Kral'Ä±n SilahÅŸÃ¶rlerinden biri olma tutkusunu gerÃ§ekleÅŸtirmek iÃ§in Paris'e gider. Athos, Porthos ve Aramis ile arkadaÅŸ olur ve Juliette'e aÅŸÄ±k olur.",
   "channel": "Mercan TV",
   "genres": [
     "Macera",
@@ -10,7 +11,7 @@
   ],
   "episodes": [
     {
-      "season": 2,
+      "season": 1,
       "episode": 1,
       "title": "Dogtanian Meets the Black Moustache",
       "diziid": "dogt",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/dogt/dogtanian/2/dogtanian_kara_biyikli_ile_tanisir"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 2,
       "title": "Paris, the City of Dreams",
       "diziid": "dogt",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/dogt/dogtanian/3/paris%2C_ruyalar_kenti"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 3,
       "title": "Dogtanian Meets His Match",
       "diziid": "dogt",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/dogt/dogtanian/6/dogtanian_rakipleriyle_karsilasiyor"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 4,
       "title": "Dogtanian Meets the King",
       "diziid": "dogt",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/dogt/dogtanian/7/dogtanian_kralla_tanisir"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 5,
       "title": "Juliette's Secret",
       "diziid": "dogt",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/dogt/dogtanian/8/juliettein_sirri"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 6,
       "title": "Juliette Kidnapped",
       "diziid": "dogt",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/dogt/dogtanian/9/juliettein_kacirilmasi"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 7,
       "title": "The Great Getaway",
       "diziid": "dogt",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/dogt/dogtanian/10/buyuk_kacis"
     },
     {
-      "season": 14,
+      "season": 1,
       "episode": 8,
       "title": "The Search for Juliette",
       "diziid": "dogt",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/dogt/dogtanian/14/juliettein_pesinde"
     },
     {
-      "season": 15,
+      "season": 1,
       "episode": 9,
       "title": "Dogtanian Saves the Day",
       "diziid": "dogt",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/dogt/dogtanian/15/dogtanianin_buyuk_marifeti"
     },
     {
-      "season": 16,
+      "season": 1,
       "episode": 10,
       "title": "Daggers and Diamonds",
       "diziid": "dogt",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/dogt/dogtanian/16/kralicenin_elmaslari"
     },
     {
-      "season": 20,
+      "season": 1,
       "episode": 11,
       "title": "Dogtanian and the Blue Falcon",
       "diziid": "dogt",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/dogt/dogtanian/20/dogtanian_ve_mavi_sahin"
     },
     {
-      "season": 21,
+      "season": 1,
       "episode": 12,
       "title": "The Shipwreck",
       "diziid": "dogt",
@@ -106,7 +107,7 @@
       "url": "https://cizgivedizi.com/dizi/dogt/dogtanian/21/gemi_kazasi"
     },
     {
-      "season": 22,
+      "season": 1,
       "episode": 13,
       "title": "The Jungle Adventure",
       "diziid": "dogt",
@@ -114,7 +115,7 @@
       "url": "https://cizgivedizi.com/dizi/dogt/dogtanian/22/orman_macerasi"
     },
     {
-      "season": 23,
+      "season": 1,
       "episode": 14,
       "title": "Marco's Mission",
       "diziid": "dogt",
@@ -122,7 +123,7 @@
       "url": "https://cizgivedizi.com/dizi/dogt/dogtanian/23/marconun_gorevi"
     },
     {
-      "season": 24,
+      "season": 1,
       "episode": 15,
       "title": "The Impostor",
       "diziid": "dogt",
@@ -130,7 +131,7 @@
       "url": "https://cizgivedizi.com/dizi/dogt/dogtanian/24/sahtekar"
     },
     {
-      "season": 25,
+      "season": 1,
       "episode": 16,
       "title": "Milady's Revenge",
       "diziid": "dogt",
@@ -138,7 +139,7 @@
       "url": "https://cizgivedizi.com/dizi/dogt/dogtanian/25/miladynin_intikami"
     },
     {
-      "season": 26,
+      "season": 1,
       "episode": 17,
       "title": "Dogtanian's Dream Comes True",
       "diziid": "dogt",

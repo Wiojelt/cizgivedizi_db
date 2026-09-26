@@ -3,6 +3,7 @@
   "title": "olay yeri: insan vÃ¼cudu",
   "type": "dizi",
   "poster": "https://cizgivedizi.com/resim/GIVPoster.avif",
+  "plot": "Doktor Chris ve Doktor Xand Van Tulleken gerÃ§ek hastalarla ilgileniyorlar. â€œTÄ±pâ€ biliminin ve biyolojinin bÃ¼yÃ¼leyici dÃ¼nyasÄ±nÄ± keÅŸfediyorlar. VÃ¼cudun sÄ±radan iÅŸleyiÅŸini ve sÄ±ra dÄ±ÅŸÄ± durumlaâ€¦",
   "channel": "TRT Eba",
   "genres": [
     "EÄŸitici/Ã–ÄŸretici",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/1/calisan_kaslar_ve_bilinmeyen_tedavi"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Your Brilliant Brain",
       "diziid": "giv",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/2/hapsirmanin_hikayesi"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Secret Lifesavers",
       "diziid": "giv",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/3/vucut_hareketleri"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "The Coolest Feet in Town",
       "diziid": "giv",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/4/agri_esigi"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Your Connected Body",
       "diziid": "giv",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/5/agiz%2C_burun_ve_mide"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Don't Be Sick in the Sky!",
       "diziid": "giv",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/6/araba_tutmasi"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Vibrating Vocal Chords",
       "diziid": "giv",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/7/ses_telleri"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Snakes and Venom",
       "diziid": "giv",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/8/yeterince_su_iciyor_musun"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Bruised or Broken?",
       "diziid": "giv",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/9/oksijen"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Your Bones Are Alive",
       "diziid": "giv",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/10/sindirim_sistemi"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "What a Stink?!",
       "diziid": "giv",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/11/hayat_kurtaran_kan_bagislari"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "The Worldâ€™s Stretchiest Skin",
       "diziid": "giv",
@@ -106,7 +107,7 @@
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/12/mukus_ve_temiz_bir_nefes"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "What Is an Allergy?",
       "diziid": "giv",
@@ -114,8 +115,8 @@
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/13/deri"
     },
     {
-      "season": 1,
-      "episode": 14,
+      "season": 2,
+      "episode": 1,
       "title": "What Happens When You Don't Brush Your Teeth?",
       "diziid": "giv",
       "bolum": "14",
@@ -123,87 +124,87 @@
     },
     {
       "season": 2,
-      "episode": 15,
+      "episode": 2,
       "title": "Can Robots Vomit?",
       "diziid": "giv",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/15/larry"
     },
     {
-      "season": 3,
-      "episode": 16,
+      "season": 2,
+      "episode": 3,
       "title": "I Spy With My ENORMOUS Eye!",
       "diziid": "giv",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/16/goz_ve_vucut_yagi"
     },
     {
-      "season": 4,
-      "episode": 17,
+      "season": 2,
+      "episode": 4,
       "title": "Whatâ€™s the Deal With Swallowing?",
       "diziid": "giv",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/17/yutma"
     },
     {
-      "season": 5,
-      "episode": 18,
+      "season": 2,
+      "episode": 5,
       "title": "Episode 5",
       "diziid": "giv",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/18/kulak_salgisi"
     },
     {
-      "season": 6,
-      "episode": 19,
+      "season": 2,
+      "episode": 6,
       "title": "Snot is Spectacular!",
       "diziid": "giv",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/19/karaciger"
     },
     {
-      "season": 7,
-      "episode": 20,
+      "season": 2,
+      "episode": 7,
       "title": "How to be Invisibleâ€¦on the Inside!",
       "diziid": "giv",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/20/bit"
     },
     {
-      "season": 8,
-      "episode": 21,
+      "season": 2,
+      "episode": 8,
       "title": "A Stomach Full of Laughs",
       "diziid": "giv",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/21/mide_asidi"
     },
     {
-      "season": 9,
-      "episode": 22,
+      "season": 2,
+      "episode": 9,
       "title": "The Dog Who Saves Lives",
       "diziid": "giv",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/22/ozel_nefes"
     },
     {
-      "season": 10,
-      "episode": 23,
+      "season": 2,
+      "episode": 10,
       "title": "We Love Operation Ouch!",
       "diziid": "giv",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/23/iyilesme_sureci"
     },
     {
-      "season": 1,
-      "episode": 24,
+      "season": 3,
+      "episode": 1,
       "title": "Flaming Farts",
       "diziid": "giv",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/24/ruzgar_gucu"
     },
     {
-      "season": 2,
-      "episode": 25,
+      "season": 3,
+      "episode": 2,
       "title": "We heart the Heart!",
       "diziid": "giv",
       "bolum": "25",
@@ -211,87 +212,87 @@
     },
     {
       "season": 3,
-      "episode": 26,
+      "episode": 3,
       "title": "What's in a Cough?",
       "diziid": "giv",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/26/oksur_bakalim%21"
     },
     {
-      "season": 4,
-      "episode": 27,
+      "season": 3,
+      "episode": 4,
       "title": "My Blue Skull",
       "diziid": "giv",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/27/burunla_tat_alma"
     },
     {
-      "season": 5,
-      "episode": 28,
+      "season": 3,
+      "episode": 5,
       "title": "Why Do We Wee",
       "diziid": "giv",
       "bolum": "28",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/28/mesane_bosaltimi"
     },
     {
-      "season": 6,
-      "episode": 29,
+      "season": 3,
+      "episode": 6,
       "title": "Whose Lying Here",
       "diziid": "giv",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/29/vucut_isisi"
     },
     {
-      "season": 7,
-      "episode": 30,
+      "season": 3,
+      "episode": 7,
       "title": "Bionic Eyes and Body Cheese",
       "diziid": "giv",
       "bolum": "30",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/30/vucut_bakterisi_ve_biyonik_goz"
     },
     {
-      "season": 8,
-      "episode": 31,
+      "season": 3,
+      "episode": 8,
       "title": "Don't Try This at Home!",
       "diziid": "giv",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/31/yemek_atesi"
     },
     {
-      "season": 9,
-      "episode": 32,
+      "season": 3,
+      "episode": 9,
       "title": "A Body Full of Blood",
       "diziid": "giv",
       "bolum": "32",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/32/tikali_damarlar"
     },
     {
-      "season": 10,
-      "episode": 33,
+      "season": 3,
+      "episode": 10,
       "title": "The Bits That Make You Scream Ouch!",
       "diziid": "giv",
       "bolum": "33",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/33/bogulmalarda_ilk_yardim"
     },
     {
-      "season": 1,
-      "episode": 34,
+      "season": 4,
+      "episode": 1,
       "title": "How Your Nerves Work",
       "diziid": "giv",
       "bolum": "34",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/34/hizli_sinirler_ve_kirli_eller"
     },
     {
-      "season": 2,
-      "episode": 35,
+      "season": 4,
+      "episode": 2,
       "title": "Can I Borrow Some of Your Blood?",
       "diziid": "giv",
       "bolum": "35",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/35/vucudumuzdaki_kan"
     },
     {
-      "season": 3,
-      "episode": 36,
+      "season": 4,
+      "episode": 3,
       "title": "Who Stole the Milk?",
       "diziid": "giv",
       "bolum": "36",
@@ -299,95 +300,95 @@
     },
     {
       "season": 4,
-      "episode": 37,
+      "episode": 4,
       "title": "What's in your Diarrhoea?",
       "diziid": "giv",
       "bolum": "37",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/37/bas_donmesini_engellemek"
     },
     {
-      "season": 5,
-      "episode": 38,
+      "season": 4,
+      "episode": 5,
       "title": "The Big Skin Mystery",
       "diziid": "giv",
       "bolum": "38",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/38/burusuk_deri"
     },
     {
-      "season": 6,
-      "episode": 39,
+      "season": 4,
+      "episode": 6,
       "title": "Superhero Kidneys",
       "diziid": "giv",
       "bolum": "39",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/39/bobrek_temizligi"
     },
     {
-      "season": 7,
-      "episode": 40,
+      "season": 4,
+      "episode": 7,
       "title": "Fire in the Lab!",
       "diziid": "giv",
       "bolum": "40",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/40/sindirim_sistemi"
     },
     {
-      "season": 8,
-      "episode": 41,
+      "season": 4,
+      "episode": 8,
       "title": "Before You Were Born",
       "diziid": "giv",
       "bolum": "41",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/41/buyuleyici_organlar"
     },
     {
-      "season": 9,
-      "episode": 42,
+      "season": 4,
+      "episode": 9,
       "title": "Best Of...",
       "diziid": "giv",
       "bolum": "42",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/42/en_iyi_bolumler"
     },
     {
-      "season": 10,
-      "episode": 43,
+      "season": 4,
+      "episode": 10,
       "title": "Don't Panic About Puberty",
       "diziid": "giv",
       "bolum": "43",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/43/ergenlik_yuzunden_paniklemeyin"
     },
     {
-      "season": 11,
-      "episode": 44,
+      "season": 4,
+      "episode": 11,
       "title": "Goes Back in Time",
       "diziid": "giv",
       "bolum": "44",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/44/gorevimiz%3A_insan_vucudu_zamanda_geriye_gider"
     },
     {
-      "season": 1,
-      "episode": 45,
+      "season": 5,
+      "episode": 1,
       "title": "Bendy Bodies",
       "diziid": "giv",
       "bolum": "45",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/45/esnek_govde"
     },
     {
-      "season": 2,
-      "episode": 46,
+      "season": 5,
+      "episode": 2,
       "title": "Ear We Go!",
       "diziid": "giv",
       "bolum": "46",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/46/kulak%21"
     },
     {
-      "season": 3,
-      "episode": 47,
+      "season": 5,
+      "episode": 3,
       "title": "Bendy Cool Cartilage",
       "diziid": "giv",
       "bolum": "47",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/47/havali_kikirdak"
     },
     {
-      "season": 4,
-      "episode": 48,
+      "season": 5,
+      "episode": 4,
       "title": "Awesome Oxygen",
       "diziid": "giv",
       "bolum": "48",
@@ -395,87 +396,87 @@
     },
     {
       "season": 5,
-      "episode": 49,
+      "episode": 5,
       "title": "Super Saliva",
       "diziid": "giv",
       "bolum": "49",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/49/super_tukuruk"
     },
     {
-      "season": 6,
-      "episode": 50,
+      "season": 5,
+      "episode": 6,
       "title": "Extraordinary Eyes",
       "diziid": "giv",
       "bolum": "50",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/50/olaganustu_gozler"
     },
     {
-      "season": 7,
-      "episode": 51,
+      "season": 5,
+      "episode": 7,
       "title": "Germ-Fighters",
       "diziid": "giv",
       "bolum": "51",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/51/mikrop_savascisi"
     },
     {
-      "season": 8,
-      "episode": 52,
+      "season": 5,
+      "episode": 8,
       "title": "Big Burps!",
       "diziid": "giv",
       "bolum": "52",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/52/buyuk_gaz%21"
     },
     {
-      "season": 9,
-      "episode": 53,
+      "season": 5,
+      "episode": 9,
       "title": "Pancreas Power",
       "diziid": "giv",
       "bolum": "53",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/53/pankreas_gucu"
     },
     {
-      "season": 10,
-      "episode": 54,
+      "season": 5,
+      "episode": 10,
       "title": "Jaw-dropping Jaws",
       "diziid": "giv",
       "bolum": "54",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/54/cene"
     },
     {
-      "season": 1,
-      "episode": 55,
+      "season": 6,
+      "episode": 1,
       "title": "Jaw-dropping Joints",
       "diziid": "giv",
       "bolum": "55",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/55/eklem"
     },
     {
-      "season": 2,
-      "episode": 56,
+      "season": 6,
+      "episode": 2,
       "title": "Extraordinary Ears",
       "diziid": "giv",
       "bolum": "56",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/56/olaganustu_kulaklar"
     },
     {
-      "season": 3,
-      "episode": 57,
+      "season": 6,
+      "episode": 3,
       "title": "Super Sensory Neurons",
       "diziid": "giv",
       "bolum": "57",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/57/super_duyu_noronu"
     },
     {
-      "season": 4,
-      "episode": 58,
+      "season": 6,
+      "episode": 4,
       "title": "Colossal Coughs",
       "diziid": "giv",
       "bolum": "58",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/58/muazzam_oksuruk"
     },
     {
-      "season": 5,
-      "episode": 59,
+      "season": 6,
+      "episode": 5,
       "title": "Terrific Teeth",
       "diziid": "giv",
       "bolum": "59",
@@ -483,111 +484,111 @@
     },
     {
       "season": 6,
-      "episode": 60,
+      "episode": 6,
       "title": "Exceptional Eyebrows",
       "diziid": "giv",
       "bolum": "60",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/60/olaganustu_kaslar"
     },
     {
-      "season": 7,
-      "episode": 61,
+      "season": 6,
+      "episode": 7,
       "title": "Mind-boggling Brains",
       "diziid": "giv",
       "bolum": "61",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/61/sasirtici_beyin"
     },
     {
-      "season": 8,
-      "episode": 62,
+      "season": 6,
+      "episode": 8,
       "title": "Marvellous Valves",
       "diziid": "giv",
       "bolum": "62",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/62/camasirhanede"
     },
     {
-      "season": 9,
-      "episode": 63,
+      "season": 6,
+      "episode": 9,
       "title": "Gob-smacking Growth Plates",
       "diziid": "giv",
       "bolum": "63",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/63/buyumek"
     },
     {
-      "season": 10,
-      "episode": 64,
+      "season": 6,
+      "episode": 10,
       "title": "Sensational Sphincters",
       "diziid": "giv",
       "bolum": "64",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/64/kas_turleri"
     },
     {
-      "season": 11,
-      "episode": 65,
+      "season": 6,
+      "episode": 11,
       "title": "Super Strong Skulls",
       "diziid": "giv",
       "bolum": "65",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/65/super_guclu_kafatasi"
     },
     {
-      "season": 12,
-      "episode": 66,
+      "season": 6,
+      "episode": 12,
       "title": "Tremendous Tears",
       "diziid": "giv",
       "bolum": "66",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/66/muazzam_gozyasi"
     },
     {
-      "season": 13,
-      "episode": 67,
+      "season": 6,
+      "episode": 13,
       "title": "Flabbergasting Favourites",
       "diziid": "giv",
       "bolum": "67",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/67/en_iyi_anlar"
     },
     {
-      "season": 1,
-      "episode": 68,
+      "season": 7,
+      "episode": 1,
       "title": "What Makes You, You?",
       "diziid": "giv",
       "bolum": "68",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/68/seni_sen_yapan_sey"
     },
     {
-      "season": 2,
-      "episode": 69,
+      "season": 7,
+      "episode": 2,
       "title": "Why Do Bones Break?",
       "diziid": "giv",
       "bolum": "69",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/69/kemikler_neden_kirilir"
     },
     {
-      "season": 3,
-      "episode": 70,
+      "season": 7,
+      "episode": 3,
       "title": "What Makes You, You?",
       "diziid": "giv",
       "bolum": "70",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/70/seni_igrenc_yapan_sey"
     },
     {
-      "season": 4,
-      "episode": 71,
+      "season": 7,
+      "episode": 4,
       "title": "Don't Pick Your Scabs!",
       "diziid": "giv",
       "bolum": "71",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/71/yara"
     },
     {
-      "season": 5,
-      "episode": 72,
+      "season": 7,
+      "episode": 5,
       "title": "Why Is Your Poo Brown?",
       "diziid": "giv",
       "bolum": "72",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/72/diski"
     },
     {
-      "season": 6,
-      "episode": 73,
+      "season": 7,
+      "episode": 6,
       "title": "How to Grow a Brain",
       "diziid": "giv",
       "bolum": "73",
@@ -595,119 +596,119 @@
     },
     {
       "season": 7,
-      "episode": 74,
+      "episode": 7,
       "title": "What Thumbs Are For",
       "diziid": "giv",
       "bolum": "74",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/74/basparmaklar"
     },
     {
-      "season": 8,
-      "episode": 75,
+      "season": 7,
+      "episode": 8,
       "title": "How Your Reflexes Can Save You",
       "diziid": "giv",
       "bolum": "75",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/75/refleksler"
     },
     {
-      "season": 9,
-      "episode": 76,
+      "season": 7,
+      "episode": 9,
       "title": "Why Is Sweat Salty",
       "diziid": "giv",
       "bolum": "76",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/76/ter"
     },
     {
-      "season": 10,
-      "episode": 77,
+      "season": 7,
+      "episode": 10,
       "title": "Get Your Body Moving!",
       "diziid": "giv",
       "bolum": "77",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/77/vucudunuzu_harekete_gecirin"
     },
     {
-      "season": 11,
-      "episode": 78,
+      "season": 7,
+      "episode": 11,
       "title": "Why Are Some People Faster Than Others?",
       "diziid": "giv",
       "bolum": "78",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/78/hizli"
     },
     {
-      "season": 12,
-      "episode": 79,
+      "season": 7,
+      "episode": 12,
       "title": "Is My Body Electric?",
       "diziid": "giv",
       "bolum": "79",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/79/vucudum_elektrikli_mi"
     },
     {
-      "season": 13,
-      "episode": 80,
+      "season": 7,
+      "episode": 13,
       "title": "The Body Roadtrip!",
       "diziid": "giv",
       "bolum": "80",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/80/vucut_yolculugu"
     },
     {
-      "season": 14,
-      "episode": 81,
+      "season": 7,
+      "episode": 14,
       "title": "The Ouch! Awards",
       "diziid": "giv",
       "bolum": "81",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/81/oduller"
     },
     {
-      "season": 1,
-      "episode": 82,
+      "season": 8,
+      "episode": 1,
       "title": "We're Having a Baby",
       "diziid": "giv",
       "bolum": "82",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/82/bebek_geliyor"
     },
     {
-      "season": 2,
-      "episode": 83,
+      "season": 8,
+      "episode": 2,
       "title": "Doctors Face Off",
       "diziid": "giv",
       "bolum": "83",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/83/doktor_kapismasi"
     },
     {
-      "season": 3,
-      "episode": 84,
+      "season": 8,
+      "episode": 3,
       "title": "There's a lizard in the lab",
       "diziid": "giv",
       "bolum": "84",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/84/kertenkele"
     },
     {
-      "season": 4,
-      "episode": 85,
+      "season": 8,
+      "episode": 4,
       "title": "Loud, LOUD, LOUDER!",
       "diziid": "giv",
       "bolum": "85",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/85/daha_yuksek%21"
     },
     {
-      "season": 5,
-      "episode": 86,
+      "season": 8,
+      "episode": 5,
       "title": "What Are Vaccinations For?",
       "diziid": "giv",
       "bolum": "86",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/86/asilar"
     },
     {
-      "season": 6,
-      "episode": 87,
+      "season": 8,
+      "episode": 6,
       "title": "Slime, Snot and Bogies!",
       "diziid": "giv",
       "bolum": "87",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/87/sumuk"
     },
     {
-      "season": 7,
-      "episode": 88,
+      "season": 8,
+      "episode": 7,
       "title": "Flexible Arms and Triple Jumping!",
       "diziid": "giv",
       "bolum": "88",
@@ -715,127 +716,127 @@
     },
     {
       "season": 8,
-      "episode": 89,
+      "episode": 8,
       "title": "Knobbly Knees and What They Are For",
       "diziid": "giv",
       "bolum": "89",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/89/diz_kapagi"
     },
     {
-      "season": 9,
-      "episode": 90,
+      "season": 8,
+      "episode": 9,
       "title": "Your Brilliant Brain and Sparky Signals",
       "diziid": "giv",
       "bolum": "90",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/90/beyin_ve_sinyaller"
     },
     {
-      "season": 10,
-      "episode": 91,
+      "season": 8,
+      "episode": 10,
       "title": "All Hail King Xand",
       "diziid": "giv",
       "bolum": "91",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/91/kral_xand"
     },
     {
-      "season": 11,
-      "episode": 92,
+      "season": 8,
+      "episode": 11,
       "title": "It's a Tug-O-War!",
       "diziid": "giv",
       "bolum": "92",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/92/halat_cekme_yarisi"
     },
     {
-      "season": 12,
-      "episode": 93,
+      "season": 8,
+      "episode": 12,
       "title": "Xand Goes Pop!",
       "diziid": "giv",
       "bolum": "93",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/93/xand_patliyor%21"
     },
     {
-      "season": 13,
-      "episode": 94,
+      "season": 8,
+      "episode": 13,
       "title": "What Happened Next?",
       "diziid": "giv",
       "bolum": "94",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/94/vizite_zamani"
     },
     {
-      "season": 14,
-      "episode": 95,
+      "season": 8,
+      "episode": 14,
       "title": "The Ouch! Awards 2",
       "diziid": "giv",
       "bolum": "95",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/95/ikinci_oduller"
     },
     {
-      "season": 15,
-      "episode": 96,
+      "season": 8,
+      "episode": 15,
       "title": "Food, Poo and You!",
       "diziid": "giv",
       "bolum": "96",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/96/yiyecek%2C_sindirim_ve_siz"
     },
     {
-      "season": 1,
-      "episode": 97,
+      "season": 9,
+      "episode": 1,
       "title": "Virus Alert",
       "diziid": "giv",
       "bolum": "97",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/97/koronavirus"
     },
     {
-      "season": 2,
-      "episode": 98,
+      "season": 9,
+      "episode": 2,
       "title": "Your Super Spine",
       "diziid": "giv",
       "bolum": "98",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/98/super_omurganiz%21"
     },
     {
-      "season": 3,
-      "episode": 99,
+      "season": 9,
+      "episode": 3,
       "title": "Stick Your Tongue Out!",
       "diziid": "giv",
       "bolum": "99",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/99/dilinizi_cikarin%21"
     },
     {
-      "season": 4,
-      "episode": 100,
+      "season": 9,
+      "episode": 4,
       "title": "Dr Scorpion",
       "diziid": "giv",
       "bolum": "100",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/100/doktor_akrep"
     },
     {
-      "season": 5,
-      "episode": 101,
+      "season": 9,
+      "episode": 5,
       "title": "You're Having a Laugh!",
       "diziid": "giv",
       "bolum": "101",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/101/guluyorsunuz%21"
     },
     {
-      "season": 6,
-      "episode": 102,
+      "season": 9,
+      "episode": 6,
       "title": "Superhero Ribs",
       "diziid": "giv",
       "bolum": "102",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/102/kaburgalar"
     },
     {
-      "season": 7,
-      "episode": 103,
+      "season": 9,
+      "episode": 7,
       "title": "Doctor Alert!",
       "diziid": "giv",
       "bolum": "103",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/103/doktor_uyarisi%21"
     },
     {
-      "season": 8,
-      "episode": 104,
+      "season": 9,
+      "episode": 8,
       "title": "Snot, Snot, Snot!",
       "diziid": "giv",
       "bolum": "104",
@@ -843,31 +844,31 @@
     },
     {
       "season": 9,
-      "episode": 105,
+      "episode": 9,
       "title": "How to Train a Brain",
       "diziid": "giv",
       "bolum": "105",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/105/beyni_egitmek%21"
     },
     {
-      "season": 10,
-      "episode": 106,
+      "season": 9,
+      "episode": 10,
       "title": "Stinky Dr Xand!",
       "diziid": "giv",
       "bolum": "106",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/106/kokulu_doktor_xand"
     },
     {
-      "season": 11,
-      "episode": 107,
+      "season": 9,
+      "episode": 11,
       "title": "Blink And You'll Miss It!",
       "diziid": "giv",
       "bolum": "107",
       "url": "https://cizgivedizi.com/dizi/giv/olay_yeri%3A_insan_vucudu/107/goz_kirpmak"
     },
     {
-      "season": 12,
-      "episode": 108,
+      "season": 9,
+      "episode": 12,
       "title": "The Ouch Awards 3!",
       "diziid": "giv",
       "bolum": "108",

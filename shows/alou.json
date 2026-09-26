@@ -3,6 +3,7 @@
   "title": "afacan louie",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/ALOUPoster.avif",
+  "plot": "Louie'nin; tatlÄ± kalpli annesi, gÃ¼rÃ¼ltÃ¼cÃ¼ ve savaÅŸ delisi babasÄ±, 10 kardeÅŸi ve okulda onu kÄ±zdÄ±rmayÄ± seven Ã§ocuklarla macerasÄ±.",
   "channel": "Jetix",
   "genres": [
     "Komedi",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/1/yilbasi_suslemesi"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Dad Gets Canned",
       "diziid": "alou",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/2/andy_kovulur"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Raindrops Keep Falling on My Bed",
       "diziid": "alou",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/3/sel_baskini"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Lake Winnibigoshish",
       "diziid": "alou",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/4/winnibigoshish_golu"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "A Fish Called Pepper",
       "diziid": "alou",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/5/biber"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Behind Every Good Coach",
       "diziid": "alou",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/6/beyzbol"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Alive! Miracle in Cedar Knoll, Wisconsin",
       "diziid": "alou",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/7/wisconsin_kar_canavari"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Pains, Grains, and Allergy Shots",
       "diziid": "alou",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/8/bugday_alerjisi"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "The Fourth Thursday in November",
       "diziid": "alou",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/9/sukran_gunu"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 10,
       "title": "When Cedar Knoll Freezes Over",
       "diziid": "alou",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/11/kis_karnavali"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 11,
       "title": "Born a Rambler Man",
       "diziid": "alou",
@@ -98,8 +99,8 @@
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/13/yeni_araba"
     },
     {
-      "season": 1,
-      "episode": 12,
+      "season": 2,
+      "episode": 1,
       "title": "Caddy on a Hot Tin Roof",
       "diziid": "alou",
       "bolum": "14",
@@ -107,103 +108,103 @@
     },
     {
       "season": 2,
-      "episode": 13,
+      "episode": 2,
       "title": "Summer of My Discontent",
       "diziid": "alou",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/15/kamp"
     },
     {
-      "season": 3,
-      "episode": 14,
+      "season": 2,
+      "episode": 3,
       "title": "Anderson Ski Weekend",
       "diziid": "alou",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/16/uzman_kayakci"
     },
     {
-      "season": 4,
-      "episode": 15,
+      "season": 2,
+      "episode": 4,
       "title": "Roofless People",
       "diziid": "alou",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/17/hortum"
     },
     {
-      "season": 5,
-      "episode": 16,
+      "season": 2,
+      "episode": 5,
       "title": "How to Succeed in Washington Without Really Trying",
       "diziid": "alou",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/18/konusma_yarismasi"
     },
     {
-      "season": 6,
-      "episode": 17,
+      "season": 2,
+      "episode": 6,
       "title": "Mr. Anderson's Opus",
       "diziid": "alou",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/19/jeannie_ve_sean"
     },
     {
-      "season": 7,
-      "episode": 18,
+      "season": 2,
+      "episode": 7,
       "title": "An Anderson Dozen",
       "diziid": "alou",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/20/yeni_bebek"
     },
     {
-      "season": 8,
-      "episode": 19,
+      "season": 2,
+      "episode": 8,
       "title": "Buzz Stop",
       "diziid": "alou",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/21/fen_projesi"
     },
     {
-      "season": 10,
-      "episode": 20,
+      "season": 2,
+      "episode": 9,
       "title": "The Masked Chess Boy",
       "diziid": "alou",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/23/satranc"
     },
     {
-      "season": 11,
-      "episode": 21,
+      "season": 2,
+      "episode": 10,
       "title": "The Good, the Bad, & the Glenns",
       "diziid": "alou",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/24/iyi%2C_kotu_ve_glenn"
     },
     {
-      "season": 12,
-      "episode": 22,
+      "season": 2,
+      "episode": 11,
       "title": "Kazoo's Coming to Dinner",
       "diziid": "alou",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/25/komedyen_kazoo"
     },
     {
-      "season": 13,
-      "episode": 23,
+      "season": 2,
+      "episode": 12,
       "title": "The Thank You Note",
       "diziid": "alou",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/26/tesekkurler_notu"
     },
     {
-      "season": 1,
-      "episode": 24,
+      "season": 3,
+      "episode": 1,
       "title": "Louie's Gate",
       "diziid": "alou",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/27/sinema_tutkunu"
     },
     {
-      "season": 2,
-      "episode": 25,
+      "season": 3,
+      "episode": 2,
       "title": "The Making of a President",
       "diziid": "alou",
       "bolum": "28",
@@ -211,39 +212,39 @@
     },
     {
       "season": 3,
-      "episode": 26,
+      "episode": 3,
       "title": "Military Reunion",
       "diziid": "alou",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/29/5._boluk"
     },
     {
-      "season": 4,
-      "episode": 27,
+      "season": 3,
+      "episode": 4,
       "title": "Go Packers",
       "diziid": "alou",
       "bolum": "30",
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/30/hadi_packerler"
     },
     {
-      "season": 8,
-      "episode": 28,
+      "season": 3,
+      "episode": 5,
       "title": "Close Encounters of the Louie Kind",
       "diziid": "alou",
       "bolum": "34",
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/34/uzaylilar"
     },
     {
-      "season": 11,
-      "episode": 29,
+      "season": 3,
+      "episode": 6,
       "title": "Blinded by Love",
       "diziid": "alou",
       "bolum": "37",
       "url": "https://cizgivedizi.com/dizi/alou/afacan_louie/37/ask_koru"
     },
     {
-      "season": 12,
-      "episode": 30,
+      "season": 3,
+      "episode": 7,
       "title": "Do It or Donut",
       "diziid": "alou",
       "bolum": "38",

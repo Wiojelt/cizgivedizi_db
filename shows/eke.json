@@ -3,6 +3,7 @@
   "title": "ejderhalar: kurtarÄ±cÄ± ekibi",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/EKEPoster.avif",
+  "plot": "Ä°kiz kardeÅŸler Dak ve Leyla ile ejderha arkadaÅŸlarÄ±, hayatlarÄ±nÄ± diÄŸerlerini kurtararak, evleri Huttsgalor'u savunarak ve bu sÄ±rada bol bol eÄŸlenerek geÃ§iriyor.",
   "channel": "Netflix",
   "genres": [
     "Macera"
@@ -17,7 +18,7 @@
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/1/yuva"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Deep Trouble",
       "diziid": "eke",
@@ -25,7 +26,7 @@
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/2/derin_sorun"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Boo to You",
       "diziid": "eke",
@@ -33,7 +34,7 @@
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/3/seni_korkuttum"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Where There's Smoke",
       "diziid": "eke",
@@ -41,7 +42,7 @@
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/4/duman_cikan_yerde"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Heavy Metal",
       "diziid": "eke",
@@ -49,7 +50,7 @@
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/5/agir_metal"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Iced Out",
       "diziid": "eke",
@@ -57,7 +58,7 @@
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/6/her_yer_buzla_kapli"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Sick Day",
       "diziid": "eke",
@@ -65,7 +66,7 @@
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/7/hastalikli_gun"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Bad Egg",
       "diziid": "eke",
@@ -73,7 +74,7 @@
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/8/kotu_yumurta"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Home Alone",
       "diziid": "eke",
@@ -81,7 +82,7 @@
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/9/evde_yalniz"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Slobber Power",
       "diziid": "eke",
@@ -89,7 +90,7 @@
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/10/salya_gucu"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Crash Course",
       "diziid": "eke",
@@ -97,7 +98,7 @@
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/11/cakilma_dersi"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Furious Fun",
       "diziid": "eke",
@@ -105,7 +106,7 @@
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/12/ofkeli_eglence"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "Grumblegard: Part 1",
       "diziid": "eke",
@@ -113,7 +114,7 @@
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/13/huysuz_bekci%3A_kisim_1"
     },
     {
-      "season": 14,
+      "season": 1,
       "episode": 14,
       "title": "Grumblegard: Part 2",
       "diziid": "eke",
@@ -121,8 +122,8 @@
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/14/huysuz_bekci%3A_kisim_2"
     },
     {
-      "season": 1,
-      "episode": 15,
+      "season": 2,
+      "episode": 1,
       "title": "Double Finked",
       "diziid": "eke",
       "bolum": "15",
@@ -130,111 +131,111 @@
     },
     {
       "season": 2,
-      "episode": 16,
+      "episode": 2,
       "title": "Divewings",
       "diziid": "eke",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/16/dalici_kanatlar"
     },
     {
-      "season": 3,
-      "episode": 17,
+      "season": 2,
+      "episode": 3,
       "title": "Mecha-Menace",
       "diziid": "eke",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/17/mekanik_tehdit"
     },
     {
-      "season": 4,
-      "episode": 18,
+      "season": 2,
+      "episode": 4,
       "title": "Summer Holiday",
       "diziid": "eke",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/18/summerin_tatili"
     },
     {
-      "season": 5,
-      "episode": 19,
+      "season": 2,
+      "episode": 5,
       "title": "Treasure Riders",
       "diziid": "eke",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/19/hazine_kurtaricilari"
     },
     {
-      "season": 6,
-      "episode": 20,
+      "season": 2,
+      "episode": 6,
       "title": "Puff Enuf",
       "diziid": "eke",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/20/sismeyi_durdur"
     },
     {
-      "season": 7,
-      "episode": 21,
+      "season": 2,
+      "episode": 7,
       "title": "Hot, Hot, Hot",
       "diziid": "eke",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/21/sicak%2C_sicak%2C_sicak"
     },
     {
-      "season": 8,
-      "episode": 22,
+      "season": 2,
+      "episode": 8,
       "title": "High Anxiety",
       "diziid": "eke",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/22/yuksek_gerilim"
     },
     {
-      "season": 9,
-      "episode": 23,
+      "season": 2,
+      "episode": 9,
       "title": "King Burple",
       "diziid": "eke",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/23/kral_burple"
     },
     {
-      "season": 10,
-      "episode": 24,
+      "season": 2,
+      "episode": 10,
       "title": "Charged Up",
       "diziid": "eke",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/24/fazla_sarj"
     },
     {
-      "season": 11,
-      "episode": 25,
+      "season": 2,
+      "episode": 11,
       "title": "Belly Flop",
       "diziid": "eke",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/25/gobek_atlayisi"
     },
     {
-      "season": 12,
-      "episode": 26,
+      "season": 2,
+      "episode": 12,
       "title": "Game of Horns",
       "diziid": "eke",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/26/boynuz_oyunlari"
     },
     {
-      "season": 1,
-      "episode": 27,
+      "season": 3,
+      "episode": 1,
       "title": "Hunt for the Golden Dragon",
       "diziid": "eke",
       "bolum": "0",
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/0/altin_ejder_avi"
     },
     {
-      "season": 1,
-      "episode": 28,
+      "season": 3,
+      "episode": 2,
       "title": "Secrets of the Songwing",
       "diziid": "eke",
       "bolum": "0",
       "url": "https://cizgivedizi.com/dizi/eke/ejderhalar%3A_kurtarici_ekibi/0/sarkikanatin_sirri"
     },
     {
-      "season": 1,
-      "episode": 29,
+      "season": 3,
+      "episode": 3,
       "title": "Huttsgalor Holiday",
       "diziid": "eke",
       "bolum": "0",

@@ -3,6 +3,7 @@
   "title": "skylanders academy",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/SKYAPoster.avif",
+  "plot": "Bir grup akademi mezunu Skylander, dÃ¼nyasÄ±nÄ± kÃ¶tÃ¼ gÃ¼Ã§lerden korumaya Ã§alÄ±ÅŸÄ±rken gÃ¼ven ve cesarete dair yeni ÅŸeyler Ã¶ÄŸrenirler.",
   "channel": "Netflix",
   "genres": [
     "Aksiyon",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/1/birlikten_kuvvet_dogar%21"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 2,
       "title": "My Way or the Sky Way",
       "diziid": "skya",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/3/acemi_skylander"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 3,
       "title": "Missing Links",
       "diziid": "skya",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/4/basariya_giden_yol"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 4,
       "title": "Dream Girls",
       "diziid": "skya",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/5/kotu_bir_ruya"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 5,
       "title": "The Hole Truth",
       "diziid": "skya",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/6/kacis_plani"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 6,
       "title": "Space Invaders",
       "diziid": "skya",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/7/akil_oyunu"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 7,
       "title": "Anger Mismanagement",
       "diziid": "skya",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/8/sakin_ol_eruptor"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 8,
       "title": "Pop Rocks",
       "diziid": "skya",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/9/skyland_muzik_festivali"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 9,
       "title": "Beard Science",
       "diziid": "skya",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/10/sakal_hirsizi"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 10,
       "title": "The Skylands Are Falling!",
       "diziid": "skya",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/11/skylandde_firtina"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 11,
       "title": "Crash Landing",
       "diziid": "skya",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/12/beklenmedik_ziyaretci"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 12,
       "title": "Assault on Skylander Academy",
       "diziid": "skya",
@@ -106,8 +107,8 @@
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/13/skylander_akademisine_saldiri"
     },
     {
-      "season": 1,
-      "episode": 13,
+      "season": 2,
+      "episode": 1,
       "title": "Spyromania",
       "diziid": "skya",
       "bolum": "14",
@@ -115,111 +116,111 @@
     },
     {
       "season": 2,
-      "episode": 14,
+      "episode": 2,
       "title": "I Dream of Ninjini",
       "diziid": "skya",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/15/ninjiniyi_hayal_ediyorum"
     },
     {
-      "season": 3,
-      "episode": 15,
+      "season": 2,
+      "episode": 3,
       "title": "Return to Cynder",
       "diziid": "skya",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/16/cyndera_donus"
     },
     {
-      "season": 4,
-      "episode": 16,
+      "season": 2,
+      "episode": 4,
       "title": "Thankstaking for the Memories",
       "diziid": "skya",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/17/anilar_icin_sukran_calma_gunu"
     },
     {
-      "season": 5,
-      "episode": 17,
+      "season": 2,
+      "episode": 5,
       "title": "Elementary, My Dear Eruptor",
       "diziid": "skya",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/18/doga_elementleri%2C_canim_eruptor"
     },
     {
-      "season": 6,
-      "episode": 18,
+      "season": 2,
+      "episode": 6,
       "title": "Split Decision",
       "diziid": "skya",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/19/ayri_karar"
     },
     {
-      "season": 7,
-      "episode": 19,
+      "season": 2,
+      "episode": 7,
       "title": "The People vs. Pop Fizz",
       "diziid": "skya",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/20/pop_fizzin_davasi"
     },
     {
-      "season": 8,
-      "episode": 20,
+      "season": 2,
+      "episode": 8,
       "title": "One Flu Over the Skylander's Nest",
       "diziid": "skya",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/21/skylandste_grip_salgini"
     },
     {
-      "season": 9,
-      "episode": 21,
+      "season": 2,
+      "episode": 9,
       "title": "Belly of the Beast",
       "diziid": "skya",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/22/canavarin_karni"
     },
     {
-      "season": 10,
-      "episode": 22,
+      "season": 2,
+      "episode": 10,
       "title": "Who's Your Daddy?",
       "diziid": "skya",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/23/senin_baban_kim"
     },
     {
-      "season": 11,
-      "episode": 23,
+      "season": 2,
+      "episode": 11,
       "title": "Sheep(ball) Dreams",
       "diziid": "skya",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/24/koyuntopu_dusleri"
     },
     {
-      "season": 12,
-      "episode": 24,
+      "season": 2,
+      "episode": 12,
       "title": "It Techs Two",
       "diziid": "skya",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/25/iki_kisilik_teknoloji"
     },
     {
-      "season": 13,
-      "episode": 25,
+      "season": 2,
+      "episode": 13,
       "title": "Touch of Evil",
       "diziid": "skya",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/26/kotulugun_dokunusu"
     },
     {
-      "season": 1,
-      "episode": 26,
+      "season": 3,
+      "episode": 1,
       "title": "Power Struggle",
       "diziid": "skya",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/27/guc_kavgasi"
     },
     {
-      "season": 2,
-      "episode": 27,
+      "season": 3,
+      "episode": 2,
       "title": "The Truth is in Here",
       "diziid": "skya",
       "bolum": "28",
@@ -227,87 +228,87 @@
     },
     {
       "season": 3,
-      "episode": 28,
+      "episode": 3,
       "title": "Sky Hard",
       "diziid": "skya",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/29/zor_gorev"
     },
     {
-      "season": 4,
-      "episode": 29,
+      "season": 3,
+      "episode": 4,
       "title": "A Traitor Among Us",
       "diziid": "skya",
       "bolum": "30",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/30/aramizdaki_hain"
     },
     {
-      "season": 5,
-      "episode": 30,
+      "season": 3,
+      "episode": 5,
       "title": "In Like Flynn",
       "diziid": "skya",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/31/flynn_efsanesi"
     },
     {
-      "season": 6,
-      "episode": 31,
+      "season": 3,
+      "episode": 6,
       "title": "Weekend at Eon's",
       "diziid": "skya",
       "bolum": "32",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/32/eonda_bir_hafta_sonu"
     },
     {
-      "season": 7,
-      "episode": 32,
+      "season": 3,
+      "episode": 7,
       "title": "Road Rage",
       "diziid": "skya",
       "bolum": "33",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/33/yolda_hiddet"
     },
     {
-      "season": 8,
-      "episode": 33,
+      "season": 3,
+      "episode": 8,
       "title": "Three Sides to Every Story",
       "diziid": "skya",
       "bolum": "34",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/34/madalyonun_uc_yuzu"
     },
     {
-      "season": 9,
-      "episode": 34,
+      "season": 3,
+      "episode": 9,
       "title": "Days of Future Crash",
       "diziid": "skya",
       "bolum": "35",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/35/crashli_gunler_gelecek"
     },
     {
-      "season": 10,
-      "episode": 35,
+      "season": 3,
+      "episode": 10,
       "title": "Off to the Races",
       "diziid": "skya",
       "bolum": "36",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/36/yaris_gunu"
     },
     {
-      "season": 11,
-      "episode": 36,
+      "season": 3,
+      "episode": 11,
       "title": "Split",
       "diziid": "skya",
       "bolum": "37",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/37/bolunme"
     },
     {
-      "season": 12,
-      "episode": 37,
+      "season": 3,
+      "episode": 12,
       "title": "Raiders of the Lost Arkus, Part 1",
       "diziid": "skya",
       "bolum": "38",
       "url": "https://cizgivedizi.com/dizi/skya/skylanders_academy/38/kutsal_arkus_avcilari%2C_kisim_1"
     },
     {
-      "season": 13,
-      "episode": 38,
+      "season": 3,
+      "episode": 13,
       "title": "Raiders of the Lost Arkus, Part 2",
       "diziid": "skya",
       "bolum": "39",

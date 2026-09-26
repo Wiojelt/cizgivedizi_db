@@ -3,6 +3,7 @@
   "title": "lego: friends",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/LEGOFPoster.avif",
+  "plot": "Heartlake City'de yaÅŸayan yakÄ±n arkadaÅŸlar, macera dolu yeni sezonda kÃ¢h kÃ¶pek hÄ±rsÄ±zlarÄ±nÄ±n peÅŸine dÃ¼ÅŸecek, kÃ¢h havuz kenarÄ±nda eÄŸlenceli iÅŸlerde Ã§alÄ±ÅŸacak.",
   "channel": "Netflix",
   "genres": [
     "GÃ¼nlÃ¼k Hayattan",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/lf/lego%3A_friends/13/salyali_dedektif"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Rabbittouille",
       "diziid": "lf",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/lf/lego%3A_friends/14/asci_tavsan"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Change of Address",
       "diziid": "lf",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/lf/lego%3A_friends/15/adres_degisikligi"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Dive In",
       "diziid": "lf",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/lf/lego%3A_friends/16/dalis"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "I Told You So",
       "diziid": "lf",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/lf/lego%3A_friends/17/ben_demistim"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Snow Way",
       "diziid": "lf",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/lf/lego%3A_friends/18/snowboard_yarisi"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Midwinter Night's Dream",
       "diziid": "lf",

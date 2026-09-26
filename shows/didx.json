@@ -3,6 +3,7 @@
   "title": "ben yapmadÄ±m",
   "type": "dizi",
   "poster": "https://cizgivedizi.com/resim/BENYXPoster.avif",
+  "plot": "Son derece rekabetÃ§i Ã§ift yumurta ikizleri ile onlarÄ±n en iyi Ã¼Ã§ arkadaÅŸÄ±ndan oluÅŸan beÅŸ gencin hayatÄ±ndaki ÅŸaÅŸÄ±rtÄ±cÄ± ve eÄŸlenceli dÃ¶nemeÃ§ler. Her bÃ¶lÃ¼m, ikizler Lindy ve Logan'Ä±n bir ÅŸekilâ€¦",
   "channel": "Disney+",
   "genres": [
     "Komedi",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/1/pilot"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Fireman Freddy's Spaghetti Station",
       "diziid": "didx",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/2/itfaiyeci_freddynin_spagetti_istasyonu"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "The New Guy",
       "diziid": "didx",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/3/yeni_cocuk"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Dear High School Self",
       "diziid": "didx",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/4/sevgili_liseli_benligim"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "If It Tastes Like a Brussels Sprout",
       "diziid": "didx",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/5/bruksel_lahanasi_gibi_tadi_varsa"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Lindylicious",
       "diziid": "didx",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/6/lindy-suyu"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Snow Problem",
       "diziid": "didx",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/7/kar_problemi"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Dance Fever",
       "diziid": "didx",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/8/dans_atesi"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Now Museum, Now You Don't",
       "diziid": "didx",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/9/simdi%2C_muze%2C_simdi%2C_yapma"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "In the Doghouse With the White House",
       "diziid": "didx",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/10/beyaz_sarayin_kopek_kulubesinde"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Phone Challenge",
       "diziid": "didx",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/11/telefon_iddiasi"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Twin It to Win It",
       "diziid": "didx",
@@ -106,7 +107,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/12/kazanmak_icin_esles"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "Earth Boys Are Icky",
       "diziid": "didx",
@@ -114,7 +115,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/13/yeryuzu_oglanlari_siradan"
     },
     {
-      "season": 14,
+      "season": 1,
       "episode": 14,
       "title": "Lindy Nose Best",
       "diziid": "didx",
@@ -122,7 +123,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/14/her_seye_maydanoz_lindy"
     },
     {
-      "season": 15,
+      "season": 1,
       "episode": 15,
       "title": "Ball or Nothing",
       "diziid": "didx",
@@ -130,7 +131,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/15/ya_top_ya_hic"
     },
     {
-      "season": 16,
+      "season": 1,
       "episode": 16,
       "title": "Logan's Run",
       "diziid": "didx",
@@ -138,7 +139,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/16/loganin_kosusu"
     },
     {
-      "season": 17,
+      "season": 1,
       "episode": 17,
       "title": "Bad News",
       "diziid": "didx",
@@ -146,7 +147,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/17/kotu_haber"
     },
     {
-      "season": 18,
+      "season": 1,
       "episode": 18,
       "title": "Next of Pumpkin",
       "diziid": "didx",
@@ -154,7 +155,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/18/balkabaginin_akabinde"
     },
     {
-      "season": 19,
+      "season": 1,
       "episode": 19,
       "title": "Bicycle Thief",
       "diziid": "didx",
@@ -162,7 +163,7 @@
       "url": "https://cizgivedizi.com/dizi/didx/ben_yapmadim/19/bisiklet_hirsizi"
     },
     {
-      "season": 20,
+      "season": 1,
       "episode": 20,
       "title": "Merry Miss Sis",
       "diziid": "didx",

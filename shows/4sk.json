@@ -3,6 +3,7 @@
   "title": "4 sÃ¼per kÄ±z",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/4SKPoster.avif",
+  "plot": "Eski bir ajan, tek gayeleri ortaokulu saÄŸ salim atlatmak olan dÃ¶rt genci sÃ¼per kahraman ekibine dÃ¢hil eder. Yeni gÃ¶revleri ise dÃ¼nyayÄ± kurtarmaktÄ±r.",
   "channel": "Netflix",
   "genres": [
     "Aksiyon",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/4sk/4_super_kiz/1/dortlu_ekip_is_basinda"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Hanger Management",
       "diziid": "4sk",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/4sk/4_super_kiz/2/aclik_ofkesi_kontrolu"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "The Zee",
       "diziid": "4sk",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/4sk/4_super_kiz/3/koca_zee"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "The Monde Challenge",
       "diziid": "4sk",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/4sk/4_super_kiz/4/monde_dansi_cilginligi"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Smart Art",
       "diziid": "4sk",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/4sk/4_super_kiz/5/akilli_resim"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Missing Kid",
       "diziid": "4sk",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/4sk/4_super_kiz/6/kayip_keci_yavrusu"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Herstory",
       "diziid": "4sk",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/4sk/4_super_kiz/7/mama_knin_hikayesi"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Brain Power P1",
       "diziid": "4sk",
@@ -74,8 +75,8 @@
       "url": "https://cizgivedizi.com/dizi/4sk/4_super_kiz/8/beyin_gucu_1._kisim"
     },
     {
-      "season": 1,
-      "episode": 9,
+      "season": 2,
+      "episode": 1,
       "title": "Brain Power P2",
       "diziid": "4sk",
       "bolum": "9",
@@ -83,55 +84,55 @@
     },
     {
       "season": 2,
-      "episode": 10,
+      "episode": 2,
       "title": "Zee vs. Tee",
       "diziid": "4sk",
       "bolum": "10",
       "url": "https://cizgivedizi.com/dizi/4sk/4_super_kiz/10/zee_mi_tee_mi"
     },
     {
-      "season": 3,
-      "episode": 11,
+      "season": 2,
+      "episode": 3,
       "title": "Click Bait",
       "diziid": "4sk",
       "bolum": "11",
       "url": "https://cizgivedizi.com/dizi/4sk/4_super_kiz/11/click_tutkusu"
     },
     {
-      "season": 4,
-      "episode": 12,
+      "season": 2,
+      "episode": 4,
       "title": "Majorette Problem",
       "diziid": "4sk",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/4sk/4_super_kiz/12/majorlerin_sorunu"
     },
     {
-      "season": 5,
-      "episode": 13,
+      "season": 2,
+      "episode": 5,
       "title": "Sisters Before Misters",
       "diziid": "4sk",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/4sk/4_super_kiz/13/once_kiz_kardesler"
     },
     {
-      "season": 6,
-      "episode": 14,
+      "season": 2,
+      "episode": 6,
       "title": "A Zambinite to Remember",
       "diziid": "4sk",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/4sk/4_super_kiz/14/unutulmaz_bir_zambinit"
     },
     {
-      "season": 7,
-      "episode": 15,
+      "season": 2,
+      "episode": 7,
       "title": "The Perfect Storm P1",
       "diziid": "4sk",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/4sk/4_super_kiz/15/kusursuz_firtina_1.kisim"
     },
     {
-      "season": 8,
-      "episode": 16,
+      "season": 2,
+      "episode": 8,
       "title": "The Perfect Storm P2",
       "diziid": "4sk",
       "bolum": "16",

@@ -3,6 +3,7 @@
   "title": "tutenstein",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/TUTPoster.avif",
+  "plot": "12 yaÅŸÄ±ndaki meraklÄ± bir kÄ±z, 21. yÃ¼zyÄ±lda kimsenin kendisine tapmadÄ±ÄŸÄ±nÄ± kabul etmekte zorlanan genÃ§ bir MÄ±sÄ±r firavununun mumyasÄ±nÄ± yanlÄ±ÅŸlÄ±kla uyandÄ±rÄ±r ve macera baÅŸlar.",
   "channel": "Maxi TV",
   "genres": [
     "Tarihi",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/1/uykudan_uyanis"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Curse of the Pharaoh",
       "diziid": "tut",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/2/firavunun_laneti"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Clash of the Shabtis",
       "diziid": "tut",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/3/kuklalarin_isyani"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "I Did It My Way",
       "diziid": "tut",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/4/bildigin_gibi_yap"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "The Boat of Millions of Years",
       "diziid": "tut",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/5/binlerce_yillik_kayik"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "The Powerful One",
       "diziid": "tut",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/6/guclu_biri"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "There's Something About Natasha",
       "diziid": "tut",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/7/natasha_hakkinda_bir_seyler"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "The King of Memphis",
       "diziid": "tut",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/8/memphisin_laneti"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Roommates",
       "diziid": "tut",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/9/oda_arkadaslari"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Ghostbusted",
       "diziid": "tut",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/10/yakalanmis_hayalet"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Near Dead Experience",
       "diziid": "tut",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/11/olumcul_deneyim"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "The Unsafety Zone",
       "diziid": "tut",
@@ -106,7 +107,7 @@
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/12/guvenli_olmayan_bolge"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "Happy Coronation Day, Tutenstein",
       "diziid": "tut",
@@ -114,8 +115,8 @@
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/13/tac_giyme_toreni"
     },
     {
-      "season": 1,
-      "episode": 14,
+      "season": 2,
+      "episode": 1,
       "title": "Friends",
       "diziid": "tut",
       "bolum": "14",
@@ -123,95 +124,95 @@
     },
     {
       "season": 2,
-      "episode": 15,
+      "episode": 2,
       "title": "Green-Eyed Mummy",
       "diziid": "tut",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/15/yesil_gozlu_mumya"
     },
     {
-      "season": 3,
-      "episode": 16,
+      "season": 2,
+      "episode": 3,
       "title": "The Shadow Gobbler",
       "diziid": "tut",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/16/golge_avcisi"
     },
     {
-      "season": 4,
-      "episode": 17,
+      "season": 2,
+      "episode": 4,
       "title": "Tut Jr.",
       "diziid": "tut",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/17/kucuk_tut"
     },
     {
-      "season": 5,
-      "episode": 18,
+      "season": 2,
+      "episode": 5,
       "title": "Something Sphinx",
       "diziid": "tut",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/18/anlasilmaz_bir_sey"
     },
     {
-      "season": 6,
-      "episode": 19,
+      "season": 2,
+      "episode": 6,
       "title": "The Supreme Tut",
       "diziid": "tut",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/19/muhtesem_tut"
     },
     {
-      "season": 7,
-      "episode": 20,
+      "season": 2,
+      "episode": 7,
       "title": "Old Man Tut",
       "diziid": "tut",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/20/yasli_adam_tut"
     },
     {
-      "season": 8,
-      "episode": 21,
+      "season": 2,
+      "episode": 8,
       "title": "Cleo's Catastrophe",
       "diziid": "tut",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/21/cleonun_felaketi"
     },
     {
-      "season": 9,
-      "episode": 22,
+      "season": 2,
+      "episode": 9,
       "title": "Queen for a Day",
       "diziid": "tut",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/22/bir_gunluk_kralice"
     },
     {
-      "season": 10,
-      "episode": 23,
+      "season": 2,
+      "episode": 10,
       "title": "Day of the Undead",
       "diziid": "tut",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/23/olumsuzlerin_gunu"
     },
     {
-      "season": 11,
-      "episode": 24,
+      "season": 2,
+      "episode": 11,
       "title": "Procras-Tut-Nation",
       "diziid": "tut",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/24/_geri_teptim"
     },
     {
-      "season": 12,
-      "episode": 25,
+      "season": 2,
+      "episode": 12,
       "title": "Behdety Late Than Never",
       "diziid": "tut",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/tut/tutenstein/25/behdetynin_sorunu"
     },
     {
-      "season": 13,
-      "episode": 26,
+      "season": 2,
+      "episode": 13,
       "title": "Walter the Brain",
       "diziid": "tut",
       "bolum": "26",

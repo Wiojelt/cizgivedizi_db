@@ -3,6 +3,7 @@
   "title": "genÃ§ kalmanÄ±n yollarÄ±",
   "type": "other",
   "poster": "https://cizgivedizi.com/resim/GEN%C3%87KYPoster.avif",
+  "plot": "Bilim gerÃ§ekten yaÅŸlanmamÄ±zÄ± durdurabilir mi? Ä°nsan biyolojisinin bu olaÄŸanÃ¼stÃ¼ yolculuÄŸu, yaÅŸlanma sÃ¼reci hakkÄ±nda inandÄ±ÄŸÄ±mÄ±z her ÅŸeye meydan okuyor.",
   "channel": "Da Vinci",
   "genres": [],
   "episodes": [
@@ -10,15 +11,15 @@
       "season": 1,
       "episode": 1,
       "title": "Episode 1",
-      "diziid": "gen%C3%A7ky",
+      "diziid": "genÃ§ky",
       "bolum": "1",
       "url": "https://cizgivedizi.com/dizi/gen%C3%A7ky/genc_kalmanin_yollari/1/vucut"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Episode 2",
-      "diziid": "gen%C3%A7ky",
+      "diziid": "genÃ§ky",
       "bolum": "2",
       "url": "https://cizgivedizi.com/dizi/gen%C3%A7ky/genc_kalmanin_yollari/2/beyin"
     }

@@ -3,6 +3,7 @@
   "title": "lego friends: arkadaÅŸlÄ±ÄŸÄ±n gÃ¼cÃ¼",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/LFAGPoster.avif",
+  "plot": "BeÅŸ yakÄ±n arkadaÅŸ, doÄŸduklarÄ± ÅŸehirde birlikte maceralar yaÅŸar. Tuhaf soytarÄ±lÄ±klar, sevgiler ve atÄ±lan yanlÄ±ÅŸ adÄ±mlar arkadaÅŸlarla birlikte daha gÃ¼zeldir!",
   "channel": "Netflix",
   "genres": [
     "GÃ¼nlÃ¼k Hayattan",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/lfag/lego_friends%3A_arkadasligin_gucu/1/vahsi_kalpler_kampi"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Slam Dunk",
       "diziid": "lfag",
@@ -26,8 +27,8 @@
       "url": "https://cizgivedizi.com/dizi/lfag/lego_friends%3A_arkadasligin_gucu/2/sampiyon"
     },
     {
-      "season": 1,
-      "episode": 3,
+      "season": 2,
+      "episode": 1,
       "title": "Keepin' It Real",
       "diziid": "lfag",
       "bolum": "3",
@@ -35,7 +36,7 @@
     },
     {
       "season": 2,
-      "episode": 4,
+      "episode": 2,
       "title": "Roomies",
       "diziid": "lfag",
       "bolum": "4",

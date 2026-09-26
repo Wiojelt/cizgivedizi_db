@@ -3,6 +3,7 @@
   "title": "samuray jack",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/SJPoster.avif",
+  "plot": "Uzun zaman Ã¶nce kÃ¶tÃ¼ bÃ¼yÃ¼cÃ¼ Aku, hakimiyeti altÄ±na almak amacÄ±yla dÃ¼nyaya saldÄ±rmÄ±ÅŸtÄ±r. GÃ¼Ã§leri ve Ã¶fkesi o kadar bÃ¼yÃ¼ktÃ¼r ki hiÃ§bir gÃ¼Ã§ karÅŸÄ±sÄ±nda durmaya cesaret edememiÅŸtir. Ama bir savaâ€¦",
   "channel": "Cartoon Network",
   "genres": [
     "Aksiyon",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/1/baslangic"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "The Samurai Called Jack (2)",
       "diziid": "sj",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/2/samurayin_adi_jack"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "The First Fight (3)",
       "diziid": "sj",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/3/ilk_mucadele"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Jack, the Woolies, and the Chritchellites",
       "diziid": "sj",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/4/jack%2C_yunluler_ve_chritchelliteler"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Jack in Space",
       "diziid": "sj",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/5/jack_uzayda"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Jack and the Warrior Woman",
       "diziid": "sj",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/6/jack_ve_savasci_kadin"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Jack and the Three Blind Archers",
       "diziid": "sj",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/7/jack_ve_uc_kor_okcu"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Jack vs. Mad Jack",
       "diziid": "sj",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/8/jack%2C_kizgin_jacke_karsi"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Jack Under the Sea",
       "diziid": "sj",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/9/jack_denizin_altinda"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Jack and the Lava Monster",
       "diziid": "sj",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/10/jack_ve_lav_canavari"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Jack and the Scotsman (1)",
       "diziid": "sj",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/11/jack_ve_iskocyali%2C_bolum_1"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Jack and the Gangsters",
       "diziid": "sj",
@@ -106,7 +107,7 @@
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/12/jack_ve_gangsterler"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "Aku's Fairy Tales",
       "diziid": "sj",
@@ -114,8 +115,8 @@
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/13/akunun_peri_hikayeleri"
     },
     {
-      "season": 1,
-      "episode": 14,
+      "season": 2,
+      "episode": 1,
       "title": "Jack Learns to Jump Good",
       "diziid": "sj",
       "bolum": "14",
@@ -123,111 +124,111 @@
     },
     {
       "season": 2,
-      "episode": 15,
+      "episode": 2,
       "title": "Jack Tales",
       "diziid": "sj",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/15/jack_hikayeleri"
     },
     {
-      "season": 3,
-      "episode": 16,
+      "season": 2,
+      "episode": 3,
       "title": "Jack and the Smackback",
       "diziid": "sj",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/16/jack_ve_smackback"
     },
     {
-      "season": 4,
-      "episode": 17,
+      "season": 2,
+      "episode": 4,
       "title": "Jack and the Scotsman (2)",
       "diziid": "sj",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/17/jack_ve_iskocyali%2C_bolum_2"
     },
     {
-      "season": 5,
-      "episode": 18,
+      "season": 2,
+      "episode": 5,
       "title": "Jack and the Ultra-robots",
       "diziid": "sj",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/18/jack_ve_ultra-robotlar"
     },
     {
-      "season": 6,
-      "episode": 19,
+      "season": 2,
+      "episode": 6,
       "title": "Jack Remembers the Past",
       "diziid": "sj",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/19/jack_gecmisini_hatirlar"
     },
     {
-      "season": 7,
-      "episode": 20,
+      "season": 2,
+      "episode": 7,
       "title": "Jack and the Monks",
       "diziid": "sj",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/20/jack_ve_kesisler"
     },
     {
-      "season": 8,
-      "episode": 21,
+      "season": 2,
+      "episode": 8,
       "title": "Jack and the Farting Dragon",
       "diziid": "sj",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/21/jack_ve_gaz_cikaran_ejderha"
     },
     {
-      "season": 9,
-      "episode": 22,
+      "season": 2,
+      "episode": 9,
       "title": "Jack and the Hunters",
       "diziid": "sj",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/22/jack_ve_avcilar"
     },
     {
-      "season": 10,
-      "episode": 23,
+      "season": 2,
+      "episode": 10,
       "title": "Jack Versus Demongo, the Soul Collector",
       "diziid": "sj",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/23/jack_ruh_toplayici_demongoya_karsi"
     },
     {
-      "season": 11,
-      "episode": 24,
+      "season": 2,
+      "episode": 11,
       "title": "Jack is Naked",
       "diziid": "sj",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/24/ciplak_jack"
     },
     {
-      "season": 12,
-      "episode": 25,
+      "season": 2,
+      "episode": 12,
       "title": "Jack and the Spartans",
       "diziid": "sj",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/25/jack_ve_spartalilar"
     },
     {
-      "season": 13,
-      "episode": 26,
+      "season": 2,
+      "episode": 13,
       "title": "Jack's Sandals",
       "diziid": "sj",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/26/jackin_sandaletleri"
     },
     {
-      "season": 1,
-      "episode": 27,
+      "season": 3,
+      "episode": 1,
       "title": "Chicken Jack",
       "diziid": "sj",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/27/tavuk_jack"
     },
     {
-      "season": 2,
-      "episode": 28,
+      "season": 3,
+      "episode": 2,
       "title": "Jack and the Rave",
       "diziid": "sj",
       "bolum": "28",
@@ -235,111 +236,111 @@
     },
     {
       "season": 3,
-      "episode": 29,
+      "episode": 3,
       "title": "The Good, the Bad and the Beautiful",
       "diziid": "sj",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/29/iyi%2C_kotu_ve_guzel"
     },
     {
-      "season": 4,
-      "episode": 30,
+      "season": 3,
+      "episode": 4,
       "title": "Jack and the Zombies",
       "diziid": "sj",
       "bolum": "30",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/30/jack_ve_zombiler"
     },
     {
-      "season": 5,
-      "episode": 31,
+      "season": 3,
+      "episode": 5,
       "title": "Jack in Egypt",
       "diziid": "sj",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/31/jack_misirda"
     },
     {
-      "season": 6,
-      "episode": 32,
+      "season": 3,
+      "episode": 6,
       "title": "Jack and the Travelling Creatures",
       "diziid": "sj",
       "bolum": "32",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/32/jack_ve_yaratiklarin_seyahati"
     },
     {
-      "season": 7,
-      "episode": 33,
+      "season": 3,
+      "episode": 7,
       "title": "Jack and the Creature",
       "diziid": "sj",
       "bolum": "33",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/33/jack_ve_yaratik"
     },
     {
-      "season": 8,
-      "episode": 34,
+      "season": 3,
+      "episode": 8,
       "title": "Jack and Swamp Monster",
       "diziid": "sj",
       "bolum": "34",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/34/jack_ve_bataklik_canavari"
     },
     {
-      "season": 9,
-      "episode": 35,
+      "season": 3,
+      "episode": 9,
       "title": "Jack and the Haunted House",
       "diziid": "sj",
       "bolum": "35",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/35/jack_ve_perili_ev"
     },
     {
-      "season": 10,
-      "episode": 36,
+      "season": 3,
+      "episode": 10,
       "title": "Jack, the Monks, and the Ancient Master's Son",
       "diziid": "sj",
       "bolum": "36",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/36/jack%2C_kesisler_ve_eski_ustanin_oglu"
     },
     {
-      "season": 11,
-      "episode": 37,
+      "season": 3,
+      "episode": 11,
       "title": "The Birth of Evil (1)",
       "diziid": "sj",
       "bolum": "37",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/37/kotulugun_dogusu%2C_bolum_1"
     },
     {
-      "season": 12,
-      "episode": 38,
+      "season": 3,
+      "episode": 12,
       "title": "The Birth of Evil (2)",
       "diziid": "sj",
       "bolum": "38",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/38/kotulugun_dogusu%2C_bolum_2"
     },
     {
-      "season": 13,
-      "episode": 39,
+      "season": 3,
+      "episode": 13,
       "title": "Jack and the Labyrinth",
       "diziid": "sj",
       "bolum": "39",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/39/jack_ve_labirent"
     },
     {
-      "season": 1,
-      "episode": 40,
+      "season": 4,
+      "episode": 1,
       "title": "Samurai Versus Ninja",
       "diziid": "sj",
       "bolum": "40",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/40/samuray_ninjaya_karsi"
     },
     {
-      "season": 2,
-      "episode": 41,
+      "season": 4,
+      "episode": 2,
       "title": "Robo-Samurai Versus Mondo Bot",
       "diziid": "sj",
       "bolum": "41",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/41/robo-samuray_mondo_bota_karsi"
     },
     {
-      "season": 3,
-      "episode": 42,
+      "season": 4,
+      "episode": 3,
       "title": "Samurai Versus Samurai",
       "diziid": "sj",
       "bolum": "42",
@@ -347,79 +348,79 @@
     },
     {
       "season": 4,
-      "episode": 43,
+      "episode": 4,
       "title": "The Aku Infection",
       "diziid": "sj",
       "bolum": "43",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/43/akunun_bulasici_hastaligi"
     },
     {
-      "season": 5,
-      "episode": 44,
+      "season": 4,
+      "episode": 5,
       "title": "The Princess and the Bounty Hunters",
       "diziid": "sj",
       "bolum": "44",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/44/prenses_ve_odul_avcilari"
     },
     {
-      "season": 6,
-      "episode": 45,
+      "season": 4,
+      "episode": 6,
       "title": "Scotsman Saves Jack (1)",
       "diziid": "sj",
       "bolum": "45",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/45/iskoc_jacki_kurtariyor%2C_bolum_1"
     },
     {
-      "season": 7,
-      "episode": 46,
+      "season": 4,
+      "episode": 7,
       "title": "Scotsman Saves Jack (2)",
       "diziid": "sj",
       "bolum": "46",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/46/iskoc_jacki_kurtariyor%2C_bolum_2"
     },
     {
-      "season": 8,
-      "episode": 47,
+      "season": 4,
+      "episode": 8,
       "title": "Jack and the Flying Prince and Princess",
       "diziid": "sj",
       "bolum": "47",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/47/jack_ve_ucan_prens_ile_prenses"
     },
     {
-      "season": 9,
-      "episode": 48,
+      "season": 4,
+      "episode": 9,
       "title": "Jack Versus Aku",
       "diziid": "sj",
       "bolum": "48",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/48/jack_akuya_karsi"
     },
     {
-      "season": 10,
-      "episode": 49,
+      "season": 4,
+      "episode": 10,
       "title": "The Four Seasons of Death",
       "diziid": "sj",
       "bolum": "49",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/49/olumun_dort_mevsimi"
     },
     {
-      "season": 11,
-      "episode": 50,
+      "season": 4,
+      "episode": 11,
       "title": "Tale of X9",
       "diziid": "sj",
       "bolum": "50",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/50/x9un_hikayesi"
     },
     {
-      "season": 12,
-      "episode": 51,
+      "season": 4,
+      "episode": 12,
       "title": "Young Jack in Africa",
       "diziid": "sj",
       "bolum": "51",
       "url": "https://cizgivedizi.com/dizi/sj/samuray_jack/51/genc_jack_afrikada"
     },
     {
-      "season": 13,
-      "episode": 52,
+      "season": 4,
+      "episode": 13,
       "title": "Jack and the Baby",
       "diziid": "sj",
       "bolum": "52",

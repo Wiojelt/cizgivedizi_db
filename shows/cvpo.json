@@ -3,6 +3,7 @@
   "title": "chip ve potato",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/CVPOPoster.avif",
+  "plot": "Sevimli kÃ¶pÃ¼ÅŸ Chip, bir fare olan gizli arkadaÅŸÄ± Potato'nun yardÄ±mÄ±yla anaokuluna baÅŸlÄ±yor, yeni arkadaÅŸlar ediniyor ve yeni ÅŸeyler deniyor.",
   "channel": "Netflix",
   "genres": [
     "Komedi"
@@ -17,7 +18,7 @@
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/1/gunaydin_potato%21__chip_anaokuluna_basliyor"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Chip Gets Lost / Car Wash Chip",
       "diziid": "cvpo",
@@ -25,7 +26,7 @@
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/2/chip_kayboluyor__chip_araba_yikiyor"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Chip Goes Rollerskating / Chip n Grandma Day",
       "diziid": "cvpo",
@@ -33,7 +34,7 @@
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/3/chip_paten_kayiyor__chip_ve_buyukannis"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Nico's First Day / Sporty Chip",
       "diziid": "cvpo",
@@ -41,7 +42,7 @@
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/4/nico_okula_basliyor__sporcu_chip"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Stomp and Stamp's Slide / Show and Tell Chip",
       "diziid": "cvpo",
@@ -49,7 +50,7 @@
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/5/stomp_ile_stampin_kaydiragi__goster_anlat_chip"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Chip and Deely Bear / Chip's Piano Lesson",
       "diziid": "cvpo",
@@ -57,7 +58,7 @@
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/6/chip_ve_ayicik__chipin_piyano_dersi"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "A Playdate at Nico's / Roxy the Babysitter",
       "diziid": "cvpo",
@@ -65,7 +66,7 @@
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/7/nico_ile_oyun_gunu__cocuk_bakicisi_roxy"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Chip's Class Show / Double Playdate Chip!",
       "diziid": "cvpo",
@@ -73,7 +74,7 @@
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/8/chipin_okul_gosterisi__arkadaslarin_ziyareti"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Chip's First Sleepover / Doctor Chip",
       "diziid": "cvpo",
@@ -81,7 +82,7 @@
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/9/chipin_ilk_pijama_partisi__doktor_chip"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Chip's Swimming Lesson / Spud's Homework",
       "diziid": "cvpo",
@@ -89,8 +90,8 @@
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/10/chipin_yuzme_dersi__spudin_ev_odevi"
     },
     {
-      "season": 1,
-      "episode": 11,
+      "season": 2,
+      "episode": 1,
       "title": "Police Pug Chip / Pumpkin Picking Chip",
       "diziid": "cvpo",
       "bolum": "11",
@@ -98,87 +99,87 @@
     },
     {
       "season": 2,
-      "episode": 12,
+      "episode": 2,
       "title": "Chip's School Trip / Big Sister Chip",
       "diziid": "cvpo",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/12/chipin_okul_gezisi__chip_abla_oluyor"
     },
     {
-      "season": 3,
-      "episode": 13,
+      "season": 2,
+      "episode": 3,
       "title": "Chip's Baby Sister / After School Chip",
       "diziid": "cvpo",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/13/chipin_minik_kiz_kardesi__chipin_okul_sonrasi_aktiviteleri"
     },
     {
-      "season": 4,
-      "episode": 14,
+      "season": 2,
+      "episode": 4,
       "title": "Grandma Pug's Birthday / Puggy House Guest",
       "diziid": "cvpo",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/14/buyukannisin_dogum_gunu__misafir_kopus"
     },
     {
-      "season": 5,
-      "episode": 15,
+      "season": 2,
+      "episode": 5,
       "title": "Puggy Butterfly / Itchy Chip",
       "diziid": "cvpo",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/15/kopus_ve_kelebek__chip_cok_kasiniyor"
     },
     {
-      "season": 6,
-      "episode": 16,
+      "season": 2,
+      "episode": 6,
       "title": "Back to School Chip / Chip's Big Bike Ride",
       "diziid": "cvpo",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/16/chip_okula_geri_donuyor__chip_bisiklete_biniyor"
     },
     {
-      "season": 7,
-      "episode": 17,
+      "season": 2,
+      "episode": 7,
       "title": "Bye Bye Dazzles / Puggy Parent-Teacher Day",
       "diziid": "cvpo",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/17/dazzle_ailesi_tasiniyor__kopusun_veli_toplantisi"
     },
     {
-      "season": 8,
-      "episode": 18,
+      "season": 2,
+      "episode": 8,
       "title": "Chip's First Piano Exam / Chip's Homework Project",
       "diziid": "cvpo",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/18/chipin_piyano_sinavi__chipin_proje_odevi"
     },
     {
-      "season": 9,
-      "episode": 19,
+      "season": 2,
+      "episode": 9,
       "title": "Hospital Trip Chip / Chip Without Potato",
       "diziid": "cvpo",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/19/chipin_hastane_ziyareti__chip_potatodan_ayri_kaliyor"
     },
     {
-      "season": 10,
-      "episode": 20,
+      "season": 2,
+      "episode": 10,
       "title": "Chip's Birthday / Snow School Chip",
       "diziid": "cvpo",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/20/chipin_dogum_gunu__karli_bir_okul_gunu"
     },
     {
-      "season": 1,
-      "episode": 21,
+      "season": 3,
+      "episode": 1,
       "title": "Fairground Chip / Chip, Meet Mrs. Whale",
       "diziid": "cvpo",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/21/chip_panayira_gidiyor__chip_yeni_ogretmeniyle_tanisiyor"
     },
     {
-      "season": 2,
-      "episode": 22,
+      "season": 3,
+      "episode": 2,
       "title": "Chip and Glenda / Chip, the Picnic Entertainer",
       "diziid": "cvpo",
       "bolum": "22",
@@ -186,55 +187,55 @@
     },
     {
       "season": 3,
-      "episode": 23,
+      "episode": 3,
       "title": "Chip's Haircut / Chip's Sleepaway T-shirt",
       "diziid": "cvpo",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/23/chipin_sac_kesimi__chipin_tisort_sevgisi"
     },
     {
-      "season": 4,
-      "episode": 24,
+      "season": 3,
+      "episode": 4,
       "title": "Tot's New Bed / Chip's Cake Bake",
       "diziid": "cvpo",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/24/totun_yeni_yatagi__chip_pasta_yapiyor"
     },
     {
-      "season": 5,
-      "episode": 25,
+      "season": 3,
+      "episode": 5,
       "title": "Kevin Comes to Stay / Tot's First Birthday",
       "diziid": "cvpo",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/25/kevin_kalmaya_geliyor__totun_ilk_dogum_gunu"
     },
     {
-      "season": 6,
-      "episode": 26,
+      "season": 3,
+      "episode": 6,
       "title": "Chip and Potato: Flying Chip",
       "diziid": "cvpo",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/26/chip_ve_potato%3A_chip_ucaga_biniyor"
     },
     {
-      "season": 1,
-      "episode": 27,
+      "season": 4,
+      "episode": 1,
       "title": "Bridespup Chip / Chip and Nico's Fun Day",
       "diziid": "cvpo",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/27/nedime_chip__chip_ve_niconun_eglence_gunu"
     },
     {
-      "season": 2,
-      "episode": 28,
+      "season": 4,
+      "episode": 2,
       "title": "Chip is Sorry / Grandma and Gordie's Taqueria",
       "diziid": "cvpo",
       "bolum": "28",
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/28/chipin_pismanligi__buyukannis_ve_gordie_restoranda"
     },
     {
-      "season": 3,
-      "episode": 29,
+      "season": 4,
+      "episode": 3,
       "title": "Flingos' Show / Boo-bam's School Visit",
       "diziid": "cvpo",
       "bolum": "29",
@@ -242,23 +243,23 @@
     },
     {
       "season": 4,
-      "episode": 30,
+      "episode": 4,
       "title": "Tot and Potato / Howie has Heart",
       "diziid": "cvpo",
       "bolum": "30",
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/30/tot_ve_potato__iyi_kalpli_howie"
     },
     {
-      "season": 5,
-      "episode": 31,
+      "season": 4,
+      "episode": 5,
       "title": "Wedding Rehearsal Chip / Grandma and Gordie's Big Puggy Wedding",
       "diziid": "cvpo",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/cvpo/chip_ve_potato/31/chipin_dugun_provasi__buyukannis_ve_gordienin_buyuk_kopus_dugunu"
     },
     {
-      "season": 6,
-      "episode": 32,
+      "season": 4,
+      "episode": 6,
       "title": "Chip's Thanksgiving",
       "diziid": "cvpo",
       "bolum": "32",

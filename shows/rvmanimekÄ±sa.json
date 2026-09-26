@@ -3,16 +3,17 @@
   "title": "rick ve morty: anime (kÄ±salar)",
   "type": "anime",
   "poster": "https://cizgivedizi.com/resim/RVMANIMEKISAPoster.avif",
+  "plot": "Rick ve Morty: Anime serisinin kÄ±sa bÃ¶lÃ¼mleri.",
   "channel": "[HBO] Max",
   "genres": [
     "Macera"
   ],
   "episodes": [
     {
-      "season": 3,
+      "season": 1,
       "episode": 1,
       "title": "Rick and Morty vs. Genocider",
-      "diziid": "rvmanimek%C4%B1sa",
+      "diziid": "rvmanimekÄ±sa",
       "bolum": "3",
       "url": "https://cizgivedizi.com/dizi/rvmanimek%C4%B1sa/rick_ve_morty%3A_anime_kisalar/3/rick_ve_morty_soykirimciya_karsi"
     },
@@ -20,15 +21,15 @@
       "season": 1,
       "episode": 2,
       "title": "Samurai & Shogun/Samurai & Shogun Part 2",
-      "diziid": "rvmanimek%C4%B1sa",
+      "diziid": "rvmanimekÄ±sa",
       "bolum": "1",
       "url": "https://cizgivedizi.com/dizi/rvmanimek%C4%B1sa/rick_ve_morty%3A_anime_kisalar/1/rick_ve_morty%3A_samuray_ve_shogun_1._ve_2._bolum"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 3,
       "title": "Summer Meets God (Rick Meets Evil)",
-      "diziid": "rvmanimek%C4%B1sa",
+      "diziid": "rvmanimekÄ±sa",
       "bolum": "5",
       "url": "https://cizgivedizi.com/dizi/rvmanimek%C4%B1sa/rick_ve_morty%3A_anime_kisalar/5/summer_tanri_ile_tanisir%2C_rick_kotulukle_tanisir"
     }

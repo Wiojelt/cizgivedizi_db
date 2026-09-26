@@ -3,6 +3,7 @@
   "title": "minik sevimli kahramanlar",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/MSKPoster.avif",
+  "plot": "Sevimli Kahramanlar'Ä±n bebeklik maceralarÄ±nÄ± anlatÄ±r.",
   "channel": "JOJO",
   "genres": [
     "Komedi"
@@ -17,7 +18,7 @@
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/1/taz_canavari_oyuncak_diyarinda__gizemli_tweety"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Comfort Level/Like a Duck to Water",
       "diziid": "msk",
@@ -25,7 +26,7 @@
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/2/rahat_bir_gun__suya_girmeyi_seven_ordek"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "School Daze/Things That Go Bugs in the Night",
       "diziid": "msk",
@@ -33,7 +34,7 @@
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/3/okul_saskinligi__geceleri_korkutan_seyler"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Creature from the Chocolate Chip/Card Bored Box",
       "diziid": "msk",
@@ -41,7 +42,7 @@
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/4/cikolatali_kurabiye_canavari__karton_sikilma_kutusu"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Time and Time Again/May the Best Taz Win",
       "diziid": "msk",
@@ -49,7 +50,7 @@
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/5/ardi_ardina__en_iyi_taz_kazansin"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Mine!/Sylvester the Pester",
       "diziid": "msk",
@@ -57,7 +58,7 @@
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/6/benim%21__problem_cikartici_sylvester"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Cat-Taz-Trophy/Duck! Monster! Duck!",
       "diziid": "msk",
@@ -65,7 +66,7 @@
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/7/kedi-taz_odulu__ordek%21_canavar%21_ordek%21"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "The Brave Little Tweety/The Puddle Olympics",
       "diziid": "msk",
@@ -73,7 +74,7 @@
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/8/kucuk_cesur_tweety__birikinti_olimpiyatlari"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "A Lot Like Lola/Mother's Day Madness",
       "diziid": "msk",
@@ -81,7 +82,7 @@
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/9/lolanin_tipkisi__anneler_gunu_cilginligi"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Takers Keepers/To Tell the Tooth",
       "diziid": "msk",
@@ -89,7 +90,7 @@
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/10/kim_bulursa_onundur__dogruyu_soylemek"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Spinout/Snow Day",
       "diziid": "msk",
@@ -97,7 +98,7 @@
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/11/donmek__karli_bir_gun"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Shadow of a Doubt/Christmas in July",
       "diziid": "msk",
@@ -105,7 +106,7 @@
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/12/suphenin_golgesinde__temmuzda_noel"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "Bruce Bunny/Leader of the Pack",
       "diziid": "msk",
@@ -113,8 +114,8 @@
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/13/bruce_bunny__kulup_evi"
     },
     {
-      "season": 1,
-      "episode": 14,
+      "season": 2,
+      "episode": 1,
       "title": "Flower Power/Lightning Bugs Sylvester",
       "diziid": "msk",
       "bolum": "14",
@@ -122,95 +123,95 @@
     },
     {
       "season": 2,
-      "episode": 15,
+      "episode": 2,
       "title": "Flush Hour/I Strain",
       "diziid": "msk",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/15/sifon_saati__goz_yorgunlugu"
     },
     {
-      "season": 3,
-      "episode": 16,
+      "season": 2,
+      "episode": 3,
       "title": "The Sandman Is Coming/Some Assembly Required",
       "diziid": "msk",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/16/kum_adam_geliyor__biraz_montaj_gerekiyor"
     },
     {
-      "season": 4,
-      "episode": 17,
+      "season": 2,
+      "episode": 4,
       "title": "All Washed Up/Did Not! Did Too!",
       "diziid": "msk",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/17/hepsi_yikandi__yaptin%21_yapmadin%21"
     },
     {
-      "season": 5,
-      "episode": 18,
+      "season": 2,
+      "episode": 5,
       "title": "Tea and Basketball/Taz You Like It",
       "diziid": "msk",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/18/cay_ve_basketbol__tazin_sevdigi_gibi"
     },
     {
-      "season": 6,
-      "episode": 19,
+      "season": 2,
+      "episode": 6,
       "title": "Band Together/War of the Weirds",
       "diziid": "msk",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/19/muzik_grubu__tuhaflarin_savasi"
     },
     {
-      "season": 7,
-      "episode": 20,
+      "season": 2,
+      "episode": 7,
       "title": "The Harder They Fall/Business as Unusual",
       "diziid": "msk",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/20/zorlastikca_duserler__her_zamanki_gibi_is"
     },
     {
-      "season": 8,
-      "episode": 21,
+      "season": 2,
+      "episode": 8,
       "title": "Mr. McStuffles/Picture This!",
       "diziid": "msk",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/21/bay_abur_cuburcu__hayal_et"
     },
     {
-      "season": 9,
-      "episode": 22,
+      "season": 2,
+      "episode": 9,
       "title": "Hair Cut-Ups/A Clean Sweep",
       "diziid": "msk",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/22/sac_kesimleri__guzel_bir_uyku"
     },
     {
-      "season": 10,
-      "episode": 23,
+      "season": 2,
+      "episode": 10,
       "title": "Daffy Did It!/The Pig Who Cried Woof",
       "diziid": "msk",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/23/daffy_yapti%21__yalanci_coban"
     },
     {
-      "season": 11,
-      "episode": 24,
+      "season": 2,
+      "episode": 11,
       "title": "New Cat in Town/The Magic of Spring",
       "diziid": "msk",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/24/kasabadaki_yeni_kedi__ilkbaharin_sihri"
     },
     {
-      "season": 12,
-      "episode": 25,
+      "season": 2,
+      "episode": 12,
       "title": "Who Said That?/Let Them Make Cake",
       "diziid": "msk",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/25/bunu_kim_demis__o_zaman_kek_yesinler"
     },
     {
-      "season": 13,
-      "episode": 26,
+      "season": 2,
+      "episode": 13,
       "title": "For Whom the Toll Calls / Cereal Boxing",
       "diziid": "msk",
       "bolum": "26",
@@ -218,119 +219,119 @@
     },
     {
       "season": 3,
-      "episode": 27,
+      "episode": 1,
       "title": "Mind Your Manners / Petunia the Piggy Bank",
       "diziid": "msk",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/29/nezakete_onem_ver__domuz_kumbarasi_petunia"
     },
     {
-      "season": 4,
-      "episode": 28,
+      "season": 3,
+      "episode": 2,
       "title": "A Pastime for Petunia / Pouting Match",
       "diziid": "msk",
       "bolum": "30",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/30/petunia_icin_hobi_zamani__surat_asma_yarismasi"
     },
     {
-      "season": 5,
-      "episode": 29,
+      "season": 3,
+      "episode": 3,
       "title": "Wise Quacker/Yours, Mine... and Mine Mine Mine!",
       "diziid": "msk",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/31/bilge_sakaci__senin%2C_benim..._ve_benim_benim_benim%21"
     },
     {
-      "season": 6,
-      "episode": 30,
+      "season": 3,
+      "episode": 4,
       "title": "Loose Change/Act Your Age",
       "diziid": "msk",
       "bolum": "32",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/32/kotu_degisiklik__yasina_uygun_davran"
     },
     {
-      "season": 7,
-      "episode": 31,
+      "season": 3,
+      "episode": 5,
       "title": "Who's Your Granny?/The Tattletale",
       "diziid": "msk",
       "bolum": "33",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/33/buyukannen_kim__ispiyoncu"
     },
     {
-      "season": 8,
-      "episode": 32,
+      "season": 3,
+      "episode": 6,
       "title": "The Yolk's on You/Baby-Gate",
       "diziid": "msk",
       "bolum": "34",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/34/uzerine_bir_sey_bulasmis__bebek_kapisi"
     },
     {
-      "season": 9,
-      "episode": 33,
+      "season": 3,
+      "episode": 7,
       "title": "Never Say Try/Pair O'Dice Lost",
       "diziid": "msk",
       "bolum": "35",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/35/asla_dene_deme__kayip_bir_cift_zar"
     },
     {
-      "season": 10,
-      "episode": 34,
+      "season": 3,
+      "episode": 8,
       "title": "Melissa the Hero/The Trouble with Larry",
       "diziid": "msk",
       "bolum": "36",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/36/kahraman_melissa__larry_ile_sorun"
     },
     {
-      "season": 11,
-      "episode": 35,
+      "season": 3,
+      "episode": 9,
       "title": "The Littlest Tweety/In Bugs We Trust",
       "diziid": "msk",
       "bolum": "37",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/37/kucuk_tweety__bugsa_guveniriz"
     },
     {
-      "season": 12,
-      "episode": 36,
+      "season": 3,
+      "episode": 10,
       "title": "Cool for Cats/Time Out!",
       "diziid": "msk",
       "bolum": "38",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/38/kediler_icin_soguk__mola%21"
     },
     {
-      "season": 13,
-      "episode": 37,
+      "season": 3,
+      "episode": 11,
       "title": "Present Tense / The Neat and the Sloppy",
       "diziid": "msk",
       "bolum": "39",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/39/simdiki_zaman__duzenli_ve_salas"
     },
     {
-      "season": 14,
-      "episode": 38,
+      "season": 3,
+      "episode": 12,
       "title": "Tell-a-Photo / Move It!",
       "diziid": "msk",
       "bolum": "40",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/40/telefoto__cekici"
     },
     {
-      "season": 1,
-      "episode": 39,
+      "season": 4,
+      "episode": 1,
       "title": "These Little Piggies Went to Market/Now Museum, Now You Don't",
       "diziid": "msk",
       "bolum": "41",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/41/kucuk_domuzcuklar_markete_gitti__simdi_muze%2C_simdi_degil"
     },
     {
-      "season": 2,
-      "episode": 40,
+      "season": 4,
+      "episode": 2,
       "title": "Take Us Out to the Ballgame/Clues Encounters of the Tweety Kind",
       "diziid": "msk",
       "bolum": "42",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/42/bizi_maca_gotur__tweety_ipuclariyla_karsilasiyor"
     },
     {
-      "season": 3,
-      "episode": 41,
+      "season": 4,
+      "episode": 3,
       "title": "A Bully for Bugs/The Wheel Deal",
       "diziid": "msk",
       "bolum": "43",
@@ -338,95 +339,95 @@
     },
     {
       "season": 4,
-      "episode": 42,
+      "episode": 4,
       "title": "Oh, Brother, Warehouse Art Thou?/Flu the Coop",
       "diziid": "msk",
       "bolum": "44",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/44/ah_kardesim%2C_depo_sanati_mi__grip_asisi"
     },
     {
-      "season": 5,
-      "episode": 43,
+      "season": 4,
+      "episode": 5,
       "title": "Blast Off Bugs/Baby Brouhaha",
       "diziid": "msk",
       "bolum": "45",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/45/bugsin_patlamasi__yaygaraci_bebekler"
     },
     {
-      "season": 6,
-      "episode": 44,
+      "season": 4,
+      "episode": 6,
       "title": "Log Cabin Fever/A Mid-Autumn Night's Scream",
       "diziid": "msk",
       "bolum": "46",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/46/ahsap_kulube_atesi__bir_agustos_oncesi_gecesi_cigligi"
     },
     {
-      "season": 7,
-      "episode": 45,
+      "season": 4,
+      "episode": 7,
       "title": "Are We There Yet/Save Our Cinnamon",
       "diziid": "msk",
       "bolum": "47",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/47/daha_gelmedik_mi__tarcinimizi_kurtarin"
     },
     {
-      "season": 8,
-      "episode": 46,
+      "season": 4,
+      "episode": 8,
       "title": "Lights! Camera! Tweety!/Backstage Bugs",
       "diziid": "msk",
       "bolum": "48",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/48/isiklar%21_kamera%21_tweety%21__kulis_bugs"
     },
     {
-      "season": 9,
-      "episode": 47,
+      "season": 4,
+      "episode": 9,
       "title": "Bend It Like Petunia/Cock-A-Doodle-Doo-It!",
       "diziid": "msk",
       "bolum": "49",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/49/petunianin_oyunu__ur-uru-ur"
     },
     {
-      "season": 10,
-      "episode": 48,
+      "season": 4,
+      "episode": 10,
       "title": "Wrong!/Win, Lose or Daffy",
       "diziid": "msk",
       "bolum": "50",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/50/yanlis%21__kazan%2C_kaybet_ya_da_daffy"
     },
     {
-      "season": 11,
-      "episode": 49,
+      "season": 4,
+      "episode": 11,
       "title": "A Turtle Named Myrtle/There's Nothing Like a Good Book",
       "diziid": "msk",
       "bolum": "51",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/51/kumbaga_adinda_kaplumbaga__iyi_bir_kitap_gibisi_yoktur"
     },
     {
-      "season": 12,
-      "episode": 50,
+      "season": 4,
+      "episode": 12,
       "title": "The Dolly Vanishes/Duck's Reflucks",
       "diziid": "msk",
       "bolum": "52",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/52/bebek_kayboluyor__ordekin_ofkesi"
     },
     {
-      "season": 13,
-      "episode": 51,
+      "season": 4,
+      "episode": 13,
       "title": "Stop and Smell Up the Flowers/Firehouse Frolics",
       "diziid": "msk",
       "bolum": "53",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/53/dur_ve_cicekleri_koka__itfaiye_eglencesi"
     },
     {
-      "season": 27,
-      "episode": 52,
+      "season": 5,
+      "episode": 1,
       "title": "Baby Looney Tunes' Eggs-traordinary Movie, Part 1",
       "diziid": "msk",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/msk/minik_sevimli_kahramanlar/27/sira_disi_macera_bolum_1"
     },
     {
-      "season": 28,
-      "episode": 53,
+      "season": 5,
+      "episode": 2,
       "title": "Baby Looney Tunes' Eggs-traordinary Movie, Part 2",
       "diziid": "msk",
       "bolum": "28",

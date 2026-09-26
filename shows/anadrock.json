@@ -3,6 +3,7 @@
   "title": "anadolu rock",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/ANADROCKPoster.avif",
+  "plot": "Anadoluâ€™nun unutulmaz tÃ¼rkÃ¼leri rock tarzÄ±nda sizlerle! Her biri Ã¶zenle seÃ§ilmiÅŸ tÃ¼rkÃ¼lerin rock versiyonlarÄ±, hem eÄŸlenceli hem de Ã¶ÄŸretici bir mÃ¼zikal deneyim sunacak.",
   "channel": "TRT Ã‡ocuk",
   "genres": [
     "MÃ¼zik/MÃ¼zikal"
@@ -17,7 +18,7 @@
       "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/1/erzurum"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Bursa",
       "diziid": "anadrock",
@@ -25,7 +26,7 @@
       "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/2/bursa"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Konya",
       "diziid": "anadrock",
@@ -33,7 +34,7 @@
       "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/3/konya"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Mardin",
       "diziid": "anadrock",
@@ -41,7 +42,7 @@
       "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/4/mardin"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Sinop",
       "diziid": "anadrock",
@@ -49,7 +50,7 @@
       "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/5/sinop"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Kars",
       "diziid": "anadrock",
@@ -57,7 +58,7 @@
       "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/6/kars"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Edirne",
       "diziid": "anadrock",
@@ -65,7 +66,7 @@
       "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/7/edirne"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Van",
       "diziid": "anadrock",
@@ -73,7 +74,7 @@
       "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/8/van"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Ã‡orum",
       "diziid": "anadrock",
@@ -81,7 +82,7 @@
       "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/9/corum"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "KahramanmaraÅŸ",
       "diziid": "anadrock",

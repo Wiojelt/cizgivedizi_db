@@ -3,6 +3,7 @@
   "title": "gazoon",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/GAZOONPoster.avif",
+  "plot": "Afrika savanÄ±ndaki bir grup vahÅŸi hayvanÄ± alÄ±n, buna tuhaf davranÄ±ÅŸlar ekleyin ve ÅŸefkatli, gerÃ§ekÃ¼stÃ¼ bir dokunuÅŸa sahip animasyonlu bir komedi olan Gazoon'u elde edin!",
   "channel": "Yumurcak TV",
   "genres": [
     "Komedi",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/1/ucma_hayali"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Maternal Instinct",
       "diziid": "gazoon",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/2/anne_icgudusu"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Aerobics",
       "diziid": "gazoon",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/3/aerobik"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Lighter Than Air",
       "diziid": "gazoon",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/4/havadan_hafif"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Out of Breath",
       "diziid": "gazoon",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/5/nefessiz"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "The Invaders",
       "diziid": "gazoon",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/6/istilacilar"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "High Security",
       "diziid": "gazoon",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/7/yuksek_guvenlik"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Tricks and Jokes",
       "diziid": "gazoon",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/8/numaralar_ve_sakalar"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Light Weight",
       "diziid": "gazoon",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/9/bos_agirlik"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "The Lake Monster",
       "diziid": "gazoon",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/10/gol_canavari"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Playground",
       "diziid": "gazoon",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/11/oyun_alani"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Storm on the Savanna",
       "diziid": "gazoon",
@@ -106,7 +107,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/12/savanda_firtina"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "Gardening",
       "diziid": "gazoon",
@@ -114,7 +115,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/13/bahcivanlik"
     },
     {
-      "season": 14,
+      "season": 1,
       "episode": 14,
       "title": "The African Night",
       "diziid": "gazoon",
@@ -122,7 +123,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/14/afrika_gecesi"
     },
     {
-      "season": 15,
+      "season": 1,
       "episode": 15,
       "title": "Heat Wave",
       "diziid": "gazoon",
@@ -130,7 +131,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/15/sicak_hava_dalgasi"
     },
     {
-      "season": 16,
+      "season": 1,
       "episode": 16,
       "title": "Night Disturbance",
       "diziid": "gazoon",
@@ -138,7 +139,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/16/gece_rahatsizligi"
     },
     {
-      "season": 17,
+      "season": 1,
       "episode": 17,
       "title": "Camouflage",
       "diziid": "gazoon",
@@ -146,7 +147,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/17/kamuflaj"
     },
     {
-      "season": 18,
+      "season": 1,
       "episode": 18,
       "title": "Highly Perched",
       "diziid": "gazoon",
@@ -154,7 +155,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/18/tunemek"
     },
     {
-      "season": 19,
+      "season": 1,
       "episode": 19,
       "title": "Jaws",
       "diziid": "gazoon",
@@ -162,7 +163,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/19/ceneler"
     },
     {
-      "season": 20,
+      "season": 1,
       "episode": 20,
       "title": "Roll",
       "diziid": "gazoon",
@@ -170,7 +171,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/20/yuvarlama"
     },
     {
-      "season": 21,
+      "season": 1,
       "episode": 21,
       "title": "Fireflies",
       "diziid": "gazoon",
@@ -178,7 +179,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/21/ates_bocekleri"
     },
     {
-      "season": 22,
+      "season": 1,
       "episode": 22,
       "title": "Undergrounds",
       "diziid": "gazoon",
@@ -186,7 +187,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/22/yer_alti"
     },
     {
-      "season": 23,
+      "season": 1,
       "episode": 23,
       "title": "Head in the Clouds",
       "diziid": "gazoon",
@@ -194,7 +195,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/23/akli_havada"
     },
     {
-      "season": 24,
+      "season": 1,
       "episode": 24,
       "title": "The African Carrots",
       "diziid": "gazoon",
@@ -202,7 +203,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/24/afrika_hayvanlari"
     },
     {
-      "season": 25,
+      "season": 1,
       "episode": 25,
       "title": "Technicolor",
       "diziid": "gazoon",
@@ -210,7 +211,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/25/renk"
     },
     {
-      "season": 26,
+      "season": 1,
       "episode": 26,
       "title": "UFO",
       "diziid": "gazoon",
@@ -218,7 +219,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/26/ufo"
     },
     {
-      "season": 27,
+      "season": 1,
       "episode": 27,
       "title": "David and Goliath",
       "diziid": "gazoon",
@@ -226,7 +227,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/27/fili_rahatsiz_etmek"
     },
     {
-      "season": 28,
+      "season": 1,
       "episode": 28,
       "title": "Egg-shaped",
       "diziid": "gazoon",
@@ -234,7 +235,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/28/yumurta_sekilli"
     },
     {
-      "season": 29,
+      "season": 1,
       "episode": 29,
       "title": "Snake Charming",
       "diziid": "gazoon",
@@ -242,7 +243,7 @@
       "url": "https://cizgivedizi.com/dizi/gazoon/gazoon/29/yilan_terbiyecisi"
     },
     {
-      "season": 30,
+      "season": 1,
       "episode": 30,
       "title": "Sea Serpent",
       "diziid": "gazoon",

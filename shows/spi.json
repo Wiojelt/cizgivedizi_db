@@ -3,6 +3,7 @@
   "title": "spirou",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/SPPoster.avif",
+  "plot": "Spirou ve Fantasio, sincaplarÄ± Spip ile tÃ¼rlÃ¼ maceralar yaÅŸayan iki muhabirdir. OnlarÄ±n maceralarÄ±na eÅŸlik et!",
   "channel": "Bilinmiyor",
   "genres": [
     "Macera",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/1/virus"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Who Will Stop Cyanide?",
       "diziid": "spi",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/2/siyanuru_kim_durduracak"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Capricious Penelope",
       "diziid": "spi",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/3/sakaci_penelope"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Spirou in the Race",
       "diziid": "spi",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/4/col_vadisi_yarisi"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "The Mandarin Prince",
       "diziid": "spi",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/5/mandarin_prens"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "A Love of Cyanide",
       "diziid": "spi",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/6/siyanurun_aski"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Cyanide Toys",
       "diziid": "spi",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/7/siyanurun_oyuncaklari"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "The Mystery of the Bio-Bubble",
       "diziid": "spi",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/8/biyo-balonun_gizemi"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "The Cross of Isis",
       "diziid": "spi",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/9/spirou_ve_icat_hirsizi"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "The Wave Eater",
       "diziid": "spi",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/10/dalga_yiyici"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Adventure in Australia",
       "diziid": "spi",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/11/avustralyada_maceralar"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "The Elephant Ball",
       "diziid": "spi",
@@ -106,7 +107,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/12/filler_karsilik_verir"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "The Banished Valley",
       "diziid": "spi",
@@ -114,7 +115,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/13/kayip_ruhlar_vadisi"
     },
     {
-      "season": 14,
+      "season": 1,
       "episode": 14,
       "title": "Yeti Rebuffs",
       "diziid": "spi",
@@ -122,7 +123,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/14/yetilerin_direnisi"
     },
     {
-      "season": 18,
+      "season": 1,
       "episode": 15,
       "title": "Micmac in Champignac",
       "diziid": "spi",
@@ -130,7 +131,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/18/is_ortagi_vakasi"
     },
     {
-      "season": 19,
+      "season": 1,
       "episode": 16,
       "title": "The Fortress of Oblivion",
       "diziid": "spi",
@@ -138,7 +139,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/19/unutkanlik_kalesi"
     },
     {
-      "season": 20,
+      "season": 1,
       "episode": 17,
       "title": "Fossilandia",
       "diziid": "spi",
@@ -146,7 +147,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/20/fosilandiya"
     },
     {
-      "season": 29,
+      "season": 1,
       "episode": 18,
       "title": "The Missing of Mesa-Diablo",
       "diziid": "spi",
@@ -154,7 +155,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/29/mesa_diablonun_kaybolusu"
     },
     {
-      "season": 33,
+      "season": 1,
       "episode": 19,
       "title": "Taboo in UhuvÃ©ha",
       "diziid": "spi",
@@ -162,7 +163,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/33/uhuvehadaki_taboo"
     },
     {
-      "season": 36,
+      "season": 1,
       "episode": 20,
       "title": "The Ghost Temple",
       "diziid": "spi",
@@ -170,7 +171,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/36/hayalet_tapinak"
     },
     {
-      "season": 37,
+      "season": 1,
       "episode": 21,
       "title": "Tears of Opossum",
       "diziid": "spi",
@@ -178,7 +179,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/37/opusme_gozyaslari"
     },
     {
-      "season": 38,
+      "season": 1,
       "episode": 22,
       "title": "Alert Blue Stars",
       "diziid": "spi",
@@ -186,7 +187,7 @@
       "url": "https://cizgivedizi.com/dizi/spi/spirou/38/mavi_yildiz_uyarisi"
     },
     {
-      "season": 21,
+      "season": 1,
       "episode": 23,
       "title": "The Treasure of Vito",
       "diziid": "spi",

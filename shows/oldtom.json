@@ -3,6 +3,7 @@
   "title": "ten year old tom",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/OLDTOMPoster.avif",
+  "plot": "GenÃ§ bir Ã§ocuk, etrafÄ±ndaki tÃ¼m kÃ¶tÃ¼ etkenlerle ve yetiÅŸkinlerle baÅŸ etmeyi Ã¶ÄŸrenir.",
   "channel": "[HBO] Max",
   "genres": [
     "Komedi"
@@ -17,7 +18,7 @@
       "url": "https://cizgivedizi.com/dizi/oldtom/ten_year_old_tom/1/fagot_olayi__dondurma_parasi"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "The Spelling Bee is Rigged/Dakota's Dad",
       "diziid": "oldtom",
@@ -25,7 +26,7 @@
       "url": "https://cizgivedizi.com/dizi/oldtom/ten_year_old_tom/2/yazim_yarisi_sahtekarligi__dakotanin_babasi"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "A Yearbook to Disremember/Trust Me, I'm a Nurse",
       "diziid": "oldtom",
@@ -33,7 +34,7 @@
       "url": "https://cizgivedizi.com/dizi/oldtom/ten_year_old_tom/3/unutulacak_yillik__beni_dinle%2C_ben_bir_hemsireyim"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Tomz Lemonade/A Tale of Two Lunch Ladies",
       "diziid": "oldtom",
@@ -41,7 +42,7 @@
       "url": "https://cizgivedizi.com/dizi/oldtom/ten_year_old_tom/4/tomz_limonatasi__iki_ogle_yemegi_kadininin_hikayesi"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Tom Urinates on Boston/First Responder",
       "diziid": "oldtom",
@@ -49,7 +50,7 @@
       "url": "https://cizgivedizi.com/dizi/oldtom/ten_year_old_tom/5/tomun_bostonda_isemesi__ilk_mudahale"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "The Principal Is Banging My Mom/Elderly Gerbil",
       "diziid": "oldtom",
@@ -57,7 +58,7 @@
       "url": "https://cizgivedizi.com/dizi/oldtom/ten_year_old_tom/6/okul_muduru_annemle_yatakta__yasli_sican"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Skipping School/Cooking the Books",
       "diziid": "oldtom",
@@ -65,7 +66,7 @@
       "url": "https://cizgivedizi.com/dizi/oldtom/ten_year_old_tom/7/okuldan_kacmak__kitaplari_pisirmek"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Roastmaster Tom/A Daffodil for Terence",
       "diziid": "oldtom",
@@ -73,7 +74,7 @@
       "url": "https://cizgivedizi.com/dizi/oldtom/ten_year_old_tom/8/tomun_kizartma_ustaligi__terence_icin_bir_zambak"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Art Class/Problem Moms",
       "diziid": "oldtom",
@@ -81,7 +82,7 @@
       "url": "https://cizgivedizi.com/dizi/oldtom/ten_year_old_tom/9/sanat_dersi__problemli_anneler"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Landscaper on the Couch/Nurse's Wedding",
       "diziid": "oldtom",
@@ -89,8 +90,8 @@
       "url": "https://cizgivedizi.com/dizi/oldtom/ten_year_old_tom/10/peyzajci_kanepede__hemsirenin_dugunu"
     },
     {
-      "season": 1,
-      "episode": 11,
+      "season": 2,
+      "episode": 1,
       "title": "The Henderson Consulting Squirrels/Rick's Boat",
       "diziid": "oldtom",
       "bolum": "11",
@@ -98,71 +99,71 @@
     },
     {
       "season": 2,
-      "episode": 12,
+      "episode": 2,
       "title": "Tae Kwon Do/Banned from Band",
       "diziid": "oldtom",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/oldtom/ten_year_old_tom/12/tekvando__gruptan_yasak"
     },
     {
-      "season": 3,
-      "episode": 13,
+      "season": 2,
+      "episode": 3,
       "title": "Shopping Cart Hit and Run/Filthy Tom",
       "diziid": "oldtom",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/oldtom/ten_year_old_tom/13/alisveris_arabasi_carpma_ve_kacma__pis_tom"
     },
     {
-      "season": 4,
-      "episode": 14,
+      "season": 2,
+      "episode": 4,
       "title": "Crossing Guard/Poker Game",
       "diziid": "oldtom",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/oldtom/ten_year_old_tom/14/gecis_gorevlisi__poker_oyunu"
     },
     {
-      "season": 5,
-      "episode": 15,
+      "season": 2,
+      "episode": 5,
       "title": "Bowling League/I Want to Speak to the Manager",
       "diziid": "oldtom",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/oldtom/ten_year_old_tom/15/bowling_ligi__mudurle_beni_gorusturun"
     },
     {
-      "season": 6,
-      "episode": 16,
+      "season": 2,
+      "episode": 6,
       "title": "Nelson's Hot Mom/History Week",
       "diziid": "oldtom",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/oldtom/ten_year_old_tom/16/nelsonin_atesli_annesi__tarih_haftasi"
     },
     {
-      "season": 7,
-      "episode": 17,
+      "season": 2,
+      "episode": 7,
       "title": "Tom Can't Stop Farting/Uncle Bill's RÃ©sumÃ©",
       "diziid": "oldtom",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/oldtom/ten_year_old_tom/17/tomun_osurmayi_kesememesi__amca_billin_ozgecmisi"
     },
     {
-      "season": 8,
-      "episode": 18,
+      "season": 2,
+      "episode": 8,
       "title": "Therapy Dog/The Nurse's Baby",
       "diziid": "oldtom",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/oldtom/ten_year_old_tom/18/terapi_kopegi__hemsirenin_bebegi"
     },
     {
-      "season": 9,
-      "episode": 19,
+      "season": 2,
+      "episode": 9,
       "title": "Tom Tucks in His Shirt/Bingo with Grandma",
       "diziid": "oldtom",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/oldtom/ten_year_old_tom/19/tom_gomlegini_icine_sokuyor__buyukanneyle_tombala"
     },
     {
-      "season": 10,
-      "episode": 20,
+      "season": 2,
+      "episode": 10,
       "title": "Sweet Home CancÃºn / Sweet Home CancÃºn, Part Two",
       "diziid": "oldtom",
       "bolum": "20",

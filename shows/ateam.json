@@ -3,6 +3,7 @@
   "title": "a takÄ±mÄ±",
   "type": "dizi",
   "poster": "https://cizgivedizi.com/resim/ATKMIPoster.avif",
+  "plot": "Ä°ÅŸlemedikleri bir suÃ§la suÃ§lanan dÃ¶rt Vietnam gazisi, ordudan kaÃ§an masumlara yardÄ±m ediyor.",
   "channel": "TVem",
   "genres": [
     "Aksiyon"
@@ -17,7 +18,7 @@
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/1/meksika_olum_yolculugu_1.bolum"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Mexican Slayride: Part 2",
       "diziid": "ateam",
@@ -25,7 +26,7 @@
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/2/meksika_olum_yolculugu_2.bolum"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Children of Jamestown",
       "diziid": "ateam",
@@ -33,7 +34,7 @@
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/3/jamestownin_cocuklari"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Pros and Cons",
       "diziid": "ateam",
@@ -41,7 +42,7 @@
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/4/artilar_ve_eksiler"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "A Small and Deadly War",
       "diziid": "ateam",
@@ -49,7 +50,7 @@
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/5/kucuk_ve_olumcul_bir_savas"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Black Day at Bad Rock",
       "diziid": "ateam",
@@ -57,7 +58,7 @@
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/6/bad_rockta_kara_gun"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "The Rabbit Who Ate Las Vegas",
       "diziid": "ateam",
@@ -65,7 +66,7 @@
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/7/las_vegasi_yiyen_tavsan"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "The Out-of-Towners",
       "diziid": "ateam",
@@ -73,7 +74,7 @@
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/8/sehir_disindakiler"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Holiday in the Hills",
       "diziid": "ateam",
@@ -81,7 +82,7 @@
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/9/tepelerde_tatil"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "West Coast Turnaround",
       "diziid": "ateam",
@@ -89,7 +90,7 @@
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/10/bati_yakasi_donusu"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "One More Time",
       "diziid": "ateam",
@@ -97,7 +98,7 @@
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/11/bir_kez_daha"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 12,
       "title": "The Beast from the Belly of a Boeing",
       "diziid": "ateam",
@@ -105,192 +106,192 @@
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/13/boeingin_karnindan_cikan_canavar"
     },
     {
-      "season": 11,
-      "episode": 13,
+      "season": 2,
+      "episode": 1,
       "title": "Steel",
       "diziid": "ateam",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/25/celik"
     },
     {
-      "season": 12,
-      "episode": 14,
+      "season": 2,
+      "episode": 2,
       "title": "The White Ballot",
       "diziid": "ateam",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/26/temiz_secim"
     },
     {
-      "season": 17,
-      "episode": 15,
+      "season": 2,
+      "episode": 3,
       "title": "Pure-Dee Poison",
       "diziid": "ateam",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/31/saf_zehir"
     },
     {
-      "season": 2,
-      "episode": 16,
+      "season": 3,
+      "episode": 1,
       "title": "The Bend in the River: Part 1",
       "diziid": "ateam",
       "bolum": "39",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/39/nehirdeki_donemec_1.bolum"
     },
     {
-      "season": 4,
-      "episode": 17,
+      "season": 3,
+      "episode": 2,
       "title": "Fire",
       "diziid": "ateam",
       "bolum": "41",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/41/yangin"
     },
     {
-      "season": 6,
-      "episode": 18,
+      "season": 3,
+      "episode": 3,
       "title": "Double Heat",
       "diziid": "ateam",
       "bolum": "43",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/43/iki_kat_sicak"
     },
     {
-      "season": 9,
-      "episode": 19,
+      "season": 3,
+      "episode": 4,
       "title": "Showdown!",
       "diziid": "ateam",
       "bolum": "46",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/46/kapisma%21"
     },
     {
-      "season": 10,
-      "episode": 20,
+      "season": 3,
+      "episode": 5,
       "title": "Sheriffs of Rivertown",
       "diziid": "ateam",
       "bolum": "47",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/47/rivertown_serifleri"
     },
     {
-      "season": 11,
-      "episode": 21,
+      "season": 3,
+      "episode": 6,
       "title": "The Bells of St. Mary's",
       "diziid": "ateam",
       "bolum": "48",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/48/st._marynin_canlari"
     },
     {
-      "season": 12,
-      "episode": 22,
+      "season": 3,
+      "episode": 7,
       "title": "Hot Styles",
       "diziid": "ateam",
       "bolum": "49",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/49/unlu_model"
     },
     {
-      "season": 13,
-      "episode": 23,
+      "season": 3,
+      "episode": 8,
       "title": "Breakout!",
       "diziid": "ateam",
       "bolum": "50",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/50/kacmak%21"
     },
     {
-      "season": 15,
-      "episode": 24,
+      "season": 3,
+      "episode": 9,
       "title": "The Big Squeeze",
       "diziid": "ateam",
       "bolum": "52",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/52/buyuk_baski"
     },
     {
-      "season": 17,
-      "episode": 25,
+      "season": 3,
+      "episode": 10,
       "title": "Skins",
       "diziid": "ateam",
       "bolum": "54",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/54/poslar"
     },
     {
-      "season": 18,
-      "episode": 26,
+      "season": 3,
+      "episode": 11,
       "title": "Road Games",
       "diziid": "ateam",
       "bolum": "55",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/55/yol_oyunlari"
     },
     {
-      "season": 19,
-      "episode": 27,
+      "season": 3,
+      "episode": 12,
       "title": "Moving Targets",
       "diziid": "ateam",
       "bolum": "56",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/56/hareketli_hedefler"
     },
     {
-      "season": 20,
-      "episode": 28,
+      "season": 3,
+      "episode": 13,
       "title": "Knights of the Road",
       "diziid": "ateam",
       "bolum": "57",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/57/yollarin_sovalyeleri"
     },
     {
-      "season": 21,
-      "episode": 29,
+      "season": 3,
+      "episode": 14,
       "title": "Waste 'Em!",
       "diziid": "ateam",
       "bolum": "58",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/58/bosa_harcamak"
     },
     {
-      "season": 22,
-      "episode": 30,
+      "season": 3,
+      "episode": 15,
       "title": "Bounty",
       "diziid": "ateam",
       "bolum": "59",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/59/odul"
     },
     {
-      "season": 23,
-      "episode": 31,
+      "season": 3,
+      "episode": 16,
       "title": "Beverly Hills Assault",
       "diziid": "ateam",
       "bolum": "60",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/60/beverly_hills_saldirisi"
     },
     {
-      "season": 24,
-      "episode": 32,
+      "season": 3,
+      "episode": 17,
       "title": "Trouble Brewing",
       "diziid": "ateam",
       "bolum": "61",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/61/mayalanan_sorunlar"
     },
     {
-      "season": 25,
-      "episode": 33,
+      "season": 3,
+      "episode": 18,
       "title": "Incident at Crystal Lake",
       "diziid": "ateam",
       "bolum": "62",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/62/kristal_golde_olay"
     },
     {
-      "season": 1,
-      "episode": 34,
+      "season": 4,
+      "episode": 1,
       "title": "Judgment Day: Part 1",
       "diziid": "ateam",
       "bolum": "63",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/63/yargi_gunu_1.bolum"
     },
     {
-      "season": 2,
-      "episode": 35,
+      "season": 4,
+      "episode": 2,
       "title": "Judgment Day: Part 2",
       "diziid": "ateam",
       "bolum": "64",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/64/yargi_gunu_2.bolum"
     },
     {
-      "season": 3,
-      "episode": 36,
+      "season": 4,
+      "episode": 3,
       "title": "Where Is the Monster When You Need Him?",
       "diziid": "ateam",
       "bolum": "65",
@@ -298,111 +299,111 @@
     },
     {
       "season": 4,
-      "episode": 37,
+      "episode": 4,
       "title": "Lease with an Option to Die",
       "diziid": "ateam",
       "bolum": "66",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/66/olum_opsiyonlu_kiralama"
     },
     {
-      "season": 6,
-      "episode": 38,
+      "season": 4,
+      "episode": 5,
       "title": "The Heart of Rock n' Roll",
       "diziid": "ateam",
       "bolum": "68",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/68/rock_n_rollun_kalbi"
     },
     {
-      "season": 7,
-      "episode": 39,
+      "season": 4,
+      "episode": 6,
       "title": "Body Slam",
       "diziid": "ateam",
       "bolum": "69",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/69/vucut_darbesi"
     },
     {
-      "season": 8,
-      "episode": 40,
+      "season": 4,
+      "episode": 7,
       "title": "Blood, Sweat and Cheers",
       "diziid": "ateam",
       "bolum": "70",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/70/kan%2C_ter_ve_serefe"
     },
     {
-      "season": 9,
-      "episode": 41,
+      "season": 4,
+      "episode": 8,
       "title": "Mind Games",
       "diziid": "ateam",
       "bolum": "71",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/71/akil_oyunlari"
     },
     {
-      "season": 11,
-      "episode": 42,
+      "season": 4,
+      "episode": 9,
       "title": "The Doctor Is Out",
       "diziid": "ateam",
       "bolum": "73",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/73/doktor_cikti"
     },
     {
-      "season": 12,
-      "episode": 43,
+      "season": 4,
+      "episode": 10,
       "title": "Uncle Buckle-Up",
       "diziid": "ateam",
       "bolum": "74",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/74/kemerini_bagla_amca"
     },
     {
-      "season": 16,
-      "episode": 44,
+      "season": 4,
+      "episode": 11,
       "title": "Cowboy George",
       "diziid": "ateam",
       "bolum": "78",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/78/kovboy_george"
     },
     {
-      "season": 18,
-      "episode": 45,
+      "season": 4,
+      "episode": 12,
       "title": "The Duke of Whispering Pines",
       "diziid": "ateam",
       "bolum": "80",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/80/fisildayan_camlarin_duku"
     },
     {
-      "season": 20,
-      "episode": 46,
+      "season": 4,
+      "episode": 13,
       "title": "Mission of Peace",
       "diziid": "ateam",
       "bolum": "82",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/82/baris_gorevi"
     },
     {
-      "season": 21,
-      "episode": 47,
+      "season": 4,
+      "episode": 14,
       "title": "The Trouble with Harry",
       "diziid": "ateam",
       "bolum": "83",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/83/harry_ile_sorun"
     },
     {
-      "season": 22,
-      "episode": 48,
+      "season": 4,
+      "episode": 15,
       "title": "A Little Town with an Accent",
       "diziid": "ateam",
       "bolum": "84",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/84/aksanli_kucuk_bir_kasaba"
     },
     {
-      "season": 2,
-      "episode": 49,
+      "season": 5,
+      "episode": 1,
       "title": "Trial by Fire",
       "diziid": "ateam",
       "bolum": "87",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/87/atesle_yargilama"
     },
     {
-      "season": 3,
-      "episode": 50,
+      "season": 5,
+      "episode": 2,
       "title": "Firing Line",
       "diziid": "ateam",
       "bolum": "88",
@@ -410,63 +411,63 @@
     },
     {
       "season": 5,
-      "episode": 51,
+      "episode": 3,
       "title": "The Theory of Revolution",
       "diziid": "ateam",
       "bolum": "90",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/90/devrim_teorisi"
     },
     {
-      "season": 6,
-      "episode": 52,
+      "season": 5,
+      "episode": 4,
       "title": "The Say U.N.C.L.E. Affair",
       "diziid": "ateam",
       "bolum": "91",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/91/pes_etmek_olayi"
     },
     {
-      "season": 7,
-      "episode": 53,
+      "season": 5,
+      "episode": 5,
       "title": "Alive at Five",
       "diziid": "ateam",
       "bolum": "92",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/92/bes_vakitte_canli"
     },
     {
-      "season": 8,
-      "episode": 54,
+      "season": 5,
+      "episode": 6,
       "title": "Family Reunion",
       "diziid": "ateam",
       "bolum": "93",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/93/aile_bulusmasi"
     },
     {
-      "season": 9,
-      "episode": 55,
+      "season": 5,
+      "episode": 7,
       "title": "Point of No Return",
       "diziid": "ateam",
       "bolum": "94",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/94/donusu_olmayan_nokta"
     },
     {
-      "season": 10,
-      "episode": 56,
+      "season": 5,
+      "episode": 8,
       "title": "The Crystal Skull",
       "diziid": "ateam",
       "bolum": "95",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/95/kristal_kafatasi"
     },
     {
-      "season": 12,
-      "episode": 57,
+      "season": 5,
+      "episode": 9,
       "title": "The Grey Team",
       "diziid": "ateam",
       "bolum": "97",
       "url": "https://cizgivedizi.com/dizi/ateam/a_takimi/97/gri_takim"
     },
     {
-      "season": 13,
-      "episode": 58,
+      "season": 5,
+      "episode": 10,
       "title": "Without Reservations",
       "diziid": "ateam",
       "bolum": "98",

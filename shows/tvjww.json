@@ -8,5 +8,9 @@
     "Fantastik",
     "Komedi"
   ],
-  "episodes": []
+  "episodes": [],
+  "embeds": [
+    "/diziyeni/player.php?k=v1.negaUczORWoxcmvK.aBZxsXVMw7MJSRccdd3CFBAaQq3ACKk9Y3yweNFYzLxhZ2jwyOVo-rRT2X--fvuCiQp_Q4akIewf1sbYN3Sq6FSMCSbCau_d_SVqsBKSWREY4qG25jgAeSkXeejnNmsJO4M-.h15qEpLJGJKEVleWnVWdUg",
+    "/diziyeni/player.php?k=v1.2-DzhhRaRK1MHIT8.-r7x1Qf7gHf9W7l0_fVHXh7LEiJYRTDrGMQswO0azltXzY6S_Pv5lZ8l6Y7ljvYfLG-_ssuUUZAznGh2852mmWLi1_J1cKC7YJpQv-Qn5EpZbaIuHGdzeaxItqr4zNw0rKIvnHWQ9TdL5Q2H.YF2OsblRYdfDzyHZkx7PWA"
+  ]
 }

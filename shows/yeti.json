@@ -3,6 +3,7 @@
   "title": "yeti efsanesi ve gizli ÅŸehir",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/YETIPoster.avif",
+  "plot": "Yi, Jin ve Peng, ÅŸehirlerinin sihirli yaratÄ±klarla dolu olduÄŸunu keÅŸfederler. Sevecen Yeti dostlarÄ± Everest ile birlikte, bu yaratÄ±klara yardÄ±m etmek iÃ§in Ã‡in'in dÃ¶rt bir yanÄ±nda yÃ¼rek Ä±sÄ±tâ€¦",
   "channel": "Bilinmiyor",
   "genres": [
     "Macera"
@@ -17,7 +18,7 @@
       "url": "https://cizgivedizi.com/dizi/yeti/yeti_efsanesi_ve_gizli_sehir/1/everest_geri_donuyor"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Welcome Home, Everest!",
       "diziid": "yeti",
@@ -25,7 +26,7 @@
       "url": "https://cizgivedizi.com/dizi/yeti/yeti_efsanesi_ve_gizli_sehir/2/evine_hos_geldin%2C_everest%21"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Sewer Koi and the Museum Heist",
       "diziid": "yeti",
@@ -33,7 +34,7 @@
       "url": "https://cizgivedizi.com/dizi/yeti/yeti_efsanesi_ve_gizli_sehir/3/kanalizasyon_koi%E2%80%99si_ve_muze_soygunu"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Peng vs. Peng",
       "diziid": "yeti",
@@ -41,7 +42,7 @@
       "url": "https://cizgivedizi.com/dizi/yeti/yeti_efsanesi_ve_gizli_sehir/4/peng%2C_peng%E2%80%99e_karsi"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Jin's New Look",
       "diziid": "yeti",
@@ -49,7 +50,7 @@
       "url": "https://cizgivedizi.com/dizi/yeti/yeti_efsanesi_ve_gizli_sehir/5/jin%E2%80%99in_yeni_gorunumu"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "A Cabbage Kinda Day",
       "diziid": "yeti",
@@ -57,7 +58,7 @@
       "url": "https://cizgivedizi.com/dizi/yeti/yeti_efsanesi_ve_gizli_sehir/6/lahana_gibi_bir_gun"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Yeti Superstitious",
       "diziid": "yeti",
@@ -65,7 +66,7 @@
       "url": "https://cizgivedizi.com/dizi/yeti/yeti_efsanesi_ve_gizli_sehir/7/batil_inancli_yeti"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Toad-al Recall",
       "diziid": "yeti",
@@ -73,7 +74,7 @@
       "url": "https://cizgivedizi.com/dizi/yeti/yeti_efsanesi_ve_gizli_sehir/8/kurbagayi_geri_cagirmak"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Chinese Nian Year Part 1",
       "diziid": "yeti",
@@ -81,7 +82,7 @@
       "url": "https://cizgivedizi.com/dizi/yeti/yeti_efsanesi_ve_gizli_sehir/9/cin_nian_yili%3A_1._kisim"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Chinese Nian Year Part 2",
       "diziid": "yeti",
@@ -89,8 +90,8 @@
       "url": "https://cizgivedizi.com/dizi/yeti/yeti_efsanesi_ve_gizli_sehir/10/cin_nian_yili%3A_2._kisim"
     },
     {
-      "season": 1,
-      "episode": 11,
+      "season": 2,
+      "episode": 1,
       "title": "Wu You Gonna Call?",
       "diziid": "yeti",
       "bolum": "11",
@@ -98,71 +99,71 @@
     },
     {
       "season": 2,
-      "episode": 12,
+      "episode": 2,
       "title": "The Ditch Sitch",
       "diziid": "yeti",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/yeti/yeti_efsanesi_ve_gizli_sehir/12/kanalizasyon_meselesi"
     },
     {
-      "season": 3,
-      "episode": 13,
+      "season": 2,
+      "episode": 3,
       "title": "Tales from the Fox's Tails",
       "diziid": "yeti",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/yeti/yeti_efsanesi_ve_gizli_sehir/13/tilkinin_kuyruklarindan_hikayeler"
     },
     {
-      "season": 4,
-      "episode": 14,
+      "season": 2,
+      "episode": 4,
       "title": "Yi's LiLi-est Fan",
       "diziid": "yeti",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/yeti/yeti_efsanesi_ve_gizli_sehir/14/yi%E2%80%99nin_en_kucuk_hayrani_lili"
     },
     {
-      "season": 5,
-      "episode": 15,
+      "season": 2,
+      "episode": 5,
       "title": "Qilin-Mania",
       "diziid": "yeti",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/yeti/yeti_efsanesi_ve_gizli_sehir/15/qilin_cilginligi"
     },
     {
-      "season": 6,
-      "episode": 16,
+      "season": 2,
+      "episode": 6,
       "title": "Shack Attack",
       "diziid": "yeti",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/yeti/yeti_efsanesi_ve_gizli_sehir/16/kulube_saldirisi"
     },
     {
-      "season": 7,
-      "episode": 17,
+      "season": 2,
+      "episode": 7,
       "title": "We Meat Again",
       "diziid": "yeti",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/yeti/yeti_efsanesi_ve_gizli_sehir/17/etle_yeniden_bulusma"
     },
     {
-      "season": 8,
-      "episode": 18,
+      "season": 2,
+      "episode": 8,
       "title": "A Hair-ifying Night",
       "diziid": "yeti",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/yeti/yeti_efsanesi_ve_gizli_sehir/18/tuyler_urpertici_bir_gece"
     },
     {
-      "season": 9,
-      "episode": 19,
+      "season": 2,
+      "episode": 9,
       "title": "Please Hold for the Next Representative",
       "diziid": "yeti",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/yeti/yeti_efsanesi_ve_gizli_sehir/19/siradaki_temsilci_icin_lutfen_bekleyin"
     },
     {
-      "season": 10,
-      "episode": 20,
+      "season": 2,
+      "episode": 10,
       "title": "Please Hold While We Connect You",
       "diziid": "yeti",
       "bolum": "20",

@@ -3,6 +3,7 @@
   "title": "hazbin hotel",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/HAZBPoster.avif",
+  "plot": "Cehennem prensesi Charlie, krallÄ±ÄŸÄ±ndaki aÅŸÄ±rÄ± nÃ¼fusu barÄ±ÅŸÃ§Ä±l bir ÅŸekilde azaltmak iÃ§in iblisleri rehabilite etme gibi gÃ¶rÃ¼nÃ¼ÅŸte imkÃ¢nsÄ±z olan hedefinin peÅŸinden gider. Cennet tarafÄ±ndan dâ€¦",
   "channel": "Prime Video",
   "genres": [
     "Komedi",
@@ -19,7 +20,7 @@
       "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/1/giris"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Radio Killed the Video Star",
       "diziid": "hazbin",
@@ -27,7 +28,7 @@
       "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/2/radyo_video_yildizini_oldurdu"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Scrambled Eggs",
       "diziid": "hazbin",
@@ -35,7 +36,7 @@
       "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/3/omlet"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Masquerade",
       "diziid": "hazbin",
@@ -43,7 +44,7 @@
       "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/4/maskeli_balo"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Dad Beat Dad",
       "diziid": "hazbin",
@@ -51,7 +52,7 @@
       "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/5/baba_babayi_dovdu"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Welcome to Heaven",
       "diziid": "hazbin",
@@ -59,7 +60,7 @@
       "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/6/cennete_hos_geldin"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Hello Rosie!",
       "diziid": "hazbin",
@@ -67,7 +68,7 @@
       "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/7/merhaba_rosie%21"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "The Show Must Go On",
       "diziid": "hazbin",
@@ -75,8 +76,8 @@
       "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/8/gosteri_devam_etmeli"
     },
     {
-      "season": 1,
-      "episode": 9,
+      "season": 2,
+      "episode": 1,
       "title": "New Pentious",
       "diziid": "hazbin",
       "bolum": "9",
@@ -84,55 +85,55 @@
     },
     {
       "season": 2,
-      "episode": 10,
+      "episode": 2,
       "title": "Storyteller",
       "diziid": "hazbin",
       "bolum": "10",
       "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/10/hikayeci"
     },
     {
-      "season": 3,
-      "episode": 11,
+      "season": 2,
+      "episode": 3,
       "title": "Hazbin Hotel: Behind Closed Doors",
       "diziid": "hazbin",
       "bolum": "11",
       "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/11/hazbin_hotel%3A_kapali_kapilar_ardinda"
     },
     {
-      "season": 4,
-      "episode": 12,
+      "season": 2,
+      "episode": 4,
       "title": "It's a Deal",
       "diziid": "hazbin",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/12/anlastik"
     },
     {
-      "season": 5,
-      "episode": 13,
+      "season": 2,
+      "episode": 5,
       "title": "Silenced",
       "diziid": "hazbin",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/13/susturulmus"
     },
     {
-      "season": 6,
-      "episode": 14,
+      "season": 2,
+      "episode": 6,
       "title": "Scream Rain",
       "diziid": "hazbin",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/14/ciglik_yagmuru"
     },
     {
-      "season": 7,
-      "episode": 15,
+      "season": 2,
+      "episode": 7,
       "title": "Weapon of Mass Distraction",
       "diziid": "hazbin",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/15/kitle_oyalama_silahi"
     },
     {
-      "season": 8,
-      "episode": 16,
+      "season": 2,
+      "episode": 8,
       "title": "Curtain Call",
       "diziid": "hazbin",
       "bolum": "16",

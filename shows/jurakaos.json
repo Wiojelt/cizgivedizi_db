@@ -3,6 +3,7 @@
   "title": "jurassic world: kaos teorisi",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/JURAKAOSPoster.avif",
+  "plot": "Hem dinozorlar hem de kendileri iÃ§in tehlike yaratan kÃ¼resel bir komplodan haberdar olan Kretase KampÄ± ekibi, bÃ¼yÃ¼k gizemi aÃ§Ä±ÄŸa Ã§Ä±karmak iÃ§in iÅŸ birliÄŸi yapar.",
   "channel": "Netflix",
   "genres": [
     "Aksiyon",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/1/artci_sarsinti"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Rest Stop",
       "diziid": "jurakaos",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/2/mola_yeri"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Down on the Ranch",
       "diziid": "jurakaos",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/3/ciftlikte"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Brothers",
       "diziid": "jurakaos",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/4/kardesler"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Halfway Home",
       "diziid": "jurakaos",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/5/rehabilitasyon_evi"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Free Fall",
       "diziid": "jurakaos",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/6/serbest_dusus"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "That Night",
       "diziid": "jurakaos",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/7/o_gece"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "The Drop",
       "diziid": "jurakaos",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/8/o_dusus"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Into the Fog",
       "diziid": "jurakaos",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/9/sisin_icine_dogru"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "The End of the Beginning",
       "diziid": "jurakaos",
@@ -90,8 +91,8 @@
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/10/baslangicin_sonu"
     },
     {
-      "season": 1,
-      "episode": 11,
+      "season": 2,
+      "episode": 1,
       "title": "Batten Down the Hatches",
       "diziid": "jurakaos",
       "bolum": "11",
@@ -99,87 +100,87 @@
     },
     {
       "season": 2,
-      "episode": 12,
+      "episode": 2,
       "title": "The Marooned Five",
       "diziid": "jurakaos",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/12/kacak_besli"
     },
     {
-      "season": 3,
-      "episode": 13,
+      "season": 2,
+      "episode": 3,
       "title": "Cl3v3rGr186",
       "diziid": "jurakaos",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/13/ak1ll1k1z86"
     },
     {
-      "season": 4,
-      "episode": 14,
+      "season": 2,
+      "episode": 4,
       "title": "The Adjustment",
       "diziid": "jurakaos",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/14/ayarlama"
     },
     {
-      "season": 5,
-      "episode": 15,
+      "season": 2,
+      "episode": 5,
       "title": "Troubled Waters",
       "diziid": "jurakaos",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/15/tehlikeli_sular"
     },
     {
-      "season": 6,
-      "episode": 16,
+      "season": 2,
+      "episode": 6,
       "title": "Up the River",
       "diziid": "jurakaos",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/16/nehirden_yukari"
     },
     {
-      "season": 7,
-      "episode": 17,
+      "season": 2,
+      "episode": 7,
       "title": "All Night Long",
       "diziid": "jurakaos",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/17/butun_gece"
     },
     {
-      "season": 8,
-      "episode": 18,
+      "season": 2,
+      "episode": 8,
       "title": "Lab Partners: Part 1",
       "diziid": "jurakaos",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/18/laboratuvar_partnerleri%3A_1._kisim"
     },
     {
-      "season": 9,
-      "episode": 19,
+      "season": 2,
+      "episode": 9,
       "title": "Lab Partners: Part 2",
       "diziid": "jurakaos",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/19/laboratuvar_partnerleri%3A_2._kisim"
     },
     {
-      "season": 10,
-      "episode": 20,
+      "season": 2,
+      "episode": 10,
       "title": "Reunion",
       "diziid": "jurakaos",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/20/bulusma"
     },
     {
-      "season": 1,
-      "episode": 21,
+      "season": 3,
+      "episode": 1,
       "title": "Excess Baggage",
       "diziid": "jurakaos",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/21/fazla_bagaj"
     },
     {
-      "season": 2,
-      "episode": 22,
+      "season": 3,
+      "episode": 2,
       "title": "Villa Paradiso",
       "diziid": "jurakaos",
       "bolum": "22",
@@ -187,87 +188,87 @@
     },
     {
       "season": 3,
-      "episode": 23,
+      "episode": 3,
       "title": "The Queen's Court",
       "diziid": "jurakaos",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/23/vezirin_sarayi"
     },
     {
-      "season": 4,
-      "episode": 24,
+      "season": 3,
+      "episode": 4,
       "title": "Fire in the Piazza",
       "diziid": "jurakaos",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/24/meydanda_yangin"
     },
     {
-      "season": 5,
-      "episode": 25,
+      "season": 3,
+      "episode": 5,
       "title": "Boiling Over",
       "diziid": "jurakaos",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/25/sular_kayniyor"
     },
     {
-      "season": 6,
-      "episode": 26,
+      "season": 3,
+      "episode": 6,
       "title": "Undercover",
       "diziid": "jurakaos",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/26/gizli_gorev"
     },
     {
-      "season": 7,
-      "episode": 27,
+      "season": 3,
+      "episode": 7,
       "title": "Decisions, Decisions...",
       "diziid": "jurakaos",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/27/kararlar%2C_kararlar"
     },
     {
-      "season": 8,
-      "episode": 28,
+      "season": 3,
+      "episode": 8,
       "title": "No Escape",
       "diziid": "jurakaos",
       "bolum": "28",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/28/kacis_yok"
     },
     {
-      "season": 9,
-      "episode": 29,
+      "season": 3,
+      "episode": 9,
       "title": "Active Pursuit",
       "diziid": "jurakaos",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/29/canli_takip"
     },
     {
-      "season": 10,
-      "episode": 30,
+      "season": 3,
+      "episode": 10,
       "title": "Morituri Te Salutant",
       "diziid": "jurakaos",
       "bolum": "30",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/30/morituri_te_salutant"
     },
     {
-      "season": 1,
-      "episode": 31,
+      "season": 4,
+      "episode": 1,
       "title": "Arrival",
       "diziid": "jurakaos",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/31/gelis"
     },
     {
-      "season": 2,
-      "episode": 32,
+      "season": 4,
+      "episode": 2,
       "title": "The Maze",
       "diziid": "jurakaos",
       "bolum": "32",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/32/labirent"
     },
     {
-      "season": 3,
-      "episode": 33,
+      "season": 4,
+      "episode": 3,
       "title": "Familiar Faces",
       "diziid": "jurakaos",
       "bolum": "33",
@@ -275,47 +276,47 @@
     },
     {
       "season": 4,
-      "episode": 34,
+      "episode": 4,
       "title": "Ctrl + F",
       "diziid": "jurakaos",
       "bolum": "34",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/34/ctrl%2Bf"
     },
     {
-      "season": 5,
-      "episode": 35,
+      "season": 4,
+      "episode": 5,
       "title": "Give & Take",
       "diziid": "jurakaos",
       "bolum": "35",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/35/al_ver"
     },
     {
-      "season": 6,
-      "episode": 36,
+      "season": 4,
+      "episode": 6,
       "title": "Fire",
       "diziid": "jurakaos",
       "bolum": "36",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/36/yangin"
     },
     {
-      "season": 7,
-      "episode": 37,
+      "season": 4,
+      "episode": 7,
       "title": "How Strong We Are",
       "diziid": "jurakaos",
       "bolum": "37",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/37/bizim_gucumuz"
     },
     {
-      "season": 8,
-      "episode": 38,
+      "season": 4,
+      "episode": 8,
       "title": "Lights Out",
       "diziid": "jurakaos",
       "bolum": "38",
       "url": "https://cizgivedizi.com/dizi/jurakaos/jurassic_world%3A_kaos_teorisi/38/elektrik_gitti"
     },
     {
-      "season": 9,
-      "episode": 39,
+      "season": 4,
+      "episode": 9,
       "title": "Fare Well",
       "diziid": "jurakaos",
       "bolum": "39",

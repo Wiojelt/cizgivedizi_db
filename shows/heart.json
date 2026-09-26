@@ -3,6 +3,7 @@
   "title": "heartstopper",
   "type": "dizi",
   "poster": "https://cizgivedizi.com/resim/HEARTPoster.avif",
+  "plot": "Charlie ve Nick, bu ergenlik serisinde okul ve genÃ§lik aÅŸkÄ± arasÄ±nda gezinirken, beklenmedik arkadaÅŸlÄ±klarÄ±nÄ±n daha fazlasÄ± olabileceÄŸini keÅŸfederler.",
   "channel": "Netflix",
   "genres": [
     "Romantik",
@@ -19,7 +20,7 @@
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/1/tanisma"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Love",
       "diziid": "heart",
@@ -27,7 +28,7 @@
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/2/ask"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Kiss",
       "diziid": "heart",
@@ -35,7 +36,7 @@
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/3/opusme"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Secret",
       "diziid": "heart",
@@ -43,7 +44,7 @@
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/4/sir"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Friend",
       "diziid": "heart",
@@ -51,7 +52,7 @@
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/5/dost"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Girls",
       "diziid": "heart",
@@ -59,7 +60,7 @@
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/6/kizlar"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Bully",
       "diziid": "heart",
@@ -67,7 +68,7 @@
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/7/zorba"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Boyfriend",
       "diziid": "heart",
@@ -75,8 +76,8 @@
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/8/erkek_arkadas"
     },
     {
-      "season": 1,
-      "episode": 9,
+      "season": 2,
+      "episode": 1,
       "title": "Out",
       "diziid": "heart",
       "bolum": "9",
@@ -84,71 +85,71 @@
     },
     {
       "season": 2,
-      "episode": 10,
+      "episode": 2,
       "title": "Family",
       "diziid": "heart",
       "bolum": "10",
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/10/aile"
     },
     {
-      "season": 3,
-      "episode": 11,
+      "season": 2,
+      "episode": 3,
       "title": "Promise",
       "diziid": "heart",
       "bolum": "11",
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/11/soz"
     },
     {
-      "season": 4,
-      "episode": 12,
+      "season": 2,
+      "episode": 4,
       "title": "Challenge",
       "diziid": "heart",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/12/meydan_okuma"
     },
     {
-      "season": 5,
-      "episode": 13,
+      "season": 2,
+      "episode": 5,
       "title": "Heat",
       "diziid": "heart",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/13/sicak"
     },
     {
-      "season": 6,
-      "episode": 14,
+      "season": 2,
+      "episode": 6,
       "title": "Truth / Dare",
       "diziid": "heart",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/14/dogruluk__cesaret"
     },
     {
-      "season": 7,
-      "episode": 15,
+      "season": 2,
+      "episode": 7,
       "title": "Sorry",
       "diziid": "heart",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/15/ozur"
     },
     {
-      "season": 8,
-      "episode": 16,
+      "season": 2,
+      "episode": 8,
       "title": "Perfect",
       "diziid": "heart",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/16/mukemmel"
     },
     {
-      "season": 1,
-      "episode": 17,
+      "season": 3,
+      "episode": 1,
       "title": "Love",
       "diziid": "heart",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/17/sevgi"
     },
     {
-      "season": 2,
-      "episode": 18,
+      "season": 3,
+      "episode": 2,
       "title": "Home",
       "diziid": "heart",
       "bolum": "18",
@@ -156,47 +157,47 @@
     },
     {
       "season": 3,
-      "episode": 19,
+      "episode": 3,
       "title": "Talk",
       "diziid": "heart",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/19/konusma"
     },
     {
-      "season": 4,
-      "episode": 20,
+      "season": 3,
+      "episode": 4,
       "title": "Journey",
       "diziid": "heart",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/20/yolculuk"
     },
     {
-      "season": 5,
-      "episode": 21,
+      "season": 3,
+      "episode": 5,
       "title": "Winter",
       "diziid": "heart",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/21/kis"
     },
     {
-      "season": 6,
-      "episode": 22,
+      "season": 3,
+      "episode": 6,
       "title": "Body",
       "diziid": "heart",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/22/beden"
     },
     {
-      "season": 7,
-      "episode": 23,
+      "season": 3,
+      "episode": 7,
       "title": "Together",
       "diziid": "heart",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/heart/heartstopper/23/birlikte"
     },
     {
-      "season": 8,
-      "episode": 24,
+      "season": 3,
+      "episode": 8,
       "title": "Apart",
       "diziid": "heart",
       "bolum": "24",

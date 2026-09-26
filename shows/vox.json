@@ -3,6 +3,7 @@
   "title": "vox machina efsanesi",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/VOXPoster.avif",
+  "plot": "DÃ¼nyayÄ± korkunÃ§ canavarlardan ve karanlÄ±k bÃ¼yÃ¼lÃ¼ gÃ¼Ã§lerden kurtarmak iÃ§in bir yolculuÄŸa Ã§Ä±kan, ancak bu sÃ¼reÃ§te bir aile olduklarÄ±nÄ± keÅŸfeden, macera sever yedi kiÅŸilik bir grubun maceralarâ€¦",
   "channel": "Prime Video",
   "genres": [
     "Fantastik",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/1/taldorei_dehseti_-_birinci_kisim"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "The Terror of Tal'Dorei - Part 2",
       "diziid": "vox",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/2/taldorei_dehseti_-_ikinci_kisim"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "The Feast of Realms",
       "diziid": "vox",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/3/diyar_ziyafeti"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Shadows at the Gates",
       "diziid": "vox",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/4/kapidaki_golgeler"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Fate's Journey",
       "diziid": "vox",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/5/kaderin_yolculugu"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Spark of Rebellion",
       "diziid": "vox",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/6/isyanin_kivilcimi"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Scanbo",
       "diziid": "vox",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/7/scanbo"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "A Silver Tongue",
       "diziid": "vox",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/8/gumus_dil"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "The Tide of Bone",
       "diziid": "vox",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/9/kemik_yagmuru"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Depths of Deceit",
       "diziid": "vox",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/10/aldatmanin_derinlikleri"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Whispers at the Ziggurat",
       "diziid": "vox",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/11/ziggurattaki_fisiltilar"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "The Darkness Within",
       "diziid": "vox",
@@ -106,8 +107,8 @@
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/12/icindeki_karanlik"
     },
     {
-      "season": 1,
-      "episode": 13,
+      "season": 2,
+      "episode": 1,
       "title": "Rise of the Chroma Conclave",
       "diziid": "vox",
       "bolum": "13",
@@ -115,103 +116,103 @@
     },
     {
       "season": 2,
-      "episode": 14,
+      "episode": 2,
       "title": "The Trials of Vasselheim",
       "diziid": "vox",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/14/vasselheimin_imtihani"
     },
     {
-      "season": 3,
-      "episode": 15,
+      "season": 2,
+      "episode": 3,
       "title": "The Sunken Tomb",
       "diziid": "vox",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/15/batmis_mezar"
     },
     {
-      "season": 4,
-      "episode": 16,
+      "season": 2,
+      "episode": 4,
       "title": "Those Who Walk Away",
       "diziid": "vox",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/16/cekip_gidenler"
     },
     {
-      "season": 5,
-      "episode": 17,
+      "season": 2,
+      "episode": 5,
       "title": "Pass Through Fire",
       "diziid": "vox",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/17/atesten_gecmek"
     },
     {
-      "season": 6,
-      "episode": 18,
+      "season": 2,
+      "episode": 6,
       "title": "Into Rimecleft",
       "diziid": "vox",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/18/rota_rimecleft"
     },
     {
-      "season": 7,
-      "episode": 19,
+      "season": 2,
+      "episode": 7,
       "title": "The Fey Realm",
       "diziid": "vox",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/19/sihir_alemi"
     },
     {
-      "season": 8,
-      "episode": 20,
+      "season": 2,
+      "episode": 8,
       "title": "Echo Tree",
       "diziid": "vox",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/20/eko_agaci"
     },
     {
-      "season": 9,
-      "episode": 21,
+      "season": 2,
+      "episode": 9,
       "title": "Test of Pride",
       "diziid": "vox",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/21/gurur_imtihani"
     },
     {
-      "season": 10,
-      "episode": 22,
+      "season": 2,
+      "episode": 10,
       "title": "The Killbox",
       "diziid": "vox",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/22/olum_kutusu"
     },
     {
-      "season": 11,
-      "episode": 23,
+      "season": 2,
+      "episode": 11,
       "title": "Belly of the Beast",
       "diziid": "vox",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/23/canavarin_karni"
     },
     {
-      "season": 12,
-      "episode": 24,
+      "season": 2,
+      "episode": 12,
       "title": "The Hope Devourer",
       "diziid": "vox",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/24/umut_yiyen"
     },
     {
-      "season": 1,
-      "episode": 25,
+      "season": 3,
+      "episode": 1,
       "title": "A Deadly Bargain",
       "diziid": "vox",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/25/olumcul_pazarlik"
     },
     {
-      "season": 2,
-      "episode": 26,
+      "season": 3,
+      "episode": 2,
       "title": "Prisoners of Ank'Harel",
       "diziid": "vox",
       "bolum": "26",
@@ -219,79 +220,79 @@
     },
     {
       "season": 3,
-      "episode": 27,
+      "episode": 3,
       "title": "Vexations",
       "diziid": "vox",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/27/vexlenmeler"
     },
     {
-      "season": 4,
-      "episode": 28,
+      "season": 3,
+      "episode": 4,
       "title": "Hell to Pay",
       "diziid": "vox",
       "bolum": "28",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/28/kizilca_kiyamet"
     },
     {
-      "season": 5,
-      "episode": 29,
+      "season": 3,
+      "episode": 5,
       "title": "The Frigid Doom",
       "diziid": "vox",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/29/soguk_kiyamet"
     },
     {
-      "season": 6,
-      "episode": 30,
+      "season": 3,
+      "episode": 6,
       "title": "The Coming Storm",
       "diziid": "vox",
       "bolum": "30",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/30/yaklasan_firtina"
     },
     {
-      "season": 7,
-      "episode": 31,
+      "season": 3,
+      "episode": 7,
       "title": "Cloak and Dagger",
       "diziid": "vox",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/31/pelerin_ve_hancer"
     },
     {
-      "season": 8,
-      "episode": 32,
+      "season": 3,
+      "episode": 8,
       "title": "The Siege of Emon",
       "diziid": "vox",
       "bolum": "32",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/32/emon_kusatmasi"
     },
     {
-      "season": 9,
-      "episode": 33,
+      "season": 3,
+      "episode": 9,
       "title": "Thordak",
       "diziid": "vox",
       "bolum": "33",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/33/thordak"
     },
     {
-      "season": 10,
-      "episode": 34,
+      "season": 3,
+      "episode": 10,
       "title": "To the Ends of the World",
       "diziid": "vox",
       "bolum": "34",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/34/dunyanin_sonlarina"
     },
     {
-      "season": 11,
-      "episode": 35,
+      "season": 3,
+      "episode": 11,
       "title": "Deadly Echoes",
       "diziid": "vox",
       "bolum": "35",
       "url": "https://cizgivedizi.com/dizi/vox/vox_machina_efsanesi/35/olumcul_yankilar"
     },
     {
-      "season": 12,
-      "episode": 36,
+      "season": 3,
+      "episode": 12,
       "title": "Souls in Darkness",
       "diziid": "vox",
       "bolum": "36",

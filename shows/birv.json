@@ -3,6 +3,7 @@
   "title": "bakÄ±cÄ±m bir vampir",
   "type": "dizi",
   "poster": "https://cizgivedizi.com/resim/BIRVPoster.avif",
+  "plot": "Ethan, Benny ve Ã§aylak vampir Sarah, okullarÄ±nÄ± durmadan tehdit eden zombilere, iblislere ve diÄŸer doÄŸaÃ¼stÃ¼ yaratÄ±klara karÅŸÄ± mÃ¼cadele ediyor.",
   "channel": "Bilinmiyor",
   "genres": [
     "Korku"
@@ -17,7 +18,7 @@
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/1/olu_kopegi_diriltmek"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Three Cheers for Evil",
       "diziid": "birv",
@@ -25,7 +26,7 @@
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/2/kotuluk_icin_tezahurat"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Blood Drive",
       "diziid": "birv",
@@ -33,7 +34,7 @@
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/3/kan_bagisi"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Guys and Dolls",
       "diziid": "birv",
@@ -41,7 +42,7 @@
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/4/oglanlar_ve_bebekler"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Double Negative",
       "diziid": "birv",
@@ -49,7 +50,7 @@
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/5/kotu_ruhlu_ikizler"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Friday Night Frights",
       "diziid": "birv",
@@ -57,7 +58,7 @@
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/6/cuma_gecesi_dehseti"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Smells Like Trouble",
       "diziid": "birv",
@@ -65,7 +66,7 @@
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/7/belanin_kokusu"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Die Pod",
       "diziid": "birv",
@@ -73,7 +74,7 @@
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/8/yabani_otlar"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Blue Moon",
       "diziid": "birv",
@@ -81,7 +82,7 @@
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/9/mavi_ay"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Doug the Vampire Hunter",
       "diziid": "birv",
@@ -89,7 +90,7 @@
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/10/vampir_avcisi_doug"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "The Brewed",
       "diziid": "birv",
@@ -97,7 +98,7 @@
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/11/zombi_kahvesi"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Three Geeks and a Demon",
       "diziid": "birv",
@@ -105,7 +106,7 @@
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/12/uc_bakici_ve_bir_iblis"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "ReVamped",
       "diziid": "birv",
@@ -113,8 +114,8 @@
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/13/jessenin_kiz_arkadasi"
     },
     {
-      "season": 1,
-      "episode": 14,
+      "season": 2,
+      "episode": 1,
       "title": "Welcome Back Dusker",
       "diziid": "birv",
       "bolum": "14",
@@ -122,95 +123,95 @@
     },
     {
       "season": 2,
-      "episode": 15,
+      "episode": 2,
       "title": "Say You'll Be Maztak",
       "diziid": "birv",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/15/ay_tanricasi"
     },
     {
-      "season": 3,
-      "episode": 16,
+      "season": 2,
+      "episode": 3,
       "title": "Fanged and Furious",
       "diziid": "birv",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/16/kanli_ve_ofkeli"
     },
     {
-      "season": 4,
-      "episode": 17,
+      "season": 2,
+      "episode": 4,
       "title": "Flushed",
       "diziid": "birv",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/17/super_timsahlar"
     },
     {
-      "season": 5,
-      "episode": 18,
+      "season": 2,
+      "episode": 5,
       "title": "Mirror/rorriM",
       "diziid": "birv",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/18/ayna__anya"
     },
     {
-      "season": 6,
-      "episode": 19,
+      "season": 2,
+      "episode": 6,
       "title": "Village of the Darned",
       "diziid": "birv",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/19/buyulenmis_cocuk_izciler"
     },
     {
-      "season": 7,
-      "episode": 20,
+      "season": 2,
+      "episode": 7,
       "title": "Hottie Ho-Tep",
       "diziid": "birv",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/20/hottie_ho-tep"
     },
     {
-      "season": 8,
-      "episode": 21,
+      "season": 2,
+      "episode": 8,
       "title": "Independence Daze",
       "diziid": "birv",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/21/tek_basina"
     },
     {
-      "season": 9,
-      "episode": 22,
+      "season": 2,
+      "episode": 9,
       "title": "Siren Song",
       "diziid": "birv",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/22/sirenin_sarkisi"
     },
     {
-      "season": 10,
-      "episode": 23,
+      "season": 2,
+      "episode": 10,
       "title": "Jockenstein",
       "diziid": "birv",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/23/hokey_macerasi"
     },
     {
-      "season": 11,
-      "episode": 24,
+      "season": 2,
+      "episode": 11,
       "title": "Halloweird",
       "diziid": "birv",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/24/tuhaf_cadilar_bayrami"
     },
     {
-      "season": 12,
-      "episode": 25,
+      "season": 2,
+      "episode": 12,
       "title": "The Date to End All Dates, Part 1",
       "diziid": "birv",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/birv/bakicim_bir_vampir/25/tum_tarihleri_bitirecek_tarih_bolum_1"
     },
     {
-      "season": 13,
-      "episode": 26,
+      "season": 2,
+      "episode": 13,
       "title": "The Date to End All Dates, Part 2",
       "diziid": "birv",
       "bolum": "26",

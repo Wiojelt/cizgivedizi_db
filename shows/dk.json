@@ -3,6 +3,7 @@
   "title": "drama kulÃ¼bÃ¼",
   "type": "dizi",
   "poster": "https://cizgivedizi.com/resim/DKPoster.avif",
+  "plot": "Tookus Ortaokulu'ndan \"Minnesota\" adÄ±nda okul tiyatro grubu, yeni bir mÃ¼zikal sahnelemeye Ã§alÄ±ÅŸÄ±yor. Ã–ÄŸrenciler tuhaf zorluklarla karÅŸÄ± karÅŸÄ±ya kalÄ±rlar ama farklÄ±lÄ±klarÄ±na raÄŸmen ekip olarâ€¦",
   "channel": "Nickelodeon",
   "genres": [
     "Komedi",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/1/pilot"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Build A Bench",
       "diziid": "dk",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/2/bir_tezgah_olusturun"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Phoneless in Tookus",
       "diziid": "dk",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/3/tookusta_telefonsuz"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Luck Be a Poncho Tonight",
       "diziid": "dk",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/4/sans_bu_gece_bir_panco_ol"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "15 Sniffets of Fame",
       "diziid": "dk",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/5/15_sohret_sniffets"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "S.A.D.",
       "diziid": "dk",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/6/d.i.k."
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "The Slumber Games",
       "diziid": "dk",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/7/pijama_oyunlari"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "The Phantom of Farth Auditorium",
       "diziid": "dk",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/8/uzak_oditoryumun_hayaleti"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Stress Rehearsal",
       "diziid": "dk",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/9/stres_provasi"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "The Show Might Go On",
       "diziid": "dk",

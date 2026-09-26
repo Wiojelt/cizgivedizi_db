@@ -3,6 +3,7 @@
   "title": "vampir avcÄ±sÄ± buffy",
   "type": "dizi",
   "poster": "https://cizgivedizi.com/resim/BUFFYVAPoste.avif",
+  "plot": "\"Vampir AvcÄ±sÄ± Buffy\", vampir avlama gÃ¼cÃ¼ne ve becerisine sahip genÃ§ bir kÄ±z olan Buffy Summers'Ä±n maceralarÄ±nÄ± konu alan bir komedi-aksiyon dizisidir.",
   "channel": "Disney+",
   "genres": [
     "Fantastik",
@@ -19,7 +20,7 @@
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/1/cehennem_agzina_hos_geldiniz"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "The Harvest",
       "diziid": "buffy",
@@ -27,7 +28,7 @@
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/2/hasat"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Witch",
       "diziid": "buffy",
@@ -35,7 +36,7 @@
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/3/cadi"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Teacher's Pet",
       "diziid": "buffy",
@@ -43,7 +44,7 @@
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/4/ogretmenin_evcil_hayvani"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Never Kill a Boy on the First Date",
       "diziid": "buffy",
@@ -51,7 +52,7 @@
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/5/ilk_randevuda_erkegi_sakin_oldurme"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "The Pack",
       "diziid": "buffy",
@@ -59,7 +60,7 @@
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/6/suru"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Angel",
       "diziid": "buffy",
@@ -67,7 +68,7 @@
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/7/melek"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "I, Robot... You, Jane",
       "diziid": "buffy",
@@ -75,7 +76,7 @@
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/8/ben%2C_robot%2C_sen%2C_jane"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "The Puppet Show",
       "diziid": "buffy",
@@ -83,7 +84,7 @@
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/9/kukla_gosterisi"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Nightmares",
       "diziid": "buffy",
@@ -91,7 +92,7 @@
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/10/kabuslar"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Out of Mind, Out of Sight",
       "diziid": "buffy",
@@ -99,7 +100,7 @@
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/11/gozden_uzak%2C_gonulden_uzak"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Prophecy Girl",
       "diziid": "buffy",
@@ -107,8 +108,8 @@
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/12/kehanetci_kiz"
     },
     {
-      "season": 1,
-      "episode": 13,
+      "season": 2,
+      "episode": 1,
       "title": "When She Was Bad",
       "diziid": "buffy",
       "bolum": "13",
@@ -116,183 +117,183 @@
     },
     {
       "season": 2,
-      "episode": 14,
+      "episode": 2,
       "title": "Some Assembly Required",
       "diziid": "buffy",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/14/montaj_gereklidir"
     },
     {
-      "season": 3,
-      "episode": 15,
+      "season": 2,
+      "episode": 3,
       "title": "School Hard",
       "diziid": "buffy",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/15/okul_zor"
     },
     {
-      "season": 4,
-      "episode": 16,
+      "season": 2,
+      "episode": 4,
       "title": "Inca Mummy Girl",
       "diziid": "buffy",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/16/inka_mumya_kiz"
     },
     {
-      "season": 5,
-      "episode": 17,
+      "season": 2,
+      "episode": 5,
       "title": "Reptile Boy",
       "diziid": "buffy",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/17/surungen_oglan"
     },
     {
-      "season": 6,
-      "episode": 18,
+      "season": 2,
+      "episode": 6,
       "title": "Halloween",
       "diziid": "buffy",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/18/cadilar_bayrami"
     },
     {
-      "season": 7,
-      "episode": 19,
+      "season": 2,
+      "episode": 7,
       "title": "Lie to Me",
       "diziid": "buffy",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/19/bana_yalan_soyle"
     },
     {
-      "season": 8,
-      "episode": 20,
+      "season": 2,
+      "episode": 8,
       "title": "The Dark Age",
       "diziid": "buffy",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/20/karanlik_cag"
     },
     {
-      "season": 9,
-      "episode": 21,
+      "season": 2,
+      "episode": 9,
       "title": "What's My Line?: Part 1",
       "diziid": "buffy",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/21/lafim_ne_birinci_bolum"
     },
     {
-      "season": 10,
-      "episode": 22,
+      "season": 2,
+      "episode": 10,
       "title": "What's My Line?: Part 2",
       "diziid": "buffy",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/22/lafim_ne_ikinci_bolum"
     },
     {
-      "season": 11,
-      "episode": 23,
+      "season": 2,
+      "episode": 11,
       "title": "Ted",
       "diziid": "buffy",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/23/ted"
     },
     {
-      "season": 12,
-      "episode": 24,
+      "season": 2,
+      "episode": 12,
       "title": "Bad Eggs",
       "diziid": "buffy",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/24/kotu_yumurtalar"
     },
     {
-      "season": 13,
-      "episode": 25,
+      "season": 2,
+      "episode": 13,
       "title": "Surprise",
       "diziid": "buffy",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/25/surpriz"
     },
     {
-      "season": 14,
-      "episode": 26,
+      "season": 2,
+      "episode": 14,
       "title": "Innocence",
       "diziid": "buffy",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/26/masumiyet"
     },
     {
-      "season": 15,
-      "episode": 27,
+      "season": 2,
+      "episode": 15,
       "title": "Phases",
       "diziid": "buffy",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/27/evreler"
     },
     {
-      "season": 16,
-      "episode": 28,
+      "season": 2,
+      "episode": 16,
       "title": "Bewitched, Bothered and Bewildered",
       "diziid": "buffy",
       "bolum": "28",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/28/buyulenmis%2C_sikilmis_ve_afallamis"
     },
     {
-      "season": 17,
-      "episode": 29,
+      "season": 2,
+      "episode": 17,
       "title": "Passion",
       "diziid": "buffy",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/29/tutku"
     },
     {
-      "season": 18,
-      "episode": 30,
+      "season": 2,
+      "episode": 18,
       "title": "Killed by Death",
       "diziid": "buffy",
       "bolum": "30",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/30/olum_tarafindan_oldurulmus"
     },
     {
-      "season": 19,
-      "episode": 31,
+      "season": 2,
+      "episode": 19,
       "title": "I Only Have Eyes for You",
       "diziid": "buffy",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/31/gozum_sadece_seni_gorur"
     },
     {
-      "season": 20,
-      "episode": 32,
+      "season": 2,
+      "episode": 20,
       "title": "Go Fish",
       "diziid": "buffy",
       "bolum": "32",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/32/havani_alirsin"
     },
     {
-      "season": 21,
-      "episode": 33,
+      "season": 2,
+      "episode": 21,
       "title": "Becoming: Part 1",
       "diziid": "buffy",
       "bolum": "33",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/33/donusum%2C_bolum_1"
     },
     {
-      "season": 22,
-      "episode": 34,
+      "season": 2,
+      "episode": 22,
       "title": "Becoming: Part 2",
       "diziid": "buffy",
       "bolum": "34",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/34/donusum%2C_bolum_2"
     },
     {
-      "season": 1,
-      "episode": 35,
+      "season": 3,
+      "episode": 1,
       "title": "Anne",
       "diziid": "buffy",
       "bolum": "35",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/35/anne"
     },
     {
-      "season": 2,
-      "episode": 36,
+      "season": 3,
+      "episode": 2,
       "title": "Dead Man's Party",
       "diziid": "buffy",
       "bolum": "36",
@@ -300,183 +301,183 @@
     },
     {
       "season": 3,
-      "episode": 37,
+      "episode": 3,
       "title": "Faith, Hope & Trick",
       "diziid": "buffy",
       "bolum": "37",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/37/inanc%2C_umut_ve_numara"
     },
     {
-      "season": 4,
-      "episode": 38,
+      "season": 3,
+      "episode": 4,
       "title": "Beauty and the Beasts",
       "diziid": "buffy",
       "bolum": "38",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/38/guzel_ve_cirkinler"
     },
     {
-      "season": 5,
-      "episode": 39,
+      "season": 3,
+      "episode": 5,
       "title": "Homecoming",
       "diziid": "buffy",
       "bolum": "39",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/39/eve_donus"
     },
     {
-      "season": 6,
-      "episode": 40,
+      "season": 3,
+      "episode": 6,
       "title": "Band Candy",
       "diziid": "buffy",
       "bolum": "40",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/40/bando_sekeri"
     },
     {
-      "season": 7,
-      "episode": 41,
+      "season": 3,
+      "episode": 7,
       "title": "Revelations",
       "diziid": "buffy",
       "bolum": "41",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/41/esinleme"
     },
     {
-      "season": 8,
-      "episode": 42,
+      "season": 3,
+      "episode": 8,
       "title": "Lovers Walk",
       "diziid": "buffy",
       "bolum": "42",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/42/sevenin_yuruyusu"
     },
     {
-      "season": 9,
-      "episode": 43,
+      "season": 3,
+      "episode": 9,
       "title": "The Wish",
       "diziid": "buffy",
       "bolum": "43",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/43/dilek"
     },
     {
-      "season": 10,
-      "episode": 44,
+      "season": 3,
+      "episode": 10,
       "title": "Amends",
       "diziid": "buffy",
       "bolum": "44",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/44/duzeltmeler"
     },
     {
-      "season": 11,
-      "episode": 45,
+      "season": 3,
+      "episode": 11,
       "title": "Gingerbread",
       "diziid": "buffy",
       "bolum": "45",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/45/zencefilli_ekmek"
     },
     {
-      "season": 12,
-      "episode": 46,
+      "season": 3,
+      "episode": 12,
       "title": "Helpless",
       "diziid": "buffy",
       "bolum": "46",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/46/muhtac"
     },
     {
-      "season": 13,
-      "episode": 47,
+      "season": 3,
+      "episode": 13,
       "title": "The Zeppo",
       "diziid": "buffy",
       "bolum": "47",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/47/zeppo"
     },
     {
-      "season": 14,
-      "episode": 48,
+      "season": 3,
+      "episode": 14,
       "title": "Bad Girls",
       "diziid": "buffy",
       "bolum": "48",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/48/kotu_kizlar"
     },
     {
-      "season": 15,
-      "episode": 49,
+      "season": 3,
+      "episode": 15,
       "title": "Consequences",
       "diziid": "buffy",
       "bolum": "49",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/49/sonuclar"
     },
     {
-      "season": 16,
-      "episode": 50,
+      "season": 3,
+      "episode": 16,
       "title": "Doppelgangland",
       "diziid": "buffy",
       "bolum": "50",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/50/ikizler_diyari"
     },
     {
-      "season": 17,
-      "episode": 51,
+      "season": 3,
+      "episode": 17,
       "title": "Enemies",
       "diziid": "buffy",
       "bolum": "51",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/51/dusmanlar"
     },
     {
-      "season": 18,
-      "episode": 52,
+      "season": 3,
+      "episode": 18,
       "title": "Earshot",
       "diziid": "buffy",
       "bolum": "52",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/52/isitme_menzili"
     },
     {
-      "season": 19,
-      "episode": 53,
+      "season": 3,
+      "episode": 19,
       "title": "Choices",
       "diziid": "buffy",
       "bolum": "53",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/53/secenekler"
     },
     {
-      "season": 20,
-      "episode": 54,
+      "season": 3,
+      "episode": 20,
       "title": "The Prom",
       "diziid": "buffy",
       "bolum": "54",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/54/balo"
     },
     {
-      "season": 21,
-      "episode": 55,
+      "season": 3,
+      "episode": 21,
       "title": "Graduation Day: Part 1",
       "diziid": "buffy",
       "bolum": "55",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/55/mezuniyet_gunu%2C_bolum_1"
     },
     {
-      "season": 22,
-      "episode": 56,
+      "season": 3,
+      "episode": 22,
       "title": "Graduation Day: Part 2",
       "diziid": "buffy",
       "bolum": "56",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/56/mezuniyet_gunu%2C_bolum_2"
     },
     {
-      "season": 1,
-      "episode": 57,
+      "season": 4,
+      "episode": 1,
       "title": "The Freshman",
       "diziid": "buffy",
       "bolum": "57",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/57/caylak"
     },
     {
-      "season": 2,
-      "episode": 58,
+      "season": 4,
+      "episode": 2,
       "title": "Living Conditions",
       "diziid": "buffy",
       "bolum": "58",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/58/yasam_sartlari"
     },
     {
-      "season": 3,
-      "episode": 59,
+      "season": 4,
+      "episode": 3,
       "title": "The Harsh Light of Day",
       "diziid": "buffy",
       "bolum": "59",
@@ -484,183 +485,183 @@
     },
     {
       "season": 4,
-      "episode": 60,
+      "episode": 4,
       "title": "Fear, Itself",
       "diziid": "buffy",
       "bolum": "60",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/60/korkunun_kendisi"
     },
     {
-      "season": 5,
-      "episode": 61,
+      "season": 4,
+      "episode": 5,
       "title": "Beer Bad",
       "diziid": "buffy",
       "bolum": "61",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/61/kotu_bira"
     },
     {
-      "season": 6,
-      "episode": 62,
+      "season": 4,
+      "episode": 6,
       "title": "Wild at Heart",
       "diziid": "buffy",
       "bolum": "62",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/62/cilgin_yurek"
     },
     {
-      "season": 7,
-      "episode": 63,
+      "season": 4,
+      "episode": 7,
       "title": "The Initiative",
       "diziid": "buffy",
       "bolum": "63",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/63/girisim"
     },
     {
-      "season": 8,
-      "episode": 64,
+      "season": 4,
+      "episode": 8,
       "title": "Pangs",
       "diziid": "buffy",
       "bolum": "64",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/64/ask_acisi"
     },
     {
-      "season": 9,
-      "episode": 65,
+      "season": 4,
+      "episode": 9,
       "title": "Something Blue",
       "diziid": "buffy",
       "bolum": "65",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/65/mavi_bir_sey"
     },
     {
-      "season": 10,
-      "episode": 66,
+      "season": 4,
+      "episode": 10,
       "title": "Hush",
       "diziid": "buffy",
       "bolum": "66",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/66/sessizlik"
     },
     {
-      "season": 11,
-      "episode": 67,
+      "season": 4,
+      "episode": 11,
       "title": "Doomed",
       "diziid": "buffy",
       "bolum": "67",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/67/talihsiz"
     },
     {
-      "season": 12,
-      "episode": 68,
+      "season": 4,
+      "episode": 12,
       "title": "A New Man",
       "diziid": "buffy",
       "bolum": "68",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/68/yeni_adam"
     },
     {
-      "season": 13,
-      "episode": 69,
+      "season": 4,
+      "episode": 13,
       "title": "The I in Team",
       "diziid": "buffy",
       "bolum": "69",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/69/takimdaki_ben"
     },
     {
-      "season": 14,
-      "episode": 70,
+      "season": 4,
+      "episode": 14,
       "title": "Goodbye Iowa",
       "diziid": "buffy",
       "bolum": "70",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/70/elveda%2C_iowa"
     },
     {
-      "season": 15,
-      "episode": 71,
+      "season": 4,
+      "episode": 15,
       "title": "This Year's Girl",
       "diziid": "buffy",
       "bolum": "71",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/71/bu_yilin_kizi"
     },
     {
-      "season": 16,
-      "episode": 72,
+      "season": 4,
+      "episode": 16,
       "title": "Who Are You?",
       "diziid": "buffy",
       "bolum": "72",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/72/sen_kimsin"
     },
     {
-      "season": 17,
-      "episode": 73,
+      "season": 4,
+      "episode": 17,
       "title": "Superstar",
       "diziid": "buffy",
       "bolum": "73",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/73/super_star"
     },
     {
-      "season": 18,
-      "episode": 74,
+      "season": 4,
+      "episode": 18,
       "title": "Where the Wild Things Are",
       "diziid": "buffy",
       "bolum": "74",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/74/vahsi_seylerin_oldugu_yer"
     },
     {
-      "season": 19,
-      "episode": 75,
+      "season": 4,
+      "episode": 19,
       "title": "New Moon Rising",
       "diziid": "buffy",
       "bolum": "75",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/75/yeni_ay_yukseliyor"
     },
     {
-      "season": 20,
-      "episode": 76,
+      "season": 4,
+      "episode": 20,
       "title": "The Yoko Factor",
       "diziid": "buffy",
       "bolum": "76",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/76/yoko_faktoru"
     },
     {
-      "season": 21,
-      "episode": 77,
+      "season": 4,
+      "episode": 21,
       "title": "Primeval",
       "diziid": "buffy",
       "bolum": "77",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/77/ilkel"
     },
     {
-      "season": 22,
-      "episode": 78,
+      "season": 4,
+      "episode": 22,
       "title": "Restless",
       "diziid": "buffy",
       "bolum": "78",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/78/tez_canli"
     },
     {
-      "season": 1,
-      "episode": 79,
+      "season": 5,
+      "episode": 1,
       "title": "Buffy vs. Dracula",
       "diziid": "buffy",
       "bolum": "79",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/79/buffy_drakulaya_karsi"
     },
     {
-      "season": 2,
-      "episode": 80,
+      "season": 5,
+      "episode": 2,
       "title": "Real Me",
       "diziid": "buffy",
       "bolum": "80",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/80/gercek_ben"
     },
     {
-      "season": 3,
-      "episode": 81,
+      "season": 5,
+      "episode": 3,
       "title": "The Replacement",
       "diziid": "buffy",
       "bolum": "81",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/81/yedek"
     },
     {
-      "season": 4,
-      "episode": 82,
+      "season": 5,
+      "episode": 4,
       "title": "Out of My Mind",
       "diziid": "buffy",
       "bolum": "82",
@@ -668,183 +669,183 @@
     },
     {
       "season": 5,
-      "episode": 83,
+      "episode": 5,
       "title": "No Place Like Home",
       "diziid": "buffy",
       "bolum": "83",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/83/ev_gibisi_yoktur"
     },
     {
-      "season": 6,
-      "episode": 84,
+      "season": 5,
+      "episode": 6,
       "title": "Family",
       "diziid": "buffy",
       "bolum": "84",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/84/aile"
     },
     {
-      "season": 7,
-      "episode": 85,
+      "season": 5,
+      "episode": 7,
       "title": "Fool for Love",
       "diziid": "buffy",
       "bolum": "85",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/85/ask_budalasi"
     },
     {
-      "season": 8,
-      "episode": 86,
+      "season": 5,
+      "episode": 8,
       "title": "Shadow",
       "diziid": "buffy",
       "bolum": "86",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/86/golge"
     },
     {
-      "season": 9,
-      "episode": 87,
+      "season": 5,
+      "episode": 9,
       "title": "Listening to Fear",
       "diziid": "buffy",
       "bolum": "87",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/87/korkuyu_dinlemek"
     },
     {
-      "season": 10,
-      "episode": 88,
+      "season": 5,
+      "episode": 10,
       "title": "Into the Woods",
       "diziid": "buffy",
       "bolum": "88",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/88/ormana"
     },
     {
-      "season": 11,
-      "episode": 89,
+      "season": 5,
+      "episode": 11,
       "title": "Triangle",
       "diziid": "buffy",
       "bolum": "89",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/89/ucgen"
     },
     {
-      "season": 12,
-      "episode": 90,
+      "season": 5,
+      "episode": 12,
       "title": "Checkpoint",
       "diziid": "buffy",
       "bolum": "90",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/90/kontrol_noktasi"
     },
     {
-      "season": 13,
-      "episode": 91,
+      "season": 5,
+      "episode": 13,
       "title": "Blood Ties",
       "diziid": "buffy",
       "bolum": "91",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/91/kan_baglari"
     },
     {
-      "season": 14,
-      "episode": 92,
+      "season": 5,
+      "episode": 14,
       "title": "Crush",
       "diziid": "buffy",
       "bolum": "92",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/92/hoslanma"
     },
     {
-      "season": 15,
-      "episode": 93,
+      "season": 5,
+      "episode": 15,
       "title": "I Was Made to Love You",
       "diziid": "buffy",
       "bolum": "93",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/93/seni_sevmek_icin_yaratilmisim"
     },
     {
-      "season": 16,
-      "episode": 94,
+      "season": 5,
+      "episode": 16,
       "title": "The Body",
       "diziid": "buffy",
       "bolum": "94",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/94/ceset"
     },
     {
-      "season": 17,
-      "episode": 95,
+      "season": 5,
+      "episode": 17,
       "title": "Forever",
       "diziid": "buffy",
       "bolum": "95",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/95/ebediyen"
     },
     {
-      "season": 18,
-      "episode": 96,
+      "season": 5,
+      "episode": 18,
       "title": "Intervention",
       "diziid": "buffy",
       "bolum": "96",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/96/mudahale"
     },
     {
-      "season": 19,
-      "episode": 97,
+      "season": 5,
+      "episode": 19,
       "title": "Tough Love",
       "diziid": "buffy",
       "bolum": "97",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/97/hasin_sevgi"
     },
     {
-      "season": 20,
-      "episode": 98,
+      "season": 5,
+      "episode": 20,
       "title": "Spiral",
       "diziid": "buffy",
       "bolum": "98",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/98/spiral"
     },
     {
-      "season": 21,
-      "episode": 99,
+      "season": 5,
+      "episode": 21,
       "title": "The Weight of the World",
       "diziid": "buffy",
       "bolum": "99",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/99/dunyanin_agirligi"
     },
     {
-      "season": 22,
-      "episode": 100,
+      "season": 5,
+      "episode": 22,
       "title": "The Gift",
       "diziid": "buffy",
       "bolum": "100",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/100/hediye"
     },
     {
-      "season": 1,
-      "episode": 101,
+      "season": 6,
+      "episode": 1,
       "title": "Bargaining - Part 1",
       "diziid": "buffy",
       "bolum": "101",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/101/pazarlik%2C_bolum_1"
     },
     {
-      "season": 2,
-      "episode": 102,
+      "season": 6,
+      "episode": 2,
       "title": "Bargaining - Part 2",
       "diziid": "buffy",
       "bolum": "102",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/102/pazarlik%2C_bolum_2"
     },
     {
-      "season": 3,
-      "episode": 103,
+      "season": 6,
+      "episode": 3,
       "title": "After Life",
       "diziid": "buffy",
       "bolum": "103",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/103/ahiret"
     },
     {
-      "season": 4,
-      "episode": 104,
+      "season": 6,
+      "episode": 4,
       "title": "Flooded",
       "diziid": "buffy",
       "bolum": "104",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/104/su_basmis"
     },
     {
-      "season": 5,
-      "episode": 105,
+      "season": 6,
+      "episode": 5,
       "title": "Life Serial",
       "diziid": "buffy",
       "bolum": "105",
@@ -852,183 +853,183 @@
     },
     {
       "season": 6,
-      "episode": 106,
+      "episode": 6,
       "title": "All the Way",
       "diziid": "buffy",
       "bolum": "106",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/106/sonuna_kadar"
     },
     {
-      "season": 7,
-      "episode": 107,
+      "season": 6,
+      "episode": 7,
       "title": "Once More, with Feeling",
       "diziid": "buffy",
       "bolum": "107",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/107/bir_kez_daha%2C_hissederek"
     },
     {
-      "season": 8,
-      "episode": 108,
+      "season": 6,
+      "episode": 8,
       "title": "Tabula Rasa",
       "diziid": "buffy",
       "bolum": "108",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/108/beyaz_sayfa"
     },
     {
-      "season": 9,
-      "episode": 109,
+      "season": 6,
+      "episode": 9,
       "title": "Smashed",
       "diziid": "buffy",
       "bolum": "109",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/109/kirilmis"
     },
     {
-      "season": 10,
-      "episode": 110,
+      "season": 6,
+      "episode": 10,
       "title": "Wrecked",
       "diziid": "buffy",
       "bolum": "110",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/110/yikilmis"
     },
     {
-      "season": 11,
-      "episode": 111,
+      "season": 6,
+      "episode": 11,
       "title": "Gone",
       "diziid": "buffy",
       "bolum": "111",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/111/gitmis"
     },
     {
-      "season": 12,
-      "episode": 112,
+      "season": 6,
+      "episode": 12,
       "title": "Doublemeat Palace",
       "diziid": "buffy",
       "bolum": "112",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/112/cifte_et_sarayi"
     },
     {
-      "season": 13,
-      "episode": 113,
+      "season": 6,
+      "episode": 13,
       "title": "Dead Things",
       "diziid": "buffy",
       "bolum": "113",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/113/olu_seyler"
     },
     {
-      "season": 14,
-      "episode": 114,
+      "season": 6,
+      "episode": 14,
       "title": "Older and Far Away",
       "diziid": "buffy",
       "bolum": "114",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/114/eski_ve_uzak"
     },
     {
-      "season": 15,
-      "episode": 115,
+      "season": 6,
+      "episode": 15,
       "title": "As You Were",
       "diziid": "buffy",
       "bolum": "115",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/115/rahat"
     },
     {
-      "season": 16,
-      "episode": 116,
+      "season": 6,
+      "episode": 16,
       "title": "Hell's Bells",
       "diziid": "buffy",
       "bolum": "116",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/116/cehennemin_canlari"
     },
     {
-      "season": 17,
-      "episode": 117,
+      "season": 6,
+      "episode": 17,
       "title": "Normal Again",
       "diziid": "buffy",
       "bolum": "117",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/117/yine_normal"
     },
     {
-      "season": 18,
-      "episode": 118,
+      "season": 6,
+      "episode": 18,
       "title": "Entropy",
       "diziid": "buffy",
       "bolum": "118",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/118/daginti"
     },
     {
-      "season": 19,
-      "episode": 119,
+      "season": 6,
+      "episode": 19,
       "title": "Seeing Red",
       "diziid": "buffy",
       "bolum": "119",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/119/kirmizi_gormek"
     },
     {
-      "season": 20,
-      "episode": 120,
+      "season": 6,
+      "episode": 20,
       "title": "Villains",
       "diziid": "buffy",
       "bolum": "120",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/120/kotuler"
     },
     {
-      "season": 21,
-      "episode": 121,
+      "season": 6,
+      "episode": 21,
       "title": "Two to Go",
       "diziid": "buffy",
       "bolum": "121",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/121/kaldi_iki"
     },
     {
-      "season": 22,
-      "episode": 122,
+      "season": 6,
+      "episode": 22,
       "title": "Grave",
       "diziid": "buffy",
       "bolum": "122",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/122/mezar"
     },
     {
-      "season": 1,
-      "episode": 123,
+      "season": 7,
+      "episode": 1,
       "title": "Lessons",
       "diziid": "buffy",
       "bolum": "123",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/123/dersler"
     },
     {
-      "season": 2,
-      "episode": 124,
+      "season": 7,
+      "episode": 2,
       "title": "Beneath You",
       "diziid": "buffy",
       "bolum": "124",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/124/altinda"
     },
     {
-      "season": 3,
-      "episode": 125,
+      "season": 7,
+      "episode": 3,
       "title": "Same Time, Same Place",
       "diziid": "buffy",
       "bolum": "125",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/125/ayni_zaman%2C_ayni_yer"
     },
     {
-      "season": 4,
-      "episode": 126,
+      "season": 7,
+      "episode": 4,
       "title": "Help",
       "diziid": "buffy",
       "bolum": "126",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/126/imdat"
     },
     {
-      "season": 5,
-      "episode": 127,
+      "season": 7,
+      "episode": 5,
       "title": "Selfless",
       "diziid": "buffy",
       "bolum": "127",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/127/ozverili"
     },
     {
-      "season": 6,
-      "episode": 128,
+      "season": 7,
+      "episode": 6,
       "title": "Him",
       "diziid": "buffy",
       "bolum": "128",
@@ -1036,127 +1037,127 @@
     },
     {
       "season": 7,
-      "episode": 129,
+      "episode": 7,
       "title": "Conversations with Dead People",
       "diziid": "buffy",
       "bolum": "129",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/129/olulerle_sohbetler"
     },
     {
-      "season": 8,
-      "episode": 130,
+      "season": 7,
+      "episode": 8,
       "title": "Sleeper",
       "diziid": "buffy",
       "bolum": "130",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/130/uyuyan"
     },
     {
-      "season": 9,
-      "episode": 131,
+      "season": 7,
+      "episode": 9,
       "title": "Never Leave Me",
       "diziid": "buffy",
       "bolum": "131",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/131/beni_hic_birakma"
     },
     {
-      "season": 10,
-      "episode": 132,
+      "season": 7,
+      "episode": 10,
       "title": "Bring on the Night",
       "diziid": "buffy",
       "bolum": "132",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/132/gece_gelsin"
     },
     {
-      "season": 11,
-      "episode": 133,
+      "season": 7,
+      "episode": 11,
       "title": "Showtime",
       "diziid": "buffy",
       "bolum": "133",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/133/gosteri_zamani"
     },
     {
-      "season": 12,
-      "episode": 134,
+      "season": 7,
+      "episode": 12,
       "title": "Potential",
       "diziid": "buffy",
       "bolum": "134",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/134/potansiyel"
     },
     {
-      "season": 13,
-      "episode": 135,
+      "season": 7,
+      "episode": 13,
       "title": "The Killer in Me",
       "diziid": "buffy",
       "bolum": "135",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/135/icimdeki_katil"
     },
     {
-      "season": 14,
-      "episode": 136,
+      "season": 7,
+      "episode": 14,
       "title": "First Date",
       "diziid": "buffy",
       "bolum": "136",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/136/ilk_randevu"
     },
     {
-      "season": 15,
-      "episode": 137,
+      "season": 7,
+      "episode": 15,
       "title": "Get It Done",
       "diziid": "buffy",
       "bolum": "137",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/137/hallet"
     },
     {
-      "season": 16,
-      "episode": 138,
+      "season": 7,
+      "episode": 16,
       "title": "Storyteller",
       "diziid": "buffy",
       "bolum": "138",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/138/hikaye_anlatici"
     },
     {
-      "season": 17,
-      "episode": 139,
+      "season": 7,
+      "episode": 17,
       "title": "Lies My Parents Told Me",
       "diziid": "buffy",
       "bolum": "139",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/139/ailemin_bana_soyledigi_yalanlar"
     },
     {
-      "season": 18,
-      "episode": 140,
+      "season": 7,
+      "episode": 18,
       "title": "Dirty Girls",
       "diziid": "buffy",
       "bolum": "140",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/140/pis_kizlar"
     },
     {
-      "season": 19,
-      "episode": 141,
+      "season": 7,
+      "episode": 19,
       "title": "Empty Places",
       "diziid": "buffy",
       "bolum": "141",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/141/bos_yerler"
     },
     {
-      "season": 20,
-      "episode": 142,
+      "season": 7,
+      "episode": 20,
       "title": "Touched",
       "diziid": "buffy",
       "bolum": "142",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/142/dokunulmus"
     },
     {
-      "season": 21,
-      "episode": 143,
+      "season": 7,
+      "episode": 21,
       "title": "End of Days",
       "diziid": "buffy",
       "bolum": "143",
       "url": "https://cizgivedizi.com/dizi/buffy/vampir_avcisi_buffy/143/kiyamet"
     },
     {
-      "season": 22,
-      "episode": 144,
+      "season": 7,
+      "episode": 22,
       "title": "Chosen",
       "diziid": "buffy",
       "bolum": "144",

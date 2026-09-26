@@ -3,6 +3,7 @@
   "title": "Ã§ocuk oyuncaÄŸÄ±",
   "type": "dizi",
   "poster": "https://cizgivedizi.com/resim/%C3%87OOPoster.avif",
+  "plot": "YamalÄ± bir oyuncak tavÅŸan, sarkÄ±k kulaklarÄ± ve bÃ¶lÃ¼k pÃ¶rÃ§Ã¼k anÄ±larÄ±yla en iyi dostunu, yani Ã§ok sevdiÄŸi kÃ¼Ã§Ã¼k oÄŸlanÄ± bulmak Ã¼zere destansÄ± bir yolculuÄŸa Ã§Ä±kar.",
   "channel": "Netflix",
   "genres": [
     "Dram"
@@ -12,31 +13,31 @@
       "season": 1,
       "episode": 1,
       "title": "Ollie Is Lost",
-      "diziid": "%C3%A7oo",
+      "diziid": "Ã§oo",
       "bolum": "1",
       "url": "https://cizgivedizi.com/dizi/%C3%A7oo/cocuk_oyuncagi/1/ollie_kayboldu"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "The Quest",
-      "diziid": "%C3%A7oo",
+      "diziid": "Ã§oo",
       "bolum": "2",
       "url": "https://cizgivedizi.com/dizi/%C3%A7oo/cocuk_oyuncagi/2/seruven"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Bali Hai",
-      "diziid": "%C3%A7oo",
+      "diziid": "Ã§oo",
       "bolum": "3",
       "url": "https://cizgivedizi.com/dizi/%C3%A7oo/cocuk_oyuncagi/3/bali_hai"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Home",
-      "diziid": "%C3%A7oo",
+      "diziid": "Ã§oo",
       "bolum": "4",
       "url": "https://cizgivedizi.com/dizi/%C3%A7oo/cocuk_oyuncagi/4/ev"
     }

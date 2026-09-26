@@ -3,6 +3,7 @@
   "title": "star wars: visions",
   "type": "anime",
   "poster": "https://cizgivedizi.com/resim/SWVISPoster.avif",
+  "plot": "Antoloji dizisi, Star Wars mitolojisini kendilerine Ã¶zgÃ¼ tarzlarÄ±yla onurlandÄ±ran Japonyaâ€™nÄ±n efsanevi stÃ¼dyolarÄ±ndan dokuz yeni anime hikÃ¢yesiyle geri dÃ¶nÃ¼yor.",
   "channel": "Disney+",
   "genres": [
     "Aksiyon",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/1/duello"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Tatooine Rhapsody",
       "diziid": "swvis",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/2/tatooine_rapsodisi"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "The Twins",
       "diziid": "swvis",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/3/ikizler"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "The Village Bride",
       "diziid": "swvis",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/4/koyun_gelini"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "The Ninth Jedi",
       "diziid": "swvis",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/5/dokuzuncu_jedi"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "T0-B1",
       "diziid": "swvis",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/6/t0-b1"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "The Elder",
       "diziid": "swvis",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/7/yasli_adam"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Lop and OchÅ",
       "diziid": "swvis",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/8/lop_ve_ocho"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Akakiri",
       "diziid": "swvis",
@@ -82,8 +83,8 @@
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/9/akakiri"
     },
     {
-      "season": 1,
-      "episode": 10,
+      "season": 2,
+      "episode": 1,
       "title": "Sith",
       "diziid": "swvis",
       "bolum": "10",
@@ -91,79 +92,79 @@
     },
     {
       "season": 2,
-      "episode": 11,
+      "episode": 2,
       "title": "Screecher's Reach",
       "diziid": "swvis",
       "bolum": "11",
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/11/hortlak_magarasi"
     },
     {
-      "season": 3,
-      "episode": 12,
+      "season": 2,
+      "episode": 3,
       "title": "In the Stars",
       "diziid": "swvis",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/12/yildizlarda"
     },
     {
-      "season": 4,
-      "episode": 13,
+      "season": 2,
+      "episode": 4,
       "title": "I Am Your Mother",
       "diziid": "swvis",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/13/ben_senin_annenim"
     },
     {
-      "season": 5,
-      "episode": 14,
+      "season": 2,
+      "episode": 5,
       "title": "Journey to the Dark Head",
       "diziid": "swvis",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/14/karanlik_kafaya_yolculuk"
     },
     {
-      "season": 6,
-      "episode": 15,
+      "season": 2,
+      "episode": 6,
       "title": "The Spy Dancer",
       "diziid": "swvis",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/15/casus_dansci"
     },
     {
-      "season": 7,
-      "episode": 16,
+      "season": 2,
+      "episode": 7,
       "title": "The Bandits of Golak",
       "diziid": "swvis",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/16/golakin_haydutlari"
     },
     {
-      "season": 8,
-      "episode": 17,
+      "season": 2,
+      "episode": 8,
       "title": "The Pit",
       "diziid": "swvis",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/17/cukur"
     },
     {
-      "season": 9,
-      "episode": 18,
+      "season": 2,
+      "episode": 9,
       "title": "Aau's Song",
       "diziid": "swvis",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/18/aaunun_sarkisi"
     },
     {
-      "season": 1,
-      "episode": 19,
+      "season": 3,
+      "episode": 1,
       "title": "The Duel: Payback",
       "diziid": "swvis",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/19/duello%3A_odesme"
     },
     {
-      "season": 2,
-      "episode": 20,
+      "season": 3,
+      "episode": 2,
       "title": "The Song of Four Wings",
       "diziid": "swvis",
       "bolum": "20",
@@ -171,55 +172,55 @@
     },
     {
       "season": 3,
-      "episode": 21,
+      "episode": 3,
       "title": "The Ninth Jedi: Child of Hope",
       "diziid": "swvis",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/21/dokuzuncu_jedi%3A_umudun_cocugu"
     },
     {
-      "season": 4,
-      "episode": 22,
+      "season": 3,
+      "episode": 4,
       "title": "The Bounty Hunters",
       "diziid": "swvis",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/22/odul_avcilari"
     },
     {
-      "season": 5,
-      "episode": 23,
+      "season": 3,
+      "episode": 5,
       "title": "Yuko's Treasure",
       "diziid": "swvis",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/23/yukonun_hazinesi"
     },
     {
-      "season": 6,
-      "episode": 24,
+      "season": 3,
+      "episode": 6,
       "title": "The Lost Ones",
       "diziid": "swvis",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/24/kaybolanlar"
     },
     {
-      "season": 7,
-      "episode": 25,
+      "season": 3,
+      "episode": 7,
       "title": "The Smuggler",
       "diziid": "swvis",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/25/kacakci"
     },
     {
-      "season": 8,
-      "episode": 26,
+      "season": 3,
+      "episode": 8,
       "title": "The Bird of Paradise",
       "diziid": "swvis",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/swvis/star_wars%3A_visions/26/cennet_kusu"
     },
     {
-      "season": 9,
-      "episode": 27,
+      "season": 3,
+      "episode": 9,
       "title": "BLACK",
       "diziid": "swvis",
       "bolum": "27",

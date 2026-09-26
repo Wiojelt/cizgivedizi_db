@@ -3,6 +3,7 @@
   "title": "ben 10: uzaylÄ± gezegenleri",
   "type": "other",
   "poster": "https://cizgivedizi.com/resim/B10UGPoster.avif",
+  "plot": "Ben 10'in Omnitrix'inin 10 uzaylÄ± tÃ¼rÃ¼ tarafÄ±ndan ev olarak adlandÄ±rÄ±lan benzersiz ve tuhaf dÃ¼nyalarÄ±na bir gÃ¶z atÄ±yoruz.",
   "channel": "[HBO] Max",
   "genres": [],
   "episodes": [
@@ -15,7 +16,7 @@
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/1/dort_kol%3A_gladyator_oyunlari"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Diamondhead AW1: Great Petropian Civil War, Part I",
       "diziid": "b10ug",
@@ -23,7 +24,7 @@
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/2/elmas_kafa%3A_buyuk_petropya_ic_savasi_bolum_i"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Heatblast AW1: Extreme Season",
       "diziid": "b10ug",
@@ -31,7 +32,7 @@
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/3/ates_topu%3A_olaganustu_mevsim"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "XLR8 AW1: Gauntlet of Gliders",
       "diziid": "b10ug",
@@ -39,7 +40,7 @@
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/4/simsek_hiz%3A_gaunlet"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Grey Matter AW1: The Archivists",
       "diziid": "b10ug",
@@ -47,7 +48,7 @@
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/5/gri_madde%3A_arsivciler"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Overflow AW1: The Pirates of Cascareau",
       "diziid": "b10ug",
@@ -55,7 +56,7 @@
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/6/su_tanki%3A_cascareau_korsanlari"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Upgrade AW1: Crisis on Galvan B",
       "diziid": "b10ug",
@@ -63,7 +64,7 @@
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/7/guncelleme%3A_galvan_bde_kriz"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Wildvine AW1: Wild Siders",
       "diziid": "b10ug",
@@ -71,7 +72,7 @@
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/8/vahsi_asma%3A_vahsiler"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Cannonbolt AW1: Beach Ballers",
       "diziid": "b10ug",
@@ -79,7 +80,7 @@
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/9/yildirim_gulle%3A_kumsalcilar"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Stinkfly AW1: The Silent Circle",
       "diziid": "b10ug",
@@ -87,8 +88,8 @@
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/10/pulkanat%3A_sessiz_cember"
     },
     {
-      "season": 1,
-      "episode": 11,
+      "season": 2,
+      "episode": 1,
       "title": "Four Arms AW2: The Warspear",
       "diziid": "b10ug",
       "bolum": "11",
@@ -96,87 +97,87 @@
     },
     {
       "season": 2,
-      "episode": 12,
+      "episode": 2,
       "title": "Diamondhead AW2: Great Petropian Civil War, Part II",
       "diziid": "b10ug",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/12/elmas_kafa%3A_buyuk_petropya_ic_savasi_bolum_ii"
     },
     {
-      "season": 3,
-      "episode": 13,
+      "season": 2,
+      "episode": 3,
       "title": "Heatblast AW2: Cold Snap",
       "diziid": "b10ug",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/13/ates_topu%3A_soguk_anlar"
     },
     {
-      "season": 4,
-      "episode": 14,
+      "season": 2,
+      "episode": 4,
       "title": "XLR8 AW2: Speed Round",
       "diziid": "b10ug",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/14/simsek_hiz%3A_hizli_tur"
     },
     {
-      "season": 5,
-      "episode": 15,
+      "season": 2,
+      "episode": 5,
       "title": "Grey Matter AW2: Lights Out!",
       "diziid": "b10ug",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/15/gri_madde%3A_isiklar_sonsun%21"
     },
     {
-      "season": 6,
-      "episode": 16,
+      "season": 2,
+      "episode": 6,
       "title": "Overflow AW2: Sentries of Cascareau",
       "diziid": "b10ug",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/16/su_tanki%3A_cascareaunun_nobetcileri"
     },
     {
-      "season": 7,
-      "episode": 17,
+      "season": 2,
+      "episode": 7,
       "title": "Shock Rock AW2: Fulmanian Conquest",
       "diziid": "b10ug",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/17/sokkaya%3A_fulmanian_fethi"
     },
     {
-      "season": 8,
-      "episode": 18,
+      "season": 2,
+      "episode": 8,
       "title": "Wildvine AW2: The Worldtree",
       "diziid": "b10ug",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/18/vahsi_asma%3A_dunya_agaci"
     },
     {
-      "season": 9,
-      "episode": 19,
+      "season": 2,
+      "episode": 9,
       "title": "Cannonbolt AW2: When Mega-Shark Attack!",
       "diziid": "b10ug",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/19/yildirim_gulle%3A_mega_kopekbaliklari_saldirdiginda%21"
     },
     {
-      "season": 10,
-      "episode": 20,
+      "season": 2,
+      "episode": 10,
       "title": "Stinkfly AW2: The Sweet Smell of Survival",
       "diziid": "b10ug",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/20/pulkanat%3A_hayatta_kalmanin_tatli_kokusu"
     },
     {
-      "season": 1,
-      "episode": 21,
+      "season": 3,
+      "episode": 1,
       "title": "Four Arms AW3: The Stenching Cometh",
       "diziid": "b10ug",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/21/dort_kol%3A_stenchening_geliyor"
     },
     {
-      "season": 2,
-      "episode": 22,
+      "season": 3,
+      "episode": 2,
       "title": "Diamondhead AW3: Enemies Unite",
       "diziid": "b10ug",
       "bolum": "22",
@@ -184,63 +185,63 @@
     },
     {
       "season": 3,
-      "episode": 23,
+      "episode": 3,
       "title": "Heatblast AW3: The Fast and the Fiery",
       "diziid": "b10ug",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/23/ates_topu%3A_hizli_ve_atesli"
     },
     {
-      "season": 4,
-      "episode": 24,
+      "season": 3,
+      "episode": 4,
       "title": "XLR8 AW3: The Slow Age",
       "diziid": "b10ug",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/24/simsek_hiz%3A_yavas_cag"
     },
     {
-      "season": 5,
-      "episode": 25,
+      "season": 3,
+      "episode": 5,
       "title": "Slapback AW3: Population Override",
       "diziid": "b10ug",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/25/bol-gec%3A_nufus_gecersiz_kilma"
     },
     {
-      "season": 6,
-      "episode": 26,
+      "season": 3,
+      "episode": 6,
       "title": "Humungousaur AW3: Planetary Pin",
       "diziid": "b10ug",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/26/insanazor%3A_gezegen_pimi"
     },
     {
-      "season": 7,
-      "episode": 27,
+      "season": 3,
+      "episode": 7,
       "title": "Shock Rock AW3: Spaceships in the Night",
       "diziid": "b10ug",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/27/sokkaya%3A_gecenin_icindeki_uzay_gemileri"
     },
     {
-      "season": 8,
-      "episode": 28,
+      "season": 3,
+      "episode": 8,
       "title": "Rath AW3: Endless Party Planet",
       "diziid": "b10ug",
       "bolum": "28",
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/28/rath%3A_sonsuz_parti_gezegeni"
     },
     {
-      "season": 9,
-      "episode": 29,
+      "season": 3,
+      "episode": 9,
       "title": "Cannonbolt AW3: Beach Bro Brouhaha",
       "diziid": "b10ug",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/b10ug/ben_10%3A_uzayli_gezegenleri/29/yildirim_gulle%3A_beach_bro_brouhaha"
     },
     {
-      "season": 10,
-      "episode": 30,
+      "season": 3,
+      "episode": 10,
       "title": "Stinkfly AW3: Strange Snow",
       "diziid": "b10ug",
       "bolum": "30",

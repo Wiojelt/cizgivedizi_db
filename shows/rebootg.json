@@ -3,6 +3,7 @@
   "title": "reboot: guardian code",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/REBOOTGPoster.avif",
+  "plot": "Teknoloji tutkunu dÃ¶rt genÃ§, dÃ¼nyayÄ± kurtarmak iÃ§in bir dizi gizli gÃ¶revde siber sÃ¼per kahramanlÄ±k yeteneklerinden yararlanÄ±r.",
   "channel": "Netflix",
   "genres": [
     "Bilim Kurgu",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/rebootg/reboot%3A_guardian_code/1/aktivasyon"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Resurrection",
       "diziid": "rebootg",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/rebootg/reboot%3A_guardian_code/2/dirilis"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Fortress Command",
       "diziid": "rebootg",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/rebootg/reboot%3A_guardian_code/3/kale_komutasi"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Catastrophic",
       "diziid": "rebootg",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/rebootg/reboot%3A_guardian_code/4/virus_fela-kedi"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Discoveries",
       "diziid": "rebootg",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/rebootg/reboot%3A_guardian_code/5/kesifler"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Emotional Rescue",
       "diziid": "rebootg",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/rebootg/reboot%3A_guardian_code/6/duygusal_yardim"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Game Day",
       "diziid": "rebootg",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/rebootg/reboot%3A_guardian_code/7/mac_gunu"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Artificial Intelligence",
       "diziid": "rebootg",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/rebootg/reboot%3A_guardian_code/8/yapay_zeka"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Datastorm",
       "diziid": "rebootg",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/rebootg/reboot%3A_guardian_code/9/veri_firtinasi"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Mainframe Mayhem",
       "diziid": "rebootg",
@@ -90,8 +91,8 @@
       "url": "https://cizgivedizi.com/dizi/rebootg/reboot%3A_guardian_code/10/ana_bilgisayarda_kargasa"
     },
     {
-      "season": 1,
-      "episode": 11,
+      "season": 2,
+      "episode": 1,
       "title": "Network Interference",
       "diziid": "rebootg",
       "bolum": "11",
@@ -99,71 +100,71 @@
     },
     {
       "season": 2,
-      "episode": 12,
+      "episode": 2,
       "title": "Zombie Army",
       "diziid": "rebootg",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/rebootg/reboot%3A_guardian_code/12/zombi_ordusu"
     },
     {
-      "season": 3,
-      "episode": 13,
+      "season": 2,
+      "episode": 3,
       "title": "Bee-Ware",
       "diziid": "rebootg",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/rebootg/reboot%3A_guardian_code/13/arilara_dikkat%21"
     },
     {
-      "season": 4,
-      "episode": 14,
+      "season": 2,
+      "episode": 4,
       "title": "Share Scare",
       "diziid": "rebootg",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/rebootg/reboot%3A_guardian_code/14/paylasim_panigi"
     },
     {
-      "season": 5,
-      "episode": 15,
+      "season": 2,
+      "episode": 5,
       "title": "Nuclear Confusion",
       "diziid": "rebootg",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/rebootg/reboot%3A_guardian_code/15/nukleer_karmasa"
     },
     {
-      "season": 6,
-      "episode": 16,
+      "season": 2,
+      "episode": 6,
       "title": "Double Trouble",
       "diziid": "rebootg",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/rebootg/reboot%3A_guardian_code/16/cifte_bela"
     },
     {
-      "season": 7,
-      "episode": 17,
+      "season": 2,
+      "episode": 7,
       "title": "Mega-Viral",
       "diziid": "rebootg",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/rebootg/reboot%3A_guardian_code/17/mega_viral"
     },
     {
-      "season": 8,
-      "episode": 18,
+      "season": 2,
+      "episode": 8,
       "title": "Great Escapes",
       "diziid": "rebootg",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/rebootg/reboot%3A_guardian_code/18/buyuk_kacis"
     },
     {
-      "season": 9,
-      "episode": 19,
+      "season": 2,
+      "episode": 9,
       "title": "Identity Theft",
       "diziid": "rebootg",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/rebootg/reboot%3A_guardian_code/19/kimlik_hirsizligi"
     },
     {
-      "season": 10,
-      "episode": 20,
+      "season": 2,
+      "episode": 10,
       "title": "Black Hole",
       "diziid": "rebootg",
       "bolum": "20",

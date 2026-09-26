@@ -3,6 +3,7 @@
   "title": "carmen sandiego",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/CARMENPoster.avif",
+  "plot": "Yeteneklerini iyilik iÃ§in kullanan usta bir hÄ±rsÄ±z olan Carmen Sandiego, dÃ¼nyayÄ± dolaÅŸÄ±r ve bilgili yardÄ±mcÄ±larÄ±nÄ±n desteÄŸiyle V.I.L.E.'Ä±n kÃ¶tÃ¼cÃ¼l planlarÄ±nÄ± bozar.",
   "channel": "Netflix",
   "genres": [
     "SuÃ§/Polisiye",
@@ -19,7 +20,7 @@
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/1/carmen_sandiego_olmak%3A_kisim_i"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Becoming Carmen Sandiego: Part II",
       "diziid": "carmen",
@@ -27,7 +28,7 @@
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/2/carmen_sandiego_olmak%3A_kisim_ii"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "The Sticky Rice Caper",
       "diziid": "carmen",
@@ -35,7 +36,7 @@
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/3/yapiskan_pirinc_hirsizligi"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "The Fishy Doubloon Caper",
       "diziid": "carmen",
@@ -43,7 +44,7 @@
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/4/supheli_altin_para_hirsizligi"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "The Duke of Vermeer Caper",
       "diziid": "carmen",
@@ -51,7 +52,7 @@
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/5/vermeer_duku_hirsizligi"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "The Opera in the Outback Caper",
       "diziid": "carmen",
@@ -59,7 +60,7 @@
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/6/outbackte_opera_hirsizligi"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "The Chasing Paper Caper",
       "diziid": "carmen",
@@ -67,7 +68,7 @@
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/7/takip_eden_kagit_hirsizligi"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "The Lucky Cat Caper",
       "diziid": "carmen",
@@ -75,7 +76,7 @@
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/8/sansli_kedi_hirsizligi"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "The French Connection Caper",
       "diziid": "carmen",
@@ -83,8 +84,8 @@
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/9/fransiz_baglanti_hirsizligi"
     },
     {
-      "season": 1,
-      "episode": 10,
+      "season": 2,
+      "episode": 1,
       "title": "The Hot Rocks of Rio Caper, Part 1",
       "diziid": "carmen",
       "bolum": "10",
@@ -92,87 +93,87 @@
     },
     {
       "season": 2,
-      "episode": 11,
+      "episode": 2,
       "title": "The Hot Rocks of Rio Caper, Part 2",
       "diziid": "carmen",
       "bolum": "11",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/11/rioda_belali_tas_hirsizligi%2C_kisim_2"
     },
     {
-      "season": 3,
-      "episode": 12,
+      "season": 2,
+      "episode": 3,
       "title": "The Daisho Caper",
       "diziid": "carmen",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/12/daisho_hirsizligi"
     },
     {
-      "season": 4,
-      "episode": 13,
+      "season": 2,
+      "episode": 4,
       "title": "The Fashionista Caper",
       "diziid": "carmen",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/13/moda_tutkunu_hirsizligi"
     },
     {
-      "season": 5,
-      "episode": 14,
+      "season": 2,
+      "episode": 5,
       "title": "The Boston Tea Party Caper",
       "diziid": "carmen",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/14/boston_cay_partisi_hirsizligi"
     },
     {
-      "season": 6,
-      "episode": 15,
+      "season": 2,
+      "episode": 6,
       "title": "The Need for Speed Caper",
       "diziid": "carmen",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/15/hiz_tutkusu_hirsizligi"
     },
     {
-      "season": 7,
-      "episode": 16,
+      "season": 2,
+      "episode": 7,
       "title": "The Crackle Goes Kiwi Caper",
       "diziid": "carmen",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/16/avustralyali_crackle_hirsizligi"
     },
     {
-      "season": 8,
-      "episode": 17,
+      "season": 2,
+      "episode": 8,
       "title": "The Stockholm Syndrome Caper",
       "diziid": "carmen",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/17/stockholm_sendromu_hirsizligi"
     },
     {
-      "season": 9,
-      "episode": 18,
+      "season": 2,
+      "episode": 9,
       "title": "The African Ice Caper",
       "diziid": "carmen",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/18/afrikada_elmas_hirsizligi"
     },
     {
-      "season": 10,
-      "episode": 19,
+      "season": 2,
+      "episode": 10,
       "title": "The Deep Dive Caper",
       "diziid": "carmen",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/19/derin_dalis_hirsizligi"
     },
     {
-      "season": 1,
-      "episode": 20,
+      "season": 3,
+      "episode": 1,
       "title": "The Luchadora Tango Caper",
       "diziid": "carmen",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/20/luchadora_tango_hirsizligi"
     },
     {
-      "season": 2,
-      "episode": 21,
+      "season": 3,
+      "episode": 2,
       "title": "The Day of the Dead Caper",
       "diziid": "carmen",
       "bolum": "21",
@@ -180,47 +181,47 @@
     },
     {
       "season": 3,
-      "episode": 22,
+      "episode": 3,
       "title": "The Haunted Bayou Caper",
       "diziid": "carmen",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/22/perili_bataklik_hirsizligi"
     },
     {
-      "season": 4,
-      "episode": 23,
+      "season": 3,
+      "episode": 4,
       "title": "The Masks of Venice Caper",
       "diziid": "carmen",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/23/venedik_maskeleri_hirsizligi"
     },
     {
-      "season": 5,
-      "episode": 24,
+      "season": 3,
+      "episode": 5,
       "title": "The Jolly Good Show Caper",
       "diziid": "carmen",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/24/pek_guzel_bir_sov_hirsizligi"
     },
     {
-      "season": 1,
-      "episode": 25,
+      "season": 4,
+      "episode": 1,
       "title": "The Beijing Bullion Caper",
       "diziid": "carmen",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/25/pekinde_altin_hirsizligi"
     },
     {
-      "season": 2,
-      "episode": 26,
+      "season": 4,
+      "episode": 2,
       "title": "The Big Bad Ivy Caper",
       "diziid": "carmen",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/26/belali_ivy_hirsizligi"
     },
     {
-      "season": 3,
-      "episode": 27,
+      "season": 4,
+      "episode": 3,
       "title": "The Robo Caper",
       "diziid": "carmen",
       "bolum": "27",
@@ -228,39 +229,39 @@
     },
     {
       "season": 4,
-      "episode": 28,
+      "episode": 4,
       "title": "The Himalayan Rescue Caper",
       "diziid": "carmen",
       "bolum": "28",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/28/himalayalarda_kurtaris_hirsizligi"
     },
     {
-      "season": 5,
-      "episode": 29,
+      "season": 4,
+      "episode": 5,
       "title": "The V.I.L.E. History Caper",
       "diziid": "carmen",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/29/v.i.l.e._tarihinde_yolculuk_hirsizligi"
     },
     {
-      "season": 6,
-      "episode": 30,
+      "season": 4,
+      "episode": 6,
       "title": "The Egyptian Decryption Caper",
       "diziid": "carmen",
       "bolum": "30",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/30/misirda_sifre_kirma_hirsizligi"
     },
     {
-      "season": 7,
-      "episode": 31,
+      "season": 4,
+      "episode": 7,
       "title": "The Viennese Waltz Caper",
       "diziid": "carmen",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/carmen/carmen_sandiego/31/viyana_valsi_hirsizligi"
     },
     {
-      "season": 8,
-      "episode": 32,
+      "season": 4,
+      "episode": 8,
       "title": "The Dark Red Caper",
       "diziid": "carmen",
       "bolum": "32",

@@ -3,6 +3,7 @@
   "title": "roket maymunlar",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/ROKMPoster.avif",
+  "plot": "Gizemli kara delikler, kÃ¶tÃ¼ uzaylÄ±lar ve aÃ§Ä±klanamayan olaylar ortaya Ã§Ä±ktÄ±ÄŸÄ±nda, evrenin en cesur ve en zeki varlÄ±klarÄ±n yardÄ±mÄ±na ihtiyacÄ± vardÄ±r. Ancak hepsi meÅŸgul olduÄŸunda, tek alternâ€¦",
   "channel": "Nickelodeon",
   "genres": [
     "Aksiyon",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/1/ben_bir_muz_degilim__kor-komik"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Inspection Day/Tail Fail",
       "diziid": "rokm",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/2/teftis_gunu__kuyruk_faciasi"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Bro to Bro/Trick or Trixie",
       "diziid": "rokm",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/3/kardes_kardese__saka_ya_da_sakaci"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "My Dad-Bot, the Doom-Bot/Monkey Mitts!",
       "diziid": "rokm",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/4/baba_robotun_kiyamet_robotu__maymun_eldiveni"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Not Lord Peel!/Once Upon a Monkey",
       "diziid": "rokm",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/5/lord_peel_degil__bir_zamanlar_maymun"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Love on the Run/Monkey Hearts",
       "diziid": "rokm",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/6/firari_ask__maymun_kalbi"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Tail of the Unexpected/Golden Nugglets",
       "diziid": "rokm",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/7/beklenmeyenin_kuyrugu__altin_nuggetlar"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Zombie Bananas/I'm Yay-Ok You're Not Yay-Ok",
       "diziid": "rokm",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/8/zombi_muzlar__ben_yay-okim_sen_yay-ok_degilsin"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "When Garbage Revolts/Monkeys vs. Gorillas",
       "diziid": "rokm",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/9/copler_ayaklandiginda__maymunlar_gorillere_karsi"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "B.A.L.L./Ukulele Wally",
       "diziid": "rokm",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/10/top_oyunu__ukulele_aski"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Princess Nefarious/Home on the Strange",
       "diziid": "rokm",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/11/prenses_nefarious__tuhaflik_evi"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Space Out!/Monkey See, Monkey Do Better",
       "diziid": "rokm",
@@ -106,7 +107,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/12/gezegen_disi__maymun_anlar%2C_daha_iyisini_yapar"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "Bro or Joel/There's No Business Like Monkey Business",
       "diziid": "rokm",
@@ -114,7 +115,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/13/kardes_ya_da_joel__maymun_isleri_gibisi_yoktur"
     },
     {
-      "season": 15,
+      "season": 1,
       "episode": 14,
       "title": "Banana Ghosts/One and a Half Friends",
       "diziid": "rokm",
@@ -122,7 +123,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/15/muz_hayaletleri__bir_bucuk_arkadas"
     },
     {
-      "season": 16,
+      "season": 1,
       "episode": 15,
       "title": "Robot Plague/May the Best Monkey Win",
       "diziid": "rokm",
@@ -130,7 +131,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/16/robot_salgini__en_iyi_maymun_kazansin"
     },
     {
-      "season": 17,
+      "season": 1,
       "episode": 16,
       "title": "The Chimpsky Dimension/License to Monkey Around",
       "diziid": "rokm",
@@ -138,7 +139,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/17/chimpsky_boyutu__maymunluk_yapma_izni"
     },
     {
-      "season": 18,
+      "season": 1,
       "episode": 17,
       "title": "My Bully Bot/Switch Day",
       "diziid": "rokm",
@@ -146,7 +147,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/18/zorba_robot__degisim_gunu"
     },
     {
-      "season": 19,
+      "season": 1,
       "episode": 18,
       "title": "Flearoy/The Inventor",
       "diziid": "rokm",
@@ -154,7 +155,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/19/bit_roy__mucit"
     },
     {
-      "season": 20,
+      "season": 1,
       "episode": 19,
       "title": "Party Planet/Spacey Cake",
       "diziid": "rokm",
@@ -162,7 +163,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/20/parti_gezegeni__uzay_pastasi"
     },
     {
-      "season": 21,
+      "season": 1,
       "episode": 20,
       "title": "Welcome to Inky Mart/Eggs and Breakin",
       "diziid": "rokm",
@@ -170,7 +171,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/21/inky-marta_hos_geldiniz__yumurtalar_ve_kirilma"
     },
     {
-      "season": 23,
+      "season": 1,
       "episode": 21,
       "title": "Squidsgiving/Rocket Mommy",
       "diziid": "rokm",
@@ -178,7 +179,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/23/kalamar_gunu__roket_anne"
     },
     {
-      "season": 24,
+      "season": 1,
       "episode": 22,
       "title": "Big Bro Rules/Monkey Too Young",
       "diziid": "rokm",
@@ -186,7 +187,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/24/agabey_hakli__cok_genc_maymun"
     },
     {
-      "season": 25,
+      "season": 1,
       "episode": 23,
       "title": "Sidekicked/Wedding Smashers",
       "diziid": "rokm",
@@ -194,7 +195,7 @@
       "url": "https://cizgivedizi.com/dizi/rokm/roket_maymunlar/25/kader_arkadasi__dugun_dagitanlar"
     },
     {
-      "season": 26,
+      "season": 1,
       "episode": 24,
       "title": "Happy Gus Day/Monkey Proof",
       "diziid": "rokm",

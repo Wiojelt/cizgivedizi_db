@@ -3,6 +3,7 @@
   "title": "zenko takÄ±mÄ±",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/ZENKOPoster.avif",
+  "plot": "Ne kadar kÃ¼Ã§Ã¼k olursa olsun iyilik iyiliktir! Niah, Ari, Ellie ve Jax adlÄ± nazik Ã§ocuklar gizlice insanlara yardÄ±m ediyor ve kasabalarÄ±nÄ±n sorunlarÄ±nÄ± Ã§Ã¶zÃ¼yor!",
   "channel": "Netflix",
   "genres": [
     "Macera"
@@ -17,7 +18,7 @@
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/1/ahenk_limanina_hos_geldiniz_1._kisim__ahenk_limanina_hos_geldiniz_2._kisim"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Delivery Disaster / Slippery Business",
       "diziid": "zenko",
@@ -25,7 +26,7 @@
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/2/kargo_karmasasi__kaygan_konular"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "You (Don't) Snooze, You Lose / Save the Squasher",
       "diziid": "zenko",
@@ -33,7 +34,7 @@
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/3/erteleme%2C_kaybetme__kabak_adami_kurtar"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Gopher It / A Glamping We Will Go",
       "diziid": "zenko",
@@ -41,7 +42,7 @@
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/4/tarla_sincaplamak__luks_kampa_gidiyoruz"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "The Amazing Donna / Bye, Bye Boardie",
       "diziid": "zenko",
@@ -49,7 +50,7 @@
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/5/muhtesem_donna__hosca_kal_boardie"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Lula's Last Stand / Triple Trouble",
       "diziid": "zenko",
@@ -57,7 +58,7 @@
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/6/lulanin_limonata_standi__ucuz_puruz"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Pet Project / Mission Improbable",
       "diziid": "zenko",
@@ -65,7 +66,7 @@
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/7/sahiplenmeler__gorevimiz_imkansiz"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "An Inconvenient Tooth / Up, Up and Away",
       "diziid": "zenko",
@@ -73,7 +74,7 @@
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/8/zahmetli_dis__uc_uc_uzaga"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Lost and Found / In the Park After Dark",
       "diziid": "zenko",
@@ -81,7 +82,7 @@
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/9/kayipti_bulundu__karanlikta_parkta"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Longest Yardwork / The Girl Who Cried Goose",
       "diziid": "zenko",
@@ -89,7 +90,7 @@
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/10/bitmeyen_bahce__kaz_diye_bagiran_kiz"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Tanaka's Moving Castle / Zenko Don't Go",
       "diziid": "zenko",
@@ -97,7 +98,7 @@
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/11/tanaka_kalesini_tasiyor__sen_kal_zenko"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Driven to Distraction / To Bee or Not To Bee",
       "diziid": "zenko",
@@ -105,8 +106,8 @@
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/12/dikkati_daginik__arim_balim_petegim"
     },
     {
-      "season": 1,
-      "episode": 13,
+      "season": 2,
+      "episode": 1,
       "title": "Photo Day Disaster / The Eightful Eight",
       "diziid": "zenko",
       "bolum": "13",
@@ -114,71 +115,71 @@
     },
     {
       "season": 2,
-      "episode": 14,
+      "episode": 2,
       "title": "Robo-Dog Day Afternoon / Spoiler Alert",
       "diziid": "zenko",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/14/robo-kopeklerin_gunu__spoiler_alarmi"
     },
     {
-      "season": 3,
-      "episode": 15,
+      "season": 2,
+      "episode": 3,
       "title": "Rodney J. Dinkle, Babysitter / Lights Out",
       "diziid": "zenko",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/15/rodney_j._dinkle%2C_bebek_bakicisi__isiklar_sondu"
     },
     {
-      "season": 4,
-      "episode": 16,
+      "season": 2,
+      "episode": 4,
       "title": "Double Booked / Gym Enemy Cricket",
       "diziid": "zenko",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/16/cifte_rezervasyon__sabotajci_cekirge"
     },
     {
-      "season": 5,
-      "episode": 17,
+      "season": 2,
+      "episode": 5,
       "title": "Harmony Harbor Holiday Surprise",
       "diziid": "zenko",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/17/ahenk_limaninin_tatil_surprizi"
     },
     {
-      "season": 6,
-      "episode": 18,
+      "season": 2,
+      "episode": 6,
       "title": "The Big Sleepwalk / Of Course You Can",
       "diziid": "zenko",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/18/derin_uyurgezer__basarabilirsin"
     },
     {
-      "season": 7,
-      "episode": 19,
+      "season": 2,
+      "episode": 7,
       "title": "Rodney the Hero / Club Shed",
       "diziid": "zenko",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/19/kahraman_rodney__kulup_kulubesi"
     },
     {
-      "season": 8,
-      "episode": 20,
+      "season": 2,
+      "episode": 8,
       "title": "It Takes a Zenko / What a Racket",
       "diziid": "zenko",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/20/zenko_gerek__muthis_raket"
     },
     {
-      "season": 9,
-      "episode": 21,
+      "season": 2,
+      "episode": 9,
       "title": "The Great Paper Chase / Home Is Where Ken's Heart Is",
       "diziid": "zenko",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/zenko/zenko_takimi/21/kagit_takibi__yuvam%2C_sevdiklerimin_oldugu_yerdir"
     },
     {
-      "season": 10,
-      "episode": 22,
+      "season": 2,
+      "episode": 10,
       "title": "That Stinking Feeling / Go for the Gold",
       "diziid": "zenko",
       "bolum": "22",

@@ -3,6 +3,7 @@
   "title": "south park",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/SOUTHPoster.avif",
+  "plot": "Colorado'nun sakin ama dÃ¼zensiz kasabasÄ± South Park'ta, saygÄ±sÄ±z dÃ¶rt ilkokul Ã¶ÄŸrencisinin baÅŸÄ±na gelen Ã§Ä±lgÄ±n maceralarÄ± takip edin.",
   "channel": "Bilinmiyor",
   "genres": [
     "Komedi",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/south/south_park/210/humancentipad"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Funnybot",
       "diziid": "south",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/south/south_park/211/komikbot"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Royal Pudding",
       "diziid": "south",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/south/south_park/212/kraliyet_pudingi"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "T.M.I.",
       "diziid": "south",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/south/south_park/213/cok_fazla_bilgi"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Crack Baby Athletic Association",
       "diziid": "south",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/south/south_park/214/catlak_bebek_atletik_dernegi"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "City Sushi",
       "diziid": "south",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/south/south_park/215/sehir_susisi"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "You're Getting Old",
       "diziid": "south",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/south/south_park/216/yaslaniyorsun"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Ass Burgers",
       "diziid": "south",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/south/south_park/217/kic_burgerleri"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "The Last of the Meheecans",
       "diziid": "south",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/south/south_park/218/meheecanlarin_sonuncusu"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Bass to Mouth",
       "diziid": "south",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/south/south_park/219/hacker"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Broadway Bro Down",
       "diziid": "south",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/south/south_park/220/broadway_kardes_dustu"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "1%",
       "diziid": "south",
@@ -106,7 +107,7 @@
       "url": "https://cizgivedizi.com/dizi/south/south_park/221/%251"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "A History Channel Thanksgiving",
       "diziid": "south",
@@ -114,7 +115,7 @@
       "url": "https://cizgivedizi.com/dizi/south/south_park/222/bir_tarih_kanali_sukran_gunu"
     },
     {
-      "season": 14,
+      "season": 1,
       "episode": 14,
       "title": "The Poor Kid",
       "diziid": "south",
@@ -122,8 +123,8 @@
       "url": "https://cizgivedizi.com/dizi/south/south_park/223/zavalli_cocuk"
     },
     {
-      "season": 1,
-      "episode": 15,
+      "season": 2,
+      "episode": 1,
       "title": "Reverse Cowgirl",
       "diziid": "south",
       "bolum": "224",
@@ -131,103 +132,103 @@
     },
     {
       "season": 2,
-      "episode": 16,
+      "episode": 2,
       "title": "Cash for Gold",
       "diziid": "south",
       "bolum": "225",
       "url": "https://cizgivedizi.com/dizi/south/south_park/225/altin_karsiliginda_nakit"
     },
     {
-      "season": 3,
-      "episode": 17,
+      "season": 2,
+      "episode": 3,
       "title": "Faith Hilling",
       "diziid": "south",
       "bolum": "226",
       "url": "https://cizgivedizi.com/dizi/south/south_park/226/inanc_tepesi"
     },
     {
-      "season": 4,
-      "episode": 18,
+      "season": 2,
+      "episode": 4,
       "title": "Jewpacabra",
       "diziid": "south",
       "bolum": "227",
       "url": "https://cizgivedizi.com/dizi/south/south_park/227/yahudipakabra"
     },
     {
-      "season": 5,
-      "episode": 19,
+      "season": 2,
+      "episode": 5,
       "title": "Butterballs",
       "diziid": "south",
       "bolum": "228",
       "url": "https://cizgivedizi.com/dizi/south/south_park/228/zorbalik"
     },
     {
-      "season": 6,
-      "episode": 20,
+      "season": 2,
+      "episode": 6,
       "title": "I Should Have Never Gone Ziplining",
       "diziid": "south",
       "bolum": "229",
       "url": "https://cizgivedizi.com/dizi/south/south_park/229/hicbir_zaman_ziplining_yapmamaliydim"
     },
     {
-      "season": 7,
-      "episode": 21,
+      "season": 2,
+      "episode": 7,
       "title": "Cartman Finds Love",
       "diziid": "south",
       "bolum": "230",
       "url": "https://cizgivedizi.com/dizi/south/south_park/230/cartman_aski_buluyor"
     },
     {
-      "season": 9,
-      "episode": 22,
+      "season": 2,
+      "episode": 8,
       "title": "Raising the Bar",
       "diziid": "south",
       "bolum": "232",
       "url": "https://cizgivedizi.com/dizi/south/south_park/232/citayi_yukseltmek"
     },
     {
-      "season": 10,
-      "episode": 23,
+      "season": 2,
+      "episode": 9,
       "title": "Insecurity",
       "diziid": "south",
       "bolum": "233",
       "url": "https://cizgivedizi.com/dizi/south/south_park/233/guvensizlik"
     },
     {
-      "season": 11,
-      "episode": 24,
+      "season": 2,
+      "episode": 10,
       "title": "Going Native",
       "diziid": "south",
       "bolum": "234",
       "url": "https://cizgivedizi.com/dizi/south/south_park/234/yerliye_donus"
     },
     {
-      "season": 12,
-      "episode": 25,
+      "season": 2,
+      "episode": 11,
       "title": "A Nightmare on FaceTime",
       "diziid": "south",
       "bolum": "235",
       "url": "https://cizgivedizi.com/dizi/south/south_park/235/facetimeda_bir_kabus"
     },
     {
-      "season": 14,
-      "episode": 26,
+      "season": 2,
+      "episode": 12,
       "title": "Obama Wins!",
       "diziid": "south",
       "bolum": "237",
       "url": "https://cizgivedizi.com/dizi/south/south_park/237/obama_kazandi%21"
     },
     {
-      "season": 1,
-      "episode": 27,
+      "season": 3,
+      "episode": 1,
       "title": "Let Go, Let Gov",
       "diziid": "south",
       "bolum": "238",
       "url": "https://cizgivedizi.com/dizi/south/south_park/238/birakin%2C_hukumeti_birakin"
     },
     {
-      "season": 2,
-      "episode": 28,
+      "season": 3,
+      "episode": 2,
       "title": "Informative Murder Porn",
       "diziid": "south",
       "bolum": "239",
@@ -235,79 +236,79 @@
     },
     {
       "season": 3,
-      "episode": 29,
+      "episode": 3,
       "title": "World War Zimmerman",
       "diziid": "south",
       "bolum": "240",
       "url": "https://cizgivedizi.com/dizi/south/south_park/240/dunya_savasi_zimmerman"
     },
     {
-      "season": 4,
-      "episode": 30,
+      "season": 3,
+      "episode": 4,
       "title": "Goth Kids 3: Dawn of the Posers",
       "diziid": "south",
       "bolum": "241",
       "url": "https://cizgivedizi.com/dizi/south/south_park/241/gotik_cocuklar_3%3A_pozcularin_safagi"
     },
     {
-      "season": 5,
-      "episode": 31,
+      "season": 3,
+      "episode": 5,
       "title": "Taming Strange",
       "diziid": "south",
       "bolum": "242",
       "url": "https://cizgivedizi.com/dizi/south/south_park/242/tuhafligi_evcillestirmek"
     },
     {
-      "season": 7,
-      "episode": 32,
+      "season": 3,
+      "episode": 6,
       "title": "Black Friday",
       "diziid": "south",
       "bolum": "244",
       "url": "https://cizgivedizi.com/dizi/south/south_park/244/kara_cuma"
     },
     {
-      "season": 8,
-      "episode": 33,
+      "season": 3,
+      "episode": 7,
       "title": "A Song of Ass and Fire",
       "diziid": "south",
       "bolum": "245",
       "url": "https://cizgivedizi.com/dizi/south/south_park/245/esek_ve_atesin_sarkisi"
     },
     {
-      "season": 9,
-      "episode": 34,
+      "season": 3,
+      "episode": 8,
       "title": "Titties and Dragons",
       "diziid": "south",
       "bolum": "246",
       "url": "https://cizgivedizi.com/dizi/south/south_park/246/memeler_ve_ejderhalar"
     },
     {
-      "season": 10,
-      "episode": 35,
+      "season": 3,
+      "episode": 9,
       "title": "The Hobbit",
       "diziid": "south",
       "bolum": "247",
       "url": "https://cizgivedizi.com/dizi/south/south_park/247/hobbit"
     },
     {
-      "season": 1,
-      "episode": 36,
+      "season": 4,
+      "episode": 1,
       "title": "Go Fund Yourself",
       "diziid": "south",
       "bolum": "248",
       "url": "https://cizgivedizi.com/dizi/south/south_park/248/kendinizi_finanse_edin"
     },
     {
-      "season": 2,
-      "episode": 37,
+      "season": 4,
+      "episode": 2,
       "title": "Gluten Free Ebola",
       "diziid": "south",
       "bolum": "249",
       "url": "https://cizgivedizi.com/dizi/south/south_park/249/glutensiz_ebola"
     },
     {
-      "season": 3,
-      "episode": 38,
+      "season": 4,
+      "episode": 3,
       "title": "The Cissy",
       "diziid": "south",
       "bolum": "250",
@@ -315,87 +316,87 @@
     },
     {
       "season": 4,
-      "episode": 39,
+      "episode": 4,
       "title": "Handicar",
       "diziid": "south",
       "bolum": "251",
       "url": "https://cizgivedizi.com/dizi/south/south_park/251/handicar"
     },
     {
-      "season": 5,
-      "episode": 40,
+      "season": 4,
+      "episode": 5,
       "title": "The Magic Bush",
       "diziid": "south",
       "bolum": "252",
       "url": "https://cizgivedizi.com/dizi/south/south_park/252/sihirli_cali"
     },
     {
-      "season": 6,
-      "episode": 41,
+      "season": 4,
+      "episode": 6,
       "title": "Freemium Isn't Free",
       "diziid": "south",
       "bolum": "253",
       "url": "https://cizgivedizi.com/dizi/south/south_park/253/bedavamium_ucretsiz_degildir"
     },
     {
-      "season": 7,
-      "episode": 42,
+      "season": 4,
+      "episode": 7,
       "title": "Grounded Vindaloop",
       "diziid": "south",
       "bolum": "254",
       "url": "https://cizgivedizi.com/dizi/south/south_park/254/topraklanmis_vindaloop"
     },
     {
-      "season": 8,
-      "episode": 43,
+      "season": 4,
+      "episode": 8,
       "title": "Cock Magic",
       "diziid": "south",
       "bolum": "255",
       "url": "https://cizgivedizi.com/dizi/south/south_park/255/horoz_buyusu"
     },
     {
-      "season": 9,
-      "episode": 44,
+      "season": 4,
+      "episode": 9,
       "title": "#rehash",
       "diziid": "south",
       "bolum": "256",
       "url": "https://cizgivedizi.com/dizi/south/south_park/256/tekrarla"
     },
     {
-      "season": 10,
-      "episode": 45,
+      "season": 4,
+      "episode": 10,
       "title": "#HappyHolograms",
       "diziid": "south",
       "bolum": "257",
       "url": "https://cizgivedizi.com/dizi/south/south_park/257/mutluhologramlar"
     },
     {
-      "season": 1,
-      "episode": 46,
+      "season": 5,
+      "episode": 1,
       "title": "Stunning and Brave",
       "diziid": "south",
       "bolum": "258",
       "url": "https://cizgivedizi.com/dizi/south/south_park/258/muhtesem_ve_cesur"
     },
     {
-      "season": 2,
-      "episode": 47,
+      "season": 5,
+      "episode": 2,
       "title": "Where My Country Gone?",
       "diziid": "south",
       "bolum": "259",
       "url": "https://cizgivedizi.com/dizi/south/south_park/259/ulkem_nereye_gitti"
     },
     {
-      "season": 3,
-      "episode": 48,
+      "season": 5,
+      "episode": 3,
       "title": "The City Part of Town",
       "diziid": "south",
       "bolum": "260",
       "url": "https://cizgivedizi.com/dizi/south/south_park/260/sehrin_kasaba_kismi"
     },
     {
-      "season": 4,
-      "episode": 49,
+      "season": 5,
+      "episode": 4,
       "title": "You're Not Yelping",
       "diziid": "south",
       "bolum": "261",
@@ -403,79 +404,79 @@
     },
     {
       "season": 5,
-      "episode": 50,
+      "episode": 5,
       "title": "Safe Space",
       "diziid": "south",
       "bolum": "262",
       "url": "https://cizgivedizi.com/dizi/south/south_park/262/guvenli_alan"
     },
     {
-      "season": 7,
-      "episode": 51,
+      "season": 5,
+      "episode": 6,
       "title": "Naughty Ninjas",
       "diziid": "south",
       "bolum": "264",
       "url": "https://cizgivedizi.com/dizi/south/south_park/264/yaramaz_ninjalar"
     },
     {
-      "season": 8,
-      "episode": 52,
+      "season": 5,
+      "episode": 7,
       "title": "Sponsored Content",
       "diziid": "south",
       "bolum": "265",
       "url": "https://cizgivedizi.com/dizi/south/south_park/265/sponsorlu_icerik"
     },
     {
-      "season": 9,
-      "episode": 53,
+      "season": 5,
+      "episode": 8,
       "title": "Truth and Advertising",
       "diziid": "south",
       "bolum": "266",
       "url": "https://cizgivedizi.com/dizi/south/south_park/266/gercek_ve_reklam"
     },
     {
-      "season": 10,
-      "episode": 54,
+      "season": 5,
+      "episode": 9,
       "title": "PC Principal Final Justice",
       "diziid": "south",
       "bolum": "267",
       "url": "https://cizgivedizi.com/dizi/south/south_park/267/pc_muduru_son_adalet"
     },
     {
-      "season": 1,
-      "episode": 55,
+      "season": 6,
+      "episode": 1,
       "title": "Member Berries",
       "diziid": "south",
       "bolum": "268",
       "url": "https://cizgivedizi.com/dizi/south/south_park/268/uye_meyveleri"
     },
     {
-      "season": 2,
-      "episode": 56,
+      "season": 6,
+      "episode": 2,
       "title": "Skank Hunt",
       "diziid": "south",
       "bolum": "269",
       "url": "https://cizgivedizi.com/dizi/south/south_park/269/fahise_avi"
     },
     {
-      "season": 3,
-      "episode": 57,
+      "season": 6,
+      "episode": 3,
       "title": "The Damned",
       "diziid": "south",
       "bolum": "270",
       "url": "https://cizgivedizi.com/dizi/south/south_park/270/lanetliler"
     },
     {
-      "season": 4,
-      "episode": 58,
+      "season": 6,
+      "episode": 4,
       "title": "Wieners Out",
       "diziid": "south",
       "bolum": "271",
       "url": "https://cizgivedizi.com/dizi/south/south_park/271/sosisler_disari"
     },
     {
-      "season": 5,
-      "episode": 59,
+      "season": 6,
+      "episode": 5,
       "title": "Douche and a Danish",
       "diziid": "south",
       "bolum": "272",
@@ -483,71 +484,71 @@
     },
     {
       "season": 6,
-      "episode": 60,
+      "episode": 6,
       "title": "Fort Collins",
       "diziid": "south",
       "bolum": "273",
       "url": "https://cizgivedizi.com/dizi/south/south_park/273/fort_collins"
     },
     {
-      "season": 7,
-      "episode": 61,
+      "season": 6,
+      "episode": 7,
       "title": "Oh Jeez",
       "diziid": "south",
       "bolum": "274",
       "url": "https://cizgivedizi.com/dizi/south/south_park/274/aman_tanrim"
     },
     {
-      "season": 8,
-      "episode": 62,
+      "season": 6,
+      "episode": 8,
       "title": "Members Only",
       "diziid": "south",
       "bolum": "275",
       "url": "https://cizgivedizi.com/dizi/south/south_park/275/yalnizca_uyeler"
     },
     {
-      "season": 9,
-      "episode": 63,
+      "season": 6,
+      "episode": 9,
       "title": "Not Funny",
       "diziid": "south",
       "bolum": "276",
       "url": "https://cizgivedizi.com/dizi/south/south_park/276/komik_degil"
     },
     {
-      "season": 10,
-      "episode": 64,
+      "season": 6,
+      "episode": 10,
       "title": "The End of Serialization as We Know It",
       "diziid": "south",
       "bolum": "277",
       "url": "https://cizgivedizi.com/dizi/south/south_park/277/bildigimiz_bicimde_serilestirmenin_sonu"
     },
     {
-      "season": 1,
-      "episode": 65,
+      "season": 7,
+      "episode": 1,
       "title": "White People Renovating Houses",
       "diziid": "south",
       "bolum": "278",
       "url": "https://cizgivedizi.com/dizi/south/south_park/278/beyaz_insanlar_evleri_yeniliyor"
     },
     {
-      "season": 3,
-      "episode": 66,
+      "season": 7,
+      "episode": 2,
       "title": "Holiday Special",
       "diziid": "south",
       "bolum": "280",
       "url": "https://cizgivedizi.com/dizi/south/south_park/280/bayram_ozel"
     },
     {
-      "season": 4,
-      "episode": 67,
+      "season": 7,
+      "episode": 3,
       "title": "Franchise Prequel",
       "diziid": "south",
       "bolum": "281",
       "url": "https://cizgivedizi.com/dizi/south/south_park/281/franchise_oncesi"
     },
     {
-      "season": 6,
-      "episode": 68,
+      "season": 7,
+      "episode": 4,
       "title": "Sons A Witches",
       "diziid": "south",
       "bolum": "283",
@@ -555,79 +556,79 @@
     },
     {
       "season": 7,
-      "episode": 69,
+      "episode": 5,
       "title": "Doubling Down",
       "diziid": "south",
       "bolum": "284",
       "url": "https://cizgivedizi.com/dizi/south/south_park/284/ikiye_katlama"
     },
     {
-      "season": 8,
-      "episode": 70,
+      "season": 7,
+      "episode": 6,
       "title": "Moss Piglets",
       "diziid": "south",
       "bolum": "285",
       "url": "https://cizgivedizi.com/dizi/south/south_park/285/yosun_domuz_yavrulari"
     },
     {
-      "season": 9,
-      "episode": 71,
+      "season": 7,
+      "episode": 7,
       "title": "Super Hard PCness",
       "diziid": "south",
       "bolum": "286",
       "url": "https://cizgivedizi.com/dizi/south/south_park/286/super_siki_pccilginligi"
     },
     {
-      "season": 10,
-      "episode": 72,
+      "season": 7,
+      "episode": 8,
       "title": "Splatty Tomato",
       "diziid": "south",
       "bolum": "287",
       "url": "https://cizgivedizi.com/dizi/south/south_park/287/domates"
     },
     {
-      "season": 1,
-      "episode": 73,
+      "season": 8,
+      "episode": 1,
       "title": "Dead Kids",
       "diziid": "south",
       "bolum": "288",
       "url": "https://cizgivedizi.com/dizi/south/south_park/288/olu_cocuklar"
     },
     {
-      "season": 3,
-      "episode": 74,
+      "season": 8,
+      "episode": 2,
       "title": "The Problem with a Poo",
       "diziid": "south",
       "bolum": "290",
       "url": "https://cizgivedizi.com/dizi/south/south_park/290/bir_kaka_sorunu"
     },
     {
-      "season": 4,
-      "episode": 75,
+      "season": 8,
+      "episode": 3,
       "title": "Tegridy Farms",
       "diziid": "south",
       "bolum": "291",
       "url": "https://cizgivedizi.com/dizi/south/south_park/291/tegridy_ciftlikleri"
     },
     {
-      "season": 5,
-      "episode": 76,
+      "season": 8,
+      "episode": 4,
       "title": "The Scoots",
       "diziid": "south",
       "bolum": "292",
       "url": "https://cizgivedizi.com/dizi/south/south_park/292/iskoclar"
     },
     {
-      "season": 6,
-      "episode": 77,
+      "season": 8,
+      "episode": 5,
       "title": "Time to Get Cereal",
       "diziid": "south",
       "bolum": "293",
       "url": "https://cizgivedizi.com/dizi/south/south_park/293/misir_gevregi_alma_zamani"
     },
     {
-      "season": 7,
-      "episode": 78,
+      "season": 8,
+      "episode": 6,
       "title": "Nobody Got Cereal?",
       "diziid": "south",
       "bolum": "294",
@@ -635,87 +636,87 @@
     },
     {
       "season": 8,
-      "episode": 79,
+      "episode": 7,
       "title": "Buddha Box",
       "diziid": "south",
       "bolum": "295",
       "url": "https://cizgivedizi.com/dizi/south/south_park/295/buda_kutusu"
     },
     {
-      "season": 9,
-      "episode": 80,
+      "season": 8,
+      "episode": 8,
       "title": "Unfulfilled",
       "diziid": "south",
       "bolum": "296",
       "url": "https://cizgivedizi.com/dizi/south/south_park/296/gerceklestirilmemis"
     },
     {
-      "season": 10,
-      "episode": 81,
+      "season": 8,
+      "episode": 9,
       "title": "Bike Parade",
       "diziid": "south",
       "bolum": "297",
       "url": "https://cizgivedizi.com/dizi/south/south_park/297/bisiklet_gecidi"
     },
     {
-      "season": 1,
-      "episode": 82,
+      "season": 9,
+      "episode": 1,
       "title": "Mexican Joker",
       "diziid": "south",
       "bolum": "298",
       "url": "https://cizgivedizi.com/dizi/south/south_park/298/meksikali_joker"
     },
     {
-      "season": 2,
-      "episode": 83,
+      "season": 9,
+      "episode": 2,
       "title": "Band in China",
       "diziid": "south",
       "bolum": "299",
       "url": "https://cizgivedizi.com/dizi/south/south_park/299/cindeki_grup"
     },
     {
-      "season": 3,
-      "episode": 84,
+      "season": 9,
+      "episode": 3,
       "title": "Shots!!!",
       "diziid": "south",
       "bolum": "300",
       "url": "https://cizgivedizi.com/dizi/south/south_park/300/atislar%21%21%21"
     },
     {
-      "season": 4,
-      "episode": 85,
+      "season": 9,
+      "episode": 4,
       "title": "Let Them Eat Goo",
       "diziid": "south",
       "bolum": "301",
       "url": "https://cizgivedizi.com/dizi/south/south_park/301/onlara_goo_yedirin"
     },
     {
-      "season": 5,
-      "episode": 86,
+      "season": 9,
+      "episode": 5,
       "title": "Tegridy Farms Halloween Special",
       "diziid": "south",
       "bolum": "302",
       "url": "https://cizgivedizi.com/dizi/south/south_park/302/tegridy_ciftlikleri_cadilar_bayrami_ozel"
     },
     {
-      "season": 6,
-      "episode": 87,
+      "season": 9,
+      "episode": 6,
       "title": "Season Finale",
       "diziid": "south",
       "bolum": "303",
       "url": "https://cizgivedizi.com/dizi/south/south_park/303/sezon_finali"
     },
     {
-      "season": 7,
-      "episode": 88,
+      "season": 9,
+      "episode": 7,
       "title": "Board Girls",
       "diziid": "south",
       "bolum": "304",
       "url": "https://cizgivedizi.com/dizi/south/south_park/304/spor_kizlari"
     },
     {
-      "season": 8,
-      "episode": 89,
+      "season": 9,
+      "episode": 8,
       "title": "Turd Burglars",
       "diziid": "south",
       "bolum": "305",
@@ -723,15 +724,15 @@
     },
     {
       "season": 9,
-      "episode": 90,
+      "episode": 9,
       "title": "Basic Cable",
       "diziid": "south",
       "bolum": "306",
       "url": "https://cizgivedizi.com/dizi/south/south_park/306/temel_kablo"
     },
     {
-      "season": 10,
-      "episode": 91,
+      "season": 9,
+      "episode": 10,
       "title": "Christmas Snow",
       "diziid": "south",
       "bolum": "307",

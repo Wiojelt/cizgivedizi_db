@@ -3,6 +3,7 @@
   "title": "bluey",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/BLUEYPoster.avif",
+  "plot": "Bluey 6 yaÅŸÄ±nda yorulmak bilmez, oynayarak ve gÃ¼nlÃ¼k hayatÄ± ailesiyle maceraya dÃ¶nÃ¼ÅŸtÃ¼rerek hayal gÃ¼cÃ¼nÃ¼; zihinsel, fiziksel ve duygusal direncini geliÅŸtirmeyi seven bir Ã§oban kÃ¶peÄŸidir.",
   "channel": "Disney Jr.",
   "genres": [
     "Komedi"
@@ -17,7 +18,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/1/sihirli_ksilofon"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Hospital",
       "diziid": "bluey",
@@ -25,7 +26,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/2/hastane"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Keepy Uppy",
       "diziid": "bluey",
@@ -33,7 +34,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/3/yukarida_tutmaca"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Daddy Robot",
       "diziid": "bluey",
@@ -41,7 +42,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/4/baba_robot"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Shadowlands",
       "diziid": "bluey",
@@ -49,7 +50,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/5/golge_topraklar"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "The Weekend",
       "diziid": "bluey",
@@ -57,7 +58,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/6/hafta_sonu"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "BBQ",
       "diziid": "bluey",
@@ -65,7 +66,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/7/barbeku"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Fruitbat",
       "diziid": "bluey",
@@ -73,7 +74,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/8/merve_yarasasi"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Horsey Ride",
       "diziid": "bluey",
@@ -81,7 +82,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/9/at_surmece"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Hotel",
       "diziid": "bluey",
@@ -89,7 +90,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/10/otel"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Bike",
       "diziid": "bluey",
@@ -97,7 +98,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/11/bisiklet"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Bob Bilby",
       "diziid": "bluey",
@@ -105,7 +106,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/12/bandikut_bob"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "Spy Game",
       "diziid": "bluey",
@@ -113,7 +114,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/13/casusluk_oyunu"
     },
     {
-      "season": 14,
+      "season": 1,
       "episode": 14,
       "title": "Takeaway",
       "diziid": "bluey",
@@ -121,7 +122,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/14/restoran"
     },
     {
-      "season": 15,
+      "season": 1,
       "episode": 15,
       "title": "Butterflies",
       "diziid": "bluey",
@@ -129,7 +130,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/15/kelebekler"
     },
     {
-      "season": 16,
+      "season": 1,
       "episode": 16,
       "title": "Yoga Ball",
       "diziid": "bluey",
@@ -137,7 +138,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/16/pilates_topu"
     },
     {
-      "season": 17,
+      "season": 1,
       "episode": 17,
       "title": "Calypso",
       "diziid": "bluey",
@@ -145,7 +146,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/17/calypso"
     },
     {
-      "season": 18,
+      "season": 1,
       "episode": 18,
       "title": "The Doctor",
       "diziid": "bluey",
@@ -153,7 +154,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/18/doktor"
     },
     {
-      "season": 19,
+      "season": 1,
       "episode": 19,
       "title": "The Claw",
       "diziid": "bluey",
@@ -161,7 +162,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/19/kol"
     },
     {
-      "season": 20,
+      "season": 1,
       "episode": 20,
       "title": "Markets",
       "diziid": "bluey",
@@ -169,7 +170,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/20/pazar"
     },
     {
-      "season": 21,
+      "season": 1,
       "episode": 21,
       "title": "Blue Mountains",
       "diziid": "bluey",
@@ -177,7 +178,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/21/mavi_daglar"
     },
     {
-      "season": 22,
+      "season": 1,
       "episode": 22,
       "title": "The Pool",
       "diziid": "bluey",
@@ -185,7 +186,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/22/havuz"
     },
     {
-      "season": 23,
+      "season": 1,
       "episode": 23,
       "title": "Shops",
       "diziid": "bluey",
@@ -193,7 +194,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/23/dukkan"
     },
     {
-      "season": 24,
+      "season": 1,
       "episode": 24,
       "title": "Wagon Ride",
       "diziid": "bluey",
@@ -201,7 +202,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/24/cekcek_yolculugu"
     },
     {
-      "season": 25,
+      "season": 1,
       "episode": 25,
       "title": "Taxi",
       "diziid": "bluey",
@@ -209,7 +210,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/25/taksi"
     },
     {
-      "season": 26,
+      "season": 1,
       "episode": 26,
       "title": "The Beach",
       "diziid": "bluey",
@@ -217,7 +218,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/26/kumsal"
     },
     {
-      "season": 27,
+      "season": 1,
       "episode": 27,
       "title": "Pirates",
       "diziid": "bluey",
@@ -225,7 +226,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/27/korsancilik"
     },
     {
-      "season": 28,
+      "season": 1,
       "episode": 28,
       "title": "Grannies",
       "diziid": "bluey",
@@ -233,7 +234,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/28/buyukanneler"
     },
     {
-      "season": 29,
+      "season": 1,
       "episode": 29,
       "title": "The Creek",
       "diziid": "bluey",
@@ -241,7 +242,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/29/dere"
     },
     {
-      "season": 30,
+      "season": 1,
       "episode": 30,
       "title": "Fairies",
       "diziid": "bluey",
@@ -249,7 +250,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/30/periler"
     },
     {
-      "season": 31,
+      "season": 1,
       "episode": 31,
       "title": "Work",
       "diziid": "bluey",
@@ -257,7 +258,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/31/is"
     },
     {
-      "season": 32,
+      "season": 1,
       "episode": 32,
       "title": "Bumpy and the Wise Old Wolfhound",
       "diziid": "bluey",
@@ -265,7 +266,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/32/bumpy_ve_yasli_bilge_kurt_kopegi"
     },
     {
-      "season": 33,
+      "season": 1,
       "episode": 33,
       "title": "Trampoline",
       "diziid": "bluey",
@@ -273,7 +274,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/33/trambolin"
     },
     {
-      "season": 34,
+      "season": 1,
       "episode": 34,
       "title": "The Dump",
       "diziid": "bluey",
@@ -281,7 +282,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/34/copluk"
     },
     {
-      "season": 35,
+      "season": 1,
       "episode": 35,
       "title": "Zoo",
       "diziid": "bluey",
@@ -289,7 +290,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/35/hayvanat_bahcesi"
     },
     {
-      "season": 36,
+      "season": 1,
       "episode": 36,
       "title": "Backpackers",
       "diziid": "bluey",
@@ -297,7 +298,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/36/gezginler"
     },
     {
-      "season": 37,
+      "season": 1,
       "episode": 37,
       "title": "The Adventure",
       "diziid": "bluey",
@@ -305,7 +306,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/37/macera"
     },
     {
-      "season": 38,
+      "season": 1,
       "episode": 38,
       "title": "Copycat",
       "diziid": "bluey",
@@ -313,7 +314,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/38/taklitci"
     },
     {
-      "season": 39,
+      "season": 1,
       "episode": 39,
       "title": "The Sleepover",
       "diziid": "bluey",
@@ -321,7 +322,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/39/pijama_partisi"
     },
     {
-      "season": 40,
+      "season": 1,
       "episode": 40,
       "title": "Early Baby",
       "diziid": "bluey",
@@ -329,7 +330,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/40/erkenci_bebek"
     },
     {
-      "season": 41,
+      "season": 1,
       "episode": 41,
       "title": "Mums and Dads",
       "diziid": "bluey",
@@ -337,7 +338,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/41/anne_babacilik"
     },
     {
-      "season": 42,
+      "season": 1,
       "episode": 42,
       "title": "Hide and Seek",
       "diziid": "bluey",
@@ -345,7 +346,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/42/saklambac"
     },
     {
-      "season": 43,
+      "season": 1,
       "episode": 43,
       "title": "Camping",
       "diziid": "bluey",
@@ -353,7 +354,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/43/kamp"
     },
     {
-      "season": 44,
+      "season": 1,
       "episode": 44,
       "title": "Mount Mumandad",
       "diziid": "bluey",
@@ -361,7 +362,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/44/anne_baba_dagi"
     },
     {
-      "season": 45,
+      "season": 1,
       "episode": 45,
       "title": "Kids",
       "diziid": "bluey",
@@ -369,7 +370,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/45/cocuk_olmaca"
     },
     {
-      "season": 46,
+      "season": 1,
       "episode": 46,
       "title": "Chickenrat",
       "diziid": "bluey",
@@ -377,7 +378,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/46/tavuk_faresi"
     },
     {
-      "season": 47,
+      "season": 1,
       "episode": 47,
       "title": "Neighbours",
       "diziid": "bluey",
@@ -385,7 +386,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/47/komsular"
     },
     {
-      "season": 48,
+      "season": 1,
       "episode": 48,
       "title": "Teasing",
       "diziid": "bluey",
@@ -393,7 +394,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/48/kizdirmaca"
     },
     {
-      "season": 49,
+      "season": 1,
       "episode": 49,
       "title": "Asparagus",
       "diziid": "bluey",
@@ -401,7 +402,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/49/kuskonmaz"
     },
     {
-      "season": 50,
+      "season": 1,
       "episode": 50,
       "title": "Shaun",
       "diziid": "bluey",
@@ -409,7 +410,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/50/shaun"
     },
     {
-      "season": 51,
+      "season": 1,
       "episode": 51,
       "title": "Daddy Putdown",
       "diziid": "bluey",
@@ -417,7 +418,7 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/51/baba_yatirisi"
     },
     {
-      "season": 52,
+      "season": 1,
       "episode": 52,
       "title": "Verandah Santa",
       "diziid": "bluey",
@@ -425,8 +426,8 @@
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/52/veranda_noel_babasi"
     },
     {
-      "season": 1,
-      "episode": 53,
+      "season": 2,
+      "episode": 1,
       "title": "Dance Mode",
       "diziid": "bluey",
       "bolum": "53",
@@ -434,415 +435,415 @@
     },
     {
       "season": 2,
-      "episode": 54,
+      "episode": 2,
       "title": "Hammerbarn",
       "diziid": "bluey",
       "bolum": "54",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/54/hammerbarn"
     },
     {
-      "season": 3,
-      "episode": 55,
+      "season": 2,
+      "episode": 3,
       "title": "Featherwand",
       "diziid": "bluey",
       "bolum": "55",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/55/tuylu_degnek"
     },
     {
-      "season": 4,
-      "episode": 56,
+      "season": 2,
+      "episode": 4,
       "title": "Squash",
       "diziid": "bluey",
       "bolum": "56",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/56/squash"
     },
     {
-      "season": 5,
-      "episode": 57,
+      "season": 2,
+      "episode": 5,
       "title": "Hairdressers",
       "diziid": "bluey",
       "bolum": "57",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/57/kuaforculuk"
     },
     {
-      "season": 6,
-      "episode": 58,
+      "season": 2,
+      "episode": 6,
       "title": "Stumpfest",
       "diziid": "bluey",
       "bolum": "58",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/58/kutuk_festivali"
     },
     {
-      "season": 7,
-      "episode": 59,
+      "season": 2,
+      "episode": 7,
       "title": "Favourite Thing",
       "diziid": "bluey",
       "bolum": "59",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/59/en_sevilen_sey"
     },
     {
-      "season": 8,
-      "episode": 60,
+      "season": 2,
+      "episode": 8,
       "title": "Daddy Drop Off",
       "diziid": "bluey",
       "bolum": "60",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/60/babanin_sirasi"
     },
     {
-      "season": 9,
-      "episode": 61,
+      "season": 2,
+      "episode": 9,
       "title": "Bingo",
       "diziid": "bluey",
       "bolum": "61",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/61/bingo"
     },
     {
-      "season": 10,
-      "episode": 62,
+      "season": 2,
+      "episode": 10,
       "title": "Rug Island",
       "diziid": "bluey",
       "bolum": "62",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/62/kilim_adasi"
     },
     {
-      "season": 11,
-      "episode": 63,
+      "season": 2,
+      "episode": 11,
       "title": "Charades",
       "diziid": "bluey",
       "bolum": "63",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/63/sessiz_sinema"
     },
     {
-      "season": 12,
-      "episode": 64,
+      "season": 2,
+      "episode": 12,
       "title": "Sticky Gecko",
       "diziid": "bluey",
       "bolum": "64",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/64/yapiskan_gecko"
     },
     {
-      "season": 14,
-      "episode": 65,
+      "season": 2,
+      "episode": 13,
       "title": "Mum School",
       "diziid": "bluey",
       "bolum": "66",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/66/annelik_okulu"
     },
     {
-      "season": 15,
-      "episode": 66,
+      "season": 2,
+      "episode": 14,
       "title": "Trains",
       "diziid": "bluey",
       "bolum": "67",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/67/trenler"
     },
     {
-      "season": 16,
-      "episode": 67,
+      "season": 2,
+      "episode": 15,
       "title": "Army",
       "diziid": "bluey",
       "bolum": "68",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/68/askercilik"
     },
     {
-      "season": 17,
-      "episode": 68,
+      "season": 2,
+      "episode": 16,
       "title": "Fancy Restaurant",
       "diziid": "bluey",
       "bolum": "69",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/69/sik_restoran"
     },
     {
-      "season": 18,
-      "episode": 69,
+      "season": 2,
+      "episode": 17,
       "title": "Piggyback",
       "diziid": "bluey",
       "bolum": "70",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/70/sirtlama"
     },
     {
-      "season": 19,
-      "episode": 70,
+      "season": 2,
+      "episode": 18,
       "title": "The Show",
       "diziid": "bluey",
       "bolum": "71",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/71/gosteri"
     },
     {
-      "season": 20,
-      "episode": 71,
+      "season": 2,
+      "episode": 19,
       "title": "Ticklecrabs",
       "diziid": "bluey",
       "bolum": "72",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/72/gidaklayan_yengec"
     },
     {
-      "season": 21,
-      "episode": 72,
+      "season": 2,
+      "episode": 20,
       "title": "Escape",
       "diziid": "bluey",
       "bolum": "73",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/73/kacis"
     },
     {
-      "season": 22,
-      "episode": 73,
+      "season": 2,
+      "episode": 21,
       "title": "Bus",
       "diziid": "bluey",
       "bolum": "74",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/74/otobus"
     },
     {
-      "season": 23,
-      "episode": 74,
+      "season": 2,
+      "episode": 22,
       "title": "Queens",
       "diziid": "bluey",
       "bolum": "75",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/75/kraliceler"
     },
     {
-      "season": 24,
-      "episode": 75,
+      "season": 2,
+      "episode": 23,
       "title": "Flat Pack",
       "diziid": "bluey",
       "bolum": "76",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/76/varsayalim"
     },
     {
-      "season": 25,
-      "episode": 76,
+      "season": 2,
+      "episode": 24,
       "title": "Helicopter",
       "diziid": "bluey",
       "bolum": "77",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/77/helikopter"
     },
     {
-      "season": 26,
-      "episode": 77,
+      "season": 2,
+      "episode": 25,
       "title": "Sleepytime",
       "diziid": "bluey",
       "bolum": "78",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/78/uyku_vakti"
     },
     {
-      "season": 27,
-      "episode": 78,
+      "season": 2,
+      "episode": 26,
       "title": "Grandad",
       "diziid": "bluey",
       "bolum": "79",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/79/buyukbaba"
     },
     {
-      "season": 28,
-      "episode": 79,
+      "season": 2,
+      "episode": 27,
       "title": "See Saw",
       "diziid": "bluey",
       "bolum": "80",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/80/tahterevalli"
     },
     {
-      "season": 29,
-      "episode": 80,
+      "season": 2,
+      "episode": 28,
       "title": "Movies",
       "diziid": "bluey",
       "bolum": "81",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/81/sinema"
     },
     {
-      "season": 30,
-      "episode": 81,
+      "season": 2,
+      "episode": 29,
       "title": "Library",
       "diziid": "bluey",
       "bolum": "82",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/82/kutuphane"
     },
     {
-      "season": 31,
-      "episode": 82,
+      "season": 2,
+      "episode": 30,
       "title": "Barky Boats",
       "diziid": "bluey",
       "bolum": "83",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/83/kabuk_kayik"
     },
     {
-      "season": 32,
-      "episode": 83,
+      "season": 2,
+      "episode": 31,
       "title": "Burger Shop",
       "diziid": "bluey",
       "bolum": "84",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/84/burger_dukkani"
     },
     {
-      "season": 33,
-      "episode": 84,
+      "season": 2,
+      "episode": 32,
       "title": "Circus",
       "diziid": "bluey",
       "bolum": "85",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/85/sirk"
     },
     {
-      "season": 34,
-      "episode": 85,
+      "season": 2,
+      "episode": 33,
       "title": "Swim School",
       "diziid": "bluey",
       "bolum": "86",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/86/yuzme_okulu"
     },
     {
-      "season": 35,
-      "episode": 86,
+      "season": 2,
+      "episode": 34,
       "title": "Cafe",
       "diziid": "bluey",
       "bolum": "87",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/87/kafecilik"
     },
     {
-      "season": 36,
-      "episode": 87,
+      "season": 2,
+      "episode": 35,
       "title": "Postman",
       "diziid": "bluey",
       "bolum": "88",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/88/postaci"
     },
     {
-      "season": 37,
-      "episode": 88,
+      "season": 2,
+      "episode": 36,
       "title": "The Quiet Game",
       "diziid": "bluey",
       "bolum": "89",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/89/sessizlik_oyunu"
     },
     {
-      "season": 38,
-      "episode": 89,
+      "season": 2,
+      "episode": 37,
       "title": "Mr Monkeyjocks",
       "diziid": "bluey",
       "bolum": "90",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/90/bay_pijamali_maymun"
     },
     {
-      "season": 39,
-      "episode": 90,
+      "season": 2,
+      "episode": 38,
       "title": "Double Babysitter",
       "diziid": "bluey",
       "bolum": "91",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/91/cift_bebek_bakicisi"
     },
     {
-      "season": 40,
-      "episode": 91,
+      "season": 2,
+      "episode": 39,
       "title": "Bad Mood",
       "diziid": "bluey",
       "bolum": "92",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/92/keyfim_yok"
     },
     {
-      "season": 41,
-      "episode": 92,
+      "season": 2,
+      "episode": 40,
       "title": "Octopus",
       "diziid": "bluey",
       "bolum": "93",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/93/ahtapot"
     },
     {
-      "season": 42,
-      "episode": 93,
+      "season": 2,
+      "episode": 41,
       "title": "Bin Night",
       "diziid": "bluey",
       "bolum": "94",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/94/cop_gecesi"
     },
     {
-      "season": 43,
-      "episode": 94,
+      "season": 2,
+      "episode": 42,
       "title": "Muffin Cone",
       "diziid": "bluey",
       "bolum": "95",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/95/muffinin_konisi"
     },
     {
-      "season": 44,
-      "episode": 95,
+      "season": 2,
+      "episode": 43,
       "title": "Duck Cake",
       "diziid": "bluey",
       "bolum": "96",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/96/ordekli_pasta"
     },
     {
-      "season": 45,
-      "episode": 96,
+      "season": 2,
+      "episode": 44,
       "title": "Handstand",
       "diziid": "bluey",
       "bolum": "97",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/97/amuda_kalkma"
     },
     {
-      "season": 46,
-      "episode": 97,
+      "season": 2,
+      "episode": 45,
       "title": "Road Trip",
       "diziid": "bluey",
       "bolum": "98",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/98/yol_gezisi"
     },
     {
-      "season": 47,
-      "episode": 98,
+      "season": 2,
+      "episode": 46,
       "title": "Ice Cream",
       "diziid": "bluey",
       "bolum": "99",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/99/dondurma"
     },
     {
-      "season": 48,
-      "episode": 99,
+      "season": 2,
+      "episode": 47,
       "title": "Dunny",
       "diziid": "bluey",
       "bolum": "100",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/100/circir"
     },
     {
-      "season": 49,
-      "episode": 100,
+      "season": 2,
+      "episode": 48,
       "title": "Typewriter",
       "diziid": "bluey",
       "bolum": "101",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/101/daktilo"
     },
     {
-      "season": 50,
-      "episode": 101,
+      "season": 2,
+      "episode": 49,
       "title": "Baby Race",
       "diziid": "bluey",
       "bolum": "102",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/102/bebek_yarislari"
     },
     {
-      "season": 51,
-      "episode": 102,
+      "season": 2,
+      "episode": 50,
       "title": "Christmas Swim",
       "diziid": "bluey",
       "bolum": "103",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/103/noelde_yuzme"
     },
     {
-      "season": 52,
-      "episode": 103,
+      "season": 2,
+      "episode": 51,
       "title": "Easter",
       "diziid": "bluey",
       "bolum": "104",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/104/paskalya"
     },
     {
-      "season": 1,
-      "episode": 104,
+      "season": 3,
+      "episode": 1,
       "title": "Perfect",
       "diziid": "bluey",
       "bolum": "105",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/105/harika"
     },
     {
-      "season": 2,
-      "episode": 105,
+      "season": 3,
+      "episode": 2,
       "title": "Bedroom",
       "diziid": "bluey",
       "bolum": "106",
@@ -850,383 +851,383 @@
     },
     {
       "season": 3,
-      "episode": 106,
+      "episode": 3,
       "title": "Obstacle Course",
       "diziid": "bluey",
       "bolum": "107",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/107/engelli_parkur"
     },
     {
-      "season": 4,
-      "episode": 107,
+      "season": 3,
+      "episode": 4,
       "title": "Promises",
       "diziid": "bluey",
       "bolum": "108",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/108/sozler"
     },
     {
-      "season": 5,
-      "episode": 108,
+      "season": 3,
+      "episode": 5,
       "title": "Omelette",
       "diziid": "bluey",
       "bolum": "109",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/109/omlet"
     },
     {
-      "season": 6,
-      "episode": 109,
+      "season": 3,
+      "episode": 6,
       "title": "Born Yesterday",
       "diziid": "bluey",
       "bolum": "110",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/110/dun_dogmak"
     },
     {
-      "season": 7,
-      "episode": 110,
+      "season": 3,
+      "episode": 7,
       "title": "Mini Bluey",
       "diziid": "bluey",
       "bolum": "111",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/111/kucuk_bluey"
     },
     {
-      "season": 8,
-      "episode": 111,
+      "season": 3,
+      "episode": 8,
       "title": "Unicorse",
       "diziid": "bluey",
       "bolum": "112",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/112/tek_boyun"
     },
     {
-      "season": 9,
-      "episode": 112,
+      "season": 3,
+      "episode": 9,
       "title": "Curry Quest",
       "diziid": "bluey",
       "bolum": "113",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/113/kori_gorevi"
     },
     {
-      "season": 10,
-      "episode": 113,
+      "season": 3,
+      "episode": 10,
       "title": "Magic",
       "diziid": "bluey",
       "bolum": "114",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/114/sihir"
     },
     {
-      "season": 11,
-      "episode": 114,
+      "season": 3,
+      "episode": 11,
       "title": "Chest",
       "diziid": "bluey",
       "bolum": "115",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/115/satranc"
     },
     {
-      "season": 12,
-      "episode": 115,
+      "season": 3,
+      "episode": 12,
       "title": "Sheepdog",
       "diziid": "bluey",
       "bolum": "116",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/116/koyun_kopek"
     },
     {
-      "season": 13,
-      "episode": 116,
+      "season": 3,
+      "episode": 13,
       "title": "Housework",
       "diziid": "bluey",
       "bolum": "117",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/117/ev_isleri"
     },
     {
-      "season": 14,
-      "episode": 117,
+      "season": 3,
+      "episode": 14,
       "title": "Pass the Parcel",
       "diziid": "bluey",
       "bolum": "118",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/118/paket_acmaca"
     },
     {
-      "season": 15,
-      "episode": 118,
+      "season": 3,
+      "episode": 15,
       "title": "Explorers",
       "diziid": "bluey",
       "bolum": "119",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/119/kasifler"
     },
     {
-      "season": 16,
-      "episode": 119,
+      "season": 3,
+      "episode": 16,
       "title": "Phones",
       "diziid": "bluey",
       "bolum": "120",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/120/telefonlar"
     },
     {
-      "season": 17,
-      "episode": 120,
+      "season": 3,
+      "episode": 17,
       "title": "Pavlova",
       "diziid": "bluey",
       "bolum": "121",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/121/pavlova"
     },
     {
-      "season": 18,
-      "episode": 121,
+      "season": 3,
+      "episode": 18,
       "title": "Rain",
       "diziid": "bluey",
       "bolum": "122",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/122/yagmur"
     },
     {
-      "season": 19,
-      "episode": 122,
+      "season": 3,
+      "episode": 19,
       "title": "Pizza Girls",
       "diziid": "bluey",
       "bolum": "123",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/123/pizzaci_kizlar"
     },
     {
-      "season": 20,
-      "episode": 123,
+      "season": 3,
+      "episode": 20,
       "title": "Driving",
       "diziid": "bluey",
       "bolum": "124",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/124/surus"
     },
     {
-      "season": 21,
-      "episode": 124,
+      "season": 3,
+      "episode": 21,
       "title": "Tina",
       "diziid": "bluey",
       "bolum": "125",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/125/tina"
     },
     {
-      "season": 22,
-      "episode": 125,
+      "season": 3,
+      "episode": 22,
       "title": "Whale Watching",
       "diziid": "bluey",
       "bolum": "126",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/126/balina_seyri"
     },
     {
-      "season": 23,
-      "episode": 126,
+      "season": 3,
+      "episode": 23,
       "title": "Family Meeting",
       "diziid": "bluey",
       "bolum": "127",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/127/aile_toplantisi"
     },
     {
-      "season": 24,
-      "episode": 127,
+      "season": 3,
+      "episode": 24,
       "title": "Faceytalk",
       "diziid": "bluey",
       "bolum": "128",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/128/goruntulu_arama"
     },
     {
-      "season": 25,
-      "episode": 128,
+      "season": 3,
+      "episode": 25,
       "title": "Ragdoll",
       "diziid": "bluey",
       "bolum": "129",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/129/kukla"
     },
     {
-      "season": 26,
-      "episode": 129,
+      "season": 3,
+      "episode": 26,
       "title": "Fairytale",
       "diziid": "bluey",
       "bolum": "130",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/130/peri_masali"
     },
     {
-      "season": 27,
-      "episode": 130,
+      "season": 3,
+      "episode": 27,
       "title": "Musical Statues",
       "diziid": "bluey",
       "bolum": "131",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/131/muzikli_heykel_oyunu"
     },
     {
-      "season": 28,
-      "episode": 131,
+      "season": 3,
+      "episode": 28,
       "title": "Stories",
       "diziid": "bluey",
       "bolum": "132",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/132/hikayeler"
     },
     {
-      "season": 29,
-      "episode": 132,
+      "season": 3,
+      "episode": 29,
       "title": "Puppets",
       "diziid": "bluey",
       "bolum": "133",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/133/kuklalar"
     },
     {
-      "season": 30,
-      "episode": 133,
+      "season": 3,
+      "episode": 30,
       "title": "Turtleboy",
       "diziid": "bluey",
       "bolum": "134",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/134/kaplumbaga_cocuk"
     },
     {
-      "season": 31,
-      "episode": 134,
+      "season": 3,
+      "episode": 31,
       "title": "Onesies",
       "diziid": "bluey",
       "bolum": "135",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/135/tulumlar"
     },
     {
-      "season": 32,
-      "episode": 135,
+      "season": 3,
+      "episode": 32,
       "title": "Tradies",
       "diziid": "bluey",
       "bolum": "136",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/136/gelenekler"
     },
     {
-      "season": 33,
-      "episode": 136,
+      "season": 3,
+      "episode": 33,
       "title": "Granny Mobile",
       "diziid": "bluey",
       "bolum": "137",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/137/buyukanne_araci"
     },
     {
-      "season": 34,
-      "episode": 137,
+      "season": 3,
+      "episode": 34,
       "title": "Space",
       "diziid": "bluey",
       "bolum": "138",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/138/uzay"
     },
     {
-      "season": 35,
-      "episode": 138,
+      "season": 3,
+      "episode": 35,
       "title": "Smoochy Kiss",
       "diziid": "bluey",
       "bolum": "139",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/139/mucuk_opucuk"
     },
     {
-      "season": 36,
-      "episode": 139,
+      "season": 3,
+      "episode": 36,
       "title": "Dirt",
       "diziid": "bluey",
       "bolum": "140",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/140/camur"
     },
     {
-      "season": 37,
-      "episode": 140,
+      "season": 3,
+      "episode": 37,
       "title": "The Decider",
       "diziid": "bluey",
       "bolum": "141",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/141/karar_verici"
     },
     {
-      "season": 38,
-      "episode": 141,
+      "season": 3,
+      "episode": 38,
       "title": "Cubby",
       "diziid": "bluey",
       "bolum": "142",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/142/odacik"
     },
     {
-      "season": 39,
-      "episode": 142,
+      "season": 3,
+      "episode": 39,
       "title": "Exercise",
       "diziid": "bluey",
       "bolum": "143",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/143/egzersiz_zamani"
     },
     {
-      "season": 40,
-      "episode": 143,
+      "season": 3,
+      "episode": 40,
       "title": "Relax",
       "diziid": "bluey",
       "bolum": "144",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/144/rahatlamak"
     },
     {
-      "season": 41,
-      "episode": 144,
+      "season": 3,
+      "episode": 41,
       "title": "Stickbird",
       "diziid": "bluey",
       "bolum": "145",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/145/sopa_kus"
     },
     {
-      "season": 42,
-      "episode": 145,
+      "season": 3,
+      "episode": 42,
       "title": "Show and Tell",
       "diziid": "bluey",
       "bolum": "146",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/146/goster_ve_anlat"
     },
     {
-      "season": 43,
-      "episode": 146,
+      "season": 3,
+      "episode": 43,
       "title": "Dragon",
       "diziid": "bluey",
       "bolum": "147",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/147/ejderha"
     },
     {
-      "season": 44,
-      "episode": 147,
+      "season": 3,
+      "episode": 44,
       "title": "Wild Girls",
       "diziid": "bluey",
       "bolum": "148",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/148/vahsi_kizlar"
     },
     {
-      "season": 45,
-      "episode": 148,
+      "season": 3,
+      "episode": 45,
       "title": "TV Shop",
       "diziid": "bluey",
       "bolum": "149",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/149/tv_odasi"
     },
     {
-      "season": 46,
-      "episode": 149,
+      "season": 3,
+      "episode": 46,
       "title": "Slide",
       "diziid": "bluey",
       "bolum": "150",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/150/kaydirak"
     },
     {
-      "season": 47,
-      "episode": 150,
+      "season": 3,
+      "episode": 47,
       "title": "Cricket",
       "diziid": "bluey",
       "bolum": "151",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/151/kriket"
     },
     {
-      "season": 48,
-      "episode": 151,
+      "season": 3,
+      "episode": 48,
       "title": "Ghostbasket",
       "diziid": "bluey",
       "bolum": "152",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/152/hayalet_sepet"
     },
     {
-      "season": 53,
-      "episode": 152,
+      "season": 3,
+      "episode": 49,
       "title": "Surprise!",
       "diziid": "bluey",
       "bolum": "157",
       "url": "https://cizgivedizi.com/dizi/bluey/bluey/157/surpriz%21"
     },
     {
-      "season": 1,
-      "episode": 153,
+      "season": 4,
+      "episode": 1,
       "title": "The Sign",
       "diziid": "bluey",
       "bolum": "0",

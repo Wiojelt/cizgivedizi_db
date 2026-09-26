@@ -3,6 +3,7 @@
   "title": "tom ve jerry new york'ta",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/TVJNYPoster.avif",
+  "plot": "AralarÄ±ndaki Ã§Ä±lgÄ±n kovalamacanÄ±n hiÃ§bir zaman bitmediÄŸi sÃ¼per ikili Tom ve Jerry'nin yeni maceralarÄ± Manhattan sokaklarÄ±nda devam ediyor. Tom ve Jerry lÃ¼ks bir otelde yaÅŸÄ±yorlar ve koÅŸuÅŸtuâ€¦",
   "channel": "Boomerang",
   "genres": [
     "Komedi"
@@ -17,7 +18,7 @@
       "url": "https://cizgivedizi.com/dizi/tvjny/tom_ve_jerry_new_yorkta/1/bu_yuzuk_sana__gel_benimle_uc__sakiz_krizi__fare_gosterisi"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Museum Peace / Here Kite-y Kite-y / Street Wise Guys / Chameleon Story",
       "diziid": "tvjny",
@@ -25,7 +26,7 @@
       "url": "https://cizgivedizi.com/dizi/tvjny/tom_ve_jerry_new_yorkta/2/muzenin_ruhu__gel_ucurtma_ucurtma__sokaktaki_bilge_adamlar__bir_bukalemun_hikayesi"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Telepathic Tabby / Shoe-In / It's a Gift / Stormin' the Doorman",
       "diziid": "tvjny",
@@ -33,7 +34,7 @@
       "url": "https://cizgivedizi.com/dizi/tvjny/tom_ve_jerry_new_yorkta/3/telepatik_tekir__ayakkabili_kedi__bu_bir_hediye__kapi_gorevlisini_kuplere_bindirmek"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "The Great Donut Robbery / Torpedon't / Billboard Jumble / Horticulture Clash",
       "diziid": "tvjny",
@@ -41,7 +42,7 @@
       "url": "https://cizgivedizi.com/dizi/tvjny/tom_ve_jerry_new_yorkta/4/buyuk_corek_cantasi__torpidolu_zafer__reklam_panosu_karmasasi__bitki_anlasmazligi"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Room Service Robots / Coney Island Adventure / Scents and Sensibility / Wrecking Ball",
       "diziid": "tvjny",
@@ -49,7 +50,7 @@
       "url": "https://cizgivedizi.com/dizi/tvjny/tom_ve_jerry_new_yorkta/5/oda_servisi_robotlari__coney_adasi_macerasi__kokular_ve_yasam__yiki_gullesi"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Cat Hair / Shhh! / Torched Song / Quacker's Lucky Penny",
       "diziid": "tvjny",
@@ -57,7 +58,7 @@
       "url": "https://cizgivedizi.com/dizi/tvjny/tom_ve_jerry_new_yorkta/6/kedi_tuyu__sss%21__duygusal_bir_sarki__yavru_ordekin_sansli_bozuklugu"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Ready Teddy / Swiss Cuckoo / Dream Team / Private Tom",
       "diziid": "tvjny",
@@ -65,8 +66,8 @@
       "url": "https://cizgivedizi.com/dizi/tvjny/tom_ve_jerry_new_yorkta/7/hazir_ayicik__isvec_guguk_kusu__ruya_takim__er_tom"
     },
     {
-      "season": 1,
-      "episode": 8,
+      "season": 2,
+      "episode": 1,
       "title": "Top of the Heap / Stunt Double Trouble / Surfer Supreme / Kabuki Cat",
       "diziid": "tvjny",
       "bolum": "8",
@@ -74,39 +75,39 @@
     },
     {
       "season": 2,
-      "episode": 9,
+      "episode": 2,
       "title": "Too Much Monkey Business / Doggie Championship / Snow Day / Toots the Terrible",
       "diziid": "tvjny",
       "bolum": "9",
       "url": "https://cizgivedizi.com/dizi/tvjny/tom_ve_jerry_new_yorkta/9/cok_fazla_maymun_sorunu__kopek_sampiyonasi__karli_gun__kotu_toots"
     },
     {
-      "season": 3,
-      "episode": 10,
+      "season": 2,
+      "episode": 3,
       "title": "The Spa's the Limit / The Hair Dignitary / Year of the Mouse / Relativity",
       "diziid": "tvjny",
       "bolum": "10",
       "url": "https://cizgivedizi.com/dizi/tvjny/tom_ve_jerry_new_yorkta/10/spa_son_noktamizdir__tuylu_yuksek_mevki_sahibi__fare_yili__baglilik"
     },
     {
-      "season": 4,
-      "episode": 11,
+      "season": 2,
+      "episode": 4,
       "title": "Cat and Mouse Burglars / Caterpillar and Mouse / The Pied Piper of Harlem / Lazy Jerry",
       "diziid": "tvjny",
       "bolum": "11",
       "url": "https://cizgivedizi.com/dizi/tvjny/tom_ve_jerry_new_yorkta/11/yaramaz_kedi_ve_fare__tirtil_ve_fare__fareli_koyun_kavalcisi__tembel_jerry"
     },
     {
-      "season": 5,
-      "episode": 12,
+      "season": 2,
+      "episode": 5,
       "title": "To Your Health / Golf Brawl / Tom's Swan Song / King Spike the First and Last",
       "diziid": "tvjny",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/tvjny/tom_ve_jerry_new_yorkta/12/sagligina__golf_arbedesi__ilk_ve_son_kral_spike"
     },
     {
-      "season": 6,
-      "episode": 13,
+      "season": 2,
+      "episode": 6,
       "title": "Planet of Mice / Ball of Fun / Big Apple / Flamingo A-Go-Go",
       "diziid": "tvjny",
       "bolum": "13",

@@ -3,6 +3,7 @@
   "title": "archibald'Ä±n maceralarÄ±",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/ABMPoster.avif",
+  "plot": "GamsÄ±z tavuk Archibald, gÃ¼nlÃ¼k iÅŸlerini yapmayÄ± hatÄ±rlayamasa da eÄŸlenmeyi asla unutmaz. Ne de olsa hayat bir maceradÄ±r!",
   "channel": "Netflix",
   "genres": [
     "Komedi",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/1/denizde_tavuk__kilit_ustasi"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Best in Showbot / The Secret of Madame Baroness",
       "diziid": "abm",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/2/en_iyi_robot__madam_baronessin_sirri"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "The Oath of the Compass / Garbage Fruit",
       "diziid": "abm",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/3/pusulanin_yemini__garbage_meyvesi"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Glide & Gobble / Wheelie, No Hands",
       "diziid": "abm",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/4/bolca_ve_hizla_ye__el_birakarak_gidon_kaldirma"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "The Missing Piece / The Scotchman",
       "diziid": "abm",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/5/eksik_parca__bay_seksek"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Mountain Mayhem / The Gator Spinner Max",
       "diziid": "abm",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/6/dagda_kargasa__yuksek_hizli_pedal"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Dino-Can-Do / The Big Bad Bug",
       "diziid": "abm",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/7/dinozor_tarzi__buyuk_kotu_bocek"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Stuck in Skates / Lawn Circles",
       "diziid": "abm",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/8/sikisan_paten__cimen_cemberi"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Lights, Camera, Crackridge! / Karaoke Dokey",
       "diziid": "abm",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/9/isik%2C_kamera%2C_crackridge%21__karaoke_tamamdir"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "The Enchanted Mansion / The Shell Game",
       "diziid": "abm",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/10/tilsimli_malikane__kabuk_oyunu"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Strutter Sitting / Corny-O Chaos",
       "diziid": "abm",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/11/strutter_yuvasi__misir-o_kaosu"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "The Chicken Has Landed / The Night of the Nibbler",
       "diziid": "abm",
@@ -106,7 +107,7 @@
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/12/tavuk_inis_yapti__lokmalik_gecesi"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "The Primrose Classic / The Blimpateers",
       "diziid": "abm",
@@ -114,8 +115,8 @@
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/13/primrose_klasigi__zeplinliler"
     },
     {
-      "season": 1,
-      "episode": 14,
+      "season": 2,
+      "episode": 1,
       "title": "The Mall Walkers / Treasured Tattoo",
       "diziid": "abm",
       "bolum": "14",
@@ -123,95 +124,95 @@
     },
     {
       "season": 2,
-      "episode": 15,
+      "episode": 2,
       "title": "The Compost Elf / Meet Ya at the Stump",
       "diziid": "abm",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/15/kompost_elfi__kutukte_bulusalim"
     },
     {
-      "season": 3,
-      "episode": 16,
+      "season": 2,
+      "episode": 3,
       "title": "A Taste of Crackridge / The Bird and the Bee",
       "diziid": "abm",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/16/crackridgein_damak_tadi__kus_ve_ari"
     },
     {
-      "season": 4,
-      "episode": 17,
+      "season": 2,
+      "episode": 4,
       "title": "Lake Ball Pit / The Poppy Corn Festival",
       "diziid": "abm",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/17/top_havuzu_cukuru__patlak_misir_festivali"
     },
     {
-      "season": 5,
-      "episode": 18,
+      "season": 2,
+      "episode": 5,
       "title": "The Paperbirds / Rock and Egg Roll",
       "diziid": "abm",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/18/gazeteci_kuslar__tas_ve_suruklenen_ev"
     },
     {
-      "season": 6,
-      "episode": 19,
+      "season": 2,
+      "episode": 6,
       "title": "The Chair Museum / The Legend of Crackerfoot",
       "diziid": "abm",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/19/sandalye_muzesi__crack_ayak_efsanesi"
     },
     {
-      "season": 7,
-      "episode": 20,
+      "season": 2,
+      "episode": 7,
       "title": "Baritone Tea Part 1 / Baritone Tea Part 2",
       "diziid": "abm",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/20/bariton_cayi%3A_kisim_1__bariton_cayi%3A_kisim_2"
     },
     {
-      "season": 8,
-      "episode": 21,
+      "season": 2,
+      "episode": 8,
       "title": "DÃ©jÃ  Flu / Crackridge Live!",
       "diziid": "abm",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/21/deja_nezle__canli_canli_crackridge%21"
     },
     {
-      "season": 9,
-      "episode": 22,
+      "season": 2,
+      "episode": 9,
       "title": "House of the Future / Dr. Buttersocks",
       "diziid": "abm",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/22/gelecegin_evi__doktor_yagli_corap"
     },
     {
-      "season": 10,
-      "episode": 23,
+      "season": 2,
+      "episode": 10,
       "title": "The Royal Strutters / Impromptu Cruise",
       "diziid": "abm",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/23/asil_strutterlar__ansizin_seyahat"
     },
     {
-      "season": 11,
-      "episode": 24,
+      "season": 2,
+      "episode": 11,
       "title": "The Four Flamingos / The Roaring Rooster",
       "diziid": "abm",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/24/dort_flamingo__gurleyen_horoz"
     },
     {
-      "season": 12,
-      "episode": 25,
+      "season": 2,
+      "episode": 12,
       "title": "Dang, I'm Rich! / Power Play",
       "diziid": "abm",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/abm/archibaldin_maceralari/25/ise_bak%2C_zengin_oldum%21__elektrik_oyunu"
     },
     {
-      "season": 13,
-      "episode": 26,
+      "season": 2,
+      "episode": 13,
       "title": "Big Fun Town / New Crackridge",
       "diziid": "abm",
       "bolum": "26",

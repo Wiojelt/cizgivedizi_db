@@ -3,6 +3,7 @@
   "title": "teneffÃ¼s zili",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/TENZPoster.avif",
+  "plot": "TeneffÃ¼s Zili, ÃœÃ§Ã¼ncÃ¼ Sokak Okulu'nda geleneksel toplumu yansÄ±tan, kendi hÃ¼kÃ¼meti, sÄ±nÄ±f sistemi ve kurallarÄ± olan kÃ¼Ã§Ã¼k bir evren kurmuÅŸ olan Ã¶ÄŸrencilerin hayatlarÄ±nÄ± anlatÄ±r.",
   "channel": "Disney+",
   "genres": [
     "Komedi",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/1/hirsizlik__yeni_cocuk"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "The Experiment / The Great Jungle Gym Standoff",
       "diziid": "tenz",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/2/deney__oyuncak_merdiven_yarislari"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Jinxed / Officer Mikey",
       "diziid": "tenz",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/3/ugursuz__memur_mikey"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "First Name, Ashley / To Finster, with Love",
       "diziid": "tenz",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/4/adim_ashley__finstera_sevgilerle"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "King Gus / Big Brother Chad",
       "diziid": "tenz",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/5/kral_gus__agabey_chad"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "My Fair Gretchen / Speedy, We Hardly Knew Ye",
       "diziid": "tenz",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/6/benim_guzel_gretchenim__gule_gule_speedy"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "I Will Kick No More Forever / The Kid Came Back",
       "diziid": "tenz",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/7/artik_oynamayacagim__cocuk_geri_dondu"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "The Pest / The Legend of Big Kid",
       "diziid": "tenz",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/8/bas_belasi__buyuk_cocugun_efsanesi"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "The Trial / The Box",
       "diziid": "tenz",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/9/dava__kutu"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Teacher's Lounge / Randall's Reform",
       "diziid": "tenz",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/10/ogretmenler_odasi__randallin_devrimi"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Rainy Days / The Great Can Drive",
       "diziid": "tenz",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/11/yagmurlu_gunler__teneke_yarisi"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Kids in the Mist / The Voice",
       "diziid": "tenz",
@@ -106,7 +107,7 @@
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/12/sisteki_cocuklar__ses"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "Parents' Night / Swing on Thru to the Other Side",
       "diziid": "tenz",
@@ -114,8 +115,8 @@
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/13/veli_toplantisi__diger_tarafta_bulusalim"
     },
     {
-      "season": 1,
-      "episode": 14,
+      "season": 2,
+      "episode": 1,
       "title": "The Break-Up / The Hypnotist",
       "diziid": "tenz",
       "bolum": "14",
@@ -123,111 +124,111 @@
     },
     {
       "season": 2,
-      "episode": 15,
+      "episode": 2,
       "title": "Mama's Girl / Outcast Ashley",
       "diziid": "tenz",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/15/annesinin_kizi__serseri_ashley"
     },
     {
-      "season": 3,
-      "episode": 16,
+      "season": 2,
+      "episode": 3,
       "title": "The Game / The Lost Ball",
       "diziid": "tenz",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/16/oyun__kayip_top"
     },
     {
-      "season": 4,
-      "episode": 17,
+      "season": 2,
+      "episode": 4,
       "title": "Gus' Last Stand / Operation Field Trip",
       "diziid": "tenz",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/17/gusin_son_kalesi__okul_gezisi_operasyonu"
     },
     {
-      "season": 5,
-      "episode": 18,
+      "season": 2,
+      "episode": 5,
       "title": "The Challenge / Wild Child",
       "diziid": "tenz",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/18/duello__yabani_cocuk"
     },
     {
-      "season": 6,
-      "episode": 19,
+      "season": 2,
+      "episode": 6,
       "title": "The Substitute / Gretchen and the Secret of Yo",
       "diziid": "tenz",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/19/yedek_ogretmen__gretchen_ve_yonun_sirri"
     },
     {
-      "season": 7,
-      "episode": 20,
+      "season": 2,
+      "episode": 7,
       "title": "The Girl Was Trouble / Copycat Kid",
       "diziid": "tenz",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/20/sorunlu_kiz__kopyaci_cocuk"
     },
     {
-      "season": 8,
-      "episode": 21,
+      "season": 2,
+      "episode": 8,
       "title": "Operation Stuart / Pharaoh Bob",
       "diziid": "tenz",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/21/stuart_operasyonu__firavun_bob"
     },
     {
-      "season": 9,
-      "episode": 22,
+      "season": 2,
+      "episode": 9,
       "title": "Economics of Recess / Omega Kids",
       "diziid": "tenz",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/22/teneffus_ekonomisi__omega_cocuklari"
     },
     {
-      "season": 10,
-      "episode": 23,
+      "season": 2,
+      "episode": 10,
       "title": "Yes, Mikey, Santa Does Shave",
       "diziid": "tenz",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/23/evet_mikey%2C_noel_baba_tiras_olur"
     },
     {
-      "season": 11,
-      "episode": 24,
+      "season": 2,
+      "episode": 11,
       "title": "The Story of Whomps / Weekend at Muriel's",
       "diziid": "tenz",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/24/whomplarin_hikayesi__murielda_hafta_sonu"
     },
     {
-      "season": 12,
-      "episode": 25,
+      "season": 2,
+      "episode": 12,
       "title": "Bad Hair Day / Dance Lessons",
       "diziid": "tenz",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/25/kotu_sac_gunu__dans_dersleri"
     },
     {
-      "season": 13,
-      "episode": 26,
+      "season": 2,
+      "episode": 13,
       "title": "Principal for a Day / The Beauty Contest",
       "diziid": "tenz",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/26/bir_gunluk_mudur__guzellik_yarismasi"
     },
     {
-      "season": 1,
-      "episode": 27,
+      "season": 3,
+      "episode": 1,
       "title": "One Stayed Clean / Rumor Mill",
       "diziid": "tenz",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/27/temiz_kalan_tek_kisi__dedikodu_kazani"
     },
     {
-      "season": 2,
-      "episode": 28,
+      "season": 3,
+      "episode": 2,
       "title": "The Shiner / Stand Up Randall",
       "diziid": "tenz",
       "bolum": "28",
@@ -235,295 +236,295 @@
     },
     {
       "season": 3,
-      "episode": 29,
+      "episode": 3,
       "title": "That Stinking Feeling / Lord of the Nerds",
       "diziid": "tenz",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/29/su_kotu_his__ineklerin_krali"
     },
     {
-      "season": 4,
-      "episode": 30,
+      "season": 3,
+      "episode": 4,
       "title": "My Funny Valentines / The Ratings Game",
       "diziid": "tenz",
       "bolum": "30",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/30/benim_komik_sevgilim__siralandirma_oyunu"
     },
     {
-      "season": 5,
-      "episode": 31,
+      "season": 3,
+      "episode": 5,
       "title": "Partners in Crime / The Bet",
       "diziid": "tenz",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/31/suc_ortaklari__bahis"
     },
     {
-      "season": 6,
-      "episode": 32,
+      "season": 3,
+      "episode": 6,
       "title": "Spinelli's Masterpiece / Nobody Doesn't Like T.J.",
       "diziid": "tenz",
       "bolum": "32",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/32/spinelinin_saheseri__herkes_t.j.i_sever"
     },
     {
-      "season": 7,
-      "episode": 33,
+      "season": 3,
+      "episode": 7,
       "title": "Yope from Norway / The Library Kid",
       "diziid": "tenz",
       "bolum": "33",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/33/norvecli_yope__kutuphanedeki_cocuk"
     },
     {
-      "season": 8,
-      "episode": 34,
+      "season": 3,
+      "episode": 8,
       "title": "Me No Know / Good Ole T.J.",
       "diziid": "tenz",
       "bolum": "34",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/34/ben_bilmem__bizim_t.j."
     },
     {
-      "season": 9,
-      "episode": 35,
+      "season": 3,
+      "episode": 9,
       "title": "The Big Prank / Hustler's Apprentice",
       "diziid": "tenz",
       "bolum": "35",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/35/buyuk_esek_sakasi__dalaverecinin_ciragi"
     },
     {
-      "season": 10,
-      "episode": 36,
+      "season": 3,
+      "episode": 10,
       "title": "Gus and Misdemeanors / A Science Fair to Remember",
       "diziid": "tenz",
       "bolum": "36",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/36/gus_ve_yaramazliklar__unutulmayacak_bir_bilim_fuari"
     },
     {
-      "season": 11,
-      "episode": 37,
+      "season": 3,
+      "episode": 11,
       "title": "The Dude / Bonky Fever",
       "diziid": "tenz",
       "bolum": "37",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/37/ahbap__bonky_atesi"
     },
     {
-      "season": 12,
-      "episode": 38,
+      "season": 3,
+      "episode": 12,
       "title": "The Barnaby Boys / Buried Treasure",
       "diziid": "tenz",
       "bolum": "38",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/38/barnaby_cocuklari__gomulu_hazine"
     },
     {
-      "season": 13,
-      "episode": 39,
+      "season": 3,
+      "episode": 13,
       "title": "A Great State Fair / The A.V. Kid",
       "diziid": "tenz",
       "bolum": "39",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/39/eyalet_fuari__iletisim_kolu_cocugu"
     },
     {
-      "season": 14,
-      "episode": 40,
+      "season": 3,
+      "episode": 14,
       "title": "The Fuss Over Finster / Soccer Boy",
       "diziid": "tenz",
       "bolum": "40",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/40/finsterin_uzerine_dusmek__futbol_oglani"
     },
     {
-      "season": 15,
-      "episode": 41,
+      "season": 3,
+      "episode": 15,
       "title": "Old Folks Home / Some Friend",
       "diziid": "tenz",
       "bolum": "41",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/41/huzur_evi__ne_bicim_arkadas"
     },
     {
-      "season": 16,
-      "episode": 42,
+      "season": 3,
+      "episode": 16,
       "title": "Kindergarten Derby / A Career to Remember",
       "diziid": "tenz",
       "bolum": "42",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/42/kres_derbisi__hatirlamaya_deger_bir_kariyer"
     },
     {
-      "season": 17,
-      "episode": 43,
+      "season": 3,
+      "episode": 17,
       "title": "A Genius Among Us / The Spy Who Came in from the Playground",
       "diziid": "tenz",
       "bolum": "43",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/43/aramizdaki_dahi__oyun_parkindan_gelen_dahi"
     },
     {
-      "season": 18,
-      "episode": 44,
+      "season": 3,
+      "episode": 18,
       "title": "The First Picture Show / Gus' Fortune",
       "diziid": "tenz",
       "bolum": "44",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/44/ilk_gosterim__gusun_fali"
     },
     {
-      "season": 19,
-      "episode": 45,
+      "season": 3,
+      "episode": 19,
       "title": "The Madness of King Bob / Call Me Guy",
       "diziid": "tenz",
       "bolum": "45",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/45/kral_bobun_deliligi__bana_guy_de"
     },
     {
-      "season": 20,
-      "episode": 46,
+      "season": 3,
+      "episode": 20,
       "title": "Dodgeball City / Space Cadet",
       "diziid": "tenz",
       "bolum": "46",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/46/yakartop_sehri__akli_bir_karis_havada"
     },
     {
-      "season": 21,
-      "episode": 47,
+      "season": 3,
+      "episode": 21,
       "title": "The Biggest Trouble Ever / The Rules",
       "diziid": "tenz",
       "bolum": "47",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/47/en_buyuk_bela__kurallar"
     },
     {
-      "season": 22,
-      "episode": 48,
+      "season": 3,
+      "episode": 22,
       "title": "Good Luck Charm / Diggers Split Up",
       "diziid": "tenz",
       "bolum": "48",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/48/sansli_tas__diggerlar_ayriliyor"
     },
     {
-      "season": 23,
-      "episode": 49,
+      "season": 3,
+      "episode": 23,
       "title": "The Candidates / This Brain for Hire",
       "diziid": "tenz",
       "bolum": "49",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/49/adaylar__kiralik_beyin"
     },
     {
-      "season": 24,
-      "episode": 50,
+      "season": 3,
+      "episode": 24,
       "title": "Chez Vince / Tucked in Mikey",
       "diziid": "tenz",
       "bolum": "50",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/50/vincein_yeri__sair_mikey"
     },
     {
-      "season": 25,
-      "episode": 51,
+      "season": 3,
+      "episode": 25,
       "title": "Lawson and His Crew",
       "diziid": "tenz",
       "bolum": "51",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/51/lawson_ve_ekibi"
     },
     {
-      "season": 26,
-      "episode": 52,
+      "season": 3,
+      "episode": 26,
       "title": "Mikey's Pants / Here Comes Mr. Perfect",
       "diziid": "tenz",
       "bolum": "52",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/52/mikeynin_pantolonu__iste_bay_mukemmel"
     },
     {
-      "season": 27,
-      "episode": 53,
+      "season": 3,
+      "episode": 27,
       "title": "Lost Leader / League of Randalls",
       "diziid": "tenz",
       "bolum": "53",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/53/kayip_lider__randallarin_ligi"
     },
     {
-      "season": 28,
-      "episode": 54,
+      "season": 3,
+      "episode": 28,
       "title": "The Coolest Heatwave Ever / Mundy, Mundy",
       "diziid": "tenz",
       "bolum": "54",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/54/en_havali_sicaklik_dalgasi__mundy%2C_mundy"
     },
     {
-      "season": 29,
-      "episode": 55,
+      "season": 3,
+      "episode": 29,
       "title": "Don't Ask Me / The Secret Life of Grotke",
       "diziid": "tenz",
       "bolum": "55",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/55/bana_sorma__grotkenin_gizli_yasami"
     },
     {
-      "season": 30,
-      "episode": 56,
+      "season": 3,
+      "episode": 30,
       "title": "Beyond a Reasonable Scout / The Army/Navy Game",
       "diziid": "tenz",
       "bolum": "56",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/56/mantikli_bir_izciden_de_ote__ordu__donanma_oyunlari"
     },
     {
-      "season": 31,
-      "episode": 57,
+      "season": 3,
+      "episode": 31,
       "title": "The C Note / Big Ol' Mikey",
       "diziid": "tenz",
       "bolum": "57",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/57/c_banknotu__koca_mikey"
     },
     {
-      "season": 32,
-      "episode": 58,
+      "season": 3,
+      "episode": 32,
       "title": "All the Principal's Men / No Strings Attached",
       "diziid": "tenz",
       "bolum": "58",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/58/mudurun_tum_adamlari__kosulsuz"
     },
     {
-      "season": 33,
-      "episode": 59,
+      "season": 3,
+      "episode": 33,
       "title": "Schoolworld / Bachelor Gus",
       "diziid": "tenz",
       "bolum": "59",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/59/okul_dunyasi__bekar_gus"
     },
     {
-      "season": 34,
-      "episode": 60,
+      "season": 3,
+      "episode": 34,
       "title": "Terrifying Tales of Recess",
       "diziid": "tenz",
       "bolum": "60",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/60/korkunc_teneffus_hikayeleri"
     },
     {
-      "season": 35,
-      "episode": 61,
+      "season": 3,
+      "episode": 35,
       "title": "The Principals of Golf / Kurst the Not So Bad",
       "diziid": "tenz",
       "bolum": "61",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/61/golfun_kurallari__kurt_aslinda_fena_degil"
     },
     {
-      "season": 36,
-      "episode": 62,
+      "season": 3,
+      "episode": 36,
       "title": "Recess Is Cancelled / Tattletale Heart",
       "diziid": "tenz",
       "bolum": "62",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/62/teneffus_iptal_edildi__ispiyoncu"
     },
     {
-      "season": 37,
-      "episode": 63,
+      "season": 3,
+      "episode": 37,
       "title": "Prickly Is Leaving / Randall's Friends",
       "diziid": "tenz",
       "bolum": "63",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/63/prickly_gidiyor__randallin_arkadaslari"
     },
     {
-      "season": 38,
-      "episode": 64,
+      "season": 3,
+      "episode": 38,
       "title": "Fort Tender / Germ Warfare",
       "diziid": "tenz",
       "bolum": "64",
       "url": "https://cizgivedizi.com/dizi/tenz/teneffus_zili/64/nazik_kale__mikrop_savaslari"
     },
     {
-      "season": 39,
-      "episode": 65,
+      "season": 3,
+      "episode": 39,
       "title": "More Like Gretchen / Prince Randall",
       "diziid": "tenz",
       "bolum": "65",

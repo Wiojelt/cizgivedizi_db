@@ -3,6 +3,7 @@
   "title": "uzay tavuklarÄ± uzayda",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/UYUPoster.avif",
+  "plot": "3 tavuk yanlÄ±ÅŸlÄ±kla bir uzay akademisine kaydedilir.",
   "channel": "Disney XD",
   "genres": [
     "Bilim Kurgu",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/1/thorgnaki_kandirmak"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Bliblisitting",
       "diziid": "utu",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/2/blibli_bakiciligi"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Best Pal",
       "diziid": "utu",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/3/yakin_arkadas"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "The Egg",
       "diziid": "utu",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/4/yumurta"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Atori",
       "diziid": "utu",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/5/atori"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Players Gotta Play",
       "diziid": "utu",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/6/oyuncular_oynamali"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Green-Eyed Monster",
       "diziid": "utu",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/7/yesil_gozlu_canavar"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "I Believe I Can Fly",
       "diziid": "utu",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/8/ucabiliyorum%2C_inaniyorum"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Friendchip",
       "diziid": "utu",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/9/arkadas_cipi"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Freezing Awesome",
       "diziid": "utu",
@@ -90,7 +91,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/10/dondurucu_muthislik"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Idle Idols",
       "diziid": "utu",
@@ -98,7 +99,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/11/bos_idoller"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Try Not to Laugh",
       "diziid": "utu",
@@ -106,7 +107,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/12/gulmemeye_calis"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "Food Fight",
       "diziid": "utu",
@@ -114,7 +115,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/13/yemek_kavgasi"
     },
     {
-      "season": 14,
+      "season": 1,
       "episode": 14,
       "title": "Poor Dweezil",
       "diziid": "utu",
@@ -122,7 +123,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/14/zavalli_dweezil"
     },
     {
-      "season": 15,
+      "season": 1,
       "episode": 15,
       "title": "Floofy Flibby Kiss-Kiss",
       "diziid": "utu",
@@ -130,7 +131,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/15/zipir_kipir_muc_muc"
     },
     {
-      "season": 16,
+      "season": 1,
       "episode": 16,
       "title": "You Snooze You Cruise",
       "diziid": "utu",
@@ -138,7 +139,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/16/uyurucar"
     },
     {
-      "season": 17,
+      "season": 1,
       "episode": 17,
       "title": "Three Trippion Parsec Trip",
       "diziid": "utu",
@@ -146,7 +147,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/17/parsec_uzakta"
     },
     {
-      "season": 18,
+      "season": 1,
       "episode": 18,
       "title": "Final Exam",
       "diziid": "utu",
@@ -154,7 +155,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/18/final_sinavi"
     },
     {
-      "season": 19,
+      "season": 1,
       "episode": 19,
       "title": "Alpha Chuck",
       "diziid": "utu",
@@ -162,7 +163,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/19/alfa_chuck"
     },
     {
-      "season": 20,
+      "season": 1,
       "episode": 20,
       "title": "Being Glargg",
       "diziid": "utu",
@@ -170,7 +171,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/20/glargg_olmak"
     },
     {
-      "season": 21,
+      "season": 1,
       "episode": 21,
       "title": "All Flying and Chill",
       "diziid": "utu",
@@ -178,7 +179,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/21/keyifli_ucuslar"
     },
     {
-      "season": 22,
+      "season": 1,
       "episode": 22,
       "title": "Jail Birds",
       "diziid": "utu",
@@ -186,7 +187,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/22/kafes_kuslari"
     },
     {
-      "season": 23,
+      "season": 1,
       "episode": 23,
       "title": "Ommminious Foreshadowing",
       "diziid": "utu",
@@ -194,7 +195,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/23/ommmun_ugursuz_kehaneti"
     },
     {
-      "season": 24,
+      "season": 1,
       "episode": 24,
       "title": "Draw Anything",
       "diziid": "utu",
@@ -202,7 +203,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/24/istedigini_ciz"
     },
     {
-      "season": 27,
+      "season": 1,
       "episode": 25,
       "title": "Cadet Clarkk",
       "diziid": "utu",
@@ -210,7 +211,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/27/ogrenci_clarkk"
     },
     {
-      "season": 28,
+      "season": 1,
       "episode": 26,
       "title": "Stop Bugging Me",
       "diziid": "utu",
@@ -218,7 +219,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/28/beni_sinir_etme"
     },
     {
-      "season": 29,
+      "season": 1,
       "episode": 27,
       "title": "Personal Spacetime",
       "diziid": "utu",
@@ -226,7 +227,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/29/uzayda_kisisel_alan"
     },
     {
-      "season": 30,
+      "season": 1,
       "episode": 28,
       "title": "Chicken in the Egg",
       "diziid": "utu",
@@ -234,7 +235,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/30/yumurtadaki_tavuk"
     },
     {
-      "season": 31,
+      "season": 1,
       "episode": 29,
       "title": "Chuck's First Command",
       "diziid": "utu",
@@ -242,7 +243,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/31/chuckin_ilk_gemisi"
     },
     {
-      "season": 32,
+      "season": 1,
       "episode": 30,
       "title": "One of a Kind",
       "diziid": "utu",
@@ -250,7 +251,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/32/turunun_tek_ornegi"
     },
     {
-      "season": 33,
+      "season": 1,
       "episode": 31,
       "title": "Beat Beat Chicken Chicken",
       "diziid": "utu",
@@ -258,7 +259,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/33/ritmik_tavuklar"
     },
     {
-      "season": 34,
+      "season": 1,
       "episode": 32,
       "title": "Finley Cleanly",
       "diziid": "utu",
@@ -266,7 +267,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/34/titiz_finley"
     },
     {
-      "season": 35,
+      "season": 1,
       "episode": 33,
       "title": "The Chicken Feed",
       "diziid": "utu",
@@ -274,7 +275,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/35/kumes_yayini"
     },
     {
-      "season": 36,
+      "season": 1,
       "episode": 34,
       "title": "Quizardry",
       "diziid": "utu",
@@ -282,7 +283,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/36/sinavbazlik"
     },
     {
-      "season": 37,
+      "season": 1,
       "episode": 35,
       "title": "Pale Blue Rock",
       "diziid": "utu",
@@ -290,7 +291,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/37/ucuk_mavi_kaya"
     },
     {
-      "season": 38,
+      "season": 1,
       "episode": 36,
       "title": "Blibli Squared",
       "diziid": "utu",
@@ -298,7 +299,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/38/bliblinin_karesi"
     },
     {
-      "season": 39,
+      "season": 1,
       "episode": 37,
       "title": "The Good Guy Choice",
       "diziid": "utu",
@@ -306,7 +307,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/39/iyi_kisi_secimi"
     },
     {
-      "season": 40,
+      "season": 1,
       "episode": 38,
       "title": "Presidential Coop",
       "diziid": "utu",
@@ -314,7 +315,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/40/kumes_secimi"
     },
     {
-      "season": 41,
+      "season": 1,
       "episode": 39,
       "title": "Phil My Heart",
       "diziid": "utu",
@@ -322,7 +323,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/41/kalbimin_phili"
     },
     {
-      "season": 42,
+      "season": 1,
       "episode": 40,
       "title": "Snot Like This",
       "diziid": "utu",
@@ -330,7 +331,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/42/burun_tikanikliginin_boylesi"
     },
     {
-      "season": 43,
+      "season": 1,
       "episode": 41,
       "title": "No Brain No Pain",
       "diziid": "utu",
@@ -338,7 +339,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/43/beyin_yoksa_dert_de_yok"
     },
     {
-      "season": 44,
+      "season": 1,
       "episode": 42,
       "title": "Who's Wearing the Coolpants",
       "diziid": "utu",
@@ -346,7 +347,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/44/havali_pantolonlar_kimde"
     },
     {
-      "season": 45,
+      "season": 1,
       "episode": 43,
       "title": "Secret Society of a Secret Thing",
       "diziid": "utu",
@@ -354,7 +355,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/45/gizli_seyin_gizli_orgutu"
     },
     {
-      "season": 46,
+      "season": 1,
       "episode": 44,
       "title": "Bad Bad Bad",
       "diziid": "utu",
@@ -362,7 +363,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/46/kotu_kotu_kotu"
     },
     {
-      "season": 47,
+      "season": 1,
       "episode": 45,
       "title": "Smells Like Chicken",
       "diziid": "utu",
@@ -370,7 +371,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/47/tavuk_kokusu"
     },
     {
-      "season": 48,
+      "season": 1,
       "episode": 46,
       "title": "Smartest Chicken in Town",
       "diziid": "utu",
@@ -378,7 +379,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/48/sehirdeki_en_zeki_tavuk"
     },
     {
-      "season": 49,
+      "season": 1,
       "episode": 47,
       "title": "Ultimate Niven",
       "diziid": "utu",
@@ -386,7 +387,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/49/en_super_niven"
     },
     {
-      "season": 50,
+      "season": 1,
       "episode": 48,
       "title": "Camp Ghosty Pants",
       "diziid": "utu",
@@ -394,7 +395,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/50/hayaletli_kamp"
     },
     {
-      "season": 51,
+      "season": 1,
       "episode": 49,
       "title": "Chicken Out",
       "diziid": "utu",
@@ -402,7 +403,7 @@
       "url": "https://cizgivedizi.com/dizi/utu/uzay_tavuklari_uzayda/51/tavuk_kacar"
     },
     {
-      "season": 52,
+      "season": 1,
       "episode": 50,
       "title": "Chicken Back Again",
       "diziid": "utu",

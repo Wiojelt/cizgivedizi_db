@@ -3,6 +3,7 @@
   "title": "karanlÄ±kta hikayeler (2019)",
   "type": "dizi",
   "poster": "https://cizgivedizi.com/resim/KHPoster.avif",
+  "plot": "Bir grup genÃ§ karanlÄ±kta bir araya gelerek korkunÃ§ hikayeler anlatÄ±yor.",
   "channel": "Nickelodeon",
   "genres": [
     "Korku",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/kh/karanlikta_hikayeler_2019/4/perili_ahsabin_hikayesi"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "The Tale of the Night Frights",
       "diziid": "kh",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/kh/karanlikta_hikayeler_2019/5/gece_korkularinin_hikayesi"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "The Tale of the Phantom Light",
       "diziid": "kh",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/kh/karanlikta_hikayeler_2019/6/hayalet_isigin_hikayesi"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "The Tale of the Danse Macabre",
       "diziid": "kh",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/kh/karanlikta_hikayeler_2019/7/karanlik_dansin_hikayesi"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "The Tale of the Midnight Magic",
       "diziid": "kh",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/kh/karanlikta_hikayeler_2019/8/gece_yarisinin_buyusunun_hikayesi"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "The Tale of the Darkhouse",
       "diziid": "kh",

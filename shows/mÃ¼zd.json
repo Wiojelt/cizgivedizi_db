@@ -3,6 +3,7 @@
   "title": "mÃ¼ziÄŸin dahileri",
   "type": "dizi",
   "poster": "https://cizgivedizi.com/resim/MÃœZDPoster.avif",
+  "plot": "Suzy Klein 19. yÃ¼zyÄ±lÄ±n mÃ¼ziÄŸini keÅŸfediyor ve dÃ¼nyayÄ± deÄŸiÅŸtiren yÄ±ldÄ±zlarÄ±n ortaya Ã§Ä±kÄ±ÅŸÄ±nÄ± anlatÄ±yor.",
   "channel": "Da Vinci",
   "genres": [
     "MÃ¼zik/MÃ¼zikal",
@@ -13,23 +14,23 @@
       "season": 1,
       "episode": 1,
       "title": "We Can Be Heroes",
-      "diziid": "m%C3%BCzd",
+      "diziid": "mÃ¼zd",
       "bolum": "1",
       "url": "https://cizgivedizi.com/dizi/m%C3%BCzd/muzigin_dahileri/1/kahraman_olabiliriz"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Talkin' 'bout a Revolution",
-      "diziid": "m%C3%BCzd",
+      "diziid": "mÃ¼zd",
       "bolum": "2",
       "url": "https://cizgivedizi.com/dizi/m%C3%BCzd/muzigin_dahileri/2/bir_devrimden_bahsetmek"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Party like it's 1899",
-      "diziid": "m%C3%BCzd",
+      "diziid": "mÃ¼zd",
       "bolum": "3",
       "url": "https://cizgivedizi.com/dizi/m%C3%BCzd/muzigin_dahileri/3/1899daki_parti_gibi"
     }

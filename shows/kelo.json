@@ -3,6 +3,7 @@
   "title": "keloÄŸlan",
   "type": "cizgi",
   "poster": "https://cizgivedizi.com/resim/KELOPoster.avif",
+  "plot": "KeloÄŸlan ve arkadaÅŸlarÄ± ile tanÄ±ÅŸÄ±n! Onlar kÃ¼Ã§Ã¼k kasabalarÄ±nda tÃ¼rlÃ¼ maceralara atÄ±lÄ±yor! Bazen Ã‡irkin CadÄ±, Kara Vezir'in kÃ¶tÃ¼ planlarÄ±nÄ± durdururlar bazen de arkadaÅŸlÄ±klarÄ±nÄ± gÃ¼Ã§lendirirlâ€¦",
   "channel": "TRT Ã‡ocuk",
   "genres": [
     "Macera",
@@ -19,7 +20,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/1/keloglan_testiyi_kurtariyor"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "GenÃ§lik KupasÄ±",
       "diziid": "kelo",
@@ -27,7 +28,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/2/genclik_kupasi"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "KeloÄŸlan Dilek Diliyor",
       "diziid": "kelo",
@@ -35,7 +36,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/3/keloglan_dilek_diliyor"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "AltÄ±n BalÄ±k",
       "diziid": "kelo",
@@ -43,7 +44,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/4/altin_balik"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "GÃ¶rÃ¼nmezlik Ä°ksiri",
       "diziid": "kelo",
@@ -51,7 +52,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/5/gorunmezlik_iksiri"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Kel BaÅŸÄ±m Dertli BaÅŸÄ±m",
       "diziid": "kelo",
@@ -59,7 +60,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/6/kel_basim_dertli_basim"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "YÄ±lÄ±n MaÃ§Ä±",
       "diziid": "kelo",
@@ -67,7 +68,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/7/yilin_maci"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Ay TaÅŸÄ±",
       "diziid": "kelo",
@@ -75,7 +76,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/8/ay_tasi"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "DeÄŸiÅŸ TokuÅŸ",
       "diziid": "kelo",
@@ -83,7 +84,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/9/degis_tokus"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "BaskÄ±n",
       "diziid": "kelo",
@@ -91,7 +92,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/10/baskin"
     },
     {
-      "season": 11,
+      "season": 1,
       "episode": 11,
       "title": "Yumurta",
       "diziid": "kelo",
@@ -99,7 +100,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/11/yumurta"
     },
     {
-      "season": 12,
+      "season": 1,
       "episode": 12,
       "title": "Hayalet Ev",
       "diziid": "kelo",
@@ -107,7 +108,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/12/hayalet_ev"
     },
     {
-      "season": 13,
+      "season": 1,
       "episode": 13,
       "title": "Tilkican Dede",
       "diziid": "kelo",
@@ -115,7 +116,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/13/tilkican_dede"
     },
     {
-      "season": 14,
+      "season": 1,
       "episode": 14,
       "title": "Hazine Petrol",
       "diziid": "kelo",
@@ -123,7 +124,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/14/hazine_petrol"
     },
     {
-      "season": 15,
+      "season": 1,
       "episode": 15,
       "title": "Ä°klim Balonu",
       "diziid": "kelo",
@@ -131,7 +132,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/15/iklim_balonu"
     },
     {
-      "season": 16,
+      "season": 1,
       "episode": 16,
       "title": "KÄ±rk Ayna",
       "diziid": "kelo",
@@ -139,7 +140,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/16/kirk_ayna"
     },
     {
-      "season": 17,
+      "season": 1,
       "episode": 17,
       "title": "Kum Saati",
       "diziid": "kelo",
@@ -147,7 +148,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/17/kum_saati"
     },
     {
-      "season": 18,
+      "season": 1,
       "episode": 18,
       "title": "TaÅŸ Makas",
       "diziid": "kelo",
@@ -155,7 +156,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/18/tas_makas"
     },
     {
-      "season": 19,
+      "season": 1,
       "episode": 19,
       "title": "Korkuluk",
       "diziid": "kelo",
@@ -163,7 +164,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/19/korkuluk"
     },
     {
-      "season": 20,
+      "season": 1,
       "episode": 20,
       "title": "ÅiÅŸe Cini",
       "diziid": "kelo",
@@ -171,7 +172,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/20/sise_cini"
     },
     {
-      "season": 21,
+      "season": 1,
       "episode": 21,
       "title": "KayÄ±p Bebek",
       "diziid": "kelo",
@@ -179,7 +180,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/21/kayip_bebek"
     },
     {
-      "season": 22,
+      "season": 1,
       "episode": 22,
       "title": "Denizler AltÄ±nda",
       "diziid": "kelo",
@@ -187,7 +188,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/22/denizler_altinda"
     },
     {
-      "season": 23,
+      "season": 1,
       "episode": 23,
       "title": "Kargalar PadiÅŸahÄ±",
       "diziid": "kelo",
@@ -195,7 +196,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/23/kargalar_padisahi"
     },
     {
-      "season": 24,
+      "season": 1,
       "episode": 24,
       "title": "Kuyu CanavarÄ±",
       "diziid": "kelo",
@@ -203,7 +204,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/24/kuyu_canavari"
     },
     {
-      "season": 25,
+      "season": 1,
       "episode": 25,
       "title": "Uzun Yaver'e KarÅŸÄ±",
       "diziid": "kelo",
@@ -211,7 +212,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/25/uzun_yavere_karsi"
     },
     {
-      "season": 26,
+      "season": 1,
       "episode": 26,
       "title": "PadiÅŸahÄ±n RÃ¼yasÄ±",
       "diziid": "kelo",
@@ -219,7 +220,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/26/padisahin_ruyasi"
     },
     {
-      "season": 27,
+      "season": 1,
       "episode": 27,
       "title": "Ã‡izmeli Tilki",
       "diziid": "kelo",
@@ -227,7 +228,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/27/cizmeli_tilki"
     },
     {
-      "season": 28,
+      "season": 1,
       "episode": 28,
       "title": "Hayalet Madenci",
       "diziid": "kelo",
@@ -235,7 +236,7 @@
       "url": "https://cizgivedizi.com/dizi/kelo/keloglan/28/hayalet_madenci"
     },
     {
-      "season": 29,
+      "season": 1,
       "episode": 29,
       "title": "ÅÄ±psevdi Prenses",
       "diziid": "kelo",

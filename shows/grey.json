@@ -3,6 +3,7 @@
   "title": "grey's anatomy",
   "type": "dizi",
   "poster": "https://cizgivedizi.com/ESKÄ°/dizi/resim/poster/GREYPoster.avif",
+  "plot": "YÃ¼ksek yoÄŸunluklu tÄ±bbi drama, Meredith Grey'i ve her gÃ¼n Ã¶lÃ¼m kalÄ±m kararlarÄ±yla karÅŸÄ± karÅŸÄ±ya kalan Grey Sloan Memorial'daki doktor ekibini takip ediyor. Birbirlerinde teselli ve bazen deâ€¦",
   "channel": "Disney+",
   "genres": [
     "Dram",
@@ -19,7 +20,7 @@
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/1/zor_bir_gunun_gecesi_pilot"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "The First Cut Is the Deepest",
       "diziid": "grey",
@@ -27,7 +28,7 @@
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/2/ilk_kesik_en_derin_olandir"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Winning a Battle, Losing the War",
       "diziid": "grey",
@@ -35,7 +36,7 @@
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/3/carpismayi_kazanip_savasi_kaybetmek"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "No Man's Land",
       "diziid": "grey",
@@ -43,7 +44,7 @@
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/4/sahipsiz_topraklar"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Shake Your Groove Thing",
       "diziid": "grey",
@@ -51,7 +52,7 @@
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/5/olugunu_salla"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "If Tomorrow Never Comes",
       "diziid": "grey",
@@ -59,7 +60,7 @@
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/6/yarinlar_hic_gelmezse"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "The Self-Destruct Button",
       "diziid": "grey",
@@ -67,7 +68,7 @@
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/7/kendini_imha_etme_maratonu"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Save Me",
       "diziid": "grey",
@@ -75,7 +76,7 @@
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/8/kurtar_beni"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Who's Zoomin' Who?",
       "diziid": "grey",
@@ -83,8 +84,8 @@
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/9/kimin_eli_kimin_cebinde"
     },
     {
-      "season": 1,
-      "episode": 10,
+      "season": 2,
+      "episode": 1,
       "title": "Raindrops Keep Falling on My Head",
       "diziid": "grey",
       "bolum": "10",
@@ -92,223 +93,223 @@
     },
     {
       "season": 2,
-      "episode": 11,
+      "episode": 2,
       "title": "Enough Is Enough",
       "diziid": "grey",
       "bolum": "11",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/11/kontrolumu_kaybettir"
     },
     {
-      "season": 3,
-      "episode": 12,
+      "season": 2,
+      "episode": 3,
       "title": "Make Me Lose Control",
       "diziid": "grey",
       "bolum": "12",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/12/inkar%2C_inkar%2C_inkar"
     },
     {
-      "season": 4,
-      "episode": 13,
+      "season": 2,
+      "episode": 4,
       "title": "Deny, Deny, Deny",
       "diziid": "grey",
       "bolum": "13",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/13/aciyi_gotur"
     },
     {
-      "season": 5,
-      "episode": 14,
+      "season": 2,
+      "episode": 5,
       "title": "Bring the Pain",
       "diziid": "grey",
       "bolum": "14",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/14/yeter_artik_artik_gozyasi_yok"
     },
     {
-      "season": 6,
-      "episode": 15,
+      "season": 2,
+      "episode": 6,
       "title": "Into You Like a Train",
       "diziid": "grey",
       "bolum": "15",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/15/sana_kosuyorum"
     },
     {
-      "season": 7,
-      "episode": 16,
+      "season": 2,
+      "episode": 7,
       "title": "Let It Be",
       "diziid": "grey",
       "bolum": "16",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/16/oyle_olsun"
     },
     {
-      "season": 8,
-      "episode": 17,
+      "season": 2,
+      "episode": 8,
       "title": "Something to Talk About",
       "diziid": "grey",
       "bolum": "17",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/17/konusulacak_bir_seyler"
     },
     {
-      "season": 9,
-      "episode": 18,
+      "season": 2,
+      "episode": 9,
       "title": "Thanks for the Memories",
       "diziid": "grey",
       "bolum": "18",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/18/anilar_icin_tesekkurler"
     },
     {
-      "season": 10,
-      "episode": 19,
+      "season": 2,
+      "episode": 10,
       "title": "Much Too Much",
       "diziid": "grey",
       "bolum": "19",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/19/cok_cok_fazla"
     },
     {
-      "season": 11,
-      "episode": 20,
+      "season": 2,
+      "episode": 11,
       "title": "Owner of a Lonely Heart",
       "diziid": "grey",
       "bolum": "20",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/20/yalniz_bir_kalbin_sahibi"
     },
     {
-      "season": 12,
-      "episode": 21,
+      "season": 2,
+      "episode": 12,
       "title": "Grandma Got Run Over by a Reindeer",
       "diziid": "grey",
       "bolum": "21",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/21/buyukanneyi_rengeyigi_ezdi"
     },
     {
-      "season": 13,
-      "episode": 22,
+      "season": 2,
+      "episode": 13,
       "title": "Tell Me Sweet Little Lies",
       "diziid": "grey",
       "bolum": "22",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/22/bana_kucuk_masum_yalanlar_soyle"
     },
     {
-      "season": 14,
-      "episode": 23,
+      "season": 2,
+      "episode": 14,
       "title": "Begin the Begin",
       "diziid": "grey",
       "bolum": "23",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/23/baslangica_basla"
     },
     {
-      "season": 15,
-      "episode": 24,
+      "season": 2,
+      "episode": 15,
       "title": "Break on Through",
       "diziid": "grey",
       "bolum": "24",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/24/gardi_dusuyor"
     },
     {
-      "season": 16,
-      "episode": 25,
+      "season": 2,
+      "episode": 16,
       "title": "It's the End of the World",
       "diziid": "grey",
       "bolum": "25",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/25/dunyanin_sonu_geldi"
     },
     {
-      "season": 17,
-      "episode": 26,
+      "season": 2,
+      "episode": 17,
       "title": "As We Know It",
       "diziid": "grey",
       "bolum": "26",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/26/bildigimiz_gibi"
     },
     {
-      "season": 18,
-      "episode": 27,
+      "season": 2,
+      "episode": 18,
       "title": "Yesterday",
       "diziid": "grey",
       "bolum": "27",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/27/dun"
     },
     {
-      "season": 19,
-      "episode": 28,
+      "season": 2,
+      "episode": 19,
       "title": "What Have I Done to Deserve This?",
       "diziid": "grey",
       "bolum": "28",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/28/bunu_hak_edecek_ne_yaptim"
     },
     {
-      "season": 20,
-      "episode": 29,
+      "season": 2,
+      "episode": 20,
       "title": "Band-Aid Covers the Bullet Hole",
       "diziid": "grey",
       "bolum": "29",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/29/yara_bandi%2C_kursun_yarasini_kapatir"
     },
     {
-      "season": 21,
-      "episode": 30,
+      "season": 2,
+      "episode": 21,
       "title": "Superstition",
       "diziid": "grey",
       "bolum": "30",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/30/batil_inanc"
     },
     {
-      "season": 22,
-      "episode": 31,
+      "season": 2,
+      "episode": 22,
       "title": "The Name of the Game",
       "diziid": "grey",
       "bolum": "31",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/31/oyunun_adi"
     },
     {
-      "season": 23,
-      "episode": 32,
+      "season": 2,
+      "episode": 23,
       "title": "Blues for Sister Someone",
       "diziid": "grey",
       "bolum": "32",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/32/bir_kardes_icin_huzun"
     },
     {
-      "season": 24,
-      "episode": 33,
+      "season": 2,
+      "episode": 24,
       "title": "Damage Case",
       "diziid": "grey",
       "bolum": "33",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/33/hasar_vakasi"
     },
     {
-      "season": 25,
-      "episode": 34,
+      "season": 2,
+      "episode": 25,
       "title": "17 Seconds",
       "diziid": "grey",
       "bolum": "34",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/34/17_saniye"
     },
     {
-      "season": 26,
-      "episode": 35,
+      "season": 2,
+      "episode": 26,
       "title": "Deterioration of the Fight or Flight Response",
       "diziid": "grey",
       "bolum": "35",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/35/kavga_et_veya_kac_tepkisinin_bozulmasi"
     },
     {
-      "season": 27,
-      "episode": 36,
+      "season": 2,
+      "episode": 27,
       "title": "Losing My Religion",
       "diziid": "grey",
       "bolum": "36",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/36/losing_my_religion"
     },
     {
-      "season": 1,
-      "episode": 37,
+      "season": 3,
+      "episode": 1,
       "title": "I Am a Tree",
       "diziid": "grey",
       "bolum": "37",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/37/ben_bir_agacim"
     },
     {
-      "season": 2,
-      "episode": 38,
+      "season": 3,
+      "episode": 2,
       "title": "Time Has Come Today",
       "diziid": "grey",
       "bolum": "38",
@@ -316,207 +317,207 @@
     },
     {
       "season": 3,
-      "episode": 39,
+      "episode": 3,
       "title": "Sometimes a Fantasy",
       "diziid": "grey",
       "bolum": "39",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/39/bazen_bir_fantezi"
     },
     {
-      "season": 4,
-      "episode": 40,
+      "season": 3,
+      "episode": 4,
       "title": "What I Am",
       "diziid": "grey",
       "bolum": "40",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/40/ben_buyum"
     },
     {
-      "season": 5,
-      "episode": 41,
+      "season": 3,
+      "episode": 5,
       "title": "Oh, the Guilt",
       "diziid": "grey",
       "bolum": "41",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/41/ah%2C_suc"
     },
     {
-      "season": 6,
-      "episode": 42,
+      "season": 3,
+      "episode": 6,
       "title": "Let the Angels Commit",
       "diziid": "grey",
       "bolum": "42",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/42/birak_melekler_yapsin"
     },
     {
-      "season": 7,
-      "episode": 43,
+      "season": 3,
+      "episode": 7,
       "title": "Where the Boys Are",
       "diziid": "grey",
       "bolum": "43",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/43/cocuklar_orada"
     },
     {
-      "season": 8,
-      "episode": 44,
+      "season": 3,
+      "episode": 8,
       "title": "Staring at the Sun",
       "diziid": "grey",
       "bolum": "44",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/44/gunese_bakmak"
     },
     {
-      "season": 9,
-      "episode": 45,
+      "season": 3,
+      "episode": 9,
       "title": "From a Whisper to a Scream",
       "diziid": "grey",
       "bolum": "45",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/45/fisiltidan_cigliga"
     },
     {
-      "season": 10,
-      "episode": 46,
+      "season": 3,
+      "episode": 10,
       "title": "Don't Stand So Close to Me",
       "diziid": "grey",
       "bolum": "46",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/46/bana_o_kadar_yakin_durma"
     },
     {
-      "season": 11,
-      "episode": 47,
+      "season": 3,
+      "episode": 11,
       "title": "Six Days: Part 1",
       "diziid": "grey",
       "bolum": "47",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/47/alti_gun_1._bolum"
     },
     {
-      "season": 12,
-      "episode": 48,
+      "season": 3,
+      "episode": 12,
       "title": "Great Expectations",
       "diziid": "grey",
       "bolum": "48",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/48/buyuk_beklentiler"
     },
     {
-      "season": 13,
-      "episode": 49,
+      "season": 3,
+      "episode": 13,
       "title": "Wishin' and Hopin'",
       "diziid": "grey",
       "bolum": "49",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/49/dileyip_umut_etmek"
     },
     {
-      "season": 14,
-      "episode": 50,
+      "season": 3,
+      "episode": 14,
       "title": "Six Days (2)",
       "diziid": "grey",
       "bolum": "50",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/50/alti_gun_2._bolum"
     },
     {
-      "season": 15,
-      "episode": 51,
+      "season": 3,
+      "episode": 15,
       "title": "Walk on Water",
       "diziid": "grey",
       "bolum": "51",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/51/suda_yuruyus"
     },
     {
-      "season": 16,
-      "episode": 52,
+      "season": 3,
+      "episode": 16,
       "title": "Drowning on Dry Land",
       "diziid": "grey",
       "bolum": "52",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/52/kuru_toprakta_bogulmak"
     },
     {
-      "season": 17,
-      "episode": 53,
+      "season": 3,
+      "episode": 17,
       "title": "Some Kind of Miracle",
       "diziid": "grey",
       "bolum": "53",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/53/bir_cesit_mucize"
     },
     {
-      "season": 18,
-      "episode": 54,
+      "season": 3,
+      "episode": 18,
       "title": "Scars and Souvenirs",
       "diziid": "grey",
       "bolum": "54",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/54/yaralar_ve_hediyeler"
     },
     {
-      "season": 19,
-      "episode": 55,
+      "season": 3,
+      "episode": 19,
       "title": "My Favorite Mistake",
       "diziid": "grey",
       "bolum": "55",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/55/en_sevdigim_hata"
     },
     {
-      "season": 20,
-      "episode": 56,
+      "season": 3,
+      "episode": 20,
       "title": "Time After Time",
       "diziid": "grey",
       "bolum": "56",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/56/defalarca"
     },
     {
-      "season": 21,
-      "episode": 57,
+      "season": 3,
+      "episode": 21,
       "title": "Desire",
       "diziid": "grey",
       "bolum": "57",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/57/arzu"
     },
     {
-      "season": 22,
-      "episode": 58,
+      "season": 3,
+      "episode": 22,
       "title": "The Other Side of This Life (1)",
       "diziid": "grey",
       "bolum": "58",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/58/bu_hayatin_oteki_tarafi_1._bolum"
     },
     {
-      "season": 23,
-      "episode": 59,
+      "season": 3,
+      "episode": 23,
       "title": "The Other Side of This Life (2)",
       "diziid": "grey",
       "bolum": "59",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/59/bu_hayatin_oteki_tarafi_2._bolum"
     },
     {
-      "season": 24,
-      "episode": 60,
+      "season": 3,
+      "episode": 24,
       "title": "Testing 1-2-3",
       "diziid": "grey",
       "bolum": "60",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/60/deneme_1-2-3"
     },
     {
-      "season": 25,
-      "episode": 61,
+      "season": 3,
+      "episode": 25,
       "title": "Didn't We Almost Have It All?",
       "diziid": "grey",
       "bolum": "61",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/61/neredeyse_basarmadik_mi"
     },
     {
-      "season": 1,
-      "episode": 62,
+      "season": 4,
+      "episode": 1,
       "title": "A Change Is Gonna Come",
       "diziid": "grey",
       "bolum": "62",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/62/bir_degisiklik_olacak"
     },
     {
-      "season": 2,
-      "episode": 63,
+      "season": 4,
+      "episode": 2,
       "title": "Love/Addiction",
       "diziid": "grey",
       "bolum": "63",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/63/ask__bagimlilik"
     },
     {
-      "season": 3,
-      "episode": 64,
+      "season": 4,
+      "episode": 3,
       "title": "Let the Truth Sting",
       "diziid": "grey",
       "bolum": "64",
@@ -524,143 +525,143 @@
     },
     {
       "season": 4,
-      "episode": 65,
+      "episode": 4,
       "title": "The Heart of the Matter",
       "diziid": "grey",
       "bolum": "65",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/65/maddenin_kalbi"
     },
     {
-      "season": 5,
-      "episode": 66,
+      "season": 4,
+      "episode": 5,
       "title": "Haunt You Every Day",
       "diziid": "grey",
       "bolum": "66",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/66/her_gun_pesinde"
     },
     {
-      "season": 6,
-      "episode": 67,
+      "season": 4,
+      "episode": 6,
       "title": "Kung Fu Fighting",
       "diziid": "grey",
       "bolum": "67",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/67/kung_fu_dovusu"
     },
     {
-      "season": 7,
-      "episode": 68,
+      "season": 4,
+      "episode": 7,
       "title": "Physical Attraction... Chemical Reaction",
       "diziid": "grey",
       "bolum": "68",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/68/fiziksel_cekim%2C_kimyasal_tepkime"
     },
     {
-      "season": 8,
-      "episode": 69,
+      "season": 4,
+      "episode": 8,
       "title": "Forever Young",
       "diziid": "grey",
       "bolum": "69",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/69/hep_genc"
     },
     {
-      "season": 9,
-      "episode": 70,
+      "season": 4,
+      "episode": 9,
       "title": "Crash Into Me, Part 1",
       "diziid": "grey",
       "bolum": "70",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/70/carp_bana_1._kisim"
     },
     {
-      "season": 10,
-      "episode": 71,
+      "season": 4,
+      "episode": 10,
       "title": "Crash Into Me: Part 2",
       "diziid": "grey",
       "bolum": "71",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/71/carp_bana_2._kisim"
     },
     {
-      "season": 11,
-      "episode": 72,
+      "season": 4,
+      "episode": 11,
       "title": "Lay Your Hands on Me",
       "diziid": "grey",
       "bolum": "72",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/72/ellerini_sur"
     },
     {
-      "season": 12,
-      "episode": 73,
+      "season": 4,
+      "episode": 12,
       "title": "Where the Wild Things Are",
       "diziid": "grey",
       "bolum": "73",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/73/vahsi_seyler_orada"
     },
     {
-      "season": 13,
-      "episode": 74,
+      "season": 4,
+      "episode": 13,
       "title": "Piece of My Heart",
       "diziid": "grey",
       "bolum": "74",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/74/kalbimin_parcasi"
     },
     {
-      "season": 14,
-      "episode": 75,
+      "season": 4,
+      "episode": 14,
       "title": "The Becoming",
       "diziid": "grey",
       "bolum": "75",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/75/olmak"
     },
     {
-      "season": 15,
-      "episode": 76,
+      "season": 4,
+      "episode": 15,
       "title": "Losing My Mind",
       "diziid": "grey",
       "bolum": "76",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/76/aklimi_kaciriyorum"
     },
     {
-      "season": 16,
-      "episode": 77,
+      "season": 4,
+      "episode": 16,
       "title": "Freedom: Part 1",
       "diziid": "grey",
       "bolum": "77",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/77/ozgurluk_1._kisim"
     },
     {
-      "season": 17,
-      "episode": 78,
+      "season": 4,
+      "episode": 17,
       "title": "Freedom (2)",
       "diziid": "grey",
       "bolum": "78",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/78/ozgurluk_2._kisim"
     },
     {
-      "season": 1,
-      "episode": 79,
+      "season": 5,
+      "episode": 1,
       "title": "Going, Going, Gone",
       "diziid": "grey",
       "bolum": "173",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/173/gidiyorum%2C_gidiyorum%2C_gittim"
     },
     {
-      "season": 2,
-      "episode": 80,
+      "season": 5,
+      "episode": 2,
       "title": "Remember the Time",
       "diziid": "grey",
       "bolum": "174",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/174/o_zamani_hatirla"
     },
     {
-      "season": 3,
-      "episode": 81,
+      "season": 5,
+      "episode": 3,
       "title": "Love the One You're With",
       "diziid": "grey",
       "bolum": "175",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/175/beraber_oldugun_kisiyi_sev"
     },
     {
-      "season": 4,
-      "episode": 82,
+      "season": 5,
+      "episode": 4,
       "title": "I Saw Her Standing There",
       "diziid": "grey",
       "bolum": "176",
@@ -668,199 +669,199 @@
     },
     {
       "season": 5,
-      "episode": 83,
+      "episode": 5,
       "title": "Beautiful Doom",
       "diziid": "grey",
       "bolum": "177",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/177/guzel_kiyamet"
     },
     {
-      "season": 6,
-      "episode": 84,
+      "season": 5,
+      "episode": 6,
       "title": "Second Opinion",
       "diziid": "grey",
       "bolum": "178",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/178/ikinci_gorus"
     },
     {
-      "season": 7,
-      "episode": 85,
+      "season": 5,
+      "episode": 7,
       "title": "I Was Made for Lovin' You",
       "diziid": "grey",
       "bolum": "179",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/179/seni_sevmek_icin_yaratilmisim"
     },
     {
-      "season": 8,
-      "episode": 86,
+      "season": 5,
+      "episode": 8,
       "title": "Love Turns You Upside Down",
       "diziid": "grey",
       "bolum": "180",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/180/ask_insani_alt_ust_eder"
     },
     {
-      "season": 9,
-      "episode": 87,
+      "season": 5,
+      "episode": 9,
       "title": "Run, Baby, Run",
       "diziid": "grey",
       "bolum": "181",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/181/kos%2C_bebegim%2C_kos"
     },
     {
-      "season": 10,
-      "episode": 88,
+      "season": 5,
+      "episode": 10,
       "title": "Things We Said Today",
       "diziid": "grey",
       "bolum": "182",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/182/bugun_soylediklerimiz"
     },
     {
-      "season": 11,
-      "episode": 89,
+      "season": 5,
+      "episode": 11,
       "title": "The End Is the Beginning Is the End",
       "diziid": "grey",
       "bolum": "183",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/183/son_baslangictir%2C_baslangic_sondur"
     },
     {
-      "season": 12,
-      "episode": 90,
+      "season": 5,
+      "episode": 12,
       "title": "Walking on a Dream",
       "diziid": "grey",
       "bolum": "184",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/184/ruyada_yurumek"
     },
     {
-      "season": 13,
-      "episode": 91,
+      "season": 5,
+      "episode": 13,
       "title": "Bad Blood",
       "diziid": "grey",
       "bolum": "185",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/185/husumet"
     },
     {
-      "season": 14,
-      "episode": 92,
+      "season": 5,
+      "episode": 14,
       "title": "The Face of Change",
       "diziid": "grey",
       "bolum": "186",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/186/degisimin_yuzu"
     },
     {
-      "season": 15,
-      "episode": 93,
+      "season": 5,
+      "episode": 15,
       "title": "Hard Bargain",
       "diziid": "grey",
       "bolum": "187",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/187/siki_pazarlik"
     },
     {
-      "season": 16,
-      "episode": 94,
+      "season": 5,
+      "episode": 16,
       "title": "This Is Why We Fight",
       "diziid": "grey",
       "bolum": "188",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/188/savasmamizin_sebebi_bu"
     },
     {
-      "season": 17,
-      "episode": 95,
+      "season": 5,
+      "episode": 17,
       "title": "Transplant Wasteland",
       "diziid": "grey",
       "bolum": "189",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/189/nakil_coplugu"
     },
     {
-      "season": 18,
-      "episode": 96,
+      "season": 5,
+      "episode": 18,
       "title": "Idle Hands",
       "diziid": "grey",
       "bolum": "190",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/190/bos_eller"
     },
     {
-      "season": 19,
-      "episode": 97,
+      "season": 5,
+      "episode": 19,
       "title": "Can't Fight This Feeling",
       "diziid": "grey",
       "bolum": "191",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/191/bu_hisse_karsi_gelemiyorum"
     },
     {
-      "season": 20,
-      "episode": 98,
+      "season": 5,
+      "episode": 20,
       "title": "She's Killing Me",
       "diziid": "grey",
       "bolum": "192",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/192/beni_olduruyor"
     },
     {
-      "season": 21,
-      "episode": 99,
+      "season": 5,
+      "episode": 21,
       "title": "Sleeping Monster",
       "diziid": "grey",
       "bolum": "193",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/193/uyuyan_canavar"
     },
     {
-      "season": 22,
-      "episode": 100,
+      "season": 5,
+      "episode": 22,
       "title": "Do You Believe in Magic?",
       "diziid": "grey",
       "bolum": "194",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/194/sihre_inanir_misin"
     },
     {
-      "season": 23,
-      "episode": 101,
+      "season": 5,
+      "episode": 23,
       "title": "Readiness Is All",
       "diziid": "grey",
       "bolum": "195",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/195/hazirlik_her_seydir"
     },
     {
-      "season": 24,
-      "episode": 102,
+      "season": 5,
+      "episode": 24,
       "title": "Perfect Storm",
       "diziid": "grey",
       "bolum": "196",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/196/kusursuz_kasirga"
     },
     {
-      "season": 1,
-      "episode": 103,
+      "season": 6,
+      "episode": 1,
       "title": "Seal Our Fate",
       "diziid": "grey",
       "bolum": "197",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/197/kaderimizi_muhurlemek"
     },
     {
-      "season": 2,
-      "episode": 104,
+      "season": 6,
+      "episode": 2,
       "title": "I Want You with Me",
       "diziid": "grey",
       "bolum": "198",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/198/seni_yanimda_istiyorum"
     },
     {
-      "season": 3,
-      "episode": 105,
+      "season": 6,
+      "episode": 3,
       "title": "Everybody's Crying Mercy",
       "diziid": "grey",
       "bolum": "199",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/199/herkes_merhamet_dileniyor"
     },
     {
-      "season": 4,
-      "episode": 106,
+      "season": 6,
+      "episode": 4,
       "title": "Puttin' on the Ritz",
       "diziid": "grey",
       "bolum": "200",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/200/caka_satmak"
     },
     {
-      "season": 5,
-      "episode": 107,
+      "season": 6,
+      "episode": 5,
       "title": "I Bet It Stung",
       "diziid": "grey",
       "bolum": "201",
@@ -868,199 +869,199 @@
     },
     {
       "season": 6,
-      "episode": 108,
+      "episode": 6,
       "title": "Map of You",
       "diziid": "grey",
       "bolum": "202",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/202/senin_haritan"
     },
     {
-      "season": 7,
-      "episode": 109,
+      "season": 6,
+      "episode": 7,
       "title": "Thriller",
       "diziid": "grey",
       "bolum": "203",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/203/gerilim"
     },
     {
-      "season": 8,
-      "episode": 110,
+      "season": 6,
+      "episode": 8,
       "title": "Two Against One",
       "diziid": "grey",
       "bolum": "204",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/204/ikiye_karsi_bir"
     },
     {
-      "season": 9,
-      "episode": 111,
+      "season": 6,
+      "episode": 9,
       "title": "Sorry Seems to Be the Hardest Word",
       "diziid": "grey",
       "bolum": "205",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/205/ozur_dilemek_cok_zor"
     },
     {
-      "season": 10,
-      "episode": 112,
+      "season": 6,
+      "episode": 10,
       "title": "Somebody That I Used to Know",
       "diziid": "grey",
       "bolum": "206",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/206/eskiden_tanidigim_biri"
     },
     {
-      "season": 11,
-      "episode": 113,
+      "season": 6,
+      "episode": 11,
       "title": "Man on the Moon",
       "diziid": "grey",
       "bolum": "207",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/207/aydaki_adam"
     },
     {
-      "season": 12,
-      "episode": 114,
+      "season": 6,
+      "episode": 12,
       "title": "Get Up, Stand Up",
       "diziid": "grey",
       "bolum": "208",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/208/kalk%2C_dik_dur"
     },
     {
-      "season": 13,
-      "episode": 115,
+      "season": 6,
+      "episode": 13,
       "title": "Take It Back",
       "diziid": "grey",
       "bolum": "209",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/209/geri_al"
     },
     {
-      "season": 14,
-      "episode": 116,
+      "season": 6,
+      "episode": 14,
       "title": "You've Got to Hide Your Love Away",
       "diziid": "grey",
       "bolum": "210",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/210/sevgini_saklamalisin"
     },
     {
-      "season": 15,
-      "episode": 117,
+      "season": 6,
+      "episode": 15,
       "title": "Throwing It All Away",
       "diziid": "grey",
       "bolum": "211",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/211/her_seyi_at_gitsin"
     },
     {
-      "season": 16,
-      "episode": 118,
+      "season": 6,
+      "episode": 16,
       "title": "We Gotta Get Out of This Place",
       "diziid": "grey",
       "bolum": "212",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/212/buradan_gitmeliyiz"
     },
     {
-      "season": 17,
-      "episode": 119,
+      "season": 6,
+      "episode": 17,
       "title": "Do You Know?",
       "diziid": "grey",
       "bolum": "213",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/213/biliyor_musun"
     },
     {
-      "season": 18,
-      "episode": 120,
+      "season": 6,
+      "episode": 18,
       "title": "You Be Illin'",
       "diziid": "grey",
       "bolum": "214",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/214/hastasin"
     },
     {
-      "season": 19,
-      "episode": 121,
+      "season": 6,
+      "episode": 19,
       "title": "I'm Winning",
       "diziid": "grey",
       "bolum": "215",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/215/kazaniyorum"
     },
     {
-      "season": 20,
-      "episode": 122,
+      "season": 6,
+      "episode": 20,
       "title": "Go It Alone",
       "diziid": "grey",
       "bolum": "216",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/216/yalniz_yapayim"
     },
     {
-      "season": 21,
-      "episode": 123,
+      "season": 6,
+      "episode": 21,
       "title": "Change of Heart",
       "diziid": "grey",
       "bolum": "217",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/217/fikir_degisikligi"
     },
     {
-      "season": 22,
-      "episode": 124,
+      "season": 6,
+      "episode": 22,
       "title": "We Are Never Ever Getting Back Together",
       "diziid": "grey",
       "bolum": "218",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/218/asla_yeniden_bir_araya_gelmeyecegiz"
     },
     {
-      "season": 23,
-      "episode": 125,
+      "season": 6,
+      "episode": 23,
       "title": "Everything I Try to Do, Nothing Seems to Turn Out Right",
       "diziid": "grey",
       "bolum": "219",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/219/yapmak_istedigim_hicbir_sey_olmuyor"
     },
     {
-      "season": 24,
-      "episode": 126,
+      "season": 6,
+      "episode": 24,
       "title": "Fear (of the Unknown)",
       "diziid": "grey",
       "bolum": "220",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/220/bilinmezlik_korkusu"
     },
     {
-      "season": 1,
-      "episode": 127,
+      "season": 7,
+      "episode": 1,
       "title": "I Must Have Lost It on the Wind",
       "diziid": "grey",
       "bolum": "221",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/221/ruzgarda_kaybetmis_olmaliyim"
     },
     {
-      "season": 2,
-      "episode": 128,
+      "season": 7,
+      "episode": 2,
       "title": "Puzzle with a Piece Missing",
       "diziid": "grey",
       "bolum": "222",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/222/bir_parcasi_kayip_yapboz"
     },
     {
-      "season": 3,
-      "episode": 129,
+      "season": 7,
+      "episode": 3,
       "title": "Got to Be Real",
       "diziid": "grey",
       "bolum": "223",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/223/gercek_olmali"
     },
     {
-      "season": 4,
-      "episode": 130,
+      "season": 7,
+      "episode": 4,
       "title": "Only Mama Knows",
       "diziid": "grey",
       "bolum": "224",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/224/yalnizca_annem_bilir"
     },
     {
-      "season": 5,
-      "episode": 131,
+      "season": 7,
+      "episode": 5,
       "title": "Bend and Break",
       "diziid": "grey",
       "bolum": "225",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/225/bukulme_ve_kirilma"
     },
     {
-      "season": 6,
-      "episode": 132,
+      "season": 7,
+      "episode": 6,
       "title": "Don't Let's Start",
       "diziid": "grey",
       "bolum": "226",
@@ -1068,207 +1069,207 @@
     },
     {
       "season": 7,
-      "episode": 133,
+      "episode": 7,
       "title": "Could We Start Again, Please?",
       "diziid": "grey",
       "bolum": "227",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/227/yeniden_baslayabilir_miyiz_lutfen"
     },
     {
-      "season": 8,
-      "episode": 134,
+      "season": 7,
+      "episode": 8,
       "title": "Risk",
       "diziid": "grey",
       "bolum": "228",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/228/risk"
     },
     {
-      "season": 9,
-      "episode": 135,
+      "season": 7,
+      "episode": 9,
       "title": "Where Do We Go from Here",
       "diziid": "grey",
       "bolum": "229",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/229/simdi_ne_olacak"
     },
     {
-      "season": 10,
-      "episode": 136,
+      "season": 7,
+      "episode": 10,
       "title": "The Bed's Too Big Without You",
       "diziid": "grey",
       "bolum": "230",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/230/yatagim_sensiz_bana_dar"
     },
     {
-      "season": 11,
-      "episode": 137,
+      "season": 7,
+      "episode": 11,
       "title": "All I Could Do Was Cry",
       "diziid": "grey",
       "bolum": "231",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/231/elimden_aglamaktan_baska_bir_sey_gelmedi"
     },
     {
-      "season": 12,
-      "episode": 138,
+      "season": 7,
+      "episode": 12,
       "title": "The Great Pretender",
       "diziid": "grey",
       "bolum": "232",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/232/buyuk_numaraci"
     },
     {
-      "season": 13,
-      "episode": 139,
+      "season": 7,
+      "episode": 13,
       "title": "Staring at the End",
       "diziid": "grey",
       "bolum": "233",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/233/sondan_baslamak"
     },
     {
-      "season": 14,
-      "episode": 140,
+      "season": 7,
+      "episode": 14,
       "title": "The Distance",
       "diziid": "grey",
       "bolum": "234",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/234/mesafe"
     },
     {
-      "season": 15,
-      "episode": 141,
+      "season": 7,
+      "episode": 15,
       "title": "I Feel the Earth Move",
       "diziid": "grey",
       "bolum": "235",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/235/dunyanin_hareketini_hissedebiliyorum"
     },
     {
-      "season": 16,
-      "episode": 142,
+      "season": 7,
+      "episode": 16,
       "title": "Don't Dream It's Over",
       "diziid": "grey",
       "bolum": "236",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/236/hayal_kurma%2C_bitti"
     },
     {
-      "season": 17,
-      "episode": 143,
+      "season": 7,
+      "episode": 17,
       "title": "With or Without You",
       "diziid": "grey",
       "bolum": "237",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/237/seninle_ya_da_sensiz"
     },
     {
-      "season": 18,
-      "episode": 144,
+      "season": 7,
+      "episode": 18,
       "title": "When I Grow Up",
       "diziid": "grey",
       "bolum": "238",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/238/buyudugumde"
     },
     {
-      "season": 19,
-      "episode": 145,
+      "season": 7,
+      "episode": 19,
       "title": "Crazy Love",
       "diziid": "grey",
       "bolum": "239",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/239/cilgin_ask"
     },
     {
-      "season": 20,
-      "episode": 146,
+      "season": 7,
+      "episode": 20,
       "title": "One Flight Down",
       "diziid": "grey",
       "bolum": "240",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/240/bir_ucak_duser"
     },
     {
-      "season": 21,
-      "episode": 147,
+      "season": 7,
+      "episode": 21,
       "title": "How to Save a Life",
       "diziid": "grey",
       "bolum": "241",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/241/hayat_kurtarmak"
     },
     {
-      "season": 22,
-      "episode": 148,
+      "season": 7,
+      "episode": 22,
       "title": "She's Leaving Home: Part 1",
       "diziid": "grey",
       "bolum": "242",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/242/o_evden_ayriliyor_bolum_1"
     },
     {
-      "season": 23,
-      "episode": 149,
+      "season": 7,
+      "episode": 23,
       "title": "She's Leaving Home: Part 2",
       "diziid": "grey",
       "bolum": "243",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/243/o_evden_ayriliyor_bolum_2"
     },
     {
-      "season": 24,
-      "episode": 150,
+      "season": 7,
+      "episode": 24,
       "title": "Time Stops",
       "diziid": "grey",
       "bolum": "244",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/244/zaman_durur"
     },
     {
-      "season": 25,
-      "episode": 151,
+      "season": 7,
+      "episode": 25,
       "title": "You're My Home",
       "diziid": "grey",
       "bolum": "245",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/245/benim_evim_sensin"
     },
     {
-      "season": 1,
-      "episode": 152,
+      "season": 8,
+      "episode": 1,
       "title": "Sledgehammer",
       "diziid": "grey",
       "bolum": "246",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/246/balyoz"
     },
     {
-      "season": 2,
-      "episode": 153,
+      "season": 8,
+      "episode": 2,
       "title": "Walking Tall",
       "diziid": "grey",
       "bolum": "247",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/247/yolun_sonu"
     },
     {
-      "season": 3,
-      "episode": 154,
+      "season": 8,
+      "episode": 3,
       "title": "I Choose You",
       "diziid": "grey",
       "bolum": "248",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/248/seni_sectim"
     },
     {
-      "season": 4,
-      "episode": 155,
+      "season": 8,
+      "episode": 4,
       "title": "Old Time Rock and Roll",
       "diziid": "grey",
       "bolum": "249",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/249/eski_zamanlarin_rock_and_rollu"
     },
     {
-      "season": 5,
-      "episode": 156,
+      "season": 8,
+      "episode": 5,
       "title": "Guess Who's Coming to Dinner?",
       "diziid": "grey",
       "bolum": "250",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/250/bil_bakalim_yemege_kim_geliyor"
     },
     {
-      "season": 6,
-      "episode": 157,
+      "season": 8,
+      "episode": 6,
       "title": "The Me Nobody Knows",
       "diziid": "grey",
       "bolum": "251",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/251/kimsenin_bilmedigi_ben"
     },
     {
-      "season": 7,
-      "episode": 158,
+      "season": 8,
+      "episode": 7,
       "title": "Something Against You",
       "diziid": "grey",
       "bolum": "252",
@@ -1276,199 +1277,199 @@
     },
     {
       "season": 8,
-      "episode": 159,
+      "episode": 8,
       "title": "Things We Lost in the Fire",
       "diziid": "grey",
       "bolum": "253",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/253/yanginda_kaybettiklerimiz"
     },
     {
-      "season": 9,
-      "episode": 160,
+      "season": 8,
+      "episode": 9,
       "title": "The Sound of Silence",
       "diziid": "grey",
       "bolum": "254",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/254/sessizligin_sesi"
     },
     {
-      "season": 10,
-      "episode": 161,
+      "season": 8,
+      "episode": 10,
       "title": "All I Want Is You",
       "diziid": "grey",
       "bolum": "255",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/255/tek_istedigim_sensin"
     },
     {
-      "season": 11,
-      "episode": 162,
+      "season": 8,
+      "episode": 11,
       "title": "Unbreak My Heart",
       "diziid": "grey",
       "bolum": "256",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/256/kalbimi_onar"
     },
     {
-      "season": 12,
-      "episode": 163,
+      "season": 8,
+      "episode": 12,
       "title": "My Next Life",
       "diziid": "grey",
       "bolum": "257",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/257/sonraki_hayatim"
     },
     {
-      "season": 13,
-      "episode": 164,
+      "season": 8,
+      "episode": 13,
       "title": "All Eyez on Me",
       "diziid": "grey",
       "bolum": "258",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/258/gozler_uzerimde"
     },
     {
-      "season": 14,
-      "episode": 165,
+      "season": 8,
+      "episode": 14,
       "title": "Odd Man Out",
       "diziid": "grey",
       "bolum": "259",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/259/dislanan_adam"
     },
     {
-      "season": 15,
-      "episode": 166,
+      "season": 8,
+      "episode": 15,
       "title": "I Am Not Waiting Anymore",
       "diziid": "grey",
       "bolum": "260",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/260/artik_beklemiyorum"
     },
     {
-      "season": 16,
-      "episode": 167,
+      "season": 8,
+      "episode": 16,
       "title": "When It Hurts So Bad",
       "diziid": "grey",
       "bolum": "261",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/261/canin_cok_yaninca"
     },
     {
-      "season": 17,
-      "episode": 168,
+      "season": 8,
+      "episode": 17,
       "title": "I Wear the Face",
       "diziid": "grey",
       "bolum": "262",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/262/yuz_ifadem"
     },
     {
-      "season": 18,
-      "episode": 169,
+      "season": 8,
+      "episode": 18,
       "title": "There's a Fine, Fine Line",
       "diziid": "grey",
       "bolum": "263",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/263/cok_cok_ince_bir_cizgi_var"
     },
     {
-      "season": 19,
-      "episode": 170,
+      "season": 8,
+      "episode": 19,
       "title": "It's Alright, Ma (I'm Only Bleeding)",
       "diziid": "grey",
       "bolum": "264",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/264/sorun_yok_anne_sadece_kaniyor"
     },
     {
-      "season": 20,
-      "episode": 171,
+      "season": 8,
+      "episode": 20,
       "title": "Trigger Happy",
       "diziid": "grey",
       "bolum": "265",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/265/tetigi_cekmeye_hazir"
     },
     {
-      "season": 21,
-      "episode": 172,
+      "season": 8,
+      "episode": 21,
       "title": "You're Gonna Need Someone on Your Side",
       "diziid": "grey",
       "bolum": "266",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/266/yaninda_birisi_olmali"
     },
     {
-      "season": 22,
-      "episode": 173,
+      "season": 8,
+      "episode": 22,
       "title": "Mama Tried",
       "diziid": "grey",
       "bolum": "267",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/267/anne_denedi"
     },
     {
-      "season": 23,
-      "episode": 174,
+      "season": 8,
+      "episode": 23,
       "title": "At Last",
       "diziid": "grey",
       "bolum": "268",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/268/sonunda"
     },
     {
-      "season": 24,
-      "episode": 175,
+      "season": 8,
+      "episode": 24,
       "title": "Family Affair",
       "diziid": "grey",
       "bolum": "269",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/269/aile_meselesi"
     },
     {
-      "season": 1,
-      "episode": 176,
+      "season": 9,
+      "episode": 1,
       "title": "Undo",
       "diziid": "grey",
       "bolum": "270",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/270/geri_al"
     },
     {
-      "season": 2,
-      "episode": 177,
+      "season": 9,
+      "episode": 2,
       "title": "Catastrophe and the Cure",
       "diziid": "grey",
       "bolum": "271",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/271/felaket_ve_care"
     },
     {
-      "season": 3,
-      "episode": 178,
+      "season": 9,
+      "episode": 3,
       "title": "I Ain't No Miracle Worker",
       "diziid": "grey",
       "bolum": "272",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/272/keramet_sahibi_degilim"
     },
     {
-      "season": 4,
-      "episode": 179,
+      "season": 9,
+      "episode": 4,
       "title": "Falling Slowly",
       "diziid": "grey",
       "bolum": "273",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/273/yavasca_dusmek"
     },
     {
-      "season": 5,
-      "episode": 180,
+      "season": 9,
+      "episode": 5,
       "title": "Both Sides Now",
       "diziid": "grey",
       "bolum": "274",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/274/artik_iki_taraf_birden"
     },
     {
-      "season": 6,
-      "episode": 181,
+      "season": 9,
+      "episode": 6,
       "title": "Roar",
       "diziid": "grey",
       "bolum": "275",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/275/kukreme"
     },
     {
-      "season": 7,
-      "episode": 182,
+      "season": 9,
+      "episode": 7,
       "title": "Why Try to Change Me Now",
       "diziid": "grey",
       "bolum": "276",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/276/beni_niye_simdi_degistiresin"
     },
     {
-      "season": 8,
-      "episode": 183,
+      "season": 9,
+      "episode": 8,
       "title": "The Room Where It Happens",
       "diziid": "grey",
       "bolum": "277",
@@ -1476,199 +1477,199 @@
     },
     {
       "season": 9,
-      "episode": 184,
+      "episode": 9,
       "title": "You Haven't Done Nothin'",
       "diziid": "grey",
       "bolum": "278",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/278/hicbir_sey_yapmadin"
     },
     {
-      "season": 10,
-      "episode": 185,
+      "season": 9,
+      "episode": 10,
       "title": "Jukebox Hero",
       "diziid": "grey",
       "bolum": "279",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/279/muzik_kutusu_kahramani"
     },
     {
-      "season": 11,
-      "episode": 186,
+      "season": 9,
+      "episode": 11,
       "title": "None of Your Business",
       "diziid": "grey",
       "bolum": "280",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/280/seni_ilgilendirmez"
     },
     {
-      "season": 12,
-      "episode": 187,
+      "season": 9,
+      "episode": 12,
       "title": "It Only Gets Much Worse",
       "diziid": "grey",
       "bolum": "281",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/281/cok_daha_kotu_olacak"
     },
     {
-      "season": 13,
-      "episode": 188,
+      "season": 9,
+      "episode": 13,
       "title": "You Can Look (But You'd Better Not Touch)",
       "diziid": "grey",
       "bolum": "282",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/282/bakabilirsin_ama_ellemezsen_iyi_edersin"
     },
     {
-      "season": 14,
-      "episode": 189,
+      "season": 9,
+      "episode": 14,
       "title": "Back Where You Belong",
       "diziid": "grey",
       "bolum": "283",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/283/ait_oldugun_yere_geri_don"
     },
     {
-      "season": 15,
-      "episode": 190,
+      "season": 9,
+      "episode": 15,
       "title": "Civil War",
       "diziid": "grey",
       "bolum": "284",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/284/ic_savas"
     },
     {
-      "season": 16,
-      "episode": 191,
+      "season": 9,
+      "episode": 16,
       "title": "Who Is He (And What Is He to You)?",
       "diziid": "grey",
       "bolum": "285",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/285/o_kim_ve_senin_neyin_oluyor"
     },
     {
-      "season": 17,
-      "episode": 192,
+      "season": 9,
+      "episode": 17,
       "title": "'Till I Hear It from You",
       "diziid": "grey",
       "bolum": "286",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/286/senden_duyana_kadar"
     },
     {
-      "season": 18,
-      "episode": 193,
+      "season": 9,
+      "episode": 18,
       "title": "Be Still, My Soul",
       "diziid": "grey",
       "bolum": "287",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/287/sakin_ol_ruhum"
     },
     {
-      "season": 19,
-      "episode": 194,
+      "season": 9,
+      "episode": 19,
       "title": "In the Air Tonight",
       "diziid": "grey",
       "bolum": "288",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/288/bu_gece_havada"
     },
     {
-      "season": 20,
-      "episode": 195,
+      "season": 9,
+      "episode": 20,
       "title": "What's Inside",
       "diziid": "grey",
       "bolum": "289",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/289/iceride_ne_var"
     },
     {
-      "season": 21,
-      "episode": 196,
+      "season": 9,
+      "episode": 21,
       "title": "Don't Stop Me Now",
       "diziid": "grey",
       "bolum": "290",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/290/beni_simdi_durdurma"
     },
     {
-      "season": 22,
-      "episode": 197,
+      "season": 9,
+      "episode": 22,
       "title": "Leave It Inside",
       "diziid": "grey",
       "bolum": "291",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/291/iceride_birak"
     },
     {
-      "season": 23,
-      "episode": 198,
+      "season": 9,
+      "episode": 23,
       "title": "True Colors",
       "diziid": "grey",
       "bolum": "292",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/292/gercek_renkler"
     },
     {
-      "season": 24,
-      "episode": 199,
+      "season": 9,
+      "episode": 24,
       "title": "Ring of Fire",
       "diziid": "grey",
       "bolum": "293",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/293/ates_cemberi"
     },
     {
-      "season": 1,
-      "episode": 200,
+      "season": 10,
+      "episode": 1,
       "title": "Break Down the House",
       "diziid": "grey",
       "bolum": "294",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/294/evi_yik"
     },
     {
-      "season": 2,
-      "episode": 201,
+      "season": 10,
+      "episode": 2,
       "title": "Get Off on the Pain",
       "diziid": "grey",
       "bolum": "295",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/295/acidan_zevk_almak"
     },
     {
-      "season": 3,
-      "episode": 202,
+      "season": 10,
+      "episode": 3,
       "title": "Go Big or Go Home",
       "diziid": "grey",
       "bolum": "296",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/296/ya_hep_ya_hic"
     },
     {
-      "season": 4,
-      "episode": 203,
+      "season": 10,
+      "episode": 4,
       "title": "Ain't That a Kick in the Head",
       "diziid": "grey",
       "bolum": "297",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/297/ne_buyuk_hayal_kirikligi"
     },
     {
-      "season": 5,
-      "episode": 204,
+      "season": 10,
+      "episode": 5,
       "title": "Danger Zone",
       "diziid": "grey",
       "bolum": "298",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/298/tehlikeli_bolge"
     },
     {
-      "season": 6,
-      "episode": 205,
+      "season": 10,
+      "episode": 6,
       "title": "Come on Down to My Boat, Baby",
       "diziid": "grey",
       "bolum": "299",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/299/tekneme_gel_bebegim"
     },
     {
-      "season": 7,
-      "episode": 206,
+      "season": 10,
+      "episode": 7,
       "title": "Who Lives, Who Dies, Who Tells Your Story",
       "diziid": "grey",
       "bolum": "300",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/300/kim_yasayacak%2C_kim_olecek%2C_hikayeni_kim_anlatacak"
     },
     {
-      "season": 8,
-      "episode": 207,
+      "season": 10,
+      "episode": 8,
       "title": "Out of Nowhere",
       "diziid": "grey",
       "bolum": "301",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/301/bir_anda"
     },
     {
-      "season": 9,
-      "episode": 208,
+      "season": 10,
+      "episode": 9,
       "title": "1-800-799-7233",
       "diziid": "grey",
       "bolum": "302",
@@ -1676,199 +1677,199 @@
     },
     {
       "season": 10,
-      "episode": 209,
+      "episode": 10,
       "title": "Personal Jesus",
       "diziid": "grey",
       "bolum": "303",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/303/kisisel_isa"
     },
     {
-      "season": 11,
-      "episode": 210,
+      "season": 10,
+      "episode": 11,
       "title": "Harder, Better, Faster, Stronger",
       "diziid": "grey",
       "bolum": "304",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/304/daha_sert%2C_daha_iyi%2C_daha_hizli%2C_daha_guclu"
     },
     {
-      "season": 12,
-      "episode": 211,
+      "season": 10,
+      "episode": 12,
       "title": "Don't Fear the Reaper",
       "diziid": "grey",
       "bolum": "305",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/305/olumden_korkma"
     },
     {
-      "season": 13,
-      "episode": 212,
+      "season": 10,
+      "episode": 13,
       "title": "You Really Got a Hold on Me",
       "diziid": "grey",
       "bolum": "306",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/306/beni_cok_etkiledin"
     },
     {
-      "season": 14,
-      "episode": 213,
+      "season": 10,
+      "episode": 14,
       "title": "Games People Play",
       "diziid": "grey",
       "bolum": "307",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/307/insanlarin_oynadigi_oyunlar"
     },
     {
-      "season": 15,
-      "episode": 214,
+      "season": 10,
+      "episode": 15,
       "title": "Old Scars, Future Hearts",
       "diziid": "grey",
       "bolum": "308",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/308/eski_yaralar%2C_gelecek_kalpler"
     },
     {
-      "season": 16,
-      "episode": 215,
+      "season": 10,
+      "episode": 16,
       "title": "Caught Somewhere in Time",
       "diziid": "grey",
       "bolum": "309",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/309/zamanda_yakalanmis"
     },
     {
-      "season": 17,
-      "episode": 216,
+      "season": 10,
+      "episode": 17,
       "title": "One Day Like This",
       "diziid": "grey",
       "bolum": "310",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/310/boyle_bir_gun"
     },
     {
-      "season": 18,
-      "episode": 217,
+      "season": 10,
+      "episode": 18,
       "title": "Hold Back The River",
       "diziid": "grey",
       "bolum": "311",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/311/nehri_tutmak"
     },
     {
-      "season": 19,
-      "episode": 218,
+      "season": 10,
+      "episode": 19,
       "title": "Beautiful Dreamer",
       "diziid": "grey",
       "bolum": "312",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/312/guzel_hayalperest"
     },
     {
-      "season": 20,
-      "episode": 219,
+      "season": 10,
+      "episode": 20,
       "title": "Judgment Day",
       "diziid": "grey",
       "bolum": "313",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/313/mahser_gunu"
     },
     {
-      "season": 21,
-      "episode": 220,
+      "season": 10,
+      "episode": 21,
       "title": "Bad Reputation",
       "diziid": "grey",
       "bolum": "314",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/314/kotu_sohret"
     },
     {
-      "season": 22,
-      "episode": 221,
+      "season": 10,
+      "episode": 22,
       "title": "Fight For Your Mind",
       "diziid": "grey",
       "bolum": "315",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/315/aklin_icin_savas"
     },
     {
-      "season": 23,
-      "episode": 222,
+      "season": 10,
+      "episode": 23,
       "title": "Cold As Ice",
       "diziid": "grey",
       "bolum": "316",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/316/buz_gibi"
     },
     {
-      "season": 24,
-      "episode": 223,
+      "season": 10,
+      "episode": 24,
       "title": "Everything has Changed",
       "diziid": "grey",
       "bolum": "317",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/317/her_seyim"
     },
     {
-      "season": 1,
-      "episode": 224,
+      "season": 11,
+      "episode": 1,
       "title": "With a Wonder and a Wild Desire",
       "diziid": "grey",
       "bolum": "318",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/318/bir_mucize_ve_vahsi_bir_arzu_ile"
     },
     {
-      "season": 2,
-      "episode": 225,
+      "season": 11,
+      "episode": 2,
       "title": "Broken Together",
       "diziid": "grey",
       "bolum": "319",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/319/birlikte_kirgin"
     },
     {
-      "season": 3,
-      "episode": 226,
+      "season": 11,
+      "episode": 3,
       "title": "Gut Feeling",
       "diziid": "grey",
       "bolum": "320",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/320/onsezi"
     },
     {
-      "season": 4,
-      "episode": 227,
+      "season": 11,
+      "episode": 4,
       "title": "Momma Knows Best",
       "diziid": "grey",
       "bolum": "321",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/321/annem_en_iyisini_bilir"
     },
     {
-      "season": 5,
-      "episode": 228,
+      "season": 11,
+      "episode": 5,
       "title": "Everyday Angel",
       "diziid": "grey",
       "bolum": "322",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/322/gunluk_melek"
     },
     {
-      "season": 6,
-      "episode": 229,
+      "season": 11,
+      "episode": 6,
       "title": "Flowers Grow Out Of My Grave",
       "diziid": "grey",
       "bolum": "323",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/323/mezarimdan_cicekler_buyuyor"
     },
     {
-      "season": 7,
-      "episode": 230,
+      "season": 11,
+      "episode": 7,
       "title": "Anybody Have a Map?",
       "diziid": "grey",
       "bolum": "324",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/324/haritasi_olan_var_mi"
     },
     {
-      "season": 8,
-      "episode": 231,
+      "season": 11,
+      "episode": 8,
       "title": "Blowin' in the Wind",
       "diziid": "grey",
       "bolum": "325",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/325/ruzgarda_suruklenmek"
     },
     {
-      "season": 9,
-      "episode": 232,
+      "season": 11,
+      "episode": 9,
       "title": "Shelter from the Storm",
       "diziid": "grey",
       "bolum": "326",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/326/kasirgadan_siginmak"
     },
     {
-      "season": 10,
-      "episode": 233,
+      "season": 11,
+      "episode": 10,
       "title": "Help, I'm Alive",
       "diziid": "grey",
       "bolum": "327",
@@ -1876,207 +1877,207 @@
     },
     {
       "season": 11,
-      "episode": 234,
+      "episode": 11,
       "title": "The Winner Takes It All",
       "diziid": "grey",
       "bolum": "328",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/328/kazanan_her_seyi_alir"
     },
     {
-      "season": 12,
-      "episode": 235,
+      "season": 11,
+      "episode": 12,
       "title": "Girlfriend in a Coma",
       "diziid": "grey",
       "bolum": "329",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/329/kiz_arkadas_komada"
     },
     {
-      "season": 13,
-      "episode": 236,
+      "season": 11,
+      "episode": 13,
       "title": "I Walk the Line",
       "diziid": "grey",
       "bolum": "330",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/330/sinirda_dolasirim"
     },
     {
-      "season": 14,
-      "episode": 237,
+      "season": 11,
+      "episode": 14,
       "title": "I Want a New Drug",
       "diziid": "grey",
       "bolum": "331",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/331/yeni_bir_ilac_istiyorum"
     },
     {
-      "season": 15,
-      "episode": 238,
+      "season": 11,
+      "episode": 15,
       "title": "We Didn't Start the Fire",
       "diziid": "grey",
       "bolum": "332",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/332/yangini_biz_baslatmadik"
     },
     {
-      "season": 16,
-      "episode": 239,
+      "season": 11,
+      "episode": 16,
       "title": "Blood and Water",
       "diziid": "grey",
       "bolum": "333",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/333/kan_ve_su"
     },
     {
-      "season": 17,
-      "episode": 240,
+      "season": 11,
+      "episode": 17,
       "title": "And Dream of Sheep",
       "diziid": "grey",
       "bolum": "334",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/334/ruyamda_koyun_goreyim"
     },
     {
-      "season": 18,
-      "episode": 241,
+      "season": 11,
+      "episode": 18,
       "title": "Add It Up",
       "diziid": "grey",
       "bolum": "335",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/335/ekle"
     },
     {
-      "season": 19,
-      "episode": 242,
+      "season": 11,
+      "episode": 19,
       "title": "Silent All These Years",
       "diziid": "grey",
       "bolum": "336",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/336/bunca_yil_sessiz"
     },
     {
-      "season": 20,
-      "episode": 243,
+      "season": 11,
+      "episode": 20,
       "title": "All of Me",
       "diziid": "grey",
       "bolum": "337",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/337/tamami"
     },
     {
-      "season": 21,
-      "episode": 244,
+      "season": 11,
+      "episode": 21,
       "title": "Good Shepherd",
       "diziid": "grey",
       "bolum": "338",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/338/iyi_shepherd"
     },
     {
-      "season": 22,
-      "episode": 245,
+      "season": 11,
+      "episode": 22,
       "title": "Head Over High Heels",
       "diziid": "grey",
       "bolum": "339",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/339/topukluyla_tepetaklak"
     },
     {
-      "season": 23,
-      "episode": 246,
+      "season": 11,
+      "episode": 23,
       "title": "What I Did For Love",
       "diziid": "grey",
       "bolum": "340",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/340/ask_icin_yaptiklarim"
     },
     {
-      "season": 24,
-      "episode": 247,
+      "season": 11,
+      "episode": 24,
       "title": "Drawn to the Blood",
       "diziid": "grey",
       "bolum": "341",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/341/kana_cekilmek"
     },
     {
-      "season": 25,
-      "episode": 248,
+      "season": 11,
+      "episode": 25,
       "title": "Jump Into the Fog",
       "diziid": "grey",
       "bolum": "342",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/342/sisin_icine_atla"
     },
     {
-      "season": 1,
-      "episode": 249,
+      "season": 12,
+      "episode": 1,
       "title": "Nothing Left to Cling To",
       "diziid": "grey",
       "bolum": "343",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/343/tutunacak_bir_sey_kalmadi"
     },
     {
-      "season": 2,
-      "episode": 250,
+      "season": 12,
+      "episode": 2,
       "title": "Back in the Saddle",
       "diziid": "grey",
       "bolum": "344",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/344/ise_donmek"
     },
     {
-      "season": 3,
-      "episode": 251,
+      "season": 12,
+      "episode": 3,
       "title": "Reunited",
       "diziid": "grey",
       "bolum": "345",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/345/kavusmak"
     },
     {
-      "season": 4,
-      "episode": 252,
+      "season": 12,
+      "episode": 4,
       "title": "It's Raining Men",
       "diziid": "grey",
       "bolum": "346",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/346/erkek_yagiyor"
     },
     {
-      "season": 5,
-      "episode": 253,
+      "season": 12,
+      "episode": 5,
       "title": "Breathe Again",
       "diziid": "grey",
       "bolum": "347",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/347/yeniden_nefes_al"
     },
     {
-      "season": 6,
-      "episode": 254,
+      "season": 12,
+      "episode": 6,
       "title": "Whistlin' Past the Graveyard",
       "diziid": "grey",
       "bolum": "348",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/348/sogukkanliligi_koruma"
     },
     {
-      "season": 7,
-      "episode": 255,
+      "season": 12,
+      "episode": 7,
       "title": "Papa Don't Preach",
       "diziid": "grey",
       "bolum": "349",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/349/baba%2C_vaaz_verme"
     },
     {
-      "season": 8,
-      "episode": 256,
+      "season": 12,
+      "episode": 8,
       "title": "My Shot",
       "diziid": "grey",
       "bolum": "350",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/350/sansim"
     },
     {
-      "season": 9,
-      "episode": 257,
+      "season": 12,
+      "episode": 9,
       "title": "Let's All Go to the Bar",
       "diziid": "grey",
       "bolum": "351",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/351/hadi_bara_gidelim"
     },
     {
-      "season": 10,
-      "episode": 258,
+      "season": 12,
+      "episode": 10,
       "title": "Help Me Through the Night",
       "diziid": "grey",
       "bolum": "352",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/352/geceyi_atlatmama_yardim_et"
     },
     {
-      "season": 11,
-      "episode": 259,
+      "season": 12,
+      "episode": 11,
       "title": "A Hard Pill to Swallow",
       "diziid": "grey",
       "bolum": "353",
@@ -2084,175 +2085,175 @@
     },
     {
       "season": 12,
-      "episode": 260,
+      "episode": 12,
       "title": "The Last Supper",
       "diziid": "grey",
       "bolum": "354",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/354/son_aksam_yemegi"
     },
     {
-      "season": 13,
-      "episode": 261,
+      "season": 12,
+      "episode": 13,
       "title": "Save the Last Dance for Me",
       "diziid": "grey",
       "bolum": "355",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/355/son_dansi_bana_sakla"
     },
     {
-      "season": 14,
-      "episode": 262,
+      "season": 12,
+      "episode": 14,
       "title": "A Diagnosis",
       "diziid": "grey",
       "bolum": "356",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/356/bir_tani"
     },
     {
-      "season": 15,
-      "episode": 263,
+      "season": 12,
+      "episode": 15,
       "title": "Snowblind",
       "diziid": "grey",
       "bolum": "357",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/357/kar_korlugu"
     },
     {
-      "season": 16,
-      "episode": 264,
+      "season": 12,
+      "episode": 16,
       "title": "Leave a Light On",
       "diziid": "grey",
       "bolum": "358",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/358/bir_isigi_acik_birak"
     },
     {
-      "season": 17,
-      "episode": 265,
+      "season": 12,
+      "episode": 17,
       "title": "Life on Mars?",
       "diziid": "grey",
       "bolum": "359",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/359/marsta_yasam"
     },
     {
-      "season": 18,
-      "episode": 266,
+      "season": 12,
+      "episode": 18,
       "title": "Give a Little Bit",
       "diziid": "grey",
       "bolum": "360",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/360/birazini_ver"
     },
     {
-      "season": 19,
-      "episode": 267,
+      "season": 12,
+      "episode": 19,
       "title": "Love of My Life",
       "diziid": "grey",
       "bolum": "361",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/361/hayatimin_aski"
     },
     {
-      "season": 20,
-      "episode": 268,
+      "season": 12,
+      "episode": 20,
       "title": "Sing It Again",
       "diziid": "grey",
       "bolum": "362",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/362/sarkiyi_bir_daha_soyle"
     },
     {
-      "season": 21,
-      "episode": 269,
+      "season": 12,
+      "episode": 21,
       "title": "Put on a Happy Face",
       "diziid": "grey",
       "bolum": "363",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/363/mutluluk_rolu"
     },
     {
-      "season": 1,
-      "episode": 270,
+      "season": 13,
+      "episode": 1,
       "title": "All Tomorrow's Parties",
       "diziid": "grey",
       "bolum": "364",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/364/yarinin_partileri"
     },
     {
-      "season": 2,
-      "episode": 271,
+      "season": 13,
+      "episode": 2,
       "title": "The Center Won't Hold",
       "diziid": "grey",
       "bolum": "365",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/365/merkez_dayanamayacak"
     },
     {
-      "season": 3,
-      "episode": 272,
+      "season": 13,
+      "episode": 3,
       "title": "My Happy Ending",
       "diziid": "grey",
       "bolum": "366",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/366/mutlu_sonum"
     },
     {
-      "season": 4,
-      "episode": 273,
+      "season": 13,
+      "episode": 4,
       "title": "You'll Never Walk Alone",
       "diziid": "grey",
       "bolum": "367",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/367/asla_yalniz_yurumeyeceksin"
     },
     {
-      "season": 5,
-      "episode": 274,
+      "season": 13,
+      "episode": 5,
       "title": "Fight the Power",
       "diziid": "grey",
       "bolum": "368",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/368/iktidarla_savas"
     },
     {
-      "season": 6,
-      "episode": 275,
+      "season": 13,
+      "episode": 6,
       "title": "No Time for Despair",
       "diziid": "grey",
       "bolum": "369",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/369/umutsuzluga_vakit_yok"
     },
     {
-      "season": 7,
-      "episode": 276,
+      "season": 13,
+      "episode": 7,
       "title": "Helplessly Hoping",
       "diziid": "grey",
       "bolum": "370",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/370/caresizce_umut_etmek"
     },
     {
-      "season": 8,
-      "episode": 277,
+      "season": 13,
+      "episode": 8,
       "title": "It's All Too Much",
       "diziid": "grey",
       "bolum": "371",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/371/hepsi_cok_fazla"
     },
     {
-      "season": 9,
-      "episode": 278,
+      "season": 13,
+      "episode": 9,
       "title": "In My Life",
       "diziid": "grey",
       "bolum": "372",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/372/hayatimda"
     },
     {
-      "season": 10,
-      "episode": 279,
+      "season": 13,
+      "episode": 10,
       "title": "Breathe",
       "diziid": "grey",
       "bolum": "373",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/373/nefes_al"
     },
     {
-      "season": 11,
-      "episode": 280,
+      "season": 13,
+      "episode": 11,
       "title": "Sorry Doesn't Always Make It Right",
       "diziid": "grey",
       "bolum": "374",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/374/ozur_dilemek_her_zaman_cozmez"
     },
     {
-      "season": 12,
-      "episode": 281,
+      "season": 13,
+      "episode": 12,
       "title": "Sign O' the Times",
       "diziid": "grey",
       "bolum": "375",
@@ -2260,143 +2261,143 @@
     },
     {
       "season": 13,
-      "episode": 282,
+      "episode": 13,
       "title": "Good as Hell",
       "diziid": "grey",
       "bolum": "376",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/376/feci_iyi"
     },
     {
-      "season": 14,
-      "episode": 283,
+      "season": 13,
+      "episode": 14,
       "title": "Look Up Child",
       "diziid": "grey",
       "bolum": "377",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/377/yukari_bak_cocuk"
     },
     {
-      "season": 15,
-      "episode": 284,
+      "season": 13,
+      "episode": 15,
       "title": "Tradition",
       "diziid": "grey",
       "bolum": "378",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/378/gelenek"
     },
     {
-      "season": 16,
-      "episode": 285,
+      "season": 13,
+      "episode": 16,
       "title": "I'm Still Standing",
       "diziid": "grey",
       "bolum": "379",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/379/hala_ayaktayim"
     },
     {
-      "season": 17,
-      "episode": 286,
+      "season": 13,
+      "episode": 17,
       "title": "Someone Saved My Life Tonight",
       "diziid": "grey",
       "bolum": "380",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/380/bu_gece_biri_hayatimi_kurtardi"
     },
     {
-      "season": 1,
-      "episode": 287,
+      "season": 14,
+      "episode": 1,
       "title": "Here Comes the Sun",
       "diziid": "grey",
       "bolum": "381",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/381/gunes_doguyor"
     },
     {
-      "season": 2,
-      "episode": 288,
+      "season": 14,
+      "episode": 2,
       "title": "Some Kind of Tomorrow",
       "diziid": "grey",
       "bolum": "382",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/382/bir_nevi_yarin"
     },
     {
-      "season": 3,
-      "episode": 289,
+      "season": 14,
+      "episode": 3,
       "title": "Hotter Than Hell",
       "diziid": "grey",
       "bolum": "383",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/383/cehennemden_daha_sicak"
     },
     {
-      "season": 4,
-      "episode": 290,
+      "season": 14,
+      "episode": 4,
       "title": "With a Little Help from My Friends",
       "diziid": "grey",
       "bolum": "384",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/384/arkadaslarimin_destegiyle"
     },
     {
-      "season": 5,
-      "episode": 291,
+      "season": 14,
+      "episode": 5,
       "title": "Bottle Up and Explode!",
       "diziid": "grey",
       "bolum": "385",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/385/icine_at_ve_patla%21"
     },
     {
-      "season": 6,
-      "episode": 292,
+      "season": 14,
+      "episode": 6,
       "title": "Every Day Is a Holiday (With You)",
       "diziid": "grey",
       "bolum": "386",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/386/her_gun_bayram_seninleyken"
     },
     {
-      "season": 7,
-      "episode": 293,
+      "season": 14,
+      "episode": 7,
       "title": "Today Was a Fairytale",
       "diziid": "grey",
       "bolum": "387",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/387/bugun_bir_masaldi"
     },
     {
-      "season": 8,
-      "episode": 294,
+      "season": 14,
+      "episode": 8,
       "title": "It Came Upon a Midnight Clear",
       "diziid": "grey",
       "bolum": "388",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/388/bir_gece_yarisi_aydinlandim"
     },
     {
-      "season": 9,
-      "episode": 295,
+      "season": 14,
+      "episode": 9,
       "title": "No Time to Die",
       "diziid": "grey",
       "bolum": "389",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/389/olmek_zamani_degil"
     },
     {
-      "season": 10,
-      "episode": 296,
+      "season": 14,
+      "episode": 10,
       "title": "Living in a House Divided",
       "diziid": "grey",
       "bolum": "390",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/390/bolunmus_bir_evde_yasamak"
     },
     {
-      "season": 11,
-      "episode": 297,
+      "season": 14,
+      "episode": 11,
       "title": "Legacy",
       "diziid": "grey",
       "bolum": "391",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/391/miras"
     },
     {
-      "season": 12,
-      "episode": 298,
+      "season": 14,
+      "episode": 12,
       "title": "The Makings of You",
       "diziid": "grey",
       "bolum": "392",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/392/senin_yaratilisin"
     },
     {
-      "season": 13,
-      "episode": 299,
+      "season": 14,
+      "episode": 13,
       "title": "Put the Squeeze on Me",
       "diziid": "grey",
       "bolum": "393",
@@ -2404,167 +2405,167 @@
     },
     {
       "season": 14,
-      "episode": 300,
+      "episode": 14,
       "title": "Road Trippin'",
       "diziid": "grey",
       "bolum": "394",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/394/yol_gezintisi"
     },
     {
-      "season": 15,
-      "episode": 301,
+      "season": 14,
+      "episode": 15,
       "title": "Put It to the Test",
       "diziid": "grey",
       "bolum": "395",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/395/teste_koy"
     },
     {
-      "season": 16,
-      "episode": 302,
+      "season": 14,
+      "episode": 16,
       "title": "Should I Stay or Should I Go?",
       "diziid": "grey",
       "bolum": "396",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/396/kalmali_miyim_yoksa_gitmeli_miyim"
     },
     {
-      "season": 17,
-      "episode": 303,
+      "season": 14,
+      "episode": 17,
       "title": "I'll Cover You",
       "diziid": "grey",
       "bolum": "397",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/397/seni_koruyacagim"
     },
     {
-      "season": 18,
-      "episode": 304,
+      "season": 14,
+      "episode": 18,
       "title": "Stronger Than Hate",
       "diziid": "grey",
       "bolum": "398",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/398/nefretten_daha_guclu"
     },
     {
-      "season": 19,
-      "episode": 305,
+      "season": 14,
+      "episode": 19,
       "title": "Out for Blood",
       "diziid": "grey",
       "bolum": "399",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/399/intikam_pesinde"
     },
     {
-      "season": 20,
-      "episode": 306,
+      "season": 14,
+      "episode": 20,
       "title": "You Are the Blood",
       "diziid": "grey",
       "bolum": "400",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/400/kan_sensin"
     },
     {
-      "season": 1,
-      "episode": 307,
+      "season": 15,
+      "episode": 1,
       "title": "Everything Has Changed",
       "diziid": "grey",
       "bolum": "401",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/401/her_sey_degisti"
     },
     {
-      "season": 2,
-      "episode": 308,
+      "season": 15,
+      "episode": 2,
       "title": "Wasn't Expecting That",
       "diziid": "grey",
       "bolum": "402",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/402/bunu_beklemiyordum"
     },
     {
-      "season": 3,
-      "episode": 309,
+      "season": 15,
+      "episode": 3,
       "title": "Let's Talk About Sex",
       "diziid": "grey",
       "bolum": "403",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/403/hadi_seks_hakkinda_konusalim"
     },
     {
-      "season": 4,
-      "episode": 310,
+      "season": 15,
+      "episode": 4,
       "title": "Haunted",
       "diziid": "grey",
       "bolum": "404",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/404/lanetli"
     },
     {
-      "season": 5,
-      "episode": 311,
+      "season": 15,
+      "episode": 5,
       "title": "When I Get to the Border",
       "diziid": "grey",
       "bolum": "405",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/405/sinira_geldigimde"
     },
     {
-      "season": 6,
-      "episode": 312,
+      "season": 15,
+      "episode": 6,
       "title": "Thunderstruck",
       "diziid": "grey",
       "bolum": "406",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/406/simsek_carpmasi"
     },
     {
-      "season": 7,
-      "episode": 313,
+      "season": 15,
+      "episode": 7,
       "title": "I'll Follow the Sun",
       "diziid": "grey",
       "bolum": "407",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/407/gunesi_takip_edecegim"
     },
     {
-      "season": 8,
-      "episode": 314,
+      "season": 15,
+      "episode": 8,
       "title": "All Star",
       "diziid": "grey",
       "bolum": "408",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/408/yildizlar_takimi"
     },
     {
-      "season": 9,
-      "episode": 315,
+      "season": 15,
+      "episode": 9,
       "title": "Love Don't Cost a Thing",
       "diziid": "grey",
       "bolum": "409",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/409/askin_bedeli_yoktur"
     },
     {
-      "season": 10,
-      "episode": 316,
+      "season": 15,
+      "episode": 10,
       "title": "Sisters Are Doin' It for Themselves",
       "diziid": "grey",
       "bolum": "410",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/410/kardesler_bunu_kendileri_icin_yapiyor"
     },
     {
-      "season": 11,
-      "episode": 317,
+      "season": 15,
+      "episode": 11,
       "title": "Training Day",
       "diziid": "grey",
       "bolum": "411",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/411/egitim_gunu"
     },
     {
-      "season": 12,
-      "episode": 318,
+      "season": 15,
+      "episode": 12,
       "title": "Pick Yourself Up",
       "diziid": "grey",
       "bolum": "412",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/412/kendini_topla"
     },
     {
-      "season": 13,
-      "episode": 319,
+      "season": 15,
+      "episode": 13,
       "title": "Cowgirls Don't Cry",
       "diziid": "grey",
       "bolum": "413",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/413/kovboy_kizlari_aglamaz"
     },
     {
-      "season": 14,
-      "episode": 320,
+      "season": 15,
+      "episode": 14,
       "title": "Shadow of Your Love",
       "diziid": "grey",
       "bolum": "414",
@@ -2572,127 +2573,127 @@
     },
     {
       "season": 15,
-      "episode": 321,
+      "episode": 15,
       "title": "Mama Who Bore Me",
       "diziid": "grey",
       "bolum": "415",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/415/canimi_sikan_anne"
     },
     {
-      "season": 16,
-      "episode": 322,
+      "season": 15,
+      "episode": 16,
       "title": "Gunpowder and Lead",
       "diziid": "grey",
       "bolum": "416",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/416/barut_ve_kursun"
     },
     {
-      "season": 17,
-      "episode": 323,
+      "season": 15,
+      "episode": 17,
       "title": "Come Fly With Me",
       "diziid": "grey",
       "bolum": "417",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/417/gel_uc_benimle"
     },
     {
-      "season": 18,
-      "episode": 324,
+      "season": 15,
+      "episode": 18,
       "title": "Ready to Run",
       "diziid": "grey",
       "bolum": "418",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/418/kosmaya_hazir"
     },
     {
-      "season": 19,
-      "episode": 325,
+      "season": 15,
+      "episode": 19,
       "title": "Wedding Bell Blues",
       "diziid": "grey",
       "bolum": "419",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/419/dugun_cani_huznu"
     },
     {
-      "season": 20,
-      "episode": 326,
+      "season": 15,
+      "episode": 20,
       "title": "Happily Ever After?",
       "diziid": "grey",
       "bolum": "420",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/420/sonsuza_kadar_mutlu_mu"
     },
     {
-      "season": 1,
-      "episode": 327,
+      "season": 16,
+      "episode": 1,
       "title": "We've Only Just Begun",
       "diziid": "grey",
       "bolum": "421",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/421/daha_yeni_basladik"
     },
     {
-      "season": 2,
-      "episode": 328,
+      "season": 16,
+      "episode": 2,
       "title": "Keep the Family Close",
       "diziid": "grey",
       "bolum": "422",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/422/aileyi_yakin_tutun"
     },
     {
-      "season": 3,
-      "episode": 329,
+      "season": 16,
+      "episode": 3,
       "title": "Walk on the Ocean",
       "diziid": "grey",
       "bolum": "423",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/423/okyanusta_yuru"
     },
     {
-      "season": 4,
-      "episode": 330,
+      "season": 16,
+      "episode": 4,
       "title": "Baby Can I Hold You",
       "diziid": "grey",
       "bolum": "424",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/424/bebegim_seni_tutuyorum"
     },
     {
-      "season": 5,
-      "episode": 331,
+      "season": 16,
+      "episode": 5,
       "title": "Never Felt So Alone",
       "diziid": "grey",
       "bolum": "425",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/425/hic_bu_kadar_yalniz_hissetmemistim"
     },
     {
-      "season": 6,
-      "episode": 332,
+      "season": 16,
+      "episode": 6,
       "title": "The Marathon Continues",
       "diziid": "grey",
       "bolum": "426",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/426/maraton_devam_ediyor"
     },
     {
-      "season": 7,
-      "episode": 333,
+      "season": 16,
+      "episode": 7,
       "title": "She Used to Be Mine",
       "diziid": "grey",
       "bolum": "427",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/427/o_benimdi"
     },
     {
-      "season": 8,
-      "episode": 334,
+      "season": 16,
+      "episode": 8,
       "title": "Blood, Sweat and Tears",
       "diziid": "grey",
       "bolum": "428",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/428/kan%2C_ter_ve_gozyaslari"
     },
     {
-      "season": 9,
-      "episode": 335,
+      "season": 16,
+      "episode": 9,
       "title": "I Carry Your Heart",
       "diziid": "grey",
       "bolum": "429",
       "url": "https://cizgivedizi.com/dizi/grey/greys_anatomy/429/kalbini_tasiyorum"
     },
     {
-      "season": 10,
-      "episode": 336,
+      "season": 16,
+      "episode": 10,
       "title": "Burn It Down",
       "diziid": "grey",
       "bolum": "430",

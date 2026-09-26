@@ -3,6 +3,7 @@
   "title": "hayalimdeki iÅŸ",
   "type": "dizi",
   "poster": "https://cizgivedizi.com/resim/HYIPoster.avif",
+  "plot": "Bu sÄ±radÄ±ÅŸÄ± 3 bÃ¶lÃ¼mlÃ¼k programda, Ã§ocuklar hayal edemeyecekleri iÅŸlerde Ã§alÄ±ÅŸÄ±yor. Bu, geleceklerine bakÄ±ÅŸ aÃ§Ä±larÄ±nÄ± deÄŸiÅŸtirebilir mi?",
   "channel": "Da Vinci",
   "genres": [
     "EÄŸitici/Ã–ÄŸretici"
@@ -17,7 +18,7 @@
       "url": "https://cizgivedizi.com/dizi/hyi/hayalimdeki_is/1/bolum_1"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Montezuma",
       "diziid": "hyi",
@@ -25,7 +26,7 @@
       "url": "https://cizgivedizi.com/dizi/hyi/hayalimdeki_is/2/bolum_2"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Hunters",
       "diziid": "hyi",

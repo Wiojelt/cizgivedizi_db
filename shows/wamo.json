@@ -3,6 +3,7 @@
   "title": "waffles ve mochi",
   "type": "dizi",
   "poster": "https://cizgivedizi.com/resim/WAMOPoster.avif",
+  "plot": "MeraklÄ± kuklalar Waffles ile Mochi dÃ¼nyayÄ± dolaÅŸarak yiyeceklere ve kÃ¼ltÃ¼rlere dair mucizeleri keÅŸfediyor. Ä°ki dostun yemek piÅŸirmeyi Ã¶ÄŸrenme maceralarÄ±na siz de katÄ±lÄ±n.",
   "channel": "Netflix",
   "genres": [
     "Yemek",
@@ -18,7 +19,7 @@
       "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/1/domates"
     },
     {
-      "season": 2,
+      "season": 1,
       "episode": 2,
       "title": "Salt",
       "diziid": "wamo",
@@ -26,7 +27,7 @@
       "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/2/tuz"
     },
     {
-      "season": 3,
+      "season": 1,
       "episode": 3,
       "title": "Potato",
       "diziid": "wamo",
@@ -34,7 +35,7 @@
       "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/3/patates"
     },
     {
-      "season": 4,
+      "season": 1,
       "episode": 4,
       "title": "Pickles",
       "diziid": "wamo",
@@ -42,7 +43,7 @@
       "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/4/tursu"
     },
     {
-      "season": 5,
+      "season": 1,
       "episode": 5,
       "title": "Rice",
       "diziid": "wamo",
@@ -50,7 +51,7 @@
       "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/5/pirinc"
     },
     {
-      "season": 6,
+      "season": 1,
       "episode": 6,
       "title": "Egg",
       "diziid": "wamo",
@@ -58,7 +59,7 @@
       "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/6/yumurta"
     },
     {
-      "season": 7,
+      "season": 1,
       "episode": 7,
       "title": "Herbs & Spices",
       "diziid": "wamo",
@@ -66,7 +67,7 @@
       "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/7/otlar_ve_baharatlar"
     },
     {
-      "season": 8,
+      "season": 1,
       "episode": 8,
       "title": "Corn",
       "diziid": "wamo",
@@ -74,7 +75,7 @@
       "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/8/misir"
     },
     {
-      "season": 9,
+      "season": 1,
       "episode": 9,
       "title": "Mushroom",
       "diziid": "wamo",
@@ -82,7 +83,7 @@
       "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/9/mantar"
     },
     {
-      "season": 10,
+      "season": 1,
       "episode": 10,
       "title": "Water",
       "diziid": "wamo",
