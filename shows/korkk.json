@@ -1,0 +1,85 @@
+{
+  "id": "korkk",
+  "title": "korkak kediler",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/KORKKPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Amulet",
+      "diziid": "korkk",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/korkk/korkak_kediler/1/tilsim"
+    },
+    {
+      "season": 3,
+      "episode": 2,
+      "title": "If the Hat Fits...",
+      "diziid": "korkk",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/korkk/korkak_kediler/3/sapka_sahibini_buluyor"
+    },
+    {
+      "season": 4,
+      "episode": 3,
+      "title": "Mrs. Winklepinkle, Substitute Teacher",
+      "diziid": "korkk",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/korkk/korkak_kediler/4/nobetci_ogretmen_bayan_winklepinkle"
+    },
+    {
+      "season": 5,
+      "episode": 4,
+      "title": "Adventures in Kittysitting",
+      "diziid": "korkk",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/korkk/korkak_kediler/5/kedi_bakma_macerasi"
+    },
+    {
+      "season": 6,
+      "episode": 5,
+      "title": "The Upside Down Classroom",
+      "diziid": "korkk",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/korkk/korkak_kediler/6/ters_yuz_sinif"
+    },
+    {
+      "season": 7,
+      "episode": 6,
+      "title": "Which Witch Is Which?",
+      "diziid": "korkk",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/korkk/korkak_kediler/7/cadilar_cadilara_karsi"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "title": "Winnifred the Wise",
+      "diziid": "korkk",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/korkk/korkak_kediler/8/bilge_winnifred"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "title": "The Legend of the Witches of Winding Way",
+      "diziid": "korkk",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/korkk/korkak_kediler/9/winding_way_cadilari_efsanesi"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "The Halloween Howl",
+      "diziid": "korkk",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/korkk/korkak_kediler/10/cadilar_bayrami_partisi"
+    }
+  ]
+}

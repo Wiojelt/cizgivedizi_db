@@ -1,0 +1,557 @@
+{
+  "id": "rapus",
+  "title": "rapunzel: serÃ¼venler",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/RAPUSPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "What the Hair?!",
+      "diziid": "rapus",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/1/ne_saci%21"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Rapunzel's Enemy",
+      "diziid": "rapus",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/2/rapunzelin_dusmani"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Fitzherbert P.I.",
+      "diziid": "rapus",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/3/dedektif_fitzherbert"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Challenge of the Brave",
+      "diziid": "rapus",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/4/cesurlarin_sinavi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Cassandra v. Eugene",
+      "diziid": "rapus",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/5/cassandra%2C_eugenee_karsi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Return of Strongbow",
+      "diziid": "rapus",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/6/strongbowun_donusu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "In Like Flynn",
+      "diziid": "rapus",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/7/flynn_gibi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Great Expotations",
+      "diziid": "rapus",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/8/buyuk_mucadele"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Under Raps",
+      "diziid": "rapus",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/9/rapin_kontrolunde"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "One Angry Princess",
+      "diziid": "rapus",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/10/ofkeli_bir_prenses"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Pascal's Story",
+      "diziid": "rapus",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/11/pascalin_hikayesi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Big Brothers of Corona",
+      "diziid": "rapus",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/12/coronanin_agabeyleri"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Wrath of Ruthless Ruth",
+      "diziid": "rapus",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/13/hayaletin_gazabi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Max's Enemy",
+      "diziid": "rapus",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/14/maxin_dusmani"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Way of the Willow",
+      "diziid": "rapus",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/15/willowun_yolu"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Queen for a Day",
+      "diziid": "rapus",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/16/bir_gunlugune_kralice_1.bolum"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Queen for a Day",
+      "diziid": "rapus",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/17/bir_gunlugune_kralice_2.bolum"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Painter's Block",
+      "diziid": "rapus",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/18/ilhamsizlik"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Not in the Mood",
+      "diziid": "rapus",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/19/tavir_bozuklugu"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Quest for Varian",
+      "diziid": "rapus",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/20/varian_arayisi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Alchemist Returns",
+      "diziid": "rapus",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/21/simyacinin_donusu"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Secret of the Sun Drop",
+      "diziid": "rapus",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/22/gunes_damlasinin_sirri_1.bolum"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Secret of the Sun Drop",
+      "diziid": "rapus",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/23/gunes_damlasinin_sirri_2.bolum"
+    },
+    {
+      "season": 1,
+      "episode": 24,
+      "title": "Beyond the Corona Walls",
+      "diziid": "rapus",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/24/corona_duvarinin_otesinde_1.bolum"
+    },
+    {
+      "season": 2,
+      "episode": 25,
+      "title": "Beyond the Corona Walls",
+      "diziid": "rapus",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/25/corona_duvarinin_otesinde_2.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 26,
+      "title": "The Return of Quaid",
+      "diziid": "rapus",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/26/quaidin_donusu"
+    },
+    {
+      "season": 4,
+      "episode": 27,
+      "title": "Goodbye and Goodwill",
+      "diziid": "rapus",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/27/veda_ve_iyi_niyet"
+    },
+    {
+      "season": 5,
+      "episode": 28,
+      "title": "Forest of No Return",
+      "diziid": "rapus",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/28/donusu_olmayan_orman"
+    },
+    {
+      "season": 6,
+      "episode": 29,
+      "title": "Freebird",
+      "diziid": "rapus",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/29/kus"
+    },
+    {
+      "season": 7,
+      "episode": 30,
+      "title": "Vigor the Visionary",
+      "diziid": "rapus",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/30/vigor_vigor"
+    },
+    {
+      "season": 8,
+      "episode": 31,
+      "title": "Keeper of the Spire",
+      "diziid": "rapus",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/31/kulenin_bekcisi"
+    },
+    {
+      "season": 9,
+      "episode": 32,
+      "title": "King Pascal",
+      "diziid": "rapus",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/32/kral_pascal"
+    },
+    {
+      "season": 10,
+      "episode": 33,
+      "title": "There's Something About Hook Foot",
+      "diziid": "rapus",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/33/tarifi_zor_kanca_ayak"
+    },
+    {
+      "season": 11,
+      "episode": 34,
+      "title": "Happiness Is...",
+      "diziid": "rapus",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/34/mutluluk"
+    },
+    {
+      "season": 12,
+      "episode": 35,
+      "title": "Peril on the High Seas",
+      "diziid": "rapus",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/35/acik_denizlerde_tehlike"
+    },
+    {
+      "season": 13,
+      "episode": 36,
+      "title": "Curses!",
+      "diziid": "rapus",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/36/lanet%21"
+    },
+    {
+      "season": 14,
+      "episode": 37,
+      "title": "The Eye of Pincosta",
+      "diziid": "rapus",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/37/pincostanin_gozu"
+    },
+    {
+      "season": 15,
+      "episode": 38,
+      "title": "Rapunzel and the Great Tree",
+      "diziid": "rapus",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/38/rapunzel_ve_buyuk_agac_bolum_1"
+    },
+    {
+      "season": 16,
+      "episode": 39,
+      "title": "Rapunzel and the Great Tree",
+      "diziid": "rapus",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/39/rapunzel_ve_buyuk_agac_bolum_2"
+    },
+    {
+      "season": 17,
+      "episode": 40,
+      "title": "The Brothers Hook",
+      "diziid": "rapus",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/40/kanca_kardesler"
+    },
+    {
+      "season": 18,
+      "episode": 41,
+      "title": "Rapunzel: Day One",
+      "diziid": "rapus",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/41/rapunzel%3A_birinci_gun"
+    },
+    {
+      "season": 19,
+      "episode": 42,
+      "title": "Mirror, Mirror",
+      "diziid": "rapus",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/42/ayna%2C_ayna"
+    },
+    {
+      "season": 20,
+      "episode": 43,
+      "title": "You're Kidding Me!",
+      "diziid": "rapus",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/43/beni_kandiriyor_musun"
+    },
+    {
+      "season": 21,
+      "episode": 44,
+      "title": "Rapunzeltopia",
+      "diziid": "rapus",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/44/rapunzeltopya"
+    },
+    {
+      "season": 22,
+      "episode": 45,
+      "title": "Lost and Found",
+      "diziid": "rapus",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/45/kayip_ve_bulunan"
+    },
+    {
+      "season": 23,
+      "episode": 46,
+      "title": "Destinies Collide",
+      "diziid": "rapus",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/46/kaderler_carpisiyor_bolum_1"
+    },
+    {
+      "season": 24,
+      "episode": 47,
+      "title": "Destinies Collide",
+      "diziid": "rapus",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/47/kaderler_carpisiyor_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 48,
+      "title": "Rapunzel's Return",
+      "diziid": "rapus",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/48/rapunzelin_donusu_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 49,
+      "title": "Rapunzel's Return",
+      "diziid": "rapus",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/49/rapunzelin_donusu_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 50,
+      "title": "Return of the King",
+      "diziid": "rapus",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/50/kralin_donusu"
+    },
+    {
+      "season": 4,
+      "episode": 51,
+      "title": "Who's Afraid of the Big, Bad Wolf?",
+      "diziid": "rapus",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/51/kim_korkar_hain_kurttan"
+    },
+    {
+      "season": 5,
+      "episode": 52,
+      "title": "The Lost Treasure of Herz Der Sonne",
+      "diziid": "rapus",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/52/herz_der_sonnienin_kayip_hazinesi"
+    },
+    {
+      "season": 6,
+      "episode": 53,
+      "title": "No Time Like the Past",
+      "diziid": "rapus",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/53/gecmis_gibisi_yok"
+    },
+    {
+      "season": 7,
+      "episode": 54,
+      "title": "Beginnings",
+      "diziid": "rapus",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/54/baslangiclar"
+    },
+    {
+      "season": 8,
+      "episode": 55,
+      "title": "The King and Queen of Hearts",
+      "diziid": "rapus",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/55/kalplerin_krali_ve_kralicesi"
+    },
+    {
+      "season": 9,
+      "episode": 56,
+      "title": "Day of the Animals",
+      "diziid": "rapus",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/56/hayvanlarin_gunu"
+    },
+    {
+      "season": 10,
+      "episode": 57,
+      "title": "Be Very Afraid",
+      "diziid": "rapus",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/57/cok_kork%21"
+    },
+    {
+      "season": 11,
+      "episode": 58,
+      "title": "Pascal's Dragon",
+      "diziid": "rapus",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/58/pascalin_ejderhasi"
+    },
+    {
+      "season": 12,
+      "episode": 59,
+      "title": "Islands Apart",
+      "diziid": "rapus",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/59/uzaktaki_adalar"
+    },
+    {
+      "season": 13,
+      "episode": 60,
+      "title": "Cassandra's Revenge",
+      "diziid": "rapus",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/60/cassandranin_intikami_bolum_1"
+    },
+    {
+      "season": 14,
+      "episode": 61,
+      "title": "Cassandra's Revenge",
+      "diziid": "rapus",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/61/cassandranin_intikami_bolum_2"
+    },
+    {
+      "season": 15,
+      "episode": 62,
+      "title": "Race To The Spire",
+      "diziid": "rapus",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/62/spirale_yaris"
+    },
+    {
+      "season": 16,
+      "episode": 63,
+      "title": "A Tale Of Two Sisters",
+      "diziid": "rapus",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/63/iki_kiz_kardesin_hikayesi"
+    },
+    {
+      "season": 17,
+      "episode": 64,
+      "title": "Flynnpostor",
+      "diziid": "rapus",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/64/sahtekar_flynn"
+    },
+    {
+      "season": 18,
+      "episode": 65,
+      "title": "Once a Handmaidenâ€¦",
+      "diziid": "rapus",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/65/daima_hizmetci"
+    },
+    {
+      "season": 19,
+      "episode": 66,
+      "title": "Plus Est En Vous",
+      "diziid": "rapus",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/66/plust_est_en_vous_bolum_1"
+    },
+    {
+      "season": 20,
+      "episode": 67,
+      "title": "Plus Est En Vous",
+      "diziid": "rapus",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/67/plust_est_en_vous_bolum_2"
+    },
+    {
+      "season": 21,
+      "episode": 68,
+      "title": "Plus Est En Vous",
+      "diziid": "rapus",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/rapus/rapunzel%3A_seruvenler/68/plust_est_en_vous_bolum_3"
+    }
+  ]
+}

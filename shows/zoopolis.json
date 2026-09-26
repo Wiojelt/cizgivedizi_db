@@ -1,0 +1,60 @@
+{
+  "id": "zoopolis",
+  "title": "zootropolis artÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ZOOPOLISPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Hopp on Board",
+      "diziid": "zoopolis",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/zoopolis/zootropolis_arti/1/atlayin_bakalim"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Real Rodents of Little Rodentia",
+      "diziid": "zoopolis",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/zoopolis/zootropolis_arti/2/fare_mahallesinin_gercek_fareleri"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Duke the Musical",
+      "diziid": "zoopolis",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/zoopolis/zootropolis_arti/3/duk_muzikali"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Godfather of the Bride",
+      "diziid": "zoopolis",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/zoopolis/zootropolis_arti/4/gelinin_vaftiz_babasi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "So You Think You Can Prance",
+      "diziid": "zoopolis",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/zoopolis/zootropolis_arti/5/dans_eden_sizsiniz"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Dinner Rush",
+      "diziid": "zoopolis",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/zoopolis/zootropolis_arti/6/acele_yemek"
+    }
+  ]
+}

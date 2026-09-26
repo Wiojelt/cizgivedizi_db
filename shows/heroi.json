@@ -1,0 +1,173 @@
+{
+  "id": "heroi",
+  "title": "hero Ä±nside",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/HEROIPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Cry for Justice",
+      "diziid": "heroi",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/1/adalet_icin_aglamak"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Darkest Night",
+      "diziid": "heroi",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/2/en_karanlik_gece"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Great GRAVITY",
+      "diziid": "heroi",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/3/yer_cekimi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Jewel of the Nile",
+      "diziid": "heroi",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/4/nilin_cevheri"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "When You Hear That Funky Groove, I'm Coming for You!",
+      "diziid": "heroi",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/5/maskeli_intikamci"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Can You Water My Plants?",
+      "diziid": "heroi",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/6/bitkilerimi_sulayabilir_misin"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Give Me My Gloves",
+      "diziid": "heroi",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/7/bana_eldivenlerimi_ver"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Two Smiles",
+      "diziid": "heroi",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/8/iki_gulumseme"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Top of Coit Tower",
+      "diziid": "heroi",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/9/coit_kulesinin_tepesinde"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Revolution",
+      "diziid": "heroi",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/10/devrim"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Villains vs Heroes",
+      "diziid": "heroi",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/11/kotuler_kahramanlara_karsi"
+    },
+    {
+      "season": 1,
+      "episode": 12,
+      "title": "Strawberry On The Air",
+      "diziid": "heroi",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/12/havadaki_cilek"
+    },
+    {
+      "season": 2,
+      "episode": 13,
+      "title": "Criminals & Chameleon",
+      "diziid": "heroi",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/13/suclular_ve_bukalemunlar"
+    },
+    {
+      "season": 3,
+      "episode": 14,
+      "title": "Hard-Hitting Interview",
+      "diziid": "heroi",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/14/roportaj"
+    },
+    {
+      "season": 4,
+      "episode": 15,
+      "title": "The Good, The Bad, And The Jelly",
+      "diziid": "heroi",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/15/iyi%2C_kotu_ve_jole"
+    },
+    {
+      "season": 5,
+      "episode": 16,
+      "title": "Coin Robber",
+      "diziid": "heroi",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/16/para_hirsizi"
+    },
+    {
+      "season": 6,
+      "episode": 17,
+      "title": "Dizzy Donut Clues",
+      "diziid": "heroi",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/17/bas_donduren_donutlar_ipuclari"
+    },
+    {
+      "season": 7,
+      "episode": 18,
+      "title": "Special Delivery",
+      "diziid": "heroi",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/18/ozel_teslimat"
+    },
+    {
+      "season": 8,
+      "episode": 19,
+      "title": "Get The Book!",
+      "diziid": "heroi",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/19/kitabi_al%21"
+    },
+    {
+      "season": 9,
+      "episode": 20,
+      "title": "Battle On The Bridge",
+      "diziid": "heroi",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/heroi/hero_inside/20/koprude_savas"
+    }
+  ]
+}

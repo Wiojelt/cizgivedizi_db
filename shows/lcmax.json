@@ -1,0 +1,100 @@
+{
+  "id": "lcmax",
+  "title": "lego city: sÄ±nÄ±rsÄ±z ÅŸehir max",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/LCMAXPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Slushy Vans and Laser Drones",
+      "diziid": "lcmax",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/lcmax/lego_city%3A_sinirsiz_sehir_max/1/meybuz_arabasi_ve_lazer_dronelar"
+    },
+    {
+      "season": 10,
+      "episode": 2,
+      "title": "Donut Derby",
+      "diziid": "lcmax",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/lcmax/lego_city%3A_sinirsiz_sehir_max/10/donut_derbisi"
+    },
+    {
+      "season": 11,
+      "episode": 3,
+      "title": "Cops vs. Villains",
+      "diziid": "lcmax",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/lcmax/lego_city%3A_sinirsiz_sehir_max/11/polisler_kotulere_karsi"
+    },
+    {
+      "season": 12,
+      "episode": 4,
+      "title": "Stunts and Revenge",
+      "diziid": "lcmax",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/lcmax/lego_city%3A_sinirsiz_sehir_max/12/akrobasi_ve_intikam"
+    },
+    {
+      "season": 2,
+      "episode": 5,
+      "title": "Peak Gaming",
+      "diziid": "lcmax",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/lcmax/lego_city%3A_sinirsiz_sehir_max/2/buyuk_oyun"
+    },
+    {
+      "season": 4,
+      "episode": 6,
+      "title": "Brolieve in Broself",
+      "diziid": "lcmax",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/lcmax/lego_city%3A_sinirsiz_sehir_max/4/kendine_inan_kardo"
+    },
+    {
+      "season": 5,
+      "episode": 7,
+      "title": "NoFace Unmasked",
+      "diziid": "lcmax",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/lcmax/lego_city%3A_sinirsiz_sehir_max/5/suratin_maskesi_ortaya_cikiyor"
+    },
+    {
+      "season": 6,
+      "episode": 8,
+      "title": "Prisoner Escape",
+      "diziid": "lcmax",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/lcmax/lego_city%3A_sinirsiz_sehir_max/6/mahkumlar_kaciyor"
+    },
+    {
+      "season": 7,
+      "episode": 9,
+      "title": "Planet X",
+      "diziid": "lcmax",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/lcmax/lego_city%3A_sinirsiz_sehir_max/7/x_gezegeni"
+    },
+    {
+      "season": 8,
+      "episode": 10,
+      "title": "Jungle vs. City",
+      "diziid": "lcmax",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/lcmax/lego_city%3A_sinirsiz_sehir_max/8/orman_sehre_karsi"
+    },
+    {
+      "season": 9,
+      "episode": 11,
+      "title": "Cops and Bros",
+      "diziid": "lcmax",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/lcmax/lego_city%3A_sinirsiz_sehir_max/9/polisler_ve_kardolar"
+    }
+  ]
+}

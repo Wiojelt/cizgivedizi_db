@@ -1,0 +1,716 @@
+{
+  "id": "simon",
+  "title": "sÃ¼per tavÅŸan simon",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SIMONPoster.avif",
+  "channel": "TRT Ã‡ocuk",
+  "genres": [
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Super Rabbit",
+      "diziid": "simon",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/1/super_tavsan"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "No More Stabilisers",
+      "diziid": "simon",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/2/artik_destek_tekerleri_yok"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Tomatoes",
+      "diziid": "simon",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/3/domatesler"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "I Don't Want To Go To The Pool",
+      "diziid": "simon",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/4/havuza_gitmek_istemiyorum"
+    },
+    {
+      "season": 6,
+      "episode": 5,
+      "title": "I Don't Want to Go to School",
+      "diziid": "simon",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/6/okula_gitmek_istemiyorum"
+    },
+    {
+      "season": 7,
+      "episode": 6,
+      "title": "I'm The Champion",
+      "diziid": "simon",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/7/ben_sampiyonum"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "title": "Not The Dentist",
+      "diziid": "simon",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/8/disci_olmaz"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "title": "The Teeny Weeny Incy Wincy Bugs",
+      "diziid": "simon",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/9/mini_mini_minnacik_bocekler"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "Loser Takes It All",
+      "diziid": "simon",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/10/kaybeden_her_seyi_alir"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "The Secret",
+      "diziid": "simon",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/11/sir"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "In The Aeroplane",
+      "diziid": "simon",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/12/ucakta"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "Mr. Sticky Glue",
+      "diziid": "simon",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/13/bay_yapiskan_tutkal"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "Dad Is Weird Today",
+      "diziid": "simon",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/14/babam_bugun_biraz_tuhaf"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "Feather",
+      "diziid": "simon",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/15/tuylucuk"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Copy Rabbit",
+      "diziid": "simon",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/16/taklitci_tavsan"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "The Baby-Sitter",
+      "diziid": "simon",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/17/bakici_gecesi"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "Happy Birthday Mummy",
+      "diziid": "simon",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/18/iyi_ki_dogdun_anne"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "I'm The Boss",
+      "diziid": "simon",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/19/patron_benim"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "Cats and Dogs",
+      "diziid": "simon",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/20/kediler_ve_kopekler"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "Super Great",
+      "diziid": "simon",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/21/super_iyi"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "The Disappearing Act",
+      "diziid": "simon",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/22/ortadan_kaybolan"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "Bing Bang Boom",
+      "diziid": "simon",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/23/bing_bam_bom"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "Assistant Doctor",
+      "diziid": "simon",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/24/doktor_asistani"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "The Big Dilemma",
+      "diziid": "simon",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/25/buyuk_ikilem"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "Nits",
+      "diziid": "simon",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/26/bitler%21"
+    },
+    {
+      "season": 27,
+      "episode": 26,
+      "title": "It's No Fun Being Big",
+      "diziid": "simon",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/27/buyuk_olmak_eglenceli_degil"
+    },
+    {
+      "season": 28,
+      "episode": 27,
+      "title": "I Am Not Your Friend Anymore",
+      "diziid": "simon",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/28/artik_senin_arkadasin_degilim"
+    },
+    {
+      "season": 29,
+      "episode": 28,
+      "title": "Sleepover at Ferdinand's",
+      "diziid": "simon",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/29/ferdinand%E2%80%99in_evinde_yatiya_kalmak"
+    },
+    {
+      "season": 30,
+      "episode": 29,
+      "title": "Just Like Dad",
+      "diziid": "simon",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/30/tipki_babam_gibi"
+    },
+    {
+      "season": 31,
+      "episode": 30,
+      "title": "I've Got a Dragon",
+      "diziid": "simon",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/31/bir_ejderham_var"
+    },
+    {
+      "season": 32,
+      "episode": 31,
+      "title": "Friends at Last",
+      "diziid": "simon",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/32/sonunda_arkadasiz"
+    },
+    {
+      "season": 33,
+      "episode": 32,
+      "title": "No Cheating",
+      "diziid": "simon",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/33/hile_yok"
+    },
+    {
+      "season": 34,
+      "episode": 33,
+      "title": "My Big Cousin",
+      "diziid": "simon",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/34/buyuk_kuzenim"
+    },
+    {
+      "season": 35,
+      "episode": 34,
+      "title": "TreeMendous",
+      "diziid": "simon",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/35/agac_rolum"
+    },
+    {
+      "season": 36,
+      "episode": 35,
+      "title": "Catching Crabs",
+      "diziid": "simon",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/36/yengec_yarismasi"
+    },
+    {
+      "season": 37,
+      "episode": 36,
+      "title": "Big Kids",
+      "diziid": "simon",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/37/buyuk_cocuklar"
+    },
+    {
+      "season": 38,
+      "episode": 37,
+      "title": "But We Don't Want to Leave",
+      "diziid": "simon",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/38/ama_biz_gitmek_istemiyoruz"
+    },
+    {
+      "season": 39,
+      "episode": 38,
+      "title": "Snowballs",
+      "diziid": "simon",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/39/kar_toplari"
+    },
+    {
+      "season": 40,
+      "episode": 39,
+      "title": "Not Sleepy",
+      "diziid": "simon",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/40/uykusu_yok"
+    },
+    {
+      "season": 41,
+      "episode": 40,
+      "title": "In Just a Little While",
+      "diziid": "simon",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/41/kisa_bir_sure_icinde"
+    },
+    {
+      "season": 42,
+      "episode": 41,
+      "title": "The Champ!",
+      "diziid": "simon",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/42/sampiyon"
+    },
+    {
+      "season": 43,
+      "episode": 42,
+      "title": "Who's Afraid of the Dark!",
+      "diziid": "simon",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/43/karanliktan_kim_korkar_ki"
+    },
+    {
+      "season": 44,
+      "episode": 43,
+      "title": "Bye Bye Blankie",
+      "diziid": "simon",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/44/gule_gule_battaniye"
+    },
+    {
+      "season": 45,
+      "episode": 44,
+      "title": "Going Camping",
+      "diziid": "simon",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/45/kampa_gitmek"
+    },
+    {
+      "season": 46,
+      "episode": 45,
+      "title": "Saving Kermit",
+      "diziid": "simon",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/46/yengeci_kurtarmak"
+    },
+    {
+      "season": 47,
+      "episode": 46,
+      "title": "Look Out Here I Come",
+      "diziid": "simon",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/47/dikkat_ben_geliyorum"
+    },
+    {
+      "season": 48,
+      "episode": 47,
+      "title": "Albert the Hamster",
+      "diziid": "simon",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/48/hamster_albert"
+    },
+    {
+      "season": 49,
+      "episode": 48,
+      "title": "A Deal Is a Deal",
+      "diziid": "simon",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/49/anlasma_anlasmadir"
+    },
+    {
+      "season": 50,
+      "episode": 49,
+      "title": "Super Big Brother",
+      "diziid": "simon",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/50/super_agabey"
+    },
+    {
+      "season": 51,
+      "episode": 50,
+      "title": "A Night in the Treehouse",
+      "diziid": "simon",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/51/agac_evde_bir_gece"
+    },
+    {
+      "season": 52,
+      "episode": 51,
+      "title": "Mr. Mess It Up",
+      "diziid": "simon",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/52/bay_yanlis_yapan"
+    },
+    {
+      "season": 1,
+      "episode": 52,
+      "title": "Who's the Strongest?",
+      "diziid": "simon",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/53/en_guclu_kim"
+    },
+    {
+      "season": 2,
+      "episode": 53,
+      "title": "Holiday Time!",
+      "diziid": "simon",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/54/tatil_zamani"
+    },
+    {
+      "season": 3,
+      "episode": 54,
+      "title": "I Made a Mess",
+      "diziid": "simon",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/55/ortaligi_berbat_ettim"
+    },
+    {
+      "season": 4,
+      "episode": 55,
+      "title": "I Just Love Surprises",
+      "diziid": "simon",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/56/surprizleri_cok_seviyorum"
+    },
+    {
+      "season": 5,
+      "episode": 56,
+      "title": "Stars for Mummy",
+      "diziid": "simon",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/57/annem_icin_yildizlari"
+    },
+    {
+      "season": 6,
+      "episode": 57,
+      "title": "I'm Not Afraid of the Storm",
+      "diziid": "simon",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/58/firtinadan_korkmuyorum"
+    },
+    {
+      "season": 7,
+      "episode": 58,
+      "title": "Bath Time, Elvis!",
+      "diziid": "simon",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/59/banyo_zamani%2C_elvis%21"
+    },
+    {
+      "season": 8,
+      "episode": 59,
+      "title": "Let's Go to the Farm",
+      "diziid": "simon",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/60/hadi_ciftlige_gidelim"
+    },
+    {
+      "season": 10,
+      "episode": 60,
+      "title": "Sulky Pants",
+      "diziid": "simon",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/62/somurtkan_tavsan"
+    },
+    {
+      "season": 19,
+      "episode": 61,
+      "title": "Who's the Best?",
+      "diziid": "simon",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/71/en_iyi_kim"
+    },
+    {
+      "season": 22,
+      "episode": 62,
+      "title": "I Want to Ride on the Tractor",
+      "diziid": "simon",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/74/traktore_binmek_istiyorum"
+    },
+    {
+      "season": 23,
+      "episode": 63,
+      "title": "I Can't Get to Sleep",
+      "diziid": "simon",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/75/uyuyamiyorum"
+    },
+    {
+      "season": 27,
+      "episode": 64,
+      "title": "That's Our Treasure Chest!",
+      "diziid": "simon",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/79/o%2C_bizim_hazine_sandigimiz%21"
+    },
+    {
+      "season": 32,
+      "episode": 65,
+      "title": "The School Trip",
+      "diziid": "simon",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/84/okul_gezisi"
+    },
+    {
+      "season": 34,
+      "episode": 66,
+      "title": "I Know How to Sail",
+      "diziid": "simon",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/86/yelken_acmayi_biliyorum"
+    },
+    {
+      "season": 35,
+      "episode": 67,
+      "title": "The Forest Fairies",
+      "diziid": "simon",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/87/orman_bekcileri"
+    },
+    {
+      "season": 36,
+      "episode": 68,
+      "title": "A Trio of Superheroes!",
+      "diziid": "simon",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/88/super_kahraman_uclusu%21"
+    },
+    {
+      "season": 37,
+      "episode": 69,
+      "title": "Super Rabbit Day",
+      "diziid": "simon",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/89/super_tavsan_gunu"
+    },
+    {
+      "season": 40,
+      "episode": 70,
+      "title": "Hey... That's Not Fair!",
+      "diziid": "simon",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/92/ama_bu_haksizlik%21"
+    },
+    {
+      "season": 41,
+      "episode": 71,
+      "title": "We're All Just Little Babies",
+      "diziid": "simon",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/93/hepimiz_kucuk_bebekleriz"
+    },
+    {
+      "season": 47,
+      "episode": 72,
+      "title": "We Are the Champions!",
+      "diziid": "simon",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/99/sampiyon_biziz%21"
+    },
+    {
+      "season": 20,
+      "episode": 73,
+      "title": "The Fastest T-Shirt in the World",
+      "diziid": "simon",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/72/dunyanin_en_hizli_tisortu"
+    },
+    {
+      "season": 29,
+      "episode": 74,
+      "title": "Milou in the Snow",
+      "diziid": "simon",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/81/milou_karda"
+    },
+    {
+      "season": 31,
+      "episode": 75,
+      "title": "The Mega Water Slide",
+      "diziid": "simon",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/83/buyuk_su_kaydiragi"
+    },
+    {
+      "season": 33,
+      "episode": 76,
+      "title": "The Snowball Fight",
+      "diziid": "simon",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/85/kar_topu_yarisi"
+    },
+    {
+      "season": 38,
+      "episode": 77,
+      "title": "The Lost Blankie",
+      "diziid": "simon",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/90/kayip_battaniye"
+    },
+    {
+      "season": 39,
+      "episode": 78,
+      "title": "We're All Superheroes!",
+      "diziid": "simon",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/91/hepimiz_super_kahramanlariz"
+    },
+    {
+      "season": 42,
+      "episode": 79,
+      "title": "Easy Peasy Rackets",
+      "diziid": "simon",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/94/cok_basit_raketler"
+    },
+    {
+      "season": 43,
+      "episode": 80,
+      "title": "Let's Play Tag!",
+      "diziid": "simon",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/95/ebelemece_oynayalim%21"
+    },
+    {
+      "season": 44,
+      "episode": 81,
+      "title": "Super Ref!",
+      "diziid": "simon",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/96/super_hakem%21"
+    },
+    {
+      "season": 45,
+      "episode": 82,
+      "title": "Roller Skating Rules",
+      "diziid": "simon",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/97/paten_kayma_kurallari"
+    },
+    {
+      "season": 46,
+      "episode": 83,
+      "title": "Lost in the Snow",
+      "diziid": "simon",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/98/karda_kayboldu"
+    },
+    {
+      "season": 48,
+      "episode": 84,
+      "title": "I Don't Want to Go on Stage",
+      "diziid": "simon",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/100/sahneye_cikmak_istemiyorum"
+    },
+    {
+      "season": 49,
+      "episode": 85,
+      "title": "What a Monster!",
+      "diziid": "simon",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/101/ne_canavar_ama%21"
+    },
+    {
+      "season": 50,
+      "episode": 86,
+      "title": "The Supersonic Canoe",
+      "diziid": "simon",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/102/supersonik_kano"
+    },
+    {
+      "season": 51,
+      "episode": 87,
+      "title": "The Train Trip",
+      "diziid": "simon",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/103/tren_yolculugu"
+    },
+    {
+      "season": 52,
+      "episode": 88,
+      "title": "We Are Not Liars",
+      "diziid": "simon",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/simon/super_tavsan_simon/104/yanlis_falan_gormedik"
+    }
+  ]
+}

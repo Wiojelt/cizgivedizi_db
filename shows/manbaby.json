@@ -1,0 +1,45 @@
+{
+  "id": "manbaby",
+  "title": "adam ve bebek",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/MANBABYPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "AbsÃ¼rt"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Chapter 1",
+      "diziid": "manbaby",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/manbaby/adam_ve_bebek/1/no._1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Chapter 2",
+      "diziid": "manbaby",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/manbaby/adam_ve_bebek/2/no._2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Chapter 3",
+      "diziid": "manbaby",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/manbaby/adam_ve_bebek/3/no._3"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Chapter 4",
+      "diziid": "manbaby",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/manbaby/adam_ve_bebek/4/no._4"
+    }
+  ]
+}

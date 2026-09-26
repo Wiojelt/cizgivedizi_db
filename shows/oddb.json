@@ -1,0 +1,1516 @@
+{
+  "id": "oddb",
+  "title": "oddbods",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ODDBPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "It's My Partyâ€¦",
+      "diziid": "oddb",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/1/bu_benim_partim"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "A Good Heart",
+      "diziid": "oddb",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/2/iyi_bir_kalp"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Marooned",
+      "diziid": "oddb",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/3/mahsur"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Parental Instincts",
+      "diziid": "oddb",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/4/ebeveyn_icgudusu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Sheriff of Oddsville",
+      "diziid": "oddb",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/5/tuhaf_kasabanin_serifi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Alien Abduction",
+      "diziid": "oddb",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/6/uzayli_kacirma"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Slick Moves",
+      "diziid": "oddb",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/7/kaygan_hareketler"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "A Perfect Night's Squeak",
+      "diziid": "oddb",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/8/mukemmel_bir_gece_sicrayisi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "A Newt to Remember",
+      "diziid": "oddb",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/9/unutulmaz_bir_newt"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "One Two Many",
+      "diziid": "oddb",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/10/bir_iki_cok"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Pogo the Poltergeist",
+      "diziid": "oddb",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/11/gorunmez_pogo"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Robobuddy",
+      "diziid": "oddb",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/12/roboarkadas"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Pain in the Arts",
+      "diziid": "oddb",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/13/sanatta_aci"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Zeelionaire",
+      "diziid": "oddb",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/14/zengin_zee"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Bad Medicine",
+      "diziid": "oddb",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/15/kotu_ilac"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Fuse Ruse",
+      "diziid": "oddb",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/16/fuseun_numarasi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Narco-Klepto",
+      "diziid": "oddb",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/17/hirsiz"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Bubble Trouble",
+      "diziid": "oddb",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/18/baloncuk_problemi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Double Date Trouble",
+      "diziid": "oddb",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/19/cift_randevu_problemi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "My Hero",
+      "diziid": "oddb",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/20/kahramanim"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Florence Newtingale",
+      "diziid": "oddb",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/21/florence_newtingale"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Hypnobod",
+      "diziid": "oddb",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/22/hipnobod"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "The Oddbod Couple",
+      "diziid": "oddb",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/23/tuhafbod_cifti"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Zee in Charge",
+      "diziid": "oddb",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/24/zee_sorumlu"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "The Last Laugh",
+      "diziid": "oddb",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/25/son_gulen"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Strictly No Dancing",
+      "diziid": "oddb",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/26/kesinlikle_dans_yok"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "The Amazing Slicko",
+      "diziid": "oddb",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/27/harika_slicko"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Panic Room",
+      "diziid": "oddb",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/28/panik_odasi"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "No Good Deed",
+      "diziid": "oddb",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/29/iyi_niyetli_kotuluk"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "I S-cream Apocalypse",
+      "diziid": "oddb",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/30/korkunc_kiyamet"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "High Price of Neighbouring",
+      "diziid": "oddb",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/31/komsulugun_yuksek_bedeli"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Super Zeroes",
+      "diziid": "oddb",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/32/super_sifirlar"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Newt's Lucky Day",
+      "diziid": "oddb",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/33/newtun_sansli_gunu"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "X Marks the Spot",
+      "diziid": "oddb",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/34/x_isareti"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "A Marrow Victory",
+      "diziid": "oddb",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/35/bir_kabak_zaferi"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "50 Foot Zee",
+      "diziid": "oddb",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/36/50_ayakli_zee"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "The Last Straw",
+      "diziid": "oddb",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/37/son_saman"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Build a Rocket Bubbles",
+      "diziid": "oddb",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/38/roket_yap_bubbles"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Macho Jeff",
+      "diziid": "oddb",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/39/macho_jeff"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "One Short of a Full Set",
+      "diziid": "oddb",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/40/tam_setten_bir_eksik"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Mind Control",
+      "diziid": "oddb",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/41/zihin_kontrolu"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Monster of Oddsville",
+      "diziid": "oddb",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/42/tuhaf_kasabanin_canavari"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Zoom",
+      "diziid": "oddb",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/43/zoom"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Mr. Snuffles",
+      "diziid": "oddb",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/44/bay_snuffles"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Headcase",
+      "diziid": "oddb",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/45/kafatasi"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Technofogey Fuse",
+      "diziid": "oddb",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/46/teknoloji_fuse"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Acting Out",
+      "diziid": "oddb",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/47/motor"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Pocket-sized Pogo",
+      "diziid": "oddb",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/48/cep_boy_pogo"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Just Like Riding a Bike",
+      "diziid": "oddb",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/49/bisiklet_surmek_gibi"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Double Scoop",
+      "diziid": "oddb",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/50/cift_top"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Camp It Up",
+      "diziid": "oddb",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/51/kamp_yap"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Wheels of Furry",
+      "diziid": "oddb",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/52/tuylu_tekerlekler"
+    },
+    {
+      "season": 53,
+      "episode": 53,
+      "title": "Oddball",
+      "diziid": "oddb",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/53/tuhaf_top"
+    },
+    {
+      "season": 54,
+      "episode": 54,
+      "title": "Let's See That Again",
+      "diziid": "oddb",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/54/bunu_tekrar_goster"
+    },
+    {
+      "season": 55,
+      "episode": 55,
+      "title": "The Shame, the blame and the Fame",
+      "diziid": "oddb",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/55/utanc%2C_suclama_ve_un"
+    },
+    {
+      "season": 56,
+      "episode": 56,
+      "title": "Anger Management",
+      "diziid": "oddb",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/56/ofke_yonetimi"
+    },
+    {
+      "season": 57,
+      "episode": 57,
+      "title": "On the Cards",
+      "diziid": "oddb",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/57/kartlarda"
+    },
+    {
+      "season": 58,
+      "episode": 58,
+      "title": "Oddjobs",
+      "diziid": "oddb",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/58/tuhaf_isler"
+    },
+    {
+      "season": 59,
+      "episode": 59,
+      "title": "The Brain Game",
+      "diziid": "oddb",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/59/beyin_oyunu"
+    },
+    {
+      "season": 60,
+      "episode": 60,
+      "title": "You Can't Handle the Tooth",
+      "diziid": "oddb",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/60/disle_bas_edemezsin"
+    },
+    {
+      "season": 1,
+      "episode": 61,
+      "title": "I am Bubbles",
+      "diziid": "oddb",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/61/ben_bubblesim"
+    },
+    {
+      "season": 2,
+      "episode": 62,
+      "title": "Jetpack Blues",
+      "diziid": "oddb",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/62/jetpack_huznu"
+    },
+    {
+      "season": 3,
+      "episode": 63,
+      "title": "Space Oddbodity",
+      "diziid": "oddb",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/63/uzay_garipligi"
+    },
+    {
+      "season": 4,
+      "episode": 64,
+      "title": "The Oddfather",
+      "diziid": "oddb",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/64/babalar_ve_cocuklar"
+    },
+    {
+      "season": 5,
+      "episode": 65,
+      "title": "Can You Dig it",
+      "diziid": "oddb",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/65/kazabilir_misin"
+    },
+    {
+      "season": 6,
+      "episode": 66,
+      "title": "Arcade Slick",
+      "diziid": "oddb",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/66/atari_oyunu_ve_slick"
+    },
+    {
+      "season": 7,
+      "episode": 67,
+      "title": "Spiderman",
+      "diziid": "oddb",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/67/orumcek_adam"
+    },
+    {
+      "season": 8,
+      "episode": 68,
+      "title": "Our Son Slick",
+      "diziid": "oddb",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/68/bizim_ogul_slick"
+    },
+    {
+      "season": 9,
+      "episode": 69,
+      "title": "Deserted",
+      "diziid": "oddb",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/69/terkedilmis"
+    },
+    {
+      "season": 10,
+      "episode": 70,
+      "title": "Your Move, Jeff",
+      "diziid": "oddb",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/70/sira_senin%2C_jeff"
+    },
+    {
+      "season": 11,
+      "episode": 71,
+      "title": "Jog On",
+      "diziid": "oddb",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/71/kosuya_devam"
+    },
+    {
+      "season": 12,
+      "episode": 72,
+      "title": "Hotdog 500",
+      "diziid": "oddb",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/72/sosisli_500"
+    },
+    {
+      "season": 13,
+      "episode": 73,
+      "title": "Picnic Basketcases",
+      "diziid": "oddb",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/73/piknik"
+    },
+    {
+      "season": 14,
+      "episode": 74,
+      "title": "Double O Zee",
+      "diziid": "oddb",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/74/uyurgezer_zee"
+    },
+    {
+      "season": 15,
+      "episode": 75,
+      "title": "The Clown Off",
+      "diziid": "oddb",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/75/palyaco_yarisi"
+    },
+    {
+      "season": 16,
+      "episode": 76,
+      "title": "This Little Piggy",
+      "diziid": "oddb",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/76/kucuk_domuzcuk"
+    },
+    {
+      "season": 17,
+      "episode": 77,
+      "title": "Robodd Wars",
+      "diziid": "oddb",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/77/robodd_savaslari"
+    },
+    {
+      "season": 18,
+      "episode": 78,
+      "title": "Brains Vs Beaks",
+      "diziid": "oddb",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/78/zeka_mi_dovus_mu"
+    },
+    {
+      "season": 19,
+      "episode": 79,
+      "title": "Pogo and the Lamp",
+      "diziid": "oddb",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/79/pogo_ve_lamba"
+    },
+    {
+      "season": 20,
+      "episode": 80,
+      "title": "Master Jeff",
+      "diziid": "oddb",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/80/usta_jeff"
+    },
+    {
+      "season": 21,
+      "episode": 81,
+      "title": "Zee-Ro Gravity",
+      "diziid": "oddb",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/81/sifir_yercekimi"
+    },
+    {
+      "season": 22,
+      "episode": 82,
+      "title": "Monster Truck",
+      "diziid": "oddb",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/82/canavar_kamyon"
+    },
+    {
+      "season": 23,
+      "episode": 83,
+      "title": "Driving Jeff Crazy",
+      "diziid": "oddb",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/83/jeff_ve_surus"
+    },
+    {
+      "season": 24,
+      "episode": 84,
+      "title": "Cross Newt Training",
+      "diziid": "oddb",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/84/cross_newt_egitimi"
+    },
+    {
+      "season": 25,
+      "episode": 85,
+      "title": "The Abominable Snowbear",
+      "diziid": "oddb",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/85/kar_ayisi"
+    },
+    {
+      "season": 26,
+      "episode": 86,
+      "title": "Recipe for Disaster",
+      "diziid": "oddb",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/86/felaket_tarifi"
+    },
+    {
+      "season": 27,
+      "episode": 87,
+      "title": "Don't Open the Box",
+      "diziid": "oddb",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/87/kutuyu_acma"
+    },
+    {
+      "season": 28,
+      "episode": 88,
+      "title": "The Grimbles",
+      "diziid": "oddb",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/88/grimbles"
+    },
+    {
+      "season": 29,
+      "episode": 89,
+      "title": "A Bridge Too Fuse",
+      "diziid": "oddb",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/89/bir_kopru_fazla_fuse"
+    },
+    {
+      "season": 30,
+      "episode": 90,
+      "title": "Balloon Bods",
+      "diziid": "oddb",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/90/balon_bods"
+    },
+    {
+      "season": 31,
+      "episode": 91,
+      "title": "Fuzzy Fuse",
+      "diziid": "oddb",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/91/tuylu_fuse"
+    },
+    {
+      "season": 32,
+      "episode": 92,
+      "title": "A Class Act",
+      "diziid": "oddb",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/92/bir_sinif_hareketi"
+    },
+    {
+      "season": 33,
+      "episode": 93,
+      "title": "Attack of the Drone",
+      "diziid": "oddb",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/93/drone_saldirisi"
+    },
+    {
+      "season": 34,
+      "episode": 94,
+      "title": "Slicknado",
+      "diziid": "oddb",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/94/slicknado"
+    },
+    {
+      "season": 35,
+      "episode": 95,
+      "title": "No Go, Pogo",
+      "diziid": "oddb",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/95/pogo_gitme"
+    },
+    {
+      "season": 36,
+      "episode": 96,
+      "title": "The Curse of the Three Eyed Frog",
+      "diziid": "oddb",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/96/uc_gozlu_kurbaga_laneti"
+    },
+    {
+      "season": 37,
+      "episode": 97,
+      "title": "The Jump",
+      "diziid": "oddb",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/97/atlayis"
+    },
+    {
+      "season": 38,
+      "episode": 98,
+      "title": "Caketastrophe",
+      "diziid": "oddb",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/98/kek_felaketi"
+    },
+    {
+      "season": 39,
+      "episode": 99,
+      "title": "Something Fishy",
+      "diziid": "oddb",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/99/biraz_balik_var"
+    },
+    {
+      "season": 40,
+      "episode": 100,
+      "title": "Trainer Wrecked",
+      "diziid": "oddb",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/100/antrenman_mahvoldu"
+    },
+    {
+      "season": 41,
+      "episode": 101,
+      "title": "Oddbreak",
+      "diziid": "oddb",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/101/hasta"
+    },
+    {
+      "season": 42,
+      "episode": 102,
+      "title": "The Cone Wars",
+      "diziid": "oddb",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/102/konik_savaslar"
+    },
+    {
+      "season": 43,
+      "episode": 103,
+      "title": "Twitcher Trouble",
+      "diziid": "oddb",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/103/twitcher_sorunu"
+    },
+    {
+      "season": 44,
+      "episode": 104,
+      "title": "Sickbods",
+      "diziid": "oddb",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/104/hastabodlar"
+    },
+    {
+      "season": 45,
+      "episode": 105,
+      "title": "No Go, Pogo",
+      "diziid": "oddb",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/105/pogo_git"
+    },
+    {
+      "season": 46,
+      "episode": 106,
+      "title": "Bumble Bubbles",
+      "diziid": "oddb",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/106/bumble_bubbles"
+    },
+    {
+      "season": 47,
+      "episode": 107,
+      "title": "Road Trip",
+      "diziid": "oddb",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/107/yolculuk"
+    },
+    {
+      "season": 48,
+      "episode": 108,
+      "title": "Wild Thing",
+      "diziid": "oddb",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/108/vahsi_sey"
+    },
+    {
+      "season": 49,
+      "episode": 109,
+      "title": "The Gift that Won't Stop Giving",
+      "diziid": "oddb",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/109/surekli_hediye"
+    },
+    {
+      "season": 50,
+      "episode": 110,
+      "title": "Game Face",
+      "diziid": "oddb",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/110/oyun_yuzu"
+    },
+    {
+      "season": 51,
+      "episode": 111,
+      "title": "Itch Hunt",
+      "diziid": "oddb",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/111/kasinti_avi"
+    },
+    {
+      "season": 52,
+      "episode": 112,
+      "title": "Egg on My Face",
+      "diziid": "oddb",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/112/yuzumde_yumurta"
+    },
+    {
+      "season": 53,
+      "episode": 113,
+      "title": "Snow Joke",
+      "diziid": "oddb",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/113/kar_sakasi"
+    },
+    {
+      "season": 54,
+      "episode": 114,
+      "title": "Storm in a Treehouse",
+      "diziid": "oddb",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/114/agac_evde_firtina"
+    },
+    {
+      "season": 55,
+      "episode": 115,
+      "title": "The Invader",
+      "diziid": "oddb",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/115/istilaci"
+    },
+    {
+      "season": 56,
+      "episode": 116,
+      "title": "Uncle Zee",
+      "diziid": "oddb",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/116/amca_zee"
+    },
+    {
+      "season": 57,
+      "episode": 117,
+      "title": "Pain in the Arts",
+      "diziid": "oddb",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/117/aci"
+    },
+    {
+      "season": 58,
+      "episode": 118,
+      "title": "Pecking Order",
+      "diziid": "oddb",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/118/gagalanma_sirasi"
+    },
+    {
+      "season": 59,
+      "episode": 119,
+      "title": "Let The Games Be Gone",
+      "diziid": "oddb",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/119/oyunlar_gitsin"
+    },
+    {
+      "season": 60,
+      "episode": 120,
+      "title": "Arctic Antics",
+      "diziid": "oddb",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/120/kuzey_kutbu_sakalari"
+    },
+    {
+      "season": 1,
+      "episode": 121,
+      "title": "Swan Flake",
+      "diziid": "oddb",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/121/kugu_kar_tanesi"
+    },
+    {
+      "season": 2,
+      "episode": 122,
+      "title": "The Golden Ticket",
+      "diziid": "oddb",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/122/altin_bilet"
+    },
+    {
+      "season": 3,
+      "episode": 123,
+      "title": "The Bald & The Beautiful",
+      "diziid": "oddb",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/123/kellik_ve_guzellik"
+    },
+    {
+      "season": 4,
+      "episode": 124,
+      "title": "Robo Helper",
+      "diziid": "oddb",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/124/robo_yardimci"
+    },
+    {
+      "season": 5,
+      "episode": 125,
+      "title": "Standing Tall",
+      "diziid": "oddb",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/125/uzun_boylu"
+    },
+    {
+      "season": 6,
+      "episode": 126,
+      "title": "Selfie Image",
+      "diziid": "oddb",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/126/selfie_goruntusu"
+    },
+    {
+      "season": 7,
+      "episode": 127,
+      "title": "Fortune Rookies",
+      "diziid": "oddb",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/127/hazine_avi"
+    },
+    {
+      "season": 8,
+      "episode": 128,
+      "title": "My Fair Bubbles",
+      "diziid": "oddb",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/128/zarif_bubbles"
+    },
+    {
+      "season": 9,
+      "episode": 129,
+      "title": "Stuck On You",
+      "diziid": "oddb",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/129/yapisik"
+    },
+    {
+      "season": 10,
+      "episode": 130,
+      "title": "Ghosted!",
+      "diziid": "oddb",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/130/hayaletlenmis%21"
+    },
+    {
+      "season": 11,
+      "episode": 131,
+      "title": "Re-Gifting",
+      "diziid": "oddb",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/131/yeniden_hediye"
+    },
+    {
+      "season": 12,
+      "episode": 132,
+      "title": "Statue of Slickety",
+      "diziid": "oddb",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/132/slickety_heykeli"
+    },
+    {
+      "season": 13,
+      "episode": 133,
+      "title": "Bearly a Friend",
+      "diziid": "oddb",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/133/neredeyse_bir_arkadas"
+    },
+    {
+      "season": 14,
+      "episode": 134,
+      "title": "A LaZee Holiday",
+      "diziid": "oddb",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/134/tembel_tatil"
+    },
+    {
+      "season": 15,
+      "episode": 135,
+      "title": "Kung Phoney",
+      "diziid": "oddb",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/135/yildiz_olmak_icin"
+    },
+    {
+      "season": 16,
+      "episode": 136,
+      "title": "Every Cloud",
+      "diziid": "oddb",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/136/her_bulut"
+    },
+    {
+      "season": 17,
+      "episode": 137,
+      "title": "Stoney Faced Slick",
+      "diziid": "oddb",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/137/tas_yuzlu_slick"
+    },
+    {
+      "season": 18,
+      "episode": 138,
+      "title": "Jeff And The Beanstalk",
+      "diziid": "oddb",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/138/jeff_ve_fasulye_sirigi"
+    },
+    {
+      "season": 19,
+      "episode": 139,
+      "title": "On Thin Ice",
+      "diziid": "oddb",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/139/ince_buz"
+    },
+    {
+      "season": 20,
+      "episode": 140,
+      "title": "The Great Bod Bake Off",
+      "diziid": "oddb",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/140/harikabod_kek_yarisi"
+    },
+    {
+      "season": 21,
+      "episode": 141,
+      "title": "Neanderthal Newt",
+      "diziid": "oddb",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/141/magara_kadini_newt"
+    },
+    {
+      "season": 22,
+      "episode": 142,
+      "title": "Festive Encounters",
+      "diziid": "oddb",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/142/senlikli_karsilasmalar"
+    },
+    {
+      "season": 23,
+      "episode": 143,
+      "title": "Boddy Guard",
+      "diziid": "oddb",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/143/koruma"
+    },
+    {
+      "season": 24,
+      "episode": 144,
+      "title": "Food Feud",
+      "diziid": "oddb",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/144/yiyecek_catismasi"
+    },
+    {
+      "season": 25,
+      "episode": 145,
+      "title": "Taxi Turmoil",
+      "diziid": "oddb",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/145/taksi_kargasasi"
+    },
+    {
+      "season": 26,
+      "episode": 146,
+      "title": "The Pied Piper Of Oddsville",
+      "diziid": "oddb",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/146/oddsvillein_flutcusu"
+    },
+    {
+      "season": 27,
+      "episode": 147,
+      "title": "Kart Wars",
+      "diziid": "oddb",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/147/go-kart_savaslari"
+    },
+    {
+      "season": 28,
+      "episode": 148,
+      "title": "Unbearable",
+      "diziid": "oddb",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/148/dayanilmaz"
+    },
+    {
+      "season": 29,
+      "episode": 149,
+      "title": "The Cookie Crumbles",
+      "diziid": "oddb",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/149/fal_kurabiyeleri"
+    },
+    {
+      "season": 30,
+      "episode": 150,
+      "title": "Wrestlebods",
+      "diziid": "oddb",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/150/guresbodlar"
+    },
+    {
+      "season": 31,
+      "episode": 151,
+      "title": "The Zee, The Beach & The Wardrobe",
+      "diziid": "oddb",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/151/zee%2C_plaj_ve_dolap"
+    },
+    {
+      "season": 32,
+      "episode": 152,
+      "title": "I Love Fuse",
+      "diziid": "oddb",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/152/fusei_seviyorum"
+    },
+    {
+      "season": 33,
+      "episode": 153,
+      "title": "Phoning It In",
+      "diziid": "oddb",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/153/telefonla_arama"
+    },
+    {
+      "season": 34,
+      "episode": 154,
+      "title": "The Really Odd Parents",
+      "diziid": "oddb",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/154/gercekten_garip_ebeveynler"
+    },
+    {
+      "season": 35,
+      "episode": 155,
+      "title": "The Oddpong",
+      "diziid": "oddb",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/155/sis"
+    },
+    {
+      "season": 36,
+      "episode": 156,
+      "title": "The Oddbunny",
+      "diziid": "oddb",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/156/tavsan"
+    },
+    {
+      "season": 37,
+      "episode": 157,
+      "title": "Jarring",
+      "diziid": "oddb",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/157/kavanoz_acma"
+    },
+    {
+      "season": 38,
+      "episode": 158,
+      "title": "Sugar Crash",
+      "diziid": "oddb",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/158/seker"
+    },
+    {
+      "season": 39,
+      "episode": 159,
+      "title": "Frankendoll",
+      "diziid": "oddb",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/159/frankenbebek"
+    },
+    {
+      "season": 40,
+      "episode": 160,
+      "title": "The Mermaid's Tail",
+      "diziid": "oddb",
+      "bolum": "160",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/160/denizkizinin_kuyrugu"
+    },
+    {
+      "season": 41,
+      "episode": 161,
+      "title": "The Not So Sweet Ride",
+      "diziid": "oddb",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/161/tatli_olmayan_arac"
+    },
+    {
+      "season": 42,
+      "episode": 162,
+      "title": "Pumpkinheads",
+      "diziid": "oddb",
+      "bolum": "162",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/162/balkabagi_kafalari"
+    },
+    {
+      "season": 43,
+      "episode": 163,
+      "title": "The Perfect Gift",
+      "diziid": "oddb",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/163/mukemmel_hediye"
+    },
+    {
+      "season": 44,
+      "episode": 164,
+      "title": "My Way or the Driveway",
+      "diziid": "oddb",
+      "bolum": "164",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/164/benim_yolum"
+    },
+    {
+      "season": 45,
+      "episode": 165,
+      "title": "Superbod",
+      "diziid": "oddb",
+      "bolum": "165",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/165/superbod"
+    },
+    {
+      "season": 46,
+      "episode": 166,
+      "title": "Jeff's Wish",
+      "diziid": "oddb",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/166/jeffin_dilegi"
+    },
+    {
+      "season": 47,
+      "episode": 167,
+      "title": "Gross Encounters Of The Zee Kind",
+      "diziid": "oddb",
+      "bolum": "167",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/167/temizlik"
+    },
+    {
+      "season": 48,
+      "episode": 168,
+      "title": "Pogo The Powerful",
+      "diziid": "oddb",
+      "bolum": "168",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/168/guclu_pogo"
+    },
+    {
+      "season": 49,
+      "episode": 169,
+      "title": "Neighbour-odd Watch",
+      "diziid": "oddb",
+      "bolum": "169",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/169/komsu_gozetleme"
+    },
+    {
+      "season": 50,
+      "episode": 170,
+      "title": "A Not So Quiet Night In",
+      "diziid": "oddb",
+      "bolum": "170",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/170/sessiz_bir_gece"
+    },
+    {
+      "season": 51,
+      "episode": 171,
+      "title": "Chickie & Hyde",
+      "diziid": "oddb",
+      "bolum": "171",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/171/chickie_ve_hyde"
+    },
+    {
+      "season": 52,
+      "episode": 172,
+      "title": "Dance Trance",
+      "diziid": "oddb",
+      "bolum": "172",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/172/dans_transi"
+    },
+    {
+      "season": 53,
+      "episode": 173,
+      "title": "The Wild",
+      "diziid": "oddb",
+      "bolum": "173",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/173/vahsi"
+    },
+    {
+      "season": 54,
+      "episode": 174,
+      "title": "Smells Like Trouble",
+      "diziid": "oddb",
+      "bolum": "174",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/174/kotu_kokular"
+    },
+    {
+      "season": 55,
+      "episode": 175,
+      "title": "Groundbod Day",
+      "diziid": "oddb",
+      "bolum": "175",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/175/zamani_tersine_cevirme"
+    },
+    {
+      "season": 56,
+      "episode": 176,
+      "title": "Ready Player Odd",
+      "diziid": "oddb",
+      "bolum": "176",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/176/hazir_oyuncu_odd"
+    },
+    {
+      "season": 57,
+      "episode": 177,
+      "title": "Feel-Good Fuse",
+      "diziid": "oddb",
+      "bolum": "177",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/177/iyi_hissettiren_fuse"
+    },
+    {
+      "season": 58,
+      "episode": 178,
+      "title": "The Corn-spiracy Theory",
+      "diziid": "oddb",
+      "bolum": "178",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/178/misir_komplosu"
+    },
+    {
+      "season": 59,
+      "episode": 179,
+      "title": "Fuse's Bad Run",
+      "diziid": "oddb",
+      "bolum": "179",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/179/fuseun_kotu_sansi"
+    },
+    {
+      "season": 60,
+      "episode": 180,
+      "title": "A Fistful of Dusters",
+      "diziid": "oddb",
+      "bolum": "180",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/180/bir_yigin_toz_bezi"
+    },
+    {
+      "season": 1,
+      "episode": 181,
+      "title": "Party Monsters",
+      "diziid": "oddb",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/0/parti_canavarlari"
+    },
+    {
+      "season": 1,
+      "episode": 182,
+      "title": "Festival Tehdidi",
+      "diziid": "oddb",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/0/festival_tehdidi"
+    },
+    {
+      "season": 1,
+      "episode": 183,
+      "title": "Zee'nin KlonlarÄ±",
+      "diziid": "oddb",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/0/zeenin_klonlari"
+    },
+    {
+      "season": 1,
+      "episode": 184,
+      "title": "Oddbeard's Curse",
+      "diziid": "oddb",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/0/oddsakalin_laneti"
+    },
+    {
+      "season": 1,
+      "episode": 185,
+      "title": "Halloween Heroes",
+      "diziid": "oddb",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/0/cadilar_bayrami_kahramanlari"
+    },
+    {
+      "season": 1,
+      "episode": 186,
+      "title": "Pumpkin Kings",
+      "diziid": "oddb",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/0/balkabagi_krallari"
+    },
+    {
+      "season": 1,
+      "episode": 187,
+      "title": "Noel Baba DeÄŸiÅŸimi",
+      "diziid": "oddb",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/0/noel_baba_degisimi"
+    },
+    {
+      "season": 1,
+      "episode": 188,
+      "title": "Egg Hunt",
+      "diziid": "oddb",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/oddb/oddbods/0/yumurta_avi"
+    }
+  ]
+}

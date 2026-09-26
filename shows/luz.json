@@ -1,0 +1,174 @@
+{
+  "id": "luz",
+  "title": "luz",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/LUZPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Macera",
+    "Dram",
+    "Gizem"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Girl and the Firefly",
+      "diziid": "luz",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/1/kiz_ve_ates_bocegi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "A Light at the End of the Tunnel",
+      "diziid": "luz",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/2/tunelin_ucundaki_isik"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Fire! Fire!",
+      "diziid": "luz",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/3/yangin_var%21"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "A Flame That Never Goes Out",
+      "diziid": "luz",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/4/hic_sonmeyen_alev"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Teacher's Indigenous Cousin",
+      "diziid": "luz",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/5/ogretmenin_yerli_kuzeni"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "A Singular Student",
+      "diziid": "luz",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/6/fevkalade_bir_ogrenci"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Light the Way",
+      "diziid": "luz",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/7/umut_isigi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Number One",
+      "diziid": "luz",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/8/bir_numara"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "A Dark Night",
+      "diziid": "luz",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/9/karanlik_bir_gece"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Found Among the Fireflies",
+      "diziid": "luz",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/10/ates_boceklerinin_arasinda"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Light That Never Goes Out",
+      "diziid": "luz",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/11/hic_sonmeyen_isik"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Storyteller",
+      "diziid": "luz",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/12/hikayeci"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "You Are Never Alone",
+      "diziid": "luz",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/13/asla_yalniz_degilsin"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "They've Seen the Light",
+      "diziid": "luz",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/14/aydinlananlar"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Secret",
+      "diziid": "luz",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/15/sir"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Clues",
+      "diziid": "luz",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/16/ipuclari"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Firefly Necklace",
+      "diziid": "luz",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/17/ates_bocegi_kolyesi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Monster Grandpa",
+      "diziid": "luz",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/18/canavar_buyukbaba"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Parents and Children",
+      "diziid": "luz",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/19/ebeveynler_ve_cocuklari"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Firefly and the Stars",
+      "diziid": "luz",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/luz/luz/20/ates_bocegi_ve_yildizlar"
+    }
+  ]
+}

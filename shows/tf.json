@@ -1,0 +1,429 @@
+{
+  "id": "tf",
+  "title": "turbo fast",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TFPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Aksiyon",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Crazy Fast",
+      "diziid": "tf",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/1/super_hizli"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Dungball Derby / Ace of Race",
+      "diziid": "tf",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/2/camur_topu_yarisi__ace_ile_yaris"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Bumperdome / Broaches",
+      "diziid": "tf",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/3/tampon_kubbesi__takito"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "African Queen / Mega Snails",
+      "diziid": "tf",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/4/afrikali_kralice__mega_salyangozlar"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Ants Ants Revolution / Clamsquatch",
+      "diziid": "tf",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/5/karinca_ihtilali__clamsquatch"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Turbo Stinks / Snails in Jail",
+      "diziid": "tf",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/6/kokusuk_turbo__salyangozlar_hapiste"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "A Tale of Two Turbos / The Escargot Affair",
+      "diziid": "tf",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/7/iki_turbonun_hikayesi__salyangoz_sorunu"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Surf 'N Turf / Hardcase Returns",
+      "diziid": "tf",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/8/sorf_sahasi__sert_donuyor"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Turbo Drift",
+      "diziid": "tf",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/9/turbo_kayma_yarisinda"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Ready, Set, Glow / Breakneck's Back",
+      "diziid": "tf",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/10/hazir%2C_yerini_al%2C_parla__boyunkiranin_sirti"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Cruise Control / R/C Turbo",
+      "diziid": "tf",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/11/gemi_denetimi__r__c_turbo"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Curse of the Cicadas / Beat-A Fajita",
+      "diziid": "tf",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/12/agustos_boceklerinin_laneti__bir_fajitayi_yenmek"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Karmageddon / Chet Gets Burned",
+      "diziid": "tf",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/13/son_savas__chet_alev_alir"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Gypsy Moth Prophecies / Skidzo-Brainia",
+      "diziid": "tf",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/14/cingene_guve_kehanetleri__belali_beyin"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "No Can Do / Adopt-a-Toad",
+      "diziid": "tf",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/15/imkansiz__evlatlik_kurbaga"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Buster Move / Gills",
+      "diziid": "tf",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/16/cumbus_kardes__solungaclar"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Terror of Tickula/Prank'd",
+      "diziid": "tf",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/17/tickulanin_dehseti__esek_sakasi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Over Shadowed / Beware the Chickipede",
+      "diziid": "tf",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/18/golge_altinda__chickipedee_dikkat_et"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Mall Is Well / Taco Tank",
+      "diziid": "tf",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/19/alisveris_guzeldir__tako_tanki"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Zoo Lander / Balloonatics",
+      "diziid": "tf",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/20/hayvanat_bahcesinde__baloncular"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Packet Racket / Smack Me Down",
+      "diziid": "tf",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/21/paketci__beni_yerden_yere_vur"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Smoovin' on Up / The Great Shell Robbery",
+      "diziid": "tf",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/22/sakinlesmek__buyuk_kabuk_soygunu"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Chet vs. Dr. Disorder / Damselfly in Distress",
+      "diziid": "tf",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/23/chet_doktor_duzensize_karsi__kiz_boceginin_basi_dertte"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Dome Sweet Dome / My Pet Clamsquatch",
+      "diziid": "tf",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/24/kubbem_kubbem_guzel_kubbem__evcil_hayvanim_clamsquatch"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Hardluck Hardcase/Bee Story",
+      "diziid": "tf",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/25/sanssiz_sert__ari_hikayesi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Tur-Bros / The Snailman",
+      "diziid": "tf",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/26/tur-des__salyangoz_adam"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "The Challenge / Home on Our Own",
+      "diziid": "tf",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/27/meydan_okuma__kendi_evimizde"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "The Mighty Snails / Silent But Deadly",
+      "diziid": "tf",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/28/guclu_salyangozlar__sessiz_ama_olumcul"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Agent Ace / Smoove as Ice",
+      "diziid": "tf",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/29/ajan_ace__kayak_yarisi"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "The Disappearing Act / The Sting of Injustice",
+      "diziid": "tf",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/30/kaybolan_hareket__adaletsizligin_dususu"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "The Treasure of Sierra Marty / Big Baby",
+      "diziid": "tf",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/31/sierra_martynin_hazinesi__koca_bebek"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Turboldly Go",
+      "diziid": "tf",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/32/hadi_cesur_turbo_-_1._bolum__hadi_cesur_turbo_-_2._bolum"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Crow Pox / Faking Amends",
+      "diziid": "tf",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/33/karga_virusu__hatalari_duzeltmek"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Deuce Is Wild / To Fire a Squire",
+      "diziid": "tf",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/34/isyankar_deuce__bir_efendiyi_isten_cikarmak"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Maggotron / Love Hurts",
+      "diziid": "tf",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/35/larvatron__ask_incitir"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Ransom of White Shadow / Kicked Off",
+      "diziid": "tf",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/36/beyaz_golgenin_fidyesi__atilmis"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "The Day Mel Fell / Burn's Ex-Boo",
+      "diziid": "tf",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/37/melin_dususu__alevin_eski_sevgilisi"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Tough as Snails / C.O.N.S.P.I.R.A.C.Y.",
+      "diziid": "tf",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/38/salyangoz_gibi_sert__komplo"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Groundhog, Stay! / Gone Guys Gone",
+      "diziid": "tf",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/39/kostebek_dur__gitti_adamlar_gitti"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "Party Poopers / The League",
+      "diziid": "tf",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/40/parti_cilginlari__lig"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "How to Train Your Titmouse/The Good, the Bad, and the Bugly",
+      "diziid": "tf",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/41/bastankarani_nasil_egitirsin__iyi%2C_kotu_ve_boceksi"
+    },
+    {
+      "season": 3,
+      "episode": 42,
+      "title": "Shell on Wheels / Keep on Truckin'",
+      "diziid": "tf",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/42/hizli_kabuklular__kamyonculuga_devam"
+    },
+    {
+      "season": 4,
+      "episode": 43,
+      "title": "Desserted Island / The Dry Spell",
+      "diziid": "tf",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/43/terk_edilmis_ada__kuraklik"
+    },
+    {
+      "season": 5,
+      "episode": 44,
+      "title": "He Got Game Night / 73*",
+      "diziid": "tf",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/44/oyun_gecesi_partisi__73%2A"
+    },
+    {
+      "season": 6,
+      "episode": 45,
+      "title": "Crew Detective / The Whiplash Effect",
+      "diziid": "tf",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/45/takim_dedektifi__hafiza_kaybi"
+    },
+    {
+      "season": 7,
+      "episode": 46,
+      "title": "Dial M for Mystery / Turbo REAL",
+      "diziid": "tf",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/46/gizemli_parti__gercek_turbo"
+    },
+    {
+      "season": 8,
+      "episode": 47,
+      "title": "Best Frenemies / The Jamaican Jerk Chickens",
+      "diziid": "tf",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/47/dost_mu_dusman_mi__jamaikali_tavuklar"
+    },
+    {
+      "season": 9,
+      "episode": 48,
+      "title": "The Ants and the Grasshoppers / Don't Feed the Troll",
+      "diziid": "tf",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/48/karincalar_ve_cekirgeler__trolu_beslemeyin"
+    },
+    {
+      "season": 10,
+      "episode": 49,
+      "title": "Worst in Show / Belle of the Gumball",
+      "diziid": "tf",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/49/gosterinin_en_kotusu__en_yakisikli_salyangoz"
+    },
+    {
+      "season": 11,
+      "episode": 50,
+      "title": "Hawaii Five No / The Story of J.J.E.F.F.",
+      "diziid": "tf",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/50/bedava_tatil__jjeffin_hikayesi"
+    },
+    {
+      "season": 12,
+      "episode": 51,
+      "title": "Turbo Does Laundry: Part 1 & 2",
+      "diziid": "tf",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/51/turbo_camasir_yikiyor%3A_1._ve_2._bolum"
+    },
+    {
+      "season": 13,
+      "episode": 52,
+      "title": "137 Hours / Stalks on a Plane",
+      "diziid": "tf",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/tf/turbo_fast/52/137_saat__ucak_yarisi"
+    }
+  ]
+}

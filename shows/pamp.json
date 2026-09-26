@@ -1,0 +1,421 @@
+{
+  "id": "pamp",
+  "title": "pamuk prenses",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/PAMPPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Beautiful As Snow",
+      "diziid": "pamp",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/1/guzel_kar_tanesi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "A Wild Ambition",
+      "diziid": "pamp",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/2/vahsi_bir_hirs"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "A Meeting On A Sunny Day",
+      "diziid": "pamp",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/3/gunesli_bir_gun_bulusmasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Promise Was Kept",
+      "diziid": "pamp",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/4/soz_tutuldu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "A Chance for Hope and Love",
+      "diziid": "pamp",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/5/ask_ve_umuda_bir_sans"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Seven Dwarves",
+      "diziid": "pamp",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/6/yedi_cuceler"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "A New Family",
+      "diziid": "pamp",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/7/yeni_bir_aile"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Jolly, the Princess and the Magic Flowers",
+      "diziid": "pamp",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/8/jolly%2C_prenses_ve_buyulu_cicekler"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "A Letter from Richard",
+      "diziid": "pamp",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/10/richardtan_bir_mektup"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "A Dangerous Adventure at the Castle",
+      "diziid": "pamp",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/11/satoda_tehlikeli_bir_macera"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "The Smile of a Friend",
+      "diziid": "pamp",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/12/bir_arkadasin_gulumsemesi"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "A Green-Blue Devil",
+      "diziid": "pamp",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/13/mavi_yesil_bir_seytan"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "The Lost White Flower",
+      "diziid": "pamp",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/14/kaybolan_beyaz_cicek"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "A Rainbow-Coloured Fog",
+      "diziid": "pamp",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/15/gokkusagi_renkli_bir_sis"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "The Butterflies",
+      "diziid": "pamp",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/16/kelebekler"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "A Spell on a Moonlit Night",
+      "diziid": "pamp",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/17/ay_isigiyla_bir_buyu"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "The Ice Country",
+      "diziid": "pamp",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/18/buz_ulkesi"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "A Little Child",
+      "diziid": "pamp",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/19/kucuk_bir_cocuk"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "Goodness of Heart",
+      "diziid": "pamp",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/20/iyilik_hali"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "Good-Bye Jolly",
+      "diziid": "pamp",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/21/hosca_kal_jolly"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "A Strange Egg",
+      "diziid": "pamp",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/22/tuhaf_bir_yumurta"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "The Legendary Mountain",
+      "diziid": "pamp",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/23/efsanevi_dag"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "A Little Fairy",
+      "diziid": "pamp",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/24/kucuk_bir_peri"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "A Voice from Long Ago",
+      "diziid": "pamp",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/25/gecmisten_gelen_bir_ses"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "A Timeless Love",
+      "diziid": "pamp",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/26/zamansiz_bir_ask"
+    },
+    {
+      "season": 27,
+      "episode": 26,
+      "title": "A Pleasant Surprise",
+      "diziid": "pamp",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/27/hos_bir_surpriz"
+    },
+    {
+      "season": 28,
+      "episode": 27,
+      "title": "A Lovely Girl",
+      "diziid": "pamp",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/28/sevimli_bir_kiz"
+    },
+    {
+      "season": 29,
+      "episode": 28,
+      "title": "A Boy from Woods",
+      "diziid": "pamp",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/29/ormandan_bir_cocuk"
+    },
+    {
+      "season": 30,
+      "episode": 29,
+      "title": "Looking for the Flower of Hope",
+      "diziid": "pamp",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/30/umut_cicegini_ararken"
+    },
+    {
+      "season": 31,
+      "episode": 30,
+      "title": "A Gift from Mary",
+      "diziid": "pamp",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/31/maryden_gelen_bir_hediye"
+    },
+    {
+      "season": 32,
+      "episode": 31,
+      "title": "Snow White's Awakening",
+      "diziid": "pamp",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/32/pamuk_prensesin_uyanisi"
+    },
+    {
+      "season": 33,
+      "episode": 32,
+      "title": "The Evil Fog",
+      "diziid": "pamp",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/33/kotu_sis"
+    },
+    {
+      "season": 34,
+      "episode": 33,
+      "title": "Ronny's Stratagem",
+      "diziid": "pamp",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/34/ronnynin_hileleri"
+    },
+    {
+      "season": 35,
+      "episode": 34,
+      "title": "The Pendant of Love",
+      "diziid": "pamp",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/35/ask_kolyesi"
+    },
+    {
+      "season": 36,
+      "episode": 35,
+      "title": "The Miracle",
+      "diziid": "pamp",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/36/mucize"
+    },
+    {
+      "season": 37,
+      "episode": 36,
+      "title": "The Departure",
+      "diziid": "pamp",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/37/ayrilik"
+    },
+    {
+      "season": 38,
+      "episode": 37,
+      "title": "The Flight",
+      "diziid": "pamp",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/38/ucus"
+    },
+    {
+      "season": 39,
+      "episode": 38,
+      "title": "A Hope for the Future",
+      "diziid": "pamp",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/39/gelecege_bir_umuda"
+    },
+    {
+      "season": 40,
+      "episode": 39,
+      "title": "The Memory",
+      "diziid": "pamp",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/40/hafiza"
+    },
+    {
+      "season": 41,
+      "episode": 40,
+      "title": "The Flower Cries",
+      "diziid": "pamp",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/41/cicek_agliyor"
+    },
+    {
+      "season": 42,
+      "episode": 41,
+      "title": "A World of Illusions",
+      "diziid": "pamp",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/42/bir_illuzyon_dunyasi"
+    },
+    {
+      "season": 43,
+      "episode": 42,
+      "title": "Girl's Tears",
+      "diziid": "pamp",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/43/kizlarin_gozyaslari"
+    },
+    {
+      "season": 44,
+      "episode": 43,
+      "title": "Admirable Courage",
+      "diziid": "pamp",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/44/hayranlik_uyandiran_cesaret"
+    },
+    {
+      "season": 45,
+      "episode": 44,
+      "title": "A Prayer to the Moon",
+      "diziid": "pamp",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/45/aya_dua"
+    },
+    {
+      "season": 46,
+      "episode": 45,
+      "title": "The Mirror's Mystery",
+      "diziid": "pamp",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/46/aynanin_gizemi"
+    },
+    {
+      "season": 47,
+      "episode": 46,
+      "title": "Jonas the Great Magician",
+      "diziid": "pamp",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/47/buyuk_buyucu_jonas"
+    },
+    {
+      "season": 48,
+      "episode": 47,
+      "title": "The Strength of Mother Earth",
+      "diziid": "pamp",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/48/anne_dunyanin_gucu"
+    },
+    {
+      "season": 49,
+      "episode": 48,
+      "title": "The Forest is Suffocating!",
+      "diziid": "pamp",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/49/orman_boguluyor%21"
+    },
+    {
+      "season": 50,
+      "episode": 49,
+      "title": "The Poisoned Apple",
+      "diziid": "pamp",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/50/zehirli_elma"
+    },
+    {
+      "season": 51,
+      "episode": 50,
+      "title": "The Blue Hawk Has Arrived",
+      "diziid": "pamp",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/51/mavi_sahin_geldi"
+    },
+    {
+      "season": 52,
+      "episode": 51,
+      "title": "The Kiss",
+      "diziid": "pamp",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/pamp/pamuk_prenses/52/opucuk"
+    }
+  ]
+}

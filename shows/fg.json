@@ -1,0 +1,2092 @@
+{
+  "id": "fg",
+  "title": "family guy",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/FGPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Death Has a Shadow",
+      "diziid": "fg",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/1/olumun_golgesi_vardir"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "I Never Met the Dead Man",
+      "diziid": "fg",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/2/hic_oluyle_tanismadim"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Chitty Chitty Death Bang",
+      "diziid": "fg",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/3/chitty_chitty_olum_carpmasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Mind Over Murder",
+      "diziid": "fg",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/4/cinayet_degil_irade"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "A Hero Sits Next Door",
+      "diziid": "fg",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/5/yan_evdeki_kahraman"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Son Also Draws",
+      "diziid": "fg",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/6/oglan_da_cizer"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Brian: Portrait of a Dog",
+      "diziid": "fg",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/7/brian%3A_bir_kopegin_portresi"
+    },
+    {
+      "season": 1,
+      "episode": 8,
+      "title": "Peter, Peter, Caviar Eater",
+      "diziid": "fg",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/8/peter_peter_havyar_yer"
+    },
+    {
+      "season": 2,
+      "episode": 9,
+      "title": "Holy Crap",
+      "diziid": "fg",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/9/aman_tanrim%21"
+    },
+    {
+      "season": 3,
+      "episode": 10,
+      "title": "Da Boom",
+      "diziid": "fg",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/10/patlama"
+    },
+    {
+      "season": 4,
+      "episode": 11,
+      "title": "Brian in Love",
+      "diziid": "fg",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/11/brian_asik_olur"
+    },
+    {
+      "season": 5,
+      "episode": 12,
+      "title": "Love Thy Trophy",
+      "diziid": "fg",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/12/odulunu_sev"
+    },
+    {
+      "season": 6,
+      "episode": 13,
+      "title": "Death Is a Bitch",
+      "diziid": "fg",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/13/olum_bir_kevasedir"
+    },
+    {
+      "season": 7,
+      "episode": 14,
+      "title": "The King Is Dead",
+      "diziid": "fg",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/14/kral_oldu"
+    },
+    {
+      "season": 8,
+      "episode": 15,
+      "title": "I Am Peter, Hear Me Roar",
+      "diziid": "fg",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/15/adim_peter%2C_gucumu_hissedin"
+    },
+    {
+      "season": 9,
+      "episode": 16,
+      "title": "If I'm Dyin', I'm Lyin'",
+      "diziid": "fg",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/16/oluyorsam_yalandir"
+    },
+    {
+      "season": 10,
+      "episode": 17,
+      "title": "Running Mates",
+      "diziid": "fg",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/17/es_adaylar"
+    },
+    {
+      "season": 11,
+      "episode": 18,
+      "title": "A Picture Is Worth 1,000 Bucks",
+      "diziid": "fg",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/18/bir_resim_bin_dolara_bedel"
+    },
+    {
+      "season": 12,
+      "episode": 19,
+      "title": "Fifteen Minutes of Shame",
+      "diziid": "fg",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/19/on_bes_dakikalik_utanc"
+    },
+    {
+      "season": 13,
+      "episode": 20,
+      "title": "Road to Rhode Island",
+      "diziid": "fg",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/20/rhode_islanda_giden_yol"
+    },
+    {
+      "season": 14,
+      "episode": 21,
+      "title": "Let's Go to the Hop",
+      "diziid": "fg",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/21/hopa_gidelim"
+    },
+    {
+      "season": 15,
+      "episode": 22,
+      "title": "Dammit Janet",
+      "diziid": "fg",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/22/lanet_olsun_janet%21"
+    },
+    {
+      "season": 16,
+      "episode": 23,
+      "title": "There's Something About Paulie",
+      "diziid": "fg",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/23/pauliede_bir_sey_var"
+    },
+    {
+      "season": 17,
+      "episode": 24,
+      "title": "He's Too Sexy for His Fat",
+      "diziid": "fg",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/24/yaglari_icin_fazla_seksi"
+    },
+    {
+      "season": 18,
+      "episode": 25,
+      "title": "E. Peterbus Unum",
+      "diziid": "fg",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/25/e_peterbus_unum"
+    },
+    {
+      "season": 19,
+      "episode": 26,
+      "title": "The Story on Page One",
+      "diziid": "fg",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/26/ilk_sayfadaki_hikaye"
+    },
+    {
+      "season": 20,
+      "episode": 27,
+      "title": "Wasted Talent",
+      "diziid": "fg",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/27/harcanan_yetenek"
+    },
+    {
+      "season": 21,
+      "episode": 28,
+      "title": "Fore, Father",
+      "diziid": "fg",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/28/iyi_baba"
+    },
+    {
+      "season": 1,
+      "episode": 29,
+      "title": "Finders Keepers",
+      "diziid": "fg",
+      "bolum": "216",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/216/mal_bulanindir"
+    },
+    {
+      "season": 2,
+      "episode": 30,
+      "title": "Vestigial Peter",
+      "diziid": "fg",
+      "bolum": "217",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/217/islevsiz_peter"
+    },
+    {
+      "season": 3,
+      "episode": 31,
+      "title": "Quagmire's Quagmire",
+      "diziid": "fg",
+      "bolum": "218",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/218/quagmirein_quagmirei"
+    },
+    {
+      "season": 4,
+      "episode": 32,
+      "title": "A Fistful of Meg",
+      "diziid": "fg",
+      "bolum": "219",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/219/bir_avuc_meg"
+    },
+    {
+      "season": 5,
+      "episode": 33,
+      "title": "Boopa-dee Bappa-dee",
+      "diziid": "fg",
+      "bolum": "220",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/220/boopa-dee_bappa-dee"
+    },
+    {
+      "season": 6,
+      "episode": 34,
+      "title": "Life of Brian",
+      "diziid": "fg",
+      "bolum": "221",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/221/brianin_hayati"
+    },
+    {
+      "season": 7,
+      "episode": 35,
+      "title": "Into Harmony's Way",
+      "diziid": "fg",
+      "bolum": "222",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/222/harmonynin_yoluna"
+    },
+    {
+      "season": 8,
+      "episode": 36,
+      "title": "Christmas Guy",
+      "diziid": "fg",
+      "bolum": "223",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/223/noel_adami"
+    },
+    {
+      "season": 9,
+      "episode": 37,
+      "title": "Peter Problems",
+      "diziid": "fg",
+      "bolum": "224",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/224/peter_sorunlari"
+    },
+    {
+      "season": 10,
+      "episode": 38,
+      "title": "Grimm Job",
+      "diziid": "fg",
+      "bolum": "225",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/225/grimm_isi"
+    },
+    {
+      "season": 11,
+      "episode": 39,
+      "title": "Brian's a Bad Father",
+      "diziid": "fg",
+      "bolum": "226",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/226/brianin_kotu_babasi"
+    },
+    {
+      "season": 12,
+      "episode": 40,
+      "title": "Mom's the Word",
+      "diziid": "fg",
+      "bolum": "227",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/227/annenle_aramda"
+    },
+    {
+      "season": 13,
+      "episode": 41,
+      "title": "3 Acts of God",
+      "diziid": "fg",
+      "bolum": "228",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/228/tanrinin_3_isi"
+    },
+    {
+      "season": 14,
+      "episode": 42,
+      "title": "Fresh Heir",
+      "diziid": "fg",
+      "bolum": "229",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/229/yeni_varis"
+    },
+    {
+      "season": 15,
+      "episode": 43,
+      "title": "Secondhand Spoke",
+      "diziid": "fg",
+      "bolum": "230",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/230/ikinci_el_heyecan"
+    },
+    {
+      "season": 16,
+      "episode": 44,
+      "title": "Herpe the Love Sore",
+      "diziid": "fg",
+      "bolum": "231",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/231/ask_yarasi_herpe"
+    },
+    {
+      "season": 17,
+      "episode": 45,
+      "title": "The Most Interesting Man in the World",
+      "diziid": "fg",
+      "bolum": "232",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/232/dunyanin_en_ilginc_adami"
+    },
+    {
+      "season": 18,
+      "episode": 46,
+      "title": "Baby Got Black",
+      "diziid": "fg",
+      "bolum": "233",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/233/kacak_cocuklar"
+    },
+    {
+      "season": 19,
+      "episode": 47,
+      "title": "Meg Stinks!",
+      "diziid": "fg",
+      "bolum": "234",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/234/meg_cok_kotu_kokuyor%21"
+    },
+    {
+      "season": 20,
+      "episode": 48,
+      "title": "He's Bla-ack!",
+      "diziid": "fg",
+      "bolum": "235",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/235/o_siyahi%21"
+    },
+    {
+      "season": 21,
+      "episode": 49,
+      "title": "Chap Stewie",
+      "diziid": "fg",
+      "bolum": "236",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/236/ingiliz_stewie"
+    },
+    {
+      "season": 1,
+      "episode": 50,
+      "title": "The Simpsons Guy (1)",
+      "diziid": "fg",
+      "bolum": "237",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/237/simpsonlar_adami_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 51,
+      "title": "The Simpsons Guy (2)",
+      "diziid": "fg",
+      "bolum": "238",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/238/simpsonlar_adami_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 52,
+      "title": "The Book of Joe",
+      "diziid": "fg",
+      "bolum": "239",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/239/joenun_kitabi"
+    },
+    {
+      "season": 4,
+      "episode": 53,
+      "title": "Baking Bad",
+      "diziid": "fg",
+      "bolum": "240",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/240/yoldan_cikan_firinci"
+    },
+    {
+      "season": 5,
+      "episode": 54,
+      "title": "Brian the Closer",
+      "diziid": "fg",
+      "bolum": "241",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/241/emlakci_brian"
+    },
+    {
+      "season": 6,
+      "episode": 55,
+      "title": "Turkey Guys",
+      "diziid": "fg",
+      "bolum": "242",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/242/hindi_adamlar"
+    },
+    {
+      "season": 7,
+      "episode": 56,
+      "title": "The 2000-Year-Old Virgin",
+      "diziid": "fg",
+      "bolum": "243",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/243/2000_yasinda_bakire"
+    },
+    {
+      "season": 8,
+      "episode": 57,
+      "title": "Stewie, Chris & Brian's Excellent Adventure",
+      "diziid": "fg",
+      "bolum": "244",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/244/stewie%2C_chris_ve_brianin_harika_macerasi"
+    },
+    {
+      "season": 9,
+      "episode": 58,
+      "title": "Our Idiot Brian",
+      "diziid": "fg",
+      "bolum": "245",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/245/bizim_salak_brian"
+    },
+    {
+      "season": 10,
+      "episode": 59,
+      "title": "This Little Piggy",
+      "diziid": "fg",
+      "bolum": "246",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/246/bu_kucuk_domuzcuk"
+    },
+    {
+      "season": 11,
+      "episode": 60,
+      "title": "Quagmire's Mom",
+      "diziid": "fg",
+      "bolum": "247",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/247/quagmirein_annesi"
+    },
+    {
+      "season": 12,
+      "episode": 61,
+      "title": "Encyclopedia Griffin",
+      "diziid": "fg",
+      "bolum": "248",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/248/griffin_ansiklopedisi"
+    },
+    {
+      "season": 13,
+      "episode": 62,
+      "title": "Stewie is Enceinte",
+      "diziid": "fg",
+      "bolum": "249",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/249/stewie_hamile"
+    },
+    {
+      "season": 14,
+      "episode": 63,
+      "title": "Dr. C and the Women",
+      "diziid": "fg",
+      "bolum": "250",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/250/dr._c_ve_kadin"
+    },
+    {
+      "season": 15,
+      "episode": 64,
+      "title": "#JOLO",
+      "diziid": "fg",
+      "bolum": "251",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/251/jolo"
+    },
+    {
+      "season": 16,
+      "episode": 65,
+      "title": "Once Bitten",
+      "diziid": "fg",
+      "bolum": "252",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/252/bir_kere_isirildin_mi"
+    },
+    {
+      "season": 17,
+      "episode": 66,
+      "title": "Roasted Guy",
+      "diziid": "fg",
+      "bolum": "253",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/253/firinlanmis_adam"
+    },
+    {
+      "season": 18,
+      "episode": 67,
+      "title": "Fighting Irish",
+      "diziid": "fg",
+      "bolum": "254",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/254/irlandali_gibi_dovusmek"
+    },
+    {
+      "season": 19,
+      "episode": 68,
+      "title": "Take My Wife",
+      "diziid": "fg",
+      "bolum": "255",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/255/karimi_al"
+    },
+    {
+      "season": 1,
+      "episode": 69,
+      "title": "Pilling Them Softly",
+      "diziid": "fg",
+      "bolum": "256",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/256/yavasca_hap_almak"
+    },
+    {
+      "season": 2,
+      "episode": 70,
+      "title": "Papa Has a Rollin' Son",
+      "diziid": "fg",
+      "bolum": "257",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/257/babaniz_cok_havali"
+    },
+    {
+      "season": 3,
+      "episode": 71,
+      "title": "Guy, Robot",
+      "diziid": "fg",
+      "bolum": "258",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/258/adam%2C_robot"
+    },
+    {
+      "season": 4,
+      "episode": 72,
+      "title": "Peternormal Activity",
+      "diziid": "fg",
+      "bolum": "259",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/259/peter_otesi_olaylar"
+    },
+    {
+      "season": 5,
+      "episode": 73,
+      "title": "Peter, Chris & Brian",
+      "diziid": "fg",
+      "bolum": "260",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/260/peter%2C_chris_ve_brian"
+    },
+    {
+      "season": 6,
+      "episode": 74,
+      "title": "Peter's Sister",
+      "diziid": "fg",
+      "bolum": "261",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/261/peterin_kiz_kardesi"
+    },
+    {
+      "season": 7,
+      "episode": 75,
+      "title": "Hot Pocket-Dial",
+      "diziid": "fg",
+      "bolum": "262",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/262/yanlislikla_aramak"
+    },
+    {
+      "season": 8,
+      "episode": 76,
+      "title": "Brokeback Swanson",
+      "diziid": "fg",
+      "bolum": "263",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/263/kiriksirt_swanson"
+    },
+    {
+      "season": 9,
+      "episode": 77,
+      "title": "A Shot in the Dark",
+      "diziid": "fg",
+      "bolum": "264",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/264/gormeden_ates_etmek"
+    },
+    {
+      "season": 10,
+      "episode": 78,
+      "title": "Candy, Quahog Marshmallow",
+      "diziid": "fg",
+      "bolum": "265",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/265/seker%2C_quahog_marsmelov"
+    },
+    {
+      "season": 11,
+      "episode": 79,
+      "title": "The Peanut Butter Kid",
+      "diziid": "fg",
+      "bolum": "266",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/266/fistik_ezmesi_cocuk"
+    },
+    {
+      "season": 12,
+      "episode": 80,
+      "title": "Scammed Yankees",
+      "diziid": "fg",
+      "bolum": "267",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/267/kaziklanan_amerikalilar"
+    },
+    {
+      "season": 13,
+      "episode": 81,
+      "title": "An App a Day",
+      "diziid": "fg",
+      "bolum": "268",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/268/her_gune_bir_uygulama"
+    },
+    {
+      "season": 14,
+      "episode": 82,
+      "title": "Underage Peter",
+      "diziid": "fg",
+      "bolum": "269",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/269/resit_olmayan_peter"
+    },
+    {
+      "season": 15,
+      "episode": 83,
+      "title": "A Lot Going on Upstairs",
+      "diziid": "fg",
+      "bolum": "270",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/270/yukarida_cok_sey_oluyor"
+    },
+    {
+      "season": 16,
+      "episode": 84,
+      "title": "The Heartbreak Dog",
+      "diziid": "fg",
+      "bolum": "271",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/271/kirik_kalpler_kopegi"
+    },
+    {
+      "season": 17,
+      "episode": 85,
+      "title": "Take a Letter",
+      "diziid": "fg",
+      "bolum": "272",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/272/bir_mektup_sec"
+    },
+    {
+      "season": 18,
+      "episode": 86,
+      "title": "The New Adventures of Old Tom",
+      "diziid": "fg",
+      "bolum": "273",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/273/yasli_tomun_yeni_maceralari"
+    },
+    {
+      "season": 19,
+      "episode": 87,
+      "title": "Run, Chris, Run",
+      "diziid": "fg",
+      "bolum": "274",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/274/kos_chris%2C_kos"
+    },
+    {
+      "season": 20,
+      "episode": 88,
+      "title": "Road to India",
+      "diziid": "fg",
+      "bolum": "275",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/275/hindistana_yolculuk"
+    },
+    {
+      "season": 1,
+      "episode": 89,
+      "title": "The Boys in the Band",
+      "diziid": "fg",
+      "bolum": "276",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/276/gruptaki_cocuklar"
+    },
+    {
+      "season": 2,
+      "episode": 90,
+      "title": "Bookie of the Year",
+      "diziid": "fg",
+      "bolum": "277",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/277/yilin_bahiscisi"
+    },
+    {
+      "season": 3,
+      "episode": 91,
+      "title": "American Gigg-olo",
+      "diziid": "fg",
+      "bolum": "278",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/278/amerikan_jigolosu"
+    },
+    {
+      "season": 4,
+      "episode": 92,
+      "title": "Inside Family Guy",
+      "diziid": "fg",
+      "bolum": "279",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/279/family_guyin_icinden"
+    },
+    {
+      "season": 5,
+      "episode": 93,
+      "title": "Chris Has Got a Date, Date, Date, Date, Date",
+      "diziid": "fg",
+      "bolum": "280",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/280/chrisin_seksi_bir_randevusu_var"
+    },
+    {
+      "season": 6,
+      "episode": 94,
+      "title": "Hot Shots",
+      "diziid": "fg",
+      "bolum": "281",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/281/fena_asilar"
+    },
+    {
+      "season": 7,
+      "episode": 95,
+      "title": "High School English",
+      "diziid": "fg",
+      "bolum": "282",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/282/lise_ingilizcesi"
+    },
+    {
+      "season": 8,
+      "episode": 96,
+      "title": "Carter and Tricia",
+      "diziid": "fg",
+      "bolum": "283",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/283/carter_ve_tricia"
+    },
+    {
+      "season": 9,
+      "episode": 97,
+      "title": "How the Griffin Stole Christmas",
+      "diziid": "fg",
+      "bolum": "284",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/284/griffin_noeli_nasil_mahvetti"
+    },
+    {
+      "season": 10,
+      "episode": 98,
+      "title": "Passenger Fatty-Seven",
+      "diziid": "fg",
+      "bolum": "285",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/285/yetmis_sisko_numarali_yolcu"
+    },
+    {
+      "season": 11,
+      "episode": 99,
+      "title": "Gronkowsbees",
+      "diziid": "fg",
+      "bolum": "286",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/286/gronkowski_ve_arilar"
+    },
+    {
+      "season": 12,
+      "episode": 100,
+      "title": "Peter's Def Jam",
+      "diziid": "fg",
+      "bolum": "287",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/287/dj_peter"
+    },
+    {
+      "season": 13,
+      "episode": 101,
+      "title": "The Finer Strings",
+      "diziid": "fg",
+      "bolum": "288",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/288/kaliteli_yaylilar"
+    },
+    {
+      "season": 14,
+      "episode": 102,
+      "title": "The Dating Game",
+      "diziid": "fg",
+      "bolum": "289",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/289/randevu_oyunu"
+    },
+    {
+      "season": 15,
+      "episode": 103,
+      "title": "Cop and a Half-wit",
+      "diziid": "fg",
+      "bolum": "290",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/290/polis_ve_yarim_akil"
+    },
+    {
+      "season": 16,
+      "episode": 104,
+      "title": "Saturated Fat Guy",
+      "diziid": "fg",
+      "bolum": "291",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/291/doymus_yagli_adam"
+    },
+    {
+      "season": 17,
+      "episode": 105,
+      "title": "Peter's Lost Youth",
+      "diziid": "fg",
+      "bolum": "292",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/292/peterin_kaybolan_gencligi"
+    },
+    {
+      "season": 18,
+      "episode": 106,
+      "title": "The Peter Principal",
+      "diziid": "fg",
+      "bolum": "293",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/293/mudur_peter"
+    },
+    {
+      "season": 19,
+      "episode": 107,
+      "title": "Dearly Deported",
+      "diziid": "fg",
+      "bolum": "294",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/294/sevgili_sinir_disi_edilenler"
+    },
+    {
+      "season": 20,
+      "episode": 108,
+      "title": "A House Full of Peters",
+      "diziid": "fg",
+      "bolum": "295",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/295/bir_ev_dolusu_peter"
+    },
+    {
+      "season": 1,
+      "episode": 109,
+      "title": "Emmy-Winning Episode",
+      "diziid": "fg",
+      "bolum": "296",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/296/emmy_odulu_kazanan_bolum"
+    },
+    {
+      "season": 2,
+      "episode": 110,
+      "title": "Foxx in the Men House",
+      "diziid": "fg",
+      "bolum": "297",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/297/foxx_erkekler_arasinda"
+    },
+    {
+      "season": 3,
+      "episode": 111,
+      "title": "Nanny Goats",
+      "diziid": "fg",
+      "bolum": "298",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/298/keci_bakici"
+    },
+    {
+      "season": 4,
+      "episode": 112,
+      "title": "Follow the Money",
+      "diziid": "fg",
+      "bolum": "299",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/299/parayi_takip_et"
+    },
+    {
+      "season": 5,
+      "episode": 113,
+      "title": "Three Directors",
+      "diziid": "fg",
+      "bolum": "300",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/300/uc_yonetmen"
+    },
+    {
+      "season": 6,
+      "episode": 114,
+      "title": "The D in Apartment 23",
+      "diziid": "fg",
+      "bolum": "301",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/301/23_numarali_dairedeki_d"
+    },
+    {
+      "season": 7,
+      "episode": 115,
+      "title": "Petey IV",
+      "diziid": "fg",
+      "bolum": "302",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/302/dorduncu_petey"
+    },
+    {
+      "season": 8,
+      "episode": 116,
+      "title": "Crimes and Meg's Demeanor",
+      "diziid": "fg",
+      "bolum": "303",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/303/suc_ve_megin_davranislari"
+    },
+    {
+      "season": 9,
+      "episode": 117,
+      "title": "Don't Be a Dickens at Christmas",
+      "diziid": "fg",
+      "bolum": "304",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/304/noelde_dickenslik_yapma"
+    },
+    {
+      "season": 10,
+      "episode": 118,
+      "title": "Boy (Dog) Meets Girl (Dog)",
+      "diziid": "fg",
+      "bolum": "305",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/305/oglan_kopek_kiz_kopek_ile_tanisinca"
+    },
+    {
+      "season": 11,
+      "episode": 119,
+      "title": "Dog Bites Bear",
+      "diziid": "fg",
+      "bolum": "306",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/306/kopek_ayiyi_isirir"
+    },
+    {
+      "season": 12,
+      "episode": 120,
+      "title": "Send in Stewie, Please",
+      "diziid": "fg",
+      "bolum": "307",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/307/stewieye_gonderin%2C_lutfen"
+    },
+    {
+      "season": 13,
+      "episode": 121,
+      "title": "V Is for Mystery",
+      "diziid": "fg",
+      "bolum": "308",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/308/gizem_icin_v"
+    },
+    {
+      "season": 14,
+      "episode": 122,
+      "title": "Veteran Guy",
+      "diziid": "fg",
+      "bolum": "309",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/309/eski_asker"
+    },
+    {
+      "season": 15,
+      "episode": 123,
+      "title": "The Woof of Wall Street",
+      "diziid": "fg",
+      "bolum": "310",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/310/wall_street_kucusu"
+    },
+    {
+      "season": 16,
+      "episode": 124,
+      "title": "\"Family Guy\" Through the Years",
+      "diziid": "fg",
+      "bolum": "311",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/311/yillar_boyu_family_guy"
+    },
+    {
+      "season": 17,
+      "episode": 125,
+      "title": "Switch the Flip",
+      "diziid": "fg",
+      "bolum": "312",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/312/degis_tokus_dugmesi"
+    },
+    {
+      "season": 18,
+      "episode": 126,
+      "title": "HTTPete",
+      "diziid": "fg",
+      "bolum": "313",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/313/httpete"
+    },
+    {
+      "season": 19,
+      "episode": 127,
+      "title": "The Unkindest Cut",
+      "diziid": "fg",
+      "bolum": "314",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/314/acimasiz_kesme"
+    },
+    {
+      "season": 20,
+      "episode": 128,
+      "title": "Are You There God? It's Me, Peter",
+      "diziid": "fg",
+      "bolum": "315",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/315/tanrim_orada_misin_peter_ben"
+    },
+    {
+      "season": 1,
+      "episode": 129,
+      "title": "Married... with Cancer",
+      "diziid": "fg",
+      "bolum": "316",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/316/kanserle_evli"
+    },
+    {
+      "season": 2,
+      "episode": 130,
+      "title": "Dead Dog Walking",
+      "diziid": "fg",
+      "bolum": "317",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/317/olu_kopek"
+    },
+    {
+      "season": 3,
+      "episode": 131,
+      "title": "Pal Stewie",
+      "diziid": "fg",
+      "bolum": "318",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/318/dost_stewie"
+    },
+    {
+      "season": 4,
+      "episode": 132,
+      "title": "Big Trouble in Little Quahog",
+      "diziid": "fg",
+      "bolum": "319",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/319/kucuk_quahogda_buyuk_sorun"
+    },
+    {
+      "season": 5,
+      "episode": 133,
+      "title": "Regarding Carter",
+      "diziid": "fg",
+      "bolum": "320",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/320/cartera_birak"
+    },
+    {
+      "season": 6,
+      "episode": 134,
+      "title": "Stand by Meg",
+      "diziid": "fg",
+      "bolum": "321",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/321/mege_destek_ol"
+    },
+    {
+      "season": 7,
+      "episode": 135,
+      "title": "The Griffin Winter Games",
+      "diziid": "fg",
+      "bolum": "322",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/322/griffin_kis_oyunlari"
+    },
+    {
+      "season": 8,
+      "episode": 136,
+      "title": "Con Heiress",
+      "diziid": "fg",
+      "bolum": "323",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/323/sahtekar_mirasci"
+    },
+    {
+      "season": 9,
+      "episode": 137,
+      "title": "Pawtucket Pete",
+      "diziid": "fg",
+      "bolum": "324",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/324/pawtucket_pete"
+    },
+    {
+      "season": 10,
+      "episode": 138,
+      "title": "Hefty Shades of Gray",
+      "diziid": "fg",
+      "bolum": "325",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/325/grinin_sisman_tonu"
+    },
+    {
+      "season": 11,
+      "episode": 139,
+      "title": "Trump Guy",
+      "diziid": "fg",
+      "bolum": "326",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/326/trump"
+    },
+    {
+      "season": 12,
+      "episode": 140,
+      "title": "Bri, Robot",
+      "diziid": "fg",
+      "bolum": "327",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/327/bri%2C_robot"
+    },
+    {
+      "season": 13,
+      "episode": 141,
+      "title": "Trans-Fat",
+      "diziid": "fg",
+      "bolum": "328",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/328/trans_yagli"
+    },
+    {
+      "season": 14,
+      "episode": 142,
+      "title": "Family Guy Lite",
+      "diziid": "fg",
+      "bolum": "329",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/329/hafif_family_guy"
+    },
+    {
+      "season": 15,
+      "episode": 143,
+      "title": "No Giggity, No Doubt",
+      "diziid": "fg",
+      "bolum": "330",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/330/giggitysiz%2C_suphesiz"
+    },
+    {
+      "season": 16,
+      "episode": 144,
+      "title": "You Can't Handle the Booth!",
+      "diziid": "fg",
+      "bolum": "331",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/331/kulubeyle_basa_cikamazsin%21"
+    },
+    {
+      "season": 17,
+      "episode": 145,
+      "title": "Island Adventure",
+      "diziid": "fg",
+      "bolum": "332",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/332/ada_macerasi"
+    },
+    {
+      "season": 18,
+      "episode": 146,
+      "title": "Throw It Away",
+      "diziid": "fg",
+      "bolum": "333",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/333/at_gitsin"
+    },
+    {
+      "season": 19,
+      "episode": 147,
+      "title": "Girl, Internetted",
+      "diziid": "fg",
+      "bolum": "334",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/334/internetteki_kiz"
+    },
+    {
+      "season": 20,
+      "episode": 148,
+      "title": "Adam West High",
+      "diziid": "fg",
+      "bolum": "335",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/335/adam_west_lisesi"
+    },
+    {
+      "season": 356,
+      "episode": 149,
+      "title": "Stewie's First Word",
+      "diziid": "fg",
+      "bolum": "356",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/356/stewienin_ilk_kelimesi"
+    },
+    {
+      "season": 357,
+      "episode": 150,
+      "title": "The Talented Mr. Stewie",
+      "diziid": "fg",
+      "bolum": "357",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/357/yetenekli_bay_stewie"
+    },
+    {
+      "season": 358,
+      "episode": 151,
+      "title": "Boys & Squirrels",
+      "diziid": "fg",
+      "bolum": "358",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/358/oglanlar_ve_sincaplar"
+    },
+    {
+      "season": 359,
+      "episode": 152,
+      "title": "CutawayLand",
+      "diziid": "fg",
+      "bolum": "359",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/359/alakasiz_sakalar_diyari"
+    },
+    {
+      "season": 360,
+      "episode": 153,
+      "title": "La Famiglia Guy",
+      "diziid": "fg",
+      "bolum": "360",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/360/italyan_ailesi"
+    },
+    {
+      "season": 361,
+      "episode": 154,
+      "title": "Meg's Wedding",
+      "diziid": "fg",
+      "bolum": "361",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/361/megin_dugunu"
+    },
+    {
+      "season": 362,
+      "episode": 155,
+      "title": "Wild Wild West",
+      "diziid": "fg",
+      "bolum": "362",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/362/vahsi_vahsi_bati"
+    },
+    {
+      "season": 363,
+      "episode": 156,
+      "title": "Pawtucket Pat",
+      "diziid": "fg",
+      "bolum": "363",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/363/pawtucket_pat"
+    },
+    {
+      "season": 364,
+      "episode": 157,
+      "title": "The First No L",
+      "diziid": "fg",
+      "bolum": "364",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/364/lsiz_ilk_noe"
+    },
+    {
+      "season": 365,
+      "episode": 158,
+      "title": "Fecal Matters",
+      "diziid": "fg",
+      "bolum": "365",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/365/diskisal_isler"
+    },
+    {
+      "season": 366,
+      "episode": 159,
+      "title": "Boy's Best Friend",
+      "diziid": "fg",
+      "bolum": "366",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/366/bir_oglanin_en_yakin_arkadasi"
+    },
+    {
+      "season": 367,
+      "episode": 160,
+      "title": "And Then There's Fraud",
+      "diziid": "fg",
+      "bolum": "367",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/367/bir_de_dolandiricilik_var_tabii"
+    },
+    {
+      "season": 368,
+      "episode": 161,
+      "title": "PeTerminator",
+      "diziid": "fg",
+      "bolum": "368",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/368/peterminator"
+    },
+    {
+      "season": 369,
+      "episode": 162,
+      "title": "The Marrying Kind",
+      "diziid": "fg",
+      "bolum": "369",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/369/evlenilecek_cinsten"
+    },
+    {
+      "season": 370,
+      "episode": 163,
+      "title": "Customer of the Week",
+      "diziid": "fg",
+      "bolum": "370",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/370/haftanin_musterisi"
+    },
+    {
+      "season": 371,
+      "episode": 164,
+      "title": "Who's Brian Now?",
+      "diziid": "fg",
+      "bolum": "371",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/371/brian_aslinda_kimmis"
+    },
+    {
+      "season": 372,
+      "episode": 165,
+      "title": "Young Parent Trap",
+      "diziid": "fg",
+      "bolum": "372",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/372/genc_ebeveyn_tuzagi"
+    },
+    {
+      "season": 373,
+      "episode": 166,
+      "title": "Meg Goes to College",
+      "diziid": "fg",
+      "bolum": "373",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/373/meg_universiteye_gider"
+    },
+    {
+      "season": 374,
+      "episode": 167,
+      "title": "Family Cat",
+      "diziid": "fg",
+      "bolum": "374",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/374/ailenin_kedisi"
+    },
+    {
+      "season": 375,
+      "episode": 168,
+      "title": "Tales of Former Sports Glory",
+      "diziid": "fg",
+      "bolum": "375",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/375/eski_spor_basarisi_hikayeleri"
+    },
+    {
+      "season": 1,
+      "episode": 169,
+      "title": "LASIK Instinct",
+      "diziid": "fg",
+      "bolum": "376",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/376/lazer_icgudu"
+    },
+    {
+      "season": 2,
+      "episode": 170,
+      "title": "Rock Hard",
+      "diziid": "fg",
+      "bolum": "377",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/377/sert_rockcilar"
+    },
+    {
+      "season": 3,
+      "episode": 171,
+      "title": "Must Love Dogs",
+      "diziid": "fg",
+      "bolum": "378",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/378/kopekleri_sevmeli"
+    },
+    {
+      "season": 4,
+      "episode": 172,
+      "title": "80's Guy",
+      "diziid": "fg",
+      "bolum": "379",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/379/80ler"
+    },
+    {
+      "season": 5,
+      "episode": 173,
+      "title": "Brief Encounter",
+      "diziid": "fg",
+      "bolum": "380",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/380/kisa_bir_karsilasma"
+    },
+    {
+      "season": 6,
+      "episode": 174,
+      "title": "Cootie & the Blowhard",
+      "diziid": "fg",
+      "bolum": "381",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/381/opucuk_hastaligi_ve_palavraci"
+    },
+    {
+      "season": 7,
+      "episode": 175,
+      "title": "Peterschmidt Manor",
+      "diziid": "fg",
+      "bolum": "382",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/382/peterschmidt_malikanesi"
+    },
+    {
+      "season": 8,
+      "episode": 176,
+      "title": "The Birthday Bootlegger",
+      "diziid": "fg",
+      "bolum": "383",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/383/dogumgunu_kacakcisi"
+    },
+    {
+      "season": 9,
+      "episode": 177,
+      "title": "The Fatman Always Rings Twice",
+      "diziid": "fg",
+      "bolum": "384",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/384/sisman_adam_kapiyi_iki_kere_calar"
+    },
+    {
+      "season": 10,
+      "episode": 178,
+      "title": "Christmas Crime",
+      "diziid": "fg",
+      "bolum": "385",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/385/noel_sucu"
+    },
+    {
+      "season": 11,
+      "episode": 179,
+      "title": "Mister Act",
+      "diziid": "fg",
+      "bolum": "386",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/386/bay_oyuncu"
+    },
+    {
+      "season": 12,
+      "episode": 180,
+      "title": "The Lois Quagmire",
+      "diziid": "fg",
+      "bolum": "387",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/387/lois_quagmire"
+    },
+    {
+      "season": 13,
+      "episode": 181,
+      "title": "Lawyer Guy",
+      "diziid": "fg",
+      "bolum": "388",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/388/avukat"
+    },
+    {
+      "season": 14,
+      "episode": 182,
+      "title": "HBO-No",
+      "diziid": "fg",
+      "bolum": "389",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/389/hbo-no"
+    },
+    {
+      "season": 15,
+      "episode": 183,
+      "title": "Hard Boiled Meg",
+      "diziid": "fg",
+      "bolum": "390",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/390/hizli_sofor_meg"
+    },
+    {
+      "season": 16,
+      "episode": 184,
+      "title": "Prescription Heroine",
+      "diziid": "fg",
+      "bolum": "391",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/391/receteli_eroin"
+    },
+    {
+      "season": 17,
+      "episode": 185,
+      "title": "All About Alana",
+      "diziid": "fg",
+      "bolum": "392",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/392/alana_hakkinda_her_sey"
+    },
+    {
+      "season": 18,
+      "episode": 186,
+      "title": "Girlfriend, Eh?",
+      "diziid": "fg",
+      "bolum": "393",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/393/sevgili%2C_ha"
+    },
+    {
+      "season": 19,
+      "episode": 187,
+      "title": "First Blood",
+      "diziid": "fg",
+      "bolum": "394",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/394/ilk_kan"
+    },
+    {
+      "season": 20,
+      "episode": 188,
+      "title": "The Jersey Bore",
+      "diziid": "fg",
+      "bolum": "395",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/395/jersey_bore"
+    },
+    {
+      "season": 1,
+      "episode": 189,
+      "title": "Oscars Guy",
+      "diziid": "fg",
+      "bolum": "396",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/396/oscar_adami"
+    },
+    {
+      "season": 2,
+      "episode": 190,
+      "title": "Bend or Blockbuster",
+      "diziid": "fg",
+      "bolum": "397",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/397/bend_veya_blockbuster"
+    },
+    {
+      "season": 3,
+      "episode": 191,
+      "title": "A Wife-Changing Experience",
+      "diziid": "fg",
+      "bolum": "398",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/398/es_degistiren_bir_deneyim"
+    },
+    {
+      "season": 4,
+      "episode": 192,
+      "title": "The Munchurian Candidate",
+      "diziid": "fg",
+      "bolum": "399",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/399/mancuryali_aday"
+    },
+    {
+      "season": 5,
+      "episode": 193,
+      "title": "Unzipped Code",
+      "diziid": "fg",
+      "bolum": "400",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/400/fermuari_acik_kod"
+    },
+    {
+      "season": 6,
+      "episode": 194,
+      "title": "Happy Holo-ween",
+      "diziid": "fg",
+      "bolum": "401",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/401/mutlu_holo-bayramlar"
+    },
+    {
+      "season": 7,
+      "episode": 195,
+      "title": "The Stewaway",
+      "diziid": "fg",
+      "bolum": "402",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/402/stewaway"
+    },
+    {
+      "season": 8,
+      "episode": 196,
+      "title": "Get Stewie",
+      "diziid": "fg",
+      "bolum": "403",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/403/stewieyi_alin"
+    },
+    {
+      "season": 9,
+      "episode": 197,
+      "title": "Carny Knowledge",
+      "diziid": "fg",
+      "bolum": "404",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/404/karnaval_bilgisi"
+    },
+    {
+      "season": 10,
+      "episode": 198,
+      "title": "The Candidate",
+      "diziid": "fg",
+      "bolum": "405",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/405/aday"
+    },
+    {
+      "season": 11,
+      "episode": 199,
+      "title": "Love Story Guy",
+      "diziid": "fg",
+      "bolum": "406",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/406/ask_hikayesi_erkegi"
+    },
+    {
+      "season": 12,
+      "episode": 200,
+      "title": "Old West",
+      "diziid": "fg",
+      "bolum": "407",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/407/eski_bati"
+    },
+    {
+      "season": 13,
+      "episode": 201,
+      "title": "Single White Dad",
+      "diziid": "fg",
+      "bolum": "408",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/408/bekar_beyaz_baba"
+    },
+    {
+      "season": 14,
+      "episode": 202,
+      "title": "White Meg Can't Jump",
+      "diziid": "fg",
+      "bolum": "409",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/409/beyaz_meg_atlayamaz"
+    },
+    {
+      "season": 15,
+      "episode": 203,
+      "title": "Adoptation",
+      "diziid": "fg",
+      "bolum": "410",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/410/evlat_edinme"
+    },
+    {
+      "season": 16,
+      "episode": 204,
+      "title": "The Bird Reich",
+      "diziid": "fg",
+      "bolum": "411",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/411/kus_imparatorlugu"
+    },
+    {
+      "season": 17,
+      "episode": 205,
+      "title": "A Bottle Episode",
+      "diziid": "fg",
+      "bolum": "412",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/412/bir_sise_donemi"
+    },
+    {
+      "season": 18,
+      "episode": 206,
+      "title": "Vat Man & Rob 'Em",
+      "diziid": "fg",
+      "bolum": "413",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/413/vat_man_%26_rob_em"
+    },
+    {
+      "season": 19,
+      "episode": 207,
+      "title": "From Russia With Love",
+      "diziid": "fg",
+      "bolum": "414",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/414/rusyadan_sevgilerle"
+    },
+    {
+      "season": 20,
+      "episode": 208,
+      "title": "Adult Education",
+      "diziid": "fg",
+      "bolum": "415",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/415/yetiskin_egitimi"
+    },
+    {
+      "season": 1,
+      "episode": 209,
+      "title": "Fertilized Megg",
+      "diziid": "fg",
+      "bolum": "416",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/416/gebe_megg"
+    },
+    {
+      "season": 2,
+      "episode": 210,
+      "title": "Supermarket Pete",
+      "diziid": "fg",
+      "bolum": "417",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/417/pete_supermarket"
+    },
+    {
+      "season": 3,
+      "episode": 211,
+      "title": "A Stache From the Past",
+      "diziid": "fg",
+      "bolum": "418",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/418/maziden_kalma_bir_biyik"
+    },
+    {
+      "season": 4,
+      "episode": 212,
+      "title": "Old World Harm",
+      "diziid": "fg",
+      "bolum": "419",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/419/eski_dunya_hasarlari"
+    },
+    {
+      "season": 5,
+      "episode": 213,
+      "title": "Baby, It's Cold Inside",
+      "diziid": "fg",
+      "bolum": "420",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/420/bebegim%2C_icerisi_soguk"
+    },
+    {
+      "season": 6,
+      "episode": 214,
+      "title": "Boston Stewie",
+      "diziid": "fg",
+      "bolum": "421",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/421/boston_stewie"
+    },
+    {
+      "season": 7,
+      "episode": 215,
+      "title": "Snap(ple) Decision",
+      "diziid": "fg",
+      "bolum": "422",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/422/ani_karar"
+    },
+    {
+      "season": 8,
+      "episode": 216,
+      "title": "Baking Sad",
+      "diziid": "fg",
+      "bolum": "423",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/423/uzuntuye_niyet%2C_kazanca_kismet"
+    },
+    {
+      "season": 9,
+      "episode": 217,
+      "title": "The Return of the King (of Queens)",
+      "diziid": "fg",
+      "bolum": "424",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/424/kralicelerin_kralinin_donusu"
+    },
+    {
+      "season": 10,
+      "episode": 218,
+      "title": "Cabin Pressure",
+      "diziid": "fg",
+      "bolum": "425",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/425/kabin_basinci"
+    },
+    {
+      "season": 11,
+      "episode": 219,
+      "title": "Teacher's Heavy Pet",
+      "diziid": "fg",
+      "bolum": "426",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/426/ogretmenin_gozdesi"
+    },
+    {
+      "season": 12,
+      "episode": 220,
+      "title": "Take This Job and Love It",
+      "diziid": "fg",
+      "bolum": "427",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/427/bu_isi_kabul_et_ve_sev"
+    },
+    {
+      "season": 13,
+      "episode": 221,
+      "title": "Lifeguard Meg",
+      "diziid": "fg",
+      "bolum": "428",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/428/cankurtaran_meg"
+    },
+    {
+      "season": 14,
+      "episode": 222,
+      "title": "Fat Actor",
+      "diziid": "fg",
+      "bolum": "429",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/429/sisman_aktor"
+    },
+    {
+      "season": 15,
+      "episode": 223,
+      "title": "Faith No More",
+      "diziid": "fg",
+      "bolum": "430",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/430/inanc_yok_artik"
+    },
+    {
+      "season": 1,
+      "episode": 224,
+      "title": "Fat Gun",
+      "diziid": "fg",
+      "bolum": "431",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/431/sisman_pilot"
+    },
+    {
+      "season": 2,
+      "episode": 225,
+      "title": "Live, Laugh, Love",
+      "diziid": "fg",
+      "bolum": "432",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/432/yasa%2C_gul%2C_sev"
+    },
+    {
+      "season": 3,
+      "episode": 226,
+      "title": "Drunk with Power",
+      "diziid": "fg",
+      "bolum": "433",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/433/guc_sarhosu"
+    },
+    {
+      "season": 4,
+      "episode": 227,
+      "title": "Lois C.K.",
+      "diziid": "fg",
+      "bolum": "434",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/434/lois_c.k."
+    },
+    {
+      "season": 5,
+      "episode": 228,
+      "title": "The Chicken or the Meg",
+      "diziid": "fg",
+      "bolum": "435",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/435/tavuk_mu%2C_meg_mi"
+    },
+    {
+      "season": 6,
+      "episode": 229,
+      "title": "Dog is My Co-Pilot",
+      "diziid": "fg",
+      "bolum": "436",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/436/kaptan_kopek"
+    },
+    {
+      "season": 7,
+      "episode": 230,
+      "title": "Pitch Imperfect",
+      "diziid": "fg",
+      "bolum": "437",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/437/kusurlu_atis"
+    },
+    {
+      "season": 8,
+      "episode": 231,
+      "title": "Hard Times at Adam West High",
+      "diziid": "fg",
+      "bolum": "438",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/438/adam_west_lisesinde_sert_anlar"
+    },
+    {
+      "season": 9,
+      "episode": 232,
+      "title": "The Elle Word",
+      "diziid": "fg",
+      "bolum": "439",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/439/quagmirein_gizli_aski"
+    },
+    {
+      "season": 10,
+      "episode": 233,
+      "title": "A Real Who's Hulu",
+      "diziid": "fg",
+      "bolum": "440",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/440/a_real_whos_hulu"
+    },
+    {
+      "season": 11,
+      "episode": 234,
+      "title": "China Doll",
+      "diziid": "fg",
+      "bolum": "441",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/441/cinli_ayi"
+    },
+    {
+      "season": 12,
+      "episode": 235,
+      "title": "One Foot in Front of the Mother",
+      "diziid": "fg",
+      "bolum": "442",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/442/adim_adim_anaya_dogru"
+    },
+    {
+      "season": 13,
+      "episode": 236,
+      "title": "The Fat Lotus",
+      "diziid": "fg",
+      "bolum": "443",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/443/tombik_lotus"
+    },
+    {
+      "season": 14,
+      "episode": 237,
+      "title": "Cool Hand Lois",
+      "diziid": "fg",
+      "bolum": "444",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/444/lois_kendi_yolunda"
+    },
+    {
+      "season": 15,
+      "episode": 238,
+      "title": "Martian Meg",
+      "diziid": "fg",
+      "bolum": "445",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/445/marsli_meg"
+    },
+    {
+      "season": 16,
+      "episode": 239,
+      "title": "Row v. Wade",
+      "diziid": "fg",
+      "bolum": "446",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/446/kurtaj_icin_kurek_cek"
+    },
+    {
+      "season": 17,
+      "episode": 240,
+      "title": "Karenheit 451",
+      "diziid": "fg",
+      "bolum": "447",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/447/sansurcu_anneler"
+    },
+    {
+      "season": 18,
+      "episode": 241,
+      "title": "Twain's World",
+      "diziid": "fg",
+      "bolum": "448",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/448/twain%E2%80%99in_dunyasi"
+    },
+    {
+      "season": 1,
+      "episode": 242,
+      "title": "The Edible Arrangement",
+      "diziid": "fg",
+      "bolum": "449",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/449/yenilebilir_aranjman"
+    },
+    {
+      "season": 2,
+      "episode": 243,
+      "title": "Pumpkin Spice Girls",
+      "diziid": "fg",
+      "bolum": "450",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/450/balkabakli_latte_kizlari"
+    },
+    {
+      "season": 3,
+      "episode": 244,
+      "title": "Man-Fest Destiny",
+      "diziid": "fg",
+      "bolum": "451",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/451/erkek_festivali_kaderi"
+    },
+    {
+      "season": 4,
+      "episode": 245,
+      "title": "Bringing Up Brady",
+      "diziid": "fg",
+      "bolum": "452",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/452/bradyyi_yetistirmek"
+    },
+    {
+      "season": 5,
+      "episode": 246,
+      "title": "Dear Francis",
+      "diziid": "fg",
+      "bolum": "453",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/453/sevgili_francis"
+    },
+    {
+      "season": 6,
+      "episode": 247,
+      "title": "Viewer DMs",
+      "diziid": "fg",
+      "bolum": "454",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/454/izleyici_mesajlari"
+    },
+    {
+      "season": 7,
+      "episode": 248,
+      "title": "Scent of a Woman",
+      "diziid": "fg",
+      "bolum": "455",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/455/kadin_kokusu"
+    },
+    {
+      "season": 8,
+      "episode": 249,
+      "title": "Play Time",
+      "diziid": "fg",
+      "bolum": "456",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/456/oyun_zamani"
+    },
+    {
+      "season": 9,
+      "episode": 250,
+      "title": "Phony Montana",
+      "diziid": "fg",
+      "bolum": "457",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/457/phony_montana"
+    },
+    {
+      "season": 10,
+      "episode": 251,
+      "title": "A Few More Ways to Die in the West",
+      "diziid": "fg",
+      "bolum": "458",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/458/batida_olmenin_birkac_yolu_daha"
+    },
+    {
+      "season": 11,
+      "episode": 252,
+      "title": "Tall Stewie",
+      "diziid": "fg",
+      "bolum": "459",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/459/uzun_stewie"
+    },
+    {
+      "season": 12,
+      "episode": 253,
+      "title": "Lower G.I. Joe",
+      "diziid": "fg",
+      "bolum": "460",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/460/alt_bagirsak_joe"
+    },
+    {
+      "season": 13,
+      "episode": 254,
+      "title": "Friend's Best Man",
+      "diziid": "fg",
+      "bolum": "461",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/461/arkadasimin_sagdici"
+    },
+    {
+      "season": 14,
+      "episode": 255,
+      "title": "Let the Goodtimes Walk",
+      "diziid": "fg",
+      "bolum": "462",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/462/birak_keyif_yurusun"
+    },
+    {
+      "season": 15,
+      "episode": 256,
+      "title": "High School History",
+      "diziid": "fg",
+      "bolum": "463",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/463/lise_tarih_dersi"
+    },
+    {
+      "season": 1,
+      "episode": 257,
+      "title": "Peter, Peter, Pumpkin Cheater",
+      "diziid": "fg",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/0/hileci_peter"
+    },
+    {
+      "season": 1,
+      "episode": 258,
+      "title": "Gift of the White Guy",
+      "diziid": "fg",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/0/beyaz_adamin_hediyesi"
+    },
+    {
+      "season": 1,
+      "episode": 259,
+      "title": "A Little Fright Music",
+      "diziid": "fg",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/0/biraz_korku_muzigi"
+    },
+    {
+      "season": 1,
+      "episode": 260,
+      "title": "Disney's Hulu's Family Guy's Hallmark Channel's Lifetime's Unoriginal Holiday Movie",
+      "diziid": "fg",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/fg/family_guy/0/2025_noeli%3A_disney_ve_hulu_sunar%3A_family_guydan%2C_hallmark_ve_lifetime_esintili_bir_noel_filmi"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "lfag",
+  "title": "lego friends: arkadaÅŸlÄ±ÄŸÄ±n gÃ¼cÃ¼",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/LFAGPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "GÃ¼nlÃ¼k Hayattan",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Camp Wild Hearts",
+      "diziid": "lfag",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/lfag/lego_friends%3A_arkadasligin_gucu/1/vahsi_kalpler_kampi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Slam Dunk",
+      "diziid": "lfag",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/lfag/lego_friends%3A_arkadasligin_gucu/2/sampiyon"
+    },
+    {
+      "season": 1,
+      "episode": 3,
+      "title": "Keepin' It Real",
+      "diziid": "lfag",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/lfag/lego_friends%3A_arkadasligin_gucu/3/kendin_ol"
+    },
+    {
+      "season": 2,
+      "episode": 4,
+      "title": "Roomies",
+      "diziid": "lfag",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/lfag/lego_friends%3A_arkadasligin_gucu/4/oda_arkadasi"
+    }
+  ]
+}

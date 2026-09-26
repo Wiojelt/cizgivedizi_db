@@ -1,0 +1,372 @@
+{
+  "id": "prnssg",
+  "title": "prenses gÃ¼cÃ¼",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/PRNSSGPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Unstoppable Unpoppable Princesses",
+      "diziid": "prnssg",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/1/durdurulamaz_patlatilamaz_prensesler"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Princesses Garden Party",
+      "diziid": "prnssg",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/2/prenseslerin_bahce_partisi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "A Whale of a Princess Tale",
+      "diziid": "prnssg",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/3/balinali_bir_prenses_masali"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Princess Creation Station",
+      "diziid": "prnssg",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/4/prenseslerin_yaraticilik_istasyonu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Happy Princess Birthday, Fussy!",
+      "diziid": "prnssg",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/5/dogum_gunun_kutlu_olsun_suslu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Princess Lights Out",
+      "diziid": "prnssg",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/6/prenseslerin_elektrik_kesintisi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Princess Shooting Stars",
+      "diziid": "prnssg",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/7/prenseslerin_kayan_yildizlari"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Princess Royal Portrait",
+      "diziid": "prnssg",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/8/prenseslerin_kraliyet_portresi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "A Princess Dad-Dilemma",
+      "diziid": "prnssg",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/9/bir_prensesin_baba_ikilemi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Great Princess Punchbowl Feastival",
+      "diziid": "prnssg",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/10/prenseslerin_muhtesem_ada_soleni"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Princess Fun in the Sun",
+      "diziid": "prnssg",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/11/prenseslerin_gunesli_eglencesi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Princesses and the Bees",
+      "diziid": "prnssg",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/12/prensesler_ve_arilar"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Princesses Soccer Spectacular",
+      "diziid": "prnssg",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/13/prenseslerin_futbol_keyfi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "A Prince in the Princess Pack",
+      "diziid": "prnssg",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/14/prensesler_arasinda_bir_prens"
+    },
+    {
+      "season": 1,
+      "episode": 15,
+      "title": "The Princesses and the Frosty Fruitdom Fiasco",
+      "diziid": "prnssg",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/15/prensesler_ve_buzlu_meyve_kralligi_fiyaskosu"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Practice Makes Princess",
+      "diziid": "prnssg",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/17/pratik_prenseslestirir"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Princess Farmers' Market",
+      "diziid": "prnssg",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/18/prenseslerin_pazari"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "The Princesses Get a Roommate",
+      "diziid": "prnssg",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/19/prenseslerin_yeni_ev_arkadasi"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "The Princess' Speech",
+      "diziid": "prnssg",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/20/prensesin_konusmasi"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Princess Suggestion Box",
+      "diziid": "prnssg",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/21/prenseslerin_oneri_kutusu"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "The Missing Princess",
+      "diziid": "prnssg",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/22/kayip_prenses"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Princess All-Nighter",
+      "diziid": "prnssg",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/23/prensesler_sabahliyor"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Little Shop of Princess Horrors",
+      "diziid": "prnssg",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/24/prenseslerin_kucuk_korku_dukkani"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "Princess Surprise Party",
+      "diziid": "prnssg",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/25/prenseslerin_surpriz_partisi"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "I Dig Being a Princess",
+      "diziid": "prnssg",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/26/prensesler_hazine_avinda"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "The Princess Crown Cover Up",
+      "diziid": "prnssg",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/27/prenses_taci_sorunu"
+    },
+    {
+      "season": 14,
+      "episode": 27,
+      "title": "Princess Processional Professional",
+      "diziid": "prnssg",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/28/prenses_profesyonel_binici"
+    },
+    {
+      "season": 15,
+      "episode": 28,
+      "title": "How to Be a Princess",
+      "diziid": "prnssg",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/29/prenses_nasil_olunur"
+    },
+    {
+      "season": 16,
+      "episode": 29,
+      "title": "Princess Bon Voyage",
+      "diziid": "prnssg",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/30/iyi_yolculuklar_prenses"
+    },
+    {
+      "season": 17,
+      "episode": 30,
+      "title": "The Perfect Princess Welcome",
+      "diziid": "prnssg",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/31/prensesin_mukemmel_karsilamasi"
+    },
+    {
+      "season": 18,
+      "episode": 31,
+      "title": "Fussy and Scrumples' Princess Adventure",
+      "diziid": "prnssg",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/32/suslu_ile_burusukun_prenses_macerasi"
+    },
+    {
+      "season": 19,
+      "episode": 32,
+      "title": "Princess Donation Distress",
+      "diziid": "prnssg",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/33/prensesin_bagis_endisesi"
+    },
+    {
+      "season": 20,
+      "episode": 33,
+      "title": "Busyboots and the Four Princesses",
+      "diziid": "prnssg",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/34/mesgul-cizme_ve_dort_prenses"
+    },
+    {
+      "season": 21,
+      "episode": 34,
+      "title": "Princess Freaky Fruit-Day",
+      "diziid": "prnssg",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/35/prenseslerin_cilgin_meyve_gunu"
+    },
+    {
+      "season": 1,
+      "episode": 35,
+      "title": "Four Fruitdom Princess Coronation",
+      "diziid": "prnssg",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/36/dort_meyve_kralliginin_prensesleri_tac_giyiyor"
+    },
+    {
+      "season": 3,
+      "episode": 36,
+      "title": "Princess Camp Out Stakeout",
+      "diziid": "prnssg",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/38/prenseslerin_gozetleme_kampi"
+    },
+    {
+      "season": 4,
+      "episode": 37,
+      "title": "Princess Pie Surprise",
+      "diziid": "prnssg",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/39/prenseslerin_turta_surprizi"
+    },
+    {
+      "season": 5,
+      "episode": 38,
+      "title": "Princess Babysitter's Club",
+      "diziid": "prnssg",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/40/prenseslerin_bakicilik_kulubu"
+    },
+    {
+      "season": 1,
+      "episode": 39,
+      "title": "Princess Royal Wedding",
+      "diziid": "prnssg",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/41/prenseslerin_kraliyet_dugunu"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "Princess Eco-Chase",
+      "diziid": "prnssg",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/43/prensesler_yarisiyor"
+    },
+    {
+      "season": 1,
+      "episode": 41,
+      "title": "Princess Nest Pest",
+      "diziid": "prnssg",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/45/prenses_ve_tuhaf_yaratik"
+    },
+    {
+      "season": 1,
+      "episode": 42,
+      "title": "Princess Bridge Over Troubled Water",
+      "diziid": "prnssg",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/47/prensesin_birlik_kopruleri"
+    },
+    {
+      "season": 1,
+      "episode": 43,
+      "title": "The Princesses and the Beanstalk",
+      "diziid": "prnssg",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/49/prensesler_ve_fasulye_sirigi"
+    },
+    {
+      "season": 1,
+      "episode": 44,
+      "title": "Princess Friends Un-Forever",
+      "diziid": "prnssg",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/51/prenseslerin_ebedi_olmayan_dostlugu"
+    },
+    {
+      "season": 1,
+      "episode": 45,
+      "title": "Princesses Seas The Day!",
+      "diziid": "prnssg",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/prnssg/prenses_gucu/53/prenseslerin_deniz_macerasi"
+    }
+  ]
+}

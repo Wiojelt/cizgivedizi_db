@@ -1,0 +1,428 @@
+{
+  "id": "ella",
+  "title": "yÄ±ldÄ±zlararasÄ± ella",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ELLAPoster.jpg",
+  "channel": "Cartoonito",
+  "genres": [
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Saving Mooncake",
+      "diziid": "ella",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/1/mooncakei_kurtarmak"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "A Star is Born",
+      "diziid": "ella",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/2/bir_yildiz_doguyor"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Space Oddity",
+      "diziid": "ella",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/3/silikon_denizanasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Runaway Rover",
+      "diziid": "ella",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/4/kacak_araba"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Interstellar Treasure Hunter",
+      "diziid": "ella",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/5/hazine_avi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Speed of Ella",
+      "diziid": "ella",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/6/ellanin_hizi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Crystal Contingency",
+      "diziid": "ella",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/7/elmas_kristalleri"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Jupiter's Moons",
+      "diziid": "ella",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/8/jupiterin_uydulari"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Maggie 2.0",
+      "diziid": "ella",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/9/maggie_2.0"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Interstellar Message",
+      "diziid": "ella",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/10/yildizlararasi_mesaj"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Constellation Prize",
+      "diziid": "ella",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/11/takimyildizi_odulu"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Space Junk",
+      "diziid": "ella",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/12/uzay_copleri"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Commander Slippy",
+      "diziid": "ella",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/13/komutan_slippy"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Earthbound Priya",
+      "diziid": "ella",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/14/priya"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Palladium Quest",
+      "diziid": "ella",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/15/paladyum_gorevi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Friendship Supernova",
+      "diziid": "ella",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/16/arkadaslik_mi_supernova_mi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Momella Day",
+      "diziid": "ella",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/17/anne_ella_gunu"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Martian Chronicles",
+      "diziid": "ella",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/18/mars_gunlukleri"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "That's so Madhu",
+      "diziid": "ella",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/19/madhunun_arkadaslik_yil_donumu"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Ghost Story",
+      "diziid": "ella",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/20/hayaletli_x_gezegeni"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "For the Win",
+      "diziid": "ella",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/21/kazanmak_icin"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Highs and Lows",
+      "diziid": "ella",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/22/inisler_ve_cikislar"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Big Little Problems",
+      "diziid": "ella",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/23/buyuk_kucuk_sorunlar"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Big Break",
+      "diziid": "ella",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/24/ellanin_kirigi"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Glitch's Big Day",
+      "diziid": "ella",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/25/glitchin_buyuk_gunu"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Interstellar Pet Sitter",
+      "diziid": "ella",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/26/yildizlararasi_hayvan_bakicisi"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Hot and Cold",
+      "diziid": "ella",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/27/sicak_ve_soguk"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Now, Voyager",
+      "diziid": "ella",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/28/simdi%2C_voyager"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Human Day",
+      "diziid": "ella",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/29/insan_gunu"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Going Rogue",
+      "diziid": "ella",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/30/yalniz"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "'Oumuamua Memories",
+      "diziid": "ella",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/31/oumuamua_anilari"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Analog Ella",
+      "diziid": "ella",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/32/analog_ella"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Galaxy Quest",
+      "diziid": "ella",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/33/galaksi_gorevi"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Supergiant Search",
+      "diziid": "ella",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/34/ustdev_yildiz_arayisi"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Super Puff Planet",
+      "diziid": "ella",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/35/super_puff_gezegeni"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Super Tilly",
+      "diziid": "ella",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/36/super_tilly"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Water World",
+      "diziid": "ella",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/37/su_dunyasi"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "White Dwarf, Blue Madhu",
+      "diziid": "ella",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/38/beyaz_cuce%2C_mavi_madhu"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Trip in the Moon",
+      "diziid": "ella",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/39/ayda_yolculuk"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Aurora Friendrealis",
+      "diziid": "ella",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/40/slippynin_rekoru"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Failed Star",
+      "diziid": "ella",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/41/saklambac"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Robot Without a Cause",
+      "diziid": "ella",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/42/amacsiz_robot"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Birthday Stars",
+      "diziid": "ella",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/43/dogum_gunu_yildizlari"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Goodbye H.O.M.E",
+      "diziid": "ella",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/44/kuyruklu_yildiz_sorfu"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Metal Mess",
+      "diziid": "ella",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/45/metal_karmasasi"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "All in Good Time",
+      "diziid": "ella",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/46/her_seyin_bir_zamani_vardir"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Ella Unstoppable",
+      "diziid": "ella",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/47/durdurulamaz_ella"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "The Isobel Symphony",
+      "diziid": "ella",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/48/senfoni"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Moon Rock",
+      "diziid": "ella",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/49/ay_tasi"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Pluto Jumpride",
+      "diziid": "ella",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/50/pluton_sicrayisi"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Spirally Spacedive",
+      "diziid": "ella",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/51/spiral_dalma"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Starquake!",
+      "diziid": "ella",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/ella/yildizlararasi_ella/52/yildiz_depremi%21"
+    }
+  ]
+}

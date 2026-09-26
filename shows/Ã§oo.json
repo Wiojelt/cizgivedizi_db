@@ -1,0 +1,44 @@
+{
+  "id": "Ã§oo",
+  "title": "Ã§ocuk oyuncaÄŸÄ±",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/%C3%87OOPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Ollie Is Lost",
+      "diziid": "%C3%A7oo",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/%C3%A7oo/cocuk_oyuncagi/1/ollie_kayboldu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Quest",
+      "diziid": "%C3%A7oo",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/%C3%A7oo/cocuk_oyuncagi/2/seruven"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Bali Hai",
+      "diziid": "%C3%A7oo",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/%C3%A7oo/cocuk_oyuncagi/3/bali_hai"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Home",
+      "diziid": "%C3%A7oo",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/%C3%A7oo/cocuk_oyuncagi/4/ev"
+    }
+  ]
+}

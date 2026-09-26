@@ -1,0 +1,2508 @@
+{
+  "id": "gvl",
+  "title": "grizzy ve lemmingler",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/GVLPoster.avif",
+  "channel": "Cartoonito",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Polar Bear",
+      "diziid": "gvl",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/1/kutup_ayisi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Bear Spread",
+      "diziid": "gvl",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/2/ayi_eglencesi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Cellular Bear",
+      "diziid": "gvl",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/3/cep_ayisi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Jurassic Bear",
+      "diziid": "gvl",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/4/jurassic_ayi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Extreme Fitness",
+      "diziid": "gvl",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/5/sert_spor"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Domestic Robots",
+      "diziid": "gvl",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/6/ev_robotlari"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Mass Control",
+      "diziid": "gvl",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/7/kitle_kontrolu"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Bear Under Control",
+      "diziid": "gvl",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/8/ayi_kontrol_altinda"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Popcorn Party",
+      "diziid": "gvl",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/9/patlamis_misir_partisi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Dancing with the Bears",
+      "diziid": "gvl",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/10/ayilarla_dans"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Role Change",
+      "diziid": "gvl",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/11/rol_degisimi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Lemming Tonic",
+      "diziid": "gvl",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/12/kuvvet_ilaci"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Bear Itch",
+      "diziid": "gvl",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/13/ayi_kasintisi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Thirst Quencher",
+      "diziid": "gvl",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/14/sussuzluk_giderici"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Spider Lemmings",
+      "diziid": "gvl",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/15/orumcek_tarzi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Random Bear",
+      "diziid": "gvl",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/16/herhangi_bir_ayi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Lemming Interference",
+      "diziid": "gvl",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/17/mudahale"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "High Voltage Bear Attack",
+      "diziid": "gvl",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/18/yuksek_voltajli_ayi_saldirisi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Bear Scents",
+      "diziid": "gvl",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/19/ayi_kokusu"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Bear Luck",
+      "diziid": "gvl",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/20/ayi_sansi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Magnetic Bear",
+      "diziid": "gvl",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/21/manyetik_ayi"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Bear Charm",
+      "diziid": "gvl",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/22/sevimli_ayi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Bear's Best Friend",
+      "diziid": "gvl",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/23/bir_ayinin_en_iyi_arkadasi"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Super Grizzy Bros.",
+      "diziid": "gvl",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/24/super_boz_kardesler"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Fake Brother",
+      "diziid": "gvl",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/25/sahte_kardes"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Mind in a Whirl",
+      "diziid": "gvl",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/26/kafasi_karisik"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "A Sizeable Problem",
+      "diziid": "gvl",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/27/buyuk_problem"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Treasure Bear",
+      "diziid": "gvl",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/28/hazine_ayisi"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "In the Service of His Majesty",
+      "diziid": "gvl",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/29/kralin_hizmetinde"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Bear Art",
+      "diziid": "gvl",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/30/ayi_sanati"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Happy Birthday Lemmings!",
+      "diziid": "gvl",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/31/iyi_ki_dogdun_lemming"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Flower Power",
+      "diziid": "gvl",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/32/cicegin_gucu"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Bear Me Up",
+      "diziid": "gvl",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/33/isinla_beni_ayicik"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Bear Countdown",
+      "diziid": "gvl",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/34/ayi_geri_sayimi"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Lemming Airlines",
+      "diziid": "gvl",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/35/lemming_hava_yollari"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Relax Bear",
+      "diziid": "gvl",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/36/rahat_ayi"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Bear Gliding",
+      "diziid": "gvl",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/37/ayi_ucurtma"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "The Sound of a Lemming",
+      "diziid": "gvl",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/38/bir_lemmingin_sesi"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Bear in the Wind",
+      "diziid": "gvl",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/39/ruzgarda_ayi"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Building Bear",
+      "diziid": "gvl",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/40/insaatci_ayi"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Kung Fu Lemmings",
+      "diziid": "gvl",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/41/kung-fucu_lemmingler"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "A Midsummer Bear's Dream",
+      "diziid": "gvl",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/42/bir_yaz_ayisi_ruyasi"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Manufacturing Secret",
+      "diziid": "gvl",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/43/imalat_sirri"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Bear With a Diamond",
+      "diziid": "gvl",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/44/elmasli_ayi"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Intellectual Bear",
+      "diziid": "gvl",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/45/entelektuel_ayi"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Voodoo Blanket",
+      "diziid": "gvl",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/46/voodoo_battaniyesi"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Bear Prints",
+      "diziid": "gvl",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/47/ayi_baskisi"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Inspector Grizzy",
+      "diziid": "gvl",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/48/mufettis_grizzy"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "No Entrance!",
+      "diziid": "gvl",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/49/girmek_yasak%21"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Lemmings Indigestion",
+      "diziid": "gvl",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/50/lemming_hazimsizligi"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Sonata in Bear Major",
+      "diziid": "gvl",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/51/ayi_major_piyano_sonati"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Bear Fractions",
+      "diziid": "gvl",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/52/ayi_bolmeci"
+    },
+    {
+      "season": 53,
+      "episode": 53,
+      "title": "The Bear That Laid Golden Eggs",
+      "diziid": "gvl",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/53/altin_yumurtlayan_ayi"
+    },
+    {
+      "season": 54,
+      "episode": 54,
+      "title": "Crash Training Course",
+      "diziid": "gvl",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/54/hizli_kurs"
+    },
+    {
+      "season": 55,
+      "episode": 55,
+      "title": "As Far as Bear Can Remember",
+      "diziid": "gvl",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/55/ayinin_anilari"
+    },
+    {
+      "season": 56,
+      "episode": 56,
+      "title": "Chemical Lemmings",
+      "diziid": "gvl",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/56/kimyasal_lemmingler"
+    },
+    {
+      "season": 57,
+      "episode": 57,
+      "title": "Remote Control",
+      "diziid": "gvl",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/57/uzaktan_kumanda"
+    },
+    {
+      "season": 58,
+      "episode": 58,
+      "title": "Bear and Butterfly",
+      "diziid": "gvl",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/58/ayiyla_kelebek"
+    },
+    {
+      "season": 59,
+      "episode": 59,
+      "title": "Get Off My Tennis Shoes",
+      "diziid": "gvl",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/59/tenis_ayakkabilarimi_birak"
+    },
+    {
+      "season": 60,
+      "episode": 60,
+      "title": "Babysitting",
+      "diziid": "gvl",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/60/cocuk_bakicisi"
+    },
+    {
+      "season": 61,
+      "episode": 61,
+      "title": "Bear Under Lock and Key",
+      "diziid": "gvl",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/61/kilitli_ayi"
+    },
+    {
+      "season": 62,
+      "episode": 62,
+      "title": "Lemming Blues",
+      "diziid": "gvl",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/62/lemmingler_yolcu"
+    },
+    {
+      "season": 63,
+      "episode": 63,
+      "title": "Snow Lemmings",
+      "diziid": "gvl",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/63/kar_lemmingleri"
+    },
+    {
+      "season": 64,
+      "episode": 64,
+      "title": "Augmented Bear",
+      "diziid": "gvl",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/64/gercek_ayi"
+    },
+    {
+      "season": 65,
+      "episode": 65,
+      "title": "Lemmings Under Pressure",
+      "diziid": "gvl",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/65/basincli_lemmingler"
+    },
+    {
+      "season": 66,
+      "episode": 66,
+      "title": "Lemmings in Space",
+      "diziid": "gvl",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/66/lemmingler_uzayda"
+    },
+    {
+      "season": 67,
+      "episode": 67,
+      "title": "Sniffer Raccoon",
+      "diziid": "gvl",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/67/burnunu_sokan_rakun"
+    },
+    {
+      "season": 68,
+      "episode": 68,
+      "title": "Transformational Bear",
+      "diziid": "gvl",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/68/donusumcu_ayi"
+    },
+    {
+      "season": 69,
+      "episode": 69,
+      "title": "Shaken-Up Bear",
+      "diziid": "gvl",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/69/ayi_karisimi"
+    },
+    {
+      "season": 70,
+      "episode": 70,
+      "title": "PiÃ±ata Party",
+      "diziid": "gvl",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/70/pinyata_parti"
+    },
+    {
+      "season": 71,
+      "episode": 71,
+      "title": "Bear Game",
+      "diziid": "gvl",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/71/ayi_oyunu"
+    },
+    {
+      "season": 72,
+      "episode": 72,
+      "title": "Ranger Lemming",
+      "diziid": "gvl",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/72/korucu_lemmingler"
+    },
+    {
+      "season": 73,
+      "episode": 73,
+      "title": "Halloween Bear",
+      "diziid": "gvl",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/73/ayilar_bayrami"
+    },
+    {
+      "season": 74,
+      "episode": 74,
+      "title": "Clean Bear",
+      "diziid": "gvl",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/74/temiz_ayi"
+    },
+    {
+      "season": 75,
+      "episode": 75,
+      "title": "Wandering Spirits",
+      "diziid": "gvl",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/75/degisen_hayvanlar"
+    },
+    {
+      "season": 76,
+      "episode": 76,
+      "title": "Mirror, Mirror on the Wall",
+      "diziid": "gvl",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/76/ayna_ayna_soyle_bana"
+    },
+    {
+      "season": 77,
+      "episode": 77,
+      "title": "Grizzy the Wizard",
+      "diziid": "gvl",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/77/sihirbaz_grizzy"
+    },
+    {
+      "season": 78,
+      "episode": 78,
+      "title": "Moonwalk Bear",
+      "diziid": "gvl",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/78/ayda_yuruyen"
+    },
+    {
+      "season": 1,
+      "episode": 79,
+      "title": "Camping in the Wild",
+      "diziid": "gvl",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/79/dogada_kamp"
+    },
+    {
+      "season": 2,
+      "episode": 80,
+      "title": "Carried Away Bear",
+      "diziid": "gvl",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/80/kendini_kaptiran_ayi"
+    },
+    {
+      "season": 3,
+      "episode": 81,
+      "title": "Ice & Bears",
+      "diziid": "gvl",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/81/buz_ve_ayilar"
+    },
+    {
+      "season": 4,
+      "episode": 82,
+      "title": "Fountain of Bear Youth",
+      "diziid": "gvl",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/82/genclik_pinari"
+    },
+    {
+      "season": 5,
+      "episode": 83,
+      "title": "Lemmings Kit",
+      "diziid": "gvl",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/83/lemming_arac_gereci"
+    },
+    {
+      "season": 6,
+      "episode": 84,
+      "title": "Timeless Bear",
+      "diziid": "gvl",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/84/zamansiz_ayi"
+    },
+    {
+      "season": 7,
+      "episode": 85,
+      "title": "Irresistible Bear",
+      "diziid": "gvl",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/85/karsi_konulmaz_ayi"
+    },
+    {
+      "season": 8,
+      "episode": 86,
+      "title": "Yummy Fly",
+      "diziid": "gvl",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/86/lezziz_sinek"
+    },
+    {
+      "season": 9,
+      "episode": 87,
+      "title": "Call of the Bear",
+      "diziid": "gvl",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/87/ayiyi_cagirmak"
+    },
+    {
+      "season": 10,
+      "episode": 88,
+      "title": "Weightless Bear",
+      "diziid": "gvl",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/88/agirliksiz_ayi"
+    },
+    {
+      "season": 11,
+      "episode": 89,
+      "title": "Sleight of Hand",
+      "diziid": "gvl",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/89/el_cabuklugu"
+    },
+    {
+      "season": 12,
+      "episode": 90,
+      "title": "No See, No Do",
+      "diziid": "gvl",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/90/gormedim%2C_yapmadim"
+    },
+    {
+      "season": 13,
+      "episode": 91,
+      "title": "Good Bear, Bad Bear",
+      "diziid": "gvl",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/91/iyi_ayi%2C_kotu_ayi"
+    },
+    {
+      "season": 14,
+      "episode": 92,
+      "title": "High-Risk Driving",
+      "diziid": "gvl",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/92/riskli_surus"
+    },
+    {
+      "season": 15,
+      "episode": 93,
+      "title": "Bear Predictions",
+      "diziid": "gvl",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/93/ayi_tahmini"
+    },
+    {
+      "season": 16,
+      "episode": 94,
+      "title": "Lemming Beach",
+      "diziid": "gvl",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/94/lemming_plaji"
+    },
+    {
+      "season": 17,
+      "episode": 95,
+      "title": "Of Fur and Swords",
+      "diziid": "gvl",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/95/kurk_ve_kilic"
+    },
+    {
+      "season": 18,
+      "episode": 96,
+      "title": "Lemmings Board",
+      "diziid": "gvl",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/96/lemming_kaykayi"
+    },
+    {
+      "season": 19,
+      "episode": 97,
+      "title": "Animal Pics",
+      "diziid": "gvl",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/97/hayvan_fotograflari"
+    },
+    {
+      "season": 20,
+      "episode": 98,
+      "title": "Bear Diet",
+      "diziid": "gvl",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/98/ayi_diyeti"
+    },
+    {
+      "season": 21,
+      "episode": 99,
+      "title": "Balloon Bear",
+      "diziid": "gvl",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/99/baloncu_ayi"
+    },
+    {
+      "season": 22,
+      "episode": 100,
+      "title": "Bear Pillow",
+      "diziid": "gvl",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/100/ayi_yastigi"
+    },
+    {
+      "season": 23,
+      "episode": 101,
+      "title": "Hooks and Loops Bear",
+      "diziid": "gvl",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/101/cirt_cirt_ayi"
+    },
+    {
+      "season": 24,
+      "episode": 102,
+      "title": "Fast Workout",
+      "diziid": "gvl",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/102/hizli_antrenman"
+    },
+    {
+      "season": 25,
+      "episode": 103,
+      "title": "BatGrizzy",
+      "diziid": "gvl",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/103/yarasa_boz_ayi"
+    },
+    {
+      "season": 26,
+      "episode": 104,
+      "title": "Moveable Apps",
+      "diziid": "gvl",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/104/tasinabilir_uygulamalar"
+    },
+    {
+      "season": 27,
+      "episode": 105,
+      "title": "Giant Package",
+      "diziid": "gvl",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/105/devasa_paket"
+    },
+    {
+      "season": 28,
+      "episode": 106,
+      "title": "Wild Bear Neighbor",
+      "diziid": "gvl",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/106/komsu_vahsi_ayi"
+    },
+    {
+      "season": 29,
+      "episode": 107,
+      "title": "Zap!",
+      "diziid": "gvl",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/107/zaplama"
+    },
+    {
+      "season": 30,
+      "episode": 108,
+      "title": "Watch Out, Lemmings",
+      "diziid": "gvl",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/108/dikkat%3A_lemmingler"
+    },
+    {
+      "season": 31,
+      "episode": 109,
+      "title": "Bouncing Bear",
+      "diziid": "gvl",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/109/ziplayan_ayi"
+    },
+    {
+      "season": 32,
+      "episode": 110,
+      "title": "Masked Raccoon",
+      "diziid": "gvl",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/110/maskeli_rakun"
+    },
+    {
+      "season": 33,
+      "episode": 111,
+      "title": "Spinning Lemmings",
+      "diziid": "gvl",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/111/firildak_lemmingler"
+    },
+    {
+      "season": 34,
+      "episode": 112,
+      "title": "Game Madness",
+      "diziid": "gvl",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/112/oyun_cilginligi"
+    },
+    {
+      "season": 35,
+      "episode": 113,
+      "title": "Household Avatar",
+      "diziid": "gvl",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/113/gundelik_avatar"
+    },
+    {
+      "season": 36,
+      "episode": 114,
+      "title": "Beastly Genie",
+      "diziid": "gvl",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/114/kotu_yaratik"
+    },
+    {
+      "season": 37,
+      "episode": 115,
+      "title": "Make Peace Not War",
+      "diziid": "gvl",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/115/savasla_baris"
+    },
+    {
+      "season": 38,
+      "episode": 116,
+      "title": "Disguised Reality",
+      "diziid": "gvl",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/116/gizlenmis_gercek"
+    },
+    {
+      "season": 39,
+      "episode": 117,
+      "title": "Folds and Folds Again",
+      "diziid": "gvl",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/117/katla_ve_katla"
+    },
+    {
+      "season": 40,
+      "episode": 118,
+      "title": "Cartoon Bear",
+      "diziid": "gvl",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/118/cizgi_film"
+    },
+    {
+      "season": 41,
+      "episode": 119,
+      "title": "XXL Bear",
+      "diziid": "gvl",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/119/cok_iri_ayi"
+    },
+    {
+      "season": 42,
+      "episode": 120,
+      "title": "Never Judge a Bear by Its Cover",
+      "diziid": "gvl",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/120/bir_ayiyi_dis_gorunusuyle_yargilama"
+    },
+    {
+      "season": 43,
+      "episode": 121,
+      "title": "Bear Glasses",
+      "diziid": "gvl",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/121/ayi_gozlugu"
+    },
+    {
+      "season": 44,
+      "episode": 122,
+      "title": "Bear Under Close Protection",
+      "diziid": "gvl",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/122/yakin_gozlem_altindaki_ayi"
+    },
+    {
+      "season": 45,
+      "episode": 123,
+      "title": "Zero Visibility",
+      "diziid": "gvl",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/123/gorunmezlik"
+    },
+    {
+      "season": 46,
+      "episode": 124,
+      "title": "Intensive Care",
+      "diziid": "gvl",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/124/yogun_bakim"
+    },
+    {
+      "season": 47,
+      "episode": 125,
+      "title": "Lemming Gum",
+      "diziid": "gvl",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/125/lemming_sakizi"
+    },
+    {
+      "season": 48,
+      "episode": 126,
+      "title": "Lemming Juice",
+      "diziid": "gvl",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/126/lemming_meyve_suyu"
+    },
+    {
+      "season": 49,
+      "episode": 127,
+      "title": "Zen Bear",
+      "diziid": "gvl",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/127/zen_ayi"
+    },
+    {
+      "season": 50,
+      "episode": 128,
+      "title": "Delete Key",
+      "diziid": "gvl",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/128/silme_tusu"
+    },
+    {
+      "season": 51,
+      "episode": 129,
+      "title": "Lemming Bowling",
+      "diziid": "gvl",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/129/lemming_bowlingi"
+    },
+    {
+      "season": 52,
+      "episode": 130,
+      "title": "Mushroom Hunt",
+      "diziid": "gvl",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/130/mantar_avi"
+    },
+    {
+      "season": 53,
+      "episode": 131,
+      "title": "Flying Bear",
+      "diziid": "gvl",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/131/ucan_ayi"
+    },
+    {
+      "season": 54,
+      "episode": 132,
+      "title": "Circus Bear",
+      "diziid": "gvl",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/132/sirk_ayisi"
+    },
+    {
+      "season": 55,
+      "episode": 133,
+      "title": "Electro Ranger Lemming",
+      "diziid": "gvl",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/133/elektro_korucu_lemming"
+    },
+    {
+      "season": 56,
+      "episode": 134,
+      "title": "Remote-Controlled Bear",
+      "diziid": "gvl",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/134/kumandali_ayi"
+    },
+    {
+      "season": 57,
+      "episode": 135,
+      "title": "Bear Behind the Wheel",
+      "diziid": "gvl",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/135/direksiyondaki_ayi"
+    },
+    {
+      "season": 58,
+      "episode": 136,
+      "title": "Rolling Cabin",
+      "diziid": "gvl",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/136/sallanan_kulube"
+    },
+    {
+      "season": 59,
+      "episode": 137,
+      "title": "Lemmings Plant",
+      "diziid": "gvl",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/137/lemming_bitkisi"
+    },
+    {
+      "season": 60,
+      "episode": 138,
+      "title": "Target Bear",
+      "diziid": "gvl",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/138/hedef_ayi"
+    },
+    {
+      "season": 61,
+      "episode": 139,
+      "title": "Northern Lights",
+      "diziid": "gvl",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/139/kuzey_isiklari"
+    },
+    {
+      "season": 62,
+      "episode": 140,
+      "title": "Tick Tock Bear",
+      "diziid": "gvl",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/140/tik_tak_ayi"
+    },
+    {
+      "season": 63,
+      "episode": 141,
+      "title": "Dreams on Command",
+      "diziid": "gvl",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/141/emrimdeki_ruyalar"
+    },
+    {
+      "season": 64,
+      "episode": 142,
+      "title": "Elementary Lemmings",
+      "diziid": "gvl",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/142/elementer_lemming"
+    },
+    {
+      "season": 65,
+      "episode": 143,
+      "title": "Bear Sitter",
+      "diziid": "gvl",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/143/ayi_bakici"
+    },
+    {
+      "season": 66,
+      "episode": 144,
+      "title": "Rainbow Moose",
+      "diziid": "gvl",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/144/gokkusagi_geyigi"
+    },
+    {
+      "season": 67,
+      "episode": 145,
+      "title": "Radar Bear",
+      "diziid": "gvl",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/145/radar_ayi"
+    },
+    {
+      "season": 68,
+      "episode": 146,
+      "title": "Zorbing Lemmings",
+      "diziid": "gvl",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/146/zorbing_yapay_lemming"
+    },
+    {
+      "season": 69,
+      "episode": 147,
+      "title": "Air Trafficking",
+      "diziid": "gvl",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/147/havadan_ticaret"
+    },
+    {
+      "season": 70,
+      "episode": 148,
+      "title": "A Lemmings Fairy Tale",
+      "diziid": "gvl",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/148/bir_lemming_peri_masali"
+    },
+    {
+      "season": 71,
+      "episode": 149,
+      "title": "Slam Dunk Lemmings",
+      "diziid": "gvl",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/149/smacor_lemming"
+    },
+    {
+      "season": 72,
+      "episode": 150,
+      "title": "Uncouth Bear",
+      "diziid": "gvl",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/150/kaba_ayi"
+    },
+    {
+      "season": 73,
+      "episode": 151,
+      "title": "Passing Through Walls",
+      "diziid": "gvl",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/151/duvardan_gecmek"
+    },
+    {
+      "season": 74,
+      "episode": 152,
+      "title": "Eagle Spirit",
+      "diziid": "gvl",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/152/kartal_ruhu"
+    },
+    {
+      "season": 75,
+      "episode": 153,
+      "title": "Rock 'N' Lemmings",
+      "diziid": "gvl",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/153/rock_n_roll_lemming"
+    },
+    {
+      "season": 76,
+      "episode": 154,
+      "title": "Hulking Lemmings",
+      "diziid": "gvl",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/154/iri_yari_lemming"
+    },
+    {
+      "season": 77,
+      "episode": 155,
+      "title": "Ancestral Bear",
+      "diziid": "gvl",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/155/gecmisten_gelen_ayi"
+    },
+    {
+      "season": 78,
+      "episode": 156,
+      "title": "Hocus Pocus Lemmingus",
+      "diziid": "gvl",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/156/hokus_pokus_lemmingus"
+    },
+    {
+      "season": 1,
+      "episode": 157,
+      "title": "Fortune Lemming",
+      "diziid": "gvl",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/157/niyet_kurabiyeleri"
+    },
+    {
+      "season": 2,
+      "episode": 158,
+      "title": "Tough Medicine",
+      "diziid": "gvl",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/158/cetin_tip"
+    },
+    {
+      "season": 3,
+      "episode": 159,
+      "title": "Domestic Shaolin",
+      "diziid": "gvl",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/159/evdeki_shaolin"
+    },
+    {
+      "season": 4,
+      "episode": 160,
+      "title": "Peaceable Enemies",
+      "diziid": "gvl",
+      "bolum": "160",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/160/bariscil_rakip"
+    },
+    {
+      "season": 5,
+      "episode": 161,
+      "title": "The Legend of the Lemmings",
+      "diziid": "gvl",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/161/lemming_efsanesi"
+    },
+    {
+      "season": 6,
+      "episode": 162,
+      "title": "Dragons & Bears",
+      "diziid": "gvl",
+      "bolum": "162",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/162/ejderhalar_ve_ayilar"
+    },
+    {
+      "season": 7,
+      "episode": 163,
+      "title": "Bamboo Warfare",
+      "diziid": "gvl",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/163/bamboo_savasi"
+    },
+    {
+      "season": 8,
+      "episode": 164,
+      "title": "Bear in the Clouds",
+      "diziid": "gvl",
+      "bolum": "164",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/164/buluttaki_ayi"
+    },
+    {
+      "season": 9,
+      "episode": 165,
+      "title": "Umbrella Tactics",
+      "diziid": "gvl",
+      "bolum": "165",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/165/semsiye_taktikleri"
+    },
+    {
+      "season": 10,
+      "episode": 166,
+      "title": "Neither Yin nor Yang",
+      "diziid": "gvl",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/166/ne_yin%2C_ne_yang"
+    },
+    {
+      "season": 11,
+      "episode": 167,
+      "title": "Mechatronic Bear",
+      "diziid": "gvl",
+      "bolum": "167",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/167/mekatronik_ayi"
+    },
+    {
+      "season": 12,
+      "episode": 168,
+      "title": "Tai Chi Lemmings",
+      "diziid": "gvl",
+      "bolum": "168",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/168/tai_chi_yapan_lemmingler"
+    },
+    {
+      "season": 13,
+      "episode": 169,
+      "title": "Fireworks Cabin",
+      "diziid": "gvl",
+      "bolum": "169",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/169/havai_fisek_kulube"
+    },
+    {
+      "season": 14,
+      "episode": 170,
+      "title": "Diving in the Wild",
+      "diziid": "gvl",
+      "bolum": "170",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/170/vahsi_dalis"
+    },
+    {
+      "season": 15,
+      "episode": 171,
+      "title": "Cocochoco",
+      "diziid": "gvl",
+      "bolum": "171",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/171/hindistan_cevizi_-_sutlu_kakao"
+    },
+    {
+      "season": 16,
+      "episode": 172,
+      "title": "Parasailing Fishing",
+      "diziid": "gvl",
+      "bolum": "172",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/172/parasailingli_ag"
+    },
+    {
+      "season": 17,
+      "episode": 173,
+      "title": "Yummy Pirates",
+      "diziid": "gvl",
+      "bolum": "173",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/173/lezziz_korsanlar"
+    },
+    {
+      "season": 18,
+      "episode": 174,
+      "title": "Sea Excursion",
+      "diziid": "gvl",
+      "bolum": "174",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/174/deniz_gezisi"
+    },
+    {
+      "season": 19,
+      "episode": 175,
+      "title": "Sand Lemmings",
+      "diziid": "gvl",
+      "bolum": "175",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/175/kum_lemmingleri"
+    },
+    {
+      "season": 20,
+      "episode": 176,
+      "title": "Non-Peaceful Coaching",
+      "diziid": "gvl",
+      "bolum": "176",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/176/bariscil_olmayan_kocluk"
+    },
+    {
+      "season": 21,
+      "episode": 177,
+      "title": "Bear in Troubled Waters",
+      "diziid": "gvl",
+      "bolum": "177",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/177/zor_durumdaki_ayi"
+    },
+    {
+      "season": 22,
+      "episode": 178,
+      "title": "Earthquake-Proof Bear",
+      "diziid": "gvl",
+      "bolum": "178",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/178/depreme_dayanikli_ayi"
+    },
+    {
+      "season": 23,
+      "episode": 179,
+      "title": "Competitive Spirit",
+      "diziid": "gvl",
+      "bolum": "179",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/179/musabaka_ruhu"
+    },
+    {
+      "season": 24,
+      "episode": 180,
+      "title": "Jack-of-All-Trades Crab",
+      "diziid": "gvl",
+      "bolum": "180",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/180/ufak_tefek_is_yengeci"
+    },
+    {
+      "season": 25,
+      "episode": 181,
+      "title": "Patience Trial",
+      "diziid": "gvl",
+      "bolum": "181",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/181/sabrin_sonu_selamet"
+    },
+    {
+      "season": 26,
+      "episode": 182,
+      "title": "Outboard Cabin",
+      "diziid": "gvl",
+      "bolum": "182",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/182/distan_motorlu_kulube"
+    },
+    {
+      "season": 27,
+      "episode": 183,
+      "title": "Parental Overload",
+      "diziid": "gvl",
+      "bolum": "183",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/183/fazla_korumaci_ebeveynlik"
+    },
+    {
+      "season": 28,
+      "episode": 184,
+      "title": "The Attraction of Lemmings",
+      "diziid": "gvl",
+      "bolum": "184",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/184/lemminglerin_cekim_gucu"
+    },
+    {
+      "season": 29,
+      "episode": 185,
+      "title": "Extreme Domino",
+      "diziid": "gvl",
+      "bolum": "185",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/185/asiri_domino"
+    },
+    {
+      "season": 30,
+      "episode": 186,
+      "title": "Surprise Deglaciation",
+      "diziid": "gvl",
+      "bolum": "186",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/186/surpriz_erime"
+    },
+    {
+      "season": 31,
+      "episode": 187,
+      "title": "Thermal Lemmings",
+      "diziid": "gvl",
+      "bolum": "187",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/187/isi_yayan_lemmingler"
+    },
+    {
+      "season": 32,
+      "episode": 188,
+      "title": "Substitute Egg",
+      "diziid": "gvl",
+      "bolum": "188",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/188/yedek_yumurta"
+    },
+    {
+      "season": 33,
+      "episode": 189,
+      "title": "Lemming Constellation",
+      "diziid": "gvl",
+      "bolum": "189",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/189/lemming_takim_yildizi"
+    },
+    {
+      "season": 34,
+      "episode": 190,
+      "title": "Spinning Lemmings",
+      "diziid": "gvl",
+      "bolum": "190",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/190/donen_lemmingler"
+    },
+    {
+      "season": 35,
+      "episode": 191,
+      "title": "Polar Superstar",
+      "diziid": "gvl",
+      "bolum": "191",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/191/kutuplarin_super_yildizi"
+    },
+    {
+      "season": 36,
+      "episode": 192,
+      "title": "My Friend the Penguin",
+      "diziid": "gvl",
+      "bolum": "192",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/192/dostum_penguen"
+    },
+    {
+      "season": 37,
+      "episode": 193,
+      "title": "Thermal Shock!",
+      "diziid": "gvl",
+      "bolum": "193",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/193/termal_sok%21"
+    },
+    {
+      "season": 38,
+      "episode": 194,
+      "title": "Primitive Activities",
+      "diziid": "gvl",
+      "bolum": "194",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/194/ilkel_aktiviteler"
+    },
+    {
+      "season": 39,
+      "episode": 195,
+      "title": "Cabin on Ice",
+      "diziid": "gvl",
+      "bolum": "195",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/195/buzda_kulube"
+    },
+    {
+      "season": 40,
+      "episode": 196,
+      "title": "Return of the Loved One",
+      "diziid": "gvl",
+      "bolum": "196",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/196/arkadasin_donusu"
+    },
+    {
+      "season": 41,
+      "episode": 197,
+      "title": "Masked Powers",
+      "diziid": "gvl",
+      "bolum": "197",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/197/maskenin_gucu"
+    },
+    {
+      "season": 42,
+      "episode": 198,
+      "title": "Buzzing Lemmings",
+      "diziid": "gvl",
+      "bolum": "198",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/198/kapisan_lemmingler"
+    },
+    {
+      "season": 43,
+      "episode": 199,
+      "title": "Mini Troubles",
+      "diziid": "gvl",
+      "bolum": "199",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/199/kucuk_sorunlar"
+    },
+    {
+      "season": 44,
+      "episode": 200,
+      "title": "For Peanuts",
+      "diziid": "gvl",
+      "bolum": "200",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/200/fistik_icin"
+    },
+    {
+      "season": 45,
+      "episode": 201,
+      "title": "Within Snout's Reach",
+      "diziid": "gvl",
+      "bolum": "201",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/201/yemek_pesinde"
+    },
+    {
+      "season": 46,
+      "episode": 202,
+      "title": "Safari Express",
+      "diziid": "gvl",
+      "bolum": "202",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/202/safari_turu"
+    },
+    {
+      "season": 47,
+      "episode": 203,
+      "title": "False Son",
+      "diziid": "gvl",
+      "bolum": "203",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/203/yanlis_yumurta"
+    },
+    {
+      "season": 48,
+      "episode": 204,
+      "title": "The Stone Throne",
+      "diziid": "gvl",
+      "bolum": "204",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/204/koltuk_savasi"
+    },
+    {
+      "season": 49,
+      "episode": 205,
+      "title": "Tam-Tam Lemming",
+      "diziid": "gvl",
+      "bolum": "205",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/205/tam-tam_lemmingler"
+    },
+    {
+      "season": 50,
+      "episode": 206,
+      "title": "Completely Frosted!",
+      "diziid": "gvl",
+      "bolum": "206",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/206/buz_cilginligi%21"
+    },
+    {
+      "season": 51,
+      "episode": 207,
+      "title": "In Your Dreams",
+      "diziid": "gvl",
+      "bolum": "207",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/207/tatli_ruyalar"
+    },
+    {
+      "season": 52,
+      "episode": 208,
+      "title": "Supervoltaic Cabin",
+      "diziid": "gvl",
+      "bolum": "208",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/208/kendi_elektrigini_ureten_kulube"
+    },
+    {
+      "season": 53,
+      "episode": 209,
+      "title": "1 + 1 = 1",
+      "diziid": "gvl",
+      "bolum": "209",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/209/1%2B1%3D1"
+    },
+    {
+      "season": 54,
+      "episode": 210,
+      "title": "Jelly Lemmings",
+      "diziid": "gvl",
+      "bolum": "210",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/210/lemming_jolesi"
+    },
+    {
+      "season": 55,
+      "episode": 211,
+      "title": "Lemming Throwing",
+      "diziid": "gvl",
+      "bolum": "211",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/211/ciritci_lemmingler"
+    },
+    {
+      "season": 56,
+      "episode": 212,
+      "title": "FrankenGrizzy",
+      "diziid": "gvl",
+      "bolum": "212",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/212/frankengrizzy"
+    },
+    {
+      "season": 57,
+      "episode": 213,
+      "title": "Lemming on Canvas",
+      "diziid": "gvl",
+      "bolum": "213",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/213/tuval_uzerinde_lemming"
+    },
+    {
+      "season": 58,
+      "episode": 214,
+      "title": "Musical Discord",
+      "diziid": "gvl",
+      "bolum": "214",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/214/muzikal_uyumsuzluk"
+    },
+    {
+      "season": 59,
+      "episode": 215,
+      "title": "Bear in the Sheepfold",
+      "diziid": "gvl",
+      "bolum": "215",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/215/agilda_bir_ayi"
+    },
+    {
+      "season": 60,
+      "episode": 216,
+      "title": "Jelly World",
+      "diziid": "gvl",
+      "bolum": "216",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/216/jole_dunya"
+    },
+    {
+      "season": 61,
+      "episode": 217,
+      "title": "Pet Sheep",
+      "diziid": "gvl",
+      "bolum": "217",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/217/evcil_koyun"
+    },
+    {
+      "season": 62,
+      "episode": 218,
+      "title": "Sheep Jousting",
+      "diziid": "gvl",
+      "bolum": "218",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/218/koyunlu_mizrak_dovusu"
+    },
+    {
+      "season": 63,
+      "episode": 219,
+      "title": "Phantom Food",
+      "diziid": "gvl",
+      "bolum": "219",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/219/hayalet_yiyecekler"
+    },
+    {
+      "season": 64,
+      "episode": 220,
+      "title": "Book Fair",
+      "diziid": "gvl",
+      "bolum": "220",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/220/kitap_fuari"
+    },
+    {
+      "season": 65,
+      "episode": 221,
+      "title": "Strange Cabinet",
+      "diziid": "gvl",
+      "bolum": "221",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/221/tuhaf_dolap"
+    },
+    {
+      "season": 66,
+      "episode": 222,
+      "title": "The Bear, the Frog and the Mosquito",
+      "diziid": "gvl",
+      "bolum": "222",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/222/ayi%2C_kurbaga_ve_sivrisinek"
+    },
+    {
+      "season": 67,
+      "episode": 223,
+      "title": "Musical Battle",
+      "diziid": "gvl",
+      "bolum": "223",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/223/muzik_savasi"
+    },
+    {
+      "season": 68,
+      "episode": 224,
+      "title": "Day and Night",
+      "diziid": "gvl",
+      "bolum": "224",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/224/gece_gunduz"
+    },
+    {
+      "season": 69,
+      "episode": 225,
+      "title": "Pinball Lemmings",
+      "diziid": "gvl",
+      "bolum": "225",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/225/tilt_oynayan_lemmingler"
+    },
+    {
+      "season": 70,
+      "episode": 226,
+      "title": "Amateur Florist",
+      "diziid": "gvl",
+      "bolum": "226",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/226/hobi_cicekciligi"
+    },
+    {
+      "season": 71,
+      "episode": 227,
+      "title": "Generational Conflict",
+      "diziid": "gvl",
+      "bolum": "227",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/227/kusaklar_arasi_anlasmazlik"
+    },
+    {
+      "season": 72,
+      "episode": 228,
+      "title": "Out of Breath",
+      "diziid": "gvl",
+      "bolum": "228",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/228/nefes_nefese"
+    },
+    {
+      "season": 73,
+      "episode": 229,
+      "title": "Ancient Enigma",
+      "diziid": "gvl",
+      "bolum": "229",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/229/kadim_muamma"
+    },
+    {
+      "season": 74,
+      "episode": 230,
+      "title": "Armchair Wrestling",
+      "diziid": "gvl",
+      "bolum": "230",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/230/koltuk_guresi"
+    },
+    {
+      "season": 75,
+      "episode": 231,
+      "title": "Gold Rush",
+      "diziid": "gvl",
+      "bolum": "231",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/231/altina_hucum"
+    },
+    {
+      "season": 76,
+      "episode": 232,
+      "title": "Thief Reaction",
+      "diziid": "gvl",
+      "bolum": "232",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/232/hirsiza_tepki"
+    },
+    {
+      "season": 77,
+      "episode": 233,
+      "title": "High Voltage Fireflies",
+      "diziid": "gvl",
+      "bolum": "233",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/233/yuksek_voltajli_ates_bocekleri"
+    },
+    {
+      "season": 78,
+      "episode": 234,
+      "title": "Skull of Discord",
+      "diziid": "gvl",
+      "bolum": "234",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/234/anlasmazlik_kuru_kafasi"
+    },
+    {
+      "season": 1,
+      "episode": 235,
+      "title": "Star of the Day",
+      "diziid": "gvl",
+      "bolum": "235",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/235/gununde_olmak"
+    },
+    {
+      "season": 2,
+      "episode": 236,
+      "title": "Diabolical Labyrinth",
+      "diziid": "gvl",
+      "bolum": "236",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/236/berbat_labirent"
+    },
+    {
+      "season": 3,
+      "episode": 237,
+      "title": "Cosy Nest",
+      "diziid": "gvl",
+      "bolum": "237",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/237/rahat_yuva"
+    },
+    {
+      "season": 4,
+      "episode": 238,
+      "title": "Strong Will",
+      "diziid": "gvl",
+      "bolum": "238",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/238/guclu_irade"
+    },
+    {
+      "season": 5,
+      "episode": 239,
+      "title": "Desired Orientation",
+      "diziid": "gvl",
+      "bolum": "239",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/239/istenilen_oryantasyon"
+    },
+    {
+      "season": 6,
+      "episode": 240,
+      "title": "24-Carat Chocolate",
+      "diziid": "gvl",
+      "bolum": "240",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/240/altin_cikolata"
+    },
+    {
+      "season": 7,
+      "episode": 241,
+      "title": "Jungle Rhythm",
+      "diziid": "gvl",
+      "bolum": "241",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/241/orman_ritmi"
+    },
+    {
+      "season": 8,
+      "episode": 242,
+      "title": "The Grizming",
+      "diziid": "gvl",
+      "bolum": "242",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/242/ayi_sicani"
+    },
+    {
+      "season": 9,
+      "episode": 243,
+      "title": "For Real",
+      "diziid": "gvl",
+      "bolum": "243",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/243/gercekler"
+    },
+    {
+      "season": 10,
+      "episode": 244,
+      "title": "Cocoa Tree Spread",
+      "diziid": "gvl",
+      "bolum": "244",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/244/kakao_agaci_ezmesi"
+    },
+    {
+      "season": 11,
+      "episode": 245,
+      "title": "Wild Mutations",
+      "diziid": "gvl",
+      "bolum": "245",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/245/vahsi_mutasyonlar"
+    },
+    {
+      "season": 12,
+      "episode": 246,
+      "title": "Every Which Way",
+      "diziid": "gvl",
+      "bolum": "246",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/246/her_yone"
+    },
+    {
+      "season": 13,
+      "episode": 247,
+      "title": "Cabin in the Moon",
+      "diziid": "gvl",
+      "bolum": "247",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/247/aydaki_kulube"
+    },
+    {
+      "season": 14,
+      "episode": 248,
+      "title": "Grizzy Academy",
+      "diziid": "gvl",
+      "bolum": "248",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/248/grizzy_akademisi"
+    },
+    {
+      "season": 15,
+      "episode": 249,
+      "title": "Well Deserved",
+      "diziid": "gvl",
+      "bolum": "249",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/249/hak_edilen"
+    },
+    {
+      "season": 16,
+      "episode": 250,
+      "title": "Programme on Demand",
+      "diziid": "gvl",
+      "bolum": "250",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/250/talep_uzerine_program"
+    },
+    {
+      "season": 17,
+      "episode": 251,
+      "title": "Frosty Cup",
+      "diziid": "gvl",
+      "bolum": "251",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/251/soguk_kupasi"
+    },
+    {
+      "season": 18,
+      "episode": 252,
+      "title": "Choco Granito",
+      "diziid": "gvl",
+      "bolum": "252",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/252/donmus_kakao"
+    },
+    {
+      "season": 19,
+      "episode": 253,
+      "title": "Quick Meal",
+      "diziid": "gvl",
+      "bolum": "253",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/253/hizli_atistirmalik"
+    },
+    {
+      "season": 20,
+      "episode": 254,
+      "title": "Digital Taming",
+      "diziid": "gvl",
+      "bolum": "254",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/254/dijital_avlanma"
+    },
+    {
+      "season": 21,
+      "episode": 255,
+      "title": "Glacial Carrot",
+      "diziid": "gvl",
+      "bolum": "255",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/255/buzlu_havuc"
+    },
+    {
+      "season": 22,
+      "episode": 256,
+      "title": "Evil Spirit",
+      "diziid": "gvl",
+      "bolum": "256",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/256/canavar"
+    },
+    {
+      "season": 23,
+      "episode": 257,
+      "title": "Sounds and Visions",
+      "diziid": "gvl",
+      "bolum": "257",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/257/sesler_ve_goruntuler"
+    },
+    {
+      "season": 24,
+      "episode": 258,
+      "title": "Iced Grizzy",
+      "diziid": "gvl",
+      "bolum": "258",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/258/buzdan_grizzy"
+    },
+    {
+      "season": 25,
+      "episode": 259,
+      "title": "Yummy Indigestion",
+      "diziid": "gvl",
+      "bolum": "259",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/259/leziz_hazimsilik"
+    },
+    {
+      "season": 26,
+      "episode": 260,
+      "title": "Yeti Cabin",
+      "diziid": "gvl",
+      "bolum": "260",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/260/yeti_kulubesi"
+    },
+    {
+      "season": 27,
+      "episode": 261,
+      "title": "Nutty Family",
+      "diziid": "gvl",
+      "bolum": "261",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/261/hindistan_cevizi_aile"
+    },
+    {
+      "season": 28,
+      "episode": 262,
+      "title": "Badly Sprained Bear",
+      "diziid": "gvl",
+      "bolum": "262",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/262/hasta_olma_numarasi"
+    },
+    {
+      "season": 29,
+      "episode": 263,
+      "title": "Winning Tokens",
+      "diziid": "gvl",
+      "bolum": "263",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/263/kazanan_jetonlar"
+    },
+    {
+      "season": 30,
+      "episode": 264,
+      "title": "Game of Marbles",
+      "diziid": "gvl",
+      "bolum": "264",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/264/misket_oyunu"
+    },
+    {
+      "season": 31,
+      "episode": 265,
+      "title": "Five-Star Bowl",
+      "diziid": "gvl",
+      "bolum": "265",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/265/bes_yildizli_kase"
+    },
+    {
+      "season": 32,
+      "episode": 266,
+      "title": "Lost Object",
+      "diziid": "gvl",
+      "bolum": "266",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/266/kayip_esya"
+    },
+    {
+      "season": 33,
+      "episode": 267,
+      "title": "Crab Crush",
+      "diziid": "gvl",
+      "bolum": "267",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/267/yengec_pesinde"
+    },
+    {
+      "season": 34,
+      "episode": 268,
+      "title": "Pirates in Sight",
+      "diziid": "gvl",
+      "bolum": "268",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/268/gorunen_korsanlar"
+    },
+    {
+      "season": 35,
+      "episode": 269,
+      "title": "Crab Basket",
+      "diziid": "gvl",
+      "bolum": "269",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/269/yengec_sepeti"
+    },
+    {
+      "season": 36,
+      "episode": 270,
+      "title": "Grizzy's Odyssey",
+      "diziid": "gvl",
+      "bolum": "270",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/270/grizzy%E2%80%99nin_yolculugu"
+    },
+    {
+      "season": 37,
+      "episode": 271,
+      "title": "Flying Sands",
+      "diziid": "gvl",
+      "bolum": "271",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/271/ucan_kumlar"
+    },
+    {
+      "season": 38,
+      "episode": 272,
+      "title": "Symphony for Lemmings",
+      "diziid": "gvl",
+      "bolum": "272",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/272/lemmingler_icin_senfoni"
+    },
+    {
+      "season": 39,
+      "episode": 273,
+      "title": "Interplanetary Cabin",
+      "diziid": "gvl",
+      "bolum": "273",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/273/gezegenler_arasi_kulube"
+    },
+    {
+      "season": 40,
+      "episode": 274,
+      "title": "Ready, Set, Bam!",
+      "diziid": "gvl",
+      "bolum": "274",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/274/yerlerinize%2C_hazir%2C_bam%21"
+    },
+    {
+      "season": 41,
+      "episode": 275,
+      "title": "Termitator",
+      "diziid": "gvl",
+      "bolum": "275",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/275/termitator"
+    },
+    {
+      "season": 42,
+      "episode": 276,
+      "title": "Dad Despite Himself",
+      "diziid": "gvl",
+      "bolum": "276",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/276/kendini_onemsemeyen_baba"
+    },
+    {
+      "season": 43,
+      "episode": 277,
+      "title": "Illuminated Lemmings",
+      "diziid": "gvl",
+      "bolum": "277",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/277/isiklandirilmis_lemmingler"
+    },
+    {
+      "season": 44,
+      "episode": 278,
+      "title": "Hide-and-Seek Lemmings",
+      "diziid": "gvl",
+      "bolum": "278",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/278/saklanan_lemmingler"
+    },
+    {
+      "season": 45,
+      "episode": 279,
+      "title": "Nocturnal Din",
+      "diziid": "gvl",
+      "bolum": "279",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/279/gece_uyanan_gurultu"
+    },
+    {
+      "season": 46,
+      "episode": 280,
+      "title": "A Love for Fridges",
+      "diziid": "gvl",
+      "bolum": "280",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/280/buzdolabi_aski"
+    },
+    {
+      "season": 47,
+      "episode": 281,
+      "title": "Bear Family",
+      "diziid": "gvl",
+      "bolum": "281",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/281/ayi_ailesi"
+    },
+    {
+      "season": 48,
+      "episode": 282,
+      "title": "The Ten Plagues of Grizzy",
+      "diziid": "gvl",
+      "bolum": "282",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/282/grizzynin_on_belasi"
+    },
+    {
+      "season": 49,
+      "episode": 283,
+      "title": "Sandbox Games",
+      "diziid": "gvl",
+      "bolum": "283",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/283/kum_havuzu_oyunlari"
+    },
+    {
+      "season": 50,
+      "episode": 284,
+      "title": "Chocolate Deposit",
+      "diziid": "gvl",
+      "bolum": "284",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/284/cikolata_teminati"
+    },
+    {
+      "season": 51,
+      "episode": 285,
+      "title": "Firefly Party",
+      "diziid": "gvl",
+      "bolum": "285",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/285/atesbocegi_partisi"
+    },
+    {
+      "season": 52,
+      "episode": 286,
+      "title": "Keyring Cabin",
+      "diziid": "gvl",
+      "bolum": "286",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/286/anahtarlik_kulubesi"
+    },
+    {
+      "season": 53,
+      "episode": 287,
+      "title": "Great Wall Disco",
+      "diziid": "gvl",
+      "bolum": "287",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/287/cin_seddi_diskosu"
+    },
+    {
+      "season": 54,
+      "episode": 288,
+      "title": "Choco-Noodles",
+      "diziid": "gvl",
+      "bolum": "288",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/288/cikolatali_eriste"
+    },
+    {
+      "season": 55,
+      "episode": 289,
+      "title": "Tough Cookie",
+      "diziid": "gvl",
+      "bolum": "289",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/289/zor_lokma"
+    },
+    {
+      "season": 56,
+      "episode": 290,
+      "title": "Artificial Intelligence, Natural Idiocy",
+      "diziid": "gvl",
+      "bolum": "290",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/290/yapay_zeka%2C_dogal_sapsallik"
+    },
+    {
+      "season": 57,
+      "episode": 291,
+      "title": "All Out for Silk",
+      "diziid": "gvl",
+      "bolum": "291",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/291/kumas_mucadelesi"
+    },
+    {
+      "season": 58,
+      "episode": 292,
+      "title": "Hello Grizzy? Here Lemmings",
+      "diziid": "gvl",
+      "bolum": "292",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/292/alo_grizzy_biziz_lemmingler%21"
+    },
+    {
+      "season": 59,
+      "episode": 293,
+      "title": "Grasshopper Bounty",
+      "diziid": "gvl",
+      "bolum": "293",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/293/cekirgenin_hediyesi"
+    },
+    {
+      "season": 60,
+      "episode": 294,
+      "title": "Sound and Light",
+      "diziid": "gvl",
+      "bolum": "294",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/294/ses_ve_isik"
+    },
+    {
+      "season": 61,
+      "episode": 295,
+      "title": "Hero Despite Himself",
+      "diziid": "gvl",
+      "bolum": "295",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/295/her_seye_kahraman"
+    },
+    {
+      "season": 62,
+      "episode": 296,
+      "title": "Mask Time",
+      "diziid": "gvl",
+      "bolum": "296",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/296/maske_zamani"
+    },
+    {
+      "season": 63,
+      "episode": 297,
+      "title": "Drawer Puzzles",
+      "diziid": "gvl",
+      "bolum": "297",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/297/cekmece_bulmacasi"
+    },
+    {
+      "season": 64,
+      "episode": 298,
+      "title": "Double Trouble",
+      "diziid": "gvl",
+      "bolum": "298",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/298/cifte_dert"
+    },
+    {
+      "season": 65,
+      "episode": 299,
+      "title": "Happy Birthday, Grizzy!",
+      "diziid": "gvl",
+      "bolum": "299",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/299/mutlu_yillar_grizzy%21"
+    },
+    {
+      "season": 66,
+      "episode": 300,
+      "title": "The War of the Lambs",
+      "diziid": "gvl",
+      "bolum": "300",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/300/kuzularin_savasi"
+    },
+    {
+      "season": 67,
+      "episode": 301,
+      "title": "Ultra Wool",
+      "diziid": "gvl",
+      "bolum": "301",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/301/fazla_kurk"
+    },
+    {
+      "season": 68,
+      "episode": 302,
+      "title": "Lemming Hoods",
+      "diziid": "gvl",
+      "bolum": "302",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/302/lemming_hood"
+    },
+    {
+      "season": 69,
+      "episode": 303,
+      "title": "Good Fairy, Bad Fairy",
+      "diziid": "gvl",
+      "bolum": "303",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/303/iyi_peri%2C_kotu_peri"
+    },
+    {
+      "season": 70,
+      "episode": 304,
+      "title": "Odd Twists",
+      "diziid": "gvl",
+      "bolum": "304",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/304/ilginc_degisimler"
+    },
+    {
+      "season": 71,
+      "episode": 305,
+      "title": "The Battle of the Sacred Crown",
+      "diziid": "gvl",
+      "bolum": "305",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/305/gizli_tac_mucadelesi"
+    },
+    {
+      "season": 72,
+      "episode": 306,
+      "title": "Were-Lemming",
+      "diziid": "gvl",
+      "bolum": "306",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/306/lemming-adam"
+    },
+    {
+      "season": 73,
+      "episode": 307,
+      "title": "Hold-Up, Hens and Yummy",
+      "diziid": "gvl",
+      "bolum": "307",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/307/tavuklar_ve_cikolata"
+    },
+    {
+      "season": 74,
+      "episode": 308,
+      "title": "Ever Higher",
+      "diziid": "gvl",
+      "bolum": "308",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/308/daha_yuksege"
+    },
+    {
+      "season": 75,
+      "episode": 309,
+      "title": "Witchcraft Game",
+      "diziid": "gvl",
+      "bolum": "309",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/309/cadilik_oyunlari"
+    },
+    {
+      "season": 76,
+      "episode": 310,
+      "title": "Monstrous Costumes",
+      "diziid": "gvl",
+      "bolum": "310",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/310/canavar_kostumleri"
+    },
+    {
+      "season": 77,
+      "episode": 311,
+      "title": "The Crime Was Almost Yummy",
+      "diziid": "gvl",
+      "bolum": "311",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/311/cikolata_davasi"
+    },
+    {
+      "season": 78,
+      "episode": 312,
+      "title": "Cabin, My Love",
+      "diziid": "gvl",
+      "bolum": "312",
+      "url": "https://cizgivedizi.com/dizi/gvl/grizzy_ve_lemmingler/312/kulube%2C_canim"
+    }
+  ]
+}

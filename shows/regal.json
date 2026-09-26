@@ -1,0 +1,421 @@
+{
+  "id": "regal",
+  "title": "regal akademi",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/REGALPoster.avif",
+  "channel": "Planet Ã‡ocuk",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "A School for Fairy Tales",
+      "diziid": "regal",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/1/peri_masallari_okulu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Great Dragon Race",
+      "diziid": "regal",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/2/buyuk_ejderha_yarisi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Swan in Swamp Lake",
+      "diziid": "regal",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/3/bataklik_golundeki_kugu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Astoria and the Beanstalk",
+      "diziid": "regal",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/4/astoria_ve_fasulye_sirigi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Fairy Tale Wedding",
+      "diziid": "regal",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/5/peri_masali_dugunu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Mystery at Cinderella's Castle",
+      "diziid": "regal",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/6/sindirella_satosunda_gizem"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Pea Princess' Granddaughter",
+      "diziid": "regal",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/7/bezelye_prensesi_torunu"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Revenge",
+      "diziid": "regal",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/8/intikam"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Attack of the Shortbread Witch",
+      "diziid": "regal",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/9/kurabiye_cadisinin_saldirisi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Rose's Fairy Tale Collection",
+      "diziid": "regal",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/10/roseun_peri_masali_koleksiyonu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Bad Wolf's Great Fall",
+      "diziid": "regal",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/11/kotu_kurdun_buyuk_dususu"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Pumpkins and Dragons",
+      "diziid": "regal",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/12/bal_kabaklari_ve_ejderhalar"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Grand Ball",
+      "diziid": "regal",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/13/buyuk_balo"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Legedary Iron Fan",
+      "diziid": "regal",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/14/efsanevi_demir_yelpaze"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Rose and the Dragon King",
+      "diziid": "regal",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/15/rose_ve_ejderha_kral"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Song of the Sea Witch",
+      "diziid": "regal",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/16/deniz_cadisinin_sarkisi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Hawk and the Poisoned Apples",
+      "diziid": "regal",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/17/hawk_ve_zehirli_elmalar"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Fairy Tales on Earth",
+      "diziid": "regal",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/18/dunyada_peri_masallari"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Hair Curse",
+      "diziid": "regal",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/19/sac_iksiri"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Parents' Day",
+      "diziid": "regal",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/20/ebeveynler_gunu"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Monkey Magic",
+      "diziid": "regal",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/21/maymun_sihri"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Flowerpocalypse",
+      "diziid": "regal",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/22/cicek_kiyameti"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Swan Dancing with the Stars",
+      "diziid": "regal",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/23/yildizlarla_dans_eden_kugu"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Dragon Duel",
+      "diziid": "regal",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/24/ejderha_duellosu"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Fall of the Guardians",
+      "diziid": "regal",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/25/muhafizlarin_dususu"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Vicky the Villain",
+      "diziid": "regal",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/26/kotu_vicky"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "PomPoms!",
+      "diziid": "regal",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/27/pompomlar%21"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Beauty is the Beast",
+      "diziid": "regal",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/28/guzellik_cirkindir"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "The Magic Fair",
+      "diziid": "regal",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/29/sihir_panayiri"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Mirror Madness",
+      "diziid": "regal",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/30/ayna_cilginligi"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "The Giant's Wife",
+      "diziid": "regal",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/31/devin_karisi"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Searching for Pinocchio",
+      "diziid": "regal",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/32/pinokyo_araniyor"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "The Frog Villain",
+      "diziid": "regal",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/33/kotu_kurbaga"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Into the Enchanted Forest",
+      "diziid": "regal",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/34/sihirli_ormanin_icinde"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "The Masquerade Ball",
+      "diziid": "regal",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/35/maskeli_balo"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "The Shadow Warrior",
+      "diziid": "regal",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/36/golge_savasi"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Princely Competition",
+      "diziid": "regal",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/37/prenseslere_yakisir_rekabet"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "The Dark Dragon",
+      "diziid": "regal",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/38/kara_ejderha"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "A Day at Merlin Academy",
+      "diziid": "regal",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/39/merlin_akademisinde_bir_gun"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "The Regal Parade",
+      "diziid": "regal",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/40/regal_gecit_toreni"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "A Mermaid's Tale",
+      "diziid": "regal",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/41/bir_denizkizi_masali"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "The Sleepover",
+      "diziid": "regal",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/42/yatiya_kalma"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Test of the Tower",
+      "diziid": "regal",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/43/kule_testi"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "The Shapeshifting Witch",
+      "diziid": "regal",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/44/sekil_degistirme_cadisi"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "Ruby Returns",
+      "diziid": "regal",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/45/ruby_geri_donuyor"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "Wedding Time",
+      "diziid": "regal",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/46/dugun_zamani"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "The Midnight Effect",
+      "diziid": "regal",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/47/gece_yarisi_etkisi"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "Christmas in the Fairy Tale Land",
+      "diziid": "regal",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/48/peri_masali_ulkesinde_noel"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "Rainbow Magic",
+      "diziid": "regal",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/49/gokkusagi_sihri"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "The Snow Queen's Trap",
+      "diziid": "regal",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/50/kar_kralicesinin_tuzagi"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "Rose in Wonderland",
+      "diziid": "regal",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/regal/regal_akademi/51/rose_harikalar_diyarinda"
+    }
+  ]
+}

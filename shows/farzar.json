@@ -1,0 +1,93 @@
+{
+  "id": "farzar",
+  "title": "farzar",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/FARZARPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Bilim Kurgu",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Welcome to Farzar",
+      "diziid": "farzar",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/farzar/farzar/1/farzara_hos_geldiniz"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Robot Revolution",
+      "diziid": "farzar",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/farzar/farzar/2/robot_devrimi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Save the Reaper Demons",
+      "diziid": "farzar",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/farzar/farzar/3/olum_iblislerini_kurtarin"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "St. Pudchuggers Day",
+      "diziid": "farzar",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/farzar/farzar/4/aziz_pitik_gunu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Adventures of Daddy O'Baggins",
+      "diziid": "farzar",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/farzar/farzar/5/daddy_obagginsin_maceralari"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Flammily Reunion",
+      "diziid": "farzar",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/farzar/farzar/6/flammynin_akrabalari"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Baz, Bangs, and Brains",
+      "diziid": "farzar",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/farzar/farzar/7/baz%2C_kakul_ve_beyin"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Great and Powerful Ozner",
+      "diziid": "farzar",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/farzar/farzar/8/kudretli_yuce_ozner"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Memory Wars",
+      "diziid": "farzar",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/farzar/farzar/9/ani_savaslari"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "War and Peace",
+      "diziid": "farzar",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/farzar/farzar/10/savas_ve_baris"
+    }
+  ]
+}

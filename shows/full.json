@@ -1,0 +1,612 @@
+{
+  "id": "full",
+  "title": "fuller house",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/FULLERPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Our Very First Show, Again",
+      "diziid": "full",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/1/yine_yeni_bastan"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Moving Day",
+      "diziid": "full",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/2/tasinma_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Funner House",
+      "diziid": "full",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/3/daha_eglenceli_bir_ev"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Not-So-Great Escape",
+      "diziid": "full",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/4/kotu_bir_kacis_plani"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Mad Max",
+      "diziid": "full",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/5/cilgin_max"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Legend of El Explosivo",
+      "diziid": "full",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/6/el_explosivo_efsanesi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Ramona's Not-So-Epic Party",
+      "diziid": "full",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/7/ramonanin_destansi_olmayan_partisi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Secrets, Lies and Firetrucks",
+      "diziid": "full",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/8/sirlar%2C_yalanlar_ve_itfaiye_kamyonlari"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "War of the Roses",
+      "diziid": "full",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/9/gul_savaslari"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "A Giant Leap",
+      "diziid": "full",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/10/buyuk_bir_adim"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Partnerships in the Night",
+      "diziid": "full",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/11/ortaklik"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Save the Dates",
+      "diziid": "full",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/12/randevu_surprizleri"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Love Is in the Air",
+      "diziid": "full",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/13/havada_ask_kokusu_var"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Welcome Back",
+      "diziid": "full",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/14/tekrar_hos_geldin"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Mom Interference",
+      "diziid": "full",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/15/anne_mudahalesi"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Ramona's Not-So-Epic First Kiss",
+      "diziid": "full",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/16/ilk_opucugu_aradan_cikarmak"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Curse of Tanner Manor",
+      "diziid": "full",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/17/tanner_manorin_laneti"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Doggy Daddy",
+      "diziid": "full",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/18/kopek_babasi"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Fuller Thanksgiving",
+      "diziid": "full",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/19/sukran_gunu"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Girl Talk",
+      "diziid": "full",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/20/kiz_sohbeti"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "A Tangled Web",
+      "diziid": "full",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/21/arapsaci"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Glazed and Confused",
+      "diziid": "full",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/22/mutlu_ve_saskin"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "New Kids in the House",
+      "diziid": "full",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/23/evdeki_yeni_cocuklar"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "DJ and Kimmy's High School Reunion",
+      "diziid": "full",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/24/dj_ve_kimmynin_lise_mezunlar_bulusmasi"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Nutcrackers",
+      "diziid": "full",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/25/findikkiranlar"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "Happy New Year Baby",
+      "diziid": "full",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/26/yeni_yilin_kutlu_olsun_bebegim"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Best Summer Ever",
+      "diziid": "full",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/27/en_guzel_yaz"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Break a Leg",
+      "diziid": "full",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/28/seytanin_bacagini_kirmak"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Declarations of Independence",
+      "diziid": "full",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/29/bagimsizlik_ilanlari"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "My Little Hickey",
+      "diziid": "full",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/30/benim_kucuk_ask_isirigim"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Uncle Jesse's Adventures in Babysitting",
+      "diziid": "full",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/31/jesse_dayinin_bebek_bakma_maceralari"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "M-M-M-My Ramona",
+      "diziid": "full",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/32/benim_ramonam"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Say Yes to the Dress",
+      "diziid": "full",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/33/gelinlige_evet_demek"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Maybe Baby",
+      "diziid": "full",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/34/bebek_ihtimali"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Wedding or Not Here We Come",
+      "diziid": "full",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/35/dugun_ya_da_degil%2C_iste_geliyorum"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "My Best Friend's Japanese Wedding",
+      "diziid": "full",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/36/en_iyi_arkadasimin_japon_dugunu"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Troller Coaster",
+      "diziid": "full",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/37/trol_treni"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Fast Times At Bayview High",
+      "diziid": "full",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/38/bayview_lisesinde_hizli_zamanlar"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "A Tommy Tale",
+      "diziid": "full",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/39/bir_tommy_masali"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "Surrogate City",
+      "diziid": "full",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/40/tasiyici_anne"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "Soul Sisters",
+      "diziid": "full",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/41/ruh_kardesleri"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Happily Ever After",
+      "diziid": "full",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/42/sonsuza_dek_mutlu"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Fullers in a Fog",
+      "diziid": "full",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/43/fullerlarin_uzerindeki_kara_bulutlar"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "Here Comes the Sun",
+      "diziid": "full",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/44/iste_gunes_doguyor"
+    },
+    {
+      "season": 1,
+      "episode": 45,
+      "title": "Oh My Santa",
+      "diziid": "full",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/45/aman_noel_babam%21"
+    },
+    {
+      "season": 2,
+      "episode": 46,
+      "title": "Big Night",
+      "diziid": "full",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/46/buyuk_gece"
+    },
+    {
+      "season": 3,
+      "episode": 47,
+      "title": "A Sense of Purpose",
+      "diziid": "full",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/47/amac_bilinci"
+    },
+    {
+      "season": 4,
+      "episode": 48,
+      "title": "Ghosted",
+      "diziid": "full",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/48/ekilmek"
+    },
+    {
+      "season": 5,
+      "episode": 49,
+      "title": "No Escape",
+      "diziid": "full",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/49/kacis_yok"
+    },
+    {
+      "season": 6,
+      "episode": 50,
+      "title": "Angels' Night Out",
+      "diziid": "full",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/50/meleklerin_gecesi"
+    },
+    {
+      "season": 7,
+      "episode": 51,
+      "title": "President Fuller",
+      "diziid": "full",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/51/baskan_fuller"
+    },
+    {
+      "season": 8,
+      "episode": 52,
+      "title": "Driving Mr. Jackson",
+      "diziid": "full",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/52/bay_jacksonin_soforu"
+    },
+    {
+      "season": 9,
+      "episode": 53,
+      "title": "Perfect Sons",
+      "diziid": "full",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/53/mukemmel_ogullar"
+    },
+    {
+      "season": 10,
+      "episode": 54,
+      "title": "Golden-Toe Fuller",
+      "diziid": "full",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/54/altin_ayakli_fuller"
+    },
+    {
+      "season": 11,
+      "episode": 55,
+      "title": "It's Always Open",
+      "diziid": "full",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/55/her_zaman_acik"
+    },
+    {
+      "season": 12,
+      "episode": 56,
+      "title": "The Prom",
+      "diziid": "full",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/56/balo"
+    },
+    {
+      "season": 13,
+      "episode": 57,
+      "title": "Opening Night",
+      "diziid": "full",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/57/acilis_gecesi"
+    },
+    {
+      "season": 1,
+      "episode": 58,
+      "title": "Welcome Home, Baby-to-Be-Named-Later",
+      "diziid": "full",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/58/ismi_daha_belli_olmayan_bebek%2C_evine_hos_geldin"
+    },
+    {
+      "season": 2,
+      "episode": 59,
+      "title": "Hale's Kitchen",
+      "diziid": "full",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/59/halein_mutfagi"
+    },
+    {
+      "season": 3,
+      "episode": 60,
+      "title": "Family Business",
+      "diziid": "full",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/60/aile_isletmesi"
+    },
+    {
+      "season": 4,
+      "episode": 61,
+      "title": "Moms' Night Out",
+      "diziid": "full",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/61/anneler_gecesi"
+    },
+    {
+      "season": 5,
+      "episode": 62,
+      "title": "Ready Player Fuller",
+      "diziid": "full",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/62/usta_oyuncu_fuller"
+    },
+    {
+      "season": 6,
+      "episode": 63,
+      "title": "The Mayor's Bird",
+      "diziid": "full",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/63/belediye_baskaninin_kusu"
+    },
+    {
+      "season": 7,
+      "episode": 64,
+      "title": "DJ's Amazing 40th Birthday Race",
+      "diziid": "full",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/64/djin_inanilmaz_40._dogum_gunu_yarisi"
+    },
+    {
+      "season": 8,
+      "episode": 65,
+      "title": "Five Dates with Kimmy Gibbler",
+      "diziid": "full",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/65/kimmy_gibler_ile_bes_randevu"
+    },
+    {
+      "season": 9,
+      "episode": 66,
+      "title": "A Modest Proposal",
+      "diziid": "full",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/66/mutevazi_bir_evlilik_teklifi"
+    },
+    {
+      "season": 10,
+      "episode": 67,
+      "title": "If the Suit Fits",
+      "diziid": "full",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/67/takim_elbise"
+    },
+    {
+      "season": 11,
+      "episode": 68,
+      "title": "Three Weddings and a Musical",
+      "diziid": "full",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/68/uc_dugun_ve_bir_muzikal"
+    },
+    {
+      "season": 12,
+      "episode": 69,
+      "title": "Cold Turkey",
+      "diziid": "full",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/69/soguk_hindi"
+    },
+    {
+      "season": 13,
+      "episode": 70,
+      "title": "College Tours",
+      "diziid": "full",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/70/universite_gezisi"
+    },
+    {
+      "season": 14,
+      "episode": 71,
+      "title": "Basic Training",
+      "diziid": "full",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/71/temel_antrenman"
+    },
+    {
+      "season": 15,
+      "episode": 72,
+      "title": "Be Yourself, Free Yourself",
+      "diziid": "full",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/72/kendin_ol%2C_ozgur_ol"
+    },
+    {
+      "season": 16,
+      "episode": 73,
+      "title": "The Nearlywed Game",
+      "diziid": "full",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/73/mustakbel_esler_oyunu"
+    },
+    {
+      "season": 17,
+      "episode": 74,
+      "title": "Something Borrowed",
+      "diziid": "full",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/74/odunc_esya"
+    },
+    {
+      "season": 18,
+      "episode": 75,
+      "title": "Our Very Last Show, Again",
+      "diziid": "full",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/full/fuller_house/75/son_bolum_yeniden%21"
+    }
+  ]
+}

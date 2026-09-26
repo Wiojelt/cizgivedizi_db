@@ -1,0 +1,374 @@
+{
+  "id": "sailor",
+  "title": "ay savaÅŸÃ§Ä±sÄ±",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/SAILORPoster.avif",
+  "channel": "TRT 1",
+  "genres": [
+    "Fantastik",
+    "Romantik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Crybaby: Usagi's Beautiful Transformation",
+      "diziid": "sailor",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/1/usaginin_donusumu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Punishment Awaits: The House of Fortune Is the Monster Mansion",
+      "diziid": "sailor",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/2/sans_evi%2C_canavar_konagi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Mysterious Sleeping Sickness: Protect the Girls in Love",
+      "diziid": "sailor",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/3/gizemli_uyku_hastaligi%3A_asik_kizlari_koruyun"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Learn How to Be Skinny from Usagi",
+      "diziid": "sailor",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/4/usagiden%2C_nasil_siska_olunacagini_ogrenin"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Scent of a Monster: Chanela Will Steal Your Love",
+      "diziid": "sailor",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/5/canavar_kokusu%21"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Protect the Melody of Love: Usagi Plays Cupid",
+      "diziid": "sailor",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/6/askin_melodisi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Usagi Learns Her Lesson: Becoming a Star Is Hard Work",
+      "diziid": "sailor",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/7/yildiz_olmak_zor_is"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Girl Genius Is a Monster: The Brainwashing Cram School of Horror",
+      "diziid": "sailor",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/8/korku_okulu"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Usagi's Disaster: Beware of the Clock of Confusion",
+      "diziid": "sailor",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/9/saate_dikkat_edin"
+    },
+    {
+      "season": 18,
+      "episode": 10,
+      "title": "Shingo's Love: The Grieving Doll",
+      "diziid": "sailor",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/18/shingonun_sevgisi%3A_huzunlu_oyuncak_bebek"
+    },
+    {
+      "season": 24,
+      "episode": 11,
+      "title": "Naru's Tears: Nephrite Dies for Love",
+      "diziid": "sailor",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/24/narunun_gozyaslari"
+    },
+    {
+      "season": 10,
+      "episode": 12,
+      "title": "The Cursed Bus: Enter Mars, the Guardian of Fire",
+      "diziid": "sailor",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/10/lanetli_otobus%3A_ates_savascisi_mars_ortaya_cikiyor"
+    },
+    {
+      "season": 11,
+      "episode": 13,
+      "title": "Usagi vs. Rei: Nightmare in Dream Land",
+      "diziid": "sailor",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/11/usagi%2C_reiye_karsi%3A_ruya_diyarinda_kabus"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "Usagi's Panic: Rei's First Date",
+      "diziid": "sailor",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/15/usagi_panikte%3A_reinin_ilk_bulusmasi"
+    },
+    {
+      "season": 25,
+      "episode": 15,
+      "title": "Jupiter, the Powerful Girl in Love",
+      "diziid": "sailor",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/25/asik_ve_guclu_kiz_jupiter"
+    },
+    {
+      "season": 26,
+      "episode": 16,
+      "title": "Restore Naru's Smile: Usagi's Friendship",
+      "diziid": "sailor",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/26/narunun_gulumsemesini_geri_getir%3A_usaginin_arkadasligi"
+    },
+    {
+      "season": 28,
+      "episode": 17,
+      "title": "The Painting of Love: Usagi and Mamoru Get Closer",
+      "diziid": "sailor",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/28/ask_tablosu%3A_usagi_ile_mamoru_yakinlasiyor"
+    },
+    {
+      "season": 32,
+      "episode": 18,
+      "title": "Umino's Resolve: I'll Protect Naru",
+      "diziid": "sailor",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/32/uminonun_karari%3A_naruyu_koruyacagim"
+    },
+    {
+      "season": 33,
+      "episode": 19,
+      "title": "Enter Venus, the Last Sailor Guardian",
+      "diziid": "sailor",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/33/son_ay_savascisi_venus_ortaya_cikiyor"
+    },
+    {
+      "season": 34,
+      "episode": 20,
+      "title": "The Sparkling Silver Crystal: The Moon Princess Appears",
+      "diziid": "sailor",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/34/parlayan_gumus_kristal%3A_ay_prensesi_ortaya_cikiyor"
+    },
+    {
+      "season": 35,
+      "episode": 21,
+      "title": "Returning Memories: Usagi and Mamoru's Past",
+      "diziid": "sailor",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/35/geri_donen_anilar%3A_usagi_ile_mamorunun_gecmisi"
+    },
+    {
+      "season": 37,
+      "episode": 22,
+      "title": "Let's Become a Princess: Usagi's Bizarre Training",
+      "diziid": "sailor",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/37/prenses_olalim%3A_usaginin_tuhaf_egitimi"
+    },
+    {
+      "season": 40,
+      "episode": 23,
+      "title": "The Legendary Lake Yokai: The Bond of Usagi's Family",
+      "diziid": "sailor",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/40/efsanevi_gol_canavari%3A_usaginin_aile_bagi"
+    },
+    {
+      "season": 41,
+      "episode": 24,
+      "title": "I Won't Run Away from Love Anymore: Ami vs. Mamoru",
+      "diziid": "sailor",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/41/artik_asktan_kacmayacagim%3A_ami%2C_mamoruya_karsi"
+    },
+    {
+      "season": 42,
+      "episode": 25,
+      "title": "Sailor Venus's Past: Minako's Tragic Love",
+      "diziid": "sailor",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/42/ay_savascisi_venusun_gecmisi%3A_minakonun_trajik_aski"
+    },
+    {
+      "season": 43,
+      "episode": 26,
+      "title": "Usagi Abandoned: The Falling-Out of the Sailor Guardians",
+      "diziid": "sailor",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/43/usagi_terk_ediliyor%3A_ay_savascilari_arasinda_ayrilik"
+    },
+    {
+      "season": 44,
+      "episode": 27,
+      "title": "Usagi's Awakening: A Message from the Distant Past",
+      "diziid": "sailor",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/44/usagi_uyaniyor%3A_uzak_gecmisten_bir_mesaj"
+    },
+    {
+      "season": 45,
+      "episode": 28,
+      "title": "Death of the Sailor Guardians: The Tragic Final Battle",
+      "diziid": "sailor",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/45/ay_savascilarinin_olumu%3A_trajik_son_savas"
+    },
+    {
+      "season": 46,
+      "episode": 29,
+      "title": "Usagi's Eternal Wish: A Brand-New Life",
+      "diziid": "sailor",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/46/usaginin_sonsuz_dilegi%3A_yepyeni_bir_hayat"
+    },
+    {
+      "season": 5,
+      "episode": 30,
+      "title": "A New Transformation: Usagi's Power-Up",
+      "diziid": "sailor",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/51/yeni_bir_donusum"
+    },
+    {
+      "season": 6,
+      "episode": 31,
+      "title": "The Targeted Kindergarten: Venus to the Rescue",
+      "diziid": "sailor",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/52/anaokulunda_kargasa"
+    },
+    {
+      "season": 11,
+      "episode": 32,
+      "title": "After-School Trouble: Usagi Is a Target",
+      "diziid": "sailor",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/57/hedef_usagi"
+    },
+    {
+      "season": 30,
+      "episode": 33,
+      "title": "Magic of Darkness: Esmeraude's Invasion",
+      "diziid": "sailor",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/76/esmeraudeun_istilasi"
+    },
+    {
+      "season": 40,
+      "episode": 34,
+      "title": "Saphir Dies: Wiseman's Trap",
+      "diziid": "sailor",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/86/bilge_adamin_tuzagi"
+    },
+    {
+      "season": 2,
+      "episode": 35,
+      "title": "For Love and Justice: Sailor Guardians Once Again",
+      "diziid": "sailor",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/48/ask_ve_adalet_icin%3A_ay_savascilari_yeniden"
+    },
+    {
+      "season": 13,
+      "episode": 36,
+      "title": "True Love Awakens: The Makai Tree's Secret",
+      "diziid": "sailor",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/59/gercek_ask_uyaniyor%3A_karanlik_agacin_sirri"
+    },
+    {
+      "season": 14,
+      "episode": 37,
+      "title": "Angel or Devil? The Mysterious Girl from the Sky",
+      "diziid": "sailor",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/60/melek_mi%2C_seytan_mi_gokyuzunden_gelen_gizemli_kiz"
+    },
+    {
+      "season": 6,
+      "episode": 38,
+      "title": "Let Moon Help with Your Love Problems",
+      "diziid": "sailor",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/95/sailorin_ask_sorunlariniza_yardim_etmesine_izin_verin"
+    },
+    {
+      "season": 15,
+      "episode": 39,
+      "title": "Seeking Friends: Chibi Moon's Actions",
+      "diziid": "sailor",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/104/yeni_arkadaslar_edinmek"
+    },
+    {
+      "season": 34,
+      "episode": 40,
+      "title": "Shadows of Destruction: The Awakening of the Messiah of Silence",
+      "diziid": "sailor",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/123/yikimin_golgeleri"
+    },
+    {
+      "season": 35,
+      "episode": 41,
+      "title": "The Approaching Terror of Darkness: Struggle of the Eight Guardians",
+      "diziid": "sailor",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/124/karanligin_yaklasan_teroru"
+    },
+    {
+      "season": 6,
+      "episode": 42,
+      "title": "Artemis Is Cheating? Enter the Mysterious Kitten",
+      "diziid": "sailor",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/133/gizemli_kedi_yavrusu"
+    },
+    {
+      "season": 9,
+      "episode": 43,
+      "title": "Protect Mamoru: Ninja Usagi's Jealousy",
+      "diziid": "sailor",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/136/usaginin_kiskancligi"
+    },
+    {
+      "season": 25,
+      "episode": 44,
+      "title": "The Flames of Passion: Mars's Furious Super Attack",
+      "diziid": "sailor",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/152/tutku_alevleri%3A_marsin_super_saldirisi"
+    },
+    {
+      "season": 34,
+      "episode": 45,
+      "title": "Usagi's Love: The Moonlight Illuminates the Galaxy",
+      "diziid": "sailor",
+      "bolum": "200",
+      "url": "https://cizgivedizi.com/dizi/sailor/ay_savascisi/200/usaginin_aski%3A_ay_isigi_galaksiyi_aydinlatiyor"
+    }
+  ]
+}

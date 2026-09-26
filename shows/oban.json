@@ -1,0 +1,221 @@
+{
+  "id": "oban",
+  "title": "oban yÄ±ldÄ±z yarÄ±ÅŸÃ§Ä±larÄ±",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/OBANPoster.avif",
+  "channel": "Jetix",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "A Fresh Start",
+      "diziid": "oban",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/1/taze_bir_baslangic"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Hostilities Break Out",
+      "diziid": "oban",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/2/dusmanlik_patlak_veriyor"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Grave Like Groor",
+      "diziid": "oban",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/3/groor_ile_yaris"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "In Like Flint",
+      "diziid": "oban",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/4/flint_ile_yaris"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Cruel Like Ceres",
+      "diziid": "oban",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/5/zalim_ceres"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Playful Like Para-dice",
+      "diziid": "oban",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/6/cennet_gibi_bir_oyuncu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Treacherous Like Toros",
+      "diziid": "oban",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/7/toros_gibi_hainler"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Agile Like Aikka",
+      "diziid": "oban",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/8/aikka_kadar_cevik"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Surprising Like Super-Racer",
+      "diziid": "oban",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/9/surpriz_super_yaris"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Resistant Like Rush",
+      "diziid": "oban",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/10/telasli_saldiri"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Silent Like Spirit",
+      "diziid": "oban",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/11/ruh_kadar_sessiz"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Will to Win",
+      "diziid": "oban",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/12/kazanma_istegi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Make Way!",
+      "diziid": "oban",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/13/buyuk_yarisa_dogru"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Welcome to Oban",
+      "diziid": "oban",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/14/oban%E2%80%99a_hos_geldiniz"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Fierce Like Lord Furter",
+      "diziid": "oban",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/15/acimasiz_lord_furter"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Nervous Like Ning & Skun",
+      "diziid": "oban",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/16/ning_ve_skun_kadar_sinirli"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Optimised Like Ondai",
+      "diziid": "oban",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/17/akilli_ondai"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Monstrous Like Muir",
+      "diziid": "oban",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/18/buyuk_muir"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Origin of the World",
+      "diziid": "oban",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/19/dunyanin_asli"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Secret Like Sul",
+      "diziid": "oban",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/20/gizli_sul"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Ominous Like O",
+      "diziid": "oban",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/21/ugursuz"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Revelations",
+      "diziid": "oban",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/22/kesif"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Cruel Like Kross",
+      "diziid": "oban",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/23/zalim_kross"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Canaletto's Revenge",
+      "diziid": "oban",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/24/canaletto%E2%80%99nun_intikami"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Unlikely Alliances",
+      "diziid": "oban",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/25/istenmeyen_yabanci"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The Moment of Truth",
+      "diziid": "oban",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/oban/oban_yildiz_yariscilari/26/yeni_bir_avatar_doguyor"
+    }
+  ]
+}

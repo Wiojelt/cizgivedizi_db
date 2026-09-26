@@ -1,0 +1,333 @@
+{
+  "id": "redk",
+  "title": "red kit",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/REDKPoster.avif",
+  "channel": "Kanal a",
+  "genres": [
+    "Macera",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Ma Dalton",
+      "diziid": "redk",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/1/anne_dalton"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Tenderfoot",
+      "diziid": "redk",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/2/miras_sorunu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Daltons in the Blizzard",
+      "diziid": "redk",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/3/kar_firtinasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Bridge on the Mississippi",
+      "diziid": "redk",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/4/mississipide"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Calamity Jane",
+      "diziid": "redk",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/5/felaket_jane"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Daltons Redeem Themselves",
+      "diziid": "redk",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/6/daltonlar_kendilerini_kurtariyor"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Phil Defer",
+      "diziid": "redk",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/7/phil_defer"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Dr. Doxey's Elixir",
+      "diziid": "redk",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/8/doktor_doxey"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "Outlaw",
+      "diziid": "redk",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/10/haydutlar"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "Billy the Kid",
+      "diziid": "redk",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/11/billy_the_kid"
+    },
+    {
+      "season": 13,
+      "episode": 11,
+      "title": "The Grand Duke",
+      "diziid": "redk",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/13/buyuk_duk"
+    },
+    {
+      "season": 14,
+      "episode": 12,
+      "title": "In the Shadow of the Derricks",
+      "diziid": "redk",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/14/derrickin_golgesinde"
+    },
+    {
+      "season": 15,
+      "episode": 13,
+      "title": "The Daltons' Treasure",
+      "diziid": "redk",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/15/daltonlar_hazine_pesinde"
+    },
+    {
+      "season": 16,
+      "episode": 14,
+      "title": "The Dashing White Cowboy",
+      "diziid": "redk",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/16/beyaz_binici"
+    },
+    {
+      "season": 17,
+      "episode": 15,
+      "title": "On the Daltons' Trail",
+      "diziid": "redk",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/17/daltonlarin_izinde"
+    },
+    {
+      "season": 18,
+      "episode": 16,
+      "title": "The Escort",
+      "diziid": "redk",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/18/yeni_meksika"
+    },
+    {
+      "season": 19,
+      "episode": 17,
+      "title": "The Rivals of Painful Gulch",
+      "diziid": "redk",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/19/aile_savasi"
+    },
+    {
+      "season": 1,
+      "episode": 18,
+      "title": "The Ghost Town",
+      "diziid": "redk",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/27/hayalet_kasaba"
+    },
+    {
+      "season": 3,
+      "episode": 19,
+      "title": "The Daltons Escape",
+      "diziid": "redk",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/29/daltonlarin_kacisi"
+    },
+    {
+      "season": 4,
+      "episode": 20,
+      "title": "The 20th Cavalry",
+      "diziid": "redk",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/30/20._suvari"
+    },
+    {
+      "season": 5,
+      "episode": 21,
+      "title": "Lucky Luke Versus Joss Jamon",
+      "diziid": "redk",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/31/red_kit%2C_joss_jamona_karsi"
+    },
+    {
+      "season": 6,
+      "episode": 22,
+      "title": "Nitroglycerine",
+      "diziid": "redk",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/32/nitrogliserin"
+    },
+    {
+      "season": 7,
+      "episode": 23,
+      "title": "Tortillas for the Daltons",
+      "diziid": "redk",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/33/daltonlar_icin_ekmek"
+    },
+    {
+      "season": 8,
+      "episode": 24,
+      "title": "The Pony Express",
+      "diziid": "redk",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/34/midilli_ekspresi"
+    },
+    {
+      "season": 9,
+      "episode": 25,
+      "title": "The Bounty Hunter",
+      "diziid": "redk",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/35/kelle_avcisi"
+    },
+    {
+      "season": 10,
+      "episode": 26,
+      "title": "Lucky Luke's Fiancee",
+      "diziid": "redk",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/36/red_kitin_nisanlisi"
+    },
+    {
+      "season": 11,
+      "episode": 27,
+      "title": "Sarah Bernhardt",
+      "diziid": "redk",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/37/sarah_bernhardt"
+    },
+    {
+      "season": 12,
+      "episode": 28,
+      "title": "The Peddler",
+      "diziid": "redk",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/38/seyyar_satici"
+    },
+    {
+      "season": 13,
+      "episode": 29,
+      "title": "Challenge to Lucky Luke",
+      "diziid": "redk",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/39/red_kite_meydan_okumak"
+    },
+    {
+      "season": 15,
+      "episode": 30,
+      "title": "Rantanplan's Inheritance",
+      "diziid": "redk",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/41/miras"
+    },
+    {
+      "season": 16,
+      "episode": 31,
+      "title": "The Daily Star",
+      "diziid": "redk",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/42/gunluk_yildiz"
+    },
+    {
+      "season": 17,
+      "episode": 32,
+      "title": "The Dalton Cousins",
+      "diziid": "redk",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/43/kuzen"
+    },
+    {
+      "season": 18,
+      "episode": 33,
+      "title": "The Daltons Always on the Run",
+      "diziid": "redk",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/44/daltonlar_savas_yolunda"
+    },
+    {
+      "season": 19,
+      "episode": 34,
+      "title": "Lucky Luke Versus Pat Poker",
+      "diziid": "redk",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/45/red_kit_pat_pokere_karsi"
+    },
+    {
+      "season": 20,
+      "episode": 35,
+      "title": "The Alibi",
+      "diziid": "redk",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/46/mazeret"
+    },
+    {
+      "season": 21,
+      "episode": 36,
+      "title": "Beware of the Bluefoots",
+      "diziid": "redk",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/47/yanlis_meksikali"
+    },
+    {
+      "season": 22,
+      "episode": 37,
+      "title": "The One-Armed Bandit",
+      "diziid": "redk",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/48/tek_kollu_haydut"
+    },
+    {
+      "season": 24,
+      "episode": 38,
+      "title": "Western Circus",
+      "diziid": "redk",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/50/bati_sirki"
+    },
+    {
+      "season": 25,
+      "episode": 39,
+      "title": "The Dangerous Passage",
+      "diziid": "redk",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/51/tehlikeli_yolculuk"
+    },
+    {
+      "season": 26,
+      "episode": 40,
+      "title": "The Rice War",
+      "diziid": "redk",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/redk/red_kit/52/pirinc_savasi"
+    }
+  ]
+}

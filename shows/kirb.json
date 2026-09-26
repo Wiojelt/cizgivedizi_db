@@ -1,0 +1,485 @@
+{
+  "id": "kirb",
+  "title": "kirby buckets",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KIRBUCPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Cars, Buses and Lawnmowers",
+      "diziid": "kirb",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/1/arabalar%2C_otobusler_ve_cim_bicme_makineleri"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Flice of the Living Dead",
+      "diziid": "kirb",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/2/yasayan_olulerin_pireleri"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Legend of Prank Williams Jr.",
+      "diziid": "kirb",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/3/prank_williams_jr._efsanesi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Year of Fridays",
+      "diziid": "kirb",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/4/cuma_yili"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Kirby Almighty",
+      "diziid": "kirb",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/5/kirby_almighty"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Killer Puppies",
+      "diziid": "kirb",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/6/katil_kopekler"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Art Attack",
+      "diziid": "kirb",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/7/sanat_saldirisi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Kirby's Choice",
+      "diziid": "kirb",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/8/kirbynin_secimi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Mac's Back",
+      "diziid": "kirb",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/9/macin_sirti"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Kick the Buckets",
+      "diziid": "kirb",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/10/kovalari_tekmele"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "It's a Brad, Brad, Brad, Brad World",
+      "diziid": "kirb",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/11/bu_bir_brad%2C_brad%2C_brad%2C_brad_dunyasi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Gimme Some Room",
+      "diziid": "kirb",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/12/bana_bir_oda_ver"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Day of the Cat",
+      "diziid": "kirb",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/13/kedi_gunu"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Rise and Fall of 4th Period",
+      "diziid": "kirb",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/14/periyodun_yukselisi_ve_dususu"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Hurt Box",
+      "diziid": "kirb",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/15/aci_kutusu"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Get a Grip",
+      "diziid": "kirb",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/16/bir_el_edin%21"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "All Hands on Dexter",
+      "diziid": "kirb",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/17/tum_eller_dexterda"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Av Kid",
+      "diziid": "kirb",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/18/auradon_cocuklari"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Mother of All Lies",
+      "diziid": "kirb",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/19/tum_yalanlarin_anasi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Send in the Clowns",
+      "diziid": "kirb",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/20/palyaco_gonderimi"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "Viva La Dad",
+      "diziid": "kirb",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/21/cok_yasa_baba"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "Failure to Launch",
+      "diziid": "kirb",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/22/baslatilamadi"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "The Gil in My Life",
+      "diziid": "kirb",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/23/hayatimdaki_gil"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "The School Spirit",
+      "diziid": "kirb",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/24/okul_ruhu"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "War and Pizza",
+      "diziid": "kirb",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/25/savas_ve_pizza"
+    },
+    {
+      "season": 6,
+      "episode": 26,
+      "title": "The Kirbinator",
+      "diziid": "kirb",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/26/kirbinator"
+    },
+    {
+      "season": 7,
+      "episode": 27,
+      "title": "Balloonacy!",
+      "diziid": "kirb",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/27/balonculuk%21"
+    },
+    {
+      "season": 8,
+      "episode": 28,
+      "title": "Kirby Sells Out",
+      "diziid": "kirb",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/28/kirby_tukendi"
+    },
+    {
+      "season": 9,
+      "episode": 29,
+      "title": "It's a Kirbyful Life",
+      "diziid": "kirb",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/29/kirby_dolu_bir_hayat"
+    },
+    {
+      "season": 10,
+      "episode": 30,
+      "title": "Atta Boy",
+      "diziid": "kirb",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/30/saldiri_cocugu"
+    },
+    {
+      "season": 11,
+      "episode": 31,
+      "title": "I, Gregory",
+      "diziid": "kirb",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/31/ben%2C_gregory"
+    },
+    {
+      "season": 12,
+      "episode": 32,
+      "title": "Weekend with Inga",
+      "diziid": "kirb",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/32/inga_ile_hafta_sonu"
+    },
+    {
+      "season": 13,
+      "episode": 33,
+      "title": "Ripper Impossible",
+      "diziid": "kirb",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/33/imkansiz_karindesen"
+    },
+    {
+      "season": 14,
+      "episode": 34,
+      "title": "Kirby to the Max",
+      "diziid": "kirb",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/34/kirbyden_maxe"
+    },
+    {
+      "season": 15,
+      "episode": 35,
+      "title": "Oh, Bros, Where Art Thou?",
+      "diziid": "kirb",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/35/ah%2C_kardesler%2C_neredesiniz"
+    },
+    {
+      "season": 16,
+      "episode": 36,
+      "title": "Twinsies",
+      "diziid": "kirb",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/36/ikizler"
+    },
+    {
+      "season": 17,
+      "episode": 37,
+      "title": "Say Uncle",
+      "diziid": "kirb",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/37/amca_de"
+    },
+    {
+      "season": 18,
+      "episode": 38,
+      "title": "When Mitchell Met Dad",
+      "diziid": "kirb",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/38/mitchell_babamla_tanistiginda"
+    },
+    {
+      "season": 19,
+      "episode": 39,
+      "title": "Mitchell's Gauntlet",
+      "diziid": "kirb",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/39/mitchellin_eldiveni"
+    },
+    {
+      "season": 20,
+      "episode": 40,
+      "title": "Call of Doodie",
+      "diziid": "kirb",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/40/doodienin_cagrisi"
+    },
+    {
+      "season": 21,
+      "episode": 41,
+      "title": "Tunnel Babies",
+      "diziid": "kirb",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/41/tunel_bebekleri"
+    },
+    {
+      "season": 22,
+      "episode": 42,
+      "title": "Buckets of Money",
+      "diziid": "kirb",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/42/para_kovalari"
+    },
+    {
+      "season": 23,
+      "episode": 43,
+      "title": "Torched",
+      "diziid": "kirb",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/43/yanmis"
+    },
+    {
+      "season": 24,
+      "episode": 44,
+      "title": "Me Time: The Ballad of Mac and Mom",
+      "diziid": "kirb",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/44/ben_zaman%3A_mac_ve_annemin_sarkisi"
+    },
+    {
+      "season": 25,
+      "episode": 45,
+      "title": "Battle of the Ballot",
+      "diziid": "kirb",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/45/oy_pusulasi_savasi"
+    },
+    {
+      "season": 26,
+      "episode": 46,
+      "title": "The Goods",
+      "diziid": "kirb",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/46/mallar"
+    },
+    {
+      "season": 1,
+      "episode": 47,
+      "title": "Yep, This Is Happening",
+      "diziid": "kirb",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/47/evet%2C_bu_oluyor"
+    },
+    {
+      "season": 2,
+      "episode": 48,
+      "title": "Bad Seed",
+      "diziid": "kirb",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/48/kotu_tohum"
+    },
+    {
+      "season": 3,
+      "episode": 49,
+      "title": "Queen for a Dawn",
+      "diziid": "kirb",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/49/safak_kralicesi"
+    },
+    {
+      "season": 4,
+      "episode": 50,
+      "title": "Forest Hills Blues",
+      "diziid": "kirb",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/50/forest_hills_drami"
+    },
+    {
+      "season": 5,
+      "episode": 51,
+      "title": "Cool Chad",
+      "diziid": "kirb",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/51/serin_cad"
+    },
+    {
+      "season": 6,
+      "episode": 52,
+      "title": "The Unpranked",
+      "diziid": "kirb",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/52/sakasiz"
+    },
+    {
+      "season": 7,
+      "episode": 53,
+      "title": "Commander Kirbo",
+      "diziid": "kirb",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/53/komutan_kirbo"
+    },
+    {
+      "season": 8,
+      "episode": 54,
+      "title": "Dr. Mac 'n Cheese's Labyrinth of Horrors",
+      "diziid": "kirb",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/54/dr._mac_n_cheesein_korku_labirenti"
+    },
+    {
+      "season": 9,
+      "episode": 55,
+      "title": "Closing Time",
+      "diziid": "kirb",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/55/kapanis_saati"
+    },
+    {
+      "season": 10,
+      "episode": 56,
+      "title": "A Tale of Two Kirbys",
+      "diziid": "kirb",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/56/iki_kirbynin_hikayesi"
+    },
+    {
+      "season": 11,
+      "episode": 57,
+      "title": "That Sinking Feeling",
+      "diziid": "kirb",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/57/o_azalan_duygu"
+    },
+    {
+      "season": 12,
+      "episode": 58,
+      "title": "Orbed and Dangerous",
+      "diziid": "kirb",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/58/kure_ve_tehlikeli"
+    },
+    {
+      "season": 13,
+      "episode": 59,
+      "title": "Yep, Still Happening",
+      "diziid": "kirb",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/kirb/kirby_buckets/59/evet%2C_hala_oluyor"
+    }
+  ]
+}

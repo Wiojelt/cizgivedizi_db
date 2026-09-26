@@ -1,0 +1,78 @@
+{
+  "id": "onimu",
+  "title": "onimusha",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/ONIMUPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Aksiyon",
+    "Fantastik",
+    "Korku"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Demon",
+      "diziid": "onimu",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/onimu/onimusha/1/iblis"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Mountain Demon",
+      "diziid": "onimu",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/onimu/onimusha/2/dag_iblisi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Nightmare",
+      "diziid": "onimu",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/onimu/onimusha/3/kabus"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Bewitch",
+      "diziid": "onimu",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/onimu/onimusha/4/buyuleme"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Yin Soul",
+      "diziid": "onimu",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/onimu/onimusha/5/yin_ruhu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Oni",
+      "diziid": "onimu",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/onimu/onimusha/6/oni"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Harbinger",
+      "diziid": "onimu",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/onimu/onimusha/7/haberci"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Yang Soul",
+      "diziid": "onimu",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/onimu/onimusha/8/yang_ruhu"
+    }
+  ]
+}

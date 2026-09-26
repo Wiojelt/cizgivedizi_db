@@ -1,0 +1,212 @@
+{
+  "id": "lama",
+  "title": "lama lama",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/LAMAPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Zoom! Zoom! Zoom! / Lost Tooth",
+      "diziid": "lama",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/1/zoom%21_zoom%21_zoom%21__kayip_dis"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Last Day of Summer / Bully Goat",
+      "diziid": "lama",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/2/yazin_son_gunu__zorba_keci"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Forgotten Fuzzy / Home with Mama",
+      "diziid": "lama",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/3/tuyler_nerede__anne_ile_evde"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Llama Llama Red Pajama / Time to Share",
+      "diziid": "lama",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/4/lama_lama_kirmizi_pijama__paylasma_zamani"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Llama Llama Shopping Drama / Lucky Pajamas",
+      "diziid": "lama",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/5/lama_lama_alveriste_kargasa__sansli_pijama"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Snow Show / Secret Santa",
+      "diziid": "lama",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/6/kar_gostergesi__gizli_noel_baba"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Spring Fever / Happy Birthday Llama Llama",
+      "diziid": "lama",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/7/ilkbahar_heyecani__nice_senelere_lama_lama"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Llama Llama Lemonade / Stage Fright",
+      "diziid": "lama",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/8/lama_lama_limonata__sahne_korkusu"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Sleepover at Gilroy's / Noisy Neighbor",
+      "diziid": "lama",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/9/gilroylarda_yatiya_kalma__gurultulu_komsu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Coach Llama Llama / Jealous Nelly",
+      "diziid": "lama",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/10/koc_lama_lama__kiskanc_nelly"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Llama Llama Trick or Treat / Boat Float",
+      "diziid": "lama",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/11/lama_lama_seker_mi_saka_mi__kayik_yuzdurme"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Beach Day / Mama Llama's Mother's Day",
+      "diziid": "lama",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/12/kumsal_gunu__anne_lamanin_anneler_gunu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Saving Luna's Necklace / Let's Go Camping",
+      "diziid": "lama",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/13/lunanin_kolyesini_kurtarmak__hadi_kampa_gidelim"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Llama Llama and the Babysitter / Job Day",
+      "diziid": "lama",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/14/lama_lama_ve_cocuk_bakicisi__is_gunu"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Llama Llama Loves to Read / I Heart You!",
+      "diziid": "lama",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/15/lama_lama_okumayi_sever__seni_seviyorum%21"
+    },
+    {
+      "season": 1,
+      "episode": 16,
+      "title": "Three Friends and a Baby Newman / New Neighbors",
+      "diziid": "lama",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/16/uc_arkadas_ve_bir_bebek_newman__yeni_komsular"
+    },
+    {
+      "season": 2,
+      "episode": 17,
+      "title": "Llama Llama Talent Show / Llama Llama's Lie",
+      "diziid": "lama",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/17/yetenek_yarismasi__lama_lamanin_yalani"
+    },
+    {
+      "season": 3,
+      "episode": 18,
+      "title": "Loch Ness Llama / Band Together",
+      "diziid": "lama",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/18/gol_canavari__grup_dayanismasi"
+    },
+    {
+      "season": 4,
+      "episode": 19,
+      "title": "Doctor Visit / Daddy's Day",
+      "diziid": "lama",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/19/doktor_muayenesi__baba_gunu"
+    },
+    {
+      "season": 5,
+      "episode": 20,
+      "title": "Llama Llama Light Show / Luna's Perfect Leaf",
+      "diziid": "lama",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/20/isik_gosterisi__luna_ve_mukemmel_yaprak"
+    },
+    {
+      "season": 6,
+      "episode": 21,
+      "title": "The Snow Must Go On / Message in a Bottle",
+      "diziid": "lama",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/21/kar_devam_etmeli__sisedeki_mesaj"
+    },
+    {
+      "season": 7,
+      "episode": 22,
+      "title": "New Year, New Me",
+      "diziid": "lama",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/22/yeni_yilda_yeni_bir_ben"
+    },
+    {
+      "season": 8,
+      "episode": 23,
+      "title": "Story Island / The New Toy",
+      "diziid": "lama",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/23/hikaye_adasi__yeni_oyuncak"
+    },
+    {
+      "season": 9,
+      "episode": 24,
+      "title": "Thanks-For-Giving Day / Finding Dion",
+      "diziid": "lama",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/24/yetiskinlere_sukran_gunu__dionu_bulmak"
+    },
+    {
+      "season": 10,
+      "episode": 25,
+      "title": "Llama Family Vacation",
+      "diziid": "lama",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/lama/lama_lama/25/lama_aile_tatili"
+    }
+  ]
+}

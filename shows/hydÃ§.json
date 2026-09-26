@@ -1,0 +1,637 @@
+{
+  "id": "hydÃ§",
+  "title": "haydi Ã§alkala",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/HYDÃ‡Poster.avif",
+  "channel": "Disney Channel",
+  "genres": [
+    "MÃ¼zik/MÃ¼zikal",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Start It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/1/haydi_baslat"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Meatball It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/2/haydi_koftele"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Give It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/3/haydi_vazgec"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Add It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/4/haydi_ekle"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Kick It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/5/haydi_ortaligi_karistir"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Age It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/6/haydi_yaslandir"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Party It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/7/haydi_partile"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Hook It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/8/haydi_bagla"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Wild It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/9/haydi_cilginlas"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Match It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/10/haydi_eslestir"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Show It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/11/haydi_goster"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Heat It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/12/haydi_kizistir"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Glitz It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/13/haydi_parilda"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Hot Mess It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/14/haydi_berbat_et"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Reunion It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/15/haydi_birlestir"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Sweat It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/16/haydi_terlet"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Vatalihootsit It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/17/haydi_ateskes"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Model It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/18/haydi_modellik_yap"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Twist It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/19/haydi_tvist"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Break It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/20/haydi_yaz_gelsin"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Throw It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/21/haydi_firlat"
+    },
+    {
+      "season": 1,
+      "episode": 22,
+      "title": "Shrink It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/22/haydi_kucult"
+    },
+    {
+      "season": 2,
+      "episode": 23,
+      "title": "Three's a Crowd It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/23/uc_kisi_kalabalik_olur"
+    },
+    {
+      "season": 3,
+      "episode": 24,
+      "title": "Shake It Up, Up and Away (1)",
+      "diziid": "hyd%C3%A7",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/24/haydi_calkala%2C_yukariya_ve_uzaga_bolum_1"
+    },
+    {
+      "season": 4,
+      "episode": 25,
+      "title": "Shake It Up, Up and Away (2)",
+      "diziid": "hyd%C3%A7",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/25/haydi_calkala%2C_yukariya_ve_uzaga_bolum_2"
+    },
+    {
+      "season": 5,
+      "episode": 26,
+      "title": "Beam It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/26/isinla"
+    },
+    {
+      "season": 6,
+      "episode": 27,
+      "title": "Doctor It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/27/doktor"
+    },
+    {
+      "season": 7,
+      "episode": 28,
+      "title": "Review It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/28/haydi_elestir"
+    },
+    {
+      "season": 8,
+      "episode": 29,
+      "title": "Double Pegasus It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/29/cifte_pegasus"
+    },
+    {
+      "season": 9,
+      "episode": 30,
+      "title": "Auction It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/30/haydi_acik_artirmaya"
+    },
+    {
+      "season": 10,
+      "episode": 31,
+      "title": "Camp It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/31/haydi_kampa"
+    },
+    {
+      "season": 11,
+      "episode": 32,
+      "title": "Jingle It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/32/haydi_sikirdat"
+    },
+    {
+      "season": 12,
+      "episode": 33,
+      "title": "Apply It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/33/haydi_basvur"
+    },
+    {
+      "season": 13,
+      "episode": 34,
+      "title": "Split It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/34/haydi_ayir"
+    },
+    {
+      "season": 14,
+      "episode": 35,
+      "title": "Copy Kat It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/35/haydi_kopyala"
+    },
+    {
+      "season": 15,
+      "episode": 36,
+      "title": "Egg It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/36/haydi_durt"
+    },
+    {
+      "season": 16,
+      "episode": 37,
+      "title": "Judge It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/37/haydi_yargila"
+    },
+    {
+      "season": 17,
+      "episode": 38,
+      "title": "Parent Trap It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/38/haydi_ebeveyn_tuzagina"
+    },
+    {
+      "season": 18,
+      "episode": 39,
+      "title": "Weird It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/39/haydi_tuhaflastir"
+    },
+    {
+      "season": 19,
+      "episode": 40,
+      "title": "Whodunit Up?",
+      "diziid": "hyd%C3%A7",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/40/kimdir"
+    },
+    {
+      "season": 20,
+      "episode": 41,
+      "title": "Tunnel It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/41/haydi_tunel_kaz"
+    },
+    {
+      "season": 21,
+      "episode": 42,
+      "title": "Protest It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/42/haydi_protesto_et"
+    },
+    {
+      "season": 22,
+      "episode": 43,
+      "title": "Wrestle It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/43/haydi_gures"
+    },
+    {
+      "season": 23,
+      "episode": 44,
+      "title": "Reality Check It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/44/haydi_realite_programina"
+    },
+    {
+      "season": 24,
+      "episode": 45,
+      "title": "Rock and Roll It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/45/haydi_calkala_yuvarla"
+    },
+    {
+      "season": 25,
+      "episode": 46,
+      "title": "Boot It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/46/haydi_egitime"
+    },
+    {
+      "season": 26,
+      "episode": 47,
+      "title": "Slumber It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/47/haydi_pijama_partisine"
+    },
+    {
+      "season": 27,
+      "episode": 48,
+      "title": "Surprise It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/48/haydi_surpriz_yap"
+    },
+    {
+      "season": 28,
+      "episode": 49,
+      "title": "Embarrass It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/49/haydi_kendini_utandir"
+    },
+    {
+      "season": 29,
+      "episode": 50,
+      "title": "Made in Japan (1)",
+      "diziid": "hyd%C3%A7",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/50/japonya_macerasi_bolum_1"
+    },
+    {
+      "season": 30,
+      "episode": 51,
+      "title": "Made in Japan (2)",
+      "diziid": "hyd%C3%A7",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/51/japonya_macerasi_bolum_2"
+    },
+    {
+      "season": 31,
+      "episode": 52,
+      "title": "Made in Japan (3)",
+      "diziid": "hyd%C3%A7",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/52/japonya_macerasi_bolum_3"
+    },
+    {
+      "season": 1,
+      "episode": 53,
+      "title": "Fire It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/53/haydi_atesle"
+    },
+    {
+      "season": 2,
+      "episode": 54,
+      "title": "Funk It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/54/haydi_neselendir"
+    },
+    {
+      "season": 3,
+      "episode": 55,
+      "title": "Spirit It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/55/haydi_canlandir"
+    },
+    {
+      "season": 4,
+      "episode": 56,
+      "title": "Lock It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/56/haydi_kilitle"
+    },
+    {
+      "season": 5,
+      "episode": 57,
+      "title": "Merry Merry It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/57/haydi_mutlu_noeller"
+    },
+    {
+      "season": 6,
+      "episode": 58,
+      "title": "Home Alone It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/58/evde_tek_basina"
+    },
+    {
+      "season": 7,
+      "episode": 59,
+      "title": "Oh Brother It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/59/haydi_birader"
+    },
+    {
+      "season": 8,
+      "episode": 60,
+      "title": "Quit It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/60/haydi_pes_et"
+    },
+    {
+      "season": 9,
+      "episode": 61,
+      "title": "Ty It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/61/haydi_tyla_bagla"
+    },
+    {
+      "season": 10,
+      "episode": 62,
+      "title": "My Fair Librarian It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/62/haydi_tatli_kutuphanecim"
+    },
+    {
+      "season": 11,
+      "episode": 63,
+      "title": "Clean It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/63/haydi_temizle"
+    },
+    {
+      "season": 12,
+      "episode": 64,
+      "title": "I Do It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/64/haydi_hallet"
+    },
+    {
+      "season": 13,
+      "episode": 65,
+      "title": "Forward and Back It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/65/haydi_bir_ileri_bir_geri"
+    },
+    {
+      "season": 14,
+      "episode": 66,
+      "title": "Switch It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/66/haydi_yer_degistir"
+    },
+    {
+      "season": 15,
+      "episode": 67,
+      "title": "Love and War It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/67/ask_ve_savas"
+    },
+    {
+      "season": 16,
+      "episode": 68,
+      "title": "In the Bag It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/68/cantada_keklik"
+    },
+    {
+      "season": 17,
+      "episode": 69,
+      "title": "Brain It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/69/haydi_kafa_patlat"
+    },
+    {
+      "season": 18,
+      "episode": 70,
+      "title": "Opposites Attract It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/70/haydi_zit_kutuplara"
+    },
+    {
+      "season": 19,
+      "episode": 71,
+      "title": "Psych It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/71/haydi_medyuma"
+    },
+    {
+      "season": 20,
+      "episode": 72,
+      "title": "Future It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/72/haydi_gelecege_bak"
+    },
+    {
+      "season": 21,
+      "episode": 73,
+      "title": "Oui Oui It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/73/haydi_fransiz_kal"
+    },
+    {
+      "season": 22,
+      "episode": 74,
+      "title": "My Bitter Sweet 16 It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/74/aci_tatli_yas_16"
+    },
+    {
+      "season": 23,
+      "episode": 75,
+      "title": "Stress It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/75/haydi_streslen"
+    },
+    {
+      "season": 24,
+      "episode": 76,
+      "title": "Loyal It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/76/haydi_sadakatini_goster"
+    },
+    {
+      "season": 25,
+      "episode": 77,
+      "title": "Haunt It Up",
+      "diziid": "hyd%C3%A7",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/77/haydi_perili_eve"
+    },
+    {
+      "season": 26,
+      "episode": 78,
+      "title": "Remember Me",
+      "diziid": "hyd%C3%A7",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/hyd%C3%A7/haydi_calkala/78/beni_hatirla"
+    }
+  ]
+}

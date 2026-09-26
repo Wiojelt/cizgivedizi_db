@@ -1,0 +1,77 @@
+{
+  "id": "uniasÃ§",
+  "title": "unicorn akademisi: sÄ±rlar Ã§Ã¶zÃ¼lÃ¼yor",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/UNICASÃ‡Poster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Aksiyon",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Un-Welcome Back",
+      "diziid": "unias%C3%A7",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/unias%C3%A7/unicorn_akademisi%3A_sirlar_cozuluyor/1/hic_hos_gelmediniz"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Fairy Gemstones",
+      "diziid": "unias%C3%A7",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/unias%C3%A7/unicorn_akademisi%3A_sirlar_cozuluyor/2/peri_taslari"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Sneaky Snookers",
+      "diziid": "unias%C3%A7",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/unias%C3%A7/unicorn_akademisi%3A_sirlar_cozuluyor/3/oyun"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Sick and Fired",
+      "diziid": "unias%C3%A7",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/unias%C3%A7/unicorn_akademisi%3A_sirlar_cozuluyor/4/orman_yangini"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Grimorian Gambit",
+      "diziid": "unias%C3%A7",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/unias%C3%A7/unicorn_akademisi%3A_sirlar_cozuluyor/5/grimoria_hamlesi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Big Trouble",
+      "diziid": "unias%C3%A7",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/unias%C3%A7/unicorn_akademisi%3A_sirlar_cozuluyor/6/buyuk_bela"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Solaira Festival",
+      "diziid": "unias%C3%A7",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/unias%C3%A7/unicorn_akademisi%3A_sirlar_cozuluyor/7/solaira_festivali"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Fairy Tiara",
+      "diziid": "unias%C3%A7",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/unias%C3%A7/unicorn_akademisi%3A_sirlar_cozuluyor/8/peri_taci"
+    }
+  ]
+}

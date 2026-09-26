@@ -1,0 +1,597 @@
+{
+  "id": "h108",
+  "title": "hero 108",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/H108Poster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Aksiyon",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Rabbit Castle",
+      "diziid": "h108",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/1/tavsan_kalesi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Elephant Castle",
+      "diziid": "h108",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/2/fil_kalesi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Liger Castle",
+      "diziid": "h108",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/3/yavru_aslan_kalesi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Camel Castle",
+      "diziid": "h108",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/4/deve_kalesi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Parrot Castle",
+      "diziid": "h108",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/5/papagan_kalesi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Turtle Cannon Competition",
+      "diziid": "h108",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/6/kaplumbaga_top_yarismasi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Pandaffe Castle",
+      "diziid": "h108",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/7/panzur_kalesi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Eagle Castle",
+      "diziid": "h108",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/8/kartal_kalesi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Baboon Castle",
+      "diziid": "h108",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/9/babun_kalesi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Folk Game Competition",
+      "diziid": "h108",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/10/aile_oyunlari_yarismasi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Tank Army Battle Part I",
+      "diziid": "h108",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/11/tank_ordusunun_meydan_muharebesi_bolum_1"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Tank Army Battle Part II",
+      "diziid": "h108",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/12/tank_ordusunun_meydan_muharebesi_bolum_2"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Camel Castle II",
+      "diziid": "h108",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/13/deve_kalesi_2"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Turtle Cannon Competition II",
+      "diziid": "h108",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/14/kaplumbaga_topu_yarismasi_2"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Elephant Castle II",
+      "diziid": "h108",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/15/fil_kalesi_2"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Peacock Castle",
+      "diziid": "h108",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/16/tavuskusu_kalesi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Navy Battle Part I",
+      "diziid": "h108",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/17/deniz_kuvvetlerinin_meydan_muharebesi_bolum_1"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Navy Battle Part II",
+      "diziid": "h108",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/18/deniz_kuvvetlerinin_meydan_muharebesi_bolum_2"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Dog Castle",
+      "diziid": "h108",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/19/kopek_kalesi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Rhino Castle",
+      "diziid": "h108",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/20/gergedan_kalesi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Lion Castle",
+      "diziid": "h108",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/21/aslan_kalesi"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Crocodile Castle",
+      "diziid": "h108",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/22/timsah_kalesi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Cat Castle",
+      "diziid": "h108",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/23/kedi_kalesi"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Cheetah Castle",
+      "diziid": "h108",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/24/cita_kalesi"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Air Battle",
+      "diziid": "h108",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/25/hava_savasi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Shark Castle",
+      "diziid": "h108",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/26/kopek_baligi_kalesi"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Parrot Castle II",
+      "diziid": "h108",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/27/papagan_kalesi_2"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Folk Game Competition II",
+      "diziid": "h108",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/28/aile_oyunlari_yarismasi_2"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Snake Castle",
+      "diziid": "h108",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/29/yilan_kalesi"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Octopus Castle",
+      "diziid": "h108",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/30/ahtapot_kalesi"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Heron Ox Castle",
+      "diziid": "h108",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/31/balikcil_okuz_kalesi"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Firework Festival",
+      "diziid": "h108",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/32/havai_fisek_festivali"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Chameleon Castle",
+      "diziid": "h108",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/33/bukelamun_kalesi"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Bald Eagle Castle",
+      "diziid": "h108",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/34/dazlak_kartal_kalesi"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Crab Castle",
+      "diziid": "h108",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/35/yengec_kalesi"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Pig and Skunk Armies' Wild Battle",
+      "diziid": "h108",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/36/domuz_ve_kokarca_ordularinin_vahsi_savasi"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Time Train Battle Part I",
+      "diziid": "h108",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/37/zaman_treninde_meydan_muharebesi_bolum_1"
+    },
+    {
+      "season": 39,
+      "episode": 38,
+      "title": "Turtle Cannon Competition III",
+      "diziid": "h108",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/39/kaplumbaga_topu_yarismasi_bolum_3"
+    },
+    {
+      "season": 40,
+      "episode": 39,
+      "title": "Scorpion Castle",
+      "diziid": "h108",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/40/akrep_kalesi"
+    },
+    {
+      "season": 41,
+      "episode": 40,
+      "title": "Pinball Competition",
+      "diziid": "h108",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/41/langirt_yarismasi"
+    },
+    {
+      "season": 42,
+      "episode": 41,
+      "title": "Mole Castle",
+      "diziid": "h108",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/42/kostebek_kalesi"
+    },
+    {
+      "season": 43,
+      "episode": 42,
+      "title": "Duck Castle",
+      "diziid": "h108",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/43/ordek_kalesi"
+    },
+    {
+      "season": 44,
+      "episode": 43,
+      "title": "Sea Bird Castle",
+      "diziid": "h108",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/44/deniz_kusu_kalesi"
+    },
+    {
+      "season": 45,
+      "episode": 44,
+      "title": "Deer Castle",
+      "diziid": "h108",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/45/geyik_kalesi"
+    },
+    {
+      "season": 46,
+      "episode": 45,
+      "title": "Porcupine Castle",
+      "diziid": "h108",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/46/kirpi_kalesi"
+    },
+    {
+      "season": 47,
+      "episode": 46,
+      "title": "Sheep Castle",
+      "diziid": "h108",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/47/koyun_kalesi"
+    },
+    {
+      "season": 48,
+      "episode": 47,
+      "title": "Penguin Castle",
+      "diziid": "h108",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/48/penguen_kalesi"
+    },
+    {
+      "season": 49,
+      "episode": 48,
+      "title": "Frog Castle",
+      "diziid": "h108",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/49/kurbaga_kalesi"
+    },
+    {
+      "season": 50,
+      "episode": 49,
+      "title": "Cheetah Castle II",
+      "diziid": "h108",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/50/cita_kalesi_2"
+    },
+    {
+      "season": 52,
+      "episode": 50,
+      "title": "Air Force II",
+      "diziid": "h108",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/52/hava_kuvvetleri_2"
+    },
+    {
+      "season": 29,
+      "episode": 51,
+      "title": "Jellyfish Jam",
+      "diziid": "h108",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/81/denizanasi_receli"
+    },
+    {
+      "season": 30,
+      "episode": 52,
+      "title": "Demon Heartland",
+      "diziid": "h108",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/82/iblisin_kalbi"
+    },
+    {
+      "season": 31,
+      "episode": 53,
+      "title": "Leech King",
+      "diziid": "h108",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/83/suluk_kral"
+    },
+    {
+      "season": 32,
+      "episode": 54,
+      "title": "The Third Squad",
+      "diziid": "h108",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/84/ucuncu_boluk"
+    },
+    {
+      "season": 33,
+      "episode": 55,
+      "title": "The Seahorse Temptation",
+      "diziid": "h108",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/85/denizati_cazibesi"
+    },
+    {
+      "season": 35,
+      "episode": 56,
+      "title": "Animals Inside Part I",
+      "diziid": "h108",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/87/icteki_hayvanlar_1.kisim"
+    },
+    {
+      "season": 36,
+      "episode": 57,
+      "title": "Animals Inside Part II",
+      "diziid": "h108",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/88/icteki_hayvanlar_2.kisim"
+    },
+    {
+      "season": 37,
+      "episode": 58,
+      "title": "The Dark Below",
+      "diziid": "h108",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/89/karanlik_dip"
+    },
+    {
+      "season": 38,
+      "episode": 59,
+      "title": "Gladiators",
+      "diziid": "h108",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/90/gladyatorler"
+    },
+    {
+      "season": 39,
+      "episode": 60,
+      "title": "Monster Castle",
+      "diziid": "h108",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/91/canavar_kale"
+    },
+    {
+      "season": 40,
+      "episode": 61,
+      "title": "The Yeti & Phoenix",
+      "diziid": "h108",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/92/yeti_ve_anka"
+    },
+    {
+      "season": 41,
+      "episode": 62,
+      "title": "Collision Course",
+      "diziid": "h108",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/93/carpisma_yorungesi"
+    },
+    {
+      "season": 42,
+      "episode": 63,
+      "title": "Cyber Animals",
+      "diziid": "h108",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/94/siber_hayvanlar"
+    },
+    {
+      "season": 43,
+      "episode": 64,
+      "title": "Roto-Wolves",
+      "diziid": "h108",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/95/heli-kurtlar"
+    },
+    {
+      "season": 44,
+      "episode": 65,
+      "title": "Teammates",
+      "diziid": "h108",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/96/takim_arkadaslari"
+    },
+    {
+      "season": 45,
+      "episode": 66,
+      "title": "HighRoller Hydra",
+      "diziid": "h108",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/97/oyun_bozan_hydra"
+    },
+    {
+      "season": 46,
+      "episode": 67,
+      "title": "Time to Go Home",
+      "diziid": "h108",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/98/eve_donme_zamani"
+    },
+    {
+      "season": 47,
+      "episode": 68,
+      "title": "Sea Mine",
+      "diziid": "h108",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/99/deniz_mayini"
+    },
+    {
+      "season": 48,
+      "episode": 69,
+      "title": "About Faces",
+      "diziid": "h108",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/100/suratlar_hakkinda"
+    },
+    {
+      "season": 49,
+      "episode": 70,
+      "title": "The Professionals",
+      "diziid": "h108",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/101/profesyoneller"
+    },
+    {
+      "season": 50,
+      "episode": 71,
+      "title": "Swamp Hippos",
+      "diziid": "h108",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/102/bataklik_su_aygiri"
+    },
+    {
+      "season": 51,
+      "episode": 72,
+      "title": "The Bronze Giant Part I",
+      "diziid": "h108",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/103/bronz_dev_1.bolum"
+    },
+    {
+      "season": 52,
+      "episode": 73,
+      "title": "The Bronze Giant Part II",
+      "diziid": "h108",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/h108/hero_108/104/bronz_dev_2.bolum"
+    }
+  ]
+}

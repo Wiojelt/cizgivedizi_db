@@ -1,0 +1,173 @@
+{
+  "id": "rz",
+  "title": "robozuna",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/RZPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Bilim Kurgu",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Game Changer Part One",
+      "diziid": "rz",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/1/ezber_bozan%3A_kisim_i"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Game Changer Part Two",
+      "diziid": "rz",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/2/ezber_bozan%3A_kisim_ii"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Team Natrix",
+      "diziid": "rz",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/3/natrix_takimi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Lightning Harvesters",
+      "diziid": "rz",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/4/simsek_hasatcilari"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Breakout",
+      "diziid": "rz",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/5/kacis"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Ariston's Dream",
+      "diziid": "rz",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/6/ariston%E2%80%99in_ruyasi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Lightning Harvesters",
+      "diziid": "rz",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/7/simsek_hasadi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Rematch",
+      "diziid": "rz",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/8/rovans"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Free for All Part I",
+      "diziid": "rz",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/9/herkese_acik%3A_kisim_i"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Free for All Part II",
+      "diziid": "rz",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/10/herkese_acik%3A_kisim_ii"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Dominatus",
+      "diziid": "rz",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/11/dominatus"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Hacked",
+      "diziid": "rz",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/12/hacklenme"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Rebel Friends Part I",
+      "diziid": "rz",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/13/asi_arkadaslar%3A_kisim_i"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Rebel Friends Part II",
+      "diziid": "rz",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/14/asi_arkadaslar%3A_kisim_ii"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Home",
+      "diziid": "rz",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/15/ev"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Right Thing to Do",
+      "diziid": "rz",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/16/yapilmasi_gereken_sey"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Reunion",
+      "diziid": "rz",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/17/yeniden_bulusma"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Unmasked",
+      "diziid": "rz",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/18/maskesiz"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Endgame Part I",
+      "diziid": "rz",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/19/oyun_sonu%3A_kisim_i"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Endgame Part II",
+      "diziid": "rz",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/rz/robozuna/20/oyun_sonu%3A_kisim_ii"
+    }
+  ]
+}

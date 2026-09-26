@@ -1,0 +1,261 @@
+{
+  "id": "monk",
+  "title": "monkie kid",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MONKPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Aksiyon",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Bad Weather",
+      "diziid": "monk",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/1/kotu_hava"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Duplicatnation",
+      "diziid": "monk",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/2/klonlar"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Coming Home",
+      "diziid": "monk",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/3/eve_donus"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Noodles or Death",
+      "diziid": "monk",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/4/eriste_mi_son_mu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Calabash",
+      "diziid": "monk",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/5/su_kabagi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Great Wall Race",
+      "diziid": "monk",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/6/buyuk_duvar_yarisi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Impossible Delivery",
+      "diziid": "monk",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/7/imkansiz_teslimat"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Skeleton Key",
+      "diziid": "monk",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/8/maymuncuk"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Macaque",
+      "diziid": "monk",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/9/makak"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The End is Here!",
+      "diziid": "monk",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/10/son_geldi%21"
+    },
+    {
+      "season": 1,
+      "episode": 11,
+      "title": "Sleep Bug",
+      "diziid": "monk",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/11/uyku_bocegi"
+    },
+    {
+      "season": 2,
+      "episode": 12,
+      "title": "Dumpling Destruction",
+      "diziid": "monk",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/12/manti_yikimi"
+    },
+    {
+      "season": 3,
+      "episode": 13,
+      "title": "Pig Pong Panic",
+      "diziid": "monk",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/13/pinpon_panigi"
+    },
+    {
+      "season": 4,
+      "episode": 14,
+      "title": "Sweet'n Sour",
+      "diziid": "monk",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/14/tatli_eksi"
+    },
+    {
+      "season": 5,
+      "episode": 15,
+      "title": "Minor Scale",
+      "diziid": "monk",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/15/kucuk_boy"
+    },
+    {
+      "season": 6,
+      "episode": 16,
+      "title": "Game On",
+      "diziid": "monk",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/16/oyun_baslasin"
+    },
+    {
+      "season": 7,
+      "episode": 17,
+      "title": "Shadow Play",
+      "diziid": "monk",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/17/golge_oyunu"
+    },
+    {
+      "season": 8,
+      "episode": 18,
+      "title": "To Catch a Leaf",
+      "diziid": "monk",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/18/bir_yaprak_bulmak_icin"
+    },
+    {
+      "season": 9,
+      "episode": 19,
+      "title": "72 Transformations",
+      "diziid": "monk",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/19/donusum"
+    },
+    {
+      "season": 10,
+      "episode": 20,
+      "title": "This is the End!",
+      "diziid": "monk",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/20/son_geldi%21"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "On the Run",
+      "diziid": "monk",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/21/kacis"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "Great Grand Dragon Of The East",
+      "diziid": "monk",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/22/dogunun_buyuk_yuce_ejderhasi"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "Smartie Kid",
+      "diziid": "monk",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/23/akilli_cocuk"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "The Winning Side",
+      "diziid": "monk",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/24/kazanan_taraf"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "Amnesia Rules",
+      "diziid": "monk",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/25/hafiza_kaybi_kurallari"
+    },
+    {
+      "season": 6,
+      "episode": 26,
+      "title": "The First Ring",
+      "diziid": "monk",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/26/ilk_halka"
+    },
+    {
+      "season": 7,
+      "episode": 27,
+      "title": "Cooking With Chang'e",
+      "diziid": "monk",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/27/change_ile_yemek_yapmak"
+    },
+    {
+      "season": 8,
+      "episode": 28,
+      "title": "Benched",
+      "diziid": "monk",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/28/yedek_kulubesinde"
+    },
+    {
+      "season": 9,
+      "episode": 29,
+      "title": "The King, The Prince, and The Shadow",
+      "diziid": "monk",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/29/kral%2C_prens_ve_golge"
+    },
+    {
+      "season": 10,
+      "episode": 30,
+      "title": "The Samadhi Fire",
+      "diziid": "monk",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/30/samadhi_atesi"
+    },
+    {
+      "season": 1,
+      "episode": 31,
+      "title": "A Hero is Born",
+      "diziid": "monk",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/monk/monkie_kid/0/bir_kahraman_doguyor"
+    }
+  ]
+}

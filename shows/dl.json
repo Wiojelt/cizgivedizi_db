@@ -1,0 +1,308 @@
+{
+  "id": "dl",
+  "title": "dexter'Ä±n laboratuvarÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/DLPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "DeeDeemensional",
+      "diziid": "dl",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/1/dee_dee_boyut_degistiriyor"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Dial M for Monkey: Magmanamus",
+      "diziid": "dl",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/2/lav_adam"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Maternal Combat",
+      "diziid": "dl",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/3/anneler_savasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Dexter Dodgeball",
+      "diziid": "dl",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/4/yakan_top"
+    },
+    {
+      "season": 10,
+      "episode": 5,
+      "title": "Double Trouble",
+      "diziid": "dl",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/10/cifte_bela"
+    },
+    {
+      "season": 11,
+      "episode": 6,
+      "title": "Dial M for Monkey: Barbequor",
+      "diziid": "dl",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/11/barbekucu"
+    },
+    {
+      "season": 12,
+      "episode": 7,
+      "title": "Dexter's Lab: A Story",
+      "diziid": "dl",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/12/dexterin_laboratuvari"
+    },
+    {
+      "season": 13,
+      "episode": 8,
+      "title": "Jurassic Pooch",
+      "diziid": "dl",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/13/dinozor_kopek"
+    },
+    {
+      "season": 14,
+      "episode": 9,
+      "title": "Dial M For Monkey: Orgon Grindor",
+      "diziid": "dl",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/14/laternaci"
+    },
+    {
+      "season": 15,
+      "episode": 10,
+      "title": "Dimwit Dexter",
+      "diziid": "dl",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/15/aptal_dexter"
+    },
+    {
+      "season": 16,
+      "episode": 11,
+      "title": "Dee Dee's Room",
+      "diziid": "dl",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/16/dee_deenin_odasi"
+    },
+    {
+      "season": 17,
+      "episode": 12,
+      "title": "Dial M For Monkey: Huntor",
+      "diziid": "dl",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/17/avci"
+    },
+    {
+      "season": 18,
+      "episode": 13,
+      "title": "The Big Sister",
+      "diziid": "dl",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/18/buyuk_kiz_kardes"
+    },
+    {
+      "season": 19,
+      "episode": 14,
+      "title": "Star Spangled Sidekicks",
+      "diziid": "dl",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/19/super_kahraman_yardimcilar"
+    },
+    {
+      "season": 20,
+      "episode": 15,
+      "title": "The Justice Friends: TV Super Pals",
+      "diziid": "dl",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/20/televizyon_super_dostlar"
+    },
+    {
+      "season": 22,
+      "episode": 16,
+      "title": "Babysitter Blues",
+      "diziid": "dl",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/22/bebek_bakicisi"
+    },
+    {
+      "season": 25,
+      "episode": 17,
+      "title": "Dollhouse Drama",
+      "diziid": "dl",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/25/bebek_evi"
+    },
+    {
+      "season": 26,
+      "episode": 18,
+      "title": "The Justice Friends: Krunk's Date",
+      "diziid": "dl",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/26/krunkin_randevusu"
+    },
+    {
+      "season": 27,
+      "episode": 19,
+      "title": "The Big Cheese",
+      "diziid": "dl",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/27/buyuk_peynir"
+    },
+    {
+      "season": 28,
+      "episode": 20,
+      "title": "Way of the Dee Dee",
+      "diziid": "dl",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/28/dee_deenin_yolu"
+    },
+    {
+      "season": 29,
+      "episode": 21,
+      "title": "The Justice Friends: Say Uncle Sam",
+      "diziid": "dl",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/29/sam_amca_diyor_ki"
+    },
+    {
+      "season": 30,
+      "episode": 22,
+      "title": "Tribe Called Girl",
+      "diziid": "dl",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/30/kizlar_kabilesi"
+    },
+    {
+      "season": 31,
+      "episode": 23,
+      "title": "Spacecase",
+      "diziid": "dl",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/31/uzaylilar"
+    },
+    {
+      "season": 32,
+      "episode": 24,
+      "title": "The Justice Friends: Ratman",
+      "diziid": "dl",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/32/fare_adam"
+    },
+    {
+      "season": 33,
+      "episode": 25,
+      "title": "Dexter's Debt",
+      "diziid": "dl",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/33/dexterin_borcu"
+    },
+    {
+      "season": 34,
+      "episode": 26,
+      "title": "Dexter's Rival",
+      "diziid": "dl",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/34/dexterin_rakibi"
+    },
+    {
+      "season": 35,
+      "episode": 27,
+      "title": "The Justice Friends: Bee Where?",
+      "diziid": "dl",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/35/ari_nerede"
+    },
+    {
+      "season": 36,
+      "episode": 28,
+      "title": "Mandarker",
+      "diziid": "dl",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/36/mandark"
+    },
+    {
+      "season": 37,
+      "episode": 29,
+      "title": "Inflata Dee Dee",
+      "diziid": "dl",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/37/sisme_dee_dee"
+    },
+    {
+      "season": 38,
+      "episode": 30,
+      "title": "The Justice Friends: Can't Nap",
+      "diziid": "dl",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/38/sekerleme_yapamiyorum"
+    },
+    {
+      "season": 39,
+      "episode": 31,
+      "title": "Monstory",
+      "diziid": "dl",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/39/canavar_hikayesi"
+    },
+    {
+      "season": 1,
+      "episode": 32,
+      "title": "Beard to be Feared",
+      "diziid": "dl",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/40/korkunc_sakal"
+    },
+    {
+      "season": 2,
+      "episode": 33,
+      "title": "Quackor the Fowl",
+      "diziid": "dl",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/41/ordek_adam"
+    },
+    {
+      "season": 3,
+      "episode": 34,
+      "title": "Ant Pants",
+      "diziid": "dl",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/42/karincalar"
+    },
+    {
+      "season": 4,
+      "episode": 35,
+      "title": "Mom and Jerry",
+      "diziid": "dl",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/43/anne_ve_jerry"
+    },
+    {
+      "season": 5,
+      "episode": 36,
+      "title": "Chubby Cheese",
+      "diziid": "dl",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/44/sisko_peynir"
+    },
+    {
+      "season": 6,
+      "episode": 37,
+      "title": "That Crazy Robot",
+      "diziid": "dl",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/dl/dexterin_laboratuvari/45/cilgin_robot"
+    }
+  ]
+}

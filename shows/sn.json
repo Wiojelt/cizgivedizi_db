@@ -1,0 +1,380 @@
+{
+  "id": "sn",
+  "title": "sanat ninjasÄ±",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/SNPoster.avif",
+  "channel": "TRT Eba",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Day of the Birdman",
+      "diziid": "sn",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/1/kus_adam_gunu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Day of the Disguise",
+      "diziid": "sn",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/2/gizlenme_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Day of the Goblins",
+      "diziid": "sn",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/3/kukla_gunu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Day of the Lucky Trunks",
+      "diziid": "sn",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/4/ugurlu_mayo_gunu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Day of the Angry Cloud",
+      "diziid": "sn",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/5/ofkeli_bulut_gunu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Day of the Decoration",
+      "diziid": "sn",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/6/dekorasyon_gunu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Day of the Trash",
+      "diziid": "sn",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/7/cercop_gunu"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Day of the Aliens",
+      "diziid": "sn",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/8/uzaylilar_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Day of the Bug",
+      "diziid": "sn",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/9/mikrobun_gunu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Day of the Dog",
+      "diziid": "sn",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/10/kopek_gunu"
+    },
+    {
+      "season": 1,
+      "episode": 11,
+      "title": "Day of the Prank",
+      "diziid": "sn",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/11/soguk_sakalar_gunu"
+    },
+    {
+      "season": 2,
+      "episode": 12,
+      "title": "Day of the Game",
+      "diziid": "sn",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/12/oyun_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 13,
+      "title": "Day of the Spider",
+      "diziid": "sn",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/13/orumcegin_gunu"
+    },
+    {
+      "season": 4,
+      "episode": 14,
+      "title": "Day of the Diamond",
+      "diziid": "sn",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/14/elmas_gunu"
+    },
+    {
+      "season": 5,
+      "episode": 15,
+      "title": "Day of the Time Machine",
+      "diziid": "sn",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/15/zaman_makinesi_gunu"
+    },
+    {
+      "season": 6,
+      "episode": 16,
+      "title": "Day of the Dragon",
+      "diziid": "sn",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/16/ejderha_gunu"
+    },
+    {
+      "season": 7,
+      "episode": 17,
+      "title": "Day of the Baby",
+      "diziid": "sn",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/17/bebek_gunu"
+    },
+    {
+      "season": 8,
+      "episode": 18,
+      "title": "Day of the Band",
+      "diziid": "sn",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/18/muzik_grubu_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 19,
+      "title": "Day of the Werewolf",
+      "diziid": "sn",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/19/kurt_adam_gunu"
+    },
+    {
+      "season": 10,
+      "episode": 20,
+      "title": "Day of the Six Pack",
+      "diziid": "sn",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/20/kas_yapma_gunu"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "Day of the Animals",
+      "diziid": "sn",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/21/hayvanlar_gunu"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "Day of the Match",
+      "diziid": "sn",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/22/mac_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "Day of the Egg",
+      "diziid": "sn",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/23/yumurta_gunu"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "Day of the Yeti",
+      "diziid": "sn",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/24/yetinin_gunu"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "Day of the Dream",
+      "diziid": "sn",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/25/ruya_gunu"
+    },
+    {
+      "season": 6,
+      "episode": 26,
+      "title": "Day of the Vlog",
+      "diziid": "sn",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/26/video_gunlugu_gunu"
+    },
+    {
+      "season": 7,
+      "episode": 27,
+      "title": "Day of the Invisibility",
+      "diziid": "sn",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/27/gorunmezlik_gunu"
+    },
+    {
+      "season": 8,
+      "episode": 28,
+      "title": "Day of the Spy",
+      "diziid": "sn",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/28/casus_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 29,
+      "title": "Day of the Ancestor",
+      "diziid": "sn",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/29/ata_gunu"
+    },
+    {
+      "season": 10,
+      "episode": 30,
+      "title": "Day of the Talent",
+      "diziid": "sn",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/30/yetenek_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 31,
+      "title": "Day of the Competition",
+      "diziid": "sn",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/33/yarisma_gunu"
+    },
+    {
+      "season": 4,
+      "episode": 32,
+      "title": "Day of the Hair",
+      "diziid": "sn",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/34/sac_gunu"
+    },
+    {
+      "season": 5,
+      "episode": 33,
+      "title": "Day of the Driving Test",
+      "diziid": "sn",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/35/ehliyet_sinavi_gunu"
+    },
+    {
+      "season": 6,
+      "episode": 34,
+      "title": "Day of the Gossip",
+      "diziid": "sn",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/36/konusma_gunu"
+    },
+    {
+      "season": 7,
+      "episode": 35,
+      "title": "Day of the Superfan",
+      "diziid": "sn",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/37/fanatik_hayran_gunu"
+    },
+    {
+      "season": 8,
+      "episode": 36,
+      "title": "Day of the Dummy",
+      "diziid": "sn",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/38/manken_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 37,
+      "title": "Day of the Fashion",
+      "diziid": "sn",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/39/moda_gunu"
+    },
+    {
+      "season": 10,
+      "episode": 38,
+      "title": "Day of the World Trip",
+      "diziid": "sn",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/40/dunya_turu_gunu"
+    },
+    {
+      "season": 2,
+      "episode": 39,
+      "title": "Day of the Clown",
+      "diziid": "sn",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/42/palyaco_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 40,
+      "title": "Day of the Virtual Reality",
+      "diziid": "sn",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/43/sanal_gerceklik_gunu"
+    },
+    {
+      "season": 5,
+      "episode": 41,
+      "title": "Day of the Detective",
+      "diziid": "sn",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/45/dedektiflik_gunu"
+    },
+    {
+      "season": 7,
+      "episode": 42,
+      "title": "Day of the Shampoo-Poo",
+      "diziid": "sn",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/47/sampuan_gunu"
+    },
+    {
+      "season": 8,
+      "episode": 43,
+      "title": "Day of the Antique",
+      "diziid": "sn",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/48/antik_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 44,
+      "title": "Day of the Grand High Ninja",
+      "diziid": "sn",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/49/en_yetkili_ninja_gunu"
+    },
+    {
+      "season": 14,
+      "episode": 45,
+      "title": "Day of the Zapper",
+      "diziid": "sn",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/54/icat_gunu"
+    },
+    {
+      "season": 15,
+      "episode": 46,
+      "title": "Day of the Flashback",
+      "diziid": "sn",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/sn/sanat_ninjasi/55/geriye_donus_gunu"
+    }
+  ]
+}

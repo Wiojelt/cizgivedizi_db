@@ -1,0 +1,1660 @@
+{
+  "id": "pcy",
+  "title": "pocoyo",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/PCYPoster.avif",
+  "channel": "Yumurcak TV",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Umbrella Umbrella",
+      "diziid": "pcy",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/1/bu_bir_semsiye"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Drum Roll Please",
+      "diziid": "pcy",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/2/orkestra_lutfen"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Swept Away",
+      "diziid": "pcy",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/3/temizlik"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Who's On The Phone?",
+      "diziid": "pcy",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/4/telefon_caliyor"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Fetch Loula Fetch!",
+      "diziid": "pcy",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/5/tut_loula_tut%21"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "A Little Cloud",
+      "diziid": "pcy",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/6/kucuk_bulut"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "A Present for Elly",
+      "diziid": "pcy",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/7/ellyye_hediye"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Pocoyo Dance",
+      "diziid": "pcy",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/8/pocoyo_dansi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Big Sneeze",
+      "diziid": "pcy",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/9/guclu_hapsirik"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "Hush",
+      "diziid": "pcy",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/11/ssss"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "Double Bubble",
+      "diziid": "pcy",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/12/baloncuklar"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "The Key to It All",
+      "diziid": "pcy",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/13/her_seyin_anahtari"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "Keep going Pocoyo!",
+      "diziid": "pcy",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/14/haydi_pocoyo%21"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "Sleepy Bird's Surprise",
+      "diziid": "pcy",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/15/uykucu_kusun_surprizi"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Where's Pocoyo?",
+      "diziid": "pcy",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/16/pocoyo_nerede"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "Drummer Boy",
+      "diziid": "pcy",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/17/davulcu_cocuk"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "The Great Race",
+      "diziid": "pcy",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/18/buyuk_yaris"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "Don't Touch",
+      "diziid": "pcy",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/19/dokunmak_yok"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "Mystery Footprints",
+      "diziid": "pcy",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/20/gizemli_ayak_izleri"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "Magical Watering Can",
+      "diziid": "pcy",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/21/sulama_kovasi"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "Table for Fun",
+      "diziid": "pcy",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/22/oyun_lokantasi"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "Twinkle Twinkle",
+      "diziid": "pcy",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/23/piril_piril"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "Hiccup",
+      "diziid": "pcy",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/24/hickirik"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "Pato's Postal Service",
+      "diziid": "pcy",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/25/patonun_posta_hizmeti"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "Puppy Love",
+      "diziid": "pcy",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/26/kopek_sevgisi"
+    },
+    {
+      "season": 27,
+      "episode": 26,
+      "title": "Bat and Ball",
+      "diziid": "pcy",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/27/sopa_ve_top"
+    },
+    {
+      "season": 28,
+      "episode": 27,
+      "title": "Elly Spots",
+      "diziid": "pcy",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/28/ellynin_benekleri"
+    },
+    {
+      "season": 29,
+      "episode": 28,
+      "title": "Up Up and Away",
+      "diziid": "pcy",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/29/yukariya"
+    },
+    {
+      "season": 30,
+      "episode": 29,
+      "title": "A Surprise for Pocoyo",
+      "diziid": "pcy",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/30/pocoyoya_bir_surpriz"
+    },
+    {
+      "season": 31,
+      "episode": 30,
+      "title": "Having a Ball",
+      "diziid": "pcy",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/31/pocoyonun_topu_var"
+    },
+    {
+      "season": 32,
+      "episode": 31,
+      "title": "Super Pocoyo",
+      "diziid": "pcy",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/32/super_pocoyo"
+    },
+    {
+      "season": 33,
+      "episode": 32,
+      "title": "Let's Go Camping!",
+      "diziid": "pcy",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/33/kampa_gidelim%21"
+    },
+    {
+      "season": 34,
+      "episode": 33,
+      "title": "Pocoyo, Pocoyo",
+      "diziid": "pcy",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/34/pocoyo%2C_pocoyo"
+    },
+    {
+      "season": 35,
+      "episode": 34,
+      "title": "Elly's Big Chase",
+      "diziid": "pcy",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/35/ellynin_buyuk_macerasi"
+    },
+    {
+      "season": 36,
+      "episode": 35,
+      "title": "Pocoyo Gets It Right",
+      "diziid": "pcy",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/36/pocoyo_dogrusunu_ogreniyor"
+    },
+    {
+      "season": 37,
+      "episode": 36,
+      "title": "Juggling Balls",
+      "diziid": "pcy",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/37/cambaz_toplari"
+    },
+    {
+      "season": 38,
+      "episode": 37,
+      "title": "Fussy Duck",
+      "diziid": "pcy",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/38/titiz_ordek"
+    },
+    {
+      "season": 39,
+      "episode": 38,
+      "title": "A Dog's Life",
+      "diziid": "pcy",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/39/bir_kopegin_hayati"
+    },
+    {
+      "season": 40,
+      "episode": 39,
+      "title": "Pocoyolympics",
+      "diziid": "pcy",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/40/pocoyolimpiyatlar"
+    },
+    {
+      "season": 41,
+      "episode": 40,
+      "title": "Picture This",
+      "diziid": "pcy",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/41/resmini_yap"
+    },
+    {
+      "season": 42,
+      "episode": 41,
+      "title": "Whale's Birthday",
+      "diziid": "pcy",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/42/balinanin_dogum_gunu"
+    },
+    {
+      "season": 43,
+      "episode": 42,
+      "title": "Pocoyo's Little Friend",
+      "diziid": "pcy",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/43/pocoyonun_minik_arkadasi"
+    },
+    {
+      "season": 44,
+      "episode": 43,
+      "title": "Colour My World",
+      "diziid": "pcy",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/44/dunyami_boya"
+    },
+    {
+      "season": 45,
+      "episode": 44,
+      "title": "Bedtime",
+      "diziid": "pcy",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/45/uyku_vakti"
+    },
+    {
+      "season": 46,
+      "episode": 45,
+      "title": "A Little Something Between Friends",
+      "diziid": "pcy",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/46/arkadaslar_arasinda_kucuk_bir_sey"
+    },
+    {
+      "season": 47,
+      "episode": 46,
+      "title": "Giggle Bug",
+      "diziid": "pcy",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/47/gul_ki_neselen"
+    },
+    {
+      "season": 48,
+      "episode": 47,
+      "title": "What's in the Box?",
+      "diziid": "pcy",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/48/kutuda_ne_var"
+    },
+    {
+      "season": 49,
+      "episode": 48,
+      "title": "Musical Blocks",
+      "diziid": "pcy",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/49/muzik_sever_bloklar"
+    },
+    {
+      "season": 50,
+      "episode": 49,
+      "title": "Paint Me a Picture!",
+      "diziid": "pcy",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/50/bana_bir_resim_yap%21"
+    },
+    {
+      "season": 51,
+      "episode": 50,
+      "title": "Elly's Doll",
+      "diziid": "pcy",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/51/ellynin_bebegi"
+    },
+    {
+      "season": 52,
+      "episode": 51,
+      "title": "Wackily Ever After",
+      "diziid": "pcy",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/52/tuhaf_bir_masal"
+    },
+    {
+      "season": 1,
+      "episode": 52,
+      "title": "Mr Big Duck",
+      "diziid": "pcy",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/53/bay_koca_ordek"
+    },
+    {
+      "season": 2,
+      "episode": 53,
+      "title": "Guess What?",
+      "diziid": "pcy",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/54/bil_bakalim"
+    },
+    {
+      "season": 3,
+      "episode": 54,
+      "title": "All for One",
+      "diziid": "pcy",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/55/hepimiz_birimiz_icin"
+    },
+    {
+      "season": 4,
+      "episode": 55,
+      "title": "Band of Friends",
+      "diziid": "pcy",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/56/arkadas_grubu"
+    },
+    {
+      "season": 5,
+      "episode": 56,
+      "title": "Upside Down",
+      "diziid": "pcy",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/57/bas_asagi"
+    },
+    {
+      "season": 6,
+      "episode": 57,
+      "title": "Mad Mix Machine",
+      "diziid": "pcy",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/58/cilgin_karistirici"
+    },
+    {
+      "season": 7,
+      "episode": 58,
+      "title": "The Messy Guest",
+      "diziid": "pcy",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/59/daginik_misafir"
+    },
+    {
+      "season": 8,
+      "episode": 59,
+      "title": "New on the Planet",
+      "diziid": "pcy",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/60/gezegenin_acemisi"
+    },
+    {
+      "season": 9,
+      "episode": 60,
+      "title": "Pocoyo's Present",
+      "diziid": "pcy",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/61/pocoyonun_hediyesi"
+    },
+    {
+      "season": 10,
+      "episode": 61,
+      "title": "Elly's Ballet Class",
+      "diziid": "pcy",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/62/ellynin_bale_dersi"
+    },
+    {
+      "season": 11,
+      "episode": 62,
+      "title": "Pocoyo's Balloon",
+      "diziid": "pcy",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/63/pocoyonun_balonu"
+    },
+    {
+      "season": 12,
+      "episode": 63,
+      "title": "Who's Calling Me Now?",
+      "diziid": "pcy",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/64/bana_seslenen_kim"
+    },
+    {
+      "season": 13,
+      "episode": 64,
+      "title": "Big Scary Slide",
+      "diziid": "pcy",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/65/kocaman_korkunc_kaydirak"
+    },
+    {
+      "season": 14,
+      "episode": 65,
+      "title": "Elly's Shoes",
+      "diziid": "pcy",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/66/ellynin_ayakkabilari"
+    },
+    {
+      "season": 15,
+      "episode": 66,
+      "title": "Duck Stuck",
+      "diziid": "pcy",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/67/ordek_kayboldu"
+    },
+    {
+      "season": 16,
+      "episode": 67,
+      "title": "Scary Noises",
+      "diziid": "pcy",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/68/urkutucu_sesler"
+    },
+    {
+      "season": 17,
+      "episode": 68,
+      "title": "Not in My Backyard",
+      "diziid": "pcy",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/69/arka_bahcemde_olmaz"
+    },
+    {
+      "season": 18,
+      "episode": 69,
+      "title": "Vamoosh on the Loosh",
+      "diziid": "pcy",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/70/gemi_kayboldu"
+    },
+    {
+      "season": 19,
+      "episode": 70,
+      "title": "Detective Pocoyo",
+      "diziid": "pcy",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/71/dedektif_pocoyo"
+    },
+    {
+      "season": 20,
+      "episode": 71,
+      "title": "Scooter Madness",
+      "diziid": "pcy",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/72/kaykay_cilginligi"
+    },
+    {
+      "season": 21,
+      "episode": 72,
+      "title": "Lost in Space",
+      "diziid": "pcy",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/73/uzayda_kaybolmak"
+    },
+    {
+      "season": 22,
+      "episode": 73,
+      "title": "Boo!",
+      "diziid": "pcy",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/74/boo%21"
+    },
+    {
+      "season": 23,
+      "episode": 74,
+      "title": "Party Pooper",
+      "diziid": "pcy",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/75/oyun_bozan"
+    },
+    {
+      "season": 24,
+      "episode": 75,
+      "title": "My Pato",
+      "diziid": "pcy",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/76/benim_patom%21"
+    },
+    {
+      "season": 25,
+      "episode": 76,
+      "title": "Baby Bird Bother",
+      "diziid": "pcy",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/77/yavru_kus_can_sikiyor"
+    },
+    {
+      "season": 27,
+      "episode": 77,
+      "title": "The Seed",
+      "diziid": "pcy",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/79/tohum"
+    },
+    {
+      "season": 28,
+      "episode": 78,
+      "title": "Runaway Hat",
+      "diziid": "pcy",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/80/kacak_sapka"
+    },
+    {
+      "season": 29,
+      "episode": 79,
+      "title": "Invisible Pocoyo",
+      "diziid": "pcy",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/81/gorunmez_pocoyo"
+    },
+    {
+      "season": 30,
+      "episode": 80,
+      "title": "Noise to My Ears",
+      "diziid": "pcy",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/82/kulagimdaki_sesler"
+    },
+    {
+      "season": 31,
+      "episode": 81,
+      "title": "Baby Bird Sitting",
+      "diziid": "pcy",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/83/yavru_kusa_bakici"
+    },
+    {
+      "season": 32,
+      "episode": 82,
+      "title": "Everyone's Present",
+      "diziid": "pcy",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/84/herkese_hediye"
+    },
+    {
+      "season": 33,
+      "episode": 83,
+      "title": "Magic Act",
+      "diziid": "pcy",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/85/sihirbaz_pocoyo"
+    },
+    {
+      "season": 34,
+      "episode": 84,
+      "title": "Picnic Puzzle",
+      "diziid": "pcy",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/86/piknik_bulmacasi"
+    },
+    {
+      "season": 35,
+      "episode": 85,
+      "title": "Pocoyo's Puppet Show",
+      "diziid": "pcy",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/87/pocoyonun_kukla_gosterisi"
+    },
+    {
+      "season": 36,
+      "episode": 86,
+      "title": "Pato's Egg",
+      "diziid": "pcy",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/88/patonun_yumurtasi"
+    },
+    {
+      "season": 37,
+      "episode": 87,
+      "title": "Dance Off!",
+      "diziid": "pcy",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/89/dans%21"
+    },
+    {
+      "season": 38,
+      "episode": 88,
+      "title": "Get Lost Loula",
+      "diziid": "pcy",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/90/kaybol_loula"
+    },
+    {
+      "season": 39,
+      "episode": 89,
+      "title": "Sneaky Shoes",
+      "diziid": "pcy",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/91/sinsi_ayakkabilar"
+    },
+    {
+      "season": 40,
+      "episode": 90,
+      "title": "Shutterbug",
+      "diziid": "pcy",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/92/fotograf_delisi"
+    },
+    {
+      "season": 41,
+      "episode": 91,
+      "title": "Angry Alien",
+      "diziid": "pcy",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/93/kizgin_uzayli"
+    },
+    {
+      "season": 42,
+      "episode": 92,
+      "title": "Pato Underwater",
+      "diziid": "pcy",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/94/pato_suyun_altinda"
+    },
+    {
+      "season": 43,
+      "episode": 93,
+      "title": "Pato's Paintings",
+      "diziid": "pcy",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/95/patonun_resimleri"
+    },
+    {
+      "season": 44,
+      "episode": 94,
+      "title": "Monster Mystery",
+      "diziid": "pcy",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/96/gizemli_canavar"
+    },
+    {
+      "season": 45,
+      "episode": 95,
+      "title": "Poczilla",
+      "diziid": "pcy",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/97/poczilla"
+    },
+    {
+      "season": 46,
+      "episode": 96,
+      "title": "Elly on Ice",
+      "diziid": "pcy",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/98/elly_buzda"
+    },
+    {
+      "season": 47,
+      "episode": 97,
+      "title": "Farewell Friends",
+      "diziid": "pcy",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/99/elveda_arkadaslar"
+    },
+    {
+      "season": 48,
+      "episode": 98,
+      "title": "Double Trouble",
+      "diziid": "pcy",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/100/cifte_bela"
+    },
+    {
+      "season": 49,
+      "episode": 99,
+      "title": "Horse",
+      "diziid": "pcy",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/101/at%21"
+    },
+    {
+      "season": 50,
+      "episode": 100,
+      "title": "Elly's Tea Party",
+      "diziid": "pcy",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/102/ellynin_cay_partisi"
+    },
+    {
+      "season": 51,
+      "episode": 101,
+      "title": "Talent Show",
+      "diziid": "pcy",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/103/yetenek_gosterisi"
+    },
+    {
+      "season": 52,
+      "episode": 102,
+      "title": "Remember When...",
+      "diziid": "pcy",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/104/hatirliyor_musun"
+    },
+    {
+      "season": 1,
+      "episode": 103,
+      "title": "Pocoyo's Band",
+      "diziid": "pcy",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/105/pocoyonun_orkestrasi"
+    },
+    {
+      "season": 2,
+      "episode": 104,
+      "title": "Picnic",
+      "diziid": "pcy",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/106/piknik"
+    },
+    {
+      "season": 3,
+      "episode": 105,
+      "title": "Pato's Shower",
+      "diziid": "pcy",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/107/pato_yikaniyor"
+    },
+    {
+      "season": 4,
+      "episode": 106,
+      "title": "The Garden",
+      "diziid": "pcy",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/108/bahce"
+    },
+    {
+      "season": 5,
+      "episode": 107,
+      "title": "Pato the Postman",
+      "diziid": "pcy",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/109/postaci_pato"
+    },
+    {
+      "season": 6,
+      "episode": 108,
+      "title": "Colours",
+      "diziid": "pcy",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/110/renkler"
+    },
+    {
+      "season": 8,
+      "episode": 109,
+      "title": "Camping",
+      "diziid": "pcy",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/112/kamp"
+    },
+    {
+      "season": 9,
+      "episode": 110,
+      "title": "Space Mission",
+      "diziid": "pcy",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/113/uzay_gorevi"
+    },
+    {
+      "season": 10,
+      "episode": 111,
+      "title": "Travel with Pato",
+      "diziid": "pcy",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/114/pato_ile_yolculuk"
+    },
+    {
+      "season": 11,
+      "episode": 112,
+      "title": "Playtime",
+      "diziid": "pcy",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/115/oyun_zamani"
+    },
+    {
+      "season": 12,
+      "episode": 113,
+      "title": "Tennis Everyone",
+      "diziid": "pcy",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/116/herkes_tenis_oynuyor"
+    },
+    {
+      "season": 13,
+      "episode": 114,
+      "title": "Hide and Seek",
+      "diziid": "pcy",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/117/saklambac"
+    },
+    {
+      "season": 14,
+      "episode": 115,
+      "title": "Party Time",
+      "diziid": "pcy",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/118/kutlama_zamani"
+    },
+    {
+      "season": 15,
+      "episode": 116,
+      "title": "Wheels",
+      "diziid": "pcy",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/119/araclar"
+    },
+    {
+      "season": 16,
+      "episode": 117,
+      "title": "Elly's Bath",
+      "diziid": "pcy",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/120/ellynin_banyosu"
+    },
+    {
+      "season": 17,
+      "episode": 118,
+      "title": "The Amazing Tower",
+      "diziid": "pcy",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/121/yuksek_kule"
+    },
+    {
+      "season": 18,
+      "episode": 119,
+      "title": "Pocoyo's New Toys",
+      "diziid": "pcy",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/122/pocoyonun_yeni_oyuncaklari"
+    },
+    {
+      "season": 19,
+      "episode": 120,
+      "title": "Bathing Loula",
+      "diziid": "pcy",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/123/loulayi_yikamak"
+    },
+    {
+      "season": 20,
+      "episode": 121,
+      "title": "Magic Fingers",
+      "diziid": "pcy",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/124/marifetli_parmaklar"
+    },
+    {
+      "season": 21,
+      "episode": 122,
+      "title": "Cooking with Elly",
+      "diziid": "pcy",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/125/elly_ile_yemek_zamani"
+    },
+    {
+      "season": 22,
+      "episode": 123,
+      "title": "Elly's Market",
+      "diziid": "pcy",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/126/ellynin_manavi"
+    },
+    {
+      "season": 23,
+      "episode": 124,
+      "title": "Pato's Bedtime",
+      "diziid": "pcy",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/127/patonun_yatma_saati"
+    },
+    {
+      "season": 24,
+      "episode": 125,
+      "title": "A Hole in One",
+      "diziid": "pcy",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/128/tek_vurus"
+    },
+    {
+      "season": 25,
+      "episode": 126,
+      "title": "Pocoyo's Camera",
+      "diziid": "pcy",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/129/pocoyonun_fotograf_makinesi"
+    },
+    {
+      "season": 26,
+      "episode": 127,
+      "title": "Painting with Pocoyo",
+      "diziid": "pcy",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/130/pocoyo_ile_resim_yapmak"
+    },
+    {
+      "season": 27,
+      "episode": 128,
+      "title": "Playing Dress Up",
+      "diziid": "pcy",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/131/kiyafet_degistirmece"
+    },
+    {
+      "season": 28,
+      "episode": 129,
+      "title": "Magic Box",
+      "diziid": "pcy",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/132/ozel_kutu"
+    },
+    {
+      "season": 29,
+      "episode": 130,
+      "title": "Pocoyo's Restaurant",
+      "diziid": "pcy",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/133/pocoyonun_restorani"
+    },
+    {
+      "season": 30,
+      "episode": 131,
+      "title": "Wake Up, Pocoyo!",
+      "diziid": "pcy",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/134/pocoyo%2C_hadi_uyan%21"
+    },
+    {
+      "season": 31,
+      "episode": 132,
+      "title": "Ahoy, Pocoyo!",
+      "diziid": "pcy",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/135/korsan_pocoyo"
+    },
+    {
+      "season": 32,
+      "episode": 133,
+      "title": "Elly's Computer",
+      "diziid": "pcy",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/136/ellynin_bilgisayari"
+    },
+    {
+      "season": 33,
+      "episode": 134,
+      "title": "Going to the Beach",
+      "diziid": "pcy",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/137/kumsala_gidiyoruz"
+    },
+    {
+      "season": 34,
+      "episode": 135,
+      "title": "Big and Small",
+      "diziid": "pcy",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/138/buyuk_ve_kucuk"
+    },
+    {
+      "season": 35,
+      "episode": 136,
+      "title": "Face Painting",
+      "diziid": "pcy",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/139/yuz_cizme"
+    },
+    {
+      "season": 36,
+      "episode": 137,
+      "title": "Supermarket",
+      "diziid": "pcy",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/140/supermarket"
+    },
+    {
+      "season": 37,
+      "episode": 138,
+      "title": "Elly's Playhouse",
+      "diziid": "pcy",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/141/ellynin_oyun_evi"
+    },
+    {
+      "season": 38,
+      "episode": 139,
+      "title": "Pocoyo's Puppet Theatre",
+      "diziid": "pcy",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/142/pocoyonun_kukla_tiyatrosu"
+    },
+    {
+      "season": 39,
+      "episode": 140,
+      "title": "Up & Down",
+      "diziid": "pcy",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/143/yukari_ve_asagi"
+    },
+    {
+      "season": 40,
+      "episode": 141,
+      "title": "Pocoyo's Breakfast",
+      "diziid": "pcy",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/144/pocoyonun_kahvaltisi"
+    },
+    {
+      "season": 41,
+      "episode": 142,
+      "title": "Traffic Jam",
+      "diziid": "pcy",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/145/sikisik_trafik"
+    },
+    {
+      "season": 42,
+      "episode": 143,
+      "title": "Pato's Living Room",
+      "diziid": "pcy",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/146/patonun_oturma_odasi"
+    },
+    {
+      "season": 43,
+      "episode": 144,
+      "title": "Cinema",
+      "diziid": "pcy",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/147/sinema"
+    },
+    {
+      "season": 44,
+      "episode": 145,
+      "title": "Elly's New Doll",
+      "diziid": "pcy",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/148/ellynin_yeni_oyuncak_bebegi"
+    },
+    {
+      "season": 45,
+      "episode": 146,
+      "title": "Circus",
+      "diziid": "pcy",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/149/sirk"
+    },
+    {
+      "season": 46,
+      "episode": 147,
+      "title": "The Best Bedroom",
+      "diziid": "pcy",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/150/en_guzel_yatak_odasi"
+    },
+    {
+      "season": 47,
+      "episode": 148,
+      "title": "Pocoyo Goes to School",
+      "diziid": "pcy",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/151/pocoyo_okula_gidiyor"
+    },
+    {
+      "season": 48,
+      "episode": 149,
+      "title": "Art",
+      "diziid": "pcy",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/152/sanat"
+    },
+    {
+      "season": 49,
+      "episode": 150,
+      "title": "Pocoyo Recycles",
+      "diziid": "pcy",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/153/en_guzel_yatak_odasi"
+    },
+    {
+      "season": 50,
+      "episode": 151,
+      "title": "Down on the Farm",
+      "diziid": "pcy",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/154/ciftlikte"
+    },
+    {
+      "season": 51,
+      "episode": 152,
+      "title": "Nurse Elly",
+      "diziid": "pcy",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/155/hemsire_elly"
+    },
+    {
+      "season": 52,
+      "episode": 153,
+      "title": "Fishing with Pocoyo",
+      "diziid": "pcy",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/156/pocoyo_ile_balik_tutmak"
+    },
+    {
+      "season": 1,
+      "episode": 154,
+      "title": "Holidays",
+      "diziid": "pcy",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/157/tatil"
+    },
+    {
+      "season": 2,
+      "episode": 155,
+      "title": "Christmas Tree",
+      "diziid": "pcy",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/158/yilbasi_agaci"
+    },
+    {
+      "season": 3,
+      "episode": 156,
+      "title": "Chicks Dig Me",
+      "diziid": "pcy",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/159/bu_civcivler_gagaliyor"
+    },
+    {
+      "season": 4,
+      "episode": 157,
+      "title": "Call Me",
+      "diziid": "pcy",
+      "bolum": "160",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/160/beni_ara"
+    },
+    {
+      "season": 5,
+      "episode": 158,
+      "title": "Muck Struck",
+      "diziid": "pcy",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/161/camur_birikintisi"
+    },
+    {
+      "season": 6,
+      "episode": 159,
+      "title": "Nina",
+      "diziid": "pcy",
+      "bolum": "162",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/162/nina"
+    },
+    {
+      "season": 7,
+      "episode": 160,
+      "title": "Hack Attack",
+      "diziid": "pcy",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/163/robot_saldirisi"
+    },
+    {
+      "season": 8,
+      "episode": 161,
+      "title": "Hole Lotta Trouble",
+      "diziid": "pcy",
+      "bolum": "164",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/164/delik_sorunu"
+    },
+    {
+      "season": 9,
+      "episode": 162,
+      "title": "Great Shot!",
+      "diziid": "pcy",
+      "bolum": "165",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/165/iyi_atis%21"
+    },
+    {
+      "season": 10,
+      "episode": 163,
+      "title": "Disco Fleaver",
+      "diziid": "pcy",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/166/pireler_partisi"
+    },
+    {
+      "season": 11,
+      "episode": 164,
+      "title": "House Of Colors",
+      "diziid": "pcy",
+      "bolum": "167",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/167/renkli_ev"
+    },
+    {
+      "season": 12,
+      "episode": 165,
+      "title": "Summer Hike",
+      "diziid": "pcy",
+      "bolum": "168",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/168/yaz_gezisi"
+    },
+    {
+      "season": 13,
+      "episode": 166,
+      "title": "Bumbleberry Surprise",
+      "diziid": "pcy",
+      "bolum": "169",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/169/ari_yemisi_surprizi"
+    },
+    {
+      "season": 14,
+      "episode": 167,
+      "title": "Are We There Yet?",
+      "diziid": "pcy",
+      "bolum": "170",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/170/hala_gelmedik_mi"
+    },
+    {
+      "season": 15,
+      "episode": 168,
+      "title": "Tourist Trapped",
+      "diziid": "pcy",
+      "bolum": "171",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/171/turist_baskini"
+    },
+    {
+      "season": 16,
+      "episode": 169,
+      "title": "Time After Time Before Time",
+      "diziid": "pcy",
+      "bolum": "172",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/172/zamanda_yolculuk"
+    },
+    {
+      "season": 17,
+      "episode": 170,
+      "title": "Tiny Fun Park",
+      "diziid": "pcy",
+      "bolum": "173",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/173/kucuk_eglence_parki"
+    },
+    {
+      "season": 18,
+      "episode": 171,
+      "title": "Halloween Tales",
+      "diziid": "pcy",
+      "bolum": "174",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/174/cadilar_bayrami_hikayeleri"
+    },
+    {
+      "season": 19,
+      "episode": 172,
+      "title": "Rock Is A Hard Place",
+      "diziid": "pcy",
+      "bolum": "175",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/175/rock_muzik_zor_istir"
+    },
+    {
+      "season": 20,
+      "episode": 173,
+      "title": "Angry Alien Strikes Back",
+      "diziid": "pcy",
+      "bolum": "176",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/176/kizgin_uzayli_geri_donuyor"
+    },
+    {
+      "season": 21,
+      "episode": 174,
+      "title": "Magic Words",
+      "diziid": "pcy",
+      "bolum": "177",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/177/kelime_kartlari"
+    },
+    {
+      "season": 22,
+      "episode": 175,
+      "title": "Sleep Guard",
+      "diziid": "pcy",
+      "bolum": "178",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/178/uyku_bekcisi"
+    },
+    {
+      "season": 23,
+      "episode": 176,
+      "title": "Insert Coin",
+      "diziid": "pcy",
+      "bolum": "179",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/179/jeton_at"
+    },
+    {
+      "season": 24,
+      "episode": 177,
+      "title": "Space Postal Service",
+      "diziid": "pcy",
+      "bolum": "180",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/180/uzay_postacisi"
+    },
+    {
+      "season": 25,
+      "episode": 178,
+      "title": "An Alien Christmas Carol",
+      "diziid": "pcy",
+      "bolum": "181",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/181/bir_uzaylinin_yilbasi_gunu"
+    },
+    {
+      "season": 26,
+      "episode": 179,
+      "title": "Dance Off Part Two",
+      "diziid": "pcy",
+      "bolum": "182",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/182/dans_zamani_bolum_2"
+    },
+    {
+      "season": 27,
+      "episode": 180,
+      "title": "The Grand Final",
+      "diziid": "pcy",
+      "bolum": "183",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/183/buyuk_final"
+    },
+    {
+      "season": 28,
+      "episode": 181,
+      "title": "Slippery Pato",
+      "diziid": "pcy",
+      "bolum": "184",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/184/kaygan_pato"
+    },
+    {
+      "season": 29,
+      "episode": 182,
+      "title": "The Dino Box",
+      "diziid": "pcy",
+      "bolum": "185",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/185/dinozor_kutusu"
+    },
+    {
+      "season": 30,
+      "episode": 183,
+      "title": "Pirates",
+      "diziid": "pcy",
+      "bolum": "186",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/186/korsanlar"
+    },
+    {
+      "season": 31,
+      "episode": 184,
+      "title": "The Pink Perfume",
+      "diziid": "pcy",
+      "bolum": "187",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/187/pembe_parfum"
+    },
+    {
+      "season": 32,
+      "episode": 185,
+      "title": "Robot Pocoyo",
+      "diziid": "pcy",
+      "bolum": "188",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/188/robot_pocoyo"
+    },
+    {
+      "season": 33,
+      "episode": 186,
+      "title": "Pato's Phone",
+      "diziid": "pcy",
+      "bolum": "189",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/189/patonun_telefonu"
+    },
+    {
+      "season": 34,
+      "episode": 187,
+      "title": "Fancy Dress Party",
+      "diziid": "pcy",
+      "bolum": "190",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/190/kostum_partisi"
+    },
+    {
+      "season": 35,
+      "episode": 188,
+      "title": "Strike!",
+      "diziid": "pcy",
+      "bolum": "191",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/191/bowling%21"
+    },
+    {
+      "season": 36,
+      "episode": 189,
+      "title": "Let's Tidy Up",
+      "diziid": "pcy",
+      "bolum": "192",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/192/hadi_toplayalim%21"
+    },
+    {
+      "season": 37,
+      "episode": 190,
+      "title": "The Balloon",
+      "diziid": "pcy",
+      "bolum": "193",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/193/balon"
+    },
+    {
+      "season": 38,
+      "episode": 191,
+      "title": "The Silence Challenge",
+      "diziid": "pcy",
+      "bolum": "194",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/194/1%2C_2%2C_3%2C_tip%21"
+    },
+    {
+      "season": 39,
+      "episode": 192,
+      "title": "Overprotective Roberto",
+      "diziid": "pcy",
+      "bolum": "195",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/195/korumaci_roberto"
+    },
+    {
+      "season": 40,
+      "episode": 193,
+      "title": "Pocoyo's Car",
+      "diziid": "pcy",
+      "bolum": "196",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/196/pocoyonun_arabasi"
+    },
+    {
+      "season": 41,
+      "episode": 194,
+      "title": "Inventions",
+      "diziid": "pcy",
+      "bolum": "197",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/197/buluslar"
+    },
+    {
+      "season": 42,
+      "episode": 195,
+      "title": "My Hero",
+      "diziid": "pcy",
+      "bolum": "198",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/198/kahramanim"
+    },
+    {
+      "season": 43,
+      "episode": 196,
+      "title": "The Rescue",
+      "diziid": "pcy",
+      "bolum": "199",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/199/kurtarma"
+    },
+    {
+      "season": 44,
+      "episode": 197,
+      "title": "Pocoyo's Friend",
+      "diziid": "pcy",
+      "bolum": "200",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/200/pocoyonun_arkadasi"
+    },
+    {
+      "season": 45,
+      "episode": 198,
+      "title": "Elly's Picnic",
+      "diziid": "pcy",
+      "bolum": "201",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/201/elly_piknikte"
+    },
+    {
+      "season": 46,
+      "episode": 199,
+      "title": "Nina Discovers the World",
+      "diziid": "pcy",
+      "bolum": "202",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/202/nina_dunyayi_kesfediyor"
+    },
+    {
+      "season": 47,
+      "episode": 200,
+      "title": "The Remote Control",
+      "diziid": "pcy",
+      "bolum": "203",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/203/uzaktan_kumanda"
+    },
+    {
+      "season": 48,
+      "episode": 201,
+      "title": "The Tennis Racket",
+      "diziid": "pcy",
+      "bolum": "204",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/204/tenis_raketi"
+    },
+    {
+      "season": 49,
+      "episode": 202,
+      "title": "Nina The Dog Trainer",
+      "diziid": "pcy",
+      "bolum": "205",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/205/kopek_egitmeni_nina"
+    },
+    {
+      "season": 50,
+      "episode": 203,
+      "title": "Prank Day",
+      "diziid": "pcy",
+      "bolum": "206",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/206/1_nisan"
+    },
+    {
+      "season": 51,
+      "episode": 204,
+      "title": "I Don't Want to Go to Sleep",
+      "diziid": "pcy",
+      "bolum": "207",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/207/uyumak_istemiyorum"
+    },
+    {
+      "season": 52,
+      "episode": 205,
+      "title": "Winter Games",
+      "diziid": "pcy",
+      "bolum": "208",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/208/kis_oyunlari"
+    },
+    {
+      "season": 53,
+      "episode": 206,
+      "title": "Dragon Island",
+      "diziid": "pcy",
+      "bolum": "209",
+      "url": "https://cizgivedizi.com/dizi/pcy/pocoyo/209/ejderha_adasi"
+    }
+  ]
+}

@@ -1,0 +1,637 @@
+{
+  "id": "pl",
+  "title": "power players",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/PLPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Aksiyon",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Unboxing Part 1",
+      "diziid": "pl",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/1/kutudan_cikiyorlar_1.bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Unboxing Part 2",
+      "diziid": "pl",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/2/kutudan_cikiyorlar_2.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Attack of Thermometron 9000",
+      "diziid": "pl",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/3/thermometron_9000_saldirisi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Dynamo Dynamic",
+      "diziid": "pl",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/4/dinamo_dinamigi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Access Denied",
+      "diziid": "pl",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/5/erisim_engellendi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Swing Set Jet Set",
+      "diziid": "pl",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/6/barbarin_cekici"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Side Kicked",
+      "diziid": "pl",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/7/yardimci"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Porcupunk Rock",
+      "diziid": "pl",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/8/porcupunk_muzigi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "All Trick No Treat",
+      "diziid": "pl",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/9/saka_var_seker_yok"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Iced Out",
+      "diziid": "pl",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/10/disarisi_buz_gibi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Gathering Dark",
+      "diziid": "pl",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/11/karanlik_oluyor"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Bobbie Not Blobby",
+      "diziid": "pl",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/12/balon_olmayan_blobby"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Sand Trap",
+      "diziid": "pl",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/13/kum_tuzagi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Dodge City",
+      "diziid": "pl",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/14/yakar_top"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Best Team",
+      "diziid": "pl",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/15/en_iyi_takim"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Joyride",
+      "diziid": "pl",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/16/neseli_joy"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Savage Axel",
+      "diziid": "pl",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/17/barbar_axel"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Scratch Pack",
+      "diziid": "pl",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/18/tirmik_surusu"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Knockout",
+      "diziid": "pl",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/19/nakavt"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Sarge in Charge",
+      "diziid": "pl",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/20/turbo_is_basinda"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Other Side",
+      "diziid": "pl",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/21/karanlik_taraf"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Bear-Knuckle Brawl",
+      "diziid": "pl",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/22/ayilarin_cay_partisi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Saving Private Masko",
+      "diziid": "pl",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/23/er_maskoyu_kurtarmak"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "On Your Toes",
+      "diziid": "pl",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/24/parmaklarinin_ucunda"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Friend Wars",
+      "diziid": "pl",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/25/dostlar_savasi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "That Slobot Is No Bot of Mine",
+      "diziid": "pl",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/26/bu_slobot_benim_olamaz"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Bowling for Ballers",
+      "diziid": "pl",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/27/bowling_turnuvasi"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Countdown",
+      "diziid": "pl",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/28/geri_sayim"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Joke's on You, Bro!",
+      "diziid": "pl",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/29/gorunmez"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Out of My Head",
+      "diziid": "pl",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/30/kafamin_disinda"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Freeze!",
+      "diziid": "pl",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/31/donma%21"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "King Axel",
+      "diziid": "pl",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/32/kral_axel"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "The Trojan Bear",
+      "diziid": "pl",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/33/truva_ayisi"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Thirst for Power",
+      "diziid": "pl",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/34/guce_susamak"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Party On",
+      "diziid": "pl",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/35/parti_zamani"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Bringing Up Baby",
+      "diziid": "pl",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/36/bebek_bakmak"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Stretched Too Thin",
+      "diziid": "pl",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/37/iyice_gerilmek"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "From Below",
+      "diziid": "pl",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/38/bitki_saldirisi"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Winner Takes All",
+      "diziid": "pl",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/39/kazanan_her_seyi_alir"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Prepare for the Worst",
+      "diziid": "pl",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/40/en_kotusune_hazirlan"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Stuck on You",
+      "diziid": "pl",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/41/yapisik_oyuncaklar"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Opposites Attract",
+      "diziid": "pl",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/42/zitlarin_cekimi"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "The Thing in the Wall",
+      "diziid": "pl",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/43/duvardaki_sey"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Madtrap",
+      "diziid": "pl",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/44/matkapin_tuzagi"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "To Tame the Perilous Skies!",
+      "diziid": "pl",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/45/gokyuzu_hakimiyeti%21"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Four Color Fallout",
+      "diziid": "pl",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/46/cizgi_roman_vakasi"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Grin and Bear It",
+      "diziid": "pl",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/47/sik_disini"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Green with Envy",
+      "diziid": "pl",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/48/kiskancliktan_catlamak"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Bring on the Bad Guys",
+      "diziid": "pl",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/49/gelsin_kotuler"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Spies Like Us",
+      "diziid": "pl",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/50/ajan_tehlike"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Return of Thermometron 9000",
+      "diziid": "pl",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/51/thermometron_9000in_donusu"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Just Like Robots",
+      "diziid": "pl",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/52/robotlar_gibi"
+    },
+    {
+      "season": 53,
+      "episode": 53,
+      "title": "Drummed Out",
+      "diziid": "pl",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/53/muzik_zamani"
+    },
+    {
+      "season": 54,
+      "episode": 54,
+      "title": "Go Big or Go Home",
+      "diziid": "pl",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/54/ya_buyuk_oyna_ya_da_evine_don"
+    },
+    {
+      "season": 55,
+      "episode": 55,
+      "title": "Weekend at Axel's",
+      "diziid": "pl",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/55/siradan_bir_hafta_sonu"
+    },
+    {
+      "season": 56,
+      "episode": 56,
+      "title": "Things That Go Bump in the Night",
+      "diziid": "pl",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/56/gece_ses_cikaran_seyler"
+    },
+    {
+      "season": 57,
+      "episode": 57,
+      "title": "Fetch",
+      "diziid": "pl",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/57/getir"
+    },
+    {
+      "season": 58,
+      "episode": 58,
+      "title": "What's Wrong with Uncle Andrew?",
+      "diziid": "pl",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/58/andrew_amcanin_nesi_var"
+    },
+    {
+      "season": 59,
+      "episode": 59,
+      "title": "Scratch My Back",
+      "diziid": "pl",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/59/sirtimi_kasi"
+    },
+    {
+      "season": 60,
+      "episode": 60,
+      "title": "A Fistful of Minergy",
+      "diziid": "pl",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/60/bir_yumruk_dolusu_minerji"
+    },
+    {
+      "season": 61,
+      "episode": 61,
+      "title": "Serge Charge",
+      "diziid": "pl",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/61/hyper_sarj"
+    },
+    {
+      "season": 62,
+      "episode": 62,
+      "title": "The All-New-All-Different Power Players?!",
+      "diziid": "pl",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/62/yepyeni_power_player"
+    },
+    {
+      "season": 63,
+      "episode": 63,
+      "title": "Operation: Midnight",
+      "diziid": "pl",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/63/gece_yarisi_operasyonu"
+    },
+    {
+      "season": 64,
+      "episode": 64,
+      "title": "That's the Spirit!",
+      "diziid": "pl",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/64/iste_ruh_bu%21"
+    },
+    {
+      "season": 65,
+      "episode": 65,
+      "title": "Pyrant Park",
+      "diziid": "pl",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/65/pyrant_parki"
+    },
+    {
+      "season": 66,
+      "episode": 66,
+      "title": "Ajar",
+      "diziid": "pl",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/66/kavanozda"
+    },
+    {
+      "season": 67,
+      "episode": 67,
+      "title": "Jungle Boogie",
+      "diziid": "pl",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/67/orman_etkisi"
+    },
+    {
+      "season": 68,
+      "episode": 68,
+      "title": "Take Cherge",
+      "diziid": "pl",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/68/hyper_komutada"
+    },
+    {
+      "season": 69,
+      "episode": 69,
+      "title": "Bot Out",
+      "diziid": "pl",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/69/robotlar_disarida"
+    },
+    {
+      "season": 70,
+      "episode": 70,
+      "title": "The Most Fun Ever",
+      "diziid": "pl",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/70/en_buyuk_eglence"
+    },
+    {
+      "season": 71,
+      "episode": 71,
+      "title": "Hot Pursuit",
+      "diziid": "pl",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/71/yakin_takip"
+    },
+    {
+      "season": 72,
+      "episode": 72,
+      "title": "On the Wrong Track",
+      "diziid": "pl",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/72/yanlis_yolda"
+    },
+    {
+      "season": 73,
+      "episode": 73,
+      "title": "Maxel & Adcap",
+      "diziid": "pl",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/73/maxel_ve_adcap"
+    },
+    {
+      "season": 74,
+      "episode": 74,
+      "title": "Remote-Controlled Chaos",
+      "diziid": "pl",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/74/uzaktan_kumandali_kaos"
+    },
+    {
+      "season": 75,
+      "episode": 75,
+      "title": "Selfie!",
+      "diziid": "pl",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/75/ozcekim%21"
+    },
+    {
+      "season": 76,
+      "episode": 76,
+      "title": "The Toy Knight Returns!",
+      "diziid": "pl",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/76/oyuncak_sovalye_geri_dondu%21"
+    },
+    {
+      "season": 77,
+      "episode": 77,
+      "title": "Big Mad Part 1",
+      "diziid": "pl",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/77/buyuk_sorun_1.bolum"
+    },
+    {
+      "season": 78,
+      "episode": 78,
+      "title": "Big Mad Part 2",
+      "diziid": "pl",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/pl/power_players/78/buyuk_sorun_2.bolum"
+    }
+  ]
+}

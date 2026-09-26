@@ -1,0 +1,700 @@
+{
+  "id": "ghe",
+  "title": "gabby'nin hayal evi",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/GHEPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Spaceship",
+      "diziid": "ghe",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/1/uzay_gemisi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Gabby Gets the Hiccups",
+      "diziid": "ghe",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/2/gabby_hickiriyor"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Hamster Kitties",
+      "diziid": "ghe",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/3/hamster_kedicikler"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Kitty School",
+      "diziid": "ghe",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/4/kedi_okulu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Kitty Cat Cam",
+      "diziid": "ghe",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/5/kedicik_kamerasi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Dollhouse Defenders",
+      "diziid": "ghe",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/6/hayal_evi_koruyuculari"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Mixed-Up Dollhouse",
+      "diziid": "ghe",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/7/karmakarisik_hayal_evi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Game Show",
+      "diziid": "ghe",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/8/yarisma_programi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Kitty Pirates",
+      "diziid": "ghe",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/9/korsan_kedicikler"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "MerCat Gets Her Sparkle Back",
+      "diziid": "ghe",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/10/suslu_kedi_isiltisini_geri_kazaniyor"
+    },
+    {
+      "season": 1,
+      "episode": 11,
+      "title": "Itty Bitty Blossom",
+      "diziid": "ghe",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/11/ufak_tefek_cicek"
+    },
+    {
+      "season": 2,
+      "episode": 12,
+      "title": "Dollhouse Store Day",
+      "diziid": "ghe",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/12/hayal_evinde_magaza_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 13,
+      "title": "Kitty Fairy's Sleepover",
+      "diziid": "ghe",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/13/peri_kedi_yatisi"
+    },
+    {
+      "season": 4,
+      "episode": 14,
+      "title": "Let's Make a Movie!",
+      "diziid": "ghe",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/14/hadi_film_cekelim"
+    },
+    {
+      "season": 5,
+      "episode": 15,
+      "title": "Pete the Polar Bear",
+      "diziid": "ghe",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/15/kutup_ayisi_pete"
+    },
+    {
+      "season": 6,
+      "episode": 16,
+      "title": "Kitty Rangers",
+      "diziid": "ghe",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/16/izci_kediler"
+    },
+    {
+      "season": 7,
+      "episode": 17,
+      "title": "The Meow-Mazing Games",
+      "diziid": "ghe",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/17/miyav-sane_oyunlar"
+    },
+    {
+      "season": 8,
+      "episode": 18,
+      "title": "Pandy's Birthday",
+      "diziid": "ghe",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/18/pandinin_dogum_gunu"
+    },
+    {
+      "season": 1,
+      "episode": 19,
+      "title": "The Dollhouse Hotel",
+      "diziid": "ghe",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/19/hayal_evi%CC%87_oteli%CC%87"
+    },
+    {
+      "season": 2,
+      "episode": 20,
+      "title": "A Knight's Tail",
+      "diziid": "ghe",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/20/sovalye_masali"
+    },
+    {
+      "season": 3,
+      "episode": 21,
+      "title": "DJ's Glow Ride",
+      "diziid": "ghe",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/21/djin_isiltili_gezintisi"
+    },
+    {
+      "season": 4,
+      "episode": 22,
+      "title": "Rainy Day Banana",
+      "diziid": "ghe",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/22/yagmurlu_muz_gunu"
+    },
+    {
+      "season": 5,
+      "episode": 23,
+      "title": "CatRat the Bandit",
+      "diziid": "ghe",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/23/haydut_cilgin_kedi"
+    },
+    {
+      "season": 6,
+      "episode": 24,
+      "title": "DJ Catnip Gets His Groove Back",
+      "diziid": "ghe",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/24/kedi%CC%87nanesi%CC%87_havasina_yeni%CC%87den_kavusuyor"
+    },
+    {
+      "season": 7,
+      "episode": 25,
+      "title": "Kitty Fairy Gets Sick",
+      "diziid": "ghe",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/25/peri%CC%87_kedi%CC%87_hastalanir"
+    },
+    {
+      "season": 1,
+      "episode": 26,
+      "title": "Cakey's Cupcake Cousins",
+      "diziid": "ghe",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/26/kekedinin_kapkek_kuzenleri"
+    },
+    {
+      "season": 2,
+      "episode": 27,
+      "title": "It's Purrsday!",
+      "diziid": "ghe",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/27/mir-sembe_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 28,
+      "title": "Dollhouse Safari",
+      "diziid": "ghe",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/28/hayal_evinde_safari"
+    },
+    {
+      "season": 4,
+      "episode": 29,
+      "title": "Fluffy Flufferton",
+      "diziid": "ghe",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/29/pofuduk_pofuran"
+    },
+    {
+      "season": 5,
+      "episode": 30,
+      "title": "Abra-CAT-Dabra!",
+      "diziid": "ghe",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/30/abra-kedi-dabra"
+    },
+    {
+      "season": 6,
+      "episode": 31,
+      "title": "The Fairy Festival!",
+      "diziid": "ghe",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/31/peri_festivali"
+    },
+    {
+      "season": 7,
+      "episode": 32,
+      "title": "Dollhouse FairyTales",
+      "diziid": "ghe",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/32/hayal_evi_peri_masallari"
+    },
+    {
+      "season": 8,
+      "episode": 33,
+      "title": "The Easter Kitty Bunny",
+      "diziid": "ghe",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/33/paskalya_kedicik_tavsani"
+    },
+    {
+      "season": 1,
+      "episode": 34,
+      "title": "Gabby, I Shrunk the Kitties!",
+      "diziid": "ghe",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/34/gabby%2C_kedileri_kuculttum%21"
+    },
+    {
+      "season": 2,
+      "episode": 35,
+      "title": "Mission to CATurn",
+      "diziid": "ghe",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/35/kediturn_misyonu"
+    },
+    {
+      "season": 3,
+      "episode": 36,
+      "title": "Doodlebook",
+      "diziid": "ghe",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/36/karalama_kitabi"
+    },
+    {
+      "season": 4,
+      "episode": 37,
+      "title": "Cupcake Tree",
+      "diziid": "ghe",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/37/kapkek_agaci"
+    },
+    {
+      "season": 5,
+      "episode": 38,
+      "title": "Dollhouse Detectives",
+      "diziid": "ghe",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/38/hayal_evi_dedektifleri"
+    },
+    {
+      "season": 6,
+      "episode": 39,
+      "title": "Happy CAT-O-Ween!",
+      "diziid": "ghe",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/39/kedi-cad_bayrami"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "A CAT-Tabulous Christmas",
+      "diziid": "ghe",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/40/kedi-nanilmaz_bir_noel"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "CatRat's Puzzle Hunt",
+      "diziid": "ghe",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/41/cilgin_kedinin_yapboz_avi"
+    },
+    {
+      "season": 3,
+      "episode": 42,
+      "title": "Super Thinkers!",
+      "diziid": "ghe",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/42/super_dusunurler%21"
+    },
+    {
+      "season": 4,
+      "episode": 43,
+      "title": "Paper Cup Popper",
+      "diziid": "ghe",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/43/kagit_bardak_kutusu"
+    },
+    {
+      "season": 5,
+      "episode": 44,
+      "title": "Dollhouse Dress-Up Chest",
+      "diziid": "ghe",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/44/hayal_evi_kostum_sandigi"
+    },
+    {
+      "season": 6,
+      "episode": 45,
+      "title": "Kico the KittyCorn",
+      "diziid": "ghe",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/45/kebo%2C_kedi_boynuz"
+    },
+    {
+      "season": 1,
+      "episode": 46,
+      "title": "Planes, Trains, and Kitty Balloons!",
+      "diziid": "ghe",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/46/ucaklar%2C_trenler_ve_kedicik_balonlari%21"
+    },
+    {
+      "season": 2,
+      "episode": 47,
+      "title": "True Fairy Friends",
+      "diziid": "ghe",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/47/gercek_peri_dostlar"
+    },
+    {
+      "season": 3,
+      "episode": 48,
+      "title": "Googly Eyes",
+      "diziid": "ghe",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/48/oynak_gozler"
+    },
+    {
+      "season": 4,
+      "episode": 49,
+      "title": "Spongey-Saurus",
+      "diziid": "ghe",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/49/sunger-o-zor"
+    },
+    {
+      "season": 5,
+      "episode": 50,
+      "title": "Baby Boxâ€™s Meow-Seum Day!",
+      "diziid": "ghe",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/50/karton_yavru_kedinin_mi-ze_gunu"
+    },
+    {
+      "season": 6,
+      "episode": 51,
+      "title": "Carlita the Ice Cream Truck!",
+      "diziid": "ghe",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/51/dondurma_kamyoneti_kediraba%21"
+    },
+    {
+      "season": 1,
+      "episode": 52,
+      "title": "The Magical Mermaid-Lantis",
+      "diziid": "ghe",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/52/deniz_kedisi_sehrinin_buyulu_dunyasi"
+    },
+    {
+      "season": 2,
+      "episode": 53,
+      "title": "Snow Cruise",
+      "diziid": "ghe",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/53/kar_gemisi"
+    },
+    {
+      "season": 3,
+      "episode": 54,
+      "title": "Baby Benny Box Is Here!",
+      "diziid": "ghe",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/54/karton_bebek_benny"
+    },
+    {
+      "season": 4,
+      "episode": 55,
+      "title": "The Mermaid Cruise Ship",
+      "diziid": "ghe",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/55/deniz_kedisi_yolcu_gemisi"
+    },
+    {
+      "season": 5,
+      "episode": 56,
+      "title": "Charm Bracelet Treasure Hunt",
+      "diziid": "ghe",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/56/ugur_bilezigi_hazine_avi"
+    },
+    {
+      "season": 6,
+      "episode": 57,
+      "title": "CatRat's KittyFish",
+      "diziid": "ghe",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/57/cilgin_kedinin_kedicik_baliklari"
+    },
+    {
+      "season": 7,
+      "episode": 58,
+      "title": "Mermaid Christmas Cruise",
+      "diziid": "ghe",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/58/deniz_kedisi_noel_gemisi"
+    },
+    {
+      "season": 1,
+      "episode": 59,
+      "title": "Music Festival",
+      "diziid": "ghe",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/59/muzik_festivali"
+    },
+    {
+      "season": 2,
+      "episode": 60,
+      "title": "Cakey's Birthday",
+      "diziid": "ghe",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/60/kekedinin_dogum_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 61,
+      "title": "Pandy's Bad Day",
+      "diziid": "ghe",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/61/pandy_kotu_bir_gun_geciriyor"
+    },
+    {
+      "season": 4,
+      "episode": 62,
+      "title": "Baby Box's Crafty-riffic Adventure",
+      "diziid": "ghe",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/62/karton_yavru_kedinin_el-is_macerasi"
+    },
+    {
+      "season": 5,
+      "episode": 63,
+      "title": "Silly Kitty Cubes",
+      "diziid": "ghe",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/63/sapsal_kedicik_zarlari"
+    },
+    {
+      "season": 6,
+      "episode": 64,
+      "title": "Carlita's Ameowzing Race",
+      "diziid": "ghe",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/64/kedirabanin_miyav-ilmaz_yarisi"
+    },
+    {
+      "season": 1,
+      "episode": 65,
+      "title": "Happy Birthday, Gabby!",
+      "diziid": "ghe",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/65/iyi_ki_dogdun_gabby%21"
+    },
+    {
+      "season": 2,
+      "episode": 66,
+      "title": "Marty the Party Cat",
+      "diziid": "ghe",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/66/parti_kedisi_marty"
+    },
+    {
+      "season": 3,
+      "episode": 67,
+      "title": "You Wish!",
+      "diziid": "ghe",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/67/dilek_cesmesi"
+    },
+    {
+      "season": 4,
+      "episode": 68,
+      "title": "CatRat's Birthday Surprise",
+      "diziid": "ghe",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/68/cilgin_kediye_dogum_gunu_surprizi"
+    },
+    {
+      "season": 5,
+      "episode": 69,
+      "title": "Craft Bot",
+      "diziid": "ghe",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/69/el_isi_robotu"
+    },
+    {
+      "season": 6,
+      "episode": 70,
+      "title": "Grandma CatRat",
+      "diziid": "ghe",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/70/cilgin_kedinin_buyukannesi"
+    },
+    {
+      "season": 1,
+      "episode": 71,
+      "title": "Kitty Care Ear",
+      "diziid": "ghe",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/71/kedicik_bakim_odasi"
+    },
+    {
+      "season": 2,
+      "episode": 72,
+      "title": "Benny's First Tooth",
+      "diziid": "ghe",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/72/bennynin_ilk_disi"
+    },
+    {
+      "season": 3,
+      "episode": 73,
+      "title": "Happy Kitty-tine's Day!",
+      "diziid": "ghe",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/73/kedi-gililer_gunu_kutlu_olsun%21"
+    },
+    {
+      "season": 4,
+      "episode": 74,
+      "title": "Baby Alien Kitty",
+      "diziid": "ghe",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/74/yavru_uzayli_kedicik"
+    },
+    {
+      "season": 5,
+      "episode": 75,
+      "title": "Pillow Cat Can't Sleep",
+      "diziid": "ghe",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/75/yumos_kedi_uykuya_dalamiyor"
+    },
+    {
+      "season": 6,
+      "episode": 76,
+      "title": "Family Day",
+      "diziid": "ghe",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/76/aile_gunu"
+    },
+    {
+      "season": 1,
+      "episode": 77,
+      "title": "The Wizard of Meow",
+      "diziid": "ghe",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/77/miyav_buyucusu"
+    },
+    {
+      "season": 2,
+      "episode": 78,
+      "title": "Cakey's Cabinet Cafe",
+      "diziid": "ghe",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/78/kekedinin_dolap_kafesi"
+    },
+    {
+      "season": 3,
+      "episode": 79,
+      "title": "How to Train Your Kitty-Dragon",
+      "diziid": "ghe",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/79/kedicik_ejderhani_nasil_egitirsin"
+    },
+    {
+      "season": 4,
+      "episode": 80,
+      "title": "The Magic Bananas",
+      "diziid": "ghe",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/80/sihirli_muzlar"
+    },
+    {
+      "season": 5,
+      "episode": 81,
+      "title": "Good to be a Gabby Cat Game Show!",
+      "diziid": "ghe",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/81/gabby_kedisi_olmak_guzeldir_yarisma_programi"
+    },
+    {
+      "season": 1,
+      "episode": 82,
+      "title": "The Secret World of Fairylandia",
+      "diziid": "ghe",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/82/peristanin_gizli_dunyasi"
+    },
+    {
+      "season": 2,
+      "episode": 83,
+      "title": "Fairy Appreciation Day",
+      "diziid": "ghe",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/83/perileri_takdir_etme_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 84,
+      "title": "Kitty Bear Tea Party",
+      "diziid": "ghe",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/84/ayi_kedicik_cay_partisi"
+    },
+    {
+      "season": 4,
+      "episode": 85,
+      "title": "Pandy and the Kitty-Pillar",
+      "diziid": "ghe",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/85/pandi_ve_pisi_tirtil"
+    },
+    {
+      "season": 5,
+      "episode": 86,
+      "title": "Opposite Day",
+      "diziid": "ghe",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/ghe/gabbynin_hayal_evi/86/zitlik_gunu"
+    }
+  ]
+}

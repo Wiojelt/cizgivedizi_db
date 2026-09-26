@@ -1,0 +1,428 @@
+{
+  "id": "toa",
+  "title": "toad ve arkadaÅŸlarÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TOAPoster.avif",
+  "channel": "Cartoonito",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "A Lick of Paint",
+      "diziid": "toa",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/1/bir_parca_boya"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Captain Ratty",
+      "diziid": "toa",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/2/kaptan_ratty"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Roughing It",
+      "diziid": "toa",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/3/konforsuz_hayat"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Lights, Camera, Disaster",
+      "diziid": "toa",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/4/isiklar%2C_kamera%2C_felaket"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Hedge Flies High",
+      "diziid": "toa",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/5/hedge_gokyuzunde"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Regatta",
+      "diziid": "toa",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/6/tekne_yarisi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Eau de Toad",
+      "diziid": "toa",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/7/toadun_kolonyasi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Ghost Tour",
+      "diziid": "toa",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/8/hayalet_turu"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Scare Toads",
+      "diziid": "toa",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/9/kurbaga_korkutan"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Nurse Toad",
+      "diziid": "toa",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/10/hemsire_toad"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Poetry Slam",
+      "diziid": "toa",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/11/siir_atismasi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Kingfishers Silly Song",
+      "diziid": "toa",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/12/balik_kralin_sacma_sarkisi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Jam Packed Day",
+      "diziid": "toa",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/13/recel_gunu"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Jack of the Green",
+      "diziid": "toa",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/14/yesil_jack"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Otter Disaster",
+      "diziid": "toa",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/15/otterlarin_kazasi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Security!",
+      "diziid": "toa",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/16/guvenlik%21"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Hammock",
+      "diziid": "toa",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/17/hamak"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Mystery of the Missing Pears",
+      "diziid": "toa",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/18/kayip_armutlarin_gizemi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Ratty Hall",
+      "diziid": "toa",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/19/rattynin_evi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Moles Broken Glasses",
+      "diziid": "toa",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/20/moleun_kirik_gozlugu"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Hot Air Toad",
+      "diziid": "toa",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/21/sicak_hava_kurbagasi"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Portrait of a Toad",
+      "diziid": "toa",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/22/toadun_portresi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "The Chair",
+      "diziid": "toa",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/23/koltuk"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Wild Wood Warblers",
+      "diziid": "toa",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/24/vahsi_ormanin_bulbulleri"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Bedtime Story",
+      "diziid": "toa",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/25/uyku_masali"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Hedges First Christmas",
+      "diziid": "toa",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/26/hedgein_ilk_yilbasi_kutlamasi"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Parcel Farce",
+      "diziid": "toa",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/27/parsel_komedi"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Toad on the Road",
+      "diziid": "toa",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/28/toad_yolda"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Check No Mates",
+      "diziid": "toa",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/29/sah_mat"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "River Monster!",
+      "diziid": "toa",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/30/nehir_canavari%21"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Weasels Ahoy!",
+      "diziid": "toa",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/31/merhaba_kaptan_sansanlar%21"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Be More Toad",
+      "diziid": "toa",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/32/toad_gibi_ol"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Mr. Tiddles",
+      "diziid": "toa",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/33/bay_tiddles"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Just Desserts",
+      "diziid": "toa",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/34/tatli_odul"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Horse Power",
+      "diziid": "toa",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/35/beygir_gucu"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Drip Drop",
+      "diziid": "toa",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/36/damla_damla"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Chief for a Day",
+      "diziid": "toa",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/37/bir_gunlugune_sef"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Sail Away",
+      "diziid": "toa",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/38/yelken_acmak"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Do Not Disturb",
+      "diziid": "toa",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/39/rahatsiz_etmeyin"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Brother Knows Best",
+      "diziid": "toa",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/40/agabeyler_en_iyisini_bilir"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "An Unwelcome Guest",
+      "diziid": "toa",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/41/beklenmedik_misafir"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Toad's Number One Fan",
+      "diziid": "toa",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/42/toadun_bir_numarali_hayrani"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Helpful Hedge",
+      "diziid": "toa",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/43/yardimsever_hedge"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Portly's Pet",
+      "diziid": "toa",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/44/portlynin_evcil_hayvani"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Run Toad Run!",
+      "diziid": "toa",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/45/kos_toad_kos"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Hit The High Note",
+      "diziid": "toa",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/46/en_tiz_ses"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Fog Creatures",
+      "diziid": "toa",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/47/sis_yaratiklari"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Marvellous Mud",
+      "diziid": "toa",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/48/muhtesem_camur"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Hiccups and Honey",
+      "diziid": "toa",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/49/hickiriklar_ve_bal"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Tinker in Charge",
+      "diziid": "toa",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/50/tinker_is_basinda"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "The Songstone",
+      "diziid": "toa",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/51/sarki_tasi"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "A Fond Farewell",
+      "diziid": "toa",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/toa/toad_ve_arkadaslari/52/sevgi_dolu_bir_veda"
+    }
+  ]
+}

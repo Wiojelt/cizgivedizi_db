@@ -1,0 +1,356 @@
+{
+  "id": "yardmt",
+  "title": "yardÄ±m takÄ±mÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/YARDMTPoster.avif",
+  "channel": "Disney Jr.",
+  "genres": [
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Car in a Tree/Dalmatian Day",
+      "diziid": "yardmt",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/1/agactaki_araba__dalmacyali_gunu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Hubcap Heist/Food Truck Fiasco",
+      "diziid": "yardmt",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/2/hubcap_soygunu__yiyecek_kamyonu_soygunu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Treehouse Trouble/The Getaway Car That Got Away",
+      "diziid": "yardmt",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/3/agac_ev_problemi__calinti_arabanin_kacisi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Picnic Pile-Up/Duo Dash",
+      "diziid": "yardmt",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/4/piknik_kazasi__duo_dash"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Not-So Haunted House/Halloween Heroes",
+      "diziid": "yardmt",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/5/perili_olmayan_ev__cadilar_bayrami_kahramanlari"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Sleepover Stakeout/Rescue Club",
+      "diziid": "yardmt",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/6/geceleme_nobeti__kurtarma_kulubu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Cliffhanger/The Very First Fire",
+      "diziid": "yardmt",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/7/ucurumdan_kurtarma__ilk_yangin"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Marsh Mayhem/The Art of Friendship",
+      "diziid": "yardmt",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/8/bataklik_kargasasi__arkadaslik_sanati"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Lights Out/Handle with Car",
+      "diziid": "yardmt",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/9/yatma_vakti__arabayla_idare_etme"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Transmission Impossible/Carkour",
+      "diziid": "yardmt",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/10/imkansiz_vites__araba_parkuru"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Care-A-Van Club/Mud About You",
+      "diziid": "yardmt",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/11/karavan_kulubu__camurlu_olmak"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "River Rescue/Big Tread",
+      "diziid": "yardmt",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/12/nehirde_kurtarma__buyuk_yuruyus"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Hanukkah Hullabaloo/The Christmas Car-Sled Race",
+      "diziid": "yardmt",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/13/hanuka_hullabaloo__noel_kizak_yarisi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Call of the Siren/Jamal's Jam",
+      "diziid": "yardmt",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/14/siren_cagrisi__jamalin_sikisikligi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Bayani Cookout/Best Of The Rest",
+      "diziid": "yardmt",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/15/kahraman_piknigi__en_iyi_dinlenme"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Piston's Driving School/Jazzyland",
+      "diziid": "yardmt",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/16/pistonin_surucu_kursu__jazzyland"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Puppy Pursuit/The Ice Cream Truck Bandits",
+      "diziid": "yardmt",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/17/yavru_kopek_takibi__dondurma_kamyonu_haydutlari"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Cleft Hood/The Case Of The Disappearing Doghouses",
+      "diziid": "yardmt",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/18/yarik_kamput__kaybolan_kopek_kulubeleri_vakasi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "All That Jazzy/Iguana Hold Your Hand",
+      "diziid": "yardmt",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/19/hep_bu_jazzy__elini_tutmak_isterim"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Shelter Island/Escape from Shelter Island",
+      "diziid": "yardmt",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/20/shelter_adasi__shelter_adasindan_kacis"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Super Safety Show/Job-O-Rama Day",
+      "diziid": "yardmt",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/21/super_guvenlik_gosterisi__job-o-rama_gunu"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Roller Coaster Rescue/The Night Shift",
+      "diziid": "yardmt",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/22/roller_coaster_kurtarma_operasyonu__gece_vardiyasi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Star Vehicle / Firebuds Fever",
+      "diziid": "yardmt",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/23/yildiz_araci__acil_durum_kankileri_gorev_basinda"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Birthday Blaze / Everybody Loves Axl",
+      "diziid": "yardmt",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/24/dogum_gunu_atesi__herkes_axli_seviyor"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "The Four Door Troubadours/Moto-Polo!",
+      "diziid": "yardmt",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/25/dort_kapili_troubadourlar__moto-polo%21"
+    },
+    {
+      "season": 1,
+      "episode": 26,
+      "title": "Hello, Halo!/What's Up, Woodpecker?",
+      "diziid": "yardmt",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/26/merhaba%2C_halo%21__ne_haber_agackakan"
+    },
+    {
+      "season": 2,
+      "episode": 27,
+      "title": "Sugar Crash/The Cut N' Chrome Caper",
+      "diziid": "yardmt",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/27/seker_carpmasi__kes_ve_kromla_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 28,
+      "title": "Mayhem At The Museum/Wrong Way Rescue",
+      "diziid": "yardmt",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/28/muzede_kargasa__yanlis_yol_kurtarmasi"
+    },
+    {
+      "season": 4,
+      "episode": 29,
+      "title": "Apple Pie Peril/Hike & Seek",
+      "diziid": "yardmt",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/29/elmali_turta_tehlikesi__saklambac"
+    },
+    {
+      "season": 5,
+      "episode": 30,
+      "title": "Blizzard Buds/Parade Escapade",
+      "diziid": "yardmt",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/30/kar_firtinasi_takimi__tren_kacamagi"
+    },
+    {
+      "season": 6,
+      "episode": 31,
+      "title": "Annie Spokely/Ingrid On Ice",
+      "diziid": "yardmt",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/31/_annie__ingrid_buzda"
+    },
+    {
+      "season": 1,
+      "episode": 32,
+      "title": "Science Fair Snafu",
+      "diziid": "yardmt",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/32/bilim_fuari_sorunu"
+    },
+    {
+      "season": 1,
+      "episode": 33,
+      "title": "Monster Truck Piston",
+      "diziid": "yardmt",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/33/canavar_kamyon_piston"
+    },
+    {
+      "season": 1,
+      "episode": 34,
+      "title": "Heat Wave",
+      "diziid": "yardmt",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/34/sicak_dalgasi"
+    },
+    {
+      "season": 10,
+      "episode": 35,
+      "title": "Wayne's Trains and Automobiles/Jazzy Buds",
+      "diziid": "yardmt",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/35/waynenin_trenleri_ve_otomobilleri__jazzy_takimi"
+    },
+    {
+      "season": 13,
+      "episode": 36,
+      "title": "Woodland Wiley/P.I. Piston",
+      "diziid": "yardmt",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/38/orman_cocugu_riley__dedektif_piston"
+    },
+    {
+      "season": 14,
+      "episode": 37,
+      "title": "Mayor for the Day/Dozer Disaster",
+      "diziid": "yardmt",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/39/gunun_belediye_baskani__dozer_felaketi"
+    },
+    {
+      "season": 17,
+      "episode": 38,
+      "title": "Full-Time Flash/Bubba Trouble",
+      "diziid": "yardmt",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/42/tam_zamanli_flas__bubba_sorunu"
+    },
+    {
+      "season": 18,
+      "episode": 39,
+      "title": "Scarlett & Skid/Alpine Adventure",
+      "diziid": "yardmt",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/43/scarlett_ve_skid__alp_macerasi"
+    },
+    {
+      "season": 19,
+      "episode": 40,
+      "title": "Guac and Roll/All-Terrain Trek",
+      "diziid": "yardmt",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/44/_zamani__arazi_yuruyusu"
+    },
+    {
+      "season": 21,
+      "episode": 41,
+      "title": "The Haunted HQ / All Souls' Surprise",
+      "diziid": "yardmt",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/46/perili_karargah__tum_ruhlarin_surprizi"
+    },
+    {
+      "season": 22,
+      "episode": 42,
+      "title": "Bamboozled Bo/Food in a Flash",
+      "diziid": "yardmt",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/47/saskin_bo__hizlica_yemek"
+    },
+    {
+      "season": 1,
+      "episode": 43,
+      "title": "Hey, Dude",
+      "diziid": "yardmt",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/yardmt/yardim_takimi/48/merhaba%2C_dostum"
+    }
+  ]
+}

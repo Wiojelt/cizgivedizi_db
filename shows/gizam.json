@@ -1,0 +1,493 @@
+{
+  "id": "gizam",
+  "title": "gizemli ada maceralarÄ±",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/GIZAMPoster.avif",
+  "channel": "Nickelodeon",
+  "genres": [
+    "Gizem",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Happy Birthday, Taylor!",
+      "diziid": "gizam",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/1/mutlu_yillar_taylor"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Bermuda Queen",
+      "diziid": "gizam",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/2/bermuda_kralicesi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Something in the Water",
+      "diziid": "gizam",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/3/suda_bir_sey_var"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Who's That Girl",
+      "diziid": "gizam",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/4/o_kiz_kim"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Distress call",
+      "diziid": "gizam",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/5/felaket_cagrisi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "A Tale Of Two Taylors",
+      "diziid": "gizam",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/6/iki_taylor_masali"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Shadow",
+      "diziid": "gizam",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/7/golge"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Hurricane Jonah",
+      "diziid": "gizam",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/8/jonah_kasirgasi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Text Message in a Bottle",
+      "diziid": "gizam",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/9/sisedeki_mesaj"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Sea Shell",
+      "diziid": "gizam",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/10/deniz_kabugu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Treasure Map",
+      "diziid": "gizam",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/11/hazine_haritasi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Taylor's Dream",
+      "diziid": "gizam",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/12/taylorin_ruyasi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "A Date With Atlantis",
+      "diziid": "gizam",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/13/atlantis_macerasi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Mystery of the Forgotten Mystery",
+      "diziid": "gizam",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/14/unutulmus_gizemin_gizemi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "A Young Mystery",
+      "diziid": "gizam",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/15/genclik_gizemi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Day of the Octopus",
+      "diziid": "gizam",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/16/ahtapot_gunu"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Pong Plant",
+      "diziid": "gizam",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/17/kokulu_bitki"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Brain Swap",
+      "diziid": "gizam",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/18/beyin_degis_tokusu"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Lights in the Sky",
+      "diziid": "gizam",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/19/gokyuzundeki_isiklar"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Mystery of Raquel",
+      "diziid": "gizam",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/20/raquelin_gizemi"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "The Cave To Everywhere Part 1",
+      "diziid": "gizam",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/21/her_yere_acilan_magara_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "The Cave To Everywhere Part 2",
+      "diziid": "gizam",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/22/her_yere_acilan_magara_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "The Message",
+      "diziid": "gizam",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/23/mesaj"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "A Photo From the Past",
+      "diziid": "gizam",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/24/gecmisten_bir_fotograf"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "Something in the Water",
+      "diziid": "gizam",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/25/suda_baska_bir_sey_var"
+    },
+    {
+      "season": 6,
+      "episode": 26,
+      "title": "Dream A Little Dream",
+      "diziid": "gizam",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/26/ufak_bir_hayal_kur"
+    },
+    {
+      "season": 7,
+      "episode": 27,
+      "title": "Lucky Charm",
+      "diziid": "gizam",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/27/nazarlik"
+    },
+    {
+      "season": 8,
+      "episode": 28,
+      "title": "New Friends",
+      "diziid": "gizam",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/28/yeni_arkadaslar"
+    },
+    {
+      "season": 9,
+      "episode": 29,
+      "title": "The Dig",
+      "diziid": "gizam",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/29/kazi"
+    },
+    {
+      "season": 10,
+      "episode": 30,
+      "title": "The Day Uncle Charlie Went Missing",
+      "diziid": "gizam",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/30/charlie_dayinin_kayboldugu_gun"
+    },
+    {
+      "season": 11,
+      "episode": 31,
+      "title": "Return To The Hidden Valley",
+      "diziid": "gizam",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/31/sakli_vadiye_donus"
+    },
+    {
+      "season": 12,
+      "episode": 32,
+      "title": "Secrets in the Ice",
+      "diziid": "gizam",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/32/buzdaki_sirlar"
+    },
+    {
+      "season": 13,
+      "episode": 33,
+      "title": "Mystery Hunter",
+      "diziid": "gizam",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/33/gizem_avcisi"
+    },
+    {
+      "season": 14,
+      "episode": 34,
+      "title": "Frozen in Time",
+      "diziid": "gizam",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/34/zamanda_donmus"
+    },
+    {
+      "season": 15,
+      "episode": 35,
+      "title": "Runaway Groom",
+      "diziid": "gizam",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/35/kacak_damat"
+    },
+    {
+      "season": 16,
+      "episode": 36,
+      "title": "The Two Charlies",
+      "diziid": "gizam",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/36/iki_charlie"
+    },
+    {
+      "season": 17,
+      "episode": 37,
+      "title": "Journey to the Bottom of the Island",
+      "diziid": "gizam",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/37/adanin_dibine_yolculuk"
+    },
+    {
+      "season": 18,
+      "episode": 38,
+      "title": "Too Much Information",
+      "diziid": "gizam",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/38/cok_fazla_bilgi"
+    },
+    {
+      "season": 19,
+      "episode": 39,
+      "title": "This Is Not a Drill",
+      "diziid": "gizam",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/39/bu_bir_tatbikat_degil"
+    },
+    {
+      "season": 20,
+      "episode": 40,
+      "title": "The Energy Source",
+      "diziid": "gizam",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/40/enerji_kaynagi"
+    },
+    {
+      "season": 1,
+      "episode": 41,
+      "title": "Welcome Back Taylor",
+      "diziid": "gizam",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/41/hos_geldin_taylor"
+    },
+    {
+      "season": 2,
+      "episode": 42,
+      "title": "An Echo Must Return",
+      "diziid": "gizam",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/42/yankinin_cagrisi"
+    },
+    {
+      "season": 3,
+      "episode": 43,
+      "title": "The Hidden Crypt",
+      "diziid": "gizam",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/43/gizli_mahzen"
+    },
+    {
+      "season": 4,
+      "episode": 44,
+      "title": "Solstice Stone",
+      "diziid": "gizam",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/44/gundonumu_tasi"
+    },
+    {
+      "season": 5,
+      "episode": 45,
+      "title": "The Portrait",
+      "diziid": "gizam",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/45/tablo"
+    },
+    {
+      "season": 6,
+      "episode": 46,
+      "title": "Opposites Attract",
+      "diziid": "gizam",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/46/zit_kutuplar"
+    },
+    {
+      "season": 7,
+      "episode": 47,
+      "title": "Artificial Taylor",
+      "diziid": "gizam",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/47/yapay_taylor"
+    },
+    {
+      "season": 8,
+      "episode": 48,
+      "title": "Sleepwalker",
+      "diziid": "gizam",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/48/uyurgezer"
+    },
+    {
+      "season": 9,
+      "episode": 49,
+      "title": "Lila's Listeners",
+      "diziid": "gizam",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/49/gencler_temsilcisi"
+    },
+    {
+      "season": 10,
+      "episode": 50,
+      "title": "The Truth Below",
+      "diziid": "gizam",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/50/gercekler"
+    },
+    {
+      "season": 11,
+      "episode": 51,
+      "title": "Ellis vs. Ellis",
+      "diziid": "gizam",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/51/ellis%2C_ellise_karsi"
+    },
+    {
+      "season": 12,
+      "episode": 52,
+      "title": "It's Electric",
+      "diziid": "gizam",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/52/elektrikli"
+    },
+    {
+      "season": 13,
+      "episode": 53,
+      "title": "Who's Who",
+      "diziid": "gizam",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/53/gizemli_kadin"
+    },
+    {
+      "season": 14,
+      "episode": 54,
+      "title": "Tiny Troubles",
+      "diziid": "gizam",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/54/kucuk_sorunlar"
+    },
+    {
+      "season": 15,
+      "episode": 55,
+      "title": "Crystallised",
+      "diziid": "gizam",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/55/kristallesmis"
+    },
+    {
+      "season": 16,
+      "episode": 56,
+      "title": "Reflections",
+      "diziid": "gizam",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/56/yansimalar"
+    },
+    {
+      "season": 17,
+      "episode": 57,
+      "title": "To Catch A Ghost",
+      "diziid": "gizam",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/57/bir_hayaleti_yakalamak"
+    },
+    {
+      "season": 18,
+      "episode": 58,
+      "title": "The Weeping Tree",
+      "diziid": "gizam",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/58/aglayan_agac"
+    },
+    {
+      "season": 19,
+      "episode": 59,
+      "title": "Homecoming Part 1",
+      "diziid": "gizam",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/59/eve_donus"
+    },
+    {
+      "season": 20,
+      "episode": 60,
+      "title": "Homecoming Part 2",
+      "diziid": "gizam",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/gizam/gizemli_ada_maceralari/60/adanin_kurtulusu"
+    }
+  ]
+}

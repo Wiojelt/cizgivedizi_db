@@ -1,0 +1,486 @@
+{
+  "id": "xfil",
+  "title": "gizli dosyalar",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/ESKÄ°/dizi/resim/poster/XFILPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Gizem",
+    "Bilim Kurgu",
+    "Dedektif"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "xfil",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/1/pilot"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Deep Throat",
+      "diziid": "xfil",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/2/muhbir"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Squeeze",
+      "diziid": "xfil",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/3/sikisik"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Conduit",
+      "diziid": "xfil",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/4/aktarici"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Jersey Devil",
+      "diziid": "xfil",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/5/jersey_seytani"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Shadows",
+      "diziid": "xfil",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/6/golgeler"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Ghost in the Machine",
+      "diziid": "xfil",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/7/makinedeki_hayalet"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Ice",
+      "diziid": "xfil",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/8/buz"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Space",
+      "diziid": "xfil",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/9/uzay"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Fallen Angel",
+      "diziid": "xfil",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/10/dusmus_melek"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Eve",
+      "diziid": "xfil",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/11/eve"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Fire",
+      "diziid": "xfil",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/12/ates"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Beyond the Sea",
+      "diziid": "xfil",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/13/denizin_otesi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Gender Bender",
+      "diziid": "xfil",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/14/cinsiyet_degistiren"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Lazarus",
+      "diziid": "xfil",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/15/lazarus"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Young at Heart",
+      "diziid": "xfil",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/16/kalbi_genc"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "E.B.E.",
+      "diziid": "xfil",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/17/e.b.e._dunya_disi_biyolojik_varlik"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Miracle Man",
+      "diziid": "xfil",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/18/mucize_adam"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Shapes",
+      "diziid": "xfil",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/19/sekiller"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Darkness Falls",
+      "diziid": "xfil",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/20/karanlik_coker"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Tooms",
+      "diziid": "xfil",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/21/tooms"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Born Again",
+      "diziid": "xfil",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/22/tekrar_dogmak"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Roland",
+      "diziid": "xfil",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/23/roland"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Erlenmeyer Flask",
+      "diziid": "xfil",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/24/erlenmeyer_sisesi"
+    },
+    {
+      "season": 1,
+      "episode": 25,
+      "title": "Little Green Men",
+      "diziid": "xfil",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/25/kucuk_yesil_adamlar"
+    },
+    {
+      "season": 2,
+      "episode": 26,
+      "title": "The Host",
+      "diziid": "xfil",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/26/tasiyici"
+    },
+    {
+      "season": 3,
+      "episode": 27,
+      "title": "Blood",
+      "diziid": "xfil",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/27/kan"
+    },
+    {
+      "season": 4,
+      "episode": 28,
+      "title": "Sleepless",
+      "diziid": "xfil",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/28/uykusuz"
+    },
+    {
+      "season": 5,
+      "episode": 29,
+      "title": "Duane Barry",
+      "diziid": "xfil",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/29/duane_barry"
+    },
+    {
+      "season": 6,
+      "episode": 30,
+      "title": "Ascension",
+      "diziid": "xfil",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/30/yukselis"
+    },
+    {
+      "season": 7,
+      "episode": 31,
+      "title": "3",
+      "diziid": "xfil",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/31/3"
+    },
+    {
+      "season": 8,
+      "episode": 32,
+      "title": "One Breath",
+      "diziid": "xfil",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/32/tek_nefes"
+    },
+    {
+      "season": 9,
+      "episode": 33,
+      "title": "Firewalker",
+      "diziid": "xfil",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/33/ateste_yuruyen"
+    },
+    {
+      "season": 10,
+      "episode": 34,
+      "title": "Red Museum",
+      "diziid": "xfil",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/34/kirmizi_muze"
+    },
+    {
+      "season": 11,
+      "episode": 35,
+      "title": "Excelsis Dei",
+      "diziid": "xfil",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/35/excelsis_dei"
+    },
+    {
+      "season": 12,
+      "episode": 36,
+      "title": "Aubrey",
+      "diziid": "xfil",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/36/aubrey"
+    },
+    {
+      "season": 13,
+      "episode": 37,
+      "title": "Irresistible",
+      "diziid": "xfil",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/37/dayanilmaz"
+    },
+    {
+      "season": 14,
+      "episode": 38,
+      "title": "Die Hand die Verletzt",
+      "diziid": "xfil",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/38/yarali_eller"
+    },
+    {
+      "season": 15,
+      "episode": 39,
+      "title": "Fresh Bones",
+      "diziid": "xfil",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/39/taze_kemikler"
+    },
+    {
+      "season": 16,
+      "episode": 40,
+      "title": "Colony",
+      "diziid": "xfil",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/40/koloni"
+    },
+    {
+      "season": 17,
+      "episode": 41,
+      "title": "End Game",
+      "diziid": "xfil",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/41/son_oyun"
+    },
+    {
+      "season": 18,
+      "episode": 42,
+      "title": "Fearful Symmetry",
+      "diziid": "xfil",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/42/korkunc_simetri"
+    },
+    {
+      "season": 19,
+      "episode": 43,
+      "title": "DÃ¸d Kalm",
+      "diziid": "xfil",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/43/olum_sessizligi"
+    },
+    {
+      "season": 20,
+      "episode": 44,
+      "title": "Humbug",
+      "diziid": "xfil",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/44/kandirmaca"
+    },
+    {
+      "season": 21,
+      "episode": 45,
+      "title": "The Calusari",
+      "diziid": "xfil",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/45/topluluk"
+    },
+    {
+      "season": 22,
+      "episode": 46,
+      "title": "F. Emasculata",
+      "diziid": "xfil",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/46/f._emasculata"
+    },
+    {
+      "season": 23,
+      "episode": 47,
+      "title": "Soft Light",
+      "diziid": "xfil",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/47/yumusak_isik"
+    },
+    {
+      "season": 24,
+      "episode": 48,
+      "title": "Our Town",
+      "diziid": "xfil",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/48/kasabamiz"
+    },
+    {
+      "season": 25,
+      "episode": 49,
+      "title": "Anasazi",
+      "diziid": "xfil",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/49/anasaziler"
+    },
+    {
+      "season": 1,
+      "episode": 50,
+      "title": "My Struggle III",
+      "diziid": "xfil",
+      "bolum": "209",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/209/mucadelem_iii"
+    },
+    {
+      "season": 2,
+      "episode": 51,
+      "title": "This",
+      "diziid": "xfil",
+      "bolum": "210",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/210/bu"
+    },
+    {
+      "season": 3,
+      "episode": 52,
+      "title": "Plus One",
+      "diziid": "xfil",
+      "bolum": "211",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/211/arti_bir"
+    },
+    {
+      "season": 4,
+      "episode": 53,
+      "title": "The Lost Art of Forehead Sweat",
+      "diziid": "xfil",
+      "bolum": "212",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/212/kayip_alin_teri_sanati"
+    },
+    {
+      "season": 5,
+      "episode": 54,
+      "title": "Ghouli",
+      "diziid": "xfil",
+      "bolum": "213",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/213/hortlak"
+    },
+    {
+      "season": 6,
+      "episode": 55,
+      "title": "Kitten",
+      "diziid": "xfil",
+      "bolum": "214",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/214/kedicik"
+    },
+    {
+      "season": 7,
+      "episode": 56,
+      "title": "Rm9sbG93ZXJz",
+      "diziid": "xfil",
+      "bolum": "215",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/215/rm9sbg93zxjz"
+    },
+    {
+      "season": 8,
+      "episode": 57,
+      "title": "Familiar",
+      "diziid": "xfil",
+      "bolum": "216",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/216/tanidik"
+    },
+    {
+      "season": 9,
+      "episode": 58,
+      "title": "Nothing Lasts Forever",
+      "diziid": "xfil",
+      "bolum": "217",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/217/hicbir_sey_sonsuza_dek_surmez"
+    },
+    {
+      "season": 10,
+      "episode": 59,
+      "title": "My Struggle IV",
+      "diziid": "xfil",
+      "bolum": "218",
+      "url": "https://cizgivedizi.com/dizi/xfil/gizli_dosyalar/218/mucadelem_iv"
+    }
+  ]
+}

@@ -1,0 +1,693 @@
+{
+  "id": "kick",
+  "title": "uÃ§an tekme",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/KICKPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Wasabi Warriors",
+      "diziid": "kick",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/1/wasabi_savascilari"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Fat Chance",
+      "diziid": "kick",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/2/uzak_ihtimal"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Dummy Dancing",
+      "diziid": "kick",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/3/kukla_dansi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Dojo Day Afternoon",
+      "diziid": "kick",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/4/dovus_okulu_gununde_ogleden_sonra"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Swords and Magic",
+      "diziid": "kick",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/5/kiliclar_ve_buyu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Road to Wasabi",
+      "diziid": "kick",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/6/wasabiye_giden_yol"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "All the Wrong Moves",
+      "diziid": "kick",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/7/hep_yanlis_hareketler"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Ricky Weaver",
+      "diziid": "kick",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/8/ricky_weaver"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Wax On, Wax Off",
+      "diziid": "kick",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/9/agdayi_yapistir%2C_agdayi_cek"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Commercial",
+      "diziid": "kick",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/10/reklam"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Kung Fu Cop",
+      "diziid": "kick",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/11/kung_fu_polisi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Boo Gi Nights",
+      "diziid": "kick",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/12/cadilar_bayrami_gecesi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Clash of the Titans",
+      "diziid": "kick",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/13/titanlarin_savasi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Badge of Honor",
+      "diziid": "kick",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/14/onur_rozeti"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Great Escape",
+      "diziid": "kick",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/15/buyuk_kacis"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Dude, Where's My Sword?",
+      "diziid": "kick",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/16/dostum%2C_kilicim_nerede"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Breaking Board",
+      "diziid": "kick",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/17/tahta_kirma"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Reality Fights",
+      "diziid": "kick",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/18/gerceklik_dovusleri"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Kickin' It in China",
+      "diziid": "kick",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/19/cinde_ucan_tekme"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Wrath of Swan",
+      "diziid": "kick",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/20/kugunun_gazabi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Rowdy Rudy",
+      "diziid": "kick",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/21/kaba_rudy"
+    },
+    {
+      "season": 1,
+      "episode": 22,
+      "title": "Rock 'em Sock 'em Rudy",
+      "diziid": "kick",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/22/tokatla_onlari_rudy"
+    },
+    {
+      "season": 2,
+      "episode": 23,
+      "title": "My Left Foot",
+      "diziid": "kick",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/23/sol_ayagim"
+    },
+    {
+      "season": 3,
+      "episode": 24,
+      "title": "We Are Family",
+      "diziid": "kick",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/24/biz_bir_aileyiz"
+    },
+    {
+      "season": 4,
+      "episode": 25,
+      "title": "Eddie Cries Uncle",
+      "diziid": "kick",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/25/eddie_pes_eder"
+    },
+    {
+      "season": 5,
+      "episode": 26,
+      "title": "Skate Rat",
+      "diziid": "kick",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/26/kaykay_faresi"
+    },
+    {
+      "season": 6,
+      "episode": 27,
+      "title": "Capture the Flag",
+      "diziid": "kick",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/27/bayragi_ele_gecir"
+    },
+    {
+      "season": 7,
+      "episode": 28,
+      "title": "It Takes Two to Tangle",
+      "diziid": "kick",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/28/hirsizin_hic_mi_sucu_yok"
+    },
+    {
+      "season": 8,
+      "episode": 29,
+      "title": "Buddyguards",
+      "diziid": "kick",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/29/arkadas_korumalari"
+    },
+    {
+      "season": 9,
+      "episode": 30,
+      "title": "Dojo Day Care",
+      "diziid": "kick",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/30/dovus_okulu_kresi"
+    },
+    {
+      "season": 10,
+      "episode": 31,
+      "title": "Indiana Eddie",
+      "diziid": "kick",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/31/indiana_eddie"
+    },
+    {
+      "season": 11,
+      "episode": 32,
+      "title": "Kim of Kong",
+      "diziid": "kick",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/32/kongun_kimi"
+    },
+    {
+      "season": 12,
+      "episode": 33,
+      "title": "Kickin' It Old School",
+      "diziid": "kick",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/33/eski_usul_ucan_tekme"
+    },
+    {
+      "season": 13,
+      "episode": 34,
+      "title": "The Chosen One",
+      "diziid": "kick",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/34/secilen_kisi"
+    },
+    {
+      "season": 14,
+      "episode": 35,
+      "title": "Hit the Road Jack",
+      "diziid": "kick",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/35/jack_yollarda"
+    },
+    {
+      "season": 15,
+      "episode": 36,
+      "title": "A Slip Down Memory Lane",
+      "diziid": "kick",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/36/anilarda_kayma"
+    },
+    {
+      "season": 16,
+      "episode": 37,
+      "title": "Wedding Crashers",
+      "diziid": "kick",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/37/dugunun_davetsiz_misafirleri"
+    },
+    {
+      "season": 17,
+      "episode": 38,
+      "title": "Wazombie Warriors",
+      "diziid": "kick",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/38/wazombi_savascilari"
+    },
+    {
+      "season": 18,
+      "episode": 39,
+      "title": "Sole-Brothers",
+      "diziid": "kick",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/39/tek_kardesler"
+    },
+    {
+      "season": 19,
+      "episode": 40,
+      "title": "All the President's Friends",
+      "diziid": "kick",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/40/baskanin_tum_arkadaslari"
+    },
+    {
+      "season": 20,
+      "episode": 41,
+      "title": "New Jack City",
+      "diziid": "kick",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/41/yeni_jack_sehri"
+    },
+    {
+      "season": 21,
+      "episode": 42,
+      "title": "Karate Games",
+      "diziid": "kick",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/42/karate_oyunlari"
+    },
+    {
+      "season": 22,
+      "episode": 43,
+      "title": "Kickin' It On Our Own (Part 1)",
+      "diziid": "kick",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/43/kendi_basimiza_ucan_tekme_bolum_1"
+    },
+    {
+      "season": 23,
+      "episode": 44,
+      "title": "Kickin' It on Our Own (2)",
+      "diziid": "kick",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/44/kendi_basimiza_ucan_tekme_bolum_2"
+    },
+    {
+      "season": 24,
+      "episode": 45,
+      "title": "Oh, Christmas Nuts!",
+      "diziid": "kick",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/45/ah%2C_yilbasi_kuru_yemisleri%21"
+    },
+    {
+      "season": 1,
+      "episode": 46,
+      "title": "Spyfall",
+      "diziid": "kick",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/46/casus"
+    },
+    {
+      "season": 2,
+      "episode": 47,
+      "title": "Dueling Dojos",
+      "diziid": "kick",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/47/dovus_okullarinin_duellosu"
+    },
+    {
+      "season": 3,
+      "episode": 48,
+      "title": "Glove Hurts",
+      "diziid": "kick",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/48/eldiven_acitir"
+    },
+    {
+      "season": 4,
+      "episode": 49,
+      "title": "The Sub Sinker",
+      "diziid": "kick",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/49/vekil_ogretmen_kacirici"
+    },
+    {
+      "season": 5,
+      "episode": 50,
+      "title": "Meet the McKrupniks",
+      "diziid": "kick",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/50/karsinizda_mckrupnickler"
+    },
+    {
+      "season": 6,
+      "episode": 51,
+      "title": "Witless Protection",
+      "diziid": "kick",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/51/akilsiz_koruma"
+    },
+    {
+      "season": 7,
+      "episode": 52,
+      "title": "Jack Stands Alone",
+      "diziid": "kick",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/52/jack_yalniz_kaliyor"
+    },
+    {
+      "season": 8,
+      "episode": 53,
+      "title": "Two Dates and a Funeral",
+      "diziid": "kick",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/53/iki_randevu_ve_bir_cenaze"
+    },
+    {
+      "season": 9,
+      "episode": 54,
+      "title": "Win, Lose or Ty",
+      "diziid": "kick",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/54/kazan_ya_da_kaybet"
+    },
+    {
+      "season": 10,
+      "episode": 55,
+      "title": "Sensei and Sensibility",
+      "diziid": "kick",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/55/sensei_ve_duyarlilik"
+    },
+    {
+      "season": 11,
+      "episode": 56,
+      "title": "Gabby's Gold",
+      "diziid": "kick",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/56/gabbynin_altini"
+    },
+    {
+      "season": 12,
+      "episode": 57,
+      "title": "The New Girl",
+      "diziid": "kick",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/57/yeni_kiz"
+    },
+    {
+      "season": 13,
+      "episode": 58,
+      "title": "Fawlty Temple",
+      "diziid": "kick",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/58/fawlty_tapinagi"
+    },
+    {
+      "season": 14,
+      "episode": 59,
+      "title": "Seaford, We Have a Problem",
+      "diziid": "kick",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/59/seaford%2C_bir_sorunumuz_var"
+    },
+    {
+      "season": 15,
+      "episode": 60,
+      "title": "Temple of Doom",
+      "diziid": "kick",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/60/kiyamet_tapinagi"
+    },
+    {
+      "season": 16,
+      "episode": 61,
+      "title": "Mamma Mima",
+      "diziid": "kick",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/61/mama_mima"
+    },
+    {
+      "season": 17,
+      "episode": 62,
+      "title": "Home Alone in School",
+      "diziid": "kick",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/62/okulda_evde_tek_basina"
+    },
+    {
+      "season": 18,
+      "episode": 63,
+      "title": "School of Jack",
+      "diziid": "kick",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/63/jack_okulu"
+    },
+    {
+      "season": 19,
+      "episode": 64,
+      "title": "Queen of Karts",
+      "diziid": "kick",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/64/kartlarin_kralicesi"
+    },
+    {
+      "season": 20,
+      "episode": 65,
+      "title": "How Bobby Got His Groove Back",
+      "diziid": "kick",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/65/bobby_nasil_tekrar_havaya_girdi"
+    },
+    {
+      "season": 21,
+      "episode": 66,
+      "title": "Return of Spyfall",
+      "diziid": "kick",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/66/casusun_donusu"
+    },
+    {
+      "season": 22,
+      "episode": 67,
+      "title": "Wasabi Forever",
+      "diziid": "kick",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/67/sonsuza_kadar_wasabi"
+    },
+    {
+      "season": 1,
+      "episode": 68,
+      "title": "The Boys Are Back in Town",
+      "diziid": "kick",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/68/erkekler_kasabaya_geri_dondu"
+    },
+    {
+      "season": 2,
+      "episode": 69,
+      "title": "Gold Diggers",
+      "diziid": "kick",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/69/servet_avcilari"
+    },
+    {
+      "season": 3,
+      "episode": 70,
+      "title": "From Zeroes to Heroes",
+      "diziid": "kick",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/70/sifirdan_zirveye"
+    },
+    {
+      "season": 4,
+      "episode": 71,
+      "title": "The Stang",
+      "diziid": "kick",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/71/mustang"
+    },
+    {
+      "season": 5,
+      "episode": 72,
+      "title": "Nerd with a Cape",
+      "diziid": "kick",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/72/pelerinli_inek"
+    },
+    {
+      "season": 6,
+      "episode": 73,
+      "title": "RV There Yet?",
+      "diziid": "kick",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/73/karavan_geldi_mi"
+    },
+    {
+      "season": 7,
+      "episode": 74,
+      "title": "Invasion of the Ghost Pirates",
+      "diziid": "kick",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/74/hayalet_korsanlarin_istilasi"
+    },
+    {
+      "season": 8,
+      "episode": 75,
+      "title": "That Amazing Krupnick",
+      "diziid": "kick",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/75/o_inanilmaz_krupnick"
+    },
+    {
+      "season": 9,
+      "episode": 76,
+      "title": "The Battle of Seaford Hill",
+      "diziid": "kick",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/76/seaford_tepesi_savasi"
+    },
+    {
+      "season": 10,
+      "episode": 77,
+      "title": "Fight at the Museum",
+      "diziid": "kick",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/77/muzede_dovus"
+    },
+    {
+      "season": 11,
+      "episode": 78,
+      "title": "Tightroping the Shark",
+      "diziid": "kick",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/78/kopek_baligi_tehlikesi"
+    },
+    {
+      "season": 12,
+      "episode": 79,
+      "title": "Full Metal Jack",
+      "diziid": "kick",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/79/tam_metal_jack"
+    },
+    {
+      "season": 13,
+      "episode": 80,
+      "title": "Martinez & Malone: Mall Cops!",
+      "diziid": "kick",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/80/martinez_ve_malone%3A_alisveris_merkezi_polisleri%21"
+    },
+    {
+      "season": 14,
+      "episode": 81,
+      "title": "Seaford Hustle",
+      "diziid": "kick",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/81/seaford_kosusturmasi"
+    },
+    {
+      "season": 15,
+      "episode": 82,
+      "title": "Kickin' It in the Office",
+      "diziid": "kick",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/82/ofiste_ucan_tekme"
+    },
+    {
+      "season": 16,
+      "episode": 83,
+      "title": "Bringing Down the House",
+      "diziid": "kick",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/83/evi_yikmak"
+    },
+    {
+      "season": 17,
+      "episode": 84,
+      "title": "You Don't Know Jack",
+      "diziid": "kick",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/84/jacki_bilmiyorsun"
+    },
+    {
+      "season": 18,
+      "episode": 85,
+      "title": "The Grandmaster",
+      "diziid": "kick",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/kick/ucan_tekme/85/buyuk_usta"
+    }
+  ]
+}

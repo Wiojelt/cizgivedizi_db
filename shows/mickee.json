@@ -1,0 +1,700 @@
+{
+  "id": "mickee",
+  "title": "mickey mouse eÄŸlence evi",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MICKEEPoster.avif",
+  "channel": "Disney Jr.",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Mickey the Brave",
+      "diziid": "mickee",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/1/cesur_mickey%21"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Homesick/Goldfish Goofy",
+      "diziid": "mickee",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/2/hasta_ev__goofynin_sus_baligi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Spaced Out!/Treasure, Ahoy!",
+      "diziid": "mickee",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/3/dostlar_uzayda%21__hazine%2C_ileride%21"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Is there a Plumber in the House?/A Fish Tale",
+      "diziid": "mickee",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/4/minnienin_buyuk_teslimati%21__habersiz_giden_sarkici%21"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Minnie Goes Ape/Dino Doggies",
+      "diziid": "mickee",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/5/minnie_ve_maymun%21__dino_kopekler"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Troll Trouble/The Sunny Gulch Games",
+      "diziid": "mickee",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/6/trol_sorunu%21__gunesli_kanyon_oyunlari%21"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Minnie's Big Delivery/The Wandrin' Warbler",
+      "diziid": "mickee",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/7/minnienin_buyuk_teslimati__gezen_warbler"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Mickey and the Cornstalk/King Mickey",
+      "diziid": "mickee",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/8/mickey_ve_misir_sapi%21__kral_mickey"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Bottled Up/Minnie's Fairy Tale",
+      "diziid": "mickee",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/9/sisenin_icinde%21__minnienin_masali%21"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Daisy & Goofy Clean Up/Crayon World",
+      "diziid": "mickee",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/10/daisy_ve_goofy_temizlik_yapiyor%21__pastel_boya_dunyasi%21"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Summer-Snow Day/Sunny the Snowman",
+      "diziid": "mickee",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/11/karli_yaz_gunu__kardan_adam_sunny%21"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Maybe I'm A Maze/Land of the Lost... Socks",
+      "diziid": "mickee",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/12/belki_de_ben_bir_labirentim__kayip_coraplar_ulkesi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Crystal Clear Waters/The Big Funhouse Sleepover",
+      "diziid": "mickee",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/13/berrak_sular__buyuk_eglence_evi_pijama_partisi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Ducks Inn Trouble!/Polka Dots and Don'ts",
+      "diziid": "mickee",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/14/ordeklerin_basi_dertte%21__puantiyeli_kiyafet"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Mighty Goof!/Playtime in Crayon World",
+      "diziid": "mickee",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/15/guclu_goof%21__pastel_boya_dunyasinda_oyun_zamani"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Music of the Seasons/Mermaids to the Rescue",
+      "diziid": "mickee",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/16/mevsimlerin_muzikleri__deniz_kizlari_yardima"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Festival of Heroes!/I Wander Where Warbler Went?",
+      "diziid": "mickee",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/17/kahramanlar_festivali%21__warbler_nereye_gitti"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Fantabulous Five (Plus One)!/Mickey Meets Rocket Mouse!",
+      "diziid": "mickee",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/18/muhtesem_besli_arti_bir%21__mickey%2C_roket_fare_ile_tanisiyor%21"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Batteries Included/Mickey and Minnie: On Ice!",
+      "diziid": "mickee",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/19/piller_dahil__mickey_ve_minnie%3A_donmus%21"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Rain Rain Go Away/Donald's Razzle Dazzle Deal",
+      "diziid": "mickee",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/20/yagmur_yagiyor%2C_kac__donaldin_curcuna_gunu%21"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Pirate Adventure!",
+      "diziid": "mickee",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/21/korsan_macerasi"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Daisy and the Muses/Keep on the Ball",
+      "diziid": "mickee",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/22/daisy_ve_ilham_perileri__topa_devam"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Farfus' Family!/The Adventure Parade!",
+      "diziid": "mickee",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/23/farfusun_ailesi__macera_gecit_toreni"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Magic Mansion/Funny's Road Trip!",
+      "diziid": "mickee",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/24/sihirli_malikane__funnynin_yolculugu%21"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Fifty-Foot Pluto!/A Big Giant Problem",
+      "diziid": "mickee",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/25/dev_pluto%21__devasa_bir_sorun%21"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Welcome to Giant Crab Island!/Ghosts of Haunted Gulch",
+      "diziid": "mickee",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/26/dev_yengec_adasina_hos_geldiniz%21__perili_gulchun_hayaletleri"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "The Enchanted Tea Party!/Unhappy Campers",
+      "diziid": "mickee",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/27/sihirli_cay_partisi__mutsuz_kampcilar"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Heroes Clean Up!/Dino Duck!",
+      "diziid": "mickee",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/28/kahramanlarin_temizligi%21__dino_ordek%21"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Finding Treasure!/Witchy Worries!",
+      "diziid": "mickee",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/29/hazineyi_bulmak%21__cadi_telasi"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Clarabelle's Pie Day/Minnie's New Puppy",
+      "diziid": "mickee",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/30/clarabellein_turta_gunu__minnienin_yeni_kopusu"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Curse of the Crusty Clam!/Dream a Little Dream",
+      "diziid": "mickee",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/31/kabuklu_clamin_laneti__ruya_gibi"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Seas the Day!/Play Nice!",
+      "diziid": "mickee",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/32/denizde_bir_gun%21__uslu_uslu_oynayin%21"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Rescuing the Rutabaga Ruby/Goofy Doesn't Like It",
+      "diziid": "mickee",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/33/salgam_yakutunu_kurtar__goofy_bunu_sevmedi"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Tooth or Consequences!/The Heroic Games",
+      "diziid": "mickee",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/34/dis__kahramanlik_oyunlari"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Birds of a Feather/Salty vs. Pepper",
+      "diziid": "mickee",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/35/farkli_kuslar__tuz%2C_bibere_karsi"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Just Plane Quackers/Frannie Takes Flight!",
+      "diziid": "mickee",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/36/sadece_ucak_korkusu__frannie_ucuyor%21"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "No Thrills, Please!/Space Doggies",
+      "diziid": "mickee",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/37/heyecan_yok%2C_lutfen%21__uzay_kopekleri"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Ready to Play, Ruthie!/Goofy Dogs!",
+      "diziid": "mickee",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/38/oynamaya_hazirlan%2C_ruthie%21__goofy_sosislileri%21"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "3:10 to Rocky Road/Please and Thank You",
+      "diziid": "mickee",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/39/3%3A10_rocky_road_treni__lutfen%2C_tesekkurler"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "HALT, Tiger!/You Gotta be Kitten Me",
+      "diziid": "mickee",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/40/dur%2C_kaplan%21__beni_kediliyor_olmalisin%21"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "King Ludwig's Day Off/No Horsing Around",
+      "diziid": "mickee",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/41/kral_ludwigin_izin_gunu__etrafta_korku_yok"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Dino Safari",
+      "diziid": "mickee",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/42/dino_safari"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "The Kooky Paleontologist!/That's My Jam!",
+      "diziid": "mickee",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/43/cilgin_paleontolog__iste_benim_sarkim"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "Dino See, Dino Do/Pete the Mighty Baby!",
+      "diziid": "mickee",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/44/dinolar_gorduklerini_yaparlar__kudetrli_bebek_pete%21"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "For Pete's Sake!/Minnie Golf",
+      "diziid": "mickee",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/45/pete_askina%21__minnie_golf"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "No Bear Hugs/Where's Funny?",
+      "diziid": "mickee",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/46/sarilmayan_ayicik__funny_nerede"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "Cora The Pirate Crab!/The Curious Case Of The Kooky Scientist",
+      "diziid": "mickee",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/47/korsan_yengec_cora%21__cilgin_bilim_insaninin_esrarengiz_olayi"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "Stink, Stank, Stunk!/DÃ­a de los Muertos",
+      "diziid": "mickee",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/48/kokuyorum%2C_kokuyorsun%2C_kokuyor%21__dia_de_los_muertos"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "Mayor Franken-Pete's Very Bad Day/The Lost Party Rings!",
+      "diziid": "mickee",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/49/baskan_franken-petein_cok_kotu_gunu%21__kayip_parti_yuzukleri"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "Mickey's Sky-High Birthday!/The What About Me Birthday",
+      "diziid": "mickee",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/50/mickeynin_gokyuzundeki_dogum_gunu%21__hani_bana_dogum_gunu"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "Minnie's Snow Ball!/The Snow Princess",
+      "diziid": "mickee",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/51/minnienin_kar_balosu%21__kar_prensesi"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "Santa's Crash Landing",
+      "diziid": "mickee",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/52/noel_babanin_acil_inisi"
+    },
+    {
+      "season": 27,
+      "episode": 53,
+      "title": "There's Something About Teddy!/Finders Keepers?",
+      "diziid": "mickee",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/53/teddyde_bir_sey_var%21__esya_bulanin_midir"
+    },
+    {
+      "season": 28,
+      "episode": 54,
+      "title": "Majestica's New Troubadour!/Minnie's Pod Mod",
+      "diziid": "mickee",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/54/majesticanin_yeni_ozani__minnienin_araba_modu"
+    },
+    {
+      "season": 29,
+      "episode": 55,
+      "title": "Low-Key Coqui/Pinky And The Bees",
+      "diziid": "mickee",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/55/kacak_coqui__pinky_ve_arilar"
+    },
+    {
+      "season": 30,
+      "episode": 56,
+      "title": "Crystal Clearwater Vs. The Annoying Algae/Trolland's Big Adventure!",
+      "diziid": "mickee",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/56/kristal_berrak_su_rahatsiz_edici_yosunlara_karsi__trollandin_buyuk_macerasi"
+    },
+    {
+      "season": 1,
+      "episode": 57,
+      "title": "Chickie Boo-Boo, Where Are You?/Playground Heroes!",
+      "diziid": "mickee",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/57/chickie_boo_boo%2C_neredesin__oyun_alani_kahramanlari%21"
+    },
+    {
+      "season": 2,
+      "episode": 58,
+      "title": "The Trail Less Traveled/Vardavar!",
+      "diziid": "mickee",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/58/patikadan_cikis__vardavar%21"
+    },
+    {
+      "season": 3,
+      "episode": 59,
+      "title": "Daisy and the Missing Dream/Daisy's Big Picture",
+      "diziid": "mickee",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/59/daisy_ve_kayip_ruyasi__daisynin_buyuk_fotografi"
+    },
+    {
+      "season": 4,
+      "episode": 60,
+      "title": "Goofy Foot Grommet/The Enchanted Rescue",
+      "diziid": "mickee",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/60/sorf_ustasi_goofy__sihirli_kurt_evi"
+    },
+    {
+      "season": 5,
+      "episode": 61,
+      "title": "Saving Major Green!/Minnie Safari",
+      "diziid": "mickee",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/61/binbasi_greeni_kurtarmak%21__minnie_safari"
+    },
+    {
+      "season": 6,
+      "episode": 62,
+      "title": "Fun-A-Palooza!/Missing Buttons and Bows",
+      "diziid": "mickee",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/62/eglence_ziyafeti%21__kayip_dugmeler_ve_kurdeleler%21"
+    },
+    {
+      "season": 7,
+      "episode": 63,
+      "title": "Goofy's Birthday ... in Space!",
+      "diziid": "mickee",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/63/goofynin_uzaydaki..._dogum_gunu%21"
+    },
+    {
+      "season": 8,
+      "episode": 64,
+      "title": "Windy's Good Deed Days/Can I Borrow Ducky-Doo?",
+      "diziid": "mickee",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/64/windynin_iyilik_gunu__ducky-dooyu_odunc_alabilir_miyim"
+    },
+    {
+      "season": 9,
+      "episode": 65,
+      "title": "The Dino-Opolis 500/Dino Disco!",
+      "diziid": "mickee",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/65/dino-polis_500_yarisi__dino_diskosu%21"
+    },
+    {
+      "season": 10,
+      "episode": 66,
+      "title": "Happy Campers",
+      "diziid": "mickee",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/66/mutlu_kampcilar"
+    },
+    {
+      "season": 11,
+      "episode": 67,
+      "title": "The Giant and the Goof/Call Me Cora!",
+      "diziid": "mickee",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/67/dev_ve_goofy__benim_adim_cora%21"
+    },
+    {
+      "season": 12,
+      "episode": 68,
+      "title": "Donald vs. the Starcade/Whose Treasure Is It?",
+      "diziid": "mickee",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/68/donald_ve_yildiz_atari__bu_hazine_kimin"
+    },
+    {
+      "season": 13,
+      "episode": 69,
+      "title": "Daisy Overdoes It/The Good, the Glad and the Goofy",
+      "diziid": "mickee",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/69/daisy_biraz_abartiyor__iyi%2C_mutlu_ve_goofy"
+    },
+    {
+      "season": 14,
+      "episode": 70,
+      "title": "This Cat Doesn't Swim!/Funhouse-made Costumes",
+      "diziid": "mickee",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/70/bu_kedi_yuzmuyor%21__eglence_evi_yapimi_kostumler"
+    },
+    {
+      "season": 15,
+      "episode": 71,
+      "title": "Daisy's Dilemma/The Good Luck Moon",
+      "diziid": "mickee",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/71/daisynin_ikilemi__iyi_sans_ayi"
+    },
+    {
+      "season": 16,
+      "episode": 72,
+      "title": "One More Thing?/On a Dark and Stormy Night",
+      "diziid": "mickee",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/72/bir_sey_daha__karanlik_ve_firtinali_bir_gecede"
+    },
+    {
+      "season": 17,
+      "episode": 73,
+      "title": "Warbler Get Your Geetar!/The Littlest Striker",
+      "diziid": "mickee",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/73/warblerin_kayip_gitari__en_kucuk_oyuncu"
+    },
+    {
+      "season": 18,
+      "episode": 74,
+      "title": "Let's Have Fun, Fun, Fun!/Copycat Pete!",
+      "diziid": "mickee",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/74/hadi_eglenelim%2C_eglenelim%2C_eglenelim%21__taklitci_pete%21"
+    },
+    {
+      "season": 19,
+      "episode": 75,
+      "title": "Nochebuena at the Funhouse/Hanukkah at Hilda's",
+      "diziid": "mickee",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/75/eglence_evinde_nochebuena_kutlamasi__hildada_hannukah"
+    },
+    {
+      "season": 20,
+      "episode": 76,
+      "title": "The Winter Mountain Art Show/Hear Ye! Hear Ye!",
+      "diziid": "mickee",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/76/kis_dagi_sanat_gosterisi__duyduk_duymadik_demeyin%21"
+    },
+    {
+      "season": 21,
+      "episode": 77,
+      "title": "Clarabelle's Pie Dilemma/Daisy in Movie Magic Land",
+      "diziid": "mickee",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/77/clarabelle%E2%80%99in_turta_ikilemi__daisy_sinema_sihri_diyarinda"
+    },
+    {
+      "season": 22,
+      "episode": 78,
+      "title": "Goofy and Pluto Meet Teddy-stein/Stick to the Plan!",
+      "diziid": "mickee",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/78/goofy_ve_pluto_goofystein%E2%80%99la_tanisiyor__plana_sadik_kalin%21"
+    },
+    {
+      "season": 23,
+      "episode": 79,
+      "title": "Quiet Ness/Happy Pal-entine's Day!",
+      "diziid": "mickee",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/79/sessiz_ness__arkadas_gununuz_kutlu_olsun%21"
+    },
+    {
+      "season": 24,
+      "episode": 80,
+      "title": "A Fish Called Wanda Warble/It's a Small World!",
+      "diziid": "mickee",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/80/wanda_warbler_adinda_bir_balik__dunya_cok_kucuk%21"
+    },
+    {
+      "season": 25,
+      "episode": 81,
+      "title": "Bunny Nopes/The Kitten in the Castle",
+      "diziid": "mickee",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/81/satodaki_yavru_kedi__tavsan_yamaclari"
+    },
+    {
+      "season": 26,
+      "episode": 82,
+      "title": "Ballet Fun/Sitting Ducks",
+      "diziid": "mickee",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/82/bale_eglencesi__oturan_ordekler"
+    },
+    {
+      "season": 27,
+      "episode": 83,
+      "title": "The Golden Mango/Minnie and the Mystic Crystal",
+      "diziid": "mickee",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/83/altin_mango__minnie_ve_gizemli_kristal"
+    },
+    {
+      "season": 28,
+      "episode": 84,
+      "title": "Steamboat Funny/The Emerald Emperor's Journey",
+      "diziid": "mickee",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/84/vapur_funny__zumrut_imparatorun_yolculugu"
+    },
+    {
+      "season": 29,
+      "episode": 85,
+      "title": "Minnie's One-of-a-Kind Picnic/Daisy's in a Fix",
+      "diziid": "mickee",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/85/minnienin_essiz_piknigi__daisynin_dogum_gunu_sorunu"
+    },
+    {
+      "season": 30,
+      "episode": 86,
+      "title": "Mickey and the Cozy Fleece/Now You See Zee Doop, Now You Don't",
+      "diziid": "mickee",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/mickee/mickey_mouse_eglence_evi/86/mickey_ve_rahat_post__simdi_beni_goruyorsun%2C_simdi_gormuyorsun"
+    }
+  ]
+}

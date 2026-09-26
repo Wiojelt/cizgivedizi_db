@@ -1,0 +1,532 @@
+{
+  "id": "kd23",
+  "title": "kaÅŸif dora (2024)",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KD23Poster.avif",
+  "channel": "Nick Jr.",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Catch the Quickatoo / Lost Lorito",
+      "diziid": "kd23",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/1/hizlikusu_yakala%21__kayip_papagan"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Rainbow's Lost Colors / Boots' Rubber Band Ball",
+      "diziid": "kd23",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/2/gokkusaginin_kayip_renkleri__bootsun_lastik_topu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Alebrije Adventure / Let's Get A Paleta!",
+      "diziid": "kd23",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/3/alebrij_macerasi__buzlu_dondurma_vakti"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Big Red Chicken Wake Up! / The Mystery Gift",
+      "diziid": "kd23",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/4/buyuk_kirmizi_tavuk%2C_uyan%21__gizemli_hediye"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Friendaversary Adventure / Swiper's Birthday Surprise",
+      "diziid": "kd23",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/5/dost-donumu_macerasi__arakcinin_dogum_gunu_surprizi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Little Axolotl / Bubble Trouble",
+      "diziid": "kd23",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/6/minik_axolotl__baloncuk_sorunu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Rainforest Ritmo / The Magic Nut",
+      "diziid": "kd23",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/7/yagmur_ormani_ritim_dansi__sihirli_findik"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Tiny Dancer / The Sleepy Sun",
+      "diziid": "kd23",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/8/minik_dansci__uykulu_gunes"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Tres Leches Trouble / Wizzle Wozzle Woo",
+      "diziid": "kd23",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/9/tres_leches_problemi__cizir_cuzur_ciz"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Croc-A-Bye Baby / Wanna Empanada? / If The Boot Fits / PiÃ±ata Party",
+      "diziid": "kd23",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/10/uyusun_da_buyusun__puf_borek_tezgahi__botlar_uyarsa__pinyata_partisi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Wonky Wishing Wand / Tico and Bip Bip's Big Show",
+      "diziid": "kd23",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/11/bozuk_sihirli_degnek__bip_bipin_buyuk_gosterisi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "A Guayabera For Tico / Falling Estrellas",
+      "diziid": "kd23",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/12/ticoya_bir_guayabera__dusen_yildizlar"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Crabby Boots / Papi's Picnic Party",
+      "diziid": "kd23",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/13/bir_kabuk_meselesi__babanin_piknik_partisi"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Big Big Boots / Backpack's Sticky Situation",
+      "diziid": "kd23",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/14/buyuk_mu_buyuk_boots__sirt_cantasinin_yapiskan_durumu"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Invisi-Swiper / A PiÃ±ata For Mami",
+      "diziid": "kd23",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/15/gorunmez_arakci__annenin_pinyatasi"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Isa's Royal Garden Party / Sammy's Surprise",
+      "diziid": "kd23",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/16/isanin_asil_bahce_partisi__sammynin_surprizi"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "The Floor is Guava / We Are The Grumples",
+      "diziid": "kd23",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/17/zeminde_guava_var__biz_huysuzlariz"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Crabby Wedding / The Cloud Kingdom",
+      "diziid": "kd23",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/18/yengec_dugunu__bulut_kralligi"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Partly Claudia / Ranita's Magic Stripes",
+      "diziid": "kd23",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/19/parcali_bulutlu__ranitanin_sihirli_cizgileri"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Troll Jelly / Catch That Kitty!",
+      "diziid": "kd23",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/20/cuce_jolesi__kedicigi_yakala%21"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Adventures in Plantsitting / Andrea The Alebrije",
+      "diziid": "kd23",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/21/cicek_bakiciligi_maceralari__alebrij_andrea"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Rainforest Race / Bok Bok Birthday",
+      "diziid": "kd23",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/22/yagmur_ormani_yarisi__git_git_gidak_dogum_gunu"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Too Many Swipers / Bateo's Home Run",
+      "diziid": "kd23",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/23/arakci_cumbusu__yateonun_mac_sayisi"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "The Great Abuela Cook-Off / Missing Map",
+      "diziid": "kd23",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/24/buyuk_grandma_yemek_yarismasi__kayip_harita"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Tongue Twisted Roll / Chompy and the Cloud Flower",
+      "diziid": "kd23",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/25/dili_dolanan_cuce__ham_ham_ve_bulut_cicegi"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "Tio Tesoro's Treasure Hunt / The Great Key Mystery",
+      "diziid": "kd23",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/26/uncle_treasurein_hazine_haritasi__buyuk_anahtar_gizemi"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Ratoncito Perez / The Berry Hungry Caterpillar",
+      "diziid": "kd23",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/27/ratoncito_perez__yemise_ac_tirtil"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Unicornasaurus / The Grumple Games",
+      "diziid": "kd23",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/28/unizor__huysuz_oyunlari"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Little Dora's Big Adventure / Bye Bye Balloon",
+      "diziid": "kd23",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/29/kucuk_doranin_buyuk_macerasi__hosca_kal_balon"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Singin' in the Tub / Show and Share",
+      "diziid": "kd23",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/30/kuvette_sarki_soylemek__goster_ve_paylas"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Dora's Birthday Surprise / Moonlight Fiesta",
+      "diziid": "kd23",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/31/doranin_dogum_gunu_surprizi__ay_isigi_partisi"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Halloween's Been Swiped / The Pumpkin Party Mystery",
+      "diziid": "kd23",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/32/araklanan_cadilar_bayrami__balkabagi_partisi_gizemi"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Learning to Fly / Queen Swiper",
+      "diziid": "kd23",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/33/ucmayi_ogreniyoruz__kralice_arakci"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "The Bunny Boyz / Dancing Osito",
+      "diziid": "kd23",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/34/tavsan_cocuklar__dans_eden_ayicik"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "A Dog for Dora / Super Pozole",
+      "diziid": "kd23",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/35/dora_icin_bir_kopek__super_pozole"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Dora Saves Christmas / Return to Snowy Mountain",
+      "diziid": "kd23",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/36/dora_noeli_kurtariyor__karli_daga_donus"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Dora's Song for Papi / Pirate Piggies",
+      "diziid": "kd23",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/37/doranin_babasina_sarkisi__korsan_domuzcuklar"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Abuela's Quinceanera / Story Time",
+      "diziid": "kd23",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/38/buyukannenin_dogum_gunu__oyku_vakti"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Run Cynthia Run / Dora in Space",
+      "diziid": "kd23",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/39/kos_cynthia_kos__dora_uzayda"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "Backpack's Charm / Lost Banana Blankie",
+      "diziid": "kd23",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/40/sirt_cantasinin_susu__kayip_muzlu_battaniye"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "Mito Dreams of La Playa / Snake Bike",
+      "diziid": "kd23",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/41/mitonun_plaj_hayali__yilan_bisiklet"
+    },
+    {
+      "season": 3,
+      "episode": 42,
+      "title": "Captain Dora / Bruno and The Bunny Boyz",
+      "diziid": "kd23",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/42/kaptan_dora__bruno_ve_tavsan_cocuklar"
+    },
+    {
+      "season": 4,
+      "episode": 43,
+      "title": "The Missing Magical Instruments / Mr. Banana's Big Puppet Show",
+      "diziid": "kd23",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/43/kayip_sihirli_enstrumanlar__bay_muzun_buyuk_kukla_gosterisi"
+    },
+    {
+      "season": 5,
+      "episode": 44,
+      "title": "Dora and Diego Rescue Baby Jaguar / Diego's Awesome Owl Adventure",
+      "diziid": "kd23",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/44/dora_ve_diego_yavru_jaguari_kurtariyor__diegonun_inanilmaz_baykus_macerasi"
+    },
+    {
+      "season": 6,
+      "episode": 45,
+      "title": "Dora and Diego and the Big Boy Bears! / Journey to Lizard Island",
+      "diziid": "kd23",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/45/dora%2C_diego_ve_ayi_kardesler__kertenkele_adasina_seyahat"
+    },
+    {
+      "season": 7,
+      "episode": 46,
+      "title": "The Secret Pyramid / Abuela Adventure Day",
+      "diziid": "kd23",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/46/gizli_piramit__grandma_macera_gunu"
+    },
+    {
+      "season": 8,
+      "episode": 47,
+      "title": "Mascota Mobile / Kite Festival",
+      "diziid": "kd23",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/47/pet_mobil__ucurtma_festivali"
+    },
+    {
+      "season": 9,
+      "episode": 48,
+      "title": "Dora's Mermaid Adventure / Mermazing Surprise",
+      "diziid": "kd23",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/48/doranin_denizkizi_macerasi__muhtesem_hediye"
+    },
+    {
+      "season": 10,
+      "episode": 49,
+      "title": "Octo-Swiper / Todos Juntos",
+      "diziid": "kd23",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/49/ahtapot_arakci__all_together"
+    },
+    {
+      "season": 11,
+      "episode": 50,
+      "title": "Volleybull! / Diferente es Excelente",
+      "diziid": "kd23",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/50/volleybull%21__diferente_es_excelente"
+    },
+    {
+      "season": 12,
+      "episode": 51,
+      "title": "Gaucho Games / Princesa Dora",
+      "diziid": "kd23",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/51/gaucho_oyunlari__princess_dora"
+    },
+    {
+      "season": 13,
+      "episode": 52,
+      "title": "Side-Swiped / Quest for the Blue Bananas",
+      "diziid": "kd23",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/52/arakcinin_ciragi__mavi_muzlarin_pesinde"
+    },
+    {
+      "season": 1,
+      "episode": 53,
+      "title": "Mami Day / Pet Day",
+      "diziid": "kd23",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/53/anneler_gunu__evcil_hayvan_gunu"
+    },
+    {
+      "season": 2,
+      "episode": 54,
+      "title": "Winter Wonderfest / Dolphin Dreams",
+      "diziid": "kd23",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/54/kis_festivali__yunus_hayalleri"
+    },
+    {
+      "season": 3,
+      "episode": 55,
+      "title": "Giant Snowball Adventure / Missing Medals",
+      "diziid": "kd23",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/55/dev_kartopu_macerasi__kayip_madalyalar"
+    },
+    {
+      "season": 4,
+      "episode": 56,
+      "title": "La Familia Es Todo / Papi's Guitar",
+      "diziid": "kd23",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/56/family_is_everything__papanin_gitari"
+    },
+    {
+      "season": 5,
+      "episode": 57,
+      "title": "Abuela's Abuela / Happy Heart Day",
+      "diziid": "kd23",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/57/grandmanin_grandmasi__mutlu_kalp_gunu"
+    },
+    {
+      "season": 6,
+      "episode": 58,
+      "title": "A Party for Party / Moonshrunk",
+      "diziid": "kd23",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/58/partici_icin_parti__kuculen_ay"
+    },
+    {
+      "season": 7,
+      "episode": 59,
+      "title": "Funana! / A Goal for Benny",
+      "diziid": "kd23",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/59/funana%21__benny_icin_bir_gol"
+    },
+    {
+      "season": 8,
+      "episode": 60,
+      "title": "Big Kid Coco / Bunny Boyz Back 2Gether",
+      "diziid": "kd23",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/60/buyuk_cocuk_coco__tavsan_cocuklar_yeniden_bir_arada"
+    },
+    {
+      "season": 9,
+      "episode": 61,
+      "title": "Empanada Emergency / Bip Bip's Bug",
+      "diziid": "kd23",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/61/empanada_acil_durumu__bip_bip_arizasi"
+    },
+    {
+      "season": 10,
+      "episode": 62,
+      "title": "Selena's Big Bike Race / Follow That Flute",
+      "diziid": "kd23",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/62/selenanin_buyuk_bisiklet_yarisi__flutu_takip_et"
+    },
+    {
+      "season": 11,
+      "episode": 63,
+      "title": "Super Perrito / Benny and the Pets",
+      "diziid": "kd23",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/63/super_puppy__benny_ve_evcil_hayvanlar"
+    },
+    {
+      "season": 12,
+      "episode": 64,
+      "title": "Dora and Diego Save the Whales / Turtle Trouble",
+      "diziid": "kd23",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/64/dora_ve_diego_balinalari_kurtariyor__kaplumbaga_sorunu"
+    },
+    {
+      "season": 13,
+      "episode": 65,
+      "title": "Grandpa Boots / Super Stretchy Sloth",
+      "diziid": "kd23",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/kd23/kasif_dora_2024/65/buyukbaba_boots__super_esnek_tembel_hayvan"
+    }
+  ]
+}

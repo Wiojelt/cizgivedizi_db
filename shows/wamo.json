@@ -1,0 +1,101 @@
+{
+  "id": "wamo",
+  "title": "waffles ve mochi",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/WAMOPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Yemek",
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Tomato",
+      "diziid": "wamo",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/1/domates"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Salt",
+      "diziid": "wamo",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/2/tuz"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Potato",
+      "diziid": "wamo",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/3/patates"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Pickles",
+      "diziid": "wamo",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/4/tursu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Rice",
+      "diziid": "wamo",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/5/pirinc"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Egg",
+      "diziid": "wamo",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/6/yumurta"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Herbs & Spices",
+      "diziid": "wamo",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/7/otlar_ve_baharatlar"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Corn",
+      "diziid": "wamo",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/8/misir"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Mushroom",
+      "diziid": "wamo",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/9/mantar"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Water",
+      "diziid": "wamo",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/10/su"
+    },
+    {
+      "season": 1,
+      "episode": 11,
+      "title": "Waffles + Mochi's Holiday Feast",
+      "diziid": "wamo",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/wamo/waffles_ve_mochi/0/kutlama_soleni"
+    }
+  ]
+}

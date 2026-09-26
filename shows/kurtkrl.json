@@ -1,0 +1,141 @@
+{
+  "id": "kurtkrl",
+  "title": "kurt kral",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KURTKRLPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik",
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Rise of the Wolf",
+      "diziid": "kurtkrl",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kurtkrl/kurt_kral/1/kurdun_yukselisi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Brackenholme",
+      "diziid": "kurtkrl",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kurtkrl/kurt_kral/2/brackenholme"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Caged Beast",
+      "diziid": "kurtkrl",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kurtkrl/kurt_kral/3/kafesteki_yaratik"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Wyrmwood",
+      "diziid": "kurtkrl",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kurtkrl/kurt_kral/4/wyrmwood"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Return to Motley",
+      "diziid": "kurtkrl",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kurtkrl/kurt_kral/5/motleyye_donus"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Maelstrom",
+      "diziid": "kurtkrl",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kurtkrl/kurt_kral/6/maelstrom"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Chained",
+      "diziid": "kurtkrl",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/kurtkrl/kurt_kral/7/zincire_vurulmus"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Fall of the Lion",
+      "diziid": "kurtkrl",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/kurtkrl/kurt_kral/8/aslanin_dususu"
+    },
+    {
+      "season": 1,
+      "episode": 9,
+      "title": "The Wolf in Waiting",
+      "diziid": "kurtkrl",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/kurtkrl/kurt_kral/9/kurdun_bekleyisi"
+    },
+    {
+      "season": 2,
+      "episode": 10,
+      "title": "Baba Korga",
+      "diziid": "kurtkrl",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/kurtkrl/kurt_kral/10/baba_korga"
+    },
+    {
+      "season": 3,
+      "episode": 11,
+      "title": "Biting Point",
+      "diziid": "kurtkrl",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/kurtkrl/kurt_kral/11/isirik"
+    },
+    {
+      "season": 4,
+      "episode": 12,
+      "title": "Hell Comes to Haggard",
+      "diziid": "kurtkrl",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/kurtkrl/kurt_kral/12/haggard_cehenneme_donuyor"
+    },
+    {
+      "season": 5,
+      "episode": 13,
+      "title": "The Gathering Storm",
+      "diziid": "kurtkrl",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/kurtkrl/kurt_kral/13/firtina_kopmak_uzere"
+    },
+    {
+      "season": 6,
+      "episode": 14,
+      "title": "The Reckoning",
+      "diziid": "kurtkrl",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/kurtkrl/kurt_kral/14/hesaplasma"
+    },
+    {
+      "season": 7,
+      "episode": 15,
+      "title": "Hunted",
+      "diziid": "kurtkrl",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/kurtkrl/kurt_kral/15/fidye"
+    },
+    {
+      "season": 8,
+      "episode": 16,
+      "title": "The Fall of the Wolf",
+      "diziid": "kurtkrl",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/kurtkrl/kurt_kral/16/kurdun_dususu"
+    }
+  ]
+}

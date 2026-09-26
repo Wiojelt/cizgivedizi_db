@@ -1,0 +1,604 @@
+{
+  "id": "mntrgllr",
+  "title": "mantargiller",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MNTRGLLRPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Let It Snowball",
+      "diziid": "mntrgllr",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/1/hadi_kar_topuna"
+    },
+    {
+      "season": 3,
+      "episode": 2,
+      "title": "Truffalo",
+      "diziid": "mntrgllr",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/3/truffalo"
+    },
+    {
+      "season": 4,
+      "episode": 3,
+      "title": "Green Eggs and Pam",
+      "diziid": "mntrgllr",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/4/yesil_yumurtalar_ve_pam"
+    },
+    {
+      "season": 5,
+      "episode": 4,
+      "title": "A Man and His Mustache",
+      "diziid": "mntrgllr",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/5/adam_ve_biyigi"
+    },
+    {
+      "season": 6,
+      "episode": 5,
+      "title": "Take Your Seth to Work Day",
+      "diziid": "mntrgllr",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/6/sethini_is_yerine_gotur"
+    },
+    {
+      "season": 7,
+      "episode": 6,
+      "title": "Voyage of the Rushroom",
+      "diziid": "mntrgllr",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/7/dumentar_yolculugu"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "title": "The Twins Bug Seth",
+      "diziid": "mntrgllr",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/8/can_sikici_ikizler"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "title": "Ghosts Schmosts",
+      "diziid": "mntrgllr",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/9/hayalet_safsatasi"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "Hide and Pam/Chair Factory/Turtle/Rainy Day/Best Friends Club",
+      "diziid": "mntrgllr",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/10/kisa_oykuler"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "Sir Tree's Body",
+      "diziid": "mntrgllr",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/11/bay_agacin_bedeni"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "Commander Beefy",
+      "diziid": "mntrgllr",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/12/komutan_beefy"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "The Fanciest Fungie",
+      "diziid": "mntrgllr",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/13/en_gozde_mantar"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "Snake It to the Limit",
+      "diziid": "mntrgllr",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/14/yilan_ve_sinirlar"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "Nevin's Cocoon",
+      "diziid": "mntrgllr",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/15/nevinin_kozasi"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Cool Kids",
+      "diziid": "mntrgllr",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/16/havali_cocuklar"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "Mermove Out",
+      "diziid": "mntrgllr",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/17/deniz_kizi_hikayesi"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "Happy Birthday Nancy",
+      "diziid": "mntrgllr",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/18/mutlu_yillar_nancy"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "New Pam in Town",
+      "diziid": "mntrgllr",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/19/kasabadaki_yeni_pam"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "Class Garden",
+      "diziid": "mntrgllr",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/20/okulda_bahce"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "Free Squidly",
+      "diziid": "mntrgllr",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/21/hizli_kalamar"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "Fungie Scouts",
+      "diziid": "mntrgllr",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/22/izci_mantarlar"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "The Granny Trap",
+      "diziid": "mntrgllr",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/23/buyukanne_kapani"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "Nancy's Fireman Calendar",
+      "diziid": "mntrgllr",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/24/nancynin_itfaiyeci_takvimi"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "The Well Monster",
+      "diziid": "mntrgllr",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/25/kuyu_canavari"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "Queen Seth",
+      "diziid": "mntrgllr",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/26/kralice_seth"
+    },
+    {
+      "season": 27,
+      "episode": 26,
+      "title": "Sir Tree's Boy",
+      "diziid": "mntrgllr",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/27/bay_agacin_oglu"
+    },
+    {
+      "season": 28,
+      "episode": 27,
+      "title": "Mr. Pascal's Opus",
+      "diziid": "mntrgllr",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/28/bay_pascalin_eseri"
+    },
+    {
+      "season": 29,
+      "episode": 28,
+      "title": "Lil' Lemon for President",
+      "diziid": "mntrgllr",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/29/baskan_lil_limon"
+    },
+    {
+      "season": 30,
+      "episode": 29,
+      "title": "Long Legs",
+      "diziid": "mntrgllr",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/30/uzun_bacaklar"
+    },
+    {
+      "season": 31,
+      "episode": 30,
+      "title": "Sir Tree House",
+      "diziid": "mntrgllr",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/31/bay_agac_ev"
+    },
+    {
+      "season": 32,
+      "episode": 31,
+      "title": "Lord Clawly Caper",
+      "diziid": "mntrgllr",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/32/lord_clawly_soygunu"
+    },
+    {
+      "season": 33,
+      "episode": 32,
+      "title": "What About Cool James?",
+      "diziid": "mntrgllr",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/33/havali_james_ne_olacak"
+    },
+    {
+      "season": 34,
+      "episode": 33,
+      "title": "Dino Club",
+      "diziid": "mntrgllr",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/34/dinozor_kulubu"
+    },
+    {
+      "season": 35,
+      "episode": 34,
+      "title": "Commander Lazer",
+      "diziid": "mntrgllr",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/35/komutan_lazer"
+    },
+    {
+      "season": 36,
+      "episode": 35,
+      "title": "Fungopolis",
+      "diziid": "mntrgllr",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/36/mantarpolis"
+    },
+    {
+      "season": 37,
+      "episode": 36,
+      "title": "Pam Runs Forever",
+      "diziid": "mntrgllr",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/37/pamin_hic_bitmeyen_kosusu"
+    },
+    {
+      "season": 38,
+      "episode": 37,
+      "title": "RFUN Radio",
+      "diziid": "mntrgllr",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/38/radyo_eglence"
+    },
+    {
+      "season": 39,
+      "episode": 38,
+      "title": "Where's Coach?",
+      "diziid": "mntrgllr",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/39/koc_nerede"
+    },
+    {
+      "season": 40,
+      "episode": 39,
+      "title": "One Night at Nevin's",
+      "diziid": "mntrgllr",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/40/nevinin_evinde_bir_gece"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "Bird War",
+      "diziid": "mntrgllr",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/41/kus_savasi"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "Bug Buds",
+      "diziid": "mntrgllr",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/42/bocek_dostlari"
+    },
+    {
+      "season": 3,
+      "episode": 42,
+      "title": "Beefo the Kid",
+      "diziid": "mntrgllr",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/43/cocuk_beefo"
+    },
+    {
+      "season": 4,
+      "episode": 43,
+      "title": "Where the Truffalo Roam",
+      "diziid": "mntrgllr",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/44/truffalolar_nerede_dolasiyor"
+    },
+    {
+      "season": 5,
+      "episode": 44,
+      "title": "Seth the Frog",
+      "diziid": "mntrgllr",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/45/kurbaga_seth"
+    },
+    {
+      "season": 6,
+      "episode": 45,
+      "title": "Home, Run!",
+      "diziid": "mntrgllr",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/46/evden_kacis%21"
+    },
+    {
+      "season": 7,
+      "episode": 46,
+      "title": "The Scoop",
+      "diziid": "mntrgllr",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/47/haber"
+    },
+    {
+      "season": 8,
+      "episode": 47,
+      "title": "Flawless",
+      "diziid": "mntrgllr",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/48/kusursuz"
+    },
+    {
+      "season": 9,
+      "episode": 48,
+      "title": "Smarty Flower",
+      "diziid": "mntrgllr",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/49/akil_cicegi"
+    },
+    {
+      "season": 10,
+      "episode": 49,
+      "title": "Campfire Creepies",
+      "diziid": "mntrgllr",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/50/kamp_atesi_hikayeleri"
+    },
+    {
+      "season": 12,
+      "episode": 50,
+      "title": "Twinseparable",
+      "diziid": "mntrgllr",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/52/ayrilmaz_ikizler"
+    },
+    {
+      "season": 13,
+      "episode": 51,
+      "title": "For Keeps",
+      "diziid": "mntrgllr",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/53/kazanan_alir"
+    },
+    {
+      "season": 14,
+      "episode": 52,
+      "title": "Tina Turnip",
+      "diziid": "mntrgllr",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/54/salgam_tina"
+    },
+    {
+      "season": 15,
+      "episode": 53,
+      "title": "The Mayor's Apprentice",
+      "diziid": "mntrgllr",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/55/valinin_ciragi"
+    },
+    {
+      "season": 16,
+      "episode": 54,
+      "title": "Gorbo Gets Flushed",
+      "diziid": "mntrgllr",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/56/gorbo_sifonla_gidiyor"
+    },
+    {
+      "season": 17,
+      "episode": 55,
+      "title": "Rattlesnake Jane",
+      "diziid": "mntrgllr",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/57/cingirakli_yilan_jane"
+    },
+    {
+      "season": 18,
+      "episode": 56,
+      "title": "Special Bloom",
+      "diziid": "mntrgllr",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/58/ozel_cicek"
+    },
+    {
+      "season": 20,
+      "episode": 57,
+      "title": "Camping with the Family",
+      "diziid": "mntrgllr",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/60/aileyle_kamp"
+    },
+    {
+      "season": 1,
+      "episode": 58,
+      "title": "Hugbear Hullabaloo",
+      "diziid": "mntrgllr",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/61/koca_ayi_hullabaloo"
+    },
+    {
+      "season": 2,
+      "episode": 59,
+      "title": "Shania's Place",
+      "diziid": "mntrgllr",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/62/shanianin_evi"
+    },
+    {
+      "season": 3,
+      "episode": 60,
+      "title": "Pam's Big Break",
+      "diziid": "mntrgllr",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/63/pamin_buyuk_cikisi"
+    },
+    {
+      "season": 4,
+      "episode": 61,
+      "title": "You've Got Whale",
+      "diziid": "mntrgllr",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/64/sen_balinasin"
+    },
+    {
+      "season": 5,
+      "episode": 62,
+      "title": "Beefy Cruise",
+      "diziid": "mntrgllr",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/65/beefy_yolculugu"
+    },
+    {
+      "season": 6,
+      "episode": 63,
+      "title": "Billy Fungie",
+      "diziid": "mntrgllr",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/66/mantar_billy"
+    },
+    {
+      "season": 7,
+      "episode": 64,
+      "title": "Pascal's BIG Fan",
+      "diziid": "mntrgllr",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/67/pascalin_buyuk_hayrani"
+    },
+    {
+      "season": 8,
+      "episode": 65,
+      "title": "Sir Tree's Sick",
+      "diziid": "mntrgllr",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/68/bay_agac_hasta"
+    },
+    {
+      "season": 9,
+      "episode": 66,
+      "title": "Virtual Boys",
+      "diziid": "mntrgllr",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/69/sanal_cocuklar"
+    },
+    {
+      "season": 11,
+      "episode": 67,
+      "title": "Messy Locker",
+      "diziid": "mntrgllr",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/71/daginik_dolap"
+    },
+    {
+      "season": 12,
+      "episode": 68,
+      "title": "The Edge",
+      "diziid": "mntrgllr",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/72/cesaret"
+    },
+    {
+      "season": 13,
+      "episode": 69,
+      "title": "Simple Beefy",
+      "diziid": "mntrgllr",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/73/basit_beefy"
+    },
+    {
+      "season": 15,
+      "episode": 70,
+      "title": "Teacher Terry's Day Off",
+      "diziid": "mntrgllr",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/75/ogretmen_terrynin_izin_gunu"
+    },
+    {
+      "season": 16,
+      "episode": 71,
+      "title": "The Lord & the Layabout",
+      "diziid": "mntrgllr",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/76/lord_ve_aylak"
+    },
+    {
+      "season": 17,
+      "episode": 72,
+      "title": "Mifflin's Replacement",
+      "diziid": "mntrgllr",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/77/mifflinin_yerine_seni_alacagim"
+    },
+    {
+      "season": 18,
+      "episode": 73,
+      "title": "Mission Shania",
+      "diziid": "mntrgllr",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/78/gorev_shania"
+    },
+    {
+      "season": 20,
+      "episode": 74,
+      "title": "Lost Fungies",
+      "diziid": "mntrgllr",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/mntrgllr/mantargiller/80/kayip_mantarlar"
+    }
+  ]
+}

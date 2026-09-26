@@ -1,0 +1,61 @@
+{
+  "id": "swemph",
+  "title": "star wars: empire hikÃ¢yeleri",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/ESKÄ°/dizi/resim/poster/SWEMPHPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Bilim Kurgu",
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Path of Fear",
+      "diziid": "swemph",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/swemph/star_wars%3A_empire_hikayeleri/1/korku_yolu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Path of Anger",
+      "diziid": "swemph",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/swemph/star_wars%3A_empire_hikayeleri/2/ofke_yolu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Path of Hate",
+      "diziid": "swemph",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/swemph/star_wars%3A_empire_hikayeleri/3/nefret_yolu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Devoted",
+      "diziid": "swemph",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/swemph/star_wars%3A_empire_hikayeleri/4/sadik"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Realization",
+      "diziid": "swemph",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/swemph/star_wars%3A_empire_hikayeleri/5/fark_edis"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Way Out",
+      "diziid": "swemph",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/swemph/star_wars%3A_empire_hikayeleri/6/cikis_yolu"
+    }
+  ]
+}

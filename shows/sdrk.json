@@ -1,0 +1,93 @@
+{
+  "id": "sdrk",
+  "title": "sÃ¼per dev robot kardeÅŸler",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SDRKPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Gone and Back Again",
+      "diziid": "sdrk",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/sdrk/super_dev_robot_kardesler/1/gitmistik_ve_simdi_buradayiz"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Welcome to G.R.I.T.S.",
+      "diziid": "sdrk",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/sdrk/super_dev_robot_kardesler/2/g.r.i.t.s.e_hos_geldiniz"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Put Me in, Coach",
+      "diziid": "sdrk",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/sdrk/super_dev_robot_kardesler/3/beni_oyuna_sok_koc"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Upgrades",
+      "diziid": "sdrk",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/sdrk/super_dev_robot_kardesler/4/yukseltmeler"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Inner Space",
+      "diziid": "sdrk",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/sdrk/super_dev_robot_kardesler/5/benden_iceri"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Road Trip",
+      "diziid": "sdrk",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/sdrk/super_dev_robot_kardesler/6/yolculuk"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Boybotfriend",
+      "diziid": "sdrk",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/sdrk/super_dev_robot_kardesler/7/erbot_arkadas"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Whack-a-bot",
+      "diziid": "sdrk",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/sdrk/super_dev_robot_kardesler/8/kafasina_vur"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Defying Gravity, Bro",
+      "diziid": "sdrk",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/sdrk/super_dev_robot_kardesler/9/yer_cekimine_meydan_okuyoruz"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Hand of Fate",
+      "diziid": "sdrk",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/sdrk/super_dev_robot_kardesler/10/elden_ne_gelir"
+    }
+  ]
+}

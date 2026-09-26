@@ -1,0 +1,501 @@
+{
+  "id": "df",
+  "title": "risk takÄ±mÄ±",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/DFPoster.avif",
+  "channel": "Nickelodeon",
+  "genres": [
+    "Komedi",
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Danger Force Awakens",
+      "diziid": "df",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/1/risk_takimi_uyaniyor"
+    },
+    {
+      "season": 3,
+      "episode": 2,
+      "title": "Ray Goes Cray",
+      "diziid": "df",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/3/ray_delirdi"
+    },
+    {
+      "season": 4,
+      "episode": 3,
+      "title": "Villains' Night",
+      "diziid": "df",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/4/kotuler_gecesi"
+    },
+    {
+      "season": 5,
+      "episode": 4,
+      "title": "Mime Games",
+      "diziid": "df",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/5/pandomim_oyunlari"
+    },
+    {
+      "season": 6,
+      "episode": 5,
+      "title": "Quaran-kini",
+      "diziid": "df",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/6/karantina"
+    },
+    {
+      "season": 7,
+      "episode": 6,
+      "title": "Chapa's Crush",
+      "diziid": "df",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/7/chatanin_hoslantisi"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "title": "Return of the Kid",
+      "diziid": "df",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/8/cocugun_donusu"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "title": "Mika in the Middle",
+      "diziid": "df",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/9/ortanca_mika"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "The Thousand Pranks War: Part I",
+      "diziid": "df",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/10/bin_saka_savasi%3A_1.bolum"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "The Thousand Pranks War: Part II",
+      "diziid": "df",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/11/bin_saka_savasi%3A_2.bolum"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "Down Goes Santa: Part I",
+      "diziid": "df",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/12/noel_baba_asagi%3A_bolum_1"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "Down Goes Santa: Part II",
+      "diziid": "df",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/13/noel_baba_asagi%3A_bolum_2"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "Vidja Games",
+      "diziid": "df",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/14/vidja_oyunlari"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "Test Friends",
+      "diziid": "df",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/15/arkadas_testi"
+    },
+    {
+      "season": 17,
+      "episode": 15,
+      "title": "Monsty",
+      "diziid": "df",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/17/monsty"
+    },
+    {
+      "season": 18,
+      "episode": 16,
+      "title": "Twin It to Win It",
+      "diziid": "df",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/18/kazanan_ikizler"
+    },
+    {
+      "season": 19,
+      "episode": 17,
+      "title": "Radioactive Cat",
+      "diziid": "df",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/19/radyoaktif_kedi"
+    },
+    {
+      "season": 20,
+      "episode": 18,
+      "title": "Miles Has Visions",
+      "diziid": "df",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/20/miles_gelecegi_goruyor"
+    },
+    {
+      "season": 21,
+      "episode": 19,
+      "title": "Captain Man Strikes Out",
+      "diziid": "df",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/21/mosyo_adam_geri_donuyor"
+    },
+    {
+      "season": 23,
+      "episode": 20,
+      "title": "SW.A.G. is Haunted",
+      "diziid": "df",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/23/sw.a.g._perilenir"
+    },
+    {
+      "season": 24,
+      "episode": 21,
+      "title": "Family Lies",
+      "diziid": "df",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/24/aile_yalanlari"
+    },
+    {
+      "season": 25,
+      "episode": 22,
+      "title": "Earth To Bose",
+      "diziid": "df",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/25/dunyadan_boseye"
+    },
+    {
+      "season": 26,
+      "episode": 23,
+      "title": "Drive Hard",
+      "diziid": "df",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/26/sert_sur"
+    },
+    {
+      "season": 1,
+      "episode": 24,
+      "title": "An Imposter Among Us",
+      "diziid": "df",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/27/aramizdaki_duzenbaz"
+    },
+    {
+      "season": 2,
+      "episode": 25,
+      "title": "A Danger Among Us",
+      "diziid": "df",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/28/aramizdaki_tehlike"
+    },
+    {
+      "season": 3,
+      "episode": 26,
+      "title": "A Cyborg Among Us",
+      "diziid": "df",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/29/aramizdaki_cyborg"
+    },
+    {
+      "season": 4,
+      "episode": 27,
+      "title": "A Henry Among Us",
+      "diziid": "df",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/30/aramizdaki_henry"
+    },
+    {
+      "season": 5,
+      "episode": 28,
+      "title": "Krampapalooza",
+      "diziid": "df",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/31/sira_disi_kramp"
+    },
+    {
+      "season": 6,
+      "episode": 29,
+      "title": "Mika's Musical",
+      "diziid": "df",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/32/mikanin_muzikali"
+    },
+    {
+      "season": 7,
+      "episode": 30,
+      "title": "Dude, Where's My Man Buggy?",
+      "diziid": "df",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/33/dostum%2C_adamim_buggy_nerede"
+    },
+    {
+      "season": 8,
+      "episode": 31,
+      "title": "Power Problems, Part 1",
+      "diziid": "df",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/34/guc_sorunlari_1.bolum"
+    },
+    {
+      "season": 9,
+      "episode": 32,
+      "title": "Power Problems, Part 2",
+      "diziid": "df",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/35/guc_sorunlari_2.bolum"
+    },
+    {
+      "season": 10,
+      "episode": 33,
+      "title": "Attack of the Clones",
+      "diziid": "df",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/36/klonlarin_saldirisi"
+    },
+    {
+      "season": 11,
+      "episode": 34,
+      "title": "Bottle Snatchers",
+      "diziid": "df",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/37/sise_hirsizlari"
+    },
+    {
+      "season": 12,
+      "episode": 35,
+      "title": "The Girl Who Cried Danger",
+      "diziid": "df",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/38/risk_diye_aglayan_kiz"
+    },
+    {
+      "season": 13,
+      "episode": 36,
+      "title": "Bilsky's Billions",
+      "diziid": "df",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/39/bilskynin_milyarlari"
+    },
+    {
+      "season": 14,
+      "episode": 37,
+      "title": "Jack the Clipper",
+      "diziid": "df",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/40/sac_kirpan_jack"
+    },
+    {
+      "season": 15,
+      "episode": 38,
+      "title": "The Supies",
+      "diziid": "df",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/41/supieler"
+    },
+    {
+      "season": 16,
+      "episode": 39,
+      "title": "Alien Zoo",
+      "diziid": "df",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/42/uzayli_hayvanat_bahcesi"
+    },
+    {
+      "season": 17,
+      "episode": 40,
+      "title": "Let's Go to the Movies!",
+      "diziid": "df",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/43/hadi_sinemaya_gidelim%21"
+    },
+    {
+      "season": 18,
+      "episode": 41,
+      "title": "Minyak Attack",
+      "diziid": "df",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/44/minyak_saldirisi"
+    },
+    {
+      "season": 19,
+      "episode": 42,
+      "title": "Street Fightin'",
+      "diziid": "df",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/45/sokak_kavgasi"
+    },
+    {
+      "season": 20,
+      "episode": 43,
+      "title": "Chapa's Phone Home",
+      "diziid": "df",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/46/chapanin_telefon_evi"
+    },
+    {
+      "season": 21,
+      "episode": 44,
+      "title": "Uncle Hambone",
+      "diziid": "df",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/47/hambone_dayi"
+    },
+    {
+      "season": 22,
+      "episode": 45,
+      "title": "New School Who Dis?",
+      "diziid": "df",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/48/yeni_okul"
+    },
+    {
+      "season": 23,
+      "episode": 46,
+      "title": "Class Action Heroes",
+      "diziid": "df",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/49/sinif_kahramanlari"
+    },
+    {
+      "season": 24,
+      "episode": 47,
+      "title": "Wedding of the Trentury",
+      "diziid": "df",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/50/bin_yilin_dugunu"
+    },
+    {
+      "season": 25,
+      "episode": 48,
+      "title": "Trojan Force",
+      "diziid": "df",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/51/virus_gucu"
+    },
+    {
+      "season": 26,
+      "episode": 49,
+      "title": "We Did a Bad Thing",
+      "diziid": "df",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/52/kotu_bir_sey_yaptik"
+    },
+    {
+      "season": 1,
+      "episode": 50,
+      "title": "The Force Returns Part 1",
+      "diziid": "df",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/53/takimin_donusu_birinci_kisim"
+    },
+    {
+      "season": 2,
+      "episode": 51,
+      "title": "The Force Returns Part 2",
+      "diziid": "df",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/54/takimin_donusu_ikinci_kisim"
+    },
+    {
+      "season": 3,
+      "episode": 52,
+      "title": "Big Dynomite",
+      "diziid": "df",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/55/koca_dinamit"
+    },
+    {
+      "season": 4,
+      "episode": 53,
+      "title": "Guardians of the Ponytail",
+      "diziid": "df",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/56/at_kuyrugu_muhafizlari"
+    },
+    {
+      "season": 5,
+      "episode": 54,
+      "title": "Miles Sells His Soul",
+      "diziid": "df",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/57/miles_ruhunu_satiyor"
+    },
+    {
+      "season": 6,
+      "episode": 55,
+      "title": "SwellMelonFest",
+      "diziid": "df",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/58/swellkavun_festivali"
+    },
+    {
+      "season": 8,
+      "episode": 56,
+      "title": "Dumber Force",
+      "diziid": "df",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/60/ahmak_gucu"
+    },
+    {
+      "season": 9,
+      "episode": 57,
+      "title": "Don't Go In There!",
+      "diziid": "df",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/61/oraya_girme"
+    },
+    {
+      "season": 10,
+      "episode": 58,
+      "title": "Bose's Birthday Party",
+      "diziid": "df",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/62/boseun_dogum_gunu_partisi"
+    },
+    {
+      "season": 11,
+      "episode": 59,
+      "title": "Ray Forgives",
+      "diziid": "df",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/63/ray_affeder"
+    },
+    {
+      "season": 12,
+      "episode": 60,
+      "title": "The Battle for Swellview Part 1",
+      "diziid": "df",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/64/swellview_savasi_1._bolum"
+    },
+    {
+      "season": 13,
+      "episode": 61,
+      "title": "The Battle for Swellview Part 2",
+      "diziid": "df",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/df/risk_takimi/65/swellview_savasi_2._bolum"
+    }
+  ]
+}

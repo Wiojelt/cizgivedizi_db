@@ -1,0 +1,53 @@
+{
+  "id": "swalls",
+  "title": "lego star wars: all stars",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SWALLSPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Bilim Kurgu",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "From Trenches to Wrenches: The Roger Story",
+      "diziid": "swalls",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/swalls/lego_star_wars%3A_all_stars/1/hendeklerden_penselere__rogerin_hikayesi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Chase with Han/Escape with Chewbacca",
+      "diziid": "swalls",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/swalls/lego_star_wars%3A_all_stars/2/han_ile_kovalamaca__chewbacca_ile_kacis"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Dealing with Lando/Han and Chewie Strike Back",
+      "diziid": "swalls",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/swalls/lego_star_wars%3A_all_stars/3/lando_ile_ugrasma__han_ve_chewienin_donusu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Scouting for Leia/A Mission with Maz",
+      "diziid": "swalls",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/swalls/lego_star_wars%3A_all_stars/4/leia_icin_kesif__maz_ile_gorev"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Rolling with BB-8/Resistance on the Run",
+      "diziid": "swalls",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/swalls/lego_star_wars%3A_all_stars/5/b8-8_ile_takilmak__ayakustu_direnis"
+    }
+  ]
+}

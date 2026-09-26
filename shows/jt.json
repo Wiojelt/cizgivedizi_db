@@ -1,0 +1,828 @@
+{
+  "id": "jt",
+  "title": "johnny test",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/JTPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Johnny to the Center of the Earth / Johnny X",
+      "diziid": "jt",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/1/johnny_dunyanin_merkezine_gidiyor__johnny_x"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Johnny vs. Bling-Bling Boy / Johnny Impossible",
+      "diziid": "jt",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/2/johnny_pirlanta_cocuka_karsi__imkansiz_johnny"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Johnny Test: Party Monster / Johnny Test: Extreme Crime Stopper",
+      "diziid": "jt",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/3/johnny_test%3A_parti_canavari__johnny_test%3A_muhtesem_suc_onleyici"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Deep Sea Johnny / Johnny & the Amazing Turbo Action Backpack",
+      "diziid": "jt",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/4/derin_deniz_johnny__johnny_ve_inanilmaz_turbo_fonksiyonlu_sirt_cantasi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Johnny and the Ice Pigs / Johnny's House of Horrors",
+      "diziid": "jt",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/5/johnny_ve_buz_domuzlari__johnnynin_korku_evi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Johnny's Super Smarty Pants / Take Your Johnny to Work Day",
+      "diziid": "jt",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/6/johnnynin_super_zeki_pantolonu__johnnynizi_ise_getirin"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Johnny and the Mega Roboticles / Johnny Gets Mooned",
+      "diziid": "jt",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/7/johnny_ve_robot_oyuncaklar__johnnynin_ay_macerasi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Johnny Hollywood / Johnny's Turbo Time Rewinder",
+      "diziid": "jt",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/8/johnny_hollywood__johnnynin_turbo_zaman_sayaci"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Return of Johnny X / Sonic Johnny",
+      "diziid": "jt",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/9/johnny_xin_donusu__johnny_ses_hizinda"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Dog Days of Johnny / Johnny's Pink Plague",
+      "diziid": "jt",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/10/johnnynin_kopekli_gunleri__johnnynin_pembe_hastaligi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Johnny's Extreme Game Controller / Li'l Johnny",
+      "diziid": "jt",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/11/johnnynin_muhtesem_video_oyunu__mikro_johnny"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Johnny vs. Brain Freezer / Johnny's Big Snow Job",
+      "diziid": "jt",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/12/johnny_beyin_dondurana_karsi__johnnynin_buyuk_kar_macerasi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Johnny Dodgeball / Johnny & the Attack of the Monster Truck",
+      "diziid": "jt",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/13/yakar_topcu_johnny__johnny_ve_canavar_kamyon_saldirisi"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Hoist the Johnny Roger / Johnny's Turbo Toy Force",
+      "diziid": "jt",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/14/johnnynin_maceralari__johnnynin_turbo_oyuncak_gucu"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "JTV / Johnny vs. Bling Bling 2",
+      "diziid": "jt",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/15/jtv__johnny_pirlanta_cocuka_karsi_2"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Johnnyland / Johnny's Got a Brand New Dad",
+      "diziid": "jt",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/16/johnnypark__johnnynin_yepyeni_babasi"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Saturday Night's Alright for Johnny / Johnny Mint Chip",
+      "diziid": "jt",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/17/johnnynin_cumartesi_gecesi_keyfi__johnnynin_dondurma_aski"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Johnny's Pet Day / Phat Johnny",
+      "diziid": "jt",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/18/johnnynin_evcil_hayvan_gunu__sisko_johnny"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "The Revenge of Johnny X / The Enchanted Land of Johnnia",
+      "diziid": "jt",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/19/johnny_xin_intikami__johnnynin_buyulu_ulkesi"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "101 Johnnies / Johnny Zombie Tea Party",
+      "diziid": "jt",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/20/101_johnny__johnny_zombi_cay_partisi"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Johnny Test in Black & White / Johnny the Kid",
+      "diziid": "jt",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/21/johnny_testin_ajanlarla_macerasi__cocuk_johnny"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Down Hill Johnny / Johnny Meets the Pork-Ness Monster",
+      "diziid": "jt",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/22/johnny_kayak_merkezinde__johnny_gol_canavarina_karsi"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Johnny X Strikes Back / Johnny vs. Super Soaking Cyborgs",
+      "diziid": "jt",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/23/johnny_x_geri_donuyor__johnny_super_islak_cyborglara_karsi"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "00-Johnny / Johnny of the Jungle",
+      "diziid": "jt",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/24/00-johnny__johnnynin_safari_macerasi"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Johnny vs. Smash Badger 3 / Johnny Bee Good",
+      "diziid": "jt",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/25/johnny_pata_kute_porsuk_3e_karsi__ari_ol_johnny"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "The Good, the Bad & the Johnny / Rock-A-Bye Johnny",
+      "diziid": "jt",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/26/iyi%2C_kotu%2C_johnny__uyusun_da_buyusun_johnny"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Johnny's New Baby Sisters / Porta-Johnny",
+      "diziid": "jt",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/40/johnnynin_yeni_kiz_kardesleri__isinlanan_johnny"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Join the Johnny Scouts / Johnny B.C.",
+      "diziid": "jt",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/41/johnny_izcilerine_katilin__milattan_once_johnny"
+    },
+    {
+      "season": 4,
+      "episode": 29,
+      "title": "Dark Johnny / No Homework for Johnny",
+      "diziid": "jt",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/43/dark_johnny__johnny_icin_odev_yok"
+    },
+    {
+      "season": 5,
+      "episode": 30,
+      "title": "Papa Johnny / The Johnnyminster Dog Show",
+      "diziid": "jt",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/44/johnny_baba__johnny_ustadan_kopek_gosterisi"
+    },
+    {
+      "season": 6,
+      "episode": 31,
+      "title": "Dukey Jeckyll and Johnny Hyde / Johnny's Trophy Case",
+      "diziid": "jt",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/45/dukey_jeckyll_ve_johnny_hyde__johnnynin_odul_kosesi"
+    },
+    {
+      "season": 7,
+      "episode": 32,
+      "title": "Johnny's Amazing Cookie Company / Johnny's Big Dumb Sisters",
+      "diziid": "jt",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/46/johnnynin_muhtesem_kurabiye_sirketi__johnny%E2%80%99nin_sapsal_ablalari"
+    },
+    {
+      "season": 8,
+      "episode": 33,
+      "title": "My Johnny Guard / Tom and Johnny",
+      "diziid": "jt",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/47/korumam_johnny__tom_ve_johnny"
+    },
+    {
+      "season": 9,
+      "episode": 34,
+      "title": "The Quantum of Johnny / Johnny Get Yer Gum",
+      "diziid": "jt",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/48/johnnynin_kuantumu__johnnynin_sakizi"
+    },
+    {
+      "season": 10,
+      "episode": 35,
+      "title": "Old School Johnny / Johnny Degrees Below Zero",
+      "diziid": "jt",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/49/eski_okullu_johnny__sifirin_altinda_johnny_derece"
+    },
+    {
+      "season": 11,
+      "episode": 36,
+      "title": "Johnny Johnny / Johnny Double Coupons",
+      "diziid": "jt",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/50/johnny_johnny__ikiz_johnny_kuponlari"
+    },
+    {
+      "season": 12,
+      "episode": 37,
+      "title": "X-Ray Johnny / The Destruction of Johnny X",
+      "diziid": "jt",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/51/x-isini_johnny__yok_edici_johnny_x"
+    },
+    {
+      "season": 13,
+      "episode": 38,
+      "title": "iJohnny / Johnny vs. The Mummy",
+      "diziid": "jt",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/52/ijohnny__johnny_mumyaya_karsi"
+    },
+    {
+      "season": 14,
+      "episode": 39,
+      "title": "Johnny Grow Your Own Monster / Who's Johnny?",
+      "diziid": "jt",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/53/johnny_kendi_canavarini_buyut__hangi_johnny"
+    },
+    {
+      "season": 15,
+      "episode": 40,
+      "title": "Princess Johnny / 99 Deeds of Johnny Test",
+      "diziid": "jt",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/54/prenses_johnny__johnny_testin_99_iyiligi"
+    },
+    {
+      "season": 16,
+      "episode": 41,
+      "title": "Johnny's Amazing Race / Johnny Test in 3D",
+      "diziid": "jt",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/55/johnnynin_inanilmaz_yarisi__johnny_test_3dde"
+    },
+    {
+      "season": 17,
+      "episode": 42,
+      "title": "Guess Who's Coming to Johnny's for Dinner / Johnny's New BFF",
+      "diziid": "jt",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/56/bilin_bakalim_johnnyye_aksam_yemegine_kim_geliyor__johnnynin_en_iyi_arkadaslari"
+    },
+    {
+      "season": 18,
+      "episode": 43,
+      "title": "Johnny vs. Bling Bling IV / Johnny's Big Sisters' Smackdown",
+      "diziid": "jt",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/57/johnny_pirlanta_cocuka_karsi__johnny%E2%80%99nin_ablalari_kapisiyor"
+    },
+    {
+      "season": 19,
+      "episode": 44,
+      "title": "Sunshine Malibu Johnny / Johnnycicle",
+      "diziid": "jt",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/58/gunes%2C_malibu%2C_johnny__johnny_bisikleti"
+    },
+    {
+      "season": 20,
+      "episode": 45,
+      "title": "King Johnny / Johnny Re-Animated",
+      "diziid": "jt",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/59/kral_johnny__johnny_yeniden_hayat_buluyor"
+    },
+    {
+      "season": 21,
+      "episode": 46,
+      "title": "Johnny Cakes / Johnny Tube",
+      "diziid": "jt",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/60/johnny_pastalari__johnny_tube"
+    },
+    {
+      "season": 22,
+      "episode": 47,
+      "title": "Sleepover at Johnny's / Johnny's Got a... Wart!",
+      "diziid": "jt",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/61/johnnylerde_pijama_partisi__johnny%E2%80%99nin_sigilleri%21"
+    },
+    {
+      "season": 23,
+      "episode": 48,
+      "title": "Johnny's Royal Flush / Johnny Test's Day Off",
+      "diziid": "jt",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/62/johnny%E2%80%99nin_eli_cok_iyi__johnny_testin_izin_gunu"
+    },
+    {
+      "season": 24,
+      "episode": 49,
+      "title": "Johnny and Dark Vegan's Battle Brawl Mania / A Scholarship for Johnny",
+      "diziid": "jt",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/63/johnny_test_ve_kara_et_yemezin_cilgin_savasi__johnny%E2%80%99nin_bursu"
+    },
+    {
+      "season": 25,
+      "episode": 50,
+      "title": "Johnny Boat Racing / Johnny Lock Down",
+      "diziid": "jt",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/64/johnny_tekne_yarisinda__kilit"
+    },
+    {
+      "season": 26,
+      "episode": 51,
+      "title": "Good Ol' Johnny Test / Johnny X Strikes Back Again!",
+      "diziid": "jt",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/65/su_bizim_johnny_test__johnny_tekrar_saldiriyor%21"
+    },
+    {
+      "season": 1,
+      "episode": 52,
+      "title": "Johnny Goes Nuts / Johnny Daddy Day",
+      "diziid": "jt",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/66/johnny_cildiriyor__johnny_babalar_gunu"
+    },
+    {
+      "season": 2,
+      "episode": 53,
+      "title": "Johnny Cruise / Rated J for Johnny",
+      "diziid": "jt",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/67/johnny%E2%80%99nin_gemi_yolculugu__johnny_icin_j_reytingi"
+    },
+    {
+      "season": 3,
+      "episode": 54,
+      "title": "Spotless Johnny / Johnny vs. Bling-Bling: The Ultimate Battle",
+      "diziid": "jt",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/68/johnny_tertemiz__johnny_luks_duskunune_karsi_buyuk_mucadele"
+    },
+    {
+      "season": 4,
+      "episode": 55,
+      "title": "Cat Scratch Johnny / Johnny of the Deep",
+      "diziid": "jt",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/69/johnny_ve_tirmik__johnny_dipte"
+    },
+    {
+      "season": 5,
+      "episode": 56,
+      "title": "Johnny Swellville / Johnny Irresistible",
+      "diziid": "jt",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/70/johnny_swellville__karsi_konulmaz_johnny"
+    },
+    {
+      "season": 6,
+      "episode": 57,
+      "title": "Black & White & Johnny All Over / Johnny's Rat Race",
+      "diziid": "jt",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/71/siyah_ve_beyaz_johnny_her_yerde__johnnynin_fare_yarisi"
+    },
+    {
+      "season": 7,
+      "episode": 58,
+      "title": "Lawn Gone Johnny / Johnny's Ultimate Treehouse",
+      "diziid": "jt",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/72/johnny_cimleri_biciyor__johnny%E2%80%99nin_muhtesem_agac_evi"
+    },
+    {
+      "season": 8,
+      "episode": 59,
+      "title": "Johnny Goes Camping / Johnny's World Prank Wars 1",
+      "diziid": "jt",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/73/johnny_kampa_gidiyor__johnny_dunya_saka_savaslari_1"
+    },
+    {
+      "season": 9,
+      "episode": 60,
+      "title": "How to Become a John-i Knight / The Return of Johnny Super Smarty Pants",
+      "diziid": "jt",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/74/nasil_john-i_sovalyesi_olunur__super_akil_pantolonuyla_johnny%E2%80%99nin_donusu"
+    },
+    {
+      "season": 1,
+      "episode": 61,
+      "title": "Fangs a Lot Johnny",
+      "diziid": "jt",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/75/yilan_disli_johnny"
+    },
+    {
+      "season": 11,
+      "episode": 62,
+      "title": "Johnny's Winter Jacket / Johnny's Keys to Success",
+      "diziid": "jt",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/76/johnny_testin_kislik_montu__johnny%E2%80%99nin_basarisinin_sirri"
+    },
+    {
+      "season": 12,
+      "episode": 63,
+      "title": "Johnny Two-Face / Johnny Susan, Susan Johnny",
+      "diziid": "jt",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/77/iki_yuzlu_johnny__johnny_susan%2C_susan_johnny"
+    },
+    {
+      "season": 13,
+      "episode": 64,
+      "title": "Johnny Trick or Treat / Nightmare on Johnny's Street",
+      "diziid": "jt",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/78/johnny_seker_mi_saka_mi__johnny_sokaginda_kabus"
+    },
+    {
+      "season": 14,
+      "episode": 65,
+      "title": "My Dinner with Johnny / Johnny Alternative",
+      "diziid": "jt",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/79/johnny_ve_aksam_yemegi__johnny_alternatifi"
+    },
+    {
+      "season": 15,
+      "episode": 66,
+      "title": "Cool Hand Johnny / Roller Johnny",
+      "diziid": "jt",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/80/becerikli_johnny__patenci_johnny"
+    },
+    {
+      "season": 16,
+      "episode": 67,
+      "title": "A Holly Johnny Christmas / Johnny's First Annual Snowball",
+      "diziid": "jt",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/81/johnny_ile_mutlu_noeller__johnny%E2%80%99den_yilin_ilk_kar_topu"
+    },
+    {
+      "season": 17,
+      "episode": 68,
+      "title": "Lakeside Johnny / Johnny Germ Fighter",
+      "diziid": "jt",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/82/gol_kiyisi__mikrop_avcisi"
+    },
+    {
+      "season": 18,
+      "episode": 69,
+      "title": "Johnny's World Record / Mush, Johnny, Mush",
+      "diziid": "jt",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/83/johnny_dunya_rekoru__cek_johnny_cek"
+    },
+    {
+      "season": 19,
+      "episode": 70,
+      "title": "Johnny's Treasure / Extra Credit Johnny",
+      "diziid": "jt",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/84/johnny%E2%80%99nin_definesi__johnny%E2%80%99nin_not_sorunu"
+    },
+    {
+      "season": 20,
+      "episode": 71,
+      "title": "Johnny's Left Foot / Johnny vs. The Tickler",
+      "diziid": "jt",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/85/johnny%E2%80%99nin_sol_ayagi__johnny_gidi_gidiya_karsi"
+    },
+    {
+      "season": 21,
+      "episode": 72,
+      "title": "Bugged Out Johnny / Johnny Test's Quest",
+      "diziid": "jt",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/86/bocek_puskurtmesi__johnny_testin_gorevi"
+    },
+    {
+      "season": 22,
+      "episode": 73,
+      "title": "Johnny O's / It's Du-Kay Johnny",
+      "diziid": "jt",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/87/johnny_olar__du-kay"
+    },
+    {
+      "season": 23,
+      "episode": 74,
+      "title": "Magic Johnny / Dolly Johnny",
+      "diziid": "jt",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/88/sihirbaz_johnny__johnny_bebek"
+    },
+    {
+      "season": 24,
+      "episode": 75,
+      "title": "Johnny McCool / It's an Invasion, Johnny",
+      "diziid": "jt",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/89/havali_johnny__johnny_ve_istila"
+    },
+    {
+      "season": 25,
+      "episode": 76,
+      "title": "It's All Relative, Johnny / Johnny Rich",
+      "diziid": "jt",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/90/hepsi_birbirine_bagli_johnny__zengin_johnny"
+    },
+    {
+      "season": 26,
+      "episode": 77,
+      "title": "Johnny X... Again? / Green Johnny",
+      "diziid": "jt",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/91/johnny_x..._yine_mi__cevreci_johnny"
+    },
+    {
+      "season": 1,
+      "episode": 78,
+      "title": "Johnny on the Clock / Johnny X-Factor",
+      "diziid": "jt",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/92/johnny_calisiyor__johnny_x-faktor"
+    },
+    {
+      "season": 2,
+      "episode": 79,
+      "title": "Johnny Vets Dukey / Johnny's #1 Fan",
+      "diziid": "jt",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/93/johnny_dukeyyi_veterinere_goturuyor__johnny%E2%80%99nin_1_numarali_hayrani"
+    },
+    {
+      "season": 3,
+      "episode": 80,
+      "title": "How to Train Your Johnny / Johnny and Clyde",
+      "diziid": "jt",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/94/johnnyyi_egitme_yollari__johnny_ve_clyde"
+    },
+    {
+      "season": 4,
+      "episode": 81,
+      "title": "Johnny's Super Massive Kart Wheelies 7 / Smooth Talkin' Johnny",
+      "diziid": "jt",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/95/johnny%E2%80%99nin_super_buyuk_taklaci_arabalari_7__duzgun_konusan_johnny"
+    },
+    {
+      "season": 6,
+      "episode": 82,
+      "title": "Johnny's Got Talent / Johnny's Rough Around the Hedges",
+      "diziid": "jt",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/97/johnny%E2%80%99nin_yetenegi__johnny%E2%80%99nin_calilardaki_basarisizligi"
+    },
+    {
+      "season": 7,
+      "episode": 83,
+      "title": "Johnny's Head in the Clouds / Stop in the Name of Johnny",
+      "diziid": "jt",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/98/johnny%E2%80%99nin_akli_havada__johnny%E2%80%99nin_namina_dur"
+    },
+    {
+      "season": 8,
+      "episode": 84,
+      "title": "Johnny Opposite / Johnny on the Job",
+      "diziid": "jt",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/99/johnny_itiraz_ediyor__johnny_is_ustunde"
+    },
+    {
+      "season": 9,
+      "episode": 85,
+      "title": "Johnny's 100th Episode / Johnny's Next Episode",
+      "diziid": "jt",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/100/johnny%E2%80%99nin_100.bolumu__johnny%E2%80%99nin_sonraki_bolumu"
+    },
+    {
+      "season": 10,
+      "episode": 86,
+      "title": "Johnny's Supreme Theme / Past and Present Johnny",
+      "diziid": "jt",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/101/son_tema__gecmis_ve_gelecekteki_johnny"
+    },
+    {
+      "season": 11,
+      "episode": 87,
+      "title": "The Sands of Johnny / Abominable Johnny",
+      "diziid": "jt",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/102/johnny%E2%80%99nin_kum_taneleri__korkunc_johnny"
+    },
+    {
+      "season": 12,
+      "episode": 88,
+      "title": "Johnny vs. The Dukenator / Johnny's Petting Zoo Posse",
+      "diziid": "jt",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/103/johnny_dukenatora_karsi__evcil_hayvan_ciftligi_ekibi"
+    },
+    {
+      "season": 13,
+      "episode": 89,
+      "title": "The Johnny Who Saved Halloween / Johnny's Zombie Bomb",
+      "diziid": "jt",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/104/johnny_cadilar_bayramini_kurtardi__johnny%E2%80%99nin_zombi_bombasi"
+    },
+    {
+      "season": 14,
+      "episode": 90,
+      "title": "Johnny's New Super Mega Villain / Johnny in Charge",
+      "diziid": "jt",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/105/johnny%E2%80%99nin_yeni_super_mega_kotu_adami__johnny_is_basinda"
+    },
+    {
+      "season": 15,
+      "episode": 91,
+      "title": "Johnny Unplugged / Johnny's Monster Mash",
+      "diziid": "jt",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/106/johnny_dogada__johnny%E2%80%99nin_canavar_puresi"
+    },
+    {
+      "season": 16,
+      "episode": 92,
+      "title": "Johnny's Chipmunk Chit Chat / A Picture's Worth 1000 Johnnies",
+      "diziid": "jt",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/107/johnny%E2%80%99nin_sincaplarla_lak_laki__1000_johnnyye_bedel_fotograf"
+    },
+    {
+      "season": 17,
+      "episode": 93,
+      "title": "Dial J for Johnny / Road Trip Johnny",
+      "diziid": "jt",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/108/johnny_icin_jye_bas__johnny%E2%80%99nin_yolculugu"
+    },
+    {
+      "season": 18,
+      "episode": 94,
+      "title": "Code Crackin' Johnny / Johnny Goes Viral",
+      "diziid": "jt",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/109/sifre_kiran_johnny__bulasici_johnny"
+    },
+    {
+      "season": 19,
+      "episode": 95,
+      "title": "FrankenJohnny / Johnny Express",
+      "diziid": "jt",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/110/frankenjohnny__johnny_ekspresi"
+    },
+    {
+      "season": 20,
+      "episode": 96,
+      "title": "Crash Test Johnny / Johnny's Junky Trunk",
+      "diziid": "jt",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/111/carpma_deneyi_johnny__johnnynin_hurda_sandigi"
+    },
+    {
+      "season": 21,
+      "episode": 97,
+      "title": "Super Johnny Action Federation / Gil-Stopping Johnny",
+      "diziid": "jt",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/112/super_aksiyon_johnny_federasyonu__gili_durduran_johnny"
+    },
+    {
+      "season": 22,
+      "episode": 98,
+      "title": "Johnny with a Chance of Meatloaf / It's Easter, Johnny Test!",
+      "diziid": "jt",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/113/johnny%E2%80%99nin_kofte_sansi__johnny_testin_paskalyasi%21"
+    },
+    {
+      "season": 23,
+      "episode": 99,
+      "title": "Future Johnny / Dukey See, Johnny Do",
+      "diziid": "jt",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/114/gelecekteki_johnny__dukey_gor%2C_johnny_yap"
+    },
+    {
+      "season": 24,
+      "episode": 100,
+      "title": "Hair's Johnny / Johnny's Hungry Games",
+      "diziid": "jt",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/115/kurt_adam_johnny__johnny%E2%80%99nin_aclik_oyunlari"
+    },
+    {
+      "season": 25,
+      "episode": 101,
+      "title": "Tiny Johnny / Johnny Goes Gaming",
+      "diziid": "jt",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/116/minik_johnny__johnny_oynamaya_gidiyor"
+    },
+    {
+      "season": 26,
+      "episode": 102,
+      "title": "The Last Flight of Johnny X / Johnny's Last Chapter",
+      "diziid": "jt",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/jt/johnny_test/117/johnny_xin_son_ucusu__johnny%E2%80%99nin_son_bolumu"
+    }
+  ]
+}

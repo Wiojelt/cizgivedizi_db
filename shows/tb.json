@@ -1,0 +1,429 @@
+{
+  "id": "tb",
+  "title": "batman",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TBPoster.avif",
+  "channel": "Planet Ã‡ocuk",
+  "genres": [
+    "Aksiyon",
+    "SuÃ§/Polisiye"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Bat in the Belfry",
+      "diziid": "tb",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/1/kuledeki_yarasa"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Call of the Cobblepot",
+      "diziid": "tb",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/2/penguenin_cagrisi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Traction",
+      "diziid": "tb",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/3/cekis_gunu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Cat and the Bat",
+      "diziid": "tb",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/4/kedi_ve_yarasa"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Man Who Would Be Bat",
+      "diziid": "tb",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/5/yarasa_olacak_adam"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Big Chill",
+      "diziid": "tb",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/6/buyuk_sogukluk"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Big Heat",
+      "diziid": "tb",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/7/yuksek_sicaklik"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Q & A",
+      "diziid": "tb",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/8/soru_ve_cevap"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Big Dummy",
+      "diziid": "tb",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/9/buyuk_kukla"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Topsy Turvy",
+      "diziid": "tb",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/10/bas_asagi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Bird of Prey",
+      "diziid": "tb",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/11/yirtici_kus"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Rubber Face of Comedy",
+      "diziid": "tb",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/12/komedinin_yuzu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Clayface of Tragedy",
+      "diziid": "tb",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/13/trajedinin_yuzu"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "The Cat, the Bat and the Very Ugly",
+      "diziid": "tb",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/14/kedi%2C_yarasa_ve_cok_cirkin"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Riddled",
+      "diziid": "tb",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/15/bilmece"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Fire and Ice",
+      "diziid": "tb",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/16/ates_ve_buz"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "The Laughing Bat",
+      "diziid": "tb",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/17/gulen_yarasa"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Swamped",
+      "diziid": "tb",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/18/bataklik"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Pets",
+      "diziid": "tb",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/19/evcil_hayvanlar"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Meltdown",
+      "diziid": "tb",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/20/erime"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "JTV",
+      "diziid": "tb",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/21/jtv"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Ragdolls to Riches",
+      "diziid": "tb",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/22/ragdolllardan_zenginlige"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "The Butler Did It",
+      "diziid": "tb",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/23/usak_yapti"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "Grundy's Night",
+      "diziid": "tb",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/24/grundynin_gecesi"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Strange Minds",
+      "diziid": "tb",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/25/garip_zihinler"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "Night and the City",
+      "diziid": "tb",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/26/gece_ve_sehir"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Batgirl Begins: Part 1",
+      "diziid": "tb",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/27/batgirl_basliyor%2C_birinci_bolum"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Batgirl Begins: Part 2",
+      "diziid": "tb",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/28/batgirl_basliyor%2C_ikinci_bolum"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "A Dark Knight to Remember",
+      "diziid": "tb",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/29/hatirlanmasi_gereken_bir_kara_sovalye"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "A Fistful of Felt",
+      "diziid": "tb",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/30/bir_avuc_kece"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "RPM",
+      "diziid": "tb",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/31/rpm"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Brawn",
+      "diziid": "tb",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/32/kaba_kuvvet"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "The Laughing Cats",
+      "diziid": "tb",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/33/gulen_kediler"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Fleurs du Mal",
+      "diziid": "tb",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/34/kotuluk_cicekleri"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Cash for Toys",
+      "diziid": "tb",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/35/oyuncak_parasi"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "The Apprentice",
+      "diziid": "tb",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/36/cirak"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Thunder",
+      "diziid": "tb",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/37/yildirim"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "The Icy Depths",
+      "diziid": "tb",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/38/buzlu_derinlikler"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Gotham's Ultimate Criminal Mastermind",
+      "diziid": "tb",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/39/gothamin_nihai_suc_dehasi"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "A Matter of Family",
+      "diziid": "tb",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/40/bir_aile_meselesi"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "Team Penguin",
+      "diziid": "tb",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/41/takim_penguen"
+    },
+    {
+      "season": 3,
+      "episode": 42,
+      "title": "Clayfaces",
+      "diziid": "tb",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/42/clayface"
+    },
+    {
+      "season": 4,
+      "episode": 43,
+      "title": "The Everywhere Man",
+      "diziid": "tb",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/43/her_yerdeki_adam"
+    },
+    {
+      "season": 5,
+      "episode": 44,
+      "title": "The Breakout",
+      "diziid": "tb",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/44/cikis"
+    },
+    {
+      "season": 6,
+      "episode": 45,
+      "title": "Strange New World",
+      "diziid": "tb",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/45/garip_yeni_dunya"
+    },
+    {
+      "season": 7,
+      "episode": 46,
+      "title": "Artifacts",
+      "diziid": "tb",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/46/eserler"
+    },
+    {
+      "season": 8,
+      "episode": 47,
+      "title": "Seconds",
+      "diziid": "tb",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/47/saniyeler"
+    },
+    {
+      "season": 9,
+      "episode": 48,
+      "title": "Riddler's Revenge",
+      "diziid": "tb",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/48/bilmececinin_intikami"
+    },
+    {
+      "season": 10,
+      "episode": 49,
+      "title": "Two of a Kind",
+      "diziid": "tb",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/49/turunun_iki_ornegi"
+    },
+    {
+      "season": 11,
+      "episode": 50,
+      "title": "Rumors",
+      "diziid": "tb",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/50/soylentiler"
+    },
+    {
+      "season": 12,
+      "episode": 51,
+      "title": "The Joining, Part One",
+      "diziid": "tb",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/51/katilma%2C_birinci_bolum"
+    },
+    {
+      "season": 13,
+      "episode": 52,
+      "title": "The Joining, Part Two",
+      "diziid": "tb",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/tb/batman/52/katilma%2C_ikinci_bolum"
+    }
+  ]
+}

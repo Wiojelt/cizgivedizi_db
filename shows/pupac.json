@@ -1,0 +1,164 @@
+{
+  "id": "pupac",
+  "title": "pup academy",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/PUPACPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Stray's First Day",
+      "diziid": "pupac",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/1/sokak_kopeginin_ilk_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 2,
+      "title": "Tell Us About Your Human Day",
+      "diziid": "pupac",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/3/insaninizi_anlatin_gunu"
+    },
+    {
+      "season": 4,
+      "episode": 3,
+      "title": "Oopsie!",
+      "diziid": "pupac",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/4/oopsie%21"
+    },
+    {
+      "season": 5,
+      "episode": 4,
+      "title": "Cooking Up Trouble",
+      "diziid": "pupac",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/5/yemek_yapmak_zordur"
+    },
+    {
+      "season": 6,
+      "episode": 5,
+      "title": "My Uncle Is Dude",
+      "diziid": "pupac",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/6/dude_benim_amcam"
+    },
+    {
+      "season": 7,
+      "episode": 6,
+      "title": "Spark Strays",
+      "diziid": "pupac",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/7/spark_uzaklasiyor"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "title": "Izzy Gets Busy",
+      "diziid": "pupac",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/8/izzynin_belgeseli"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "title": "Kitten Academy",
+      "diziid": "pupac",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/9/kedi_akademisi"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "Into the Wildwood",
+      "diziid": "pupac",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/10/vahsi_orman"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "Secrets Unleashed",
+      "diziid": "pupac",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/11/sir_aciga_cikiyor"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "The Substitute",
+      "diziid": "pupac",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/12/yedek"
+    },
+    {
+      "season": 1,
+      "episode": 12,
+      "title": "The Thing with King",
+      "diziid": "pupac",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/13/kralin_hikayesi"
+    },
+    {
+      "season": 1,
+      "episode": 13,
+      "title": "The Constellation Fades",
+      "diziid": "pupac",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/15/kopek_takimyildizi_sonuyor"
+    },
+    {
+      "season": 2,
+      "episode": 14,
+      "title": "Spark Wants Back",
+      "diziid": "pupac",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/16/spark_geri_donmek_istiyor"
+    },
+    {
+      "season": 3,
+      "episode": 15,
+      "title": "The Day of the Stray",
+      "diziid": "pupac",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/17/sokak_kopeginin_gunu"
+    },
+    {
+      "season": 4,
+      "episode": 16,
+      "title": "Skunked!",
+      "diziid": "pupac",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/18/kokusmak"
+    },
+    {
+      "season": 5,
+      "episode": 17,
+      "title": "The King Sting",
+      "diziid": "pupac",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/19/kral_operasyonu"
+    },
+    {
+      "season": 6,
+      "episode": 18,
+      "title": "Most Valuable Pup",
+      "diziid": "pupac",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/20/en_degerli_kopek"
+    },
+    {
+      "season": 1,
+      "episode": 19,
+      "title": "The Stray's Last Day",
+      "diziid": "pupac",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/pupac/pup_academy/21/sokak_kopeginin_son_gunu"
+    }
+  ]
+}

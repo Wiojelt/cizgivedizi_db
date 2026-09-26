@@ -1,0 +1,157 @@
+{
+  "id": "kiff",
+  "title": "kiff",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KIFFPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Thirst to be the First/The Fourth Bath",
+      "diziid": "kiff",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kiff/kiff/1/ilk_icen_sen_ol__dorduncu_banyo"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Pool Party/Road Trip",
+      "diziid": "kiff",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kiff/kiff/2/havuz_partisi__yol_gezisi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Brunch DJ/Career Day",
+      "diziid": "kiff",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kiff/kiff/3/kahvalti_dji__kariyer_gunu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Five Pigeons of the Acapellapocalypse/Leave a Little Juice",
+      "diziid": "kiff",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kiff/kiff/4/kiyametin_bes_guvercini__biraz_meyve_suyu_birak"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Big Barry on Campus/Club Book",
+      "diziid": "kiff",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kiff/kiff/5/buyuk_barry_kampuste__kulup_defteri"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Kiff's Mix/Kiff's on a Plane",
+      "diziid": "kiff",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kiff/kiff/6/kiffin_karisimi__kiff_ucakta"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Farley/Two for One Hot Dogs",
+      "diziid": "kiff",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/kiff/kiff/7/oyuncak__bir_sosisli_alana_bir_bedava"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Halfway There Day/Be Still My Harp",
+      "diziid": "kiff",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/kiff/kiff/8/inanmak_basarmanin_yarisidir_gunu__arp%2C_rahat_dur"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Friendiversary/Totally Table Town",
+      "diziid": "kiff",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/kiff/kiff/9/arkadas_toplantisi__masa_kasabasi_iste"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Hat/Lost and Found",
+      "diziid": "kiff",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/kiff/kiff/10/sapka__kayip_esya"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Principal Dance Socks",
+      "diziid": "kiff",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/kiff/kiff/11/mudurun_dans_coraplari"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Two Truths and a Bunny/Nicknames",
+      "diziid": "kiff",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/kiff/kiff/12/iki_gercek_ve_bir_tavsan__lakaplar"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Sound of Helen/Weekly Grocery Shop",
+      "diziid": "kiff",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/kiff/kiff/13/helenin_sesi___haftalik_market_alisverisi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Friendship in the Time of Cheese Caves/Soup Opera",
+      "diziid": "kiff",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/kiff/kiff/14/cheese_caves_doneminde_arkadaslik___pembe_dizi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Mall Leader/Ghost Wolf's Art",
+      "diziid": "kiff",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/kiff/kiff/15/avm_lideri___hayalet_kurtun_sanati"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Fresh Outta Grandmas/Maybe-sitting",
+      "diziid": "kiff",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/kiff/kiff/16/buyukanne_taze_yapti___bebek_bakmak"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Everyday I'm Riddlin' Riddlin'/Life On The Inside",
+      "diziid": "kiff",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/kiff/kiff/17/her_gun_bilmece_cozuyorum___iceride_hayat"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Weird Delivery/No Dad Ideas",
+      "diziid": "kiff",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/kiff/kiff/18/tuhaf_teslimat__baba_fikri_yok"
+    }
+  ]
+}

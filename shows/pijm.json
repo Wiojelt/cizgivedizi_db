@@ -1,0 +1,132 @@
+{
+  "id": "pijm",
+  "title": "pijamalÄ± muzlar",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/PIJMPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Magic Trick",
+      "diziid": "pijm",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/pijm/pijamali_muzlar/1/sihir_numarasi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Moving",
+      "diziid": "pijm",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/pijm/pijamali_muzlar/2/tasinma"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Little Fish",
+      "diziid": "pijm",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/pijm/pijamali_muzlar/3/kucuk_balik"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Glue",
+      "diziid": "pijm",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/pijm/pijamali_muzlar/4/tutkal"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Prince Rat",
+      "diziid": "pijm",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/pijm/pijamali_muzlar/5/prens_fare"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Fluffy Bunny",
+      "diziid": "pijm",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/pijm/pijamali_muzlar/6/tuylu_tavsan"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Billy Cart Race",
+      "diziid": "pijm",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/pijm/pijamali_muzlar/7/tahta_araba_yarisi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Bird Song",
+      "diziid": "pijm",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/pijm/pijamali_muzlar/8/kus_sesi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Handy Bananas",
+      "diziid": "pijm",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/pijm/pijamali_muzlar/9/bakici_muzlar"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Collection",
+      "diziid": "pijm",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/pijm/pijamali_muzlar/10/koleksiyon"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Gold Rush",
+      "diziid": "pijm",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/pijm/pijamali_muzlar/11/altin_hucum"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "A Very Special Jelly",
+      "diziid": "pijm",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/pijm/pijamali_muzlar/12/cok_ozel_jole"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Bushwalk",
+      "diziid": "pijm",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/pijm/pijamali_muzlar/13/karda_yuruyus"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Singing Bananas",
+      "diziid": "pijm",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/pijm/pijamali_muzlar/14/cin_muzlar"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The New Bike",
+      "diziid": "pijm",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/pijm/pijamali_muzlar/15/yeni_bisiklet"
+    }
+  ]
+}

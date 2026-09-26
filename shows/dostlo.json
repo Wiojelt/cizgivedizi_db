@@ -1,0 +1,132 @@
+{
+  "id": "dostlo",
+  "title": "dostluk okyanusu",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/DOSTLOPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Romantik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Bruda's Pie",
+      "diziid": "dostlo",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/dostlo/dostluk_okyanusu/1/brudanin_turtasi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Bobbi's Tooth",
+      "diziid": "dostlo",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/dostlo/dostluk_okyanusu/2/bobbinin_disi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Playhouse",
+      "diziid": "dostlo",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/dostlo/dostluk_okyanusu/3/oyun_evi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Uncle Tao",
+      "diziid": "dostlo",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/dostlo/dostluk_okyanusu/4/tao_amca"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Volcano Lunch",
+      "diziid": "dostlo",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/dostlo/dostluk_okyanusu/5/volkan_yemegi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Jellyfish Bus",
+      "diziid": "dostlo",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/dostlo/dostluk_okyanusu/6/denizanasi_otobusu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Wayu and the Coral",
+      "diziid": "dostlo",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/dostlo/dostluk_okyanusu/7/wayu_ve_mercan"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Fluffy Rock",
+      "diziid": "dostlo",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/dostlo/dostluk_okyanusu/8/yumos_tas"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Bruda's Pop-up Book",
+      "diziid": "dostlo",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/dostlo/dostluk_okyanusu/9/brudanin_uc_boyutlu_kitabi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Digging for Treasure",
+      "diziid": "dostlo",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/dostlo/dostluk_okyanusu/10/hazine_kazisi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Hide and Seek",
+      "diziid": "dostlo",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/dostlo/dostluk_okyanusu/11/saklambac"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Bobbi in Bed",
+      "diziid": "dostlo",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/dostlo/dostluk_okyanusu/12/hasta_bobbi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Photo Day",
+      "diziid": "dostlo",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/dostlo/dostluk_okyanusu/13/fotograf_gunu"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Color Dancing",
+      "diziid": "dostlo",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/dostlo/dostluk_okyanusu/14/renklerin_dansi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Littlest Gift",
+      "diziid": "dostlo",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/dostlo/dostluk_okyanusu/15/en_kucuk_hediye"
+    }
+  ]
+}

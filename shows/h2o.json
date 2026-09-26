@@ -1,0 +1,429 @@
+{
+  "id": "h2o",
+  "title": "h2o: just add water",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/H2OPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Dram",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Metamorphosis",
+      "diziid": "h2o",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/1/donusum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Pool Party",
+      "diziid": "h2o",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/2/havuz_partisi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Catch of the Day",
+      "diziid": "h2o",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/3/gunun_avi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Party Girls",
+      "diziid": "h2o",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/4/parti_kizlari"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Something Fishy",
+      "diziid": "h2o",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/5/supheli_bir_durum"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Young Love",
+      "diziid": "h2o",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/6/cocukluk_aski"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Moon Spell",
+      "diziid": "h2o",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/7/ay_buyusu"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Denman Affair",
+      "diziid": "h2o",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/8/denman_sorunu"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Dangerous Waters",
+      "diziid": "h2o",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/9/tehlikeli_sular"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Camera Never Lies",
+      "diziid": "h2o",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/10/kamera_asla_yalan_soylemez"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Sink or Swim",
+      "diziid": "h2o",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/11/batmak_ya_da_yuzmek"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Siren Effect",
+      "diziid": "h2o",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/12/siren_etkisi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Shipwrecked",
+      "diziid": "h2o",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/13/deniz_kazasi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Surprise!",
+      "diziid": "h2o",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/14/surpriz%21"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Big Chill",
+      "diziid": "h2o",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/15/dondurucu_soguk"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Lovesick",
+      "diziid": "h2o",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/16/kara_sevda"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Under the Weather",
+      "diziid": "h2o",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/17/hastalik"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Bad Moon Rising",
+      "diziid": "h2o",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/18/kotu_ay_yukseliyor"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Hurricane Angela",
+      "diziid": "h2o",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/19/angela_kasirgasi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Hook, Line and Sinker",
+      "diziid": "h2o",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/20/oltaya_dusmek"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Red Herring",
+      "diziid": "h2o",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/21/kirmizi_alarm"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Fish Out of Water",
+      "diziid": "h2o",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/22/sudan_cikmis_balik"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "In Too Deep",
+      "diziid": "h2o",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/23/fazla_kaptirmak"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Love Potion #9",
+      "diziid": "h2o",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/24/ask_iksiri"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Dr. Danger",
+      "diziid": "h2o",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/25/dr._tehlike"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "A Twist in the Tail",
+      "diziid": "h2o",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/26/surpriz_gelisme"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Stormy Weather",
+      "diziid": "h2o",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/27/firtinali_hava"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Control",
+      "diziid": "h2o",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/28/kontrol"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "The One That Got Away",
+      "diziid": "h2o",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/29/kacan_balik"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Fire and Ice",
+      "diziid": "h2o",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/30/ates_ve_buz"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Hocus Pocus",
+      "diziid": "h2o",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/31/hokus_pokus"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Pressure Cooker",
+      "diziid": "h2o",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/32/zorlu_yemek"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "In Hot Water",
+      "diziid": "h2o",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/33/buyuk_dert"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Wrong Side of the Tracks",
+      "diziid": "h2o",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/34/ayri_dunyalar"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Riding for a Fall",
+      "diziid": "h2o",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/35/felakete_davetiye_cikarmak"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Missed the Boat",
+      "diziid": "h2o",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/36/firsati_kacirmak"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "In Over Our Heads",
+      "diziid": "h2o",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/37/cizmeyi_astik"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Fish Fever",
+      "diziid": "h2o",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/38/balik_hastaligi"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Moonwalker",
+      "diziid": "h2o",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/39/dolunay_etkisi"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "Get Off My Tail",
+      "diziid": "h2o",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/40/dus_yakamdan%21"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "Irresistible",
+      "diziid": "h2o",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/41/karsi_konulmaz"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Double Trouble",
+      "diziid": "h2o",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/42/cifte_sorun"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Moonstruck",
+      "diziid": "h2o",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/43/ay_carpmasi"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "The Heat Is On",
+      "diziid": "h2o",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/44/heyecan_dorukta"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "The Gracie Code, Part One",
+      "diziid": "h2o",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/45/gracie_sifresi%3A_kisim_1"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "The Gracie Code, Part Two",
+      "diziid": "h2o",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/46/gracie_sifresi%3A_kisim_2"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "And Then There Were Four",
+      "diziid": "h2o",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/47/ve_dort_kisi_oldular"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "Bubble, Bubble, Toil and Trouble",
+      "diziid": "h2o",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/48/sorun_ustune_sorun"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "Reckless",
+      "diziid": "h2o",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/49/umursamaz"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "Three's Company",
+      "diziid": "h2o",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/50/surpriz_parti"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "Sea Change",
+      "diziid": "h2o",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/51/buyuk_degisim"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "Unfathomable",
+      "diziid": "h2o",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/h2o/h2o%3A_just_add_water/52/cok_derin"
+    }
+  ]
+}

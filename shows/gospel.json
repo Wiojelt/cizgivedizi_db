@@ -1,0 +1,77 @@
+{
+  "id": "gospel",
+  "title": "midnight gospel",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/GOSPELPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "AbsÃ¼rt",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Taste of the King",
+      "diziid": "gospel",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/gospel/midnight_gospel/1/kralin_tadi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Officers and Wolves",
+      "diziid": "gospel",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/gospel/midnight_gospel/2/subaylar_ve_kurtlar"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Hunters Without a Home",
+      "diziid": "gospel",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/gospel/midnight_gospel/3/evsiz_avcilar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Blinded By My End",
+      "diziid": "gospel",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/gospel/midnight_gospel/4/akibetim_beni_kor_etti"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Annihilation of Joy",
+      "diziid": "gospel",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/gospel/midnight_gospel/5/sevincin_yok_olusu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Vulture With Honor",
+      "diziid": "gospel",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/gospel/midnight_gospel/6/gururlu_akbaba"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Turtles of the Eclipse",
+      "diziid": "gospel",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/gospel/midnight_gospel/7/tutulmanin_kaplumbagalari"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Mouse of Silver",
+      "diziid": "gospel",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/gospel/midnight_gospel/8/gumus_fare"
+    }
+  ]
+}

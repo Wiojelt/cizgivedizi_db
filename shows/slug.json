@@ -1,0 +1,365 @@
+{
+  "id": "slug",
+  "title": "slugterra",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SLUGPoster.avif",
+  "channel": "Disney Channel",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The World Beneath Our Feet: Part 1",
+      "diziid": "slug",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/1/ayaklarimizin_altindaki_dunya_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The World Beneath Our Feet: Part 2",
+      "diziid": "slug",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/2/ayaklarimizin_altindaki_dunya_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Trade",
+      "diziid": "slug",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/3/takas"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Slugout",
+      "diziid": "slug",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/4/dusen_sulukler"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Club Slug",
+      "diziid": "slug",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/5/suluk_kulubu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Slug Run",
+      "diziid": "slug",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/6/suluk_kosusu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Mecha Mutiny",
+      "diziid": "slug",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/7/mecha_isyani"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Deadweed",
+      "diziid": "slug",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/8/deadweed"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Shadows and Light",
+      "diziid": "slug",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/9/golge_ve_isik"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Mario Bravado",
+      "diziid": "slug",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/10/mario_bravado"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Dawn of the Slug",
+      "diziid": "slug",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/11/suluklerin_safagi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Undertow",
+      "diziid": "slug",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/12/yer_alti"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Endangered Species",
+      "diziid": "slug",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/13/tehlikedeki_turler"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The New Kid: Part 1",
+      "diziid": "slug",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/14/yeni_cocuk%3A_1.bolum"
+    },
+    {
+      "season": 1,
+      "episode": 15,
+      "title": "The New Kid: Part 2",
+      "diziid": "slug",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/15/yeni_cocuk%3A_2.bolum"
+    },
+    {
+      "season": 2,
+      "episode": 16,
+      "title": "Snowdance",
+      "diziid": "slug",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/16/kar_dansi"
+    },
+    {
+      "season": 3,
+      "episode": 17,
+      "title": "Inheritance",
+      "diziid": "slug",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/17/miras"
+    },
+    {
+      "season": 4,
+      "episode": 18,
+      "title": "A Distant Shore",
+      "diziid": "slug",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/18/uzak_sahil"
+    },
+    {
+      "season": 5,
+      "episode": 19,
+      "title": "The Journey Home",
+      "diziid": "slug",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/19/eve_yolculuk"
+    },
+    {
+      "season": 6,
+      "episode": 20,
+      "title": "Roboslugs",
+      "diziid": "slug",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/20/robot_sulukler"
+    },
+    {
+      "season": 7,
+      "episode": 21,
+      "title": "The Unbeatable Master",
+      "diziid": "slug",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/21/yenilmez_usta"
+    },
+    {
+      "season": 8,
+      "episode": 22,
+      "title": "Deep Water, Dark Water",
+      "diziid": "slug",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/22/derin_su%2C_kara_su"
+    },
+    {
+      "season": 9,
+      "episode": 23,
+      "title": "The Gentleman and the Thief",
+      "diziid": "slug",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/23/beyefendi_ve_hirsiz"
+    },
+    {
+      "season": 10,
+      "episode": 24,
+      "title": "No Exit",
+      "diziid": "slug",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/24/cikis_yok"
+    },
+    {
+      "season": 11,
+      "episode": 25,
+      "title": "The Hard Part",
+      "diziid": "slug",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/25/zor_bolum"
+    },
+    {
+      "season": 1,
+      "episode": 26,
+      "title": "What Lies Beneath",
+      "diziid": "slug",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/26/altinda_yatan_ne"
+    },
+    {
+      "season": 2,
+      "episode": 27,
+      "title": "The Return",
+      "diziid": "slug",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/27/donus"
+    },
+    {
+      "season": 3,
+      "episode": 28,
+      "title": "Slugball",
+      "diziid": "slug",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/28/sulukball"
+    },
+    {
+      "season": 5,
+      "episode": 29,
+      "title": "Mission: Improbable",
+      "diziid": "slug",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/30/imkansiz_gorev"
+    },
+    {
+      "season": 6,
+      "episode": 30,
+      "title": "Keys to the Kingdom",
+      "diziid": "slug",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/31/kralligin_anahtarlari"
+    },
+    {
+      "season": 7,
+      "episode": 31,
+      "title": "The Thrill of the Game",
+      "diziid": "slug",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/32/oyunun_heyecani"
+    },
+    {
+      "season": 8,
+      "episode": 32,
+      "title": "Lightwell",
+      "diziid": "slug",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/33/isik"
+    },
+    {
+      "season": 9,
+      "episode": 33,
+      "title": "It Comes by Night",
+      "diziid": "slug",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/34/gece_olunca_ortaya_cikar"
+    },
+    {
+      "season": 10,
+      "episode": 34,
+      "title": "Upgrade",
+      "diziid": "slug",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/35/guncelleme"
+    },
+    {
+      "season": 11,
+      "episode": 35,
+      "title": "Back to Blakk",
+      "diziid": "slug",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/36/blakkin_gecmisi"
+    },
+    {
+      "season": 13,
+      "episode": 36,
+      "title": "Dark as Night",
+      "diziid": "slug",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/38/gece_kadar_karanlik"
+    },
+    {
+      "season": 14,
+      "episode": 37,
+      "title": "Light as Day",
+      "diziid": "slug",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/39/gunduz_gibi_aydinlik"
+    },
+    {
+      "season": 1,
+      "episode": 38,
+      "title": "Ghoul from Beyond: Part 1",
+      "diziid": "slug",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/40/dis_dunyadan_gelen_hortlak_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 39,
+      "title": "Ghoul from Beyond: Part 2",
+      "diziid": "slug",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/41/dis_dunyadan_gelen_hortlak_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 40,
+      "title": "Return of the Elementals: Part 1",
+      "diziid": "slug",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/42/elementallerin_donusu_bolum_1"
+    },
+    {
+      "season": 4,
+      "episode": 41,
+      "title": "Return of the Elementals: Part 2",
+      "diziid": "slug",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/43/elementallerin_donusu_bolum_2"
+    },
+    {
+      "season": 5,
+      "episode": 42,
+      "title": "Return of the Elementals: Part 3",
+      "diziid": "slug",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/44/elementallerin_donusu_bolum_3"
+    },
+    {
+      "season": 6,
+      "episode": 43,
+      "title": "Slug Fu Showdown: Part 1",
+      "diziid": "slug",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/45/suluk_fu_egitimi_1.bolum"
+    },
+    {
+      "season": 7,
+      "episode": 44,
+      "title": "Slug Fu Showdown: Part 2",
+      "diziid": "slug",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/slug/slugterra/46/suluk_fu_egitimi_2.bolum"
+    }
+  ]
+}

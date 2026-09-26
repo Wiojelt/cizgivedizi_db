@@ -1,0 +1,76 @@
+{
+  "id": "truemm",
+  "title": "true: mÃ¼thiÅŸ masallar",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TRUEMMPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Grizeldalocks and the Three Yetis",
+      "diziid": "truemm",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/truemm/true%3A_muthis_masallar/1/grizeldalocks_ve_uc_koca_ayak"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Bartleocchio",
+      "diziid": "truemm",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/truemm/true%3A_muthis_masallar/2/tahta_kukla_bartleby"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Fishy Poof Touch",
+      "diziid": "truemm",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/truemm/true%3A_muthis_masallar/3/balikli_puf_dokunusu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Rainbowella",
+      "diziid": "truemm",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/truemm/true%3A_muthis_masallar/4/gokkusagi_kedisi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Red Riding Mila",
+      "diziid": "truemm",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/truemm/true%3A_muthis_masallar/5/kirmizi_baslikli_mila"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Rock Critter Prince",
+      "diziid": "truemm",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/truemm/true%3A_muthis_masallar/6/kaya_prens"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Three Little Yetis",
+      "diziid": "truemm",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/truemm/true%3A_muthis_masallar/7/uc_kucuk_koca_ayak"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Cat and the Poofstalk",
+      "diziid": "truemm",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/truemm/true%3A_muthis_masallar/8/kedi_ve_sihirli_puf_sirigi"
+    }
+  ]
+}

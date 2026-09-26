@@ -1,0 +1,588 @@
+{
+  "id": "kuro",
+  "title": "kuroko'nun basketbolu",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/KUROPoster.avif",
+  "channel": "Spacetoon",
+  "genres": [
+    "Spor"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "I'm Kuroko",
+      "diziid": "kuro",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/1/kustahlik"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "I'm Serious",
+      "diziid": "kuro",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/2/ben_ciddiyim"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "It's Better If I Can't Win",
+      "diziid": "kuro",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/3/kagami_boyle_dusunuyor"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Take Care of the Counterattack!",
+      "diziid": "kuro",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/4/geleneksel_bir_rakip"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Your Basketball",
+      "diziid": "kuro",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/5/kazanmak_ve_kaybetmek_hakkinda"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Let Me Tell You Two Things",
+      "diziid": "kuro",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/6/sana_iki_sey_soyleyecegim"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "You'll See Something Amazing",
+      "diziid": "kuro",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/7/adimi_hatirlayacaksin"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Now That I Think About It",
+      "diziid": "kuro",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/8/odesme"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "To Win",
+      "diziid": "kuro",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/9/bu_bizim_borcumuz"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "I Can't Have That",
+      "diziid": "kuro",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/10/guclu_olan_degil%2C_en_guclu_olan_kazanir"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "That's Not It",
+      "diziid": "kuro",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/11/baska_seviyede_bir_oyuncu"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "What's 'Victory'?",
+      "diziid": "kuro",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/12/kazanmak_nedir"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "I Believed in You",
+      "diziid": "kuro",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/13/sana_guveniyorum"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "You Look Just Like Him",
+      "diziid": "kuro",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/14/isik_golgenin_ikizidir"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Don't Make Me Laugh",
+      "diziid": "kuro",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/15/tepedeki_adam_kendini_yalniz_hissediyor"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Let's Go",
+      "diziid": "kuro",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/16/yol_nedir"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "You're All Ridiculous",
+      "diziid": "kuro",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/17/savas_icinde_savas"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "No!!",
+      "diziid": "kuro",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/18/yenilgi_yeni_bir_zaferin_baslangicidir"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "On to a New Challenge",
+      "diziid": "kuro",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/19/bir_umut_penceresi_olmasa_hayat_ne_kadar_yorucu"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "I Don't Want to Be",
+      "diziid": "kuro",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/20/kuroko_ve_kagami"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Let's Get Started",
+      "diziid": "kuro",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/21/yaratici_kimlik%3A_yeni_bir_stilin_yaratilmasi"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "I'll Win Even If It Kills Me",
+      "diziid": "kuro",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/22/midorima%E2%80%99nin_tavsiyesi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "I'm Not Mature!",
+      "diziid": "kuro",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/23/yazilmakta_olan_bir_hikayeden_satirlar"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Don't Get the Wrong Idea",
+      "diziid": "kuro",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/24/yanlis_anlamayin"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Our Basketball",
+      "diziid": "kuro",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/25/onlari_kisin_gorecegiz"
+    },
+    {
+      "season": 1,
+      "episode": 26,
+      "title": "I Never Thought We'd Meet Here",
+      "diziid": "kuro",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/26/iki_kardes_ve_arkadas"
+    },
+    {
+      "season": 2,
+      "episode": 27,
+      "title": "At The Winter Cup",
+      "diziid": "kuro",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/27/baska_bir_gun_ayarlayalim"
+    },
+    {
+      "season": 3,
+      "episode": 28,
+      "title": "At the Winter Cup",
+      "diziid": "kuro",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/28/kis_kupasina_giden_yol"
+    },
+    {
+      "season": 4,
+      "episode": 29,
+      "title": "There is Only One Answer",
+      "diziid": "kuro",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/29/yine_catistilar"
+    },
+    {
+      "season": 5,
+      "episode": 30,
+      "title": "I've Been Waiting For This",
+      "diziid": "kuro",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/30/takim_icin_oynamak"
+    },
+    {
+      "season": 6,
+      "episode": 31,
+      "title": "I Surpassed You Long Ago",
+      "diziid": "kuro",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/31/golge_kursun"
+    },
+    {
+      "season": 7,
+      "episode": 32,
+      "title": "Give Up",
+      "diziid": "kuro",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/32/gecmisten_bir_sey"
+    },
+    {
+      "season": 8,
+      "episode": 33,
+      "title": "We're the Seirin High School Basketball Team!",
+      "diziid": "kuro",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/33/umut_ne_kadar_aci_olursa_olsun_umutsuzluktan_daha_tatlidir"
+    },
+    {
+      "season": 9,
+      "episode": 34,
+      "title": "I Will Defeat You!",
+      "diziid": "kuro",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/34/bunun_icin_geri_dondum"
+    },
+    {
+      "season": 10,
+      "episode": 35,
+      "title": "It's Trust",
+      "diziid": "kuro",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/35/sinirlenme%21"
+    },
+    {
+      "season": 11,
+      "episode": 36,
+      "title": "Don't Be Ridiculous",
+      "diziid": "kuro",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/36/bir_arkadas_icin_oynamak"
+    },
+    {
+      "season": 12,
+      "episode": 37,
+      "title": "I Look Forward to It",
+      "diziid": "kuro",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/37/sicak_bir_bahar_tatili"
+    },
+    {
+      "season": 13,
+      "episode": 38,
+      "title": "Definitely This Time",
+      "diziid": "kuro",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/38/erken_bir_final"
+    },
+    {
+      "season": 14,
+      "episode": 39,
+      "title": "Useless Effort",
+      "diziid": "kuro",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/39/cabalar_bosa_mi_gitti"
+    },
+    {
+      "season": 16,
+      "episode": 40,
+      "title": "We Win Now!",
+      "diziid": "kuro",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/41/golge_alani"
+    },
+    {
+      "season": 17,
+      "episode": 41,
+      "title": "I Believe in Him",
+      "diziid": "kuro",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/42/alan"
+    },
+    {
+      "season": 19,
+      "episode": 42,
+      "title": "Tell Me",
+      "diziid": "kuro",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/44/siradakileri_dort_gozle_bekliyoruz"
+    },
+    {
+      "season": 20,
+      "episode": 43,
+      "title": "Of Course It's Not Easy",
+      "diziid": "kuro",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/45/zor_bir_rakibi_yenersin_sonra_rehavetin_seni_yener"
+    },
+    {
+      "season": 22,
+      "episode": 44,
+      "title": "It's Obvious",
+      "diziid": "kuro",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/47/firtinanin_kalbindeki_sakinlik"
+    },
+    {
+      "season": 23,
+      "episode": 45,
+      "title": "I Don't Want to Lose",
+      "diziid": "kuro",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/48/gecenin_gunduzle_karsilasmasi_gibi"
+    },
+    {
+      "season": 1,
+      "episode": 46,
+      "title": "I'm Just Going at Full Strength",
+      "diziid": "kuro",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/51/acik_yaralar"
+    },
+    {
+      "season": 2,
+      "episode": 47,
+      "title": "This Is Mine",
+      "diziid": "kuro",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/52/gecmisin_ve_gunumuzun_dusmanlari"
+    },
+    {
+      "season": 3,
+      "episode": 48,
+      "title": "Don't You Get in My Way",
+      "diziid": "kuro",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/53/sakin_yoluma_cikma"
+    },
+    {
+      "season": 4,
+      "episode": 49,
+      "title": "I'll Take This for Now",
+      "diziid": "kuro",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/54/akil_catismasi"
+    },
+    {
+      "season": 5,
+      "episode": 50,
+      "title": "I Know None of That",
+      "diziid": "kuro",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/55/keskin_goz"
+    },
+    {
+      "season": 6,
+      "episode": 51,
+      "title": "I Will Offer Them",
+      "diziid": "kuro",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/56/mucadeleler_ve_zorluklar"
+    },
+    {
+      "season": 7,
+      "episode": 52,
+      "title": "It Makes Me Laugh",
+      "diziid": "kuro",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/57/yarim_dostluk"
+    },
+    {
+      "season": 8,
+      "episode": 53,
+      "title": "True Light",
+      "diziid": "kuro",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/58/ve_gunler_gelecek_seyleri_tasir"
+    },
+    {
+      "season": 9,
+      "episode": 54,
+      "title": "Don't Belittle Us!!",
+      "diziid": "kuro",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/59/guvenligin_bedeli"
+    },
+    {
+      "season": 10,
+      "episode": 55,
+      "title": "In Order to Win",
+      "diziid": "kuro",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/60/caresizler_ve_o_kadar_da_caresiz_olmayanlar"
+    },
+    {
+      "season": 11,
+      "episode": 56,
+      "title": "This Time, for Sure",
+      "diziid": "kuro",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/61/sadece_masallarda_olur"
+    },
+    {
+      "season": 12,
+      "episode": 57,
+      "title": "He Is the Best Player",
+      "diziid": "kuro",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/62/direnislerinin_ve_gozyaslarinin_bilgesi"
+    },
+    {
+      "season": 13,
+      "episode": 58,
+      "title": "A Day with Blue Skies",
+      "diziid": "kuro",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/63/en_basinda"
+    },
+    {
+      "season": 14,
+      "episode": 59,
+      "title": "...Sorry",
+      "diziid": "kuro",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/64/bu_kadar_bos_empati_yeter"
+    },
+    {
+      "season": 15,
+      "episode": 60,
+      "title": "We No Longer",
+      "diziid": "kuro",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/65/arkadassiz_bir_gelecek"
+    },
+    {
+      "season": 16,
+      "episode": 61,
+      "title": "What Is Victory?",
+      "diziid": "kuro",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/66/tek_yol"
+    },
+    {
+      "season": 17,
+      "episode": 62,
+      "title": "Start!!!",
+      "diziid": "kuro",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/67/baslangic"
+    },
+    {
+      "season": 18,
+      "episode": 63,
+      "title": "Isn't It the Best?",
+      "diziid": "kuro",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/68/rahatsizlik"
+    },
+    {
+      "season": 19,
+      "episode": 64,
+      "title": "A Miracle Will Not Happen",
+      "diziid": "kuro",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/69/eksiklik"
+    },
+    {
+      "season": 20,
+      "episode": 65,
+      "title": "Weight of Resolve",
+      "diziid": "kuro",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/70/kararlilik"
+    },
+    {
+      "season": 21,
+      "episode": 66,
+      "title": "In My Own Way, I'm Desperate",
+      "diziid": "kuro",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/71/esitsizlik"
+    },
+    {
+      "season": 22,
+      "episode": 67,
+      "title": "A Warning",
+      "diziid": "kuro",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/72/risk"
+    },
+    {
+      "season": 23,
+      "episode": 68,
+      "title": "Why Don't You Give Up?",
+      "diziid": "kuro",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/73/cokus"
+    },
+    {
+      "season": 24,
+      "episode": 69,
+      "title": "So It Was You",
+      "diziid": "kuro",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/74/umut"
+    },
+    {
+      "season": 25,
+      "episode": 70,
+      "title": "Again and Again",
+      "diziid": "kuro",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/75/zaferinizi_imkansizligin_kiyisindan_alin"
+    },
+    {
+      "season": 1,
+      "episode": 71,
+      "title": "The Greatest Present",
+      "diziid": "kuro",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/75/kurokonun_dogum_gunu"
+    },
+    {
+      "season": 1,
+      "episode": 72,
+      "title": "Tip off",
+      "diziid": "kuro",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/kuro/kurokonun_basketbolu/22/yeni_oyuncu"
+    }
+  ]
+}

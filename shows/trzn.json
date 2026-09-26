@@ -1,0 +1,324 @@
+{
+  "id": "trzn",
+  "title": "tarzan",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TRZNPoster.avif",
+  "channel": "Disney Jr.",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Tarzan and the Race Against Time",
+      "diziid": "trzn",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/1/zamana_karsi_yaris"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Tarzan and the Trading Post",
+      "diziid": "trzn",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/2/takas_dukkani"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Tarzan and the Lost Cub",
+      "diziid": "trzn",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/3/kayip_yavru"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Tarzan and the Lost City of Opar",
+      "diziid": "trzn",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/4/kayip_opar_sehri"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Tarzan and the Fugitives",
+      "diziid": "trzn",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/5/kacaklar"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Tarzan and the Rogue Elephant",
+      "diziid": "trzn",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/6/sahtekar_fil"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Tarzan and the Poisoned River, Part 1",
+      "diziid": "trzn",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/7/zehirli_nehir_bolum_1"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Tarzan and the Poisoned River, Part 2",
+      "diziid": "trzn",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/8/zehirli_nehir_bolum_2"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Tarzan and the Enemy Within",
+      "diziid": "trzn",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/9/icimizdeki_dusman"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Tarzan and the Fountain",
+      "diziid": "trzn",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/10/cesme"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Tarzan and the Hidden World",
+      "diziid": "trzn",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/11/sakli_dunya"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Tarzan and the Rift",
+      "diziid": "trzn",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/12/yarik"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Tarzan and the Giant Beetles",
+      "diziid": "trzn",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/13/dev_bocekler"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Tarzan and the Jungle Madness",
+      "diziid": "trzn",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/14/orman_cilginligi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Tarzan and the Protege",
+      "diziid": "trzn",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/15/himaye"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Tarzan and the Leopard Men Rebellion",
+      "diziid": "trzn",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/16/leopar_adamlarin_isyani"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Tarzan and the Rough Rider",
+      "diziid": "trzn",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/17/eski_baskan_safaride"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Tarzan and the Seeds of Destruction",
+      "diziid": "trzn",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/18/kotulugun_tohumlari"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Tarzan and the Silver Ape",
+      "diziid": "trzn",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/19/sifaci_maymun"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Tarzan and the Challenger",
+      "diziid": "trzn",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/20/meydan_okuma"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Tarzan and the Outbreak",
+      "diziid": "trzn",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/21/salgin"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Tarzan and the Silver Screen",
+      "diziid": "trzn",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/22/film_cekimi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Tarzan and the Beast From Below",
+      "diziid": "trzn",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/23/asagidaki_canavar"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Tarzan and the All-Seeing Elephant",
+      "diziid": "trzn",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/24/fillerin_koruyucusu"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Tarzan and the New Wave",
+      "diziid": "trzn",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/25/yeni_dalga"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Tarzan and the Lost Treasure",
+      "diziid": "trzn",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/26/hazine_arayisi"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Tarzan and the Return of La",
+      "diziid": "trzn",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/27/lanin_donusu"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Tarzan and One Punch Mulligan",
+      "diziid": "trzn",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/28/tek_yumruk_mulligan"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Tarzan and the Missing Link",
+      "diziid": "trzn",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/29/kayip_efsane"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Tarzan and the Prison Break",
+      "diziid": "trzn",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/30/hapis_cezasi"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Tarzan and the Eagle's Feather",
+      "diziid": "trzn",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/31/kartalin_tuyu"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Tarzan and the Face From the Past",
+      "diziid": "trzn",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/32/gecmisten_gelen_biri"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Tarzan and the Caged Fury",
+      "diziid": "trzn",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/33/kafes"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Tarzan and the Gauntlet of Vengeance",
+      "diziid": "trzn",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/34/zorlu_intikam"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Tarzan and the Mysterious Visitor",
+      "diziid": "trzn",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/35/gizemli_ziyaretci"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Tarzan and Tublat's Revenge",
+      "diziid": "trzn",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/36/tublatin_intikami"
+    },
+    {
+      "season": 1,
+      "episode": 37,
+      "title": "Tarzan and the British Invasion",
+      "diziid": "trzn",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/37/janein_arkadaslari"
+    },
+    {
+      "season": 2,
+      "episode": 38,
+      "title": "Tarzan and the Volcanic Diamond Mine",
+      "diziid": "trzn",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/38/volkanik_elmas_madeni"
+    },
+    {
+      "season": 3,
+      "episode": 39,
+      "title": "Tarzan and the Flying Ace",
+      "diziid": "trzn",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/trzn/tarzan/39/ucan_as"
+    }
+  ]
+}

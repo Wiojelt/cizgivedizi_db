@@ -1,0 +1,189 @@
+{
+  "id": "pixar",
+  "title": "pixar kÄ±salarÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/PIXARKPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Macera",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Adventures of AndrÃ© and Wally B.",
+      "diziid": "pixar",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/1/andre_ve_wally_bnin_maceralari"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Luxo Jr.",
+      "diziid": "pixar",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/2/luxo_jr."
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Red's Dream",
+      "diziid": "pixar",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/3/redin_hayali"
+    },
+    {
+      "season": 5,
+      "episode": 4,
+      "title": "Knick Knack",
+      "diziid": "pixar",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/5/kacis_plani"
+    },
+    {
+      "season": 6,
+      "episode": 5,
+      "title": "Geri's Game",
+      "diziid": "pixar",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/6/gerinin_oyunu"
+    },
+    {
+      "season": 9,
+      "episode": 6,
+      "title": "Boundin'",
+      "diziid": "pixar",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/9/haydi_zipla%21"
+    },
+    {
+      "season": 11,
+      "episode": 7,
+      "title": "Jack-Jack Attack",
+      "diziid": "pixar",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/11/jack_jack_saldirisi"
+    },
+    {
+      "season": 13,
+      "episode": 8,
+      "title": "One Man Band",
+      "diziid": "pixar",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/13/tek_kisilik_orkestra"
+    },
+    {
+      "season": 14,
+      "episode": 9,
+      "title": "Mater and the Ghostlight",
+      "diziid": "pixar",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/14/mater_ve_hayalet_isik"
+    },
+    {
+      "season": 15,
+      "episode": 10,
+      "title": "Lifted",
+      "diziid": "pixar",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/15/degerli"
+    },
+    {
+      "season": 16,
+      "episode": 11,
+      "title": "Your Friend the Rat",
+      "diziid": "pixar",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/16/arkadasiniz_fare"
+    },
+    {
+      "season": 17,
+      "episode": 12,
+      "title": "Presto",
+      "diziid": "pixar",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/17/presto"
+    },
+    {
+      "season": 20,
+      "episode": 13,
+      "title": "Dug's Special Mission",
+      "diziid": "pixar",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/20/dugin_ozel_gorevi"
+    },
+    {
+      "season": 21,
+      "episode": 14,
+      "title": "George & A.J.",
+      "diziid": "pixar",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/21/george_%26_a.j."
+    },
+    {
+      "season": 22,
+      "episode": 15,
+      "title": "Day & Night",
+      "diziid": "pixar",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/22/gunduz_ve_gece"
+    },
+    {
+      "season": 24,
+      "episode": 16,
+      "title": "The Legend of Mor'du",
+      "diziid": "pixar",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/24/mordu_efsanesi"
+    },
+    {
+      "season": 25,
+      "episode": 17,
+      "title": "Party Central",
+      "diziid": "pixar",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/25/parti_merkezi"
+    },
+    {
+      "season": 28,
+      "episode": 18,
+      "title": "Riley's First Date?",
+      "diziid": "pixar",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/28/rileynin_ilk_bulusmasi"
+    },
+    {
+      "season": 35,
+      "episode": 19,
+      "title": "Bao",
+      "diziid": "pixar",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/35/bao"
+    },
+    {
+      "season": 36,
+      "episode": 20,
+      "title": "Auntie Edna",
+      "diziid": "pixar",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/36/edna_hala"
+    },
+    {
+      "season": 38,
+      "episode": 21,
+      "title": "22 vs. Earth",
+      "diziid": "pixar",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/38/22%2C_dunyaya_karsi"
+    },
+    {
+      "season": 39,
+      "episode": 22,
+      "title": "Ciao Alberto",
+      "diziid": "pixar",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/pixar/pixar_kisalari/39/sevgiler%2C_alberto"
+    }
+  ]
+}

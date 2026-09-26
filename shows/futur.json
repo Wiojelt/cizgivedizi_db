@@ -1,0 +1,349 @@
+{
+  "id": "futur",
+  "title": "futurama",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/FUTURPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Bilim Kurgu",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Space Pilot 3000",
+      "diziid": "futur",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/1/uzay_pilotu_3000"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Series Has Landed",
+      "diziid": "futur",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/2/bolumler_indi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "I, Roommate",
+      "diziid": "futur",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/3/oda_arkadasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Love's Labors Lost in Space",
+      "diziid": "futur",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/4/ask_uzayda_kayip_bir_emektir"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Fear of a Bot Planet",
+      "diziid": "futur",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/5/bot_gezegeni_korkusu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "A Fishful of Dollars",
+      "diziid": "futur",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/6/balik_yukuyle_dolar"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "My Three Suns",
+      "diziid": "futur",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/7/benim_uc_gunesim"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "A Big Piece of Garbage",
+      "diziid": "futur",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/8/kocaman_cop_yigini"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Hell Is Other Robots",
+      "diziid": "futur",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/9/cehennem_diger_robotlardir"
+    },
+    {
+      "season": 1,
+      "episode": 10,
+      "title": "A Flight to Remember",
+      "diziid": "futur",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/10/unutulmayacak_bir_ucus"
+    },
+    {
+      "season": 2,
+      "episode": 11,
+      "title": "Mars University",
+      "diziid": "futur",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/11/mars_universitesi"
+    },
+    {
+      "season": 3,
+      "episode": 12,
+      "title": "When Aliens Attack",
+      "diziid": "futur",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/12/uzaylilar_saldirinca"
+    },
+    {
+      "season": 1,
+      "episode": 13,
+      "title": "The Impossible Stream",
+      "diziid": "futur",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/141/imkansiz_akinti"
+    },
+    {
+      "season": 2,
+      "episode": 14,
+      "title": "Children of a Lesser Bog",
+      "diziid": "futur",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/142/kucuk_batakligin_cocuklari"
+    },
+    {
+      "season": 3,
+      "episode": 15,
+      "title": "How the West Was 1010001",
+      "diziid": "futur",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/143/bati_nasil_1010001di"
+    },
+    {
+      "season": 4,
+      "episode": 16,
+      "title": "Parasites Regained",
+      "diziid": "futur",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/144/parazitler_geri_ele_gecirildi"
+    },
+    {
+      "season": 5,
+      "episode": 17,
+      "title": "Related to Items You've Viewed",
+      "diziid": "futur",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/145/goruntulediginiz_ogelerle_ilgili"
+    },
+    {
+      "season": 6,
+      "episode": 18,
+      "title": "I Know What You Did Next Xmas",
+      "diziid": "futur",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/146/gelecek_noel_ne_yaptigini_biliyorum"
+    },
+    {
+      "season": 7,
+      "episode": 19,
+      "title": "Rage Against the Vaccine",
+      "diziid": "futur",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/147/asiya_karsi_ofke"
+    },
+    {
+      "season": 8,
+      "episode": 20,
+      "title": "Zapp Gets Canceled",
+      "diziid": "futur",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/148/zapp_devredisi"
+    },
+    {
+      "season": 9,
+      "episode": 21,
+      "title": "The Prince and the Product",
+      "diziid": "futur",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/149/prens_ve_urun"
+    },
+    {
+      "season": 10,
+      "episode": 22,
+      "title": "All the Way Down",
+      "diziid": "futur",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/150/yolun_sonuna_kadar"
+    },
+    {
+      "season": 1,
+      "episode": 23,
+      "title": "The One Amigo",
+      "diziid": "futur",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/151/bir_amigo"
+    },
+    {
+      "season": 2,
+      "episode": 24,
+      "title": "Quids Game",
+      "diziid": "futur",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/152/olumcul_oyun"
+    },
+    {
+      "season": 3,
+      "episode": 25,
+      "title": "The Temp",
+      "diziid": "futur",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/153/gecici"
+    },
+    {
+      "season": 4,
+      "episode": 26,
+      "title": "Beauty and the Bug",
+      "diziid": "futur",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/154/guzel_ve_bocek"
+    },
+    {
+      "season": 5,
+      "episode": 27,
+      "title": "One Is Silicon and the Other Gold",
+      "diziid": "futur",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/155/biri_silikon%2C_digeri_altin"
+    },
+    {
+      "season": 6,
+      "episode": 28,
+      "title": "Attack of the Clothes",
+      "diziid": "futur",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/156/kiyafetlerin_saldirisi"
+    },
+    {
+      "season": 7,
+      "episode": 29,
+      "title": "Planet Espresso",
+      "diziid": "futur",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/157/espresso_gezegeni"
+    },
+    {
+      "season": 8,
+      "episode": 30,
+      "title": "Cuteness Overlord",
+      "diziid": "futur",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/158/asiri_sirinlik_yuklemesi"
+    },
+    {
+      "season": 9,
+      "episode": 31,
+      "title": "The Futurama Mystery Liberry",
+      "diziid": "futur",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/159/futurama_gizem_kutuphanesi"
+    },
+    {
+      "season": 10,
+      "episode": 32,
+      "title": "Otherwise",
+      "diziid": "futur",
+      "bolum": "160",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/160/aksi_takdirde"
+    },
+    {
+      "season": 1,
+      "episode": 33,
+      "title": "Destroy Tall Monsters",
+      "diziid": "futur",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/161/uzun_canavarlari_yok_edin"
+    },
+    {
+      "season": 2,
+      "episode": 34,
+      "title": "The World is Hot Enough",
+      "diziid": "futur",
+      "bolum": "162",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/162/dunya_yeterince_sicak"
+    },
+    {
+      "season": 3,
+      "episode": 35,
+      "title": "Fifty Shades of Green",
+      "diziid": "futur",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/163/yesilin_elli_tonu"
+    },
+    {
+      "season": 4,
+      "episode": 36,
+      "title": "The Numberland Gap",
+      "diziid": "futur",
+      "bolum": "164",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/164/sayilar_diyari"
+    },
+    {
+      "season": 5,
+      "episode": 37,
+      "title": "Scared Screenless",
+      "diziid": "futur",
+      "bolum": "165",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/165/ekransizlik_korkusu"
+    },
+    {
+      "season": 6,
+      "episode": 38,
+      "title": "Wicked Human",
+      "diziid": "futur",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/166/kotu_insan"
+    },
+    {
+      "season": 7,
+      "episode": 39,
+      "title": "Murderoni",
+      "diziid": "futur",
+      "bolum": "167",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/167/cinayet_pizzasi"
+    },
+    {
+      "season": 8,
+      "episode": 40,
+      "title": "Crab Splatter",
+      "diziid": "futur",
+      "bolum": "168",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/168/yengec_ezmesi"
+    },
+    {
+      "season": 9,
+      "episode": 41,
+      "title": "The Trouble with Truffles",
+      "diziid": "futur",
+      "bolum": "169",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/169/truf_sorunu"
+    },
+    {
+      "season": 10,
+      "episode": 42,
+      "title": "The White Hole",
+      "diziid": "futur",
+      "bolum": "170",
+      "url": "https://cizgivedizi.com/dizi/futur/futurama/170/ak_delik"
+    }
+  ]
+}

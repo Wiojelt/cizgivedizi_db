@@ -1,0 +1,332 @@
+{
+  "id": "kucho",
+  "title": "kucho: sÃ¼per sÄ±radan kÃ¶pek",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KUCHOPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "SÃ¼per SÄ±radan KÃ¶pek",
+      "diziid": "kucho",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/1/super_siradan_kopek"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Rap Ä°Ã§in KoÅŸ",
+      "diziid": "kucho",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/2/rap_icin_kos"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Naber Kuzen?",
+      "diziid": "kucho",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/3/naber_kuzen"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "KÃ¼mesten Gelen TÄ±kÄ±rtÄ±",
+      "diziid": "kucho",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/4/kumesten_gelen_tikirti"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "KayÄ±p Ä°dol",
+      "diziid": "kucho",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/5/kayip_idol"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Kargi'nin DoÄŸum GÃ¼nÃ¼",
+      "diziid": "kucho",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/6/karginin_dogum_gunu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Evine HoÅŸ Geldin AmansÄ±z Kont",
+      "diziid": "kucho",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/7/evine_hos_geldin_amansiz_kont"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Merhaba UzaylÄ±",
+      "diziid": "kucho",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/8/merhaba_uzayli"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Yapar Zeka",
+      "diziid": "kucho",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/9/yapar_zeka"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "KuÅŸlar Vadisi",
+      "diziid": "kucho",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/10/kuslar_vadisi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "HafÄ±za SarayÄ±",
+      "diziid": "kucho",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/11/hafiza_sarayi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "SÃ¼per Babaanne",
+      "diziid": "kucho",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/12/super_babaanne"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Festival ZamanÄ±",
+      "diziid": "kucho",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/13/festival_zamani"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Seni KÃ¶tÃ¼ Horoz",
+      "diziid": "kucho",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/14/seni_kotu_horoz"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Ving Vong",
+      "diziid": "kucho",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/15/ving_vong"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "SÄ±rnaÅŸÄ±k SarmaÅŸÄ±k",
+      "diziid": "kucho",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/16/sirnasik_sarmasik"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Paralel Mahalle",
+      "diziid": "kucho",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/17/paralel_mahalle"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "GÃ¶rÃ¼nmez GÃ¶ktaÅŸÄ±",
+      "diziid": "kucho",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/18/gorunmez_goktasi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Patim Kontrolden Ã‡Ä±ktÄ±",
+      "diziid": "kucho",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/19/patim_kontrolden_cikti"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Kamera ArkasÄ±",
+      "diziid": "kucho",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/20/kamera_arkasi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Karga Tulumba Operasyonu",
+      "diziid": "kucho",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/21/karga_tulumba_operasyonu"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Fil Hakika",
+      "diziid": "kucho",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/22/fil_hakika"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "KayÄ±p Åehir",
+      "diziid": "kucho",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/23/kayip_sehir"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "PÄ±rtÄ±k",
+      "diziid": "kucho",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/24/pirtik"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Ã‡izgirik",
+      "diziid": "kucho",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/25/cizgirik"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Rengarenk",
+      "diziid": "kucho",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/26/rengarenk"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Korsan Korsy",
+      "diziid": "kucho",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/27/korsan_korsy"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Kahraman KÃ¶pek",
+      "diziid": "kucho",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/28/kahraman_kopek"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Kofi KonuÅŸursa",
+      "diziid": "kucho",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/29/kofi_konusursa"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "KÃ¼s Lemurlar",
+      "diziid": "kucho",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/30/kus_lemurlar"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Mahalle MaÃ§Ä±",
+      "diziid": "kucho",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/31/mahalle_maci"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "SÃ¼per SÄ±radan AraÃ§",
+      "diziid": "kucho",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/32/super_siradan_arac"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "AkÄ±l KÃ¼pÃ¼",
+      "diziid": "kucho",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/33/akil_kupu"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Sezar'Ä±n HakkÄ±",
+      "diziid": "kucho",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/34/sezarin_hakki"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Prensesi Kurtarmak",
+      "diziid": "kucho",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/35/prensesi_kurtarmak"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Dubaili Kucho",
+      "diziid": "kucho",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/36/dubaili_kucho"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Patlat Bir HapÅŸu",
+      "diziid": "kucho",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/37/patlat_bir_hapsu"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Åerif Kucho",
+      "diziid": "kucho",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/38/serif_kucho"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Do Re Mi OrmanÄ±",
+      "diziid": "kucho",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/39/do_re_mi_ormani"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Kucho'nun DoÄŸum GÃ¼nÃ¼",
+      "diziid": "kucho",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/kucho/kucho%3A_super_siradan_kopek/40/kuchonun_dogum_gunu"
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "id": "karku",
+  "title": "karateci kuzu",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KARKUPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Wanda's Apprentice",
+      "diziid": "karku",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/1/wandanin_ciragi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Top Dog!",
+      "diziid": "karku",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/2/en_iyi_kopek%21"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Red Card for Wanda",
+      "diziid": "karku",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/3/wandaya_kirmizi_kart"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Robot Mower Rampage",
+      "diziid": "karku",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/4/robot_cim_bicme_makinesi_saldirisi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Wonder Wanda",
+      "diziid": "karku",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/5/super_wanda"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Trico's Magic Show",
+      "diziid": "karku",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/6/triconun_sihirbazlik_gosterisi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Thingy",
+      "diziid": "karku",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/7/zamazingo"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Smells Like Trouble",
+      "diziid": "karku",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/8/belali_koku"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Bad Teacher",
+      "diziid": "karku",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/9/kotu_ogretmen"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Wannabe Hero",
+      "diziid": "karku",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/10/ozenti_kahraman"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Mirror, Mirror Who's the Strongest?",
+      "diziid": "karku",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/11/ayna_ayna_soyle_bana_en_guclu_kim_bu_dunyada"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Sheep in Wolf's Clothing",
+      "diziid": "karku",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/12/kurt_gorunumlu_kuzu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Trico's Fake Hair",
+      "diziid": "karku",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/13/triconun_perugu"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Sheepdog Wanted",
+      "diziid": "karku",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/14/coban_kopegi_araniyor"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Driving Sheep",
+      "diziid": "karku",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/15/araba_suren_koyunlar"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Whoopsie Whoopee Cushion",
+      "diziid": "karku",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/16/saka_yastigi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Lost in the Forest",
+      "diziid": "karku",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/17/ormanda_kaybolanlar"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Bye-Bye Wolf",
+      "diziid": "karku",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/18/hosca_kal_kurt"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Track and Field",
+      "diziid": "karku",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/19/atletizm_yarismasi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Puppy Troubles",
+      "diziid": "karku",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/20/sorunlu_kopek"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Fancy New Toy",
+      "diziid": "karku",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/21/havali_yeni_oyuncak"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "False Alarm",
+      "diziid": "karku",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/22/bozuk_alarm"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Workout Battle",
+      "diziid": "karku",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/23/spor_kapismasi"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Collateral Damage",
+      "diziid": "karku",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/24/zayiat"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Wolf's Airwalkers",
+      "diziid": "karku",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/25/kurt_ayakkabilari"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Thanks, But No Fangs",
+      "diziid": "karku",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/26/kopek_disleri"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "I've Got Your Back",
+      "diziid": "karku",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/27/sirtini_dert_etme"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "What's the Time, Mr. Wolf?",
+      "diziid": "karku",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/28/saat_kac_bay_kurt"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Boxing Ring Hero",
+      "diziid": "karku",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/29/boks_ringi_kahramani"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Tickle Tickle",
+      "diziid": "karku",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/30/gidiklama"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Swing Time",
+      "diziid": "karku",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/31/salincak_zamani"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Prickly Present",
+      "diziid": "karku",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/32/dikenli_hediye"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Swat Team",
+      "diziid": "karku",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/33/sinek_pesinde"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Rest Room",
+      "diziid": "karku",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/34/tuvalet"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Whistlemania",
+      "diziid": "karku",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/35/islik_cilginligi"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Wolf's Love Story",
+      "diziid": "karku",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/36/kurtun_ask_oykusu"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Relax, Wanda!",
+      "diziid": "karku",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/37/rahatla%2C_wanda%21"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Fair Share",
+      "diziid": "karku",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/38/adil_paylasim"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Bubble Party",
+      "diziid": "karku",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/39/kopuk_partisi"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "Trico's Treats",
+      "diziid": "karku",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/40/triconun_atistirmaliklari"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "Spring Forks",
+      "diziid": "karku",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/41/elektrikli_supurge_cilginligi"
+    },
+    {
+      "season": 3,
+      "episode": 42,
+      "title": "A Screw Loose",
+      "diziid": "karku",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/42/dev_kurtcuk"
+    },
+    {
+      "season": 4,
+      "episode": 43,
+      "title": "Spring Forks",
+      "diziid": "karku",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/43/yayli_catallar"
+    },
+    {
+      "season": 5,
+      "episode": 44,
+      "title": "New Friend",
+      "diziid": "karku",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/44/karate_eriste"
+    },
+    {
+      "season": 6,
+      "episode": 45,
+      "title": "Trampoline Competition",
+      "diziid": "karku",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/45/kaygan_zemin"
+    },
+    {
+      "season": 7,
+      "episode": 46,
+      "title": "Charge!",
+      "diziid": "karku",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/46/gevsek_vidalar"
+    },
+    {
+      "season": 8,
+      "episode": 47,
+      "title": "Best Dad",
+      "diziid": "karku",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/47/en_iyi_baba"
+    },
+    {
+      "season": 9,
+      "episode": 48,
+      "title": "The Photoshoot",
+      "diziid": "karku",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/48/fotograf_cekimi"
+    },
+    {
+      "season": 10,
+      "episode": 49,
+      "title": "Knock, Knock...",
+      "diziid": "karku",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/49/sicak_hava_dalgasi"
+    },
+    {
+      "season": 11,
+      "episode": 50,
+      "title": "Dances with Wolf",
+      "diziid": "karku",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/50/dedektif_trico"
+    },
+    {
+      "season": 12,
+      "episode": 51,
+      "title": "The Call of The Sea",
+      "diziid": "karku",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/51/sorfcu"
+    },
+    {
+      "season": 13,
+      "episode": 52,
+      "title": "New Friend",
+      "diziid": "karku",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/52/yeni_arkadas"
+    },
+    {
+      "season": 14,
+      "episode": 53,
+      "title": "Thanks For The Melodies",
+      "diziid": "karku",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/53/melodiler_icin_tesekkurler"
+    },
+    {
+      "season": 15,
+      "episode": 54,
+      "title": "Brave New World",
+      "diziid": "karku",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/54/cesur_yeni_dunya"
+    },
+    {
+      "season": 16,
+      "episode": 55,
+      "title": "Trampoline Competition",
+      "diziid": "karku",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/55/trambolin_yarismasi"
+    },
+    {
+      "season": 17,
+      "episode": 56,
+      "title": "Mr. Sock",
+      "diziid": "karku",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/56/bay_corap"
+    },
+    {
+      "season": 18,
+      "episode": 57,
+      "title": "Wolf's Exam",
+      "diziid": "karku",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/57/kurtun_sinavi"
+    },
+    {
+      "season": 19,
+      "episode": 58,
+      "title": "Charge!",
+      "diziid": "karku",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/58/sarj%21"
+    },
+    {
+      "season": 20,
+      "episode": 59,
+      "title": "Wolf Junior",
+      "diziid": "karku",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/59/kucuk_kurt"
+    },
+    {
+      "season": 21,
+      "episode": 60,
+      "title": "Wolf Tracks",
+      "diziid": "karku",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/60/kurt_takibi"
+    },
+    {
+      "season": 22,
+      "episode": 61,
+      "title": "A Sticky Situation",
+      "diziid": "karku",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/61/yapis_yapis_bir_durum"
+    },
+    {
+      "season": 23,
+      "episode": 62,
+      "title": "The Look of Love",
+      "diziid": "karku",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/62/kalpli_balonlar"
+    },
+    {
+      "season": 24,
+      "episode": 63,
+      "title": "Getting Old!",
+      "diziid": "karku",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/63/ihtiyarlik%21"
+    },
+    {
+      "season": 25,
+      "episode": 64,
+      "title": "Scratchy Wool",
+      "diziid": "karku",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/64/kasinti"
+    },
+    {
+      "season": 26,
+      "episode": 65,
+      "title": "Wolf in Unicorn's Cloting",
+      "diziid": "karku",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/65/tek_boynuzlu_at_kiligindaki_kurt"
+    },
+    {
+      "season": 27,
+      "episode": 66,
+      "title": "Keep Off the Grass",
+      "diziid": "karku",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/66/cimlere_basmayin"
+    },
+    {
+      "season": 28,
+      "episode": 67,
+      "title": "Knock, Knock...",
+      "diziid": "karku",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/67/tik%2C_tik%E2%80%A6"
+    },
+    {
+      "season": 29,
+      "episode": 68,
+      "title": "Trico, Where Are You?",
+      "diziid": "karku",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/68/neredesin_trico"
+    },
+    {
+      "season": 30,
+      "episode": 69,
+      "title": "A Puzzling Game",
+      "diziid": "karku",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/69/yapboz"
+    },
+    {
+      "season": 31,
+      "episode": 70,
+      "title": "Dances With Wolf",
+      "diziid": "karku",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/70/kurtla_dans"
+    },
+    {
+      "season": 32,
+      "episode": 71,
+      "title": "Playing with Pacifier",
+      "diziid": "karku",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/71/emzik"
+    },
+    {
+      "season": 33,
+      "episode": 72,
+      "title": "Mindful Treasure Hunt",
+      "diziid": "karku",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/72/bilincli_define_avi"
+    },
+    {
+      "season": 34,
+      "episode": 73,
+      "title": "The Call of the Sea",
+      "diziid": "karku",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/73/denizin_cagrisi"
+    },
+    {
+      "season": 35,
+      "episode": 74,
+      "title": "Draw Me a Sheep",
+      "diziid": "karku",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/74/bana_bir_kuzu_ciz"
+    },
+    {
+      "season": 36,
+      "episode": 75,
+      "title": "Best Arm-Wrestler",
+      "diziid": "karku",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/75/en_iyi_bilek_gurescisi"
+    },
+    {
+      "season": 37,
+      "episode": 76,
+      "title": "Stronger Together",
+      "diziid": "karku",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/76/birlikte_daha_gucluyuz"
+    },
+    {
+      "season": 38,
+      "episode": 77,
+      "title": "Reward Points",
+      "diziid": "karku",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/77/odul_puanlari"
+    },
+    {
+      "season": 39,
+      "episode": 78,
+      "title": "Animal Tracks",
+      "diziid": "karku",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/karku/karateci_kuzu/78/hayvan_sesleri"
+    }
+  ]
+}

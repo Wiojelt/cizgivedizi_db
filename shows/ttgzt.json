@@ -1,0 +1,52 @@
+{
+  "id": "ttgzt",
+  "title": "teen titans go!: zirvedeki titanlar",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TTGZTPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "MÃ¼zik/MÃ¼zikal"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Top of the Titans: Raddest Songs",
+      "diziid": "ttgzt",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ttgzt/teen_titans_go%21%3A_zirvedeki_titanlar/1/en_saglam_sarkilar"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Top of the Titans: Best Love Songs",
+      "diziid": "ttgzt",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ttgzt/teen_titans_go%21%3A_zirvedeki_titanlar/2/en_iyi_ask_sarkilari"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Top of the Titans: Beast Boy & Cyborg Songs",
+      "diziid": "ttgzt",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ttgzt/teen_titans_go%21%3A_zirvedeki_titanlar/3/beast_boy_ve_cyborgun_sarkilari"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Top of the Titans: Dance Party",
+      "diziid": "ttgzt",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ttgzt/teen_titans_go%21%3A_zirvedeki_titanlar/4/en_iyi_dans_sarkilari"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Top of the Titans: Best Rivals",
+      "diziid": "ttgzt",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ttgzt/teen_titans_go%21%3A_zirvedeki_titanlar/5/en_iyi_rakipler"
+    }
+  ]
+}

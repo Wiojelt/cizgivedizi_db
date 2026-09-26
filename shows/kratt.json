@@ -1,0 +1,526 @@
+{
+  "id": "kratt",
+  "title": "kratt kardeÅŸler",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KRATTPoster.avif",
+  "channel": "Da Vinci",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici",
+    "DoÄŸa ve Hayvanlar",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Mom of a Croc",
+      "diziid": "kratt",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/1/timsahin_annesi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Whale of a Squid",
+      "diziid": "kratt",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/2/balina_gibi_murekkep_baligi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Aardvark Town",
+      "diziid": "kratt",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/3/karincayiyen_sehri"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Flight of the Draco",
+      "diziid": "kratt",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/4/ucan_kertenkele"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Mystery of the Squirmy Wormy",
+      "diziid": "kratt",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/5/kivrilan_solucanin_gizemi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Platypus Cafe",
+      "diziid": "kratt",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/6/ornitorenk_kafe"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Polar Bears Don't Dance",
+      "diziid": "kratt",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/7/kutup_ayilari_dans_etmez"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Build It Beaver",
+      "diziid": "kratt",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/8/insaatci_kunduz"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Voyage of the Butterflier XT",
+      "diziid": "kratt",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/9/kelebek_aracinin_yolculugu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Honey Seekers",
+      "diziid": "kratt",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/10/bal_avcilari"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Bass Class",
+      "diziid": "kratt",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/11/levrek_odulu"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Fireflies",
+      "diziid": "kratt",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/12/ates_bocekleri"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Mystery of the Weird Looking Walrus",
+      "diziid": "kratt",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/13/garip_gorunuslu_deniz_ayisinin_gizemi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Tazzy Chris",
+      "diziid": "kratt",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/14/tazmanya_chris"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Walk on the Wetside",
+      "diziid": "kratt",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/16/islak_diyarda_yurumek"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "Elephant in the Room",
+      "diziid": "kratt",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/17/odadaki_fil"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "Let the Rhinos Roll!",
+      "diziid": "kratt",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/18/gergedanlar_yuvarlansin%21"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "Kickin' It with the Roos",
+      "diziid": "kratt",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/19/kangurularla_boks"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "The Blue and the Gray",
+      "diziid": "kratt",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/20/mavi_ve_yesil"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "Falcon City",
+      "diziid": "kratt",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/21/sahin_sehri"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "Koala Balloon",
+      "diziid": "kratt",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/22/balonlu_koala"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "Cheetah Racer",
+      "diziid": "kratt",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/23/yarisci_cita"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "Stuck on Sharks",
+      "diziid": "kratt",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/24/kopek_baliklarinin_ustunde"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "Mimic",
+      "diziid": "kratt",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/25/taklit"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "Little Howler",
+      "diziid": "kratt",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/26/uluyan_ufaklik"
+    },
+    {
+      "season": 27,
+      "episode": 26,
+      "title": "Raptor Round-Up",
+      "diziid": "kratt",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/27/etcil_kus_toplantisi"
+    },
+    {
+      "season": 28,
+      "episode": 27,
+      "title": "A Bat in the Brownies",
+      "diziid": "kratt",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/28/kakaolu_kekteki_yarasa"
+    },
+    {
+      "season": 30,
+      "episode": 28,
+      "title": "Ker-honk",
+      "diziid": "kratt",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/30/burun_kornasi"
+    },
+    {
+      "season": 31,
+      "episode": 29,
+      "title": "The Food Chain Game",
+      "diziid": "kratt",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/31/besin_zinciri_oyunu"
+    },
+    {
+      "season": 32,
+      "episode": 30,
+      "title": "Flight of the Pollinators",
+      "diziid": "kratt",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/32/polen_tasiyicilarinin_yolculugu"
+    },
+    {
+      "season": 33,
+      "episode": 31,
+      "title": "Caracal-Minton",
+      "diziid": "kratt",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/33/karakulak_topu"
+    },
+    {
+      "season": 34,
+      "episode": 32,
+      "title": "Zig-Zagged",
+      "diziid": "kratt",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/34/zikzakli"
+    },
+    {
+      "season": 35,
+      "episode": 33,
+      "title": "A Huge Orange Problem",
+      "diziid": "kratt",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/35/buyuk_portakal_sorunu"
+    },
+    {
+      "season": 36,
+      "episode": 34,
+      "title": "Birds of a Feather",
+      "diziid": "kratt",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/36/renkli_kuslar"
+    },
+    {
+      "season": 37,
+      "episode": 35,
+      "title": "Seasquatch",
+      "diziid": "kratt",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/37/tuylu_yengec"
+    },
+    {
+      "season": 38,
+      "episode": 36,
+      "title": "The Gecko Effect",
+      "diziid": "kratt",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/38/gecko_etkisi"
+    },
+    {
+      "season": 39,
+      "episode": 37,
+      "title": "Googly-Eye: The Night Guru",
+      "diziid": "kratt",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/39/portlek_goz%3A_gecenin_efendisi"
+    },
+    {
+      "season": 40,
+      "episode": 38,
+      "title": "Quillber's Birthday Present",
+      "diziid": "kratt",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/40/dikenlinin_dogum_gunu_hediyesi"
+    },
+    {
+      "season": 1,
+      "episode": 39,
+      "title": "Bad Hair Day",
+      "diziid": "kratt",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/41/degisik_sac_modeli"
+    },
+    {
+      "season": 2,
+      "episode": 40,
+      "title": "Race for the Hippo Disc",
+      "diziid": "kratt",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/42/su_aygiri_diski_yarismasi"
+    },
+    {
+      "season": 3,
+      "episode": 41,
+      "title": "Creature Power Challenge",
+      "diziid": "kratt",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/43/donusum_gezisi_yarisi"
+    },
+    {
+      "season": 4,
+      "episode": 42,
+      "title": "Termites Versus Tongues",
+      "diziid": "kratt",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/44/termitler_dillere_karsi"
+    },
+    {
+      "season": 5,
+      "episode": 43,
+      "title": "Secrets of the Spider's Web",
+      "diziid": "kratt",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/45/orumcek_aginin_sirlari"
+    },
+    {
+      "season": 6,
+      "episode": 44,
+      "title": "Happy Turkey Day",
+      "diziid": "kratt",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/46/buyuk_ziyafet"
+    },
+    {
+      "season": 7,
+      "episode": 45,
+      "title": "Neck and Neck",
+      "diziid": "kratt",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/47/boyun_boyuna"
+    },
+    {
+      "season": 8,
+      "episode": 46,
+      "title": "Speaking Dolphinese",
+      "diziid": "kratt",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/48/yunus_dili_konusuyoruz"
+    },
+    {
+      "season": 9,
+      "episode": 47,
+      "title": "Blowfish Blowout",
+      "diziid": "kratt",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/49/kirpi_baligi_eglencesi"
+    },
+    {
+      "season": 10,
+      "episode": 48,
+      "title": "Snow Runners",
+      "diziid": "kratt",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/50/karda_kosmak"
+    },
+    {
+      "season": 11,
+      "episode": 49,
+      "title": "Bugs Or Monkeys?",
+      "diziid": "kratt",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/51/bocek_mi_maymun_mu"
+    },
+    {
+      "season": 12,
+      "episode": 50,
+      "title": "Shadow: The Black Jaguar",
+      "diziid": "kratt",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/52/siyah_jaguar%2C_golge"
+    },
+    {
+      "season": 13,
+      "episode": 51,
+      "title": "Rainforest Stew",
+      "diziid": "kratt",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/53/yagmur_ormanlari_yahnisi"
+    },
+    {
+      "season": 14,
+      "episode": 52,
+      "title": "Attack of the Tree Eating Aliens",
+      "diziid": "kratt",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/54/agac_yiyen_canavarlarin_saldirisi"
+    },
+    {
+      "season": 15,
+      "episode": 53,
+      "title": "To Touch a Hummingbird",
+      "diziid": "kratt",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/55/bir_sinek_kusuna_dokunmak"
+    },
+    {
+      "season": 16,
+      "episode": 54,
+      "title": "Rattlesnake Crystal",
+      "diziid": "kratt",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/56/cingirakli_yilanlar_ve_kristaller"
+    },
+    {
+      "season": 17,
+      "episode": 55,
+      "title": "Gila Monster Under My House",
+      "diziid": "kratt",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/57/evimin_altindaki_gila_canavari"
+    },
+    {
+      "season": 18,
+      "episode": 56,
+      "title": "Tortuga Tune-Up",
+      "diziid": "kratt",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/58/tortugayi_degistirmek"
+    },
+    {
+      "season": 19,
+      "episode": 57,
+      "title": "Road Runner",
+      "diziid": "kratt",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/59/roadrunner"
+    },
+    {
+      "season": 20,
+      "episode": 58,
+      "title": "Skunked!",
+      "diziid": "kratt",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/60/kokarca%21"
+    },
+    {
+      "season": 21,
+      "episode": 59,
+      "title": "Seahorse Rodeo",
+      "diziid": "kratt",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/61/denizati_rodeosu"
+    },
+    {
+      "season": 22,
+      "episode": 60,
+      "title": "Aqua Frog",
+      "diziid": "kratt",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/62/su_kurbagasi"
+    },
+    {
+      "season": 23,
+      "episode": 61,
+      "title": "Rocket Jaw: Rescuer of the Reef",
+      "diziid": "kratt",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/63/mercanlarin_kurtaricisi_roket_cene"
+    },
+    {
+      "season": 24,
+      "episode": 62,
+      "title": "Desert Elves",
+      "diziid": "kratt",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/64/col_baykuslari"
+    },
+    {
+      "season": 25,
+      "episode": 63,
+      "title": "Journey to the Subnivean Zone",
+      "diziid": "kratt",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/65/karin_altina_yolculuk"
+    },
+    {
+      "season": 26,
+      "episode": 64,
+      "title": "Groundhog Wakeup Call",
+      "diziid": "kratt",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/kratt/kratt_kardesler/66/dag_sicaninin_uyanma_cagrisi"
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": "hld",
+  "title": "hilda",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/HLDPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Chapter 1: The Hidden People",
+      "diziid": "hld",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/1/no._1%3A_sakli_insanlar"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Chapter 2: The Midnight Giant",
+      "diziid": "hld",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/2/no._2%3A_gece_yarisi_devi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Chapter 3: The Bird Parade",
+      "diziid": "hld",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/3/no._3%3A_kus_gecidi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Chapter 4: The Sparrow Scouts",
+      "diziid": "hld",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/4/no._4%3A_serce_izciler"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Chapter 5: The Troll Rock",
+      "diziid": "hld",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/5/no._5%3A_trol_kayasi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Chapter 6: The Nightmare Spirit",
+      "diziid": "hld",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/6/no._6%3A_kabus_perisi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Chapter 7: The Lost Clan",
+      "diziid": "hld",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/7/no._7%3A_kayip_kabile"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Chapter 8: The Tide Mice",
+      "diziid": "hld",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/8/no._8%3A_gelgit_fareleri"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Chapter 9: The Ghost",
+      "diziid": "hld",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/9/no._9%3A_hayalet"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Chapter 10: The Storm",
+      "diziid": "hld",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/10/no._10%3A_firtina"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Chapter 11: The House in the Woods",
+      "diziid": "hld",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/11/no._11%3A_ormandaki_ev"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Chapter 12: The Nisse",
+      "diziid": "hld",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/12/no._12%3A_cin"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Chapter 13: The Black Hound",
+      "diziid": "hld",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/13/no._13%3A_siyah_kopek"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Chapter 1: The Troll Circle",
+      "diziid": "hld",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/14/no._1%3A_trol_cemberi"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Chapter 2: The Draugen",
+      "diziid": "hld",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/15/no._2%3A_draugen"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Chapter 3: The Witch",
+      "diziid": "hld",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/16/no._3%3A_cadi"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Chapter 4: The Eternal Warriors",
+      "diziid": "hld",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/17/no._4%3A_ebedi_savascilar"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Chapter 5: The Windmill",
+      "diziid": "hld",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/18/no._5%3A_yel_degirmeni"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Chapter 6: The Old Bells of Trolberg",
+      "diziid": "hld",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/19/no._6%3A_trolbergun_eski_canlari"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Chapter 7: The Beast of Cauldron Island",
+      "diziid": "hld",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/20/no._7%3A_cauldron_adasi_canavari"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Chapter 8: The Fifty Year Night",
+      "diziid": "hld",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/21/no._8%3A_elli_yillik_gece"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Chapter 9: The Deerfox",
+      "diziid": "hld",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/22/no._9%3A_geyik_tilkisi"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Chapter: 10: The Yule Lads",
+      "diziid": "hld",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/23/no._10%3A_yortu_cocuklari"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "Chapter 11: The Jorts Incident",
+      "diziid": "hld",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/24/no._11%3A_jorts_olayi"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Chapter 12: The Replacement",
+      "diziid": "hld",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/25/no.12%3A_yerine_gelen"
+    },
+    {
+      "season": 1,
+      "episode": 26,
+      "title": "Chapter 13: The Stone Forest",
+      "diziid": "hld",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/26/no._13%3A_tas_orman"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Chapter 1: The Train to Tofoten",
+      "diziid": "hld",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/28/no._1%3A_tofoten_treni"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Chapter 2: The Fairy Mound",
+      "diziid": "hld",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/29/no._2%3A_peri_hoyugu"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Chapter 3: The Giantslayer",
+      "diziid": "hld",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/30/no._3%3A_dev_avcisi"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Chapter 4: The Laughing Merman",
+      "diziid": "hld",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/31/no._4%3A_gulen_deniz_adami"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Chapter 5: The Job",
+      "diziid": "hld",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/32/no._5%3A_is"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Chapter 6: The Forgotten Lake",
+      "diziid": "hld",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/33/no._6%3A_unutulmus_gol"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Chapter 7: Strange Frequencies",
+      "diziid": "hld",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/34/no._7%3A_tuhaf_frekanslar"
+    },
+    {
+      "season": 1,
+      "episode": 34,
+      "title": "Chapter 8: The Fairy Isle",
+      "diziid": "hld",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/hld/hilda/35/no._8%3A_peri_adasi"
+    }
+  ]
+}

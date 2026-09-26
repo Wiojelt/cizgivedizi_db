@@ -1,0 +1,628 @@
+{
+  "id": "trtr",
+  "title": "trotro",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TRTRPoster.avif",
+  "channel": "YouTube",
+  "genres": [
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Trotro Plays Hide and Seek",
+      "diziid": "trtr",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/1/trotro_saklambac_oynuyor"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Trotro Has a Nice Satchel",
+      "diziid": "trtr",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/2/trotronun_guzel_sirt_cantasi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Trotro the Little Monster",
+      "diziid": "trtr",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/3/kucuk_canavar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Trotro Can Read",
+      "diziid": "trtr",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/4/trotro_okumayi_biliyor"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Trotro Goes Shopping",
+      "diziid": "trtr",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/5/trotro_alisverise_gidiyor"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Trotro the Musician",
+      "diziid": "trtr",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/6/muzisyen_trotro"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Trotro and the Rain",
+      "diziid": "trtr",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/7/trotro_ve_yagmur"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Trotro Plays in Bed",
+      "diziid": "trtr",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/8/trotro_yataginda_oynuyor"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Trotro's in Love",
+      "diziid": "trtr",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/9/trotro_asik"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Trotro Makes Some Soup",
+      "diziid": "trtr",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/10/trotro_corba_yapiyor"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Trotro Tidies His Room",
+      "diziid": "trtr",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/11/trotro_odasini_temizliyor"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Trotro Washes Teddy",
+      "diziid": "trtr",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/12/trotro_teddyyi_yikiyor"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Trotro and the Fish",
+      "diziid": "trtr",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/13/trotro_ve_balik"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Trotro and the Hedgehog",
+      "diziid": "trtr",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/14/trotro_ve_kirpi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Trotro Won't Share",
+      "diziid": "trtr",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/15/trotro_paylasmayacak"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Trotro Goes Sledging",
+      "diziid": "trtr",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/16/trotro_kazak_kaymaya_gidiyor"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Trotro Has a Nap",
+      "diziid": "trtr",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/17/trotronun_oglen_uykusu"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Trotro Washes by Himself",
+      "diziid": "trtr",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/18/trotro_kendi_kendini_yikayabiliyor"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Trotro and His Bed",
+      "diziid": "trtr",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/19/trotro_ve_yatagi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Trotro Wears a Disguise",
+      "diziid": "trtr",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/20/trotro_kilik_degistirir"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Trotro the Cook",
+      "diziid": "trtr",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/21/asci_trotro"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Trotro Dresses Himself",
+      "diziid": "trtr",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/22/trotro_kendi_kendine_giyiniyor"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Trotro Pays a Compliment",
+      "diziid": "trtr",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/23/trotro_iltifat_ediyor"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Trotro Goes Riding",
+      "diziid": "trtr",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/24/trotro_bisiklete_biniyor"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Trotro and the Snack on the Grass",
+      "diziid": "trtr",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/25/trotro_piknik_yapiyor"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Trotro and His Bucket",
+      "diziid": "trtr",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/26/trotro_ve_kovasi"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Trotro and the Snowman",
+      "diziid": "trtr",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/27/trotro_ve_kardan_adam"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Trotro Makes a Cake",
+      "diziid": "trtr",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/28/trotro_kek_yapiyor"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Trotro and the Photo",
+      "diziid": "trtr",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/29/trotro_ve_fotograf"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Hello Trotro",
+      "diziid": "trtr",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/30/alo_trotro"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Trotro the Little Clown",
+      "diziid": "trtr",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/31/kucuk_palyaco_trotro"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Trotro Finds Teddy",
+      "diziid": "trtr",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/32/trotro_teddyyi_buluyor"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Trotro Impresses Zoe",
+      "diziid": "trtr",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/33/trotro_zo%C3%AByi_etkiler"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Trotro Dressed Up as Daddy",
+      "diziid": "trtr",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/34/trotro_babasi_gibi_giyiniyor"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Trotro Waters the Garden",
+      "diziid": "trtr",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/35/trotro_bahceyi_suluyor"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Trotro Goes Rollerskating",
+      "diziid": "trtr",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/36/trotro_paten_kaymaya_gidiyor"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Trotro and the Goldfish",
+      "diziid": "trtr",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/37/trotro_ve_altin_baligi"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Trotro the Artist",
+      "diziid": "trtr",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/38/sanatci_trotro"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Trotro and the Christmas Tree",
+      "diziid": "trtr",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/39/trotro_ve_yilbasi_agaci"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "Trotro the Judo Champion",
+      "diziid": "trtr",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/40/judo_sampiyonu_trotro"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "Trotro and the Lucky Sack",
+      "diziid": "trtr",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/41/trotro_cuval_yarisinda"
+    },
+    {
+      "season": 3,
+      "episode": 42,
+      "title": "Trotro and the Tortoise",
+      "diziid": "trtr",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/42/trotro_ve_kaplumbaga"
+    },
+    {
+      "season": 4,
+      "episode": 43,
+      "title": "Trotro Learns to Dance",
+      "diziid": "trtr",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/43/trotro_dans_etmeyi_ogreniyor"
+    },
+    {
+      "season": 5,
+      "episode": 44,
+      "title": "Trotro is in a Bad Mood",
+      "diziid": "trtr",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/44/trotronun_morali_bozuk"
+    },
+    {
+      "season": 6,
+      "episode": 45,
+      "title": "Trotro Gets Zoe a Birthday Present",
+      "diziid": "trtr",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/45/trotro_zo%C3%ABye_dogum_gunu_hediyesi_aliyor"
+    },
+    {
+      "season": 7,
+      "episode": 46,
+      "title": "Trotro and the Kite",
+      "diziid": "trtr",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/46/trotro_ve_ucurtma"
+    },
+    {
+      "season": 8,
+      "episode": 47,
+      "title": "Not Now, Trotro",
+      "diziid": "trtr",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/47/simdi_olmaz_trotro"
+    },
+    {
+      "season": 9,
+      "episode": 48,
+      "title": "Trotro's Den",
+      "diziid": "trtr",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/48/trotronun_cadiri"
+    },
+    {
+      "season": 10,
+      "episode": 49,
+      "title": "Trotro and his Orchestra",
+      "diziid": "trtr",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/49/trotro_ve_orkestrasi"
+    },
+    {
+      "season": 11,
+      "episode": 50,
+      "title": "Trotro and the Whistle",
+      "diziid": "trtr",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/50/trotro_ve_duduk"
+    },
+    {
+      "season": 12,
+      "episode": 51,
+      "title": "Trotro and the Box of Tricks",
+      "diziid": "trtr",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/51/trotro_ve_oyuncak_kutusu"
+    },
+    {
+      "season": 13,
+      "episode": 52,
+      "title": "When Trotro Grows Up",
+      "diziid": "trtr",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/52/trotro_buyudugunde"
+    },
+    {
+      "season": 14,
+      "episode": 53,
+      "title": "Trotro, Be Quiet",
+      "diziid": "trtr",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/53/trotro%2C_sessiz_ol"
+    },
+    {
+      "season": 15,
+      "episode": 54,
+      "title": "Trotro is a Baby",
+      "diziid": "trtr",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/54/trotro_bebek_oldu"
+    },
+    {
+      "season": 16,
+      "episode": 55,
+      "title": "Trotro Can Do Everything by Himself",
+      "diziid": "trtr",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/55/trotro_her_seyi_kendi_basina_yapabiliyor"
+    },
+    {
+      "season": 17,
+      "episode": 56,
+      "title": "Trotro Goes Painting",
+      "diziid": "trtr",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/56/trotro_resim_yapmaya_gidiyor"
+    },
+    {
+      "season": 18,
+      "episode": 57,
+      "title": "Trotro Plays with his Feet",
+      "diziid": "trtr",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/57/trotro_ayagi_ile_oynuyor"
+    },
+    {
+      "season": 19,
+      "episode": 58,
+      "title": "Trotro Wants a Sweet",
+      "diziid": "trtr",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/58/trotro_tatli_ister"
+    },
+    {
+      "season": 20,
+      "episode": 59,
+      "title": "Trotro Goes on Holidays",
+      "diziid": "trtr",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/59/trotro_tatile_gider"
+    },
+    {
+      "season": 21,
+      "episode": 60,
+      "title": "Trotro and the Bird",
+      "diziid": "trtr",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/60/trotro_ve_kucuk_kus"
+    },
+    {
+      "season": 22,
+      "episode": 61,
+      "title": "Trotro the Little Gardener",
+      "diziid": "trtr",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/61/trotro_kucuk_bahcivan"
+    },
+    {
+      "season": 23,
+      "episode": 62,
+      "title": "Trotro and the Vegetable Garden",
+      "diziid": "trtr",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/62/trotro_ve_sebze_bahcesi"
+    },
+    {
+      "season": 24,
+      "episode": 63,
+      "title": "Trotro's Bath",
+      "diziid": "trtr",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/63/trotronun_banyosu"
+    },
+    {
+      "season": 25,
+      "episode": 64,
+      "title": "Trotro and the Nest",
+      "diziid": "trtr",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/64/trotro_ve_kus_yuvasi"
+    },
+    {
+      "season": 26,
+      "episode": 65,
+      "title": "Trotro is Kind",
+      "diziid": "trtr",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/65/nazik_trotro"
+    },
+    {
+      "season": 27,
+      "episode": 66,
+      "title": "Trotro and the Sand Castle",
+      "diziid": "trtr",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/66/trotro_ve_kumdan_kale"
+    },
+    {
+      "season": 28,
+      "episode": 67,
+      "title": "Trotro is All Grown Up",
+      "diziid": "trtr",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/67/trotro_buyumus"
+    },
+    {
+      "season": 29,
+      "episode": 68,
+      "title": "Trotro's House",
+      "diziid": "trtr",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/68/trotronun_evi"
+    },
+    {
+      "season": 30,
+      "episode": 69,
+      "title": "Trotro and the Treasure Hunt",
+      "diziid": "trtr",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/69/trotro_ve_hazine_avi"
+    },
+    {
+      "season": 31,
+      "episode": 70,
+      "title": "Trotro and the Market",
+      "diziid": "trtr",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/70/trotro_ve_market"
+    },
+    {
+      "season": 32,
+      "episode": 71,
+      "title": "Trotro and the Fishing Line",
+      "diziid": "trtr",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/71/trotro_ve_balik_oltasi"
+    },
+    {
+      "season": 33,
+      "episode": 72,
+      "title": "Trotro and the Scooter",
+      "diziid": "trtr",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/72/trotro_ve_scooter"
+    },
+    {
+      "season": 34,
+      "episode": 73,
+      "title": "Trotro the Copy Cat",
+      "diziid": "trtr",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/73/taklitci_trotro"
+    },
+    {
+      "season": 35,
+      "episode": 74,
+      "title": "Trotro's Zoo",
+      "diziid": "trtr",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/74/trotronun_hayavanat_bahcesi"
+    },
+    {
+      "season": 36,
+      "episode": 75,
+      "title": "Trotro and the Bubbles",
+      "diziid": "trtr",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/75/trotro_ve_kopukler"
+    },
+    {
+      "season": 38,
+      "episode": 76,
+      "title": "Trotro and the Bouquet",
+      "diziid": "trtr",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/77/trotro_ve_buket"
+    },
+    {
+      "season": 39,
+      "episode": 77,
+      "title": "Trotro and the Race",
+      "diziid": "trtr",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/trtr/trotro/78/trotro_ve_yaris"
+    }
+  ]
+}

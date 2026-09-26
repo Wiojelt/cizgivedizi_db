@@ -1,0 +1,940 @@
+{
+  "id": "prnsofia",
+  "title": "prenses sofia",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/PRNSSOFPoster.avif",
+  "channel": "Disney Jr.",
+  "genres": [
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Just One of the Princes",
+      "diziid": "prnsofia",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/1/prenslerden_biri"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Big Sleepover",
+      "diziid": "prnsofia",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/2/buyuk_pijama_partisi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Let the Good Times Troll",
+      "diziid": "prnsofia",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/3/arkadasim_troll"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Cedric's Apprentice",
+      "diziid": "prnsofia",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/4/cedricin_ciragi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "A Royal Mess",
+      "diziid": "prnsofia",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/5/satodaki_karmasa"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Shy Princess",
+      "diziid": "prnsofia",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/6/utangac_prenses"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Blue Ribbon Bunny",
+      "diziid": "prnsofia",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/7/ustun_yetenekli_tavsan"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Princess Test",
+      "diziid": "prnsofia",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/8/prenseslik_sinavi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Baileywick's Day Off",
+      "diziid": "prnsofia",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/9/baileywickin_izin_gunu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Tri-Kingdom Picnic",
+      "diziid": "prnsofia",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/10/krallik_piknigi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Little Witch",
+      "diziid": "prnsofia",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/11/kucuk_cadi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Two to Tangu",
+      "diziid": "prnsofia",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/12/tangu_gezisi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Finding Clover",
+      "diziid": "prnsofia",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/13/tirfil_kayboldu"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Amulet of Avalor",
+      "diziid": "prnsofia",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/14/avalorun_tilsimi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Buttercups",
+      "diziid": "prnsofia",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/15/duguncicekleri"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Make Way for Miss Nettle",
+      "diziid": "prnsofia",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/16/bayan_nettlea_yol_acin"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Amulet and the Anthem",
+      "diziid": "prnsofia",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/17/milli_mars"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Tea for Too Many",
+      "diziid": "prnsofia",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/18/cay_partisi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Princess Butterfly",
+      "diziid": "prnsofia",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/19/kelebek_prenses"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Great Aunt-Venture",
+      "diziid": "prnsofia",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/20/hala_ile_macera"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Baker King",
+      "diziid": "prnsofia",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/21/firinci_kral"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "The Floating Palace Part 1",
+      "diziid": "prnsofia",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/22/yuzen_saray_-_1.bolum"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "The Floating Palace Part 2",
+      "diziid": "prnsofia",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/23/yuzen_saray_-_2.bolum"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Holiday in Enchancia",
+      "diziid": "prnsofia",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/24/enchanciada_bayram"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Four's a Crowd",
+      "diziid": "prnsofia",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/25/ne_kadar_cok_o_kadar_iyi"
+    },
+    {
+      "season": 1,
+      "episode": 26,
+      "title": "Two Princesses and a Baby",
+      "diziid": "prnsofia",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/26/iki_prenses_ve_bir_bebek"
+    },
+    {
+      "season": 2,
+      "episode": 27,
+      "title": "The Enchanted Feast",
+      "diziid": "prnsofia",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/27/buyulu_ziyafet"
+    },
+    {
+      "season": 3,
+      "episode": 28,
+      "title": "The Flying Crown",
+      "diziid": "prnsofia",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/28/derbi_taci"
+    },
+    {
+      "season": 4,
+      "episode": 29,
+      "title": "Mom's the Word",
+      "diziid": "prnsofia",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/29/anneler_gunu"
+    },
+    {
+      "season": 5,
+      "episode": 30,
+      "title": "The Silent Knight",
+      "diziid": "prnsofia",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/30/sessiz_sovalye"
+    },
+    {
+      "season": 6,
+      "episode": 31,
+      "title": "Enchanted Science Fair",
+      "diziid": "prnsofia",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/31/buyulu_bilim_festivali"
+    },
+    {
+      "season": 7,
+      "episode": 32,
+      "title": "King for a Day",
+      "diziid": "prnsofia",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/32/bir_gunluk_kral"
+    },
+    {
+      "season": 8,
+      "episode": 33,
+      "title": "When You Wish Upon a Well",
+      "diziid": "prnsofia",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/33/dilek_kuyusu"
+    },
+    {
+      "season": 9,
+      "episode": 34,
+      "title": "Gizmo Gwen",
+      "diziid": "prnsofia",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/34/mucit_gwen"
+    },
+    {
+      "season": 10,
+      "episode": 35,
+      "title": "Sofia the Second",
+      "diziid": "prnsofia",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/35/ikinci_sofia"
+    },
+    {
+      "season": 11,
+      "episode": 36,
+      "title": "Mystic Meadows",
+      "diziid": "prnsofia",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/36/gizemli_vadi"
+    },
+    {
+      "season": 12,
+      "episode": 37,
+      "title": "Princesses to the Rescue!",
+      "diziid": "prnsofia",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/37/kurtarici_prensesler"
+    },
+    {
+      "season": 13,
+      "episode": 38,
+      "title": "Ghostly Gala",
+      "diziid": "prnsofia",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/38/hayaletli_gala"
+    },
+    {
+      "season": 14,
+      "episode": 39,
+      "title": "The Emerald Key",
+      "diziid": "prnsofia",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/39/zumrut_anahtar"
+    },
+    {
+      "season": 15,
+      "episode": 40,
+      "title": "Scrambled Pets",
+      "diziid": "prnsofia",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/40/hayvanlar_karisti"
+    },
+    {
+      "season": 16,
+      "episode": 41,
+      "title": "The Princess Stays in the Picture",
+      "diziid": "prnsofia",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/41/tablodaki_prenses"
+    },
+    {
+      "season": 17,
+      "episode": 42,
+      "title": "Baileywhoops",
+      "diziid": "prnsofia",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/42/sakar_baileywick"
+    },
+    {
+      "season": 18,
+      "episode": 43,
+      "title": "The Curse of Princess Ivy - Part I",
+      "diziid": "prnsofia",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/43/prenses_ivynin_laneti_-_kisim_i"
+    },
+    {
+      "season": 19,
+      "episode": 44,
+      "title": "The Curse of Princess Ivy - Part II",
+      "diziid": "prnsofia",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/44/prenses_ivynin_laneti_-_kisim_ii"
+    },
+    {
+      "season": 20,
+      "episode": 45,
+      "title": "Winter's Gift",
+      "diziid": "prnsofia",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/45/winterin_hediyesi"
+    },
+    {
+      "season": 21,
+      "episode": 46,
+      "title": "The Leafsong Festival",
+      "diziid": "prnsofia",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/46/yapragin_sarkisi_festivali"
+    },
+    {
+      "season": 22,
+      "episode": 47,
+      "title": "Substitute Cedric",
+      "diziid": "prnsofia",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/47/vekil_ogretmen_cedric"
+    },
+    {
+      "season": 23,
+      "episode": 48,
+      "title": "Clover Time",
+      "diziid": "prnsofia",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/48/oda_arkadasi_tirfil"
+    },
+    {
+      "season": 24,
+      "episode": 49,
+      "title": "A Tale of Two Teams",
+      "diziid": "prnsofia",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/49/iki_takimin_hikayesi"
+    },
+    {
+      "season": 25,
+      "episode": 50,
+      "title": "In a Tizzy",
+      "diziid": "prnsofia",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/50/iyilik_perisi_tizzy"
+    },
+    {
+      "season": 26,
+      "episode": 51,
+      "title": "The Littlest Princess",
+      "diziid": "prnsofia",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/51/en_kucuk_prenses"
+    },
+    {
+      "season": 27,
+      "episode": 52,
+      "title": "Buttercup Amber",
+      "diziid": "prnsofia",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/52/gelin_cicegi_amber"
+    },
+    {
+      "season": 28,
+      "episode": 53,
+      "title": "Carol of the Arrow",
+      "diziid": "prnsofia",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/53/okcu_carol"
+    },
+    {
+      "season": 29,
+      "episode": 54,
+      "title": "Sidekick Clio",
+      "diziid": "prnsofia",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/54/yakin_arkadasim"
+    },
+    {
+      "season": 30,
+      "episode": 55,
+      "title": "Minimus is Missing",
+      "diziid": "prnsofia",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/55/minimus_kayboluyor"
+    },
+    {
+      "season": 31,
+      "episode": 56,
+      "title": "Lord of the Rink",
+      "diziid": "prnsofia",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/56/buz_pistlerinin_efendisi"
+    },
+    {
+      "season": 1,
+      "episode": 57,
+      "title": "Cool Hand Fluke",
+      "diziid": "prnsofia",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/57/becerikli_fluke"
+    },
+    {
+      "season": 2,
+      "episode": 58,
+      "title": "Cedric Be Good",
+      "diziid": "prnsofia",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/58/iyi_cocuk_cedric"
+    },
+    {
+      "season": 3,
+      "episode": 59,
+      "title": "Princess Adventure Club",
+      "diziid": "prnsofia",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/59/maceraci_prensesler_kulubu"
+    },
+    {
+      "season": 4,
+      "episode": 60,
+      "title": "Minding the Manor",
+      "diziid": "prnsofia",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/60/malikanenin_sorumlusu"
+    },
+    {
+      "season": 5,
+      "episode": 61,
+      "title": "The Secret Library",
+      "diziid": "prnsofia",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/61/gizli_kutuphane"
+    },
+    {
+      "season": 6,
+      "episode": 62,
+      "title": "New Genie on the Block",
+      "diziid": "prnsofia",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/62/kasabadaki_yeni_cin"
+    },
+    {
+      "season": 7,
+      "episode": 63,
+      "title": "The Fliegel Has Landed",
+      "diziid": "prnsofia",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/63/fligel_indi"
+    },
+    {
+      "season": 8,
+      "episode": 64,
+      "title": "The Princess Ballet",
+      "diziid": "prnsofia",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/64/prenses_balesi"
+    },
+    {
+      "season": 9,
+      "episode": 65,
+      "title": "All the Sprite Moves",
+      "diziid": "prnsofia",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/65/butun_cinler_tasiniyor"
+    },
+    {
+      "season": 10,
+      "episode": 66,
+      "title": "Sofia in Elvenmoor",
+      "diziid": "prnsofia",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/66/sofia_elf_diyarinda"
+    },
+    {
+      "season": 11,
+      "episode": 67,
+      "title": "Stormy Lani",
+      "diziid": "prnsofia",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/67/firtina_lani"
+    },
+    {
+      "season": 12,
+      "episode": 68,
+      "title": "The Secret Library: Olaf and the Tale of Miss Nettle",
+      "diziid": "prnsofia",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/68/olaf_ve_bayan_nettlein_hikayesi"
+    },
+    {
+      "season": 13,
+      "episode": 69,
+      "title": "Gone with the Wand",
+      "diziid": "prnsofia",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/69/ejderha_pencesi_degnegi"
+    },
+    {
+      "season": 14,
+      "episode": 70,
+      "title": "Bad Little Dragon",
+      "diziid": "prnsofia",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/70/kucuk_yaramaz_ejderha"
+    },
+    {
+      "season": 15,
+      "episode": 71,
+      "title": "Bunny Swap",
+      "diziid": "prnsofia",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/71/tavsanlar_karisti"
+    },
+    {
+      "season": 16,
+      "episode": 72,
+      "title": "Her Royal Spyness",
+      "diziid": "prnsofia",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/72/kucuk_casus"
+    },
+    {
+      "season": 17,
+      "episode": 73,
+      "title": "Best in Air Show",
+      "diziid": "prnsofia",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/73/gosterinin_en_iyisi"
+    },
+    {
+      "season": 18,
+      "episode": 74,
+      "title": "Dads and Daughters Day",
+      "diziid": "prnsofia",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/74/babalar_ve_kizlar_gunu"
+    },
+    {
+      "season": 19,
+      "episode": 75,
+      "title": "The Secret Library: The Tale of the Noble Knight",
+      "diziid": "prnsofia",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/75/soylu_sovalyenin_oykusu"
+    },
+    {
+      "season": 20,
+      "episode": 76,
+      "title": "The Bamboo Kite",
+      "diziid": "prnsofia",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/76/ucurtma"
+    },
+    {
+      "season": 21,
+      "episode": 77,
+      "title": "Beauty is the Beast",
+      "diziid": "prnsofia",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/77/guzel_canavar"
+    },
+    {
+      "season": 22,
+      "episode": 78,
+      "title": "Cauldronation Day",
+      "diziid": "prnsofia",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/78/cadi_kazani"
+    },
+    {
+      "season": 23,
+      "episode": 79,
+      "title": "Camp Wilderwood",
+      "diziid": "prnsofia",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/79/vahsi_orman_kampi"
+    },
+    {
+      "season": 24,
+      "episode": 80,
+      "title": "Royal Vacation",
+      "diziid": "prnsofia",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/80/kraliyet_ailesi_tatilde"
+    },
+    {
+      "season": 25,
+      "episode": 81,
+      "title": "Elena and the Secret of Avalor, Part 1",
+      "diziid": "prnsofia",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/81/elena_ve_avalorun_sirri_1.bolum"
+    },
+    {
+      "season": 26,
+      "episode": 82,
+      "title": "Elena and the Secret of Avalor, Part 2",
+      "diziid": "prnsofia",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/82/elena_ve_avalorun_sirri_2.bolum"
+    },
+    {
+      "season": 27,
+      "episode": 83,
+      "title": "Elena and the Secret of Avalor, Part 3",
+      "diziid": "prnsofia",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/83/elena_ve_avalorun_sirri_3.bolum"
+    },
+    {
+      "season": 28,
+      "episode": 84,
+      "title": "Hexley Hall",
+      "diziid": "prnsofia",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/84/buyulu_malikane"
+    },
+    {
+      "season": 29,
+      "episode": 85,
+      "title": "The Princess Prodigy",
+      "diziid": "prnsofia",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/85/dahi_prenses"
+    },
+    {
+      "season": 30,
+      "episode": 86,
+      "title": "One for the Books",
+      "diziid": "prnsofia",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/86/kitaplari_seven_agac"
+    },
+    {
+      "season": 1,
+      "episode": 87,
+      "title": "Day of the Sorcerers",
+      "diziid": "prnsofia",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/87/sihirbazlar_gunu"
+    },
+    {
+      "season": 2,
+      "episode": 88,
+      "title": "The Secret Library: Tale of the Eternal Torch",
+      "diziid": "prnsofia",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/88/sonmeyen_mesalenin_hikayesi"
+    },
+    {
+      "season": 3,
+      "episode": 89,
+      "title": "The Crown of Blossoms",
+      "diziid": "prnsofia",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/89/cicek_taci"
+    },
+    {
+      "season": 4,
+      "episode": 90,
+      "title": "Pin the Blame on the Genie",
+      "diziid": "prnsofia",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/90/yalanci_cin"
+    },
+    {
+      "season": 5,
+      "episode": 91,
+      "title": "The Mystic Isles: Part I",
+      "diziid": "prnsofia",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/91/gizemli_adalar_1.bolum"
+    },
+    {
+      "season": 6,
+      "episode": 92,
+      "title": "The Mystic Isles: Part II",
+      "diziid": "prnsofia",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/92/gizemli_adalar_2.bolum"
+    },
+    {
+      "season": 7,
+      "episode": 93,
+      "title": "The Mystic Isles: Part III",
+      "diziid": "prnsofia",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/93/gizemli_adalar_3.bolum"
+    },
+    {
+      "season": 8,
+      "episode": 94,
+      "title": "The Mystic Isles: The Princess and the Protector",
+      "diziid": "prnsofia",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/94/prenses_ve_koruyucu"
+    },
+    {
+      "season": 9,
+      "episode": 95,
+      "title": "The Royal Dragon",
+      "diziid": "prnsofia",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/95/kraliyet_ejderhasi"
+    },
+    {
+      "season": 10,
+      "episode": 96,
+      "title": "The Mystic Isles: The Mare of the Mist",
+      "diziid": "prnsofia",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/96/sisteki_kisrak"
+    },
+    {
+      "season": 11,
+      "episode": 97,
+      "title": "Through the Looking Back Glass",
+      "diziid": "prnsofia",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/97/gecmisi_gosteren_ayna"
+    },
+    {
+      "season": 12,
+      "episode": 98,
+      "title": "Princess Jade",
+      "diziid": "prnsofia",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/98/prenses_jade"
+    },
+    {
+      "season": 13,
+      "episode": 99,
+      "title": "Ivy's True Colors",
+      "diziid": "prnsofia",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/99/ivynin_gercek_yuzu"
+    },
+    {
+      "season": 14,
+      "episode": 100,
+      "title": "Too Cute to Spook",
+      "diziid": "prnsofia",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/100/korkutamayacak_kadar_sevimli"
+    },
+    {
+      "season": 15,
+      "episode": 101,
+      "title": "Pirated Away",
+      "diziid": "prnsofia",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/101/korsanlarca_kacirilmak"
+    },
+    {
+      "season": 16,
+      "episode": 102,
+      "title": "The Mystic Isles: The Falcon's Eye",
+      "diziid": "prnsofia",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/102/sahin_gozu"
+    },
+    {
+      "season": 17,
+      "episode": 103,
+      "title": "The Mystic Isles: The Great Pretender",
+      "diziid": "prnsofia",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/103/buyuk_taklitci"
+    },
+    {
+      "season": 18,
+      "episode": 104,
+      "title": "The Mystic Isles: A Very Mystic Wassailia",
+      "diziid": "prnsofia",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/104/cok_gizemli_bir_wassailia"
+    },
+    {
+      "season": 19,
+      "episode": 105,
+      "title": "The Birthday Wish",
+      "diziid": "prnsofia",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/105/dogum_gunu_dilegi"
+    },
+    {
+      "season": 20,
+      "episode": 106,
+      "title": "In Cedric We Trust",
+      "diziid": "prnsofia",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/106/umudumuz_cedric"
+    },
+    {
+      "season": 21,
+      "episode": 107,
+      "title": "The Mystic Isles: A Hero for the Hoodwinks",
+      "diziid": "prnsofia",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/107/hoodwicker_icin_bir_kahraman"
+    },
+    {
+      "season": 22,
+      "episode": 108,
+      "title": "The Mystic Isles: Undercover Fairies",
+      "diziid": "prnsofia",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/108/periler_gizli_gorevde"
+    },
+    {
+      "season": 23,
+      "episode": 109,
+      "title": "A Royal Wedding",
+      "diziid": "prnsofia",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/109/bir_kraliyet_dugunu"
+    },
+    {
+      "season": 24,
+      "episode": 110,
+      "title": "The Royal School Fair",
+      "diziid": "prnsofia",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/110/kraliyet_okul_fuari"
+    },
+    {
+      "season": 25,
+      "episode": 111,
+      "title": "The Lost Pyramid",
+      "diziid": "prnsofia",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/111/kayip_piramit"
+    },
+    {
+      "season": 26,
+      "episode": 112,
+      "title": "Return to Merroway Cove",
+      "diziid": "prnsofia",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/112/merroway_koyuna_geri_donus"
+    },
+    {
+      "season": 27,
+      "episode": 113,
+      "title": "The Elf Situation",
+      "diziid": "prnsofia",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/113/elf_meselesi"
+    },
+    {
+      "season": 28,
+      "episode": 114,
+      "title": "Forever Royal, Part 1",
+      "diziid": "prnsofia",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/114/sonsuza_dek_asil_kisim_i"
+    },
+    {
+      "season": 29,
+      "episode": 115,
+      "title": "Forever Royal, Part 2",
+      "diziid": "prnsofia",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/115/sonsuza_dek_asil_kisim_ii"
+    },
+    {
+      "season": 30,
+      "episode": 116,
+      "title": "Forever Royal, Part 3",
+      "diziid": "prnsofia",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/prnsofia/prenses_sofia/116/sonsuza_dek_asil_kisim_iii"
+    }
+  ]
+}

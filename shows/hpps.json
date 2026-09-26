@@ -1,0 +1,60 @@
+{
+  "id": "hpps",
+  "title": "harry potter: pastanenin sihirbazlarÄ±",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/HPPSPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Yemek"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Platform 9 3/4",
+      "diziid": "hpps",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/hpps/harry_potter%3A_pastanenin_sihirbazlari/1/platform_9_3__4"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Gringotts Wizarding Bank",
+      "diziid": "hpps",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/hpps/harry_potter%3A_pastanenin_sihirbazlari/2/gringotts_buyucu_bankasi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Diagon Alley",
+      "diziid": "hpps",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/hpps/harry_potter%3A_pastanenin_sihirbazlari/3/diagon_yolu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Forbidden Forest",
+      "diziid": "hpps",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/hpps/harry_potter%3A_pastanenin_sihirbazlari/4/yasak_orman"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Dumbledore's Office",
+      "diziid": "hpps",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/hpps/harry_potter%3A_pastanenin_sihirbazlari/5/dumbledoreun_ofisi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Great Hall",
+      "diziid": "hpps",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/hpps/harry_potter%3A_pastanenin_sihirbazlari/6/buyuk_salon"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "forky",
+  "title": "forky soruyor",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/FORKYPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "What is Money?",
+      "diziid": "forky",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/forky/forky_soruyor/1/para_nedir"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "What is a Friend?",
+      "diziid": "forky",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/forky/forky_soruyor/2/arkadas_nedir"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "What is Art?",
+      "diziid": "forky",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/forky/forky_soruyor/3/sanat_nedir"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "What is Time?",
+      "diziid": "forky",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/forky/forky_soruyor/4/zaman_nedir"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "What is Love?",
+      "diziid": "forky",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/forky/forky_soruyor/5/ask_nedir"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "What is a Computer?",
+      "diziid": "forky",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/forky/forky_soruyor/6/bilgisayar_nedir"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "What Is a Leader?",
+      "diziid": "forky",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/forky/forky_soruyor/7/lider_nedir"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "What Is a Pet?",
+      "diziid": "forky",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/forky/forky_soruyor/8/evcil_hayvan_nedir"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "What is Cheese?",
+      "diziid": "forky",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/forky/forky_soruyor/9/peynir_nedir"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "What is Reading?",
+      "diziid": "forky",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/forky/forky_soruyor/10/okumak_nedir"
+    }
+  ]
+}

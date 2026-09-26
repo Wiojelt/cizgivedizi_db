@@ -1,0 +1,116 @@
+{
+  "id": "tarvja",
+  "title": "tarzan ve jane",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TAVJAPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "A Hero Is Born",
+      "diziid": "tarvja",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/tarvja/tarzan_ve_jane/1/bir_kahraman_doguyor"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Tarzan Meet Jane",
+      "diziid": "tarvja",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/tarvja/tarzan_ve_jane/2/tarzan%2C_jane_ile_tanisiyor"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "In the Urban Jungle",
+      "diziid": "tarvja",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/tarvja/tarzan_ve_jane/3/sehir_ormaninda"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Dangerous Rescue",
+      "diziid": "tarvja",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/tarvja/tarzan_ve_jane/4/tehlikeli_kurtaris"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Betrayal",
+      "diziid": "tarvja",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/tarvja/tarzan_ve_jane/5/ihanet"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "By Air and by Sea",
+      "diziid": "tarvja",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/tarvja/tarzan_ve_jane/6/havadan_ve_denizden"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Chasing the Mastermind",
+      "diziid": "tarvja",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/tarvja/tarzan_ve_jane/7/beyinin_pesinde"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Showdown in the Jungle",
+      "diziid": "tarvja",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/tarvja/tarzan_ve_jane/8/ormanda_hesaplasma"
+    },
+    {
+      "season": 1,
+      "episode": 9,
+      "title": "That Day in Rio",
+      "diziid": "tarvja",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/tarvja/tarzan_ve_jane/9/riodaki_o_gun"
+    },
+    {
+      "season": 2,
+      "episode": 10,
+      "title": "Into the Rainforest",
+      "diziid": "tarvja",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/tarvja/tarzan_ve_jane/10/yagmur_ormaninin_icine_dogru"
+    },
+    {
+      "season": 3,
+      "episode": 11,
+      "title": "Too Much Monkey Business",
+      "diziid": "tarvja",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/tarvja/tarzan_ve_jane/11/maymun_baskini"
+    },
+    {
+      "season": 4,
+      "episode": 12,
+      "title": "The Ruins",
+      "diziid": "tarvja",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/tarvja/tarzan_ve_jane/12/harabeler"
+    },
+    {
+      "season": 5,
+      "episode": 13,
+      "title": "Return of the King",
+      "diziid": "tarvja",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/tarvja/tarzan_ve_jane/13/kralin_donusu"
+    }
+  ]
+}

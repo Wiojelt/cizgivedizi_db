@@ -1,0 +1,1252 @@
+{
+  "id": "pijama",
+  "title": "pijamaskeliler",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/PIJAMAPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Blame It on the Train, Owlette/Catboy's Cloudy Crisis",
+      "diziid": "pijama",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/1/sucu_trene_atma_baykus_kiz__kedi_cocugun_bulutla_imtihani"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Catboy and the Butterfly Brigade/Owlette the Winner",
+      "diziid": "pijama",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/2/baykus_kiz_ve_flossy_flash_fiskesi__kedi_cocuk_ve_ziplayan_eldiven"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Owlette and the Flash Flip Trip/Catboy and the Pogo-Dozer",
+      "diziid": "pijama",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/3/kertenkele_ve_super_ninjalinolar__baykus_kizin_dinozor_sorunu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Owlette's Terrible Pterodactyl Trouble/Owlette and the Moonball",
+      "diziid": "pijama",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/4/kedi_cocuk_ve_kucultucu__baykus_kiz_ve_ay_topu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Gekko and the Super Ninjalinos/Catboy vs. Robo-Cat",
+      "diziid": "pijama",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/5/kertenkele_noeli_kurtariyor__kertenkelenin_buzlu_plani"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Catboy and the Shrinker/Looking After Gekko",
+      "diziid": "pijama",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/6/kedi_cocuk_ve_kelebek_ordusu__en_buyuk_baykus_kiz"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Clumsy Catboy/Owlette and the Giving Owl",
+      "diziid": "pijama",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/7/sesin_ciksin_kertenkele%21__kedi_cocuk_ve_usta_fangin_kilici"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Catboy & Master Fang's Sword/Catboy & the Teeny Weeny Ninjalino",
+      "diziid": "pijama",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/8/kedi_cocuk_robo_kediye_karsi__baykus_kiz_ve_comert_baykus"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Catboy and the Great Birthday Cake Rescue/Gekko and the Snore-A-Saurus",
+      "diziid": "pijama",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/9/kedi_cocuk_ve_kaybolan_dogum_gunu_pastasi__kertenkele_ve_horlayan_dinozor"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Gekko and the Rock of All Power/Speak Up, Gekko!",
+      "diziid": "pijama",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/10/kertenkele_bakiciligi__kedi_cocuk_ve_mini_minnacik_ninjalino"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Catboy's Tricky Ticket/Gekko and the Missing Gekko-Mobile",
+      "diziid": "pijama",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/11/kedi_cocukun_paylasilamayan_bileti__kertenkele_ve_kayip_kertenkele_mobil"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Gekko Saves Christmas/Gekko's Nice Ice Plan",
+      "diziid": "pijama",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/12/kedi_cocukun_basarisiz_ucusu__kertenkelenin_hapsirigi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Catboy's Flying Fiasco/Catboy's Two-Wheeled Wonder",
+      "diziid": "pijama",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/13/kertenkele_ve_buyuk_ay_sorunu__sakar_kedi_cocuk"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Gekko Has The Stay-At-Home Sneezes/Catboy Takes Control",
+      "diziid": "pijama",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/14/kedi_cocuk_ve_kertenkelenin_robot_cilginligi__baykus_kizin_tuylu_arkadasi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Catboy, Gekko & the Robot Rampage/Owlette & the Battling Headquarters",
+      "diziid": "pijama",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/15/baykus_kiz_ve_karargah_savasi__kertenkele_ve_muzede_karmasa"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Catboy Takes Control / Owlette's Two Wrongs",
+      "diziid": "pijama",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/16/kedi_cocuk_kontrolu_ele_aliyor__baykus_kizin_iki_yanlisi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Owlette's Two Wrongs/Gekko & the Mighty Moon Problem",
+      "diziid": "pijama",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/17/kertenkele_cocuk_ucuyor__kedi_cocukun_iki_tekerlekli_harikasi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Owlette of a Kind/Gekko's Special Rock",
+      "diziid": "pijama",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/18/kedi_cocukun_buyuk_konseri__baykus_kizin_yeni_hareketi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Owlette & The Owletteenies/Gekko & the Mayhem at the Museum",
+      "diziid": "pijama",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/19/supersonik_baykus_kiz__kedi_cocuk_ve_yapiskan_yildiz_silahi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Slowpoke Gekko/Super-Sized Gekko",
+      "diziid": "pijama",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/20/tam_bir_baykus_kiz__cal_davulu_kedi_cocuk"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Catboy & the Sticky Splat Slingshot/Gekko Floats",
+      "diziid": "pijama",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/21/kararsiz_kedi_cocuk__kertenkelenin_super_kertenkele_hissi"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Catboy Squared/Slowdown Catboy",
+      "diziid": "pijama",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/22/baykus_kiz_ve_baykuscuklar__suclu_kertenkele"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Catboy & the Lunar Dome/Owlette's New Trick",
+      "diziid": "pijama",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/23/baykus_kiz_ve_ay_cicegi__tembel_kertenkele"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "SuperSonic Owlette/Gekko's Blame Campaign",
+      "diziid": "pijama",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/24/kedi_cocuk_ve_ay_kubbesi__kertenkele_ve_guclu_kaya"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Beat the Drum, Catboy/Take to the Skies, Owlette",
+      "diziid": "pijama",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/25/devasa_kertenkele__goklere_uc_baykus_kiz"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Gekko's Super Gekko Sense/Owlette and the Moonflower",
+      "diziid": "pijama",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/26/yavasla_kedi_cocuk%21__kertenkelenin_ozel_tasi"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Moonfizzle Balls/Soccer Ninjalinos",
+      "diziid": "pijama",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/27/ay_kopugu_toplari__futbolcu_ninjalinolar"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Lionel-Saurus/Catboy's Cuddly",
+      "diziid": "pijama",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/28/lionelozor__kedi_cocukun_bebegi"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Terrible Two-Some / Owlette's Luna Trouble",
+      "diziid": "pijama",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/29/korkunc_ikili__baykus_kizin_ay_sorunu"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Night of the Cat / Catboy Does It Again",
+      "diziid": "pijama",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/30/kedinin_gecesi__kedi_cocuk_yine_yapti"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Ninja Moths/Who's Got the Owl Power?",
+      "diziid": "pijama",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/31/ninja_guveler__kimin_baykus_gucleri_var"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "PJ Pinball/Bounce-a-Tron",
+      "diziid": "pijama",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/32/pija_pinball__zipla-tron"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "PJ Robot / PJ Power Up",
+      "diziid": "pijama",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/33/pija_bot__pija_guc_arttirmasi"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Wacky Floats / Romeo's Disguise",
+      "diziid": "pijama",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/34/cilgin_panayir__romeonun_kilik_degistirmesi"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Moonstruck Part 1: Race to the Moon/Moonstruck Part 2: Lunar Fortress",
+      "diziid": "pijama",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/35/ay_carpmasi%3A_aya_dogru_yaris__ay_carpmasi%3A_ay_kalesi"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Robot's Pet Cat/Gekko, Master of the Deep",
+      "diziid": "pijama",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/36/robotun_evcil_kedisi__kertenkele%2C_derinliklerin_efendisi"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "May the Best Power Win/Moonbreaker",
+      "diziid": "pijama",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/37/en_iyi_guc_kazansin__ay_kirici"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Race Up Mystery Mountain / Prisoner on the Mountain",
+      "diziid": "pijama",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/38/daga_dogru_yaris__dagdaki_mahkum"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "The Wolfy Kids / Wolf-O-Saurus",
+      "diziid": "pijama",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/39/kurt_cocuklar__kurtozor"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "Easter Wolfies / Luna and the Wolfies",
+      "diziid": "pijama",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/40/paskalya_kurtlari__ay_kiz_ve_kurtlar"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "Catboy No More / Gekko Vs. Splatcano",
+      "diziid": "pijama",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/41/artik_kedi_cocuk_yok__kertenkele%2C_balcikli_volkana_karsi"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Meet Armadylan / Invisible Owlette",
+      "diziid": "pijama",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/42/armadylanla_tanisin__gorunmez_baykus_kiz"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Wolfy Mountain / Romeo's Crystal Clear Plan",
+      "diziid": "pijama",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/43/kurti_dag__romeonun_kristal_plani"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "Nobody's Sidekick / Armadylan Menace",
+      "diziid": "pijama",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/44/kim_kimin_yardimcisi__armadylan_tehdidi"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "Power Pondweed / Owlette Comes Clean",
+      "diziid": "pijama",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/45/guclu_su_otu__baykus_temize_cikar"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "The Wolfies Take HQ / The Good Wolfy",
+      "diziid": "pijama",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/46/kurtlar_merkezi_alir__iyi_kurt"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "The Wolfy Plan/The Lizard Theft",
+      "diziid": "pijama",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/47/kurt_plani__kertenkele_hirsiz"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "PJ Dylan/Armadylan'd and Dangerous",
+      "diziid": "pijama",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/48/pija_dylan__armadylanli_ve_tehlikeli"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "Romeo's Action Toys/The Dragon Gong",
+      "diziid": "pijama",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/49/romeonun_aksiyon_oyuncaklari__ejderha_gongu"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "Flight of the Ninja / Romeocoaster",
+      "diziid": "pijama",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/50/ninjanin_ucusu__romeo_treni"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "Gekko and the Opposite Ray/PJ Masks vs. Bad Guys United",
+      "diziid": "pijama",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/51/kertenkele_ve_zitlik_isini__pijamaskeliler_birlesik_kotu_adamlara_karsi"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "Halloween Tricksters Part 1 / Halloween Tricksters Part 2",
+      "diziid": "pijama",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/52/cadilar_bayrami_sakalari"
+    },
+    {
+      "season": 1,
+      "episode": 53,
+      "title": "Moon Madness / Moon Madness Part 2",
+      "diziid": "pijama",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/53/ay_cilginligi__ay_cilginligi%3A_2._bolum"
+    },
+    {
+      "season": 2,
+      "episode": 54,
+      "title": "Armadylan and the Robette Rule/Armadylan Zen",
+      "diziid": "pijama",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/54/armadylan_ve_robette_dostlugu__armadylan_zen"
+    },
+    {
+      "season": 3,
+      "episode": 55,
+      "title": "Way of the Wolfy/Werejalinos",
+      "diziid": "pijama",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/55/tam_kurt_olmanin_yolu__kurt_ninjalar"
+    },
+    {
+      "season": 4,
+      "episode": 56,
+      "title": "PJ Comet/Glowy Moths",
+      "diziid": "pijama",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/56/pija_kuyruklu_yildiz__parildayan_guveler"
+    },
+    {
+      "season": 5,
+      "episode": 57,
+      "title": "Teacher Goes Ninja/Robot Goes Wrong",
+      "diziid": "pijama",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/57/ninjaya_donusen_ogretmen__hata_yapan_robot"
+    },
+    {
+      "season": 6,
+      "episode": 58,
+      "title": "Lionel's Powers/Best Friends Forever",
+      "diziid": "pijama",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/58/lionelin_gucleri__en_iyi_arkadaslar"
+    },
+    {
+      "season": 7,
+      "episode": 59,
+      "title": "Meet An Yu / Meet An Yu Part 2",
+      "diziid": "pijama",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/59/an_yu_ile_tanisin__an_yu_ile_tanisin%3A_2._bolum"
+    },
+    {
+      "season": 8,
+      "episode": 60,
+      "title": "Moon Prix / Pirates Ahoy!",
+      "diziid": "pijama",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/60/ay_odulu__merhaba_korsanlar%21"
+    },
+    {
+      "season": 9,
+      "episode": 61,
+      "title": "Arma-Leader / Owlette Slips Up",
+      "diziid": "pijama",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/61/lider_armadylan__baykus_kizin_hatasi"
+    },
+    {
+      "season": 10,
+      "episode": 62,
+      "title": "The Splat Monster / The Splat Monster Pt. 2",
+      "diziid": "pijama",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/62/vicik_canavari__vicik_canavari%3A_2._bolum"
+    },
+    {
+      "season": 11,
+      "episode": 63,
+      "title": "The Secret Of The Pagoda / Storm Of The Ninja",
+      "diziid": "pijama",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/63/tapinagin_gizemi__ninja_firtinasi"
+    },
+    {
+      "season": 12,
+      "episode": 64,
+      "title": "Wolfy Powers / Do The Gekko",
+      "diziid": "pijama",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/64/kurt_gucleri__kertenkele_dansi"
+    },
+    {
+      "season": 13,
+      "episode": 65,
+      "title": "Moth on the Moon/Fly Me to the Moon",
+      "diziid": "pijama",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/65/aydaki_guve__beni_aya_ucur"
+    },
+    {
+      "season": 14,
+      "episode": 66,
+      "title": "Luna's Cosmic Tantrum / Motsuki The Best",
+      "diziid": "pijama",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/66/ay_kizin_kozmik_ofke_nobeti__en_iyi_motsuki"
+    },
+    {
+      "season": 15,
+      "episode": 67,
+      "title": "Wheels Of A Hero / Moonwolfy",
+      "diziid": "pijama",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/67/kahramanin_arabalari__aydaki_kurt"
+    },
+    {
+      "season": 16,
+      "episode": 68,
+      "title": "Clash on Mystery Mountain / A Teeny Weeny Problem",
+      "diziid": "pijama",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/68/gizemli_dagda_catisma__teeny_minicik_bir_sorun"
+    },
+    {
+      "season": 17,
+      "episode": 69,
+      "title": "Take Romeo Off The Road / Mission: PJ Seeker",
+      "diziid": "pijama",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/69/romeoyu_yoldan_savuralim__gorev%3A_pija_aramasi"
+    },
+    {
+      "season": 18,
+      "episode": 70,
+      "title": "Armadylan, Action Hero / Super Muscles Show Off",
+      "diziid": "pijama",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/70/aksiyon_kahramani_armadylan__super_guc_gosterisi"
+    },
+    {
+      "season": 19,
+      "episode": 71,
+      "title": "The Prank Wheelz / Where's the Wolfie Wheelz?",
+      "diziid": "pijama",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/71/tekerli_sakacilar__kurtarici_nerede"
+    },
+    {
+      "season": 20,
+      "episode": 72,
+      "title": "Villain of the Sky/Protector of the Sky",
+      "diziid": "pijama",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/72/gokyuzunun_kotu_cocugu__gokyuzunun_koruyucusu"
+    },
+    {
+      "season": 21,
+      "episode": 73,
+      "title": "PJ Masks Save Christmas, The / PJ Masks Save Christmas Pt. 2, The",
+      "diziid": "pijama",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/73/pijamaskeliler_yilbasini_kurtariyor__pijamaskeliler_yilbasini_kurtariyor%3A_2._bolum"
+    },
+    {
+      "season": 22,
+      "episode": 74,
+      "title": "Romeo's Melody/PJ Robot Takes Control",
+      "diziid": "pijama",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/74/romeonun_melodisi__pija_bot_kontrolu_devraliyor"
+    },
+    {
+      "season": 23,
+      "episode": 75,
+      "title": "PJ Sky Pirates / The Disappearing Ninjas",
+      "diziid": "pijama",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/75/pija_gokyuzu_korsanlari__kaybolan_ninjalar"
+    },
+    {
+      "season": 24,
+      "episode": 76,
+      "title": "Gekko Everywhere / Gekko Takes Charge",
+      "diziid": "pijama",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/76/kertenkele_her_yerde__kertenkele_yonetimi_aliyor"
+    },
+    {
+      "season": 25,
+      "episode": 77,
+      "title": "Big Sister Motsuki / PJ Party Crasher",
+      "diziid": "pijama",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/77/motsuki_abla__pijama_partisi_bozguncusu"
+    },
+    {
+      "season": 26,
+      "episode": 78,
+      "title": "Master of the Moat/PJ Robot Vs. Romeo",
+      "diziid": "pijama",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/78/golun_efendisi__pija_bot%2C_romeoya_karsi"
+    },
+    {
+      "season": 1,
+      "episode": 79,
+      "title": "Heroes of the Sky Part 1/Heroes of the Sky Part 2",
+      "diziid": "pijama",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/79/gokyuzunun_kahramanlari_bolum_1__gokyuzunun_kahramanlari_bolum_2"
+    },
+    {
+      "season": 2,
+      "episode": 80,
+      "title": "Heroes of the Sky Part 3 / Heroes of the Sky Part 4",
+      "diziid": "pijama",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/80/gokyuzunun_kahramanlari_bolum_3__gokyuzunun_kahramanlari_bolum_4"
+    },
+    {
+      "season": 3,
+      "episode": 81,
+      "title": "Who Let the Moths In? / Commander Meow",
+      "diziid": "pijama",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/81/guveleri_kim_soktu__komutan_miyav"
+    },
+    {
+      "season": 4,
+      "episode": 82,
+      "title": "Motsuki's Missing Sister / Not So Ninja",
+      "diziid": "pijama",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/82/motsuki%E2%80%99nin_kayip_kardesi__iyi_ninjalar"
+    },
+    {
+      "season": 5,
+      "episode": 83,
+      "title": "PJ Party Mountain/Wolfies of the Pagoda",
+      "diziid": "pijama",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/83/pijapartisi_dagi__tapinagin_kurt_adamlari"
+    },
+    {
+      "season": 6,
+      "episode": 84,
+      "title": "Master Fang's Secret / Aerodylan",
+      "diziid": "pijama",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/84/ustat_fang%E2%80%99in_sirri__hava_dylan"
+    },
+    {
+      "season": 7,
+      "episode": 85,
+      "title": "Asteroid Accident / All About Asteroids",
+      "diziid": "pijama",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/85/asteroit_kazasi__asteroitlerin_gucu"
+    },
+    {
+      "season": 8,
+      "episode": 86,
+      "title": "Romeo's Space Machine / Newton and the Ninjas",
+      "diziid": "pijama",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/86/romeo%E2%80%99nun_uzay_makinesi__newton_ve_ninjalar"
+    },
+    {
+      "season": 9,
+      "episode": 87,
+      "title": "Missing Space Rock / Flying Factory Out of Control",
+      "diziid": "pijama",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/87/kayip_uzay_kayasi__ucan_fabrika_kontrolden_cikti"
+    },
+    {
+      "season": 10,
+      "episode": 88,
+      "title": "Munki-Gu/Munki-Gu in the City",
+      "diziid": "pijama",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/88/maymun_gu__maymun_gu_sehirde"
+    },
+    {
+      "season": 11,
+      "episode": 89,
+      "title": "Mission Munki-gu / Legend of the Wolfy Bone",
+      "diziid": "pijama",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/89/maymun_gu_gorevi__kurt_adam_kemigi_efsanesi"
+    },
+    {
+      "season": 12,
+      "episode": 90,
+      "title": "Gekko Vs Armavillain / Super Super Cat Speed",
+      "diziid": "pijama",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/90/kertenkele_kotu_armadylana_karsi__super_super_kedi_hizi"
+    },
+    {
+      "season": 13,
+      "episode": 91,
+      "title": "Munki-Gu's Dragon/Gekko Loves Lionel",
+      "diziid": "pijama",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/91/maymun_gunun_ejderhasi__kertenkele_lioneli_seviyor"
+    },
+    {
+      "season": 14,
+      "episode": 92,
+      "title": "Octobella/Octo-Trouble",
+      "diziid": "pijama",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/92/octobella__octo-sorun"
+    },
+    {
+      "season": 15,
+      "episode": 93,
+      "title": "Star Buddies / To the Moon and Back",
+      "diziid": "pijama",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/93/yildiz_dostlari__ay_ve_otesine_dogru"
+    },
+    {
+      "season": 16,
+      "episode": 94,
+      "title": "Magnet in the Moat / Motsuki Bugs Out",
+      "diziid": "pijama",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/94/goldeki_miknatis__motsuki_toparlaniyor"
+    },
+    {
+      "season": 17,
+      "episode": 95,
+      "title": "Octobella's Garden/Sploshy Splash",
+      "diziid": "pijama",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/95/octobella%E2%80%99nin_bahcesi__camurlu_vicik"
+    },
+    {
+      "season": 18,
+      "episode": 96,
+      "title": "Teeny Weeny Returns / Robo-Wolf",
+      "diziid": "pijama",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/96/teeny_weeny_geri_donuyor__robo_kurt"
+    },
+    {
+      "season": 19,
+      "episode": 97,
+      "title": "The Labours of Armadylan / Lost in Space",
+      "diziid": "pijama",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/97/armadylanin_emek_gucu__uzayda_kayip"
+    },
+    {
+      "season": 20,
+      "episode": 98,
+      "title": "The Power of Monkey Chatter / The Secret of Monkey Goodness",
+      "diziid": "pijama",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/98/maymun_gevezeliginin_gucu__maymun_iyiliginin_sirri"
+    },
+    {
+      "season": 21,
+      "episode": 99,
+      "title": "Pharaoh Boy/By My Pharaoh Feathers",
+      "diziid": "pijama",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/99/firavun_cocuk__firavun_tuylerim_askina"
+    },
+    {
+      "season": 22,
+      "episode": 100,
+      "title": "Pharaoh's Chariot/PJ Robot Malfunction",
+      "diziid": "pijama",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/100/firavunun_savas_arabasi__pijabotun_arizasi"
+    },
+    {
+      "season": 23,
+      "episode": 101,
+      "title": "The Mysterious Masks / Battle Of The Fangs",
+      "diziid": "pijama",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/101/gizemli_maskeler__dislerin_savasi"
+    },
+    {
+      "season": 24,
+      "episode": 102,
+      "title": "Catboy's Cat / Mad With Moon Power",
+      "diziid": "pijama",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/102/kedi_cocugun_kedisi__ayin_gucu_deliligi"
+    },
+    {
+      "season": 25,
+      "episode": 103,
+      "title": "Pharaoh and The Ninjalinos / Pharaoh's Boomerangs",
+      "diziid": "pijama",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/103/firavun_cocuk_ve_ninjalinolar__firavun_cocugun_bumeranglari"
+    },
+    {
+      "season": 26,
+      "episode": 104,
+      "title": "Bubbles Of Badness / Bubbles Of Badness Part 2",
+      "diziid": "pijama",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/104/kotuluk_baloncuklari__kotuluk_baloncuklari_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 105,
+      "title": "Ninja Power Up / Ninja Power Up Part II",
+      "diziid": "pijama",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/105/ninja_gucu_yukselisi__ninja_gucu_yukselisi_2._bolum"
+    },
+    {
+      "season": 2,
+      "episode": 106,
+      "title": "Luna Goes Too Far / Owly Tricks",
+      "diziid": "pijama",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/106/ay_kizi_cok_ileri_gidiyor__baykus_numaralari"
+    },
+    {
+      "season": 3,
+      "episode": 107,
+      "title": "Newton the Destructor / Luna Kazoomer",
+      "diziid": "pijama",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/107/yok_edici_newton__ay_kizi_roketi"
+    },
+    {
+      "season": 4,
+      "episode": 108,
+      "title": "Baddie Bots / Newton and the Animals",
+      "diziid": "pijama",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/108/kotu_robotlar__newton_ve_hayvanlar"
+    },
+    {
+      "season": 5,
+      "episode": 109,
+      "title": "Octobella Strikes Again / Octobella on the Loose",
+      "diziid": "pijama",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/109/octobella_yeniden_saldiriyor__octobella_firar_ediyor"
+    },
+    {
+      "season": 6,
+      "episode": 110,
+      "title": "Tenny Weeny to the Rescue / Invisible Munki-Gu",
+      "diziid": "pijama",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/110/tini_mini_imdada_yetisiyor__gorunmez_maymun-gu"
+    },
+    {
+      "season": 7,
+      "episode": 111,
+      "title": "Orticia Blooms / Orticia and the Pumpkins",
+      "diziid": "pijama",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/111/orticia_cicek_aciyor__orticia_ve_bal_kabaklari"
+    },
+    {
+      "season": 8,
+      "episode": 112,
+      "title": "Pirate Robot / Owlette, the Pirate Queen",
+      "diziid": "pijama",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/112/korsan_robot__baykus_kiz%2C_korsan_kralice"
+    },
+    {
+      "season": 9,
+      "episode": 113,
+      "title": "Catboy's Magic Trick/Gekko the Croc",
+      "diziid": "pijama",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/113/kedi_cocukun_sihir_numarasi__timsah_kertenkele"
+    },
+    {
+      "season": 10,
+      "episode": 114,
+      "title": "The Camping Trip/Pondweed Party",
+      "diziid": "pijama",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/114/kamp_gezisi__golet_bitkisi_partisi"
+    },
+    {
+      "season": 11,
+      "episode": 115,
+      "title": "A Percival Problem/Luna Girl's Sleepover",
+      "diziid": "pijama",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/115/percival_sorunu__ay_kizinin_pijama_partisi"
+    },
+    {
+      "season": 12,
+      "episode": 116,
+      "title": "Dragon Dance / An Yu and the Cave Stones",
+      "diziid": "pijama",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/116/ejderha_dansi__an_yu_ve_magara_taslari"
+    },
+    {
+      "season": 13,
+      "episode": 117,
+      "title": "Midnight Snack Attack / Voyage of the Golden Asteroid",
+      "diziid": "pijama",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/117/gece_yarisi_abur_cubur_saldirisi__altin_asteroidin_yolculugu"
+    },
+    {
+      "season": 14,
+      "episode": 118,
+      "title": "Carly and Cartoka / Carly and Cartoka Part II",
+      "diziid": "pijama",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/118/carly_ve_cartoka__carly_ve_cartoka_bolum_ii"
+    },
+    {
+      "season": 15,
+      "episode": 119,
+      "title": "PJ Riders/Flashcar in the Sky",
+      "diziid": "pijama",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/119/pj_biniciler__gokyuzundeki_flas_araba"
+    },
+    {
+      "season": 16,
+      "episode": 120,
+      "title": "Luna's Mega Moth/Captain Pirate Robot",
+      "diziid": "pijama",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/120/lunanin_mega_guvesi__kaptan_korsan_robot"
+    },
+    {
+      "season": 17,
+      "episode": 121,
+      "title": "Crash Track Trick/Gekko's Speedy Lizard",
+      "diziid": "pijama",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/121/carpisma_seridi_numarasi__gekkonun_hizli_kertenkelesi"
+    },
+    {
+      "season": 18,
+      "episode": 122,
+      "title": "Night Ninja's School of Naughtiness/The Jolly Ninjalino",
+      "diziid": "pijama",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/122/gece_ninjasinin_ninja_yaramazlik_okulu__neseli_ninjalino"
+    },
+    {
+      "season": 19,
+      "episode": 123,
+      "title": "The Power of Mystery Mountain / The Power of Mystery Mountain Part II",
+      "diziid": "pijama",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/123/gizem_daginin_gucu__gizem_daginin_gucu_bolum_ii"
+    },
+    {
+      "season": 20,
+      "episode": 124,
+      "title": "Slow and Sneaky/The PJ Riders Save the Day",
+      "diziid": "pijama",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/124/yavas_ve_sinsi__pijamali_suvariler_gunu_kurtarir"
+    },
+    {
+      "season": 21,
+      "episode": 125,
+      "title": "Moon Marooned/Newton and the Star Splat",
+      "diziid": "pijama",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/125/ayda_mahsur__newton_ve_yildiz_yapiskan"
+    },
+    {
+      "season": 22,
+      "episode": 126,
+      "title": "Trick or Treat / Trick or Treat Part II",
+      "diziid": "pijama",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/126/seker_mi_saka_mi__seker_mi_saka_mi_bolum_ii"
+    },
+    {
+      "season": 1,
+      "episode": 127,
+      "title": "Heroes of the Road",
+      "diziid": "pijama",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/127/yolun_kahramanlari"
+    },
+    {
+      "season": 25,
+      "episode": 128,
+      "title": "Newton's Discovery/Romeo's Pirate Trap",
+      "diziid": "pijama",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/129/newtonin_kesfi__romeonun_korsan_tuzagi"
+    },
+    {
+      "season": 26,
+      "episode": 129,
+      "title": "Luna's Moon Attack / Luna's Moon Attack Part II",
+      "diziid": "pijama",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/130/lunanin_ay_saldirisi__lunanin_ay_saldirisi_2.bolum"
+    },
+    {
+      "season": 1,
+      "episode": 130,
+      "title": "Heroes Everywhere / Heroes Everywhere Part II",
+      "diziid": "pijama",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/131/kahramanlar_her_yerde_1.bolum__kahraman_her_yerde_2.bolum"
+    },
+    {
+      "season": 2,
+      "episode": 131,
+      "title": "Heroes Everywhere Part III / Heroes Everywhere Part IV",
+      "diziid": "pijama",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/132/kahramanlar_her_yerde_3.bolum__kahramanlar_her_yerde_4.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 132,
+      "title": "The Whiff of Badness / An Yu's Birthday",
+      "diziid": "pijama",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/133/kotuluk_kokusu__an_yunun_dogum_gunu"
+    },
+    {
+      "season": 4,
+      "episode": 133,
+      "title": "Newton's New Asteroid / Moon Music",
+      "diziid": "pijama",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/134/newtonin_yeni_asteroidi__ay_muzigi"
+    },
+    {
+      "season": 5,
+      "episode": 134,
+      "title": "I Scream for Wolfies / An Yu and the Gekkos",
+      "diziid": "pijama",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/135/kurtlar_icin_dondurma__an_yu_ve_kertenkeleler"
+    },
+    {
+      "season": 6,
+      "episode": 135,
+      "title": "Pirate Ice Storm / Lilyfay",
+      "diziid": "pijama",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/136/korsan_buz_firtinasi__lilyfay"
+    },
+    {
+      "season": 7,
+      "episode": 136,
+      "title": "Iceworld / Iceworld Part II",
+      "diziid": "pijama",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/137/buz_dunyasi__buz_dunyasi_2.bolum"
+    },
+    {
+      "season": 8,
+      "episode": 137,
+      "title": "It's a Cat Thing / The Dance of Two Cats",
+      "diziid": "pijama",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/138/kedilere_ozgu_bir_sey__iki_kedinin_dansi"
+    },
+    {
+      "season": 9,
+      "episode": 138,
+      "title": "Space Fairy Hero / Lilyfay and the Lake",
+      "diziid": "pijama",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/139/kahraman_uzay_perisi__lilyfay_ve_gol"
+    },
+    {
+      "season": 10,
+      "episode": 139,
+      "title": "Luna the Sun Girl / Cats on Wheels",
+      "diziid": "pijama",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/140/gunes_kizi_luna__arabada_kediler"
+    },
+    {
+      "season": 11,
+      "episode": 140,
+      "title": "Heroes of Iceworld / Heroes of Iceworld Part II",
+      "diziid": "pijama",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/141/buz_dunyasi_kahramanlari__buz_dunyasi_kahramanlari_2.bolum"
+    },
+    {
+      "season": 12,
+      "episode": 141,
+      "title": "Heroes of Iceworld Part III / Heroes of Iceworld Part IV",
+      "diziid": "pijama",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/142/buz_dunyasi_kahramanlari_3.bolum__buz_dunyasi_kahramanlari_4.bolum"
+    },
+    {
+      "season": 13,
+      "episode": 142,
+      "title": "Gloop the Third / Gloop the Third Part II",
+      "diziid": "pijama",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/143/ucuncu_gloop_1.bolum__ucuncu_gloop_2.bolum"
+    },
+    {
+      "season": 14,
+      "episode": 143,
+      "title": "Wolfy Riders / Gekko Muscles In",
+      "diziid": "pijama",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/144/kurt_suvariler__gekkolar_mudahale_ediyor"
+    },
+    {
+      "season": 15,
+      "episode": 144,
+      "title": "The Christmas Ninjalinos / The Christmas Ninjalinos Part II",
+      "diziid": "pijama",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/145/noel_ninjalinolari__noel_ninjalinolari_2.bolum"
+    },
+    {
+      "season": 16,
+      "episode": 145,
+      "title": "The Super Gloopster / Gloop in the Moat",
+      "diziid": "pijama",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/146/super_gloopster__hendekteki_gloop"
+    },
+    {
+      "season": 17,
+      "episode": 146,
+      "title": "Pharoah's Mountain / Robot the Hero",
+      "diziid": "pijama",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/147/firavunun_dagi__kahraman_robot"
+    },
+    {
+      "season": 18,
+      "episode": 147,
+      "title": "Heroes of Space / Heroes of Space Part II",
+      "diziid": "pijama",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/148/uzay_kahramanlari__uzay_kahramanlari_2.bolum"
+    },
+    {
+      "season": 19,
+      "episode": 148,
+      "title": "Heroes of Space Part III / Heroes of Space Part IV",
+      "diziid": "pijama",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/149/uzay_kahramanlari_3.bolum__uzay_kahramanlari_4.bolum"
+    },
+    {
+      "season": 20,
+      "episode": 149,
+      "title": "Let It Howl / Wolfy Treasure Hunt",
+      "diziid": "pijama",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/150/birakin_ulusun__kurt_hazine_avi"
+    },
+    {
+      "season": 21,
+      "episode": 150,
+      "title": "Bastet By the Book / Romeovision",
+      "diziid": "pijama",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/151/bastet_kitap_pesinde__romeovizyon"
+    },
+    {
+      "season": 22,
+      "episode": 151,
+      "title": "Moth Boy / The Curse of Armadylan",
+      "diziid": "pijama",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/152/guve_cocuk__armadylanin_sihri"
+    },
+    {
+      "season": 23,
+      "episode": 152,
+      "title": "Flashcar to the Moon / Catboy's Tiny Problem",
+      "diziid": "pijama",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/153/flas_araba_aya_gidiyor__kedi_cocukun_minik_sorunu"
+    },
+    {
+      "season": 24,
+      "episode": 153,
+      "title": "The Sun Factory / Catboy Does It All",
+      "diziid": "pijama",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/154/gunes_fabrikasi__hepsini_kedi_cocuk_halleder"
+    },
+    {
+      "season": 25,
+      "episode": 154,
+      "title": "The Catastrophe Stone / The Legend of Moon Pirate",
+      "diziid": "pijama",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/155/felaket_tasi__ay_korsaninin_efsanesi"
+    },
+    {
+      "season": 26,
+      "episode": 155,
+      "title": "Return to Planet Gloop/Return to Planet Gloop Part II",
+      "diziid": "pijama",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/pijama/pijamaskeliler/156/gloop_gezegenine_donus__gloop_gezegenine_donus_2.bolum"
+    }
+  ]
+}

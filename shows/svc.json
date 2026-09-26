@@ -1,0 +1,301 @@
+{
+  "id": "svc",
+  "title": "sam ve cat",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/SVCPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "#Pilot",
+      "diziid": "svc",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/1/pilotbolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "#FavoriteShow",
+      "diziid": "svc",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/2/favorigosteri"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "#TheBritBrats",
+      "diziid": "svc",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/3/havalilar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "#NewGoat",
+      "diziid": "svc",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/4/yenikeci"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "#TextingCompetition",
+      "diziid": "svc",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/5/mesajyarismasi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "#BabysitterWar",
+      "diziid": "svc",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/6/bebekbakicisisavasi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "#GoomerSitting",
+      "diziid": "svc",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/7/goomeroturuyor"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "#ToddlerClimbing",
+      "diziid": "svc",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/8/toddlertirmanisi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "#MommaGoomer",
+      "diziid": "svc",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/9/goomerinannesi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "#BabysittingCommercial",
+      "diziid": "svc",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/10/bebekbakiciligireklamlari"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "#RevengeOfTheBritBrats",
+      "diziid": "svc",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/11/kucukyaramazlarinintikami"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "#MotorcycleMystery",
+      "diziid": "svc",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/12/motosikletgizemi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "#SecretSafe",
+      "diziid": "svc",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/13/gizlikasa"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "#OscarTheOuch",
+      "diziid": "svc",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/14/sakaroscar"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "#DollSitting",
+      "diziid": "svc",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/15/oyuncakbebekbakicilari"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "#PeezyB",
+      "diziid": "svc",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/16/peezyb"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "#SalmonCat",
+      "diziid": "svc",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/17/somonkedi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "#Twinfection",
+      "diziid": "svc",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/18/ikizhastaligi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "#MyPoober",
+      "diziid": "svc",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/19/pooberim"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "#MadAboutShoe",
+      "diziid": "svc",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/20/ayakkabiicindelirmek"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "#MagicATM",
+      "diziid": "svc",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/21/sihirlibankamatik"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "#Lumpatious",
+      "diziid": "svc",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/22/sangalak"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "#TheKillerTunaJump: #Freddie #Jade #Robbie (Part 1)",
+      "diziid": "svc",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/23/hircintonbaligiatlayisi%3A_freddie_jade_robbie%3A_kisim_1"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "#TheKillerTunaJump: #Freddie #Jade #Robbie (Part 2)",
+      "diziid": "svc",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/24/hircintonbaligiatlayisi%3A_freddie_jade_robbie%3A_kisim_2"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "#YayDay",
+      "diziid": "svc",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/25/yasasingunu"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "#BrainCrush",
+      "diziid": "svc",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/26/beyinkazasi"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "#BlueDogSoda",
+      "diziid": "svc",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/27/mavikopektakimi"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "#BlooperEpisode",
+      "diziid": "svc",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/28/cekimhatalari"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "#FresnoGirl",
+      "diziid": "svc",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/29/fresnokiz"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "#StuckInABox",
+      "diziid": "svc",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/30/kutudakikiz"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "#SuperPsycho",
+      "diziid": "svc",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/31/superdeli"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "#DroneBabyDrone",
+      "diziid": "svc",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/32/insansizhavaaraci"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "#FirstClassProblems",
+      "diziid": "svc",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/33/birincisinifsorunlari"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "#KnockOut",
+      "diziid": "svc",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/34/nakavt"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "#WeStealARockStar",
+      "diziid": "svc",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/35/birrockyildizinikacirmak"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "#GettinWiggy",
+      "diziid": "svc",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/svc/sam_ve_cat/36/peruktakmak"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "splinter",
+  "title": "splinter cell: deathwatch",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SPLINTERPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Aksiyon",
+    "SuÃ§/Polisiye",
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Up from the Grave",
+      "diziid": "splinter",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/splinter/splinter_cell%3A_deathwatch/1/mezarindan_kalkip"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Dinner First, Talk Later",
+      "diziid": "splinter",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/splinter/splinter_cell%3A_deathwatch/2/once_yemek%2C_sonra_sohbet"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Welcome to the 4th Echelon",
+      "diziid": "splinter",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/splinter/splinter_cell%3A_deathwatch/3/4._kademeye_hos_geldin"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Scars of Bagram",
+      "diziid": "splinter",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/splinter/splinter_cell%3A_deathwatch/4/bagramdaki_yaralar"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Simple as That",
+      "diziid": "splinter",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/splinter/splinter_cell%3A_deathwatch/5/bu_kadar_basit"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Man Is the Mission",
+      "diziid": "splinter",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/splinter/splinter_cell%3A_deathwatch/6/gorevimiz_insan"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Chaos Theory - Part.1",
+      "diziid": "splinter",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/splinter/splinter_cell%3A_deathwatch/7/kaos_teorisi%3A_1._kisim"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Chaos Theory - Part.2",
+      "diziid": "splinter",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/splinter/splinter_cell%3A_deathwatch/8/kaos_teorisi%3A_2._kisim"
+    }
+  ]
+}

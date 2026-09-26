@@ -1,0 +1,220 @@
+{
+  "id": "puffr",
+  "title": "puffin rock",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/PUFFRPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "DoÄŸa ve Hayvanlar"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Puffin Practice / The Mystery Egg / To See the Moon",
+      "diziid": "puffr",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/1/buyukler_gibi__gizemli_yumurta__ayi_gormek"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Shiny Shell / Friendly Flynne / A Feather Bed",
+      "diziid": "puffr",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/2/parlak_deniz_kabugu__dost_tilki__yumusak_bir_yuva"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Beach Rescue / Lost Berries / Night Lights",
+      "diziid": "puffr",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/3/sahil_kurtarma__kayip_bogurtlenler__gece_isiklari"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Pond Life / Bird Detective / Bernie's Shell",
+      "diziid": "puffr",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/4/camurlu_golet__dedektif_kus__bernienin_deniz_kabugu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Hop, Skip and Bump / Bouncing Back / A Noisy Neighbor",
+      "diziid": "puffr",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/5/iki_sampiyon__super_dalgic__gurultucu_komsu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Stormy Weather / Baba's Adventure / Rock Music",
+      "diziid": "puffr",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/6/firtina__babanin_macerasi__muzikli_bir_gece"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Burrow Race / Silky's Slide / Ruffled Feathers",
+      "diziid": "puffr",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/7/yaris__buyuk_kizak__guzel_balikcil"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Finding Bernie / The Foggy Day / Run, Flap, Fly",
+      "diziid": "puffr",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/8/bernie_nerede__sisli_bir_gun__kos%2C_kanat_cirp_ve_uc"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Follow the Puffin / Spot the Puffin / The Sad Whale",
+      "diziid": "puffr",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/9/benim_gibi_yap__saklambac__uzgun_balina"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Fast Day / Baba's Friend / Flying High",
+      "diziid": "puffr",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/10/hizli_bir_gun__babanin_arkadasi__yukseklerde_ucmak"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Silky's Seahorses / Keeping Cosy / Baba's Picnic",
+      "diziid": "puffr",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/11/denizatlari__cok_soguk_bir_gun__piknik_zamani"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Cave Camping / The Empty Shell / Three's a Crowd",
+      "diziid": "puffr",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/12/ailece_kamp__kirmizi_yengecler__baykus_pip"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Mossy Goes Solo / Flooded Burrow / Daytime Sleepover",
+      "diziid": "puffr",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/13/mossy_tek_basina__mayin_yaninda_bir_gece__pijama_partisi"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Back to the Pond / The Fallen Rocks / Homesick Hoglet",
+      "diziid": "puffr",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/14/golete_donus__dusen_kayalar__evini_ozleyen_yavru_kirpi"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Silky and the Octopus / The Salmon Leap / The Great Gull",
+      "diziid": "puffr",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/15/silky_ve_ahtapot__somon_atlayisi__buyuk_marti"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Baba-sitting / The Puffin Way / Bernie and the Bee",
+      "diziid": "puffr",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/16/baba_bakiciligi__puffin_yolu__bernie_ve_ari"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Find the Owls / Mossy's Flea / Dinner at Bernie's",
+      "diziid": "puffr",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/17/baykuslari_bul__mossynin_piresi__berniede_aksam_yemegi"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "The Dung Beetle / Oona's Fishing Trip / Spot the Ladybird",
+      "diziid": "puffr",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/18/bok_bocegi__oona_baliga_cikiyor__ugurbocegini_bul"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "The Best Shell / The Meteor Shower / The Dragonfly Display",
+      "diziid": "puffr",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/19/en_iyi_kabuk__meteor_yagmuru__helikopter_bocegi_gosterisi"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Silky's New Friend / The First Snow / Oona's Cave",
+      "diziid": "puffr",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/20/silkynin_yeni_arkadasi__ilk_kar__oonanin_magarasi"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Just Like Mama / Diving Deeper / A Day Out",
+      "diziid": "puffr",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/21/tipki_anne_gibi__derine_dalmak__disarida_bir_gun"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Owl School / A Hot Day / A Summer Visitor",
+      "diziid": "puffr",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/22/baykus_okulu__sicak_bir_gun__yaz_misafiri"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Lamb Chase / Mossy Impossible / A Special Seashell",
+      "diziid": "puffr",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/23/kuzu_kovalamacasi__imkansiz_mossy__ozel_bir_deniz_kabugu"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "Turtle Taxi / New Neighbours / Rainbow",
+      "diziid": "puffr",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/24/kaplumbaga_taksisi__yeni_komsular__gokkusagi"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Puffin Treasure / Mossy's Mystery / The Longest Day",
+      "diziid": "puffr",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/25/puffin_hazinesi__mossynin_sirri__en_uzun_gun"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "House Hunting / Super Snail / Day and Night",
+      "diziid": "puffr",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/puffr/puffin_rock/26/ev_arayisi__super_salyangoz__gunduz_ve_gece"
+    }
+  ]
+}

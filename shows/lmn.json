@@ -1,0 +1,421 @@
+{
+  "id": "lmn",
+  "title": "elementler",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/LMNPoster.avif",
+  "channel": "Kanal 26",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Sabotage",
+      "diziid": "lmn",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/1/sabotaj"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The electric current",
+      "diziid": "lmn",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/2/elektrik_akimi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Lost",
+      "diziid": "lmn",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/3/kayip"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The wise Fluoride",
+      "diziid": "lmn",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/4/bilge_flor"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The periodic table",
+      "diziid": "lmn",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/5/periyodik_cetvel"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The quartz range",
+      "diziid": "lmn",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/6/kuvarz_menzili"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Rubid iood",
+      "diziid": "lmn",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/7/rubid_iood"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The rare earth",
+      "diziid": "lmn",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/8/nadir_toprak_elementi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The desert",
+      "diziid": "lmn",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/9/issiz_yer"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The virus",
+      "diziid": "lmn",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/10/virus"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The big race",
+      "diziid": "lmn",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/11/buyuk_yaris"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The universe",
+      "diziid": "lmn",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/12/evren"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The big bridge",
+      "diziid": "lmn",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/13/buyuk_kopru"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The radioactive plan",
+      "diziid": "lmn",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/14/saf_radyoaktivite"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The castle of Robins",
+      "diziid": "lmn",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/15/yakut_kalesi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The harmonica trap",
+      "diziid": "lmn",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/16/harmonik_tuzak"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The laser",
+      "diziid": "lmn",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/17/lazer"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Critical mass",
+      "diziid": "lmn",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/18/kritik_kitle"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Underwater",
+      "diziid": "lmn",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/19/subaquatic"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The storm",
+      "diziid": "lmn",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/20/firtina"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Endothermy",
+      "diziid": "lmn",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/21/endoterm"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "The footstep",
+      "diziid": "lmn",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/22/ayak_izi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Magma",
+      "diziid": "lmn",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/23/magma"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The black lake",
+      "diziid": "lmn",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/24/kara_gol"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Stress",
+      "diziid": "lmn",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/25/stres"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Altamira",
+      "diziid": "lmn",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/26/altamira"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "La carga",
+      "diziid": "lmn",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/27/kargo"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "La contaminaciÃ³n",
+      "diziid": "lmn",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/28/bulasmak"
+    },
+    {
+      "season": 30,
+      "episode": 29,
+      "title": "MisiÃ³n imposible",
+      "diziid": "lmn",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/30/imkansiz_gorev"
+    },
+    {
+      "season": 31,
+      "episode": 30,
+      "title": "Recuerdos",
+      "diziid": "lmn",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/31/anilar"
+    },
+    {
+      "season": 32,
+      "episode": 31,
+      "title": "La red",
+      "diziid": "lmn",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/32/ag"
+    },
+    {
+      "season": 33,
+      "episode": 32,
+      "title": "Espectros",
+      "diziid": "lmn",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/33/hayaletler"
+    },
+    {
+      "season": 34,
+      "episode": 33,
+      "title": "Las 3 pruebas",
+      "diziid": "lmn",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/34/uc_test"
+    },
+    {
+      "season": 35,
+      "episode": 34,
+      "title": "La ameba",
+      "diziid": "lmn",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/35/amip"
+    },
+    {
+      "season": 36,
+      "episode": 35,
+      "title": "El condensador",
+      "diziid": "lmn",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/36/kondansator"
+    },
+    {
+      "season": 37,
+      "episode": 36,
+      "title": "El radioaficionado",
+      "diziid": "lmn",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/37/calinan_telsiz"
+    },
+    {
+      "season": 38,
+      "episode": 37,
+      "title": "Espejismos",
+      "diziid": "lmn",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/38/serap"
+    },
+    {
+      "season": 39,
+      "episode": 38,
+      "title": "SÃ­smico",
+      "diziid": "lmn",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/39/sismik"
+    },
+    {
+      "season": 40,
+      "episode": 39,
+      "title": "La marea",
+      "diziid": "lmn",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/40/gelgit"
+    },
+    {
+      "season": 41,
+      "episode": 40,
+      "title": "Isotopia",
+      "diziid": "lmn",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/41/izotopya"
+    },
+    {
+      "season": 42,
+      "episode": 41,
+      "title": "BahÃ­a de la alquimia",
+      "diziid": "lmn",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/42/simya_korfezi"
+    },
+    {
+      "season": 43,
+      "episode": 42,
+      "title": "La burbuja",
+      "diziid": "lmn",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/43/kabarcik"
+    },
+    {
+      "season": 44,
+      "episode": 43,
+      "title": "El ataque de nanorobot",
+      "diziid": "lmn",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/44/nanorobot_saldirisi"
+    },
+    {
+      "season": 45,
+      "episode": 44,
+      "title": "Phophonia",
+      "diziid": "lmn",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/45/phosphonia"
+    },
+    {
+      "season": 46,
+      "episode": 45,
+      "title": "El caos",
+      "diziid": "lmn",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/46/kaos"
+    },
+    {
+      "season": 47,
+      "episode": 46,
+      "title": "Super desechos",
+      "diziid": "lmn",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/47/super_scraps"
+    },
+    {
+      "season": 48,
+      "episode": 47,
+      "title": "La gran muralla",
+      "diziid": "lmn",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/48/buyuk_duvar"
+    },
+    {
+      "season": 49,
+      "episode": 48,
+      "title": "El cristal de la mega lupa",
+      "diziid": "lmn",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/49/dev_buyutec"
+    },
+    {
+      "season": 50,
+      "episode": 49,
+      "title": "The frontier",
+      "diziid": "lmn",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/50/inci"
+    },
+    {
+      "season": 51,
+      "episode": 50,
+      "title": "The revolution",
+      "diziid": "lmn",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/51/devrim"
+    },
+    {
+      "season": 52,
+      "episode": 51,
+      "title": "The return home",
+      "diziid": "lmn",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/lmn/elementler/52/eve_donus"
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "id": "pazar",
+  "title": "pazar eÄŸlencesi",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/PAZARPoster.png",
+  "channel": "Cartoonito",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Broken Ducky",
+      "diziid": "pazar",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/1/bozuk_ordekcik"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Watermelon Rescue",
+      "diziid": "pazar",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/2/karpuz_kurtarma"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "New Birdy",
+      "diziid": "pazar",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/3/yeni_kuscuk"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Make a Wish",
+      "diziid": "pazar",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/4/bir_dilek_tut"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Forever Castle",
+      "diziid": "pazar",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/5/sonsuz_kale"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Stringy Soup",
+      "diziid": "pazar",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/6/seritli_corba"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Mom's Sandwich",
+      "diziid": "pazar",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/7/anne_sandvici"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Picnic Hill",
+      "diziid": "pazar",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/8/piknik_tepesi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Sit Still, Sonia",
+      "diziid": "pazar",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/9/yerinde_dur_sonia"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Last Cookie",
+      "diziid": "pazar",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/10/son_kurabiye"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Crab's Home",
+      "diziid": "pazar",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/11/yengecin_evi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Magic Trick",
+      "diziid": "pazar",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/12/sihir_gosterisi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Yellow Sock",
+      "diziid": "pazar",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/13/sari_corap"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Paper Sheep",
+      "diziid": "pazar",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/14/kagit_koyun"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Snowballs and Doughballs",
+      "diziid": "pazar",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/15/kar_toplari_ve_hamur_toplari"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Carried Away",
+      "diziid": "pazar",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/16/tasinma"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Tram Trip",
+      "diziid": "pazar",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/17/tramvay_yolculugu"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Package",
+      "diziid": "pazar",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/18/paket"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Windy Day",
+      "diziid": "pazar",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/19/ruzgarli_gun"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Hand Me Downs",
+      "diziid": "pazar",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/20/baskasina_ver"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Me and My Shadow",
+      "diziid": "pazar",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/21/ben_ve_golgem"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Happy to Help",
+      "diziid": "pazar",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/22/seve_seve_yardim_ederim"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "A Jolly Day",
+      "diziid": "pazar",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/23/jolly_ile_bir_gun"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Broken Pot",
+      "diziid": "pazar",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/24/kirik_tencere"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Meet the Rocks",
+      "diziid": "pazar",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/25/tas_ailesi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "A Fruity Mix Up",
+      "diziid": "pazar",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/26/meyveli_bir_karisiklik"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Kitty Adventure",
+      "diziid": "pazar",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/27/kedicik_macerasi"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Mel's Hair",
+      "diziid": "pazar",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/28/melin_saci"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Watermelon Picking",
+      "diziid": "pazar",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/29/karpuz_toplama"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Star Light Star Bright",
+      "diziid": "pazar",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/30/parla_yildiz_parlak_yildiz"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Corner Shop",
+      "diziid": "pazar",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/31/kose_market"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Reach for the Sky",
+      "diziid": "pazar",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/32/gokyuzune_ulasmak"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Boat Trip",
+      "diziid": "pazar",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/33/tekne_yolculugu"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Spin, Spin, Spin",
+      "diziid": "pazar",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/34/don_don_don"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Digging Quest",
+      "diziid": "pazar",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/35/kazi_gorevi"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Happy Never Ending",
+      "diziid": "pazar",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/36/mutlu_sonla_bitemedi"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Wall Painting",
+      "diziid": "pazar",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/37/duvar_boyama"
+    },
+    {
+      "season": 39,
+      "episode": 38,
+      "title": "Stormy Sunday",
+      "diziid": "pazar",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/39/firtinali_pazar"
+    },
+    {
+      "season": 40,
+      "episode": 39,
+      "title": "Time to Bake",
+      "diziid": "pazar",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/40/pisirme_vakti"
+    },
+    {
+      "season": 41,
+      "episode": 40,
+      "title": "Dino Story",
+      "diziid": "pazar",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/41/dino_hikayesi"
+    },
+    {
+      "season": 42,
+      "episode": 41,
+      "title": "Bubble Trouble",
+      "diziid": "pazar",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/42/baloncuk_derdi"
+    },
+    {
+      "season": 43,
+      "episode": 42,
+      "title": "Copy! Copy!",
+      "diziid": "pazar",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/43/taklitci"
+    },
+    {
+      "season": 44,
+      "episode": 43,
+      "title": "Light Home",
+      "diziid": "pazar",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/44/fener_evi"
+    },
+    {
+      "season": 45,
+      "episode": 44,
+      "title": "Mystery Sheet",
+      "diziid": "pazar",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/45/gizemli_ortu"
+    },
+    {
+      "season": 46,
+      "episode": 45,
+      "title": "Musical Sundays",
+      "diziid": "pazar",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/46/muzikal_pazarlar"
+    },
+    {
+      "season": 47,
+      "episode": 46,
+      "title": "Choices Choices",
+      "diziid": "pazar",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/47/secimler_secimler"
+    },
+    {
+      "season": 48,
+      "episode": 47,
+      "title": "Balloon Rocket",
+      "diziid": "pazar",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/48/balon_roket"
+    },
+    {
+      "season": 49,
+      "episode": 48,
+      "title": "Dad's Present",
+      "diziid": "pazar",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/49/babanin_hediyesi"
+    },
+    {
+      "season": 50,
+      "episode": 49,
+      "title": "Sunday Football",
+      "diziid": "pazar",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/50/pazar_futbolu"
+    },
+    {
+      "season": 51,
+      "episode": 50,
+      "title": "Paddling Problem",
+      "diziid": "pazar",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/51/havuz_problemi"
+    },
+    {
+      "season": 52,
+      "episode": 51,
+      "title": "Traffic Lights",
+      "diziid": "pazar",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/52/trafik_isiklari"
+    },
+    {
+      "season": 53,
+      "episode": 52,
+      "title": "Cauliflower Picnic",
+      "diziid": "pazar",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/53/karnaval_piknigi"
+    },
+    {
+      "season": 54,
+      "episode": 53,
+      "title": "Building Bots",
+      "diziid": "pazar",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/54/robotun_insasi"
+    },
+    {
+      "season": 55,
+      "episode": 54,
+      "title": "Sunday Helpers",
+      "diziid": "pazar",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/55/pazar_yardimcilar"
+    },
+    {
+      "season": 56,
+      "episode": 55,
+      "title": "Skip, Skip, Skipping",
+      "diziid": "pazar",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/56/zipla_zipla_zipla"
+    },
+    {
+      "season": 57,
+      "episode": 56,
+      "title": "A Place to Paint",
+      "diziid": "pazar",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/57/boyayacak_bir_yer"
+    },
+    {
+      "season": 58,
+      "episode": 57,
+      "title": "Laundry Life",
+      "diziid": "pazar",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/58/camasir_hayati"
+    },
+    {
+      "season": 59,
+      "episode": 58,
+      "title": "Everything About Everywhere",
+      "diziid": "pazar",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/59/her_yer_hakkinda_her_sey"
+    },
+    {
+      "season": 60,
+      "episode": 59,
+      "title": "Guess What?!",
+      "diziid": "pazar",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/60/bil_bakalim"
+    },
+    {
+      "season": 61,
+      "episode": 60,
+      "title": "Got to Go",
+      "diziid": "pazar",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/61/gitmek_gerek"
+    },
+    {
+      "season": 62,
+      "episode": 61,
+      "title": "Bye-Bye Octi",
+      "diziid": "pazar",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/62/gule_gule_octi"
+    },
+    {
+      "season": 63,
+      "episode": 62,
+      "title": "Family Photo",
+      "diziid": "pazar",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/63/aile_fotografi"
+    },
+    {
+      "season": 64,
+      "episode": 63,
+      "title": "The Roller Ride",
+      "diziid": "pazar",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/64/paten_surmek"
+    },
+    {
+      "season": 65,
+      "episode": 64,
+      "title": "Butterfly Flutterby",
+      "diziid": "pazar",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/65/uc_uc_kelebek"
+    },
+    {
+      "season": 66,
+      "episode": 65,
+      "title": "Hopscotch",
+      "diziid": "pazar",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/66/seksek"
+    },
+    {
+      "season": 67,
+      "episode": 66,
+      "title": "Beach Packing",
+      "diziid": "pazar",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/67/plaja_hazirlik"
+    },
+    {
+      "season": 68,
+      "episode": 67,
+      "title": "Swim Class",
+      "diziid": "pazar",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/68/yuzme_dersi"
+    },
+    {
+      "season": 69,
+      "episode": 68,
+      "title": "Wakey Wakey",
+      "diziid": "pazar",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/69/uyan_uyan"
+    },
+    {
+      "season": 70,
+      "episode": 69,
+      "title": "Musical Stool",
+      "diziid": "pazar",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/70/muzikal_sandalye"
+    },
+    {
+      "season": 71,
+      "episode": 70,
+      "title": "Doodle Day",
+      "diziid": "pazar",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/71/cizim_gunu"
+    },
+    {
+      "season": 72,
+      "episode": 71,
+      "title": "Keeping Cool",
+      "diziid": "pazar",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/72/serin_kal"
+    },
+    {
+      "season": 73,
+      "episode": 72,
+      "title": "Cricket Chorus",
+      "diziid": "pazar",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/73/circir_bocegi_korosu"
+    },
+    {
+      "season": 74,
+      "episode": 73,
+      "title": "A Sunday Puzzle",
+      "diziid": "pazar",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/74/bir_pazar_bulmacasi"
+    },
+    {
+      "season": 75,
+      "episode": 74,
+      "title": "Sleep Over",
+      "diziid": "pazar",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/75/uykusuz"
+    },
+    {
+      "season": 76,
+      "episode": 75,
+      "title": "Babies on the Block",
+      "diziid": "pazar",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/76/mahalledeki_bebekler"
+    },
+    {
+      "season": 77,
+      "episode": 76,
+      "title": "Beach Bath",
+      "diziid": "pazar",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/77/plaj_banyosu"
+    },
+    {
+      "season": 78,
+      "episode": 77,
+      "title": "The Biggest Joy",
+      "diziid": "pazar",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/pazar/pazar_eglencesi/78/en_buyuk_nese"
+    }
+  ]
+}

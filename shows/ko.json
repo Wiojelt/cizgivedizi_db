@@ -1,0 +1,821 @@
+{
+  "id": "ko",
+  "title": "ok k.o.! kahraman olalÄ±m",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KOPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Aksiyon",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Let's Be Heroes",
+      "diziid": "ko",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/1/hadi_kahraman_olalim"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Let's Be Friends!",
+      "diziid": "ko",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/2/hadi_arkadas_olalim"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "You're Everybody's Sidekick",
+      "diziid": "ko",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/3/sen_herkesin_yardimcisisin"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "We Messed Up",
+      "diziid": "ko",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/4/batirdik"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Jethro's All Yours",
+      "diziid": "ko",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/5/jethro_emrinizde"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "You're Level 100",
+      "diziid": "ko",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/6/sen_100._seviyesin"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Sibling Rivalry",
+      "diziid": "ko",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/7/kardes_rekabeti"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "I Am Dendy",
+      "diziid": "ko",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/8/benim_adim_dendy"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Do You Have Any More in the Back?",
+      "diziid": "ko",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/9/arka_tarafta_var_midir_acaba"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "My Dad Can Beat Up Your Dad!",
+      "diziid": "ko",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/10/benim_babam_seni_babani_dover%21"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "You Get Me",
+      "diziid": "ko",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/11/beni_anliyorsun"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "You Are Rad",
+      "diziid": "ko",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/12/sen_radsin"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Just Be a Pebble",
+      "diziid": "ko",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/13/yalnizca_bir_cakil_tasi_ol"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Presenting Joe Cuppa",
+      "diziid": "ko",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/14/karsinizda_joe_cuppa"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "We've Got Pests",
+      "diziid": "ko",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/15/haserelendik"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Legends of Mr. Gar",
+      "diziid": "ko",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/16/bay_garin_efsaneleri"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Know Your Mom",
+      "diziid": "ko",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/17/anneni_tani"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "We're Captured",
+      "diziid": "ko",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/18/tutsak_edildik"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Face Your Fears",
+      "diziid": "ko",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/19/korkularinla_yuzles"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Everybody Likes Rad?",
+      "diziid": "ko",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/20/herkes_radi_seviyor"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "You Have to Care",
+      "diziid": "ko",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/21/onemsemelisin"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Plaza Prom",
+      "diziid": "ko",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/22/plaza_balosu"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Second First Date",
+      "diziid": "ko",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/23/ikinci_ilk_randevu"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "One Last Score",
+      "diziid": "ko",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/24/bir_sayi_daha"
+    },
+    {
+      "season": 1,
+      "episode": 25,
+      "title": "T.K.O.",
+      "diziid": "ko",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/25/t.k.o."
+    },
+    {
+      "season": 27,
+      "episode": 26,
+      "title": "Stop Attacking the Plaza",
+      "diziid": "ko",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/27/plazaya_artik_saldirma"
+    },
+    {
+      "season": 28,
+      "episode": 27,
+      "title": "We've Got Fleas",
+      "diziid": "ko",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/28/pirelendik"
+    },
+    {
+      "season": 29,
+      "episode": 28,
+      "title": "No More Pow Cards",
+      "diziid": "ko",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/29/guc_kartlari_bitti"
+    },
+    {
+      "season": 30,
+      "episode": 29,
+      "title": "A Hero's Fate",
+      "diziid": "ko",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/30/kahramanin_kaderi"
+    },
+    {
+      "season": 31,
+      "episode": 30,
+      "title": "Let's Have a Stakeout",
+      "diziid": "ko",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/31/av_zamani"
+    },
+    {
+      "season": 32,
+      "episode": 31,
+      "title": "Rad Likes Robots",
+      "diziid": "ko",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/32/rad_robotlari_seviyor"
+    },
+    {
+      "season": 33,
+      "episode": 32,
+      "title": "K.O.'s Video Channel",
+      "diziid": "ko",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/33/k.o.nun_video_kanali"
+    },
+    {
+      "season": 34,
+      "episode": 33,
+      "title": "The Power Is Yours!",
+      "diziid": "ko",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/34/guc_sende"
+    },
+    {
+      "season": 35,
+      "episode": 34,
+      "title": "Glory Days",
+      "diziid": "ko",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/35/zafer_gunleri"
+    },
+    {
+      "season": 36,
+      "episode": 35,
+      "title": "Plazalympics",
+      "diziid": "ko",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/36/carsi_olimpiyatlari"
+    },
+    {
+      "season": 37,
+      "episode": 36,
+      "title": "Parents' Day",
+      "diziid": "ko",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/37/anne_babalar_gunu"
+    },
+    {
+      "season": 38,
+      "episode": 37,
+      "title": "We Got Hacked",
+      "diziid": "ko",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/38/hacklendik"
+    },
+    {
+      "season": 40,
+      "episode": 38,
+      "title": "Let's Take a Moment",
+      "diziid": "ko",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/40/hadi_biraz_ara_verelim"
+    },
+    {
+      "season": 41,
+      "episode": 39,
+      "title": "Villains' Night Out",
+      "diziid": "ko",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/41/kotulerin_eglence_gecesi"
+    },
+    {
+      "season": 42,
+      "episode": 40,
+      "title": "Villains' Night In",
+      "diziid": "ko",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/42/kotulerin_gunu"
+    },
+    {
+      "season": 43,
+      "episode": 41,
+      "title": "Let's Watch the Pilot",
+      "diziid": "ko",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/43/pilota_dikkat"
+    },
+    {
+      "season": 44,
+      "episode": 42,
+      "title": "Mystery Science Fair 201X",
+      "diziid": "ko",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/44/bilim_fuari"
+    },
+    {
+      "season": 45,
+      "episode": 43,
+      "title": "RMS & Brandon's First Episode",
+      "diziid": "ko",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/45/ilk_etap"
+    },
+    {
+      "season": 46,
+      "episode": 44,
+      "title": "Lad & Logic",
+      "diziid": "ko",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/46/genc_ve_mantik"
+    },
+    {
+      "season": 47,
+      "episode": 45,
+      "title": "OK Dendy! Let's Be K.O.!",
+      "diziid": "ko",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/47/tamam_dendy%21_hadi_k.o.%21_olalim"
+    },
+    {
+      "season": 49,
+      "episode": 46,
+      "title": "Let's Not Be Skeletons",
+      "diziid": "ko",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/49/iskelet_olmayalim"
+    },
+    {
+      "season": 50,
+      "episode": 47,
+      "title": "Action News",
+      "diziid": "ko",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/50/olay_haberleri"
+    },
+    {
+      "season": 51,
+      "episode": 48,
+      "title": "The Perfect Meal",
+      "diziid": "ko",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/51/mukemmel_yemek"
+    },
+    {
+      "season": 1,
+      "episode": 49,
+      "title": "You're in Control",
+      "diziid": "ko",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/53/kontrol_altindasin"
+    },
+    {
+      "season": 1,
+      "episode": 50,
+      "title": "Seasons Change",
+      "diziid": "ko",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/55/mevsim_degisikligi"
+    },
+    {
+      "season": 2,
+      "episode": 51,
+      "title": "Lord Cowboy Darrell",
+      "diziid": "ko",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/56/kovboy_darrell"
+    },
+    {
+      "season": 3,
+      "episode": 52,
+      "title": "Plaza Film Festival",
+      "diziid": "ko",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/57/plaza_film_festivali"
+    },
+    {
+      "season": 4,
+      "episode": 53,
+      "title": "Be a Team",
+      "diziid": "ko",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/58/takim_olun"
+    },
+    {
+      "season": 6,
+      "episode": 54,
+      "title": "Let's Watch the Boxmore Show",
+      "diziid": "ko",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/60/boxmore_gosterisini_izleyelim"
+    },
+    {
+      "season": 7,
+      "episode": 55,
+      "title": "Your World Is an Illusion",
+      "diziid": "ko",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/61/dunyaniz_bir_illuzyon"
+    },
+    {
+      "season": 8,
+      "episode": 56,
+      "title": "The So-Bad-ical",
+      "diziid": "ko",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/62/bu_isim_cok_kotu_oldu"
+    },
+    {
+      "season": 9,
+      "episode": 57,
+      "title": "Point to the Plaza",
+      "diziid": "ko",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/63/point_plazada"
+    },
+    {
+      "season": 10,
+      "episode": 58,
+      "title": "T.K.O.'s House",
+      "diziid": "ko",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/64/t.k.o.nun_evi"
+    },
+    {
+      "season": 12,
+      "episode": 59,
+      "title": "Dendy's Power",
+      "diziid": "ko",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/66/dendynin_gucu"
+    },
+    {
+      "season": 13,
+      "episode": 60,
+      "title": "Special Delivery",
+      "diziid": "ko",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/67/ozel_teslimat"
+    },
+    {
+      "season": 14,
+      "episode": 61,
+      "title": "Wisdom, Strength and Charisma",
+      "diziid": "ko",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/68/bilgelik%2C_guc_ve_karizma"
+    },
+    {
+      "season": 15,
+      "episode": 62,
+      "title": "Bittersweet Rivals",
+      "diziid": "ko",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/69/aci_tatli_rakipler"
+    },
+    {
+      "season": 16,
+      "episode": 63,
+      "title": "Are You Ready for Some Megafootball?!",
+      "diziid": "ko",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/70/mega_futbolu_icin_hazir_misiniz"
+    },
+    {
+      "season": 17,
+      "episode": 64,
+      "title": "Mystery Sleepover",
+      "diziid": "ko",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/71/esrarengiz_sabahlama"
+    },
+    {
+      "season": 19,
+      "episode": 65,
+      "title": "Monster Party",
+      "diziid": "ko",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/73/canavar_partisi"
+    },
+    {
+      "season": 20,
+      "episode": 66,
+      "title": "Super Black Friday",
+      "diziid": "ko",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/74/super_indirim_gunu"
+    },
+    {
+      "season": 21,
+      "episode": 67,
+      "title": "Final Exams",
+      "diziid": "ko",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/75/son_sinavlar"
+    },
+    {
+      "season": 22,
+      "episode": 68,
+      "title": "CarolQuest",
+      "diziid": "ko",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/76/carolin_macerasi"
+    },
+    {
+      "season": 23,
+      "episode": 69,
+      "title": "Soda Genie",
+      "diziid": "ko",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/77/gazoz_canavari"
+    },
+    {
+      "season": 24,
+      "episode": 70,
+      "title": "Plaza Alone",
+      "diziid": "ko",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/78/plazada_yalniz"
+    },
+    {
+      "season": 25,
+      "episode": 71,
+      "title": "Boxman Crashes",
+      "diziid": "ko",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/79/boxman_geliyor"
+    },
+    {
+      "season": 26,
+      "episode": 72,
+      "title": "All in the Villainy",
+      "diziid": "ko",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/80/butun_kotulukler"
+    },
+    {
+      "season": 27,
+      "episode": 73,
+      "title": "Sidekick Scouts",
+      "diziid": "ko",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/81/yardimci_secmeleri"
+    },
+    {
+      "season": 28,
+      "episode": 74,
+      "title": "Whacky Jaxxyz",
+      "diziid": "ko",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/82/cilgin_jaxxyzlar"
+    },
+    {
+      "season": 29,
+      "episode": 75,
+      "title": "Project Ray Way",
+      "diziid": "ko",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/83/raymondin_tarzi"
+    },
+    {
+      "season": 30,
+      "episode": 76,
+      "title": "I Am Jethro",
+      "diziid": "ko",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/84/benim_adim_jethro"
+    },
+    {
+      "season": 31,
+      "episode": 77,
+      "title": "GarQuest",
+      "diziid": "ko",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/85/garin_hikayesi"
+    },
+    {
+      "season": 32,
+      "episode": 78,
+      "title": "Gar Trains Punching Judy",
+      "diziid": "ko",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/86/bay_gar_yumruk_judyyi_calistiriyor"
+    },
+    {
+      "season": 33,
+      "episode": 79,
+      "title": "Beach Episode",
+      "diziid": "ko",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/87/plajli_bolum"
+    },
+    {
+      "season": 34,
+      "episode": 80,
+      "title": "OK A.U.!",
+      "diziid": "ko",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/88/evreni_tersine_cevir"
+    },
+    {
+      "season": 35,
+      "episode": 81,
+      "title": "K.O.'s Health Week",
+      "diziid": "ko",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/89/k.o.nun_saglik_haftasi"
+    },
+    {
+      "season": 36,
+      "episode": 82,
+      "title": "Rad's Alien Sickness",
+      "diziid": "ko",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/90/radin_uzayli_hastaligi"
+    },
+    {
+      "season": 1,
+      "episode": 83,
+      "title": "Dark Plaza",
+      "diziid": "ko",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/91/karanlik_plaza"
+    },
+    {
+      "season": 1,
+      "episode": 84,
+      "title": "We Are Heroes",
+      "diziid": "ko",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/93/biz_kahramaniz"
+    },
+    {
+      "season": 2,
+      "episode": 85,
+      "title": "K.O., Rad, and Enid!",
+      "diziid": "ko",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/94/k.o.%2C_rad%2C_enid%21"
+    },
+    {
+      "season": 3,
+      "episode": 86,
+      "title": "T.K.O. Rules!",
+      "diziid": "ko",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/95/t.k.o._kurallari%21"
+    },
+    {
+      "season": 4,
+      "episode": 87,
+      "title": "Chip's Damage",
+      "diziid": "ko",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/96/chipin_hasari"
+    },
+    {
+      "season": 5,
+      "episode": 88,
+      "title": "K.O. vs. Fink",
+      "diziid": "ko",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/97/k.o._finke_karsi"
+    },
+    {
+      "season": 6,
+      "episode": 89,
+      "title": "The K.O. Trap",
+      "diziid": "ko",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/98/tutsak_k.o."
+    },
+    {
+      "season": 7,
+      "episode": 90,
+      "title": "Whatever Happened to... Rippy Roo?",
+      "diziid": "ko",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/99/rippy_rooya_ne_oldu"
+    },
+    {
+      "season": 8,
+      "episode": 91,
+      "title": "Planet X",
+      "diziid": "ko",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/100/x_gezegeni"
+    },
+    {
+      "season": 9,
+      "episode": 92,
+      "title": "Deep Space Vacation",
+      "diziid": "ko",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/101/uzayin_derinlerinde_tatil"
+    },
+    {
+      "season": 10,
+      "episode": 93,
+      "title": "Big Reveal",
+      "diziid": "ko",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/102/buyuk_aciklama"
+    },
+    {
+      "season": 11,
+      "episode": 94,
+      "title": "Radical Rescue",
+      "diziid": "ko",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/103/radikal_kurtaris"
+    },
+    {
+      "season": 12,
+      "episode": 95,
+      "title": "Let's Meet Sonic",
+      "diziid": "ko",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/104/sonicle_tanisalim"
+    },
+    {
+      "season": 13,
+      "episode": 96,
+      "title": "Let's Get Shadowy",
+      "diziid": "ko",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/105/gizli_isler_karistiralim"
+    },
+    {
+      "season": 14,
+      "episode": 97,
+      "title": "You're a Good Friend, K.O.",
+      "diziid": "ko",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/106/sen_iyi_bir_arkadassin%2C_k.o."
+    },
+    {
+      "season": 16,
+      "episode": 98,
+      "title": "Carl",
+      "diziid": "ko",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/108/carl"
+    },
+    {
+      "season": 17,
+      "episode": 99,
+      "title": "Dendy's Video Channel",
+      "diziid": "ko",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/109/dendynin_video_kanali"
+    },
+    {
+      "season": 1,
+      "episode": 100,
+      "title": "Let's Fight to the End",
+      "diziid": "ko",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/110/sonuna_kadar_savas"
+    },
+    {
+      "season": 20,
+      "episode": 101,
+      "title": "Thank You for Watching the Show",
+      "diziid": "ko",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/ko/ok_k.o.%21_kahraman_olalim/112/izlediginiz_icin_tesekkur_ederiz"
+    }
+  ]
+}

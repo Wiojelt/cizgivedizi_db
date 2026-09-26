@@ -1,0 +1,733 @@
+{
+  "id": "hs",
+  "title": "hunter street",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/HSPoster.avif",
+  "channel": "Nickelodeon",
+  "genres": [
+    "Gizem",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The New Hunter",
+      "diziid": "hs",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/1/yeni_hunter"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Saganash",
+      "diziid": "hs",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/2/saganash"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Secret Room",
+      "diziid": "hs",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/3/gizli_oda"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Principal",
+      "diziid": "hs",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/4/mudur"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Rinus",
+      "diziid": "hs",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/5/yikintilar"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Key",
+      "diziid": "hs",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/6/anahtar"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Blue Diamond",
+      "diziid": "hs",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/7/mavi_elmas"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "MGP",
+      "diziid": "hs",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/8/mgp"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Aunt Hedwig & Uncle Eugene",
+      "diziid": "hs",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/9/hedwig_teyze_ve_eugene_amca"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Contact",
+      "diziid": "hs",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/10/kontakt"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Relatives",
+      "diziid": "hs",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/11/akrabalar"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Red Diamond",
+      "diziid": "hs",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/12/kirmizi_elmas"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Cassandra's Map",
+      "diziid": "hs",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/13/cassandranin_haritasi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Anika's Birthday",
+      "diziid": "hs",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/14/anikanin_dogum_gunu"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Maze",
+      "diziid": "hs",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/15/labirent"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Undercover",
+      "diziid": "hs",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/16/saklanmis"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Sophie",
+      "diziid": "hs",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/17/sophie"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Bruhl",
+      "diziid": "hs",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/18/bruhl"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Almost Back",
+      "diziid": "hs",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/19/neredeyse_siyah"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Deed",
+      "diziid": "hs",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/20/borc"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "The Package",
+      "diziid": "hs",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/21/paket"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "The Arrest",
+      "diziid": "hs",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/22/tutukluluk"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "Max",
+      "diziid": "hs",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/23/max"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "Evie",
+      "diziid": "hs",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/24/evie"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "The Museum",
+      "diziid": "hs",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/25/muze"
+    },
+    {
+      "season": 6,
+      "episode": 26,
+      "title": "The New Friend",
+      "diziid": "hs",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/26/yeni_dost"
+    },
+    {
+      "season": 7,
+      "episode": 27,
+      "title": "The Family Tree",
+      "diziid": "hs",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/27/aile_agaci"
+    },
+    {
+      "season": 8,
+      "episode": 28,
+      "title": "Payback",
+      "diziid": "hs",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/28/misilleme"
+    },
+    {
+      "season": 9,
+      "episode": 29,
+      "title": "The Plan",
+      "diziid": "hs",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/29/plan"
+    },
+    {
+      "season": 10,
+      "episode": 30,
+      "title": "The Reverse Heist",
+      "diziid": "hs",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/30/tersine_hirsizlik_plani"
+    },
+    {
+      "season": 11,
+      "episode": 31,
+      "title": "The Mole",
+      "diziid": "hs",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/31/kostebek"
+    },
+    {
+      "season": 12,
+      "episode": 32,
+      "title": "The Green Mask",
+      "diziid": "hs",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/32/yesil_maske"
+    },
+    {
+      "season": 13,
+      "episode": 33,
+      "title": "Hacker Hideout",
+      "diziid": "hs",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/33/hacker_siginagi"
+    },
+    {
+      "season": 14,
+      "episode": 34,
+      "title": "The Super Secret Room",
+      "diziid": "hs",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/34/super_gizli_oda"
+    },
+    {
+      "season": 15,
+      "episode": 35,
+      "title": "The Crown",
+      "diziid": "hs",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/35/tac"
+    },
+    {
+      "season": 16,
+      "episode": 36,
+      "title": "Hide and Seek",
+      "diziid": "hs",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/36/saklambac"
+    },
+    {
+      "season": 17,
+      "episode": 37,
+      "title": "The Houseboat",
+      "diziid": "hs",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/37/yuzen_ev"
+    },
+    {
+      "season": 18,
+      "episode": 38,
+      "title": "Spy",
+      "diziid": "hs",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/38/casus"
+    },
+    {
+      "season": 19,
+      "episode": 39,
+      "title": "The Ritual",
+      "diziid": "hs",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/39/rituel"
+    },
+    {
+      "season": 20,
+      "episode": 40,
+      "title": "Hunters Forever",
+      "diziid": "hs",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/40/sonsuza_kadar_hunterlar"
+    },
+    {
+      "season": 1,
+      "episode": 41,
+      "title": "The Birthday Gift",
+      "diziid": "hs",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/41/dogum_gunu_hediyesi"
+    },
+    {
+      "season": 2,
+      "episode": 42,
+      "title": "Strange House",
+      "diziid": "hs",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/42/tuhaf_ev"
+    },
+    {
+      "season": 3,
+      "episode": 43,
+      "title": "The Storm",
+      "diziid": "hs",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/43/firtina"
+    },
+    {
+      "season": 4,
+      "episode": 44,
+      "title": "Jake's Curse",
+      "diziid": "hs",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/44/jakein_laneti"
+    },
+    {
+      "season": 5,
+      "episode": 45,
+      "title": "Lost in the Woods",
+      "diziid": "hs",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/45/ormanda_kayip"
+    },
+    {
+      "season": 6,
+      "episode": 46,
+      "title": "Oliver",
+      "diziid": "hs",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/46/oliver"
+    },
+    {
+      "season": 7,
+      "episode": 47,
+      "title": "The Code",
+      "diziid": "hs",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/47/sifre"
+    },
+    {
+      "season": 8,
+      "episode": 48,
+      "title": "Remedies and Riddles",
+      "diziid": "hs",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/48/ilaclar_ve_bulmacalar"
+    },
+    {
+      "season": 9,
+      "episode": 49,
+      "title": "Curse or Cure?",
+      "diziid": "hs",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/49/lanet_mi_tedavi_mi"
+    },
+    {
+      "season": 10,
+      "episode": 50,
+      "title": "The Second Stone",
+      "diziid": "hs",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/50/ikinci_tas"
+    },
+    {
+      "season": 11,
+      "episode": 51,
+      "title": "Return to Hunter Street",
+      "diziid": "hs",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/51/hunter_sokagina_donus"
+    },
+    {
+      "season": 12,
+      "episode": 52,
+      "title": "Mr. Bear",
+      "diziid": "hs",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/52/bay_ayi"
+    },
+    {
+      "season": 13,
+      "episode": 53,
+      "title": "Rex to the Rescue",
+      "diziid": "hs",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/53/rex_kurtar_bizi"
+    },
+    {
+      "season": 14,
+      "episode": 54,
+      "title": "Secret Signs",
+      "diziid": "hs",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/54/gizli_isaretler"
+    },
+    {
+      "season": 15,
+      "episode": 55,
+      "title": "Evil Narikoa",
+      "diziid": "hs",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/55/kotu_narioka"
+    },
+    {
+      "season": 16,
+      "episode": 56,
+      "title": "Siblings",
+      "diziid": "hs",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/56/kardesler"
+    },
+    {
+      "season": 17,
+      "episode": 57,
+      "title": "What Hides Beneath",
+      "diziid": "hs",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/57/yuzeyin_altindakiler"
+    },
+    {
+      "season": 18,
+      "episode": 58,
+      "title": "The Butterfly Sun",
+      "diziid": "hs",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/58/kelebek_gunes"
+    },
+    {
+      "season": 19,
+      "episode": 59,
+      "title": "Appeals",
+      "diziid": "hs",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/59/sasirtici_gercek"
+    },
+    {
+      "season": 20,
+      "episode": 60,
+      "title": "Trapped",
+      "diziid": "hs",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/60/tuzak"
+    },
+    {
+      "season": 21,
+      "episode": 61,
+      "title": "Escape",
+      "diziid": "hs",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/61/kacis"
+    },
+    {
+      "season": 22,
+      "episode": 62,
+      "title": "Moms",
+      "diziid": "hs",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/62/anneler"
+    },
+    {
+      "season": 23,
+      "episode": 63,
+      "title": "Swamped",
+      "diziid": "hs",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/63/bataklik"
+    },
+    {
+      "season": 24,
+      "episode": 64,
+      "title": "Truth and Lies",
+      "diziid": "hs",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/64/gercekler_ve_yalanlar"
+    },
+    {
+      "season": 25,
+      "episode": 65,
+      "title": "The Final Riddle?",
+      "diziid": "hs",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/65/son_bulmaca_mi"
+    },
+    {
+      "season": 26,
+      "episode": 66,
+      "title": "Revelations",
+      "diziid": "hs",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/66/cozumler"
+    },
+    {
+      "season": 27,
+      "episode": 67,
+      "title": "Not Quite X Marks the Spot",
+      "diziid": "hs",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/67/hedef_pek_belli_degil"
+    },
+    {
+      "season": 28,
+      "episode": 68,
+      "title": "Tricky Times",
+      "diziid": "hs",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/68/zor_zamanlar"
+    },
+    {
+      "season": 29,
+      "episode": 69,
+      "title": "The Pyramid",
+      "diziid": "hs",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/69/piramit"
+    },
+    {
+      "season": 30,
+      "episode": 70,
+      "title": "Eclipse",
+      "diziid": "hs",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/70/gunes_tutulmasi"
+    },
+    {
+      "season": 1,
+      "episode": 71,
+      "title": "An Unexpected Guest",
+      "diziid": "hs",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/71/beklenmedik_bir_misafir"
+    },
+    {
+      "season": 2,
+      "episode": 72,
+      "title": "Babies, Bunnies and Beards",
+      "diziid": "hs",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/72/bebekler%2C_tavsanlar_ve_sakallar"
+    },
+    {
+      "season": 3,
+      "episode": 73,
+      "title": "Sally Hunter",
+      "diziid": "hs",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/73/sally_hunter"
+    },
+    {
+      "season": 4,
+      "episode": 74,
+      "title": "Quantum Problems and Dead Ends",
+      "diziid": "hs",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/74/kuantum_problemleri_ve_cikmaz_sokaklar"
+    },
+    {
+      "season": 5,
+      "episode": 75,
+      "title": "House Arrest",
+      "diziid": "hs",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/75/ev_hapsi"
+    },
+    {
+      "season": 6,
+      "episode": 76,
+      "title": "The Intruder",
+      "diziid": "hs",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/76/davetsiz_misafir"
+    },
+    {
+      "season": 7,
+      "episode": 77,
+      "title": "Mind Games",
+      "diziid": "hs",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/77/akil_oyunlari"
+    },
+    {
+      "season": 8,
+      "episode": 78,
+      "title": "Break-in",
+      "diziid": "hs",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/78/soygun"
+    },
+    {
+      "season": 9,
+      "episode": 79,
+      "title": "Relatively Speaking",
+      "diziid": "hs",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/79/mesela_yani"
+    },
+    {
+      "season": 10,
+      "episode": 80,
+      "title": "Enemies Within",
+      "diziid": "hs",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/80/icimizdeki_dusmanlar"
+    },
+    {
+      "season": 11,
+      "episode": 81,
+      "title": "Badika",
+      "diziid": "hs",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/81/badika"
+    },
+    {
+      "season": 12,
+      "episode": 82,
+      "title": "Operation Rockabye",
+      "diziid": "hs",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/82/rockabye_operasyonu"
+    },
+    {
+      "season": 13,
+      "episode": 83,
+      "title": "Sleepwalkers",
+      "diziid": "hs",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/83/uyurgezerler"
+    },
+    {
+      "season": 14,
+      "episode": 84,
+      "title": "Saving Anika",
+      "diziid": "hs",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/84/anikanin_kurtarilmasi"
+    },
+    {
+      "season": 15,
+      "episode": 85,
+      "title": "I Spy",
+      "diziid": "hs",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/85/casus_ben"
+    },
+    {
+      "season": 16,
+      "episode": 86,
+      "title": "Hologram: Unlocked",
+      "diziid": "hs",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/86/hologram%3A_kilit_aciliyor"
+    },
+    {
+      "season": 17,
+      "episode": 87,
+      "title": "The Missing Piece",
+      "diziid": "hs",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/87/kayip_parca"
+    },
+    {
+      "season": 18,
+      "episode": 88,
+      "title": "Testing Times",
+      "diziid": "hs",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/88/test_sureleri"
+    },
+    {
+      "season": 19,
+      "episode": 89,
+      "title": "Brainwooshed",
+      "diziid": "hs",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/89/beyin_yikama"
+    },
+    {
+      "season": 20,
+      "episode": 90,
+      "title": "Showdown",
+      "diziid": "hs",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/hs/hunter_street/90/hesaplasma"
+    }
+  ]
+}

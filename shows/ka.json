@@ -1,0 +1,1100 @@
+{
+  "id": "ka",
+  "title": "kafadar ayÄ±lar",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KAPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Our Stuff",
+      "diziid": "ka",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/1/esyalarimiz"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Viral Video",
+      "diziid": "ka",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/2/populer_video"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Food Truck",
+      "diziid": "ka",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/3/seyyar_lokanta"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Chloe",
+      "diziid": "ka",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/4/chloe"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Panda's Date",
+      "diziid": "ka",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/5/pandanin_randevusu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Everyday Bears",
+      "diziid": "ka",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/6/ayilarin_bir_gunu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Burrito",
+      "diziid": "ka",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/7/durum"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Primal",
+      "diziid": "ka",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/8/ilkel"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Jean Jacket",
+      "diziid": "ka",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/9/kot_ceket"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Nom Nom",
+      "diziid": "ka",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/10/nom_nom"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Shush Ninjas",
+      "diziid": "ka",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/11/susturucu_ninjalar"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "My Clique",
+      "diziid": "ka",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/12/takimim"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Charlie",
+      "diziid": "ka",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/13/charlie"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Brother Up",
+      "diziid": "ka",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/14/kardes_gucu"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Occupy Bears",
+      "diziid": "ka",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/15/isgalci_ayilar"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Panda's Sneeze",
+      "diziid": "ka",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/16/pandanin_hapsirigi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Road",
+      "diziid": "ka",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/17/yol"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Emergency",
+      "diziid": "ka",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/18/acil_durum"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Tote Life",
+      "diziid": "ka",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/19/canta_kardesligi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Charlie and the Snake",
+      "diziid": "ka",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/20/charlie_ve_yilan"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Video Date",
+      "diziid": "ka",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/21/goruntulu_randevu"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Pet Shop",
+      "diziid": "ka",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/22/evcil_hayvan_dukkani"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Chloe and Ice Bear",
+      "diziid": "ka",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/23/chloe_ve_kutup_ayisi"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Cupcake Job",
+      "diziid": "ka",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/24/kapkek_isi"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Hibernation",
+      "diziid": "ka",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/25/kis_uykusu"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Charlie Ball",
+      "diziid": "ka",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/26/charlienin_oyunu"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Yard Sale",
+      "diziid": "ka",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/27/bahce_satisi"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Slumber Party",
+      "diziid": "ka",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/28/pinekleme_partisi"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Bear Cleanse",
+      "diziid": "ka",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/29/ayi_tedavisi"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Nom Nom's Entourage",
+      "diziid": "ka",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/30/nom_nom_ve_arkadaslari"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Ranger Tabes",
+      "diziid": "ka",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/31/korucu_tabes"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Rooms",
+      "diziid": "ka",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/32/odalar"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Losing Ice",
+      "diziid": "ka",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/33/kutup_giderse"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Cellie",
+      "diziid": "ka",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/34/cep_telefonu"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Fashion Bears",
+      "diziid": "ka",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/35/modaci_ayilar"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "The Island",
+      "diziid": "ka",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/36/ada"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Bear Flu",
+      "diziid": "ka",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/37/ayi_gribi"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Chicken and Waffles",
+      "diziid": "ka",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/38/rezervasyon"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "The Audition",
+      "diziid": "ka",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/39/secmeler"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "Captain Craboo",
+      "diziid": "ka",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/40/kaptan_yengec"
+    },
+    {
+      "season": 16,
+      "episode": 41,
+      "title": "Baby Bears on a Plane",
+      "diziid": "ka",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/42/bebek_ayilar_ucakta"
+    },
+    {
+      "season": 17,
+      "episode": 42,
+      "title": "Yuri and the Bear",
+      "diziid": "ka",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/43/yuri_ve_ayi"
+    },
+    {
+      "season": 18,
+      "episode": 43,
+      "title": "Icy Nights",
+      "diziid": "ka",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/44/buzlu_geceler"
+    },
+    {
+      "season": 19,
+      "episode": 44,
+      "title": "Everyone's Tube",
+      "diziid": "ka",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/45/herkesin_televizyonu"
+    },
+    {
+      "season": 20,
+      "episode": 45,
+      "title": "Creature Mysteries",
+      "diziid": "ka",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/46/gizemli_yaratiklar"
+    },
+    {
+      "season": 21,
+      "episode": 46,
+      "title": "The Library",
+      "diziid": "ka",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/47/kutuphane"
+    },
+    {
+      "season": 22,
+      "episode": 47,
+      "title": "Grizz Helps",
+      "diziid": "ka",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/48/yardimci_boz_ayi"
+    },
+    {
+      "season": 23,
+      "episode": 48,
+      "title": "Christmas Parties",
+      "diziid": "ka",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/49/noel_partileri"
+    },
+    {
+      "season": 24,
+      "episode": 49,
+      "title": "Subway",
+      "diziid": "ka",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/50/metro"
+    },
+    {
+      "season": 25,
+      "episode": 50,
+      "title": "Panda's Friend",
+      "diziid": "ka",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/51/pandanin_arkadasi"
+    },
+    {
+      "season": 26,
+      "episode": 51,
+      "title": "Neighbors",
+      "diziid": "ka",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/52/komsular"
+    },
+    {
+      "season": 1,
+      "episode": 52,
+      "title": "Grizzly the Movie",
+      "diziid": "ka",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/53/boz_ayi_filmi"
+    },
+    {
+      "season": 2,
+      "episode": 53,
+      "title": "Anger Management",
+      "diziid": "ka",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/54/ofke_kontrolu"
+    },
+    {
+      "season": 3,
+      "episode": 54,
+      "title": "$100",
+      "diziid": "ka",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/55/100_dolar"
+    },
+    {
+      "season": 4,
+      "episode": 55,
+      "title": "Professor Lampwick",
+      "diziid": "ka",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/56/profesor_lampwick"
+    },
+    {
+      "season": 5,
+      "episode": 56,
+      "title": "Ralph",
+      "diziid": "ka",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/57/ralph"
+    },
+    {
+      "season": 6,
+      "episode": 57,
+      "title": "Planet Bears",
+      "diziid": "ka",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/58/ayi_gezegeni"
+    },
+    {
+      "season": 7,
+      "episode": 58,
+      "title": "Coffee Cave",
+      "diziid": "ka",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/59/kahve_magarasi"
+    },
+    {
+      "season": 8,
+      "episode": 59,
+      "title": "Charlie's Big Foot",
+      "diziid": "ka",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/60/charlienin_koca_ayagi"
+    },
+    {
+      "season": 9,
+      "episode": 60,
+      "title": "The Demon",
+      "diziid": "ka",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/61/zalim"
+    },
+    {
+      "season": 10,
+      "episode": 61,
+      "title": "Panda's Art",
+      "diziid": "ka",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/62/pandanin_sanati"
+    },
+    {
+      "season": 11,
+      "episode": 62,
+      "title": "Poppy Rangers",
+      "diziid": "ka",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/63/kizil_izciler"
+    },
+    {
+      "season": 12,
+      "episode": 63,
+      "title": "Lucy's Brother",
+      "diziid": "ka",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/64/lucynin_kardesi"
+    },
+    {
+      "season": 13,
+      "episode": 64,
+      "title": "The Fair",
+      "diziid": "ka",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/65/lunapark"
+    },
+    {
+      "season": 14,
+      "episode": 65,
+      "title": "Private Lake",
+      "diziid": "ka",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/66/ozel_gol"
+    },
+    {
+      "season": 15,
+      "episode": 66,
+      "title": "Lunch with Tabes",
+      "diziid": "ka",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/67/tabes_de_yemek"
+    },
+    {
+      "season": 16,
+      "episode": 67,
+      "title": "Road Trip",
+      "diziid": "ka",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/68/yolculuk"
+    },
+    {
+      "season": 18,
+      "episode": 68,
+      "title": "The Kitty",
+      "diziid": "ka",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/70/yavru_kedi"
+    },
+    {
+      "season": 19,
+      "episode": 69,
+      "title": "Crowbar Jones",
+      "diziid": "ka",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/71/demir_kol_jones"
+    },
+    {
+      "season": 20,
+      "episode": 70,
+      "title": "Kyle",
+      "diziid": "ka",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/72/kyle"
+    },
+    {
+      "season": 21,
+      "episode": 71,
+      "title": "Citizen Tabes",
+      "diziid": "ka",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/73/yurttas_tabes"
+    },
+    {
+      "season": 22,
+      "episode": 72,
+      "title": "Dance Lessons",
+      "diziid": "ka",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/74/dans_dersleri"
+    },
+    {
+      "season": 23,
+      "episode": 73,
+      "title": "Icy Nights II",
+      "diziid": "ka",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/75/buzlu_geceler_2"
+    },
+    {
+      "season": 24,
+      "episode": 74,
+      "title": "Dog Hotel",
+      "diziid": "ka",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/76/kopek_oteli"
+    },
+    {
+      "season": 25,
+      "episode": 75,
+      "title": "Bear Lift",
+      "diziid": "ka",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/77/ayi_tasimaciligi"
+    },
+    {
+      "season": 26,
+      "episode": 76,
+      "title": "The Nom Nom Show",
+      "diziid": "ka",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/78/nom_nom_sov"
+    },
+    {
+      "season": 27,
+      "episode": 77,
+      "title": "Ice Cave",
+      "diziid": "ka",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/79/buz_magarasi"
+    },
+    {
+      "season": 28,
+      "episode": 78,
+      "title": "Spa Day",
+      "diziid": "ka",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/80/hamam_gunu"
+    },
+    {
+      "season": 29,
+      "episode": 79,
+      "title": "Charlie's Halloween Thing",
+      "diziid": "ka",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/81/charlienin_cadilar_bayrami"
+    },
+    {
+      "season": 30,
+      "episode": 80,
+      "title": "Bunnies",
+      "diziid": "ka",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/82/tavsanlar"
+    },
+    {
+      "season": 31,
+      "episode": 81,
+      "title": "Pigeons",
+      "diziid": "ka",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/83/guvercinler"
+    },
+    {
+      "season": 32,
+      "episode": 82,
+      "title": "Panda 2",
+      "diziid": "ka",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/84/panda_2"
+    },
+    {
+      "season": 33,
+      "episode": 83,
+      "title": "Tubin",
+      "diziid": "ka",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/85/nehir_gezisi"
+    },
+    {
+      "season": 34,
+      "episode": 84,
+      "title": "Lazer Royale",
+      "diziid": "ka",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/86/lazer_royale"
+    },
+    {
+      "season": 35,
+      "episode": 85,
+      "title": "Ranger Games",
+      "diziid": "ka",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/87/korucular_maci"
+    },
+    {
+      "season": 36,
+      "episode": 86,
+      "title": "The Perfect Tree",
+      "diziid": "ka",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/88/mukemmel_agac"
+    },
+    {
+      "season": 37,
+      "episode": 87,
+      "title": "Bearz II Men",
+      "diziid": "ka",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/89/ayilar_ve_adam"
+    },
+    {
+      "season": 38,
+      "episode": 88,
+      "title": "Bro Brawl",
+      "diziid": "ka",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/90/buyuk_kapisma"
+    },
+    {
+      "season": 39,
+      "episode": 89,
+      "title": "Hurricane Hal",
+      "diziid": "ka",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/91/hal_kasirgasi"
+    },
+    {
+      "season": 40,
+      "episode": 90,
+      "title": "Vacation",
+      "diziid": "ka",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/92/tatil"
+    },
+    {
+      "season": 41,
+      "episode": 91,
+      "title": "Beehive",
+      "diziid": "ka",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/93/ari_kovani"
+    },
+    {
+      "season": 42,
+      "episode": 92,
+      "title": "The Park",
+      "diziid": "ka",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/94/park"
+    },
+    {
+      "season": 43,
+      "episode": 93,
+      "title": "I Am Ice Bear",
+      "diziid": "ka",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/95/ben_kutup_ayisiyim"
+    },
+    {
+      "season": 44,
+      "episode": 94,
+      "title": "Baby Bears Can't Jump",
+      "diziid": "ka",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/96/bebek_ayilar_ziplayamaz"
+    },
+    {
+      "season": 1,
+      "episode": 95,
+      "title": "Go Fish",
+      "diziid": "ka",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/97/balik_avi"
+    },
+    {
+      "season": 3,
+      "episode": 96,
+      "title": "Googs",
+      "diziid": "ka",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/99/googs"
+    },
+    {
+      "season": 4,
+      "episode": 97,
+      "title": "Paperboyz",
+      "diziid": "ka",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/100/gazeteci_cocuklar"
+    },
+    {
+      "season": 5,
+      "episode": 98,
+      "title": "Bear Squad",
+      "diziid": "ka",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/101/ayi_ekibi"
+    },
+    {
+      "season": 6,
+      "episode": 99,
+      "title": "Lil' Squid",
+      "diziid": "ka",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/102/minik_kalamar"
+    },
+    {
+      "season": 7,
+      "episode": 100,
+      "title": "I, Butler",
+      "diziid": "ka",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/103/usak"
+    },
+    {
+      "season": 8,
+      "episode": 101,
+      "title": "Family Troubles",
+      "diziid": "ka",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/104/aile_sorunlari"
+    },
+    {
+      "season": 9,
+      "episode": 102,
+      "title": "Best Bears",
+      "diziid": "ka",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/105/en_iyi_ayilar"
+    },
+    {
+      "season": 10,
+      "episode": 103,
+      "title": "Crowbar Jones: Origins",
+      "diziid": "ka",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/106/crowbar_jones%3A_baslangic"
+    },
+    {
+      "season": 11,
+      "episode": 104,
+      "title": "Hot Sauce",
+      "diziid": "ka",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/107/aci_sos"
+    },
+    {
+      "season": 12,
+      "episode": 105,
+      "title": "Mom App",
+      "diziid": "ka",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/108/anne_uygulamasi"
+    },
+    {
+      "season": 13,
+      "episode": 106,
+      "title": "The Limo",
+      "diziid": "ka",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/109/limuzin"
+    },
+    {
+      "season": 14,
+      "episode": 107,
+      "title": "More Everyone's Tube",
+      "diziid": "ka",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/110/herkesin_kanali"
+    },
+    {
+      "season": 15,
+      "episode": 108,
+      "title": "Money Man",
+      "diziid": "ka",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/111/paranin_sahibi"
+    },
+    {
+      "season": 16,
+      "episode": 109,
+      "title": "Rescue Ranger",
+      "diziid": "ka",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/112/kurtarma_ekibi"
+    },
+    {
+      "season": 17,
+      "episode": 110,
+      "title": "El Oso",
+      "diziid": "ka",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/113/el_oso"
+    },
+    {
+      "season": 1,
+      "episode": 111,
+      "title": "Charlie's Halloween Thing 2",
+      "diziid": "ka",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/114/charlienin_cadilar_bayrami_ozel_2"
+    },
+    {
+      "season": 20,
+      "episode": 112,
+      "title": "Escandalosos",
+      "diziid": "ka",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/116/skandalcilar"
+    },
+    {
+      "season": 21,
+      "episode": 113,
+      "title": "Pizza Band",
+      "diziid": "ka",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/117/pizza_grubu"
+    },
+    {
+      "season": 22,
+      "episode": 114,
+      "title": "Adopted",
+      "diziid": "ka",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/118/sahiplenildi"
+    },
+    {
+      "season": 23,
+      "episode": 115,
+      "title": "Wingmen",
+      "diziid": "ka",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/119/ekurim"
+    },
+    {
+      "season": 24,
+      "episode": 116,
+      "title": "Braces",
+      "diziid": "ka",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/120/dis_telleri"
+    },
+    {
+      "season": 25,
+      "episode": 117,
+      "title": "Christmas Movies",
+      "diziid": "ka",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/121/noel_filmi"
+    },
+    {
+      "season": 26,
+      "episode": 118,
+      "title": "Imaginary Friend",
+      "diziid": "ka",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/122/hayali_arkadas"
+    },
+    {
+      "season": 27,
+      "episode": 119,
+      "title": "The Mall",
+      "diziid": "ka",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/123/alisveris_merkezi"
+    },
+    {
+      "season": 28,
+      "episode": 120,
+      "title": "Tunnels",
+      "diziid": "ka",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/124/tuneller"
+    },
+    {
+      "season": 29,
+      "episode": 121,
+      "title": "Ramen",
+      "diziid": "ka",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/125/ramen"
+    },
+    {
+      "season": 30,
+      "episode": 122,
+      "title": "The Gym",
+      "diziid": "ka",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/126/spor_salonu"
+    },
+    {
+      "season": 31,
+      "episode": 123,
+      "title": "Bubble",
+      "diziid": "ka",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/127/bubble"
+    },
+    {
+      "season": 32,
+      "episode": 124,
+      "title": "Baby Orphan Ninja Bears",
+      "diziid": "ka",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/128/yetim_ninja_ayilar"
+    },
+    {
+      "season": 33,
+      "episode": 125,
+      "title": "Fire!",
+      "diziid": "ka",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/129/yangin%21"
+    },
+    {
+      "season": 34,
+      "episode": 126,
+      "title": "Ranger Norm",
+      "diziid": "ka",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/130/bekci_norm"
+    },
+    {
+      "season": 35,
+      "episode": 127,
+      "title": "Shmorby",
+      "diziid": "ka",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/131/shmorby"
+    },
+    {
+      "season": 36,
+      "episode": 128,
+      "title": "Snake Babies",
+      "diziid": "ka",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/132/bebek_yilanlar"
+    },
+    {
+      "season": 37,
+      "episode": 129,
+      "title": "Sandcastle",
+      "diziid": "ka",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/133/kumdan_kale"
+    },
+    {
+      "season": 38,
+      "episode": 130,
+      "title": "Bros in the City",
+      "diziid": "ka",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/134/sehirdeki_kardesler"
+    },
+    {
+      "season": 39,
+      "episode": 131,
+      "title": "Cousin Jon",
+      "diziid": "ka",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/135/kuzen_jon"
+    },
+    {
+      "season": 40,
+      "episode": 132,
+      "title": "Lord of the Poppies",
+      "diziid": "ka",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/136/izciler_lordu"
+    },
+    {
+      "season": 41,
+      "episode": 133,
+      "title": "The Mummy's Curse",
+      "diziid": "ka",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/137/mumya"
+    },
+    {
+      "season": 42,
+      "episode": 134,
+      "title": "Band of Outsiders",
+      "diziid": "ka",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/138/disaridakiler"
+    },
+    {
+      "season": 43,
+      "episode": 135,
+      "title": "Tabes & Charlie",
+      "diziid": "ka",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/139/sapsallar_ve_charlie"
+    },
+    {
+      "season": 44,
+      "episode": 136,
+      "title": "Panda's Birthday",
+      "diziid": "ka",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/ka/kafadar_ayilar/140/pandanin_dogum_gunu"
+    }
+  ]
+}

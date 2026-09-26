@@ -1,0 +1,1252 @@
+{
+  "id": "ysk",
+  "title": "yeni sevimli kahramanlar",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/YSKPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Buddha Bugs/Now and Zen",
+      "diziid": "ysk",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/1/buddha_bugs__now_ve_zen"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Inside Bugs/Sun Valley Freeze",
+      "diziid": "ysk",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/2/ajan_bugs__dondurucu_gunes_vadisi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "St. Bugs and the Dragon/Leaf It Alone",
+      "diziid": "ysk",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/3/bay_bugs_ve_ejderha__onu_rahat_birak"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Bigfoot in Bed/World Wide Wabbit",
+      "diziid": "ysk",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/4/koca_ayak_yatakta__internet_tavsani"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "For the Love of Acorns/The Game Is a Foot",
+      "diziid": "ysk",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/5/palamutlar_askina__ayak_oyunu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Grim Rabbit/The Wringer",
+      "diziid": "ysk",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/6/sikinti"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "White House Wabbit/Bugsbarian",
+      "diziid": "ysk",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/7/beyaz_saray_tavsani__barbar_tavsan"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Not Lyin' Lion/Ice Ice Bunny",
+      "diziid": "ysk",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/8/yatmayan_aslan__buz_buz_tavsan"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "All Belts Are Off",
+      "diziid": "ysk",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/9/kemerler_acik_mi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Wabbit's Best Friend/Annoying Ex-Boydfriend",
+      "diziid": "ysk",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/10/wabbitin_en_iyi_arkadasi__sinir_bozucu_eski_sevgilim"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Bugs vs. Snail",
+      "diziid": "ysk",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/11/bugsa_karsi_salyangoz"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Bugs in the Garden/Scarecrow",
+      "diziid": "ysk",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/12/bugs_bahcede__korkuluk"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Painter Paint Hare/The Spy Who Bugged Me",
+      "diziid": "ysk",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/13/ressam_burayi_boya__beni_rahatsiz_eden_casus"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Hareplane Mode/Bugs of Steel",
+      "diziid": "ysk",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/14/tavsan_modu__cevik_bugs_bunny"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Big Troubles/Manner Maid",
+      "diziid": "ysk",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/15/buyuk_sorunlar__gorgu_robotu"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Bugsfoot/Grim on Vacation",
+      "diziid": "ysk",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/16/bugs_ayagi__grimie_tatilde"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Carrot Before the Horse/Trunk with Power",
+      "diziid": "ysk",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/17/tersine_is_yapmak__agac_govdesiyle_"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Snow Wabbit/Aromatherapest",
+      "diziid": "ysk",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/18/kar_wabbit__aromaterapist"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Raising Your Spirits/Dust Bugster",
+      "diziid": "ysk",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/19/moralini_yukselt__sarjli_ev_supurgesi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Computer Bugs/Oils Well That Ends Well",
+      "diziid": "ysk",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/20/bilgisayar_virusleri__sonu_iyi_biten_isler_iyidir"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Your Bunny or Your Life/Misjudgment Day",
+      "diziid": "ysk",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/21/senin_tavsanin_ya_da_senin_hayatin__hatali_karar_gunu"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Splashwater Bugs/Fwee Wange Wabbit",
+      "diziid": "ysk",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/22/su_sicratan_bugs__acik_alanda_yemlenen_tavsan"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Beaver Fever/Coyote.Rabbit.Squirrel",
+      "diziid": "ysk",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/23/kunduz_sicakligi__cakal.tavsan.sincap"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Pain & Treasure/Office Rocker",
+      "diziid": "ysk",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/24/aci_ve_hazine__ofis_cilgini"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Survivalist of the Fittest/The IMPoster",
+      "diziid": "ysk",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/25/hayatta_kalan_en_guclu__sahtekar"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Bugs Over Par/Fast Feud",
+      "diziid": "ysk",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/26/bugs_ortalamanin_ustunde__hazir_yiyecek"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Sir Little Chin, Griffin Hunter/Bugs in Time",
+      "diziid": "ysk",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/27/sir_little_chin%2C_ejderha_avcisi__zamanla_bugs"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Airpork Security/Home a Clone",
+      "diziid": "ysk",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/28/hava_alani_guvenligi__evde_klonlanmis"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Bugs on Ice/Bug Scouts",
+      "diziid": "ysk",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/29/buzla_bugs__bugs_izcileri"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "For Whom the Bugs Trolls/To Beach His Own",
+      "diziid": "ysk",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/30/tavsanlar_kemiriciye_yakalaniyor__herkesin_plaji_kendine"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Five Star Bugs/Yoga to Be Kidding Me",
+      "diziid": "ysk",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/31/bes_yildizli_bugs__yoga_mi%2C_saka_mi_yapiyorsun"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Rabbits of the Lost Ark/Appropriate Technology",
+      "diziid": "ysk",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/32/kutsal_hazine_tavsanlari__ozel_teknoloji"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Pork in the Road/Squeaks Upon a Star",
+      "diziid": "ysk",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/33/yoldaki_tombik__squeaksin_dilegi"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Mile Hi Grub/Pole Position",
+      "diziid": "ysk",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/34/ucakta_eglence__kutup_pozisyonu"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Thirst Things First/Bugs of Chance",
+      "diziid": "ysk",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/35/ilk_once_su__bereketli_gun"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Bugs for Mayor/The Lepra-Con",
+      "diziid": "ysk",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/36/vali_adayi_bugs__cuceyi_kandirmak"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Squeak Show/Rodeo Bugs",
+      "diziid": "ysk",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/37/gicirti_gosterisi__haydi_rodeoya"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Slugsworthy's Mega Mansion/Wile E.'s Walnuts",
+      "diziid": "ysk",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/38/slugsworthynin_malikanesi__wile_e.nin_cevizleri"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Just One of Those Days/Mooch Housin' Syndrome",
+      "diziid": "ysk",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/39/oyle_gunlerden_biri__numaraci_squeaks"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Sir Littlechin, Unicorn Hunter/Erin Go Bugs",
+      "diziid": "ysk",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/40/tek_boynuzlu_at_avcisi%2C_sir_little_chin__irlandaya_bedava_yolculuk"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Proud to Be a Coal Miner's Wabbit/Cabin Fervor",
+      "diziid": "ysk",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/41/komur_madencisi_tavsana_karsi__yuksek_isi"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "The Grand Barbari-yon/Giant Rabbit Hunters",
+      "diziid": "ysk",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/42/buyuk_kanyon_macerasi__dev_tavsan_avcilari"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Amusement Pork/Now You See Me, Now You Still See Me...",
+      "diziid": "ysk",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/43/maksat_eglence_olsun__simdi_beni_goruyorsun%2C_beni_hala_goruyorsun"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "'Tis the Seasoning/Winter Blunderland",
+      "diziid": "ysk",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/44/bulunmaz_hediye__kis_kazalari"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Ear! We! Go!/Hare Band",
+      "diziid": "ysk",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/45/kulak%21_iste%21_gidiyoruz%21__tavsan_grubu"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Bugs in the Petting Zoo/Hawaiian Ice",
+      "diziid": "ysk",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/46/bugs_evcil_hayvan_ciftliginde__hawaii_buzu"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Quiet the Undertaking/Bugs Bunny?",
+      "diziid": "ysk",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/47/tavsan_tehlikede__bugs_bunny_mi"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Wet Feet/There's a Soccer Born Every Minute",
+      "diziid": "ysk",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/48/islak_ayaklar__her_dakika_bir_futbolcu_dogar"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Pork Lift/Thes in the City",
+      "diziid": "ysk",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/49/nakliyeci_tombik__thess_sehirde"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Elmer's Fuddge/Angelo the Mighty Flea",
+      "diziid": "ysk",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/50/elmerin_sekerlemesi__yasa_pire_angelo"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Gorky Pork/Hard Hat Hare",
+      "diziid": "ysk",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/51/dedektif_tombik__inatci_tavsan"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Porky's Duck-livery Service/The Wabbit Who Would Be King",
+      "diziid": "ysk",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/52/tombikin_ordek_teslimati__kral_olacak_tavsan"
+    },
+    {
+      "season": 1,
+      "episode": 53,
+      "title": "Pigmallian/Bugs the Gladiator",
+      "diziid": "ysk",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/53/durdur_onu__gladyator_bugs"
+    },
+    {
+      "season": 2,
+      "episode": 54,
+      "title": "A Duck in the Penthouse/Tour De Bugs",
+      "diziid": "ysk",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/54/aile_gunumuz_kutlu_olsun__ormanda_bisiklet_yarisi"
+    },
+    {
+      "season": 3,
+      "episode": 55,
+      "title": "Knight and Duck/The Color of Bunny",
+      "diziid": "ysk",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/55/sovalye_ve_duck__bunnynin_rengi"
+    },
+    {
+      "season": 4,
+      "episode": 56,
+      "title": "Sam and the Bullet Train/Swine Dining",
+      "diziid": "ysk",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/56/sam_ve_hizli_tren__kizarmis_ordek"
+    },
+    {
+      "season": 5,
+      "episode": 57,
+      "title": "Love Is in the Hare/Valentine's Dayffy",
+      "diziid": "ysk",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/57/havada_ask_kokusu_var__sevgililer_gunu"
+    },
+    {
+      "season": 6,
+      "episode": 58,
+      "title": "Bigs Bunny/Wahder, Wahder, Everywhere",
+      "diziid": "ysk",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/58/buyuk_bunny__seller_akiyor"
+    },
+    {
+      "season": 7,
+      "episode": 59,
+      "title": "Porky the Disorderly/Game, Set, Wabbit",
+      "diziid": "ysk",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/59/daginik_domuzcuk__tenis_turnuvasi"
+    },
+    {
+      "season": 8,
+      "episode": 60,
+      "title": "Lucky Duck/Free Range Foghorn",
+      "diziid": "ysk",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/60/sansli_ordek__foghornun_tavuk_ciftligi"
+    },
+    {
+      "season": 9,
+      "episode": 61,
+      "title": "Love It or Survivalist It/The Porklight",
+      "diziid": "ysk",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/61/sev_veya_hayatta_kal__porkisik"
+    },
+    {
+      "season": 10,
+      "episode": 62,
+      "title": "Best Bugs/Lewis and Pork",
+      "diziid": "ysk",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/62/en_iyi_arkadas__lewis_ve_porky"
+    },
+    {
+      "season": 11,
+      "episode": 63,
+      "title": "Daffy the Stowaway/Superscooter 3000",
+      "diziid": "ysk",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/63/kacak_daffy__super_scooter_3000"
+    },
+    {
+      "season": 12,
+      "episode": 64,
+      "title": "Hoggin' the Road/Timmmmmmbugs",
+      "diziid": "ysk",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/64/yolda_sizlan__huzuuuuuurlu_bugs"
+    },
+    {
+      "season": 13,
+      "episode": 65,
+      "title": "Easter Bunny Imposter/Easter Tweets",
+      "diziid": "ysk",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/65/sahte_paskalya_tavsani__paskalya_kuslari"
+    },
+    {
+      "season": 14,
+      "episode": 66,
+      "title": "Hoarder Up/Cougar, Cougar",
+      "diziid": "ysk",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/66/stokcu_duck__cougar%2C_cougar"
+    },
+    {
+      "season": 15,
+      "episode": 67,
+      "title": "The Wedding Quacksher/The Food Notwork",
+      "diziid": "ysk",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/67/davetsiz_misafir__yemek_kanali"
+    },
+    {
+      "season": 16,
+      "episode": 68,
+      "title": "A Duck in the Aquarium/The Breezehammer",
+      "diziid": "ysk",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/68/akvaryumda_bir_ordek__meltem_dovucu"
+    },
+    {
+      "season": 17,
+      "episode": 69,
+      "title": "Quantum Sheep/Houston, We Have a Duck Problem",
+      "diziid": "ysk",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/69/kuantum_koyun__houston%2C_bir_ordek_sorunumuz_var"
+    },
+    {
+      "season": 18,
+      "episode": 70,
+      "title": "10-4, Good Bunny/Gold Medal Wabbit",
+      "diziid": "ysk",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/70/isiltili_bunny__altin_madalyali_wabbit"
+    },
+    {
+      "season": 19,
+      "episode": 71,
+      "title": "Cyrano de Bugs/Point Duck Percent",
+      "diziid": "ysk",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/71/cyrano_de_bugs__nokta_ordek_yuzdesi"
+    },
+    {
+      "season": 20,
+      "episode": 72,
+      "title": "Sir Littlechin and the Kraken/Crouching Porky, Hidden Daffy",
+      "diziid": "ysk",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/72/sir_littlechin_ve_kraken__atilgan_porky%2C_gizli_daffy"
+    },
+    {
+      "season": 21,
+      "episode": 73,
+      "title": "King Nutininkommen/Greenhouse Gasbag",
+      "diziid": "ysk",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/73/kral_nutininkommen__sera_gazi_poseti"
+    },
+    {
+      "season": 22,
+      "episode": 74,
+      "title": "Abracawabbit/Ponce de Calzone",
+      "diziid": "ysk",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/74/sihirbaz_tavsan__kotu_calzone"
+    },
+    {
+      "season": 23,
+      "episode": 75,
+      "title": "For the Love of Fraud/Not So Special Delivery",
+      "diziid": "ysk",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/75/duzenbazlik_askina__siradan_bir_teslimat"
+    },
+    {
+      "season": 24,
+      "episode": 76,
+      "title": "One Carroter in Search of an Artist/The Duck Days of Summer",
+      "diziid": "ysk",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/76/ressam_arayisinda_bir_tavsan__yaz_ordegi_gunleri"
+    },
+    {
+      "season": 25,
+      "episode": 77,
+      "title": "Etiquette Shmetiquette/Daffy in the Science Museum",
+      "diziid": "ysk",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/77/gorgusuz_duck__daffy_bilim_muzesinde"
+    },
+    {
+      "season": 26,
+      "episode": 78,
+      "title": "Tad the Bachelor/Affaire du Jour",
+      "diziid": "ysk",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/78/yolculukla_iliskili"
+    },
+    {
+      "season": 27,
+      "episode": 79,
+      "title": "Top Bugs/Slugsmoby",
+      "diziid": "ysk",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/79/ucan_bugs__slugsmoby"
+    },
+    {
+      "season": 28,
+      "episode": 80,
+      "title": "Rhoda Rage/Good Duck to You, Cirque",
+      "diziid": "ysk",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/80/rhoda_ofkesi__iyi_ordekler_sirki"
+    },
+    {
+      "season": 29,
+      "episode": 81,
+      "title": "Then Things Got Weird/Duck Duck Ghost",
+      "diziid": "ysk",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/81/isler_tuhaflasir__ordek_ordek_hayalet"
+    },
+    {
+      "season": 30,
+      "episode": 82,
+      "title": "Acme Instant/When Marvin Comes Martian In",
+      "diziid": "ysk",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/82/acme_aninda__marvin_sefere_cikinca"
+    },
+    {
+      "season": 31,
+      "episode": 83,
+      "title": "The Knight Time Is the Right Time/The PepÃ© Le Pew Affair",
+      "diziid": "ysk",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/83/kralin_zamani_dogru_zaman__ikili_oyun"
+    },
+    {
+      "season": 32,
+      "episode": 84,
+      "title": "Hamsters/Bugs Baked",
+      "diziid": "ysk",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/84/hamsterlar__pismis_bugs"
+    },
+    {
+      "season": 33,
+      "episode": 85,
+      "title": "Vampire Me Love/The Tad Tucker Workout",
+      "diziid": "ysk",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/85/sevdigim_vampir__tad_tucker_antrenmani"
+    },
+    {
+      "season": 34,
+      "episode": 86,
+      "title": "Canadian Bacon/Bugs Bunny Saves the Universe",
+      "diziid": "ysk",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/86/kanada_pastirmasi__bugs_bunny_dunyayi_kurtariyor"
+    },
+    {
+      "season": 35,
+      "episode": 87,
+      "title": "Hip Hop Hare",
+      "diziid": "ysk",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/87/hip_hop_tavsan"
+    },
+    {
+      "season": 36,
+      "episode": 88,
+      "title": "Gettin' Your Goat/Spelunkheads",
+      "diziid": "ysk",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/88/kecileri_kacirmak__magara_kasifleri"
+    },
+    {
+      "season": 37,
+      "episode": 89,
+      "title": "Loon-Raker/Angry Bird",
+      "diziid": "ysk",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/89/aya_yolculuk__sinirli_kus"
+    },
+    {
+      "season": 38,
+      "episode": 90,
+      "title": "Area Fifty-Run/Porker in the Court",
+      "diziid": "ysk",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/90/51.bolge__mahkemede_oyun"
+    },
+    {
+      "season": 39,
+      "episode": 91,
+      "title": "Tad the Skydiver/Duck of the Flies",
+      "diziid": "ysk",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/91/parasutcu_tad__ucan_ordek"
+    },
+    {
+      "season": 40,
+      "episode": 92,
+      "title": "Daffy in the Bayou/Bugs the Sherpa",
+      "diziid": "ysk",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/92/daffy_bataklikta__sherpa_bugs"
+    },
+    {
+      "season": 41,
+      "episode": 93,
+      "title": "You Can't Train a Pig/Copy Quack",
+      "diziid": "ysk",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/93/bir_domuzu_egitemezsin__kopya_ordek"
+    },
+    {
+      "season": 42,
+      "episode": 94,
+      "title": "Sir Littlechin and the Phoenix/Looney Luau",
+      "diziid": "ysk",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/94/sir_littlechin_ve_zumruduanka_kusu__cilgin_parti"
+    },
+    {
+      "season": 43,
+      "episode": 95,
+      "title": "Amaduckus/Fowl Me Once",
+      "diziid": "ysk",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/95/piyanist_ordek__bir_kerecik_gidakla"
+    },
+    {
+      "season": 44,
+      "episode": 96,
+      "title": "Daffy the Gaucho/Free Slugsworthy",
+      "diziid": "ysk",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/96/kovboy_daffy__slugsworthyi_kurtarmak"
+    },
+    {
+      "season": 45,
+      "episode": 97,
+      "title": "Love Makes Me Daffy/Genghis Cal",
+      "diziid": "ysk",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/97/sevgili_hissi__ghengis_cal"
+    },
+    {
+      "season": 46,
+      "episode": 98,
+      "title": "You're Kiln Me/Better Lake Than Never",
+      "diziid": "ysk",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/98/beni_cok_uzuyorsun__en_guzel_gol"
+    },
+    {
+      "season": 47,
+      "episode": 99,
+      "title": "Deduce, Part Deuce/#1 Grandpa",
+      "diziid": "ysk",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/99/sonuc_berabere__1_numarali_dede"
+    },
+    {
+      "season": 49,
+      "episode": 100,
+      "title": "Men in Quack/Littlechin and the Wood Fairy",
+      "diziid": "ysk",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/101/arastirmaci_ordek__littlechin_ve_orman_perisi"
+    },
+    {
+      "season": 50,
+      "episode": 101,
+      "title": "Tweet Team",
+      "diziid": "ysk",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/102/tweet_takimi"
+    },
+    {
+      "season": 51,
+      "episode": 102,
+      "title": "Downton Wabby/Fowl Me Twice",
+      "diziid": "ysk",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/103/sehir_tavsani__iki_kere_gidakla"
+    },
+    {
+      "season": 52,
+      "episode": 103,
+      "title": "The Grim Rabbit",
+      "diziid": "ysk",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/104/tavsan_kral"
+    },
+    {
+      "season": 1,
+      "episode": 104,
+      "title": "Sir Littlechin and the Giant/The Wrong Brothers",
+      "diziid": "ysk",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/105/sir_littlechin_ve_dev__wrong_kardesler"
+    },
+    {
+      "season": 2,
+      "episode": 105,
+      "title": "Weiner Lose/Yankee Doodle Bunny",
+      "diziid": "ysk",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/106/kayip_sosis__amerikali_bunny"
+    },
+    {
+      "season": 3,
+      "episode": 106,
+      "title": "The Meanie and the Genie/In Cold Fudd",
+      "diziid": "ysk",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/107/sihirli_lamba__soguk_su_birikintisinde"
+    },
+    {
+      "season": 4,
+      "episode": 107,
+      "title": "North Pole Position/Papa's Got a Brand New Sam",
+      "diziid": "ysk",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/108/kuzey_kutbu_gezisi__yepyeni_bir_sam"
+    },
+    {
+      "season": 5,
+      "episode": 108,
+      "title": "Lifestyles of the Wealthy and Obnoxious/The Starship Mentalprise",
+      "diziid": "ysk",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/109/simarik_ve_zenginlerin_yasam_tarzi__uzay_gemisi_ucurma"
+    },
+    {
+      "season": 6,
+      "episode": 109,
+      "title": "State Fair and Balanced/Pussyfoot Soldier",
+      "diziid": "ysk",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/110/kent_panayiri__asker_kedicik"
+    },
+    {
+      "season": 7,
+      "episode": 110,
+      "title": "Quack to the Future/OctoPepe",
+      "diziid": "ysk",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/111/gelecege_donus__ahtapotpepe"
+    },
+    {
+      "season": 8,
+      "episode": 111,
+      "title": "No Thanks Giving/DarkBat",
+      "diziid": "ysk",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/112/tavsan_avi__darkbat"
+    },
+    {
+      "season": 9,
+      "episode": 112,
+      "title": "Yosemite Samson/Puppy's Got Claws",
+      "diziid": "ysk",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/113/yosemite_samson__penceli_kopekcik"
+    },
+    {
+      "season": 10,
+      "episode": 113,
+      "title": "Driving Miss Daffy/Second Fiddle",
+      "diziid": "ysk",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/114/sofor_daffy__ikinci_keman"
+    },
+    {
+      "season": 11,
+      "episode": 114,
+      "title": "Point Beak/Cal the Viking",
+      "diziid": "ysk",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/115/sivri_gaga__viking_cal"
+    },
+    {
+      "season": 12,
+      "episode": 115,
+      "title": "Rhoda's Road House/Claire de Loon",
+      "diziid": "ysk",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/116/rhodanin_restorani__aya_yolculuk"
+    },
+    {
+      "season": 13,
+      "episode": 116,
+      "title": "Daffy Duck: Motivational Guru/The Towering Hamsterno",
+      "diziid": "ysk",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/117/daffy_duck%3A_ozguven_rehberi__hamster_istilasi"
+    },
+    {
+      "season": 14,
+      "episode": 117,
+      "title": "Viktor the Science Swede/Dorlock and the Disorient Express",
+      "diziid": "ysk",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/118/isvecli_bilimci_viktor__dorlock_ve_uzak_yolu_ekspresi"
+    },
+    {
+      "season": 15,
+      "episode": 118,
+      "title": "Regatta de Rabbit/When Irish Eyes are Swinin'",
+      "diziid": "ysk",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/119/yelkenli_yaris__irlandali_sansi"
+    },
+    {
+      "season": 16,
+      "episode": 119,
+      "title": "Bunny Man/Quagmire of Solace",
+      "diziid": "ysk",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/120/tavsan_adam__yalnizlik_batakligi"
+    },
+    {
+      "season": 17,
+      "episode": 120,
+      "title": "Coyote Under Construction/The Bunny and the Goon",
+      "diziid": "ysk",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/121/insaatci_cakal__tavsan_ve_duzenbaz"
+    },
+    {
+      "season": 18,
+      "episode": 121,
+      "title": "Model T. Fudd/Victory Clasp",
+      "diziid": "ysk",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/122/fudd_model_araba__zafer_tebrigi"
+    },
+    {
+      "season": 19,
+      "episode": 122,
+      "title": "Lola Rider/Daredevil Duck",
+      "diziid": "ysk",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/123/yarisci_lola__cesur_ordek"
+    },
+    {
+      "season": 20,
+      "episode": 123,
+      "title": "Planet of the Bigfoots",
+      "diziid": "ysk",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/124/koca_ayak_gezegeni"
+    },
+    {
+      "season": 21,
+      "episode": 124,
+      "title": "Cold Medal Wabbit/No Duck Is an Island",
+      "diziid": "ysk",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/125/altin_madalyali_tavsan__daffy_duck_yarisiyor"
+    },
+    {
+      "season": 22,
+      "episode": 125,
+      "title": "My Kingdom for a Duck/Finders Keepers, Losers Sweepers",
+      "diziid": "ysk",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/126/ordek_kralligi__sihirli_supurge"
+    },
+    {
+      "season": 23,
+      "episode": 126,
+      "title": "Daffy Crackpot/Fashion Viktor",
+      "diziid": "ysk",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/127/daffy_crockpot__modaci_viktor"
+    },
+    {
+      "season": 24,
+      "episode": 127,
+      "title": "Sam the Roughrider/Fool's Gold",
+      "diziid": "ysk",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/128/kovboy_sam__bedava_altin"
+    },
+    {
+      "season": 25,
+      "episode": 128,
+      "title": "Bonjour DarkBat/Renaissance Fair - Thee Well",
+      "diziid": "ysk",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/129/bonjour%2C_darkbat__ronesans_panayiri"
+    },
+    {
+      "season": 26,
+      "episode": 129,
+      "title": "CinderPorker",
+      "diziid": "ysk",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/130/cinderporker"
+    },
+    {
+      "season": 27,
+      "episode": 130,
+      "title": "You Ain't Nothin' but a Foghorn/The Pepe Who Came in from the Cold",
+      "diziid": "ysk",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/131/sen_foghorndan_baska_bir_sey_degilsin__gruba_kabul_edilen_pepe"
+    },
+    {
+      "season": 28,
+      "episode": 131,
+      "title": "Smoothie Operator/Slugsworthy's Slop House",
+      "diziid": "ysk",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/132/icecek_uzmani__slugsworthynin_sapirdatma_evi"
+    },
+    {
+      "season": 29,
+      "episode": 132,
+      "title": "Cal-umbus/Porky Pigskin",
+      "diziid": "ysk",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/133/cal-umbus__porky_pigskin"
+    },
+    {
+      "season": 30,
+      "episode": 133,
+      "title": "Riverboat Rabbit/Dorlock, P.I.",
+      "diziid": "ysk",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/134/nehir_gemisi_tavsani__ozel_ajan_dorlock"
+    },
+    {
+      "season": 31,
+      "episode": 134,
+      "title": "To Be the Flea, You Gotta Beat the Flea/The Wild Blue Blunder",
+      "diziid": "ysk",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/135/pire_olmak_icin_pireyi_yenmek_zorundasin__vahsi_ucak"
+    },
+    {
+      "season": 32,
+      "episode": 135,
+      "title": "Thomas Fuddison/Hiccups and Downs",
+      "diziid": "ysk",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/136/thomas_fuddison__hickirik_sorunu"
+    },
+    {
+      "season": 33,
+      "episode": 136,
+      "title": "Foghorn Foods/Cruise Control",
+      "diziid": "ysk",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/137/foghorn_yiyecekleri__gemi_kontrol"
+    },
+    {
+      "season": 34,
+      "episode": 137,
+      "title": "Versailles's Matters/Frank Lloyd Wrong",
+      "diziid": "ysk",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/138/versaille_meseleleri__frank_ve_lloydun_hatasi"
+    },
+    {
+      "season": 35,
+      "episode": 138,
+      "title": "King Bugs and the Island of Lunacy",
+      "diziid": "ysk",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/139/kral_bugs_ve_cilgin_ada"
+    },
+    {
+      "season": 36,
+      "episode": 139,
+      "title": "Swamp and Circumstance/Safari, So Goodie",
+      "diziid": "ysk",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/140/bataklik_sartlari__safari_ne_guzel_sey"
+    },
+    {
+      "season": 37,
+      "episode": 140,
+      "title": "It's Snout or Never/From Dusk Till Dog",
+      "diziid": "ysk",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/141/ya_burun_ya_hic__bir_kopek_sinirlenene_kadar"
+    },
+    {
+      "season": 38,
+      "episode": 141,
+      "title": "Close Encounters of the Duck Kind/O.M. Genie",
+      "diziid": "ysk",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/142/ordek_turune_en_yakin_temas__eyvah_lamba_cini"
+    },
+    {
+      "season": 39,
+      "episode": 142,
+      "title": "Brothers in Harms/Rhoda Derby",
+      "diziid": "ysk",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/143/tehlikeli_kardesler__rhoda_derbisi"
+    },
+    {
+      "season": 40,
+      "episode": 143,
+      "title": "Lake, Rattle and Roll/It Paint All It's Cracked Up to Be",
+      "diziid": "ysk",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/144/gol%2C_gurultu_ve_yok_olus__boyanmasi_gerekirken_ne_oldu"
+    },
+    {
+      "season": 41,
+      "episode": 144,
+      "title": "Samurai Bugs/Duck in the Mist",
+      "diziid": "ysk",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/145/samuray_bugs_bunny__daffy_duck_ise_karisirsa"
+    },
+    {
+      "season": 42,
+      "episode": 145,
+      "title": "The Loonies",
+      "diziid": "ysk",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/146/saskin_kahramanlar"
+    },
+    {
+      "season": 43,
+      "episode": 146,
+      "title": "Dorlock Vice",
+      "diziid": "ysk",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/147/dorlock_ekibi"
+    },
+    {
+      "season": 44,
+      "episode": 147,
+      "title": "Armageddon Outta Here",
+      "diziid": "ysk",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/148/iyi_ve_kotu_arasindaki_savas"
+    },
+    {
+      "season": 45,
+      "episode": 148,
+      "title": "Substitute Porky/Viktor the Psychic",
+      "diziid": "ysk",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/149/vekil_ogretmen_porky"
+    },
+    {
+      "season": 46,
+      "episode": 149,
+      "title": "Formula One Bunny/Daffy Goes to Hollywood",
+      "diziid": "ysk",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/150/formula_bir_bunny__daffy_hollywooda_gidiyor"
+    },
+    {
+      "season": 47,
+      "episode": 150,
+      "title": "A Duck in the Laundromat/Primo Bugs-erino",
+      "diziid": "ysk",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/151/camasirhanede_bir_ordek_var__bas_balerin_bugs"
+    },
+    {
+      "season": 48,
+      "episode": 151,
+      "title": "The Silly Six",
+      "diziid": "ysk",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/152/sapsal_altili"
+    },
+    {
+      "season": 49,
+      "episode": 152,
+      "title": "Out of Towner Alien Encounter/Down Horace-Scope",
+      "diziid": "ysk",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/153/sehir_disindan_gelen_bir_uzayli__bir_atin_deniz_altisi"
+    },
+    {
+      "season": 50,
+      "episode": 153,
+      "title": "The Magnificent Millicent/The Wrong Stuff",
+      "diziid": "ysk",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/154/muhtesem_millicent__yanlis_gezegen"
+    },
+    {
+      "season": 51,
+      "episode": 154,
+      "title": "Undercover Bunny",
+      "diziid": "ysk",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/155/bunny_gizli_gorevde"
+    },
+    {
+      "season": 52,
+      "episode": 155,
+      "title": "The Legend of Burrito Monday",
+      "diziid": "ysk",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/ysk/yeni_sevimli_kahramanlar/156/burritolu_pazartesi_gunu"
+    }
+  ]
+}

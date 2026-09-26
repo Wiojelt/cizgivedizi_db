@@ -1,0 +1,325 @@
+{
+  "id": "hellon",
+  "title": "hello ninja",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/HELLONPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Aksiyon",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Cottontail Ninja",
+      "diziid": "hellon",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/1/pamukkuyruklu_ninja"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Lava Leap",
+      "diziid": "hellon",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/2/lav_atlamasi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Where Eagles Dare",
+      "diziid": "hellon",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/3/kartal_yuvasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Temple of Bingo",
+      "diziid": "hellon",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/4/bingo_manastiri"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Shadow Ninja",
+      "diziid": "hellon",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/5/golge_ninja"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Proof Is in the Pretzel",
+      "diziid": "hellon",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/6/pretzelin_masumiyeti"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Hound of Ninjaville",
+      "diziid": "hellon",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/7/ninjaville_kopegi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Kitchen Mission",
+      "diziid": "hellon",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/8/mutfak_gorevi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Coming Clean",
+      "diziid": "hellon",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/9/temizlik_ve_sorumluluk"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Bonsai Surprise",
+      "diziid": "hellon",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/10/bonsai_surprizi"
+    },
+    {
+      "season": 1,
+      "episode": 11,
+      "title": "Market of Doom",
+      "diziid": "hellon",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/11/market_sinavi"
+    },
+    {
+      "season": 2,
+      "episode": 12,
+      "title": "Treasure Split",
+      "diziid": "hellon",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/12/define_ayriligi"
+    },
+    {
+      "season": 3,
+      "episode": 13,
+      "title": "Under the Couch",
+      "diziid": "hellon",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/13/kanepenin_alti"
+    },
+    {
+      "season": 4,
+      "episode": 14,
+      "title": "Wild, Wild Wesley",
+      "diziid": "hellon",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/14/vahsi_bati_macerasi"
+    },
+    {
+      "season": 5,
+      "episode": 15,
+      "title": "Jungle's End",
+      "diziid": "hellon",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/15/ormanin_sonu"
+    },
+    {
+      "season": 6,
+      "episode": 16,
+      "title": "The Way to Dreamland",
+      "diziid": "hellon",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/16/dusler_diyarinin_yolu"
+    },
+    {
+      "season": 7,
+      "episode": 17,
+      "title": "Lemonade Stand",
+      "diziid": "hellon",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/17/limonata_standi"
+    },
+    {
+      "season": 8,
+      "episode": 18,
+      "title": "Beat the Heat",
+      "diziid": "hellon",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/18/sicagi_yenmek"
+    },
+    {
+      "season": 9,
+      "episode": 19,
+      "title": "Stick to It",
+      "diziid": "hellon",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/19/vazgecmemek"
+    },
+    {
+      "season": 10,
+      "episode": 20,
+      "title": "Ninja vs. Ninja",
+      "diziid": "hellon",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/20/ninja_ninjaya_karsi"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "Welcome to Japan",
+      "diziid": "hellon",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/21/japonyaya_hos_geldiniz"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "Hotaru No Hikari",
+      "diziid": "hellon",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/22/hotaru_no_hikari"
+    },
+    {
+      "season": 1,
+      "episode": 23,
+      "title": "Heart of the Dragon",
+      "diziid": "hellon",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/23/ejderhanin_kalbi"
+    },
+    {
+      "season": 5,
+      "episode": 24,
+      "title": "Pretzel Goes to Sea",
+      "diziid": "hellon",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/25/pretzel_denize_acilir"
+    },
+    {
+      "season": 6,
+      "episode": 25,
+      "title": "Valley of the Giants",
+      "diziid": "hellon",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/26/devler_vadisi"
+    },
+    {
+      "season": 7,
+      "episode": 26,
+      "title": "Be the Leaves",
+      "diziid": "hellon",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/27/yapraklar_gibi_olun"
+    },
+    {
+      "season": 8,
+      "episode": 27,
+      "title": "Sno Fun",
+      "diziid": "hellon",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/28/kar_macerasi"
+    },
+    {
+      "season": 9,
+      "episode": 28,
+      "title": "In Cold Pursuit",
+      "diziid": "hellon",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/29/soguk_takip"
+    },
+    {
+      "season": 10,
+      "episode": 29,
+      "title": "Sneaky Seed Snatcher",
+      "diziid": "hellon",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/30/sinsi_yem_hirsizi"
+    },
+    {
+      "season": 1,
+      "episode": 30,
+      "title": "A Bike Story",
+      "diziid": "hellon",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/31/bir_bisiklet_hikayesi"
+    },
+    {
+      "season": 2,
+      "episode": 31,
+      "title": "No Cat Left Behind",
+      "diziid": "hellon",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/32/kedi_kurtarma_operasyonu"
+    },
+    {
+      "season": 3,
+      "episode": 32,
+      "title": "Dance, Dance Ninja",
+      "diziid": "hellon",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/33/ninja_dans_partisi"
+    },
+    {
+      "season": 4,
+      "episode": 33,
+      "title": "The Great Ninja Train",
+      "diziid": "hellon",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/34/buyuk_ninja_treni"
+    },
+    {
+      "season": 5,
+      "episode": 34,
+      "title": "The Ballad of Gen",
+      "diziid": "hellon",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/35/genin_sarkisi"
+    },
+    {
+      "season": 6,
+      "episode": 35,
+      "title": "Let's Talk Space",
+      "diziid": "hellon",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/36/konumuz_uzay"
+    },
+    {
+      "season": 7,
+      "episode": 36,
+      "title": "Quiet Game",
+      "diziid": "hellon",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/37/sessiz_oyun"
+    },
+    {
+      "season": 8,
+      "episode": 37,
+      "title": "Golfball Ninjas",
+      "diziid": "hellon",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/38/golfcu_ninjalar"
+    },
+    {
+      "season": 9,
+      "episode": 38,
+      "title": "Treasure Hunt",
+      "diziid": "hellon",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/39/define_avi"
+    },
+    {
+      "season": 10,
+      "episode": 39,
+      "title": "Enter the Kitten",
+      "diziid": "hellon",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/hellon/hello_ninja/40/yavru_kedi"
+    }
+  ]
+}

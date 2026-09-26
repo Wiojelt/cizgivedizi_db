@@ -1,0 +1,356 @@
+{
+  "id": "katuri",
+  "title": "katuri",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KATURIPoster.avif",
+  "channel": "TRT Ã‡ocuk",
+  "genres": [
+    "DoÄŸa ve Hayvanlar"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Mom Knows Everything",
+      "diziid": "katuri",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/1/annem_her_seyi_bilir"
+    },
+    {
+      "season": 4,
+      "episode": 2,
+      "title": "Roly-Poly Rolls Like a Bean",
+      "diziid": "katuri",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/4/tesbih_bocegi_boncuk_gibi_yuvarlaniyor"
+    },
+    {
+      "season": 5,
+      "episode": 3,
+      "title": "Hide And Seek",
+      "diziid": "katuri",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/5/saklambac"
+    },
+    {
+      "season": 6,
+      "episode": 4,
+      "title": "Roll The Watermelon",
+      "diziid": "katuri",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/6/karpuzu_yuvarla"
+    },
+    {
+      "season": 7,
+      "episode": 5,
+      "title": "Where is the Acorn?",
+      "diziid": "katuri",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/7/mese_palamudu_nerede"
+    },
+    {
+      "season": 8,
+      "episode": 6,
+      "title": "Captain Spider's New Home",
+      "diziid": "katuri",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/8/yavru_orumcegin_yeni_evi"
+    },
+    {
+      "season": 9,
+      "episode": 7,
+      "title": "Mrs. Plover's Eggs",
+      "diziid": "katuri",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/9/halkali_hanimin_yumurtasi"
+    },
+    {
+      "season": 10,
+      "episode": 8,
+      "title": "Weevil Bug's Leaf Bundle",
+      "diziid": "katuri",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/10/bocek_hanimin_yaprak_tomari"
+    },
+    {
+      "season": 11,
+      "episode": 9,
+      "title": "Caterpillar and Butterfly",
+      "diziid": "katuri",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/11/tirtil_ve_kelebek"
+    },
+    {
+      "season": 12,
+      "episode": 10,
+      "title": "Finding Tadpole's Mommy",
+      "diziid": "katuri",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/12/iribasin_annesini_ariyoruz"
+    },
+    {
+      "season": 13,
+      "episode": 11,
+      "title": "Fly, Flying Squirrel",
+      "diziid": "katuri",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/13/uc_ucan_sincap_uc"
+    },
+    {
+      "season": 14,
+      "episode": 12,
+      "title": "Tortoise Rock",
+      "diziid": "katuri",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/14/kaplumbaga_tasi"
+    },
+    {
+      "season": 15,
+      "episode": 13,
+      "title": "The Hiccupping Spittlebug",
+      "diziid": "katuri",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/15/kopuk_bocegini_hickirik_tuttu"
+    },
+    {
+      "season": 16,
+      "episode": 14,
+      "title": "The Ant Kingdom",
+      "diziid": "katuri",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/16/karinca_ulkesi"
+    },
+    {
+      "season": 17,
+      "episode": 15,
+      "title": "A New Friend",
+      "diziid": "katuri",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/17/yeni_bir_arkadas"
+    },
+    {
+      "season": 18,
+      "episode": 16,
+      "title": "Fireflies",
+      "diziid": "katuri",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/18/ates_bocekleri"
+    },
+    {
+      "season": 19,
+      "episode": 17,
+      "title": "Bell Cricket the Music Maestro",
+      "diziid": "katuri",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/19/maestro_circir_bocegi"
+    },
+    {
+      "season": 21,
+      "episode": 18,
+      "title": "Running an Errand",
+      "diziid": "katuri",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/21/gorev_ustleniyoruz"
+    },
+    {
+      "season": 23,
+      "episode": 19,
+      "title": "The Jumping Mudfish",
+      "diziid": "katuri",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/23/ziplayan_balik"
+    },
+    {
+      "season": 24,
+      "episode": 20,
+      "title": "The Guardian Owl",
+      "diziid": "katuri",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/24/bekci_baykus"
+    },
+    {
+      "season": 26,
+      "episode": 21,
+      "title": "Playing in the Rain",
+      "diziid": "katuri",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/26/yagmurda_oyun_oynamak"
+    },
+    {
+      "season": 27,
+      "episode": 22,
+      "title": "Grampy Crow's Treasure",
+      "diziid": "katuri",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/27/karga_dedenin_hazinesi"
+    },
+    {
+      "season": 28,
+      "episode": 23,
+      "title": "A Tree for Two",
+      "diziid": "katuri",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/28/iki_kisilik_agac"
+    },
+    {
+      "season": 29,
+      "episode": 24,
+      "title": "Meet the Ducklings",
+      "diziid": "katuri",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/29/ordek_yavrulariyla_tanisiyoruz"
+    },
+    {
+      "season": 30,
+      "episode": 25,
+      "title": "The Tall Crane",
+      "diziid": "katuri",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/30/uzun_turna_kusu"
+    },
+    {
+      "season": 31,
+      "episode": 26,
+      "title": "Mom for the Day",
+      "diziid": "katuri",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/31/gunun_annesi"
+    },
+    {
+      "season": 32,
+      "episode": 27,
+      "title": "Whose Footprint is this?",
+      "diziid": "katuri",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/32/kimin_ayak_izi"
+    },
+    {
+      "season": 33,
+      "episode": 28,
+      "title": "The Hermit Crab",
+      "diziid": "katuri",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/33/yengecin_yeni_evi"
+    },
+    {
+      "season": 34,
+      "episode": 29,
+      "title": "The Honeybees and the Flower Kite",
+      "diziid": "katuri",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/34/bal_arilari_ve_cicekten_ucurtma"
+    },
+    {
+      "season": 35,
+      "episode": 30,
+      "title": "Snail's Dream",
+      "diziid": "katuri",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/35/salyangozun_hayali"
+    },
+    {
+      "season": 37,
+      "episode": 31,
+      "title": "Golden Bat",
+      "diziid": "katuri",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/37/altin_yarasa"
+    },
+    {
+      "season": 38,
+      "episode": 32,
+      "title": "Run with Me, Wildcat!",
+      "diziid": "katuri",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/38/benimle_kos_yaban_kedisi%21"
+    },
+    {
+      "season": 39,
+      "episode": 33,
+      "title": "Totally Toads",
+      "diziid": "katuri",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/39/yavru_kurbagalar"
+    },
+    {
+      "season": 42,
+      "episode": 34,
+      "title": "Doctor Ladybug",
+      "diziid": "katuri",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/42/doktor_uc_uc_bocegi"
+    },
+    {
+      "season": 43,
+      "episode": 35,
+      "title": "The Friendly Guard Dog",
+      "diziid": "katuri",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/43/dost_canlisi_bekci_kopegi"
+    },
+    {
+      "season": 44,
+      "episode": 36,
+      "title": "Grey Squirrel in the Forest",
+      "diziid": "katuri",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/44/ormanda_bir_boz_sincap"
+    },
+    {
+      "season": 45,
+      "episode": 37,
+      "title": "Close Encounters of the Human Kind",
+      "diziid": "katuri",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/45/insanlarla_karsilasma"
+    },
+    {
+      "season": 46,
+      "episode": 38,
+      "title": "Sledging with Mr. Otter",
+      "diziid": "katuri",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/46/kizakla_kayiyoruz"
+    },
+    {
+      "season": 47,
+      "episode": 39,
+      "title": "Catching the Weasel's Tail",
+      "diziid": "katuri",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/47/gelincikin_kuyrugu"
+    },
+    {
+      "season": 48,
+      "episode": 40,
+      "title": "Mom's Birthday Party",
+      "diziid": "katuri",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/48/annenin_dogum_gunu"
+    },
+    {
+      "season": 49,
+      "episode": 41,
+      "title": "The Snowman",
+      "diziid": "katuri",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/49/kardan_adam"
+    },
+    {
+      "season": 50,
+      "episode": 42,
+      "title": "The Chickens' House of Fun",
+      "diziid": "katuri",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/50/tavuklarin_oyun_evi"
+    },
+    {
+      "season": 52,
+      "episode": 43,
+      "title": "Helping the Wild Dog",
+      "diziid": "katuri",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/katuri/katuri/52/yaban_kopegine_yardim"
+    }
+  ]
+}

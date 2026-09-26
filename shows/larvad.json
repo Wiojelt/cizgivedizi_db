@@ -1,0 +1,221 @@
+{
+  "id": "larvad",
+  "title": "larva adasÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/LARVADPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "AbsÃ¼rt"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Mango",
+      "diziid": "larvad",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/1/mango"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Mango 2",
+      "diziid": "larvad",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/2/mango_2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Larva Island",
+      "diziid": "larvad",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/3/larva_adasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Chuck",
+      "diziid": "larvad",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/4/chuck"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Clara",
+      "diziid": "larvad",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/5/clara"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Crabsformer",
+      "diziid": "larvad",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/6/robot_yengec"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Fishing",
+      "diziid": "larvad",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/7/balikcilik"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Pendant",
+      "diziid": "larvad",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/8/kolye_ucu"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Lala Island",
+      "diziid": "larvad",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/9/ruyalar_adasi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Master Chef",
+      "diziid": "larvad",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/10/usta_asci"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Farming",
+      "diziid": "larvad",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/11/ciftcilik"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Pirate",
+      "diziid": "larvad",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/12/korsan"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Change",
+      "diziid": "larvad",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/13/degisim"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Maze",
+      "diziid": "larvad",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/14/labirent"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Fire",
+      "diziid": "larvad",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/15/ates"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Beach Volleyball",
+      "diziid": "larvad",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/16/plaj_voleybolu"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Larva Rangers 1",
+      "diziid": "larvad",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/17/larva_rangers_1"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Larva Rangers 2",
+      "diziid": "larvad",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/18/larva_rangers_2"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "A Lucky Day",
+      "diziid": "larvad",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/19/sansli_bir_gun"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Crabsformer 2",
+      "diziid": "larvad",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/20/robot_yengec_2"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Booby's Love",
+      "diziid": "larvad",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/21/booby%E2%80%99nin_aski"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Mango's Parents",
+      "diziid": "larvad",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/22/mango%E2%80%99nun_ebeveynleri"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Iceberg",
+      "diziid": "larvad",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/23/buz_dagi"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "Storm",
+      "diziid": "larvad",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/24/firtina"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Escape",
+      "diziid": "larvad",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/25/kacis"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "Drift",
+      "diziid": "larvad",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/larvad/larva_adasi/26/suruklenis"
+    }
+  ]
+}

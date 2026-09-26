@@ -1,0 +1,340 @@
+{
+  "id": "pete",
+  "title": "kedi pete",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KPETEPoster.avif",
+  "channel": "Prime Video",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "A Groovy New Year",
+      "diziid": "pete",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/1/harika_bir_yilbasi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Too Cool for School & Pete at the Beach",
+      "diziid": "pete",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/2/fazla_havali__pete_plajda"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Begin to Begin & Three Bite Rule",
+      "diziid": "pete",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/3/baslamaya_baslamak__uc_isirik_kurali"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Another Cats Shoes & Emma's Weird Song",
+      "diziid": "pete",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/4/baska_kedinin_yerinde_olmak__emmanin_tuhaf_sarkisi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Magic Sunglasses & Sandcastles",
+      "diziid": "pete",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/5/sihirli_gunes_gozlugu__kumdan_satolar"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Case of the Missing Cupcakes & Bedtime Blues",
+      "diziid": "pete",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/6/kayip_kek_olayi__uyku_gelmeyince"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Band's First Gig & Quest!",
+      "diziid": "pete",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/7/grubun_ilk_konseri_-_arastirma%21"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Pumpkin Pageant & Trick or Treating Ghost",
+      "diziid": "pete",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/8/bal_kabagi_toreni__seker_mi_saka_mi_hayaleti"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "A Very Groovy Christmas",
+      "diziid": "pete",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/9/harika_bir_noel"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Kitty Catsclaw Reunion & Play Ball!",
+      "diziid": "pete",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/10/kitty_catsclaw_bulusmasi__top_oyna"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "I Once Was Lost & Snow Daze",
+      "diziid": "pete",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/11/bir_kez_kaybolmustum__kar_buyusu"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Taking Care of Bobness & Sally Comes Clean",
+      "diziid": "pete",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/12/bobu_neselendirme_cabasi__sally_derlenip_toplaniyor"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Pink Pajama Pals & Meteor Shower",
+      "diziid": "pete",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/13/pembeli_pijamali_dostlar__meteor_yagmuru"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Blackout! & Wavy Way of Life",
+      "diziid": "pete",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/14/karanlik__dalgali_yasam"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Rock On Mom and Dad & Just Gotta Be You",
+      "diziid": "pete",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/15/yasa_anne_baba__kendin_ol"
+    },
+    {
+      "season": 1,
+      "episode": 16,
+      "title": "A Very Groovy Valentine's Day",
+      "diziid": "pete",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/16/kedi_pete%3A_mukemmel_bir_sevgililer_gunu"
+    },
+    {
+      "season": 2,
+      "episode": 17,
+      "title": "Finders Keepers & The Honkening",
+      "diziid": "pete",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/17/bulan_alir__korna_sesleri"
+    },
+    {
+      "season": 3,
+      "episode": 18,
+      "title": "Callie Loses Her Voice & Out of Tune",
+      "diziid": "pete",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/18/callie_sesini_kaybediyor__akortsuz_gun"
+    },
+    {
+      "season": 4,
+      "episode": 19,
+      "title": "Sallys Not Amused & The Singing Cabbage",
+      "diziid": "pete",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/19/sally_eglenmiyor__sarki_soyleyen_lahana"
+    },
+    {
+      "season": 5,
+      "episode": 20,
+      "title": "Big Brother Lessons & Callie vs. the Volcano",
+      "diziid": "pete",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/20/agabeylik_dersleri__callie_yanardaga_karsi"
+    },
+    {
+      "season": 6,
+      "episode": 21,
+      "title": "Sally Knows Boo & No Meowtain Too High",
+      "diziid": "pete",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/21/sally%2C_boo_ile_tanisinca__hicbir_miyav_dagi_yuksek_degildir"
+    },
+    {
+      "season": 7,
+      "episode": 22,
+      "title": "The Ballad of the Soggy Music Room & Parents' Day Surprise",
+      "diziid": "pete",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/22/su_basmis_muzik_odasinin_sarkisi__anne_ve_babalar_gunu"
+    },
+    {
+      "season": 8,
+      "episode": 23,
+      "title": "Legend of Big Paw/Cat City Safety Patrol",
+      "diziid": "pete",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/23/koca_pence_efsanesi__kedi_sehri_guvenlik_devriyesi"
+    },
+    {
+      "season": 9,
+      "episode": 24,
+      "title": "Super Surfboard Smash & SpaceCat 3611: Save the Music",
+      "diziid": "pete",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/24/kirik_sorf_tahtasi__uzay_kedisi_3611_muzigi_kurtariyor"
+    },
+    {
+      "season": 10,
+      "episode": 25,
+      "title": "The Gator's Song & Ohio Sphinx",
+      "diziid": "pete",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/25/timsahlar__ohio_sfenks"
+    },
+    {
+      "season": 11,
+      "episode": 26,
+      "title": "Full Court Press & Goodbye, Mrs.Burrow",
+      "diziid": "pete",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/26/tam_saha_baski__hosca_kalin_bayan_burrow"
+    },
+    {
+      "season": 12,
+      "episode": 27,
+      "title": "Last Days of Summer & The Home Front",
+      "diziid": "pete",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/27/yazin_son_gunleri__ev_cephesi"
+    },
+    {
+      "season": 13,
+      "episode": 28,
+      "title": "Sharesies/The Magic Oath",
+      "diziid": "pete",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/28/paylasdas__sihirli_yemin"
+    },
+    {
+      "season": 14,
+      "episode": 29,
+      "title": "School Starts Tomorrow (Operetta)",
+      "diziid": "pete",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/29/okula_donus_opereti"
+    },
+    {
+      "season": 15,
+      "episode": 30,
+      "title": "The Call & Pete Over-Extended",
+      "diziid": "pete",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/30/karar__bin_parcaya_bolunmek"
+    },
+    {
+      "season": 16,
+      "episode": 31,
+      "title": "Sally's Sour Note & Gustavo's Security Crisis",
+      "diziid": "pete",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/31/sallynin_yanlis_notasi__gustavonun_ugurlu_ordegi"
+    },
+    {
+      "season": 17,
+      "episode": 32,
+      "title": "And Then There Were None & Take Your Cat to Work Day",
+      "diziid": "pete",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/32/ortadan_kaybolanlar__cocuklar_studyoda"
+    },
+    {
+      "season": 18,
+      "episode": 33,
+      "title": "Fairy Tale Takedown & Let the Games Begin",
+      "diziid": "pete",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/33/masal_oyunu__oyunlar_baslasin"
+    },
+    {
+      "season": 19,
+      "episode": 34,
+      "title": "Room at the Table & Founders Day",
+      "diziid": "pete",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/34/masadaki_bos_yer__kurucular_gunu"
+    },
+    {
+      "season": 20,
+      "episode": 35,
+      "title": "Gustavo's First Party & Too Cool to Pool",
+      "diziid": "pete",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/35/gustavonun_ilk_partisi__havali_yuzucu"
+    },
+    {
+      "season": 21,
+      "episode": 36,
+      "title": "All the Letters Home & Message in a Bottle",
+      "diziid": "pete",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/36/eve_mektuplar__sisedeki_not"
+    },
+    {
+      "season": 22,
+      "episode": 37,
+      "title": "Dream Melody & The Contest",
+      "diziid": "pete",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/37/ruya_melodisi__yarisma"
+    },
+    {
+      "season": 23,
+      "episode": 38,
+      "title": "A Friend Named Lollypop & Squirrelton",
+      "diziid": "pete",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/38/lolipop_adinda_bir_arkadas__sincapkoy"
+    },
+    {
+      "season": 24,
+      "episode": 39,
+      "title": "Fun Fair & Dance Party for One",
+      "diziid": "pete",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/39/lunapark__tek_kisilik_dans_partisi"
+    },
+    {
+      "season": 25,
+      "episode": 40,
+      "title": "Small Steps & Grumpy Gets to Work",
+      "diziid": "pete",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/40/kucuk_adimlar__grumpy_is_basinda"
+    },
+    {
+      "season": 26,
+      "episode": 41,
+      "title": "The Five Senses & Pete's Birthday",
+      "diziid": "pete",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/pete/kedi_pete/41/bes_duyu__petein_dogum_gunu"
+    }
+  ]
+}

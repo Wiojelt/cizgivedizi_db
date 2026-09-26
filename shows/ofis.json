@@ -1,0 +1,1644 @@
+{
+  "id": "ofis",
+  "title": "ofis",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/OFÄ°SPoster.avif",
+  "channel": "Prime Video",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "ofis",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/1/pilot"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Diversity Day",
+      "diziid": "ofis",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/2/cesitlendirme_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Health Care",
+      "diziid": "ofis",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/3/saglik_hizmetleri"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Alliance",
+      "diziid": "ofis",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/4/isbirligi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Basketball",
+      "diziid": "ofis",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/5/basketbol"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Hot Girl",
+      "diziid": "ofis",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/6/atesli_kiz"
+    },
+    {
+      "season": 1,
+      "episode": 7,
+      "title": "The Dundies",
+      "diziid": "ofis",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/7/dundieler"
+    },
+    {
+      "season": 2,
+      "episode": 8,
+      "title": "Sexual Harassment",
+      "diziid": "ofis",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/8/cinsel_taciz"
+    },
+    {
+      "season": 3,
+      "episode": 9,
+      "title": "Office Olympics",
+      "diziid": "ofis",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/9/ofis_olimpiyatlari"
+    },
+    {
+      "season": 4,
+      "episode": 10,
+      "title": "The Fire",
+      "diziid": "ofis",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/10/yangin"
+    },
+    {
+      "season": 5,
+      "episode": 11,
+      "title": "Halloween",
+      "diziid": "ofis",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/11/cadilar_bayrami"
+    },
+    {
+      "season": 6,
+      "episode": 12,
+      "title": "The Fight",
+      "diziid": "ofis",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/12/kavga"
+    },
+    {
+      "season": 7,
+      "episode": 13,
+      "title": "The Client",
+      "diziid": "ofis",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/13/musteri"
+    },
+    {
+      "season": 8,
+      "episode": 14,
+      "title": "Performance Review",
+      "diziid": "ofis",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/14/verimlilik_denetimi"
+    },
+    {
+      "season": 9,
+      "episode": 15,
+      "title": "E-Mail Surveillance",
+      "diziid": "ofis",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/15/e-posta_kontrolu"
+    },
+    {
+      "season": 10,
+      "episode": 16,
+      "title": "Christmas Party",
+      "diziid": "ofis",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/16/noel_partisi"
+    },
+    {
+      "season": 11,
+      "episode": 17,
+      "title": "Booze Cruise",
+      "diziid": "ofis",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/17/icki_alemi"
+    },
+    {
+      "season": 12,
+      "episode": 18,
+      "title": "The Injury",
+      "diziid": "ofis",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/18/yaralanma"
+    },
+    {
+      "season": 13,
+      "episode": 19,
+      "title": "The Secret",
+      "diziid": "ofis",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/19/sir"
+    },
+    {
+      "season": 14,
+      "episode": 20,
+      "title": "The Carpet",
+      "diziid": "ofis",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/20/cambaza_bak"
+    },
+    {
+      "season": 15,
+      "episode": 21,
+      "title": "Boys and Girls",
+      "diziid": "ofis",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/21/erkekler_ve_kizlar"
+    },
+    {
+      "season": 16,
+      "episode": 22,
+      "title": "Valentine's Day",
+      "diziid": "ofis",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/22/sevgililer_gunu"
+    },
+    {
+      "season": 17,
+      "episode": 23,
+      "title": "Dwight's Speech",
+      "diziid": "ofis",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/23/dwightin_konusmasi"
+    },
+    {
+      "season": 18,
+      "episode": 24,
+      "title": "Take Your Daughter to Work Day",
+      "diziid": "ofis",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/24/kizini_ofise_getir"
+    },
+    {
+      "season": 19,
+      "episode": 25,
+      "title": "Michael's Birthday",
+      "diziid": "ofis",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/25/michaelin_dogum_gunu"
+    },
+    {
+      "season": 20,
+      "episode": 26,
+      "title": "Drug Testing",
+      "diziid": "ofis",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/26/uyusturucu_kontrolu"
+    },
+    {
+      "season": 21,
+      "episode": 27,
+      "title": "Conflict Resolution",
+      "diziid": "ofis",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/27/catisma_cozumlemesi"
+    },
+    {
+      "season": 22,
+      "episode": 28,
+      "title": "Casino Night",
+      "diziid": "ofis",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/28/kumarhane_gecesi"
+    },
+    {
+      "season": 1,
+      "episode": 29,
+      "title": "Gay Witch Hunt",
+      "diziid": "ofis",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/29/cadi_avi"
+    },
+    {
+      "season": 2,
+      "episode": 30,
+      "title": "The Convention",
+      "diziid": "ofis",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/30/kongre"
+    },
+    {
+      "season": 3,
+      "episode": 31,
+      "title": "The Coup",
+      "diziid": "ofis",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/31/darbe"
+    },
+    {
+      "season": 4,
+      "episode": 32,
+      "title": "Grief Counseling",
+      "diziid": "ofis",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/32/yas_danismanligi"
+    },
+    {
+      "season": 5,
+      "episode": 33,
+      "title": "Initiation",
+      "diziid": "ofis",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/33/ilk_baslangic"
+    },
+    {
+      "season": 6,
+      "episode": 34,
+      "title": "Diwali",
+      "diziid": "ofis",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/34/diwali"
+    },
+    {
+      "season": 7,
+      "episode": 35,
+      "title": "Branch Closing",
+      "diziid": "ofis",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/35/subenin_kapatilmasi"
+    },
+    {
+      "season": 8,
+      "episode": 36,
+      "title": "The Merger",
+      "diziid": "ofis",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/36/fuzyon"
+    },
+    {
+      "season": 9,
+      "episode": 37,
+      "title": "The Convict",
+      "diziid": "ofis",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/37/eski_mahkum"
+    },
+    {
+      "season": 10,
+      "episode": 38,
+      "title": "Christmas Party",
+      "diziid": "ofis",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/38/noel_partisi%2C_bolum_1"
+    },
+    {
+      "season": 11,
+      "episode": 39,
+      "title": "Christmas Party",
+      "diziid": "ofis",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/39/noel_partisi%2C_bolum_2"
+    },
+    {
+      "season": 12,
+      "episode": 40,
+      "title": "Back from Vacation",
+      "diziid": "ofis",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/40/tatilden_donus"
+    },
+    {
+      "season": 13,
+      "episode": 41,
+      "title": "Traveling Salesmen",
+      "diziid": "ofis",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/41/gezici_satis_temsilcisi"
+    },
+    {
+      "season": 14,
+      "episode": 42,
+      "title": "The Return",
+      "diziid": "ofis",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/42/geri_donus"
+    },
+    {
+      "season": 15,
+      "episode": 43,
+      "title": "Ben Franklin",
+      "diziid": "ofis",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/43/ben_franklin"
+    },
+    {
+      "season": 16,
+      "episode": 44,
+      "title": "Phyllis' Wedding",
+      "diziid": "ofis",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/44/phyllisin_dugunu"
+    },
+    {
+      "season": 17,
+      "episode": 45,
+      "title": "Business School",
+      "diziid": "ofis",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/45/isletme_okulu"
+    },
+    {
+      "season": 18,
+      "episode": 46,
+      "title": "Cocktails",
+      "diziid": "ofis",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/46/kokteyl"
+    },
+    {
+      "season": 19,
+      "episode": 47,
+      "title": "The Negotiation",
+      "diziid": "ofis",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/47/pazarlik"
+    },
+    {
+      "season": 20,
+      "episode": 48,
+      "title": "Safety Training",
+      "diziid": "ofis",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/48/guvenlik_egitimi"
+    },
+    {
+      "season": 21,
+      "episode": 49,
+      "title": "Product Recall",
+      "diziid": "ofis",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/49/ayipli_mal"
+    },
+    {
+      "season": 22,
+      "episode": 50,
+      "title": "Women's Appreciation",
+      "diziid": "ofis",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/50/kadinlarin_goz_kirpmasi"
+    },
+    {
+      "season": 23,
+      "episode": 51,
+      "title": "Beach Games",
+      "diziid": "ofis",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/51/oyun"
+    },
+    {
+      "season": 24,
+      "episode": 52,
+      "title": "The Job (1)",
+      "diziid": "ofis",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/52/mulakat%2C_bolum_1"
+    },
+    {
+      "season": 25,
+      "episode": 53,
+      "title": "The Job (2)",
+      "diziid": "ofis",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/53/mulakat%2C_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 54,
+      "title": "Fun Run (1)",
+      "diziid": "ofis",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/54/garip_kaza%2C_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 55,
+      "title": "Fun Run (2)",
+      "diziid": "ofis",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/55/garip_kaza%2C_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 56,
+      "title": "Dunder Mifflin Infinity (1)",
+      "diziid": "ofis",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/56/yeni_ufuklar%2C_bolum_1"
+    },
+    {
+      "season": 4,
+      "episode": 57,
+      "title": "Dunder Mifflin Infinity (2)",
+      "diziid": "ofis",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/57/yeni_ufuklar%2C_bolum_2"
+    },
+    {
+      "season": 5,
+      "episode": 58,
+      "title": "Launch Party (1)",
+      "diziid": "ofis",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/58/tanitim_partisi%2C_bolum_1"
+    },
+    {
+      "season": 6,
+      "episode": 59,
+      "title": "Launch Party (2)",
+      "diziid": "ofis",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/59/tanitim_partisi%2C_bolum_2"
+    },
+    {
+      "season": 7,
+      "episode": 60,
+      "title": "Money (1)",
+      "diziid": "ofis",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/60/para_pesinde%2C_bolum_1"
+    },
+    {
+      "season": 8,
+      "episode": 61,
+      "title": "Money (2)",
+      "diziid": "ofis",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/61/para_pesinde%2C_bolum_2"
+    },
+    {
+      "season": 9,
+      "episode": 62,
+      "title": "Local Ad",
+      "diziid": "ofis",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/62/reklam"
+    },
+    {
+      "season": 10,
+      "episode": 63,
+      "title": "Branch Wars",
+      "diziid": "ofis",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/63/sube_savaslari"
+    },
+    {
+      "season": 11,
+      "episode": 64,
+      "title": "Survivor Man",
+      "diziid": "ofis",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/64/ormana"
+    },
+    {
+      "season": 12,
+      "episode": 65,
+      "title": "The Deposition",
+      "diziid": "ofis",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/65/sahit"
+    },
+    {
+      "season": 13,
+      "episode": 66,
+      "title": "Dinner Party",
+      "diziid": "ofis",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/66/aksam_yemegi_partisi"
+    },
+    {
+      "season": 14,
+      "episode": 67,
+      "title": "Chair Model",
+      "diziid": "ofis",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/67/sandalye_modeli"
+    },
+    {
+      "season": 15,
+      "episode": 68,
+      "title": "Night Out",
+      "diziid": "ofis",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/68/gece_gezintisi"
+    },
+    {
+      "season": 16,
+      "episode": 69,
+      "title": "Did I Stutter?",
+      "diziid": "ofis",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/69/tekledim_mi"
+    },
+    {
+      "season": 17,
+      "episode": 70,
+      "title": "Job Fair",
+      "diziid": "ofis",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/70/is_fuari"
+    },
+    {
+      "season": 18,
+      "episode": 71,
+      "title": "Goodbye, Toby (1)",
+      "diziid": "ofis",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/71/veda_partisi%2C_bolum_1"
+    },
+    {
+      "season": 19,
+      "episode": 72,
+      "title": "Goodbye, Toby (2)",
+      "diziid": "ofis",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/72/veda_partisi%2C_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 73,
+      "title": "Weight Loss (1)",
+      "diziid": "ofis",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/73/zayiflama_programi%2C_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 74,
+      "title": "Weight Loss (2)",
+      "diziid": "ofis",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/74/zayiflama_programi%2C_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 75,
+      "title": "Business Ethics",
+      "diziid": "ofis",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/75/is_etigi"
+    },
+    {
+      "season": 4,
+      "episode": 76,
+      "title": "Baby Shower",
+      "diziid": "ofis",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/76/lohusa_partisi"
+    },
+    {
+      "season": 5,
+      "episode": 77,
+      "title": "Crime Aid",
+      "diziid": "ofis",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/77/curume_care"
+    },
+    {
+      "season": 6,
+      "episode": 78,
+      "title": "Employee Transfer",
+      "diziid": "ofis",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/78/eleman_transferi"
+    },
+    {
+      "season": 7,
+      "episode": 79,
+      "title": "Customer Survey",
+      "diziid": "ofis",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/79/musteri_denetimi"
+    },
+    {
+      "season": 8,
+      "episode": 80,
+      "title": "Business Trip",
+      "diziid": "ofis",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/80/is_yolculugu"
+    },
+    {
+      "season": 9,
+      "episode": 81,
+      "title": "Frame Toby",
+      "diziid": "ofis",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/81/tobyye_kumpas"
+    },
+    {
+      "season": 10,
+      "episode": 82,
+      "title": "The Surplus",
+      "diziid": "ofis",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/82/butce_fazlasi"
+    },
+    {
+      "season": 11,
+      "episode": 83,
+      "title": "Moroccan Christmas",
+      "diziid": "ofis",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/83/fasta_noel"
+    },
+    {
+      "season": 12,
+      "episode": 84,
+      "title": "The Duel",
+      "diziid": "ofis",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/84/duello"
+    },
+    {
+      "season": 13,
+      "episode": 85,
+      "title": "Prince Family Paper",
+      "diziid": "ofis",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/85/sanayi_casuslugu"
+    },
+    {
+      "season": 14,
+      "episode": 86,
+      "title": "Stress Relief (1)",
+      "diziid": "ofis",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/86/streste_rahatlama%2C_bolum_1"
+    },
+    {
+      "season": 15,
+      "episode": 87,
+      "title": "Stress Relief (2)",
+      "diziid": "ofis",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/87/streste_rahatlama%2C_bolum_2"
+    },
+    {
+      "season": 16,
+      "episode": 88,
+      "title": "Lecture Circuit (1)",
+      "diziid": "ofis",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/88/konferans_serisi%2C_bolum_1"
+    },
+    {
+      "season": 17,
+      "episode": 89,
+      "title": "Lecture Circuit (2)",
+      "diziid": "ofis",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/89/konferans_serisi%2C_bolum_2"
+    },
+    {
+      "season": 18,
+      "episode": 90,
+      "title": "Blood Drive",
+      "diziid": "ofis",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/90/kan_bagisi"
+    },
+    {
+      "season": 19,
+      "episode": 91,
+      "title": "Golden Ticket",
+      "diziid": "ofis",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/91/altin_bilet"
+    },
+    {
+      "season": 20,
+      "episode": 92,
+      "title": "New Boss",
+      "diziid": "ofis",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/92/yeni_patron"
+    },
+    {
+      "season": 21,
+      "episode": 93,
+      "title": "Two Weeks",
+      "diziid": "ofis",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/93/iki_hafta"
+    },
+    {
+      "season": 22,
+      "episode": 94,
+      "title": "Dream Team",
+      "diziid": "ofis",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/94/ruya_takimi"
+    },
+    {
+      "season": 23,
+      "episode": 95,
+      "title": "Michael Scott Paper Company",
+      "diziid": "ofis",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/95/michael_scott_kagit_sirketi"
+    },
+    {
+      "season": 24,
+      "episode": 96,
+      "title": "Heavy Competition",
+      "diziid": "ofis",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/96/agir_rekabet"
+    },
+    {
+      "season": 25,
+      "episode": 97,
+      "title": "Broke",
+      "diziid": "ofis",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/97/mali_sikinti"
+    },
+    {
+      "season": 26,
+      "episode": 98,
+      "title": "Casual Friday",
+      "diziid": "ofis",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/98/siradan_bir_cuma"
+    },
+    {
+      "season": 27,
+      "episode": 99,
+      "title": "Cafe Disco",
+      "diziid": "ofis",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/99/kafe_disko"
+    },
+    {
+      "season": 28,
+      "episode": 100,
+      "title": "Company Picnic",
+      "diziid": "ofis",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/100/sirket_panigi"
+    },
+    {
+      "season": 1,
+      "episode": 101,
+      "title": "Gossip",
+      "diziid": "ofis",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/101/dedikodu"
+    },
+    {
+      "season": 2,
+      "episode": 102,
+      "title": "The Meeting",
+      "diziid": "ofis",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/102/toplanti"
+    },
+    {
+      "season": 3,
+      "episode": 103,
+      "title": "The Promotion",
+      "diziid": "ofis",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/103/terfi"
+    },
+    {
+      "season": 4,
+      "episode": 104,
+      "title": "Niagara: Part 1",
+      "diziid": "ofis",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/104/niagara%2C_bolum_1"
+    },
+    {
+      "season": 5,
+      "episode": 105,
+      "title": "Niagara: Part 2",
+      "diziid": "ofis",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/105/niagara%2C_bolum_2"
+    },
+    {
+      "season": 6,
+      "episode": 106,
+      "title": "Mafia",
+      "diziid": "ofis",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/106/mafya"
+    },
+    {
+      "season": 7,
+      "episode": 107,
+      "title": "The Lover",
+      "diziid": "ofis",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/107/asik"
+    },
+    {
+      "season": 8,
+      "episode": 108,
+      "title": "Koi Pond",
+      "diziid": "ofis",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/108/koi_pond"
+    },
+    {
+      "season": 9,
+      "episode": 109,
+      "title": "Double Date",
+      "diziid": "ofis",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/109/cifte_randevu"
+    },
+    {
+      "season": 10,
+      "episode": 110,
+      "title": "Murder",
+      "diziid": "ofis",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/110/cinayet"
+    },
+    {
+      "season": 11,
+      "episode": 111,
+      "title": "Shareholder Meeting",
+      "diziid": "ofis",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/111/hissedarlar_toplantisi"
+    },
+    {
+      "season": 12,
+      "episode": 112,
+      "title": "Scott's Tots",
+      "diziid": "ofis",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/112/isin_dogrusu"
+    },
+    {
+      "season": 13,
+      "episode": 113,
+      "title": "Secret Santa",
+      "diziid": "ofis",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/113/gizli_noel_babasi"
+    },
+    {
+      "season": 14,
+      "episode": 114,
+      "title": "The Banker",
+      "diziid": "ofis",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/114/bankaci"
+    },
+    {
+      "season": 15,
+      "episode": 115,
+      "title": "Sabre",
+      "diziid": "ofis",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/115/sabre"
+    },
+    {
+      "season": 16,
+      "episode": 116,
+      "title": "The Manager and the Salesman",
+      "diziid": "ofis",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/116/yonetici_ve_satisci"
+    },
+    {
+      "season": 17,
+      "episode": 117,
+      "title": "The Delivery (1)",
+      "diziid": "ofis",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/117/dogum%2C_bolum_1"
+    },
+    {
+      "season": 18,
+      "episode": 118,
+      "title": "The Delivery (2)",
+      "diziid": "ofis",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/118/dogum%2C_bolum_2"
+    },
+    {
+      "season": 19,
+      "episode": 119,
+      "title": "St. Patrick's Day",
+      "diziid": "ofis",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/119/aziz_patrick_gunu"
+    },
+    {
+      "season": 20,
+      "episode": 120,
+      "title": "New Leads",
+      "diziid": "ofis",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/120/yeni_olusumlar"
+    },
+    {
+      "season": 21,
+      "episode": 121,
+      "title": "Happy Hour",
+      "diziid": "ofis",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/121/eglence_zamani"
+    },
+    {
+      "season": 22,
+      "episode": 122,
+      "title": "Secretary's Day",
+      "diziid": "ofis",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/122/sekreter_gunu"
+    },
+    {
+      "season": 23,
+      "episode": 123,
+      "title": "Body Language",
+      "diziid": "ofis",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/123/beden_dili"
+    },
+    {
+      "season": 24,
+      "episode": 124,
+      "title": "The Cover-Up",
+      "diziid": "ofis",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/124/ortbas"
+    },
+    {
+      "season": 25,
+      "episode": 125,
+      "title": "The Chump",
+      "diziid": "ofis",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/125/enayi"
+    },
+    {
+      "season": 26,
+      "episode": 126,
+      "title": "Whistleblower",
+      "diziid": "ofis",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/126/muhbir"
+    },
+    {
+      "season": 1,
+      "episode": 127,
+      "title": "Nepotism",
+      "diziid": "ofis",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/127/torpil"
+    },
+    {
+      "season": 2,
+      "episode": 128,
+      "title": "Counseling",
+      "diziid": "ofis",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/128/danismanlik"
+    },
+    {
+      "season": 3,
+      "episode": 129,
+      "title": "Andy's Play",
+      "diziid": "ofis",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/129/andynin_oyunu"
+    },
+    {
+      "season": 4,
+      "episode": 130,
+      "title": "Sex Ed",
+      "diziid": "ofis",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/130/sapiklar"
+    },
+    {
+      "season": 5,
+      "episode": 131,
+      "title": "The Sting",
+      "diziid": "ofis",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/131/kazik"
+    },
+    {
+      "season": 6,
+      "episode": 132,
+      "title": "Costume Contest",
+      "diziid": "ofis",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/132/kiyafet_yarismasi"
+    },
+    {
+      "season": 7,
+      "episode": 133,
+      "title": "Christening",
+      "diziid": "ofis",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/133/vaftiz"
+    },
+    {
+      "season": 8,
+      "episode": 134,
+      "title": "Viewing Party",
+      "diziid": "ofis",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/134/keyif_partisi"
+    },
+    {
+      "season": 9,
+      "episode": 135,
+      "title": "WUPHF.com",
+      "diziid": "ofis",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/135/wuphf.com"
+    },
+    {
+      "season": 10,
+      "episode": 136,
+      "title": "China",
+      "diziid": "ofis",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/136/cin"
+    },
+    {
+      "season": 11,
+      "episode": 137,
+      "title": "Classy Christmas, Part 1",
+      "diziid": "ofis",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/137/klas_noel%2C_bolum_1"
+    },
+    {
+      "season": 12,
+      "episode": 138,
+      "title": "Classy Christmas, Part 2",
+      "diziid": "ofis",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/138/klas_noel%2C_bolum_2"
+    },
+    {
+      "season": 13,
+      "episode": 139,
+      "title": "Ultimatum",
+      "diziid": "ofis",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/139/ultimatom"
+    },
+    {
+      "season": 14,
+      "episode": 140,
+      "title": "The Seminar",
+      "diziid": "ofis",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/140/seminer"
+    },
+    {
+      "season": 15,
+      "episode": 141,
+      "title": "The Search",
+      "diziid": "ofis",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/141/arayis"
+    },
+    {
+      "season": 16,
+      "episode": 142,
+      "title": "PDA",
+      "diziid": "ofis",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/142/pda"
+    },
+    {
+      "season": 17,
+      "episode": 143,
+      "title": "Threat Level Midnight",
+      "diziid": "ofis",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/143/ilk_sinema_filmi"
+    },
+    {
+      "season": 18,
+      "episode": 144,
+      "title": "Todd Packer",
+      "diziid": "ofis",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/144/todd_packer"
+    },
+    {
+      "season": 19,
+      "episode": 145,
+      "title": "Garage Sale",
+      "diziid": "ofis",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/145/garajdan_satis"
+    },
+    {
+      "season": 20,
+      "episode": 146,
+      "title": "Training Day",
+      "diziid": "ofis",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/146/egitim_gunu"
+    },
+    {
+      "season": 21,
+      "episode": 147,
+      "title": "Michael's Last Dundies",
+      "diziid": "ofis",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/147/michealin_son_dundieleri"
+    },
+    {
+      "season": 22,
+      "episode": 148,
+      "title": "Goodbye, Michael (1)",
+      "diziid": "ofis",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/148/elveda_michael%2C_bolum_1"
+    },
+    {
+      "season": 23,
+      "episode": 149,
+      "title": "Goodbye, Michael Part 2",
+      "diziid": "ofis",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/149/elveda_michael%2C_bolum_2"
+    },
+    {
+      "season": 24,
+      "episode": 150,
+      "title": "The Inner Circle",
+      "diziid": "ofis",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/150/yakin_cevre"
+    },
+    {
+      "season": 25,
+      "episode": 151,
+      "title": "Dwight K. Schrute, (Acting) Manager",
+      "diziid": "ofis",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/151/dwight_k._schrute%2C_mudur_vekili"
+    },
+    {
+      "season": 26,
+      "episode": 152,
+      "title": "Search Committee (1)",
+      "diziid": "ofis",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/152/arama_komitesi%2C_bolum_1"
+    },
+    {
+      "season": 27,
+      "episode": 153,
+      "title": "Search Committee (2)",
+      "diziid": "ofis",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/153/arama_komitesi%2C_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 154,
+      "title": "The List",
+      "diziid": "ofis",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/154/liste"
+    },
+    {
+      "season": 2,
+      "episode": 155,
+      "title": "The Incentive",
+      "diziid": "ofis",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/155/tevsik"
+    },
+    {
+      "season": 3,
+      "episode": 156,
+      "title": "Lotto",
+      "diziid": "ofis",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/156/piyango"
+    },
+    {
+      "season": 4,
+      "episode": 157,
+      "title": "Garden Party",
+      "diziid": "ofis",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/157/gardenparti"
+    },
+    {
+      "season": 5,
+      "episode": 158,
+      "title": "Spooked",
+      "diziid": "ofis",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/158/urkutucu"
+    },
+    {
+      "season": 6,
+      "episode": 159,
+      "title": "Doomsday",
+      "diziid": "ofis",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/159/kiyamet_gunu"
+    },
+    {
+      "season": 7,
+      "episode": 160,
+      "title": "Pam's Replacement",
+      "diziid": "ofis",
+      "bolum": "160",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/160/pame_vekalet"
+    },
+    {
+      "season": 8,
+      "episode": 161,
+      "title": "Gettysburg",
+      "diziid": "ofis",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/161/gettysburg"
+    },
+    {
+      "season": 9,
+      "episode": 162,
+      "title": "Mrs. California",
+      "diziid": "ofis",
+      "bolum": "162",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/162/bayan_kaliforniya"
+    },
+    {
+      "season": 10,
+      "episode": 163,
+      "title": "Christmas Wishes",
+      "diziid": "ofis",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/163/noel_dilekleri"
+    },
+    {
+      "season": 11,
+      "episode": 164,
+      "title": "Trivia",
+      "diziid": "ofis",
+      "bolum": "164",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/164/ivir_zivir"
+    },
+    {
+      "season": 12,
+      "episode": 165,
+      "title": "Pool Party",
+      "diziid": "ofis",
+      "bolum": "165",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/165/havuz_partisi"
+    },
+    {
+      "season": 13,
+      "episode": 166,
+      "title": "Jury Duty",
+      "diziid": "ofis",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/166/juri_gorevi"
+    },
+    {
+      "season": 14,
+      "episode": 167,
+      "title": "Special Project",
+      "diziid": "ofis",
+      "bolum": "167",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/167/ozel_proje"
+    },
+    {
+      "season": 15,
+      "episode": 168,
+      "title": "Tallahassee",
+      "diziid": "ofis",
+      "bolum": "168",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/168/tallahassee"
+    },
+    {
+      "season": 16,
+      "episode": 169,
+      "title": "After Hours",
+      "diziid": "ofis",
+      "bolum": "169",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/169/mesai_sonrasi"
+    },
+    {
+      "season": 17,
+      "episode": 170,
+      "title": "Test the Store",
+      "diziid": "ofis",
+      "bolum": "170",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/170/dukkan_denemesi"
+    },
+    {
+      "season": 18,
+      "episode": 171,
+      "title": "Last Day in Florida",
+      "diziid": "ofis",
+      "bolum": "171",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/171/floridada_son_gun"
+    },
+    {
+      "season": 19,
+      "episode": 172,
+      "title": "Get the Girl",
+      "diziid": "ofis",
+      "bolum": "172",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/172/kizi_kap"
+    },
+    {
+      "season": 20,
+      "episode": 173,
+      "title": "Welcome Party",
+      "diziid": "ofis",
+      "bolum": "173",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/173/hos_geldin_partisi"
+    },
+    {
+      "season": 21,
+      "episode": 174,
+      "title": "Angry Andy",
+      "diziid": "ofis",
+      "bolum": "174",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/174/kizgin_andy"
+    },
+    {
+      "season": 22,
+      "episode": 175,
+      "title": "Fundraiser",
+      "diziid": "ofis",
+      "bolum": "175",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/175/bagis_toplama"
+    },
+    {
+      "season": 23,
+      "episode": 176,
+      "title": "Turf War",
+      "diziid": "ofis",
+      "bolum": "176",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/176/bolge_isgali"
+    },
+    {
+      "season": 24,
+      "episode": 177,
+      "title": "Free Family Portrait Studio",
+      "diziid": "ofis",
+      "bolum": "177",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/177/bedava_aile_fotosu"
+    },
+    {
+      "season": 1,
+      "episode": 178,
+      "title": "New Guys",
+      "diziid": "ofis",
+      "bolum": "178",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/178/yeni_tipler"
+    },
+    {
+      "season": 2,
+      "episode": 179,
+      "title": "Roy's Wedding",
+      "diziid": "ofis",
+      "bolum": "179",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/179/royun_dugunu"
+    },
+    {
+      "season": 3,
+      "episode": 180,
+      "title": "Andy's Ancestry",
+      "diziid": "ofis",
+      "bolum": "180",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/180/andynin_ecdadi"
+    },
+    {
+      "season": 4,
+      "episode": 181,
+      "title": "Work Bus",
+      "diziid": "ofis",
+      "bolum": "181",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/181/is_otobusu"
+    },
+    {
+      "season": 5,
+      "episode": 182,
+      "title": "Here Comes Treble",
+      "diziid": "ofis",
+      "bolum": "182",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/182/kapella"
+    },
+    {
+      "season": 6,
+      "episode": 183,
+      "title": "The Boat",
+      "diziid": "ofis",
+      "bolum": "183",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/183/tekne"
+    },
+    {
+      "season": 7,
+      "episode": 184,
+      "title": "The Whale",
+      "diziid": "ofis",
+      "bolum": "184",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/184/balina"
+    },
+    {
+      "season": 8,
+      "episode": 185,
+      "title": "The Target",
+      "diziid": "ofis",
+      "bolum": "185",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/185/hedef"
+    },
+    {
+      "season": 9,
+      "episode": 186,
+      "title": "Dwight Christmas",
+      "diziid": "ofis",
+      "bolum": "186",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/186/dwightin_noeli"
+    },
+    {
+      "season": 10,
+      "episode": 187,
+      "title": "Lice",
+      "diziid": "ofis",
+      "bolum": "187",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/187/bit"
+    },
+    {
+      "season": 11,
+      "episode": 188,
+      "title": "Suit Warehouse",
+      "diziid": "ofis",
+      "bolum": "188",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/188/rol"
+    },
+    {
+      "season": 12,
+      "episode": 189,
+      "title": "Customer Loyalty",
+      "diziid": "ofis",
+      "bolum": "189",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/189/musteri_sadakati"
+    },
+    {
+      "season": 13,
+      "episode": 190,
+      "title": "Junior Salesman",
+      "diziid": "ofis",
+      "bolum": "190",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/190/genc_satici"
+    },
+    {
+      "season": 14,
+      "episode": 191,
+      "title": "Vandalism",
+      "diziid": "ofis",
+      "bolum": "191",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/191/vandallik"
+    },
+    {
+      "season": 15,
+      "episode": 192,
+      "title": "Couples Discount",
+      "diziid": "ofis",
+      "bolum": "192",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/192/indirim"
+    },
+    {
+      "season": 16,
+      "episode": 193,
+      "title": "Moving On",
+      "diziid": "ofis",
+      "bolum": "193",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/193/yola_devam%2C_bolum_1"
+    },
+    {
+      "season": 17,
+      "episode": 194,
+      "title": "Moving On",
+      "diziid": "ofis",
+      "bolum": "194",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/194/yola_devam%2C_bolum_2"
+    },
+    {
+      "season": 18,
+      "episode": 195,
+      "title": "The Farm",
+      "diziid": "ofis",
+      "bolum": "195",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/195/ciftlik"
+    },
+    {
+      "season": 19,
+      "episode": 196,
+      "title": "Promos",
+      "diziid": "ofis",
+      "bolum": "196",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/196/reklam"
+    },
+    {
+      "season": 20,
+      "episode": 197,
+      "title": "Stairmageddon",
+      "diziid": "ofis",
+      "bolum": "197",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/197/asansor"
+    },
+    {
+      "season": 21,
+      "episode": 198,
+      "title": "Paper Airplane",
+      "diziid": "ofis",
+      "bolum": "198",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/198/kagittan_ucak"
+    },
+    {
+      "season": 22,
+      "episode": 199,
+      "title": "Livin' the Dream",
+      "diziid": "ofis",
+      "bolum": "199",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/199/ruyalarini_yasa%2C_bolum_1"
+    },
+    {
+      "season": 23,
+      "episode": 200,
+      "title": "Livin' the Dream",
+      "diziid": "ofis",
+      "bolum": "200",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/200/ruyalarini_yasa%2C_bolum_2"
+    },
+    {
+      "season": 24,
+      "episode": 201,
+      "title": "A.A.R.M., Part 1",
+      "diziid": "ofis",
+      "bolum": "201",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/201/b.y.y.y.%2C_bolum_1"
+    },
+    {
+      "season": 25,
+      "episode": 202,
+      "title": "A.A.R.M., Part 2",
+      "diziid": "ofis",
+      "bolum": "202",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/202/b.y.y.y.%2C_bolum_2"
+    },
+    {
+      "season": 26,
+      "episode": 203,
+      "title": "Finale, Part 1",
+      "diziid": "ofis",
+      "bolum": "203",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/203/final%2C_bolum_1"
+    },
+    {
+      "season": 27,
+      "episode": 204,
+      "title": "Finale, Part 2",
+      "diziid": "ofis",
+      "bolum": "204",
+      "url": "https://cizgivedizi.com/dizi/ofis/ofis/204/final%2C_bolum_2"
+    }
+  ]
+}

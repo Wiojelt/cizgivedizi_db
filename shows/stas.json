@@ -1,0 +1,189 @@
+{
+  "id": "stas",
+  "title": "uzay yolu: animasyon seri",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/STASPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Bilim Kurgu",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Beyond the Farthest Star",
+      "diziid": "stas",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/1/antik_gemi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Yesteryear",
+      "diziid": "stas",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/2/gecen_yil"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "One of Our Planets Is Missing",
+      "diziid": "stas",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/3/dev_bulut"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Lorelei Signal",
+      "diziid": "stas",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/4/kaybolan_gemiler"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "More Tribbles, More Troubles",
+      "diziid": "stas",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/5/tehlike_ve_kurtulus"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Survivor",
+      "diziid": "stas",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/6/geride_kalan"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Infinite Vulcan",
+      "diziid": "stas",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/7/garip_gezegen"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Magicks of Megas-Tu",
+      "diziid": "stas",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/8/enerji_girdabi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Once Upon a Planet",
+      "diziid": "stas",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/9/lunapark_gezegeni"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Mudd's Passion",
+      "diziid": "stas",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/10/satilik_sahte_kristaller"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Terratin Incident",
+      "diziid": "stas",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/11/asirlar_oncesinden"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Time Trap",
+      "diziid": "stas",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/12/zaman_ustu_boyut"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Ambergris Element",
+      "diziid": "stas",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/13/denizin_altindakiler"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Slaver Weapon",
+      "diziid": "stas",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/14/silah_arayisi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Eye of the Beholder",
+      "diziid": "stas",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/15/terk_edilmis_bir_gemi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Jihad",
+      "diziid": "stas",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/16/dini_eser"
+    },
+    {
+      "season": 1,
+      "episode": 17,
+      "title": "The Pirates of Orion",
+      "diziid": "stas",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/17/olumcul_hastalik"
+    },
+    {
+      "season": 2,
+      "episode": 18,
+      "title": "Bem",
+      "diziid": "stas",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/18/bem"
+    },
+    {
+      "season": 3,
+      "episode": 19,
+      "title": "The Practical Joker",
+      "diziid": "stas",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/19/sakaci"
+    },
+    {
+      "season": 4,
+      "episode": 20,
+      "title": "Albatross",
+      "diziid": "stas",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/20/albatros"
+    },
+    {
+      "season": 5,
+      "episode": 21,
+      "title": "How Sharper Than a Serpent's Tooth",
+      "diziid": "stas",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/21/antik_kent"
+    },
+    {
+      "season": 6,
+      "episode": 22,
+      "title": "The Counter-Clock Incident",
+      "diziid": "stas",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/stas/uzay_yolu%3A_animasyon_seri/22/negatif_evren"
+    }
+  ]
+}

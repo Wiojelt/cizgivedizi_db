@@ -1,0 +1,493 @@
+{
+  "id": "gx",
+  "title": "generator rex",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/GXPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Day That Everything Changed",
+      "diziid": "gx",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/1/her_seyin_degistigi_gun"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "String Theory",
+      "diziid": "gx",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/2/zincir_teorisi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Beyond the Sea",
+      "diziid": "gx",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/3/denizin_otesi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Lockdown",
+      "diziid": "gx",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/4/kilit_altinda"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Architect",
+      "diziid": "gx",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/5/mimar"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Frostbite",
+      "diziid": "gx",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/6/soguk_isirik"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Leader of the Pack",
+      "diziid": "gx",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/7/birligin_lideri"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Breach",
+      "diziid": "gx",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/8/degisken"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Dark Passage",
+      "diziid": "gx",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/9/karanlik_gecit"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Forgotten",
+      "diziid": "gx",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/10/unutulan"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Operation: Wingman",
+      "diziid": "gx",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/11/operasyon%3A_wingman"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Rabble",
+      "diziid": "gx",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/12/ayak_takimi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Hunter",
+      "diziid": "gx",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/13/avci"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Gravity",
+      "diziid": "gx",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/14/yer_cekimi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "What Lies Beneath",
+      "diziid": "gx",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/15/yalanin_ardindaki"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Swarm",
+      "diziid": "gx",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/16/suru"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Basic",
+      "diziid": "gx",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/17/temel_egitim"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Plague",
+      "diziid": "gx",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/18/salgin"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Promises, Promises",
+      "diziid": "gx",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/19/sozler%2C_vaatler"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Badlands",
+      "diziid": "gx",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/20/kotu_topraklar"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Payback",
+      "diziid": "gx",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/21/geri_odeme"
+    },
+    {
+      "season": 1,
+      "episode": 22,
+      "title": "Rampage",
+      "diziid": "gx",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/22/kargasa"
+    },
+    {
+      "season": 2,
+      "episode": 23,
+      "title": "Waste Land",
+      "diziid": "gx",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/23/copluk"
+    },
+    {
+      "season": 3,
+      "episode": 24,
+      "title": "Lost Weekend",
+      "diziid": "gx",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/24/kayip_hafta_sonu"
+    },
+    {
+      "season": 4,
+      "episode": 25,
+      "title": "Alliance",
+      "diziid": "gx",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/25/ittifak"
+    },
+    {
+      "season": 5,
+      "episode": 26,
+      "title": "Robo Bobo",
+      "diziid": "gx",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/26/robo_bobo"
+    },
+    {
+      "season": 6,
+      "episode": 27,
+      "title": "Divide by Six",
+      "diziid": "gx",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/27/divide_alti"
+    },
+    {
+      "season": 7,
+      "episode": 28,
+      "title": "Mixed Signals",
+      "diziid": "gx",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/28/karisik_sinyaller"
+    },
+    {
+      "season": 8,
+      "episode": 29,
+      "title": "Outpost",
+      "diziid": "gx",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/29/karakol"
+    },
+    {
+      "season": 9,
+      "episode": 30,
+      "title": "Haunted",
+      "diziid": "gx",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/30/perili"
+    },
+    {
+      "season": 10,
+      "episode": 31,
+      "title": "Moonlighting",
+      "diziid": "gx",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/31/ek_is"
+    },
+    {
+      "season": 11,
+      "episode": 32,
+      "title": "Without a Paddle",
+      "diziid": "gx",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/32/raketsizlik"
+    },
+    {
+      "season": 12,
+      "episode": 33,
+      "title": "Written in Sand",
+      "diziid": "gx",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/33/kumda_yazili"
+    },
+    {
+      "season": 13,
+      "episode": 34,
+      "title": "Night Falls",
+      "diziid": "gx",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/34/ve_gece_coker"
+    },
+    {
+      "season": 14,
+      "episode": 35,
+      "title": "Hard Target",
+      "diziid": "gx",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/35/zor_hedef"
+    },
+    {
+      "season": 15,
+      "episode": 36,
+      "title": "A Family Holiday",
+      "diziid": "gx",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/36/ailece_tatil"
+    },
+    {
+      "season": 16,
+      "episode": 37,
+      "title": "Exposed",
+      "diziid": "gx",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/37/teshir_ol"
+    },
+    {
+      "season": 17,
+      "episode": 38,
+      "title": "Grounded",
+      "diziid": "gx",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/38/tas_kesilim"
+    },
+    {
+      "season": 18,
+      "episode": 39,
+      "title": "Six Minus Six",
+      "diziid": "gx",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/39/alti_eksi_alti"
+    },
+    {
+      "season": 19,
+      "episode": 40,
+      "title": "Lions and Lambs",
+      "diziid": "gx",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/40/aslanlar_ve_kuzular"
+    },
+    {
+      "season": 1,
+      "episode": 41,
+      "title": "Back in Black",
+      "diziid": "gx",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/41/siyah%26039%3Bta_geri_dondu"
+    },
+    {
+      "season": 2,
+      "episode": 42,
+      "title": "Crash and Burn",
+      "diziid": "gx",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/42/carpisma_ve_yanma"
+    },
+    {
+      "season": 3,
+      "episode": 43,
+      "title": "Heroes United (1)",
+      "diziid": "gx",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/43/ben_10_ve_generator_rex%3A_kahramanlar_birligi_1.bolum"
+    },
+    {
+      "season": 4,
+      "episode": 44,
+      "title": "Heroes United (2)",
+      "diziid": "gx",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/44/ben_10_ve_generator_rex%3A_kahramanlar_birligi_2.bolum"
+    },
+    {
+      "season": 5,
+      "episode": 45,
+      "title": "Phantom of the Soap Opera",
+      "diziid": "gx",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/45/pembe_dizideki_hayalet"
+    },
+    {
+      "season": 6,
+      "episode": 46,
+      "title": "Riddle of the Sphinx",
+      "diziid": "gx",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/46/sfenks%26039%3Bin_bilmecesi"
+    },
+    {
+      "season": 7,
+      "episode": 47,
+      "title": "Double Vision",
+      "diziid": "gx",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/47/cift_gorus"
+    },
+    {
+      "season": 8,
+      "episode": 48,
+      "title": "Guy vs. Guy",
+      "diziid": "gx",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/48/erkek_erkege"
+    },
+    {
+      "season": 9,
+      "episode": 49,
+      "title": "Black and White",
+      "diziid": "gx",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/49/akla_kara"
+    },
+    {
+      "season": 10,
+      "episode": 50,
+      "title": "Deadzone",
+      "diziid": "gx",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/50/olu_bolge"
+    },
+    {
+      "season": 11,
+      "episode": 51,
+      "title": "Assault on Abysus",
+      "diziid": "gx",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/51/abysus_saldirisi"
+    },
+    {
+      "season": 12,
+      "episode": 52,
+      "title": "Remote Control",
+      "diziid": "gx",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/52/uzaktan_kumanda"
+    },
+    {
+      "season": 13,
+      "episode": 53,
+      "title": "A Brief History of Time",
+      "diziid": "gx",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/53/zamanin_kisa_tarihcesi"
+    },
+    {
+      "season": 14,
+      "episode": 54,
+      "title": "Mind Games",
+      "diziid": "gx",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/54/akil_oyunlari"
+    },
+    {
+      "season": 15,
+      "episode": 55,
+      "title": "Hermanos",
+      "diziid": "gx",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/55/hermanos"
+    },
+    {
+      "season": 16,
+      "episode": 56,
+      "title": "Target: Consortium",
+      "diziid": "gx",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/56/hedef%3A_kurul"
+    },
+    {
+      "season": 17,
+      "episode": 57,
+      "title": "Enemies Mine",
+      "diziid": "gx",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/57/dusmanlarim"
+    },
+    {
+      "season": 18,
+      "episode": 58,
+      "title": "Rock My World",
+      "diziid": "gx",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/58/dunyami_salla"
+    },
+    {
+      "season": 19,
+      "episode": 59,
+      "title": "Endgame Part 1",
+      "diziid": "gx",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/59/oyunun_sonu_1.bolum"
+    },
+    {
+      "season": 20,
+      "episode": 60,
+      "title": "End Game: Part 2",
+      "diziid": "gx",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/gx/generator_rex/60/oyunun_sonu_2.bolum"
+    }
+  ]
+}

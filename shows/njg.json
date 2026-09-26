@@ -1,0 +1,1709 @@
+{
+  "id": "njg",
+  "title": "ninjago",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/NJGPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Aksiyon",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Rise of the Snakes",
+      "diziid": "njg",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/1/yilanlarin_yukselisi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Home",
+      "diziid": "njg",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/2/ev"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Snakebit",
+      "diziid": "njg",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/3/yilan_sokmasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Never Trust a Snake",
+      "diziid": "njg",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/4/asla_bir_yilana_guvenme"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Can of Worms",
+      "diziid": "njg",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/5/daha_fazla_sorun"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Snake King",
+      "diziid": "njg",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/6/yilan_kral"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Tick Tock",
+      "diziid": "njg",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/7/tik_tak"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Once Bitten, Twice Shy",
+      "diziid": "njg",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/8/tek_isirik%2C_cift_kat_utangac"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Royal Blacksmiths",
+      "diziid": "njg",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/9/kraliyet_demircileri"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Green Ninja",
+      "diziid": "njg",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/10/yesil_ninja"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "All of Nothing",
+      "diziid": "njg",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/11/yoklarin_tamami"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Rise of the Great Devourer",
+      "diziid": "njg",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/12/buyuk_yokedicinin_uyanisi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Day of the Great Devourer",
+      "diziid": "njg",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/13/buyuk_yokedicinin_gunu"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Darkness Shall Rise",
+      "diziid": "njg",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/14/karanlik_yukseliyor"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Pirates vs. Ninja",
+      "diziid": "njg",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/15/korsanlar_ninjalara_karsi"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Double Trouble",
+      "diziid": "njg",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/16/cifte_tehlike"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Ninjaball Run",
+      "diziid": "njg",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/17/ninja_topu_kosusu"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Child's Play",
+      "diziid": "njg",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/18/cocuk_oyuncagi"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Wrong Place, Wrong Time",
+      "diziid": "njg",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/19/yanlis_yerde%2C_yanlis_zamanda"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "The Stone Army",
+      "diziid": "njg",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/20/tas_ordu"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "The Day Ninjago Stood Still",
+      "diziid": "njg",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/21/ninjagonun_durdugu_gun"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "The Last Voyage",
+      "diziid": "njg",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/22/son_yolculuk"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Island of Darkness",
+      "diziid": "njg",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/23/karanliklar_adasi"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "The Last Hope",
+      "diziid": "njg",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/24/son_umut"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Return of the Overlord",
+      "diziid": "njg",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/25/derebeyinin_donusu"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "Rise of the Spinjitzu Master",
+      "diziid": "njg",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/26/spinjitzu_ustasinin_yukselisi"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "The Surge",
+      "diziid": "njg",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/27/tasma"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "The Art of the Silent Fist",
+      "diziid": "njg",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/28/sessiz_yumruk_sanati"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Blackout",
+      "diziid": "njg",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/29/kesinti"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "The Curse of the Golden Master",
+      "diziid": "njg",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/30/altin_ustanin_laneti"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Digiverse",
+      "diziid": "njg",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/31/dijievrene_giris"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Codename: Arcturus",
+      "diziid": "njg",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/32/kod_adi%3A_arcturus"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "The Void",
+      "diziid": "njg",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/33/bosluk"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "The Titanium Ninja",
+      "diziid": "njg",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/34/titanyum_ninja"
+    },
+    {
+      "season": 1,
+      "episode": 35,
+      "title": "The Invitation",
+      "diziid": "njg",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/35/davet"
+    },
+    {
+      "season": 2,
+      "episode": 36,
+      "title": "Only One Can Remain",
+      "diziid": "njg",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/36/yalnizca_biri_hayatta_kalabilir"
+    },
+    {
+      "season": 3,
+      "episode": 37,
+      "title": "Versus",
+      "diziid": "njg",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/37/karsi"
+    },
+    {
+      "season": 4,
+      "episode": 38,
+      "title": "Ninja Roll",
+      "diziid": "njg",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/38/patenli_ninjalar"
+    },
+    {
+      "season": 5,
+      "episode": 39,
+      "title": "Spy for a Spy",
+      "diziid": "njg",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/39/kostebek_araniyor"
+    },
+    {
+      "season": 6,
+      "episode": 40,
+      "title": "Spellbound",
+      "diziid": "njg",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/40/sihir_yapma"
+    },
+    {
+      "season": 7,
+      "episode": 41,
+      "title": "The Forgotten Element",
+      "diziid": "njg",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/41/unutulan_element"
+    },
+    {
+      "season": 8,
+      "episode": 42,
+      "title": "The Day of the Dragon",
+      "diziid": "njg",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/42/ejderhanin_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 43,
+      "title": "The Greatest Fear of All",
+      "diziid": "njg",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/43/en_buyuk_korku"
+    },
+    {
+      "season": 10,
+      "episode": 44,
+      "title": "The Corridor of Elders",
+      "diziid": "njg",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/44/buyukler_koridoru"
+    },
+    {
+      "season": 1,
+      "episode": 45,
+      "title": "Winds of Change",
+      "diziid": "njg",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/45/degisim_ruzgarlari"
+    },
+    {
+      "season": 2,
+      "episode": 46,
+      "title": "Ghost Story",
+      "diziid": "njg",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/46/hayalet_hikayesi"
+    },
+    {
+      "season": 3,
+      "episode": 47,
+      "title": "Stiix and Stones",
+      "diziid": "njg",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/47/sopalar_ve_taslar"
+    },
+    {
+      "season": 4,
+      "episode": 48,
+      "title": "The Temple on Haunted Hill",
+      "diziid": "njg",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/48/hayaletli_tepedeki_tapinak"
+    },
+    {
+      "season": 5,
+      "episode": 49,
+      "title": "Peak-a-Boo",
+      "diziid": "njg",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/49/peek-a-boo"
+    },
+    {
+      "season": 6,
+      "episode": 50,
+      "title": "Kingdom Come",
+      "diziid": "njg",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/50/oteki_dunya"
+    },
+    {
+      "season": 7,
+      "episode": 51,
+      "title": "The Crooked Path",
+      "diziid": "njg",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/51/carpik_yol"
+    },
+    {
+      "season": 8,
+      "episode": 52,
+      "title": "Grave Danger",
+      "diziid": "njg",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/52/buyuk_tehlike"
+    },
+    {
+      "season": 9,
+      "episode": 53,
+      "title": "Curse World: Part 1",
+      "diziid": "njg",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/53/kotulukler_diyari%2C_i._kisim"
+    },
+    {
+      "season": 10,
+      "episode": 54,
+      "title": "Curse World: Part 2",
+      "diziid": "njg",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/54/kotulukler_diyari%2C_ii._kisim"
+    },
+    {
+      "season": 1,
+      "episode": 55,
+      "title": "Infamous",
+      "diziid": "njg",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/55/kotu_sohret"
+    },
+    {
+      "season": 2,
+      "episode": 56,
+      "title": "Public Enemy Number One",
+      "diziid": "njg",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/56/en_buyuk_halk_dusmani"
+    },
+    {
+      "season": 3,
+      "episode": 57,
+      "title": "Enkrypted",
+      "diziid": "njg",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/57/cozulmeyen_sifre"
+    },
+    {
+      "season": 4,
+      "episode": 58,
+      "title": "Misfortune Rising",
+      "diziid": "njg",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/58/bitmeyen_talihsizlik"
+    },
+    {
+      "season": 5,
+      "episode": 59,
+      "title": "On a Wish and a Prayer",
+      "diziid": "njg",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/59/bir_dilek_bir_dua"
+    },
+    {
+      "season": 6,
+      "episode": 60,
+      "title": "My Dinner with Nadakhan",
+      "diziid": "njg",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/60/nadakhanla_yemek"
+    },
+    {
+      "season": 7,
+      "episode": 61,
+      "title": "Wishmasters",
+      "diziid": "njg",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/61/buyuk_dilek"
+    },
+    {
+      "season": 8,
+      "episode": 62,
+      "title": "The Last Resort",
+      "diziid": "njg",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/62/son_care"
+    },
+    {
+      "season": 9,
+      "episode": 63,
+      "title": "Operation Land Ho!",
+      "diziid": "njg",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/63/buyuk_operasyon"
+    },
+    {
+      "season": 10,
+      "episode": 64,
+      "title": "The Way Back",
+      "diziid": "njg",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/64/donus_yolu"
+    },
+    {
+      "season": 1,
+      "episode": 65,
+      "title": "The Hands of Time",
+      "diziid": "njg",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/65/zamanin_elleri"
+    },
+    {
+      "season": 2,
+      "episode": 66,
+      "title": "The Hatching",
+      "diziid": "njg",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/66/yilanlar"
+    },
+    {
+      "season": 3,
+      "episode": 67,
+      "title": "A Time of Traitors",
+      "diziid": "njg",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/67/hainlerin_zamani"
+    },
+    {
+      "season": 4,
+      "episode": 68,
+      "title": "Scavengers",
+      "diziid": "njg",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/68/hurdacilar"
+    },
+    {
+      "season": 5,
+      "episode": 69,
+      "title": "A Line in the Sand",
+      "diziid": "njg",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/69/kumda_bir_cizgi"
+    },
+    {
+      "season": 6,
+      "episode": 70,
+      "title": "The Attack",
+      "diziid": "njg",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/70/saldiri"
+    },
+    {
+      "season": 7,
+      "episode": 71,
+      "title": "Secrets Discovered",
+      "diziid": "njg",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/71/aciga_cikan_sirlar"
+    },
+    {
+      "season": 8,
+      "episode": 72,
+      "title": "Pause and Effect",
+      "diziid": "njg",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/72/duraksama_etkisi"
+    },
+    {
+      "season": 9,
+      "episode": 73,
+      "title": "Out of the Fire and Into the Boiling Sea",
+      "diziid": "njg",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/73/atesin_ortasindan_kaynayan_denize"
+    },
+    {
+      "season": 10,
+      "episode": 74,
+      "title": "Lost in Time",
+      "diziid": "njg",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/74/zamanda_kaybolanlar"
+    },
+    {
+      "season": 1,
+      "episode": 75,
+      "title": "The Mask of Deception",
+      "diziid": "njg",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/75/duzenbazlik_maskesi"
+    },
+    {
+      "season": 2,
+      "episode": 76,
+      "title": "The Jade Princess",
+      "diziid": "njg",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/76/yesim_prensesi"
+    },
+    {
+      "season": 3,
+      "episode": 77,
+      "title": "The Oni and the Dragon",
+      "diziid": "njg",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/77/oni_ve_ejderha"
+    },
+    {
+      "season": 4,
+      "episode": 78,
+      "title": "Snake Jaguar",
+      "diziid": "njg",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/78/yilan_jaguar"
+    },
+    {
+      "season": 5,
+      "episode": 79,
+      "title": "Dead Man's Squall",
+      "diziid": "njg",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/79/gizemli_adamin_firtinasi"
+    },
+    {
+      "season": 6,
+      "episode": 80,
+      "title": "The Quiet One",
+      "diziid": "njg",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/80/sessiz_olan"
+    },
+    {
+      "season": 7,
+      "episode": 81,
+      "title": "Game of Masks",
+      "diziid": "njg",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/81/maskelerin_oyunu"
+    },
+    {
+      "season": 8,
+      "episode": 82,
+      "title": "Dread on Arrival",
+      "diziid": "njg",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/82/korkunc_dirilis"
+    },
+    {
+      "season": 9,
+      "episode": 83,
+      "title": "True Potential",
+      "diziid": "njg",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/83/gercek_potansiyel"
+    },
+    {
+      "season": 10,
+      "episode": 84,
+      "title": "Big Trouble, Little Ninjago",
+      "diziid": "njg",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/84/kucuk_ninjagoda_buyuk_bela"
+    },
+    {
+      "season": 1,
+      "episode": 85,
+      "title": "Firstbourne",
+      "diziid": "njg",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/85/ilk_dogan"
+    },
+    {
+      "season": 2,
+      "episode": 86,
+      "title": "Iron & Stone",
+      "diziid": "njg",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/86/demir_ve_kaya"
+    },
+    {
+      "season": 3,
+      "episode": 87,
+      "title": "Radio Free Ninjago",
+      "diziid": "njg",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/87/halka_seslenen_ninjago"
+    },
+    {
+      "season": 4,
+      "episode": 88,
+      "title": "How to Build a Dragon",
+      "diziid": "njg",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/88/bir_ejderha_insa_etmek"
+    },
+    {
+      "season": 5,
+      "episode": 89,
+      "title": "The Gilded Path",
+      "diziid": "njg",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/89/altin_yaldizli_yol"
+    },
+    {
+      "season": 6,
+      "episode": 90,
+      "title": "Two Lies, One Truth",
+      "diziid": "njg",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/90/iki_yalan%2C_bir_gercek"
+    },
+    {
+      "season": 7,
+      "episode": 91,
+      "title": "The Weakest Link",
+      "diziid": "njg",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/91/en_zayif_halka"
+    },
+    {
+      "season": 8,
+      "episode": 92,
+      "title": "Saving Faith",
+      "diziid": "njg",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/92/faithi_kurtarmak"
+    },
+    {
+      "season": 9,
+      "episode": 93,
+      "title": "Lessons for a Master",
+      "diziid": "njg",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/93/ustad_icin_ogretilen"
+    },
+    {
+      "season": 10,
+      "episode": 94,
+      "title": "Green Destiny",
+      "diziid": "njg",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/94/yesil_renkli_kader"
+    },
+    {
+      "season": 1,
+      "episode": 95,
+      "title": "The Darkness Comes",
+      "diziid": "njg",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/95/karanlik_coker"
+    },
+    {
+      "season": 2,
+      "episode": 96,
+      "title": "Into the Breach",
+      "diziid": "njg",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/96/gedige_yolculuk"
+    },
+    {
+      "season": 3,
+      "episode": 97,
+      "title": "The Fall",
+      "diziid": "njg",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/97/cokus"
+    },
+    {
+      "season": 4,
+      "episode": 98,
+      "title": "Endings",
+      "diziid": "njg",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/98/sonlar"
+    },
+    {
+      "season": 1,
+      "episode": 99,
+      "title": "Wasted True Potential",
+      "diziid": "njg",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/99/harcanan_potansiyel"
+    },
+    {
+      "season": 2,
+      "episode": 100,
+      "title": "Questing for Quests",
+      "diziid": "njg",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/100/arayis_aramak"
+    },
+    {
+      "season": 3,
+      "episode": 101,
+      "title": "A Rocky Start",
+      "diziid": "njg",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/101/sarsici_bir_baslangic"
+    },
+    {
+      "season": 4,
+      "episode": 102,
+      "title": "The Belly of the Beast",
+      "diziid": "njg",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/102/canavarin_gobegi"
+    },
+    {
+      "season": 5,
+      "episode": 103,
+      "title": "Boobytraps and How to Survive Them",
+      "diziid": "njg",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/103/bubi_tuzaklarini_nasil_atlatirsiniz"
+    },
+    {
+      "season": 6,
+      "episode": 104,
+      "title": "The News Never Sleeps!",
+      "diziid": "njg",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/104/haber_asla_uyumaz"
+    },
+    {
+      "season": 7,
+      "episode": 105,
+      "title": "Ninja vs Lava",
+      "diziid": "njg",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/105/ninja_lava_karsi"
+    },
+    {
+      "season": 8,
+      "episode": 106,
+      "title": "Snaketastrophy",
+      "diziid": "njg",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/106/yilanli_felaket"
+    },
+    {
+      "season": 9,
+      "episode": 107,
+      "title": "Powerless",
+      "diziid": "njg",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/107/gucsuz"
+    },
+    {
+      "season": 10,
+      "episode": 108,
+      "title": "Ancient History",
+      "diziid": "njg",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/108/eski_tarih"
+    },
+    {
+      "season": 11,
+      "episode": 109,
+      "title": "Never Trust a Human",
+      "diziid": "njg",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/109/asla_bir_insana_guvenme"
+    },
+    {
+      "season": 12,
+      "episode": 110,
+      "title": "Under Siege",
+      "diziid": "njg",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/110/kusatma_altinda"
+    },
+    {
+      "season": 13,
+      "episode": 111,
+      "title": "The Explorers Club",
+      "diziid": "njg",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/111/kasifler_kulubu"
+    },
+    {
+      "season": 14,
+      "episode": 112,
+      "title": "Vengeance is Mine!",
+      "diziid": "njg",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/112/benim_intikamim%21"
+    },
+    {
+      "season": 15,
+      "episode": 113,
+      "title": "A Cold Goodbye",
+      "diziid": "njg",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/113/soguk_bir_veda"
+    },
+    {
+      "season": 16,
+      "episode": 114,
+      "title": "The Never-Realm",
+      "diziid": "njg",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/114/donulmez_ulke"
+    },
+    {
+      "season": 17,
+      "episode": 115,
+      "title": "Fire Maker",
+      "diziid": "njg",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/115/ates_yapan"
+    },
+    {
+      "season": 18,
+      "episode": 116,
+      "title": "An Unlikely Ally",
+      "diziid": "njg",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/116/umulmadik_bir_muttefik"
+    },
+    {
+      "season": 19,
+      "episode": 117,
+      "title": "The Absolute Worst",
+      "diziid": "njg",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/117/olabilecek_en_kotu_sey"
+    },
+    {
+      "season": 20,
+      "episode": 118,
+      "title": "The Message",
+      "diziid": "njg",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/118/mesaj"
+    },
+    {
+      "season": 21,
+      "episode": 119,
+      "title": "The Traveler's Tree",
+      "diziid": "njg",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/119/gezgin_agaci"
+    },
+    {
+      "season": 22,
+      "episode": 120,
+      "title": "Krag's Lament",
+      "diziid": "njg",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/120/kragin_matemi"
+    },
+    {
+      "season": 23,
+      "episode": 121,
+      "title": "Secret of the Wolf",
+      "diziid": "njg",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/121/kurdun_gizemi"
+    },
+    {
+      "season": 24,
+      "episode": 122,
+      "title": "The Last of the Formlings",
+      "diziid": "njg",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/122/donusenlerin_sonuncusu"
+    },
+    {
+      "season": 25,
+      "episode": 123,
+      "title": "My Enemy, My Friend",
+      "diziid": "njg",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/123/dusmanim%2C_dostum"
+    },
+    {
+      "season": 26,
+      "episode": 124,
+      "title": "The Kaiju Protocol",
+      "diziid": "njg",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/124/kaiju_protokolu"
+    },
+    {
+      "season": 27,
+      "episode": 125,
+      "title": "Corruption",
+      "diziid": "njg",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/125/suistimal"
+    },
+    {
+      "season": 28,
+      "episode": 126,
+      "title": "A Fragile Hope",
+      "diziid": "njg",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/126/zayif_bir_umut"
+    },
+    {
+      "season": 29,
+      "episode": 127,
+      "title": "Once and for All",
+      "diziid": "njg",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/127/tek_kalemde"
+    },
+    {
+      "season": 30,
+      "episode": 128,
+      "title": "Awakenings",
+      "diziid": "njg",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/128/uyanis"
+    },
+    {
+      "season": 1,
+      "episode": 129,
+      "title": "Would You Like to Enter Prime Empire?",
+      "diziid": "njg",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/129/prime_empirea_girmek_ister_misin"
+    },
+    {
+      "season": 2,
+      "episode": 130,
+      "title": "Dyer Island",
+      "diziid": "njg",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/130/dyer_adasi"
+    },
+    {
+      "season": 3,
+      "episode": 131,
+      "title": "Level Thirteen",
+      "diziid": "njg",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/131/13._seviye"
+    },
+    {
+      "season": 4,
+      "episode": 132,
+      "title": "Superstar Rockin' Jay",
+      "diziid": "njg",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/132/super_star_rockci_jay"
+    },
+    {
+      "season": 5,
+      "episode": 133,
+      "title": "I Am Okino",
+      "diziid": "njg",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/133/adim_okino"
+    },
+    {
+      "season": 6,
+      "episode": 134,
+      "title": "The Glitch",
+      "diziid": "njg",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/134/ariza"
+    },
+    {
+      "season": 7,
+      "episode": 135,
+      "title": "The Cliffs of Hysteria",
+      "diziid": "njg",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/135/histeri_ucurumu"
+    },
+    {
+      "season": 8,
+      "episode": 136,
+      "title": "The Maze of the Red Dragon",
+      "diziid": "njg",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/136/kizil_ejderhanin_labirenti"
+    },
+    {
+      "season": 9,
+      "episode": 137,
+      "title": "One Step Forward, Two Steps Back",
+      "diziid": "njg",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/137/bir_adim_ileri%2C_iki_adim_geri"
+    },
+    {
+      "season": 10,
+      "episode": 138,
+      "title": "Racer Seven",
+      "diziid": "njg",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/138/yedinci_yarisci"
+    },
+    {
+      "season": 11,
+      "episode": 139,
+      "title": "The Speedway Five-Billion",
+      "diziid": "njg",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/139/bes_milyarinci_otoban"
+    },
+    {
+      "season": 12,
+      "episode": 140,
+      "title": "Stop, Drop and Side Scroll",
+      "diziid": "njg",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/140/dur%2C_dus_ve_yana_kay"
+    },
+    {
+      "season": 13,
+      "episode": 141,
+      "title": "Ninjago Confidential",
+      "diziid": "njg",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/141/ninjago_ozel"
+    },
+    {
+      "season": 14,
+      "episode": 142,
+      "title": "The Prodigal Father",
+      "diziid": "njg",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/142/comert_baba"
+    },
+    {
+      "season": 15,
+      "episode": 143,
+      "title": "The Temple of Madness",
+      "diziid": "njg",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/143/cilginlik_tapinagi"
+    },
+    {
+      "season": 16,
+      "episode": 144,
+      "title": "Game Over",
+      "diziid": "njg",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/144/oyun_bitti"
+    },
+    {
+      "season": 1,
+      "episode": 145,
+      "title": "Shintaro",
+      "diziid": "njg",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/145/shintaro"
+    },
+    {
+      "season": 2,
+      "episode": 146,
+      "title": "Into the Dark",
+      "diziid": "njg",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/146/karanliga_dogru"
+    },
+    {
+      "season": 3,
+      "episode": 147,
+      "title": "The Worst Rescue Ever",
+      "diziid": "njg",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/147/en_kotu_kurtarma"
+    },
+    {
+      "season": 4,
+      "episode": 148,
+      "title": "The Two Blades",
+      "diziid": "njg",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/148/iki_kilic"
+    },
+    {
+      "season": 5,
+      "episode": 149,
+      "title": "Queen of the Munce",
+      "diziid": "njg",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/149/munce_kralicesi"
+    },
+    {
+      "season": 6,
+      "episode": 150,
+      "title": "Trial by Mino",
+      "diziid": "njg",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/150/mino_sinavi"
+    },
+    {
+      "season": 7,
+      "episode": 151,
+      "title": "The Skull Sorcerer",
+      "diziid": "njg",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/151/kafatasi_buyucusu"
+    },
+    {
+      "season": 8,
+      "episode": 152,
+      "title": "The Real Fall",
+      "diziid": "njg",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/152/gercek_dusus"
+    },
+    {
+      "season": 9,
+      "episode": 153,
+      "title": "Dungeon Party!",
+      "diziid": "njg",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/153/zindan_partisi%21"
+    },
+    {
+      "season": 10,
+      "episode": 154,
+      "title": "Dungeon Crawl!",
+      "diziid": "njg",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/154/zindan_surunusu%21"
+    },
+    {
+      "season": 11,
+      "episode": 155,
+      "title": "Grief-Bringer",
+      "diziid": "njg",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/155/keder_getiren"
+    },
+    {
+      "season": 12,
+      "episode": 156,
+      "title": "Masters Never Quit",
+      "diziid": "njg",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/156/ustalar_asla_pes_etmez"
+    },
+    {
+      "season": 13,
+      "episode": 157,
+      "title": "The Darkest Hour",
+      "diziid": "njg",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/157/karanlik_saat"
+    },
+    {
+      "season": 14,
+      "episode": 158,
+      "title": "The Ascent",
+      "diziid": "njg",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/158/yukselis"
+    },
+    {
+      "season": 15,
+      "episode": 159,
+      "title": "The Upply Strike Back!",
+      "diziid": "njg",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/159/upply_karsilik_verir%21"
+    },
+    {
+      "season": 16,
+      "episode": 160,
+      "title": "The Son of Lilly",
+      "diziid": "njg",
+      "bolum": "160",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/160/lillynin_oglu"
+    },
+    {
+      "season": 1,
+      "episode": 161,
+      "title": "Uncharted",
+      "diziid": "njg",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/161/bilinmeyen"
+    },
+    {
+      "season": 2,
+      "episode": 162,
+      "title": "The Keepers of the Amulet",
+      "diziid": "njg",
+      "bolum": "162",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/162/tilsimin_koruyuculari"
+    },
+    {
+      "season": 3,
+      "episode": 163,
+      "title": "The Gift of Jay",
+      "diziid": "njg",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/163/jay_hediyesi"
+    },
+    {
+      "season": 4,
+      "episode": 164,
+      "title": "The Tooth of Wojira",
+      "diziid": "njg",
+      "bolum": "164",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/164/wojiranin_disi"
+    },
+    {
+      "season": 1,
+      "episode": 165,
+      "title": "A Big Splash",
+      "diziid": "njg",
+      "bolum": "165",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/165/buyuk_sicrama"
+    },
+    {
+      "season": 2,
+      "episode": 166,
+      "title": "The Call of the Deep",
+      "diziid": "njg",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/166/derinden_gelen_cagri"
+    },
+    {
+      "season": 3,
+      "episode": 167,
+      "title": "Unsinkable",
+      "diziid": "njg",
+      "bolum": "167",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/167/batmaz"
+    },
+    {
+      "season": 4,
+      "episode": 168,
+      "title": "Five Thousand Fathoms Down",
+      "diziid": "njg",
+      "bolum": "168",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/168/5000_kulac_derinde"
+    },
+    {
+      "season": 5,
+      "episode": 169,
+      "title": "The Wrath of Kalmaar",
+      "diziid": "njg",
+      "bolum": "169",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/169/kalmaarin_gazabi"
+    },
+    {
+      "season": 6,
+      "episode": 170,
+      "title": "Long Live the King",
+      "diziid": "njg",
+      "bolum": "170",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/170/kralimiz_cok_yasa"
+    },
+    {
+      "season": 7,
+      "episode": 171,
+      "title": "Escape from Merlopia",
+      "diziid": "njg",
+      "bolum": "171",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/171/merlopiadan_kacis"
+    },
+    {
+      "season": 8,
+      "episode": 172,
+      "title": "The Tale of Benthomaar",
+      "diziid": "njg",
+      "bolum": "172",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/172/benthomaarin_hikayesi"
+    },
+    {
+      "season": 9,
+      "episode": 173,
+      "title": "The Storm Amulet",
+      "diziid": "njg",
+      "bolum": "173",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/173/kasirga_tilsimi"
+    },
+    {
+      "season": 10,
+      "episode": 174,
+      "title": "Riddle of the Sphinx",
+      "diziid": "njg",
+      "bolum": "174",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/174/sfenksin_bilmecesi"
+    },
+    {
+      "season": 11,
+      "episode": 175,
+      "title": "Papergirl",
+      "diziid": "njg",
+      "bolum": "175",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/175/gazete_dagitici"
+    },
+    {
+      "season": 12,
+      "episode": 176,
+      "title": "Master of the Sea",
+      "diziid": "njg",
+      "bolum": "176",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/176/denizin_ustasi"
+    },
+    {
+      "season": 13,
+      "episode": 177,
+      "title": "The Calm Before the Storm",
+      "diziid": "njg",
+      "bolum": "177",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/177/firtina_oncesi_sessizlik"
+    },
+    {
+      "season": 14,
+      "episode": 178,
+      "title": "Assault on Ninjago City",
+      "diziid": "njg",
+      "bolum": "178",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/178/ninjago_sehrine_saldiri"
+    },
+    {
+      "season": 15,
+      "episode": 179,
+      "title": "Nyad",
+      "diziid": "njg",
+      "bolum": "179",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/179/nyad"
+    },
+    {
+      "season": 16,
+      "episode": 180,
+      "title": "The Turn of the Tide",
+      "diziid": "njg",
+      "bolum": "180",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/180/gidisatin_degisimi"
+    },
+    {
+      "season": 1,
+      "episode": 181,
+      "title": "Farewell the Sea",
+      "diziid": "njg",
+      "bolum": "181",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/181/denize_veda"
+    },
+    {
+      "season": 2,
+      "episode": 182,
+      "title": "The Call of Home",
+      "diziid": "njg",
+      "bolum": "182",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/182/eve_cagri"
+    },
+    {
+      "season": 3,
+      "episode": 183,
+      "title": "The Shape of Nya",
+      "diziid": "njg",
+      "bolum": "183",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/183/nyanin_sekli"
+    },
+    {
+      "season": 4,
+      "episode": 184,
+      "title": "A Mayor Problem",
+      "diziid": "njg",
+      "bolum": "184",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/184/baskan_sorunu"
+    },
+    {
+      "season": 5,
+      "episode": 185,
+      "title": "Public Enemies 1, 2, 3, 4 and 5!",
+      "diziid": "njg",
+      "bolum": "185",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/185/halk_dusmanlara_1%2C2%2C3%2C4_ve_5"
+    },
+    {
+      "season": 6,
+      "episode": 186,
+      "title": "A Painful Promise",
+      "diziid": "njg",
+      "bolum": "186",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/186/aci_veren_soz"
+    },
+    {
+      "season": 7,
+      "episode": 187,
+      "title": "Ninjago City vs. Ninja",
+      "diziid": "njg",
+      "bolum": "187",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/187/ninjago_sehri_ninja_davasi"
+    },
+    {
+      "season": 8,
+      "episode": 188,
+      "title": "Kryptarium Prison Blues",
+      "diziid": "njg",
+      "bolum": "188",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/188/kristarium_hapishanesi_huznu"
+    },
+    {
+      "season": 9,
+      "episode": 189,
+      "title": "Hounddog McBrag",
+      "diziid": "njg",
+      "bolum": "189",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/189/tazi_mcbrag"
+    },
+    {
+      "season": 10,
+      "episode": 190,
+      "title": "The Benefit of Grief",
+      "diziid": "njg",
+      "bolum": "190",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/190/uzuntunun_faydasi"
+    },
+    {
+      "season": 11,
+      "episode": 191,
+      "title": "The Fifth Villain",
+      "diziid": "njg",
+      "bolum": "191",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/191/besinci_kotu_adam"
+    },
+    {
+      "season": 12,
+      "episode": 192,
+      "title": "The Council of the Crystal King",
+      "diziid": "njg",
+      "bolum": "192",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/192/kristal_kralin_konseyi"
+    },
+    {
+      "season": 13,
+      "episode": 193,
+      "title": "A Sinister Shadow",
+      "diziid": "njg",
+      "bolum": "193",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/193/ugursuz_golge"
+    },
+    {
+      "season": 14,
+      "episode": 194,
+      "title": "The Spider's Design",
+      "diziid": "njg",
+      "bolum": "194",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/194/orumcegin_tasarimi"
+    },
+    {
+      "season": 15,
+      "episode": 195,
+      "title": "The Fall of the Monastery",
+      "diziid": "njg",
+      "bolum": "195",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/195/manastirin_dususu"
+    },
+    {
+      "season": 16,
+      "episode": 196,
+      "title": "Darkness Within",
+      "diziid": "njg",
+      "bolum": "196",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/196/icindeki_karanlik"
+    },
+    {
+      "season": 17,
+      "episode": 197,
+      "title": "The Coming of the King",
+      "diziid": "njg",
+      "bolum": "197",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/197/kralin_gelisi"
+    },
+    {
+      "season": 18,
+      "episode": 198,
+      "title": "Return to Primeval's Eye",
+      "diziid": "njg",
+      "bolum": "198",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/198/ilkel_goze_donus"
+    },
+    {
+      "season": 19,
+      "episode": 199,
+      "title": "Crystastrophe",
+      "diziid": "njg",
+      "bolum": "199",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/199/kristal_felaket"
+    },
+    {
+      "season": 20,
+      "episode": 200,
+      "title": "Christofern",
+      "diziid": "njg",
+      "bolum": "200",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/200/christofern"
+    },
+    {
+      "season": 21,
+      "episode": 201,
+      "title": "A Lesson in Anger",
+      "diziid": "njg",
+      "bolum": "201",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/201/ofke_dersi"
+    },
+    {
+      "season": 22,
+      "episode": 202,
+      "title": "Brave but Foolish",
+      "diziid": "njg",
+      "bolum": "202",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/202/cesurca_ama_akilsizca"
+    },
+    {
+      "season": 23,
+      "episode": 203,
+      "title": "Quittin' Time!",
+      "diziid": "njg",
+      "bolum": "203",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/203/pes_etme_zamani%21"
+    },
+    {
+      "season": 24,
+      "episode": 204,
+      "title": "Return of the Ice Emperor",
+      "diziid": "njg",
+      "bolum": "204",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/204/buz_imparatorunun_donusu"
+    },
+    {
+      "season": 25,
+      "episode": 205,
+      "title": "Safe Haven",
+      "diziid": "njg",
+      "bolum": "205",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/205/siginagi_kurtarmak"
+    },
+    {
+      "season": 26,
+      "episode": 206,
+      "title": "Compatible",
+      "diziid": "njg",
+      "bolum": "206",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/206/uyumlu"
+    },
+    {
+      "season": 27,
+      "episode": 207,
+      "title": "Distress Calls",
+      "diziid": "njg",
+      "bolum": "207",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/207/yardim_cagrilari"
+    },
+    {
+      "season": 28,
+      "episode": 208,
+      "title": "An Issue of Trust",
+      "diziid": "njg",
+      "bolum": "208",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/208/guven_sorunu"
+    },
+    {
+      "season": 29,
+      "episode": 209,
+      "title": "Dragon Form",
+      "diziid": "njg",
+      "bolum": "209",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/209/ejderha_formu"
+    },
+    {
+      "season": 30,
+      "episode": 210,
+      "title": "Roots",
+      "diziid": "njg",
+      "bolum": "210",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/210/kokler"
+    },
+    {
+      "season": 1,
+      "episode": 211,
+      "title": "Way of the Ninja",
+      "diziid": "njg",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/0/ninjanin_yolu"
+    },
+    {
+      "season": 1,
+      "episode": 212,
+      "title": "King of Shadows",
+      "diziid": "njg",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/njg/ninjago/0/golgeler_krali"
+    }
+  ]
+}

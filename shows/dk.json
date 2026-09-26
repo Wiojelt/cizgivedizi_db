@@ -1,0 +1,93 @@
+{
+  "id": "dk",
+  "title": "drama kulÃ¼bÃ¼",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/DKPoster.avif",
+  "channel": "Nickelodeon",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Drama in the Drama Club",
+      "diziid": "dk",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/1/pilot"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Build A Bench",
+      "diziid": "dk",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/2/bir_tezgah_olusturun"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Phoneless in Tookus",
+      "diziid": "dk",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/3/tookusta_telefonsuz"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Luck Be a Poncho Tonight",
+      "diziid": "dk",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/4/sans_bu_gece_bir_panco_ol"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "15 Sniffets of Fame",
+      "diziid": "dk",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/5/15_sohret_sniffets"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "S.A.D.",
+      "diziid": "dk",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/6/d.i.k."
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Slumber Games",
+      "diziid": "dk",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/7/pijama_oyunlari"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Phantom of Farth Auditorium",
+      "diziid": "dk",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/8/uzak_oditoryumun_hayaleti"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Stress Rehearsal",
+      "diziid": "dk",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/9/stres_provasi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Show Might Go On",
+      "diziid": "dk",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/dk/drama_kulubu/10/gosteri_devam_edebilir"
+    }
+  ]
+}

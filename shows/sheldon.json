@@ -1,0 +1,1140 @@
+{
+  "id": "sheldon",
+  "title": "young sheldon",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/SHELDPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "sheldon",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/1/pilot_bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Rockets, Communists, and the Dewey Decimal System",
+      "diziid": "sheldon",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/2/roketler%2C_komunistler_ve_dewey_ondalik_sistemi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Poker, Faith, and Eggs",
+      "diziid": "sheldon",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/3/poker%2C_inanc_ve_yumurtalar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "A Therapist, a Comic Book, and a Breakfast Sausage",
+      "diziid": "sheldon",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/4/bir_terapist%2C_bir_cizgi_roman_ve_kahvaltidaki_sosis"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "A Solar Calculator, a Game Ball, and a Cheerleader's Bosom",
+      "diziid": "sheldon",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/5/gunes_enerjili_hesap_makinesi%2C_mactaki_top_ve_bir_ponpon_kizin_bagri"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "A Patch, a Modem, and a ZantacÂ®",
+      "diziid": "sheldon",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/6/bir_arma%2C_bir_modem_ve_bir_zantac%C2%AE"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "A Brisket, Voodoo, and Cannonball Run",
+      "diziid": "sheldon",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/7/gogus_eti%2C_buyucu_ve_cannonball_run"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Cape Canaveral, SchrÃ¶dinger's Cat, and Cyndi Lauper's Hair",
+      "diziid": "sheldon",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/8/canaveral_burnu%2C_schrodingerin_kedisi_ve_cyndi_lauperin_saci"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Spock, Kirk, and Testicular Hernia",
+      "diziid": "sheldon",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/9/spock%2C_kirk_ve_testis_fitigi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "An Eagle Feather, a String Bean, and an Eskimo",
+      "diziid": "sheldon",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/10/kartal_tuyu%2C_taze_fasulye_ve_bir_eskimo"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Demons, Sunday School, and Prime Numbers",
+      "diziid": "sheldon",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/11/seytanlar%2C_pazar_dersi_ve_asal_sayilar"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "A Computer, a Plastic Pony, and a Case of Beer",
+      "diziid": "sheldon",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/12/bir_bilgisayar%2C_plastik_bir_midilli_ve_bir_kasa_bira"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "A Sneeze, Detention, and Sissy Spacek",
+      "diziid": "sheldon",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/13/bir_hapsirik%2C_okulda_kalma_cezasi_ve_sissy_spacek"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Potato Salad, a Broomstick, and Dad's Whiskey",
+      "diziid": "sheldon",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/14/patates_salatasi%2C_bir_supurge_sapi_ve_babanin_viskisi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Dolomite, Apple Slices, and a Mystery Woman",
+      "diziid": "sheldon",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/15/dolomit%2C_elma_dilimleri_ve_gizemli_bir_kadin"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Killer Asteroids, Oklahoma, and a Frizzy Hair Machine",
+      "diziid": "sheldon",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/16/katil_asteroidler%2C_oklahoma_ve_kivircik_sac_makinesi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Jiu-Jitsu, Bubble Wrap, and Yoo-Hoo",
+      "diziid": "sheldon",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/17/jiu-jitsu%2C_balonlu_naylon_ve_yoo-hoo"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "A Mother, a Child, and a Blue Man's Backside",
+      "diziid": "sheldon",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/18/bir_anne%2C_bir_cocuk_ve_mavi_adamin_arka_tarafi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Gluons, Guacamole, and the Color Purple",
+      "diziid": "sheldon",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/19/gluonlar%2C_guacamole_ve_mor"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "A Dog, a Squirrel, and a Fish Named Fish",
+      "diziid": "sheldon",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/20/bir_kopek%2C_bir_sincap_ve_adi_balik_olan_bir_balik"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Summer Sausage, a Pocket Poncho, and Tony Danza",
+      "diziid": "sheldon",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/21/yaz_sosisi%2C_bir_cep_yagmurlugu_ve_tony_danza"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Vanilla Ice Cream, Gentleman Callers, and a Dinette Set",
+      "diziid": "sheldon",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/22/vanilyali_dondurma%2C_talipler_ve_yemek_odasi_takimi"
+    },
+    {
+      "season": 1,
+      "episode": 23,
+      "title": "A High-Pitched Buzz and Training Wheels",
+      "diziid": "sheldon",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/23/tiz_ugultu_ve_destek_tekerleri"
+    },
+    {
+      "season": 2,
+      "episode": 24,
+      "title": "A Rival Prodigy and Sir Isaac Neutron",
+      "diziid": "sheldon",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/24/rakip_deha_ve_sir_isaac_neutron"
+    },
+    {
+      "season": 3,
+      "episode": 25,
+      "title": "A Crisis of Faith and Octopus Aliens",
+      "diziid": "sheldon",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/25/inanc_krizi_ve_ahtapot_uzaylilar"
+    },
+    {
+      "season": 4,
+      "episode": 26,
+      "title": "A Financial Secret and Fish Sauce",
+      "diziid": "sheldon",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/26/mali_bir_sir_ve_balik_sosu"
+    },
+    {
+      "season": 5,
+      "episode": 27,
+      "title": "A Research Study and Czechoslovakian Wedding Pastries",
+      "diziid": "sheldon",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/27/arastirma_calismasi_ve_cekoslovak_dugun_pastalari"
+    },
+    {
+      "season": 6,
+      "episode": 28,
+      "title": "Seven Deadly Sins and a Small Carl Sagan",
+      "diziid": "sheldon",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/28/yedi_olumcul_gunah_ve_kucuk_bir_carl_sagan"
+    },
+    {
+      "season": 7,
+      "episode": 29,
+      "title": "Carbon Dating and a Stuffed Raccoon",
+      "diziid": "sheldon",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/29/radyokarbon_siniflandirma_ve_doldurulmus_rakun"
+    },
+    {
+      "season": 8,
+      "episode": 30,
+      "title": "An 8-Bit Princess and a Flat Tire Genius",
+      "diziid": "sheldon",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/30/8_bitlik_prenses_ve_patlak_lastik_dahisi"
+    },
+    {
+      "season": 9,
+      "episode": 31,
+      "title": "Family Dynamics and a Red Fiero",
+      "diziid": "sheldon",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/31/aile_dinamikleri_ve_kirmizi_bir_fiero"
+    },
+    {
+      "season": 10,
+      "episode": 32,
+      "title": "A Stunted Childhood and a Can of Fancy Mixed Nuts",
+      "diziid": "sheldon",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/32/yasanamamis_bir_cocukluk_ve_bir_kutu_karisik_cerez"
+    },
+    {
+      "season": 11,
+      "episode": 33,
+      "title": "A Race of Superhumans and a Letter to Alf",
+      "diziid": "sheldon",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/33/insanustu_bir_irk_ve_alfe_bir_mektup"
+    },
+    {
+      "season": 12,
+      "episode": 34,
+      "title": "A Tummy Ache and a Whale of a Metaphor",
+      "diziid": "sheldon",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/34/karin_agrisi_ve_balina_metaforu"
+    },
+    {
+      "season": 13,
+      "episode": 35,
+      "title": "A Nuclear Reactor and a Boy Called Lovey",
+      "diziid": "sheldon",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/35/nukleer_reaktor_ve_asik_adli_bir_cocuk"
+    },
+    {
+      "season": 14,
+      "episode": 36,
+      "title": "David, Goliath, and a Yoo-Hoo from the Back",
+      "diziid": "sheldon",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/36/davut%2C_calut_ve_arkadaki_yoo-hoo"
+    },
+    {
+      "season": 15,
+      "episode": 37,
+      "title": "A Math Emergency and Perky Palms",
+      "diziid": "sheldon",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/37/matematik_acil_durumu_ve_canli_palmiyeler"
+    },
+    {
+      "season": 16,
+      "episode": 38,
+      "title": "A Loaf of Bread and a Grand Old Flag",
+      "diziid": "sheldon",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/38/bir_somun_ekmek_ve_yuce%2C_sanli_bir_bayrak"
+    },
+    {
+      "season": 17,
+      "episode": 39,
+      "title": "Albert Einstein and the Story of Another Mary",
+      "diziid": "sheldon",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/39/albert_einstein_ve_baska_bir_marynin_hikayesi"
+    },
+    {
+      "season": 18,
+      "episode": 40,
+      "title": "A Perfect Score and a Bunsen Burner Marshmallow",
+      "diziid": "sheldon",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/40/en_iyi_puan_ve_bunsen_brulorunde_marsmelov"
+    },
+    {
+      "season": 19,
+      "episode": 41,
+      "title": "A Political Campaign and a Candy Land Cheater",
+      "diziid": "sheldon",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/41/politik_kampanya_ve_candy_land_hilecisi"
+    },
+    {
+      "season": 20,
+      "episode": 42,
+      "title": "A Proposal and a Popsicle Stick Cross",
+      "diziid": "sheldon",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/42/bir_teklif_ve_dondurma_cubugundan_bir_hac"
+    },
+    {
+      "season": 21,
+      "episode": 43,
+      "title": "A Broken Heart and a Crock Monster",
+      "diziid": "sheldon",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/43/kirik_bir_kalp_ve_kirik_bir_mors"
+    },
+    {
+      "season": 22,
+      "episode": 44,
+      "title": "A Swedish Science Thing and the Equation for Toast",
+      "diziid": "sheldon",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/44/isvec_bilim_seyi_ve_tost_denklemi"
+    },
+    {
+      "season": 1,
+      "episode": 45,
+      "title": "Quirky Eggheads and Texas Snow Globes",
+      "diziid": "sheldon",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/45/sirin_dahiler_ve_teksas_kar_kureleri"
+    },
+    {
+      "season": 2,
+      "episode": 46,
+      "title": "A Broom Closet and Satan's Monopoly Board",
+      "diziid": "sheldon",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/46/bir_temizlik_odasi_ve_seytanin_monopoly_tahtasi"
+    },
+    {
+      "season": 3,
+      "episode": 47,
+      "title": "An Entrepreneurialist and a Swat on the Bottom",
+      "diziid": "sheldon",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/47/giriskenlik_ve_popoya_saplak"
+    },
+    {
+      "season": 4,
+      "episode": 48,
+      "title": "Hobbitses, Physicses and a Ball With Zip",
+      "diziid": "sheldon",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/48/hobbitler%2C_fizik_ve_hizli_bir_top"
+    },
+    {
+      "season": 5,
+      "episode": 49,
+      "title": "A Pineapple and the Bosom of Male Friendship",
+      "diziid": "sheldon",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/49/ananas_ve_erkek_dostlugu"
+    },
+    {
+      "season": 6,
+      "episode": 50,
+      "title": "A Parasol and a Hell of an Arm",
+      "diziid": "sheldon",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/50/bir_semsiye_ve_cok_guclu_bir_kol"
+    },
+    {
+      "season": 7,
+      "episode": 51,
+      "title": "Pongo Pygmaeus and a Culture that Encourages Spitting",
+      "diziid": "sheldon",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/51/pongo_pygmaeus_ve_tukurmeyi_tesvik_eden_bir_kultur"
+    },
+    {
+      "season": 8,
+      "episode": 52,
+      "title": "The Sin of Greed and a Chimichanga from Chi-Chi's",
+      "diziid": "sheldon",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/52/acgozluluk_gunahi_ve_ci-ciden_bir_cimicanga"
+    },
+    {
+      "season": 9,
+      "episode": 53,
+      "title": "A Party Invitation, Football Grapes and an Earth Chicken",
+      "diziid": "sheldon",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/53/parti_davetiyesi%2C_futbol_uzumleri_ve_kara_tavugu"
+    },
+    {
+      "season": 10,
+      "episode": 54,
+      "title": "Teenager Soup and A Little Ball of Fib",
+      "diziid": "sheldon",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/54/ergen_corbasi_ve_kucuk_bir_yalan_topu"
+    },
+    {
+      "season": 11,
+      "episode": 55,
+      "title": "A Live Chicken, a Fried Chicken and Holy Matrimony",
+      "diziid": "sheldon",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/55/canli_bir_tavuk%2C_kizarmis_bir_tavuk_ve_kutsal_evlilik"
+    },
+    {
+      "season": 12,
+      "episode": 56,
+      "title": "Body Glitter and a Mall Safety Kit",
+      "diziid": "sheldon",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/56/vucut_simi_ve_alisveris_guvenlik_kiti"
+    },
+    {
+      "season": 13,
+      "episode": 57,
+      "title": "Contracts, Rules and a Little Bit of Pig Brains",
+      "diziid": "sheldon",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/57/sozlesmeler%2C_kurallar_ve_biraz_da_domuz_beyni"
+    },
+    {
+      "season": 14,
+      "episode": 58,
+      "title": "A Slump, a Cross and Roadside Gravel",
+      "diziid": "sheldon",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/58/bir_cokus%2C_bir_hac_ve_yol_kenarindaki_cakillar"
+    },
+    {
+      "season": 15,
+      "episode": 59,
+      "title": "A Boyfriend's Ex-Wife and a Good Luck Head Rub",
+      "diziid": "sheldon",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/59/sevgilinin_eski_karisi_ve_sans_getirmesi_icin_oksanan_bir_kafa"
+    },
+    {
+      "season": 16,
+      "episode": 60,
+      "title": "Pasadena",
+      "diziid": "sheldon",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/60/pasadena"
+    },
+    {
+      "season": 17,
+      "episode": 61,
+      "title": "An Academic Crime and a More Romantic Taco Bell",
+      "diziid": "sheldon",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/61/akademik_bir_suc_ve_taco_bellin_romantik_hali"
+    },
+    {
+      "season": 18,
+      "episode": 62,
+      "title": "A Couple Bruised Ribs and a Cereal Box Ghost Detector",
+      "diziid": "sheldon",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/62/birkac_morarmis_kaburga_ve_misir_gevreginden_cikan_hayalet_dedektoru"
+    },
+    {
+      "season": 19,
+      "episode": 63,
+      "title": "A House for Sale and Serious Woman Stuff",
+      "diziid": "sheldon",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/63/satilik_bir_ev_ve_ciddi_bir_kadin_meselesi"
+    },
+    {
+      "season": 20,
+      "episode": 64,
+      "title": "A Baby Tooth and the Egyptian God of Knowledge",
+      "diziid": "sheldon",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/64/bir_bebek_disi_ve_misir_bilgelik_tanrisi"
+    },
+    {
+      "season": 21,
+      "episode": 65,
+      "title": "A Secret Letter and a Lowly Disc of Processed Meat",
+      "diziid": "sheldon",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/65/gizli_bir_mektup_ve_islenmis_bir_parca_et"
+    },
+    {
+      "season": 1,
+      "episode": 66,
+      "title": "Graduation",
+      "diziid": "sheldon",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/66/mezuniyet"
+    },
+    {
+      "season": 2,
+      "episode": 67,
+      "title": "A Docent, A Little Lady and a Bouncer Named Dalton",
+      "diziid": "sheldon",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/67/bir_muze_rehberi%2C_kucuk_bir_hanimefendi_ve_dalton_adli_bir_fedai"
+    },
+    {
+      "season": 3,
+      "episode": 68,
+      "title": "Training Wheels and an Unleashed Chicken",
+      "diziid": "sheldon",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/68/destek_tekerlekleri_ve_serbest_kalan_bir_tavuk"
+    },
+    {
+      "season": 4,
+      "episode": 69,
+      "title": "Bible Camp and a Chariot of Love",
+      "diziid": "sheldon",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/69/incil_kampi_ve_ask_arabasi"
+    },
+    {
+      "season": 5,
+      "episode": 70,
+      "title": "A Musty Crypt and a Stick to Pee On",
+      "diziid": "sheldon",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/70/kuflu_bir_mahzen_ve_isenecek_bir_cubuk"
+    },
+    {
+      "season": 6,
+      "episode": 71,
+      "title": "Freshman Orientation and the Inventor of the Zipper",
+      "diziid": "sheldon",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/71/birinci_sinif_oryantasyonu_ve_fermuarin_icadi"
+    },
+    {
+      "season": 7,
+      "episode": 72,
+      "title": "A Philosophy Class and Worms That Can Chase You",
+      "diziid": "sheldon",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/72/felsefe_dersi_ve_insan_kovalayan_tirtillar"
+    },
+    {
+      "season": 8,
+      "episode": 73,
+      "title": "An Existential Crisis and a Bear That Makes Bubbles",
+      "diziid": "sheldon",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/73/varolussal_bir_bunalim_ve_kopuk_yapan_bir_ayi"
+    },
+    {
+      "season": 9,
+      "episode": 74,
+      "title": "Crappy Frozen Ice Cream and an Organ Grinder's Monkey",
+      "diziid": "sheldon",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/74/dandik_dondurma_ve_ayi_oynaticinin_ayisi"
+    },
+    {
+      "season": 10,
+      "episode": 75,
+      "title": "Cowboy Aerobics and 473 Grease-Free Bolts",
+      "diziid": "sheldon",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/75/kovboy_aerobigi_ve_473_adet_yagsiz_civata"
+    },
+    {
+      "season": 11,
+      "episode": 76,
+      "title": "A Pager, a Club and a Cranky Bag of Wrinkles",
+      "diziid": "sheldon",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/76/bir_cagri_cihazi%2C_bir_kulup_ve_burusuk_huysuz_bir_ihtiyar"
+    },
+    {
+      "season": 12,
+      "episode": 77,
+      "title": "A Box of Treasure and the Meemaw of Science",
+      "diziid": "sheldon",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/77/bir_hazine_kutusu_ve_bilimin_buyukannesi"
+    },
+    {
+      "season": 13,
+      "episode": 78,
+      "title": "The Geezer Bus and a New Model for Education",
+      "diziid": "sheldon",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/78/ihtiyarlar_otobusu_ve_yeni_bir_egitim_modeli"
+    },
+    {
+      "season": 14,
+      "episode": 79,
+      "title": "Mitch's Son and the Unconditional Approval of a Government Agency",
+      "diziid": "sheldon",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/79/anasini_seveyim_ve_bir_devlet_kurumu_tarafindan_net_bir_sekilde_onaylanmak"
+    },
+    {
+      "season": 15,
+      "episode": 80,
+      "title": "A Virus, Heartbreak and a World of Possibilities",
+      "diziid": "sheldon",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/80/bir_virus%2C_uzuntu_ve_ihtimallerle_dolu_bir_dunya"
+    },
+    {
+      "season": 16,
+      "episode": 81,
+      "title": "A Second Prodigy and the Hottest Tips for Pouty Lips",
+      "diziid": "sheldon",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/81/ikinci_harika_cocuk_ve_dolgun_dudaklar_icin_en_moda_oneriler"
+    },
+    {
+      "season": 17,
+      "episode": 82,
+      "title": "A Black Hole",
+      "diziid": "sheldon",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/82/kara_delik"
+    },
+    {
+      "season": 18,
+      "episode": 83,
+      "title": "The Wild and Woolly World of Nonlinear Dynamics",
+      "diziid": "sheldon",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/83/dogrusal_olmayan_dinamiklerin_cilgin_ve_karisik_dunyasi"
+    },
+    {
+      "season": 1,
+      "episode": 84,
+      "title": "One Bad Night and Chaos of Selfish Desires",
+      "diziid": "sheldon",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/84/kotu_bir_gece_ve_bencil_arzular_kaosu"
+    },
+    {
+      "season": 2,
+      "episode": 85,
+      "title": "Snoopin' Around and the Wonder Twins of Atheism",
+      "diziid": "sheldon",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/85/arkadan_is_cevirmek_ve_ateizmin_mucize_ikizleri"
+    },
+    {
+      "season": 3,
+      "episode": 86,
+      "title": "Potential Energy and Hooch on a Park Bench",
+      "diziid": "sheldon",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/86/potansiyel_enerji_ve_bir_park_bankinda_icki_icmek"
+    },
+    {
+      "season": 4,
+      "episode": 87,
+      "title": "Pish Posh and a Secret Back Room",
+      "diziid": "sheldon",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/87/zart_zurt_ve_gizli_bir_oda"
+    },
+    {
+      "season": 5,
+      "episode": 88,
+      "title": "Stuffed Animals and a Sweet Southern Syzygy",
+      "diziid": "sheldon",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/88/pelus_hayvanlar_ve_tatli_bir_guneyli_syzygy"
+    },
+    {
+      "season": 6,
+      "episode": 89,
+      "title": "Money Laundering and a Cascade of Hormones",
+      "diziid": "sheldon",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/89/kara_para_aklama_ve_bir_hormon_caglayani"
+    },
+    {
+      "season": 7,
+      "episode": 90,
+      "title": "An Introduction to Engineering and a Glob of Hair Gel",
+      "diziid": "sheldon",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/90/bir_muhendislik_tanitimi_ve_sac_jolesi"
+    },
+    {
+      "season": 8,
+      "episode": 91,
+      "title": "The Grand Chancellor and a Den of Sin",
+      "diziid": "sheldon",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/91/buyuk_sansolye_ve_bir_gunah_ini"
+    },
+    {
+      "season": 9,
+      "episode": 92,
+      "title": "The Yips and an Oddly Hypnotic Bohemian",
+      "diziid": "sheldon",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/92/yips_ve_ilginc_sekilde_hipnotize_edici_bir_bohem"
+    },
+    {
+      "season": 10,
+      "episode": 93,
+      "title": "An Expensive Glitch and a Goof-Off Room",
+      "diziid": "sheldon",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/93/pahali_bir_ariza_ve_aylaklik_odasi"
+    },
+    {
+      "season": 11,
+      "episode": 94,
+      "title": "A Lock-In, a Weather Girl and a Disgusting Habit",
+      "diziid": "sheldon",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/94/bir_gece_yatisi%2C_bir_hava_durumu_sunucusu_ve_igrenc_bir_aliskanlik"
+    },
+    {
+      "season": 12,
+      "episode": 95,
+      "title": "A Pink Cadillac and a Glorious Tribal Dance",
+      "diziid": "sheldon",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/95/pembe_bir_cadillac_ve_sanli_bir_kabile_dansi"
+    },
+    {
+      "season": 13,
+      "episode": 96,
+      "title": "A Lot of Band-Aids and the Cooper Surrender",
+      "diziid": "sheldon",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/96/bir_suru_yara_bandi_ve_cooper_teslimi"
+    },
+    {
+      "season": 14,
+      "episode": 97,
+      "title": "A Free Scratcher and Feminine Wiles",
+      "diziid": "sheldon",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/97/bedava_bir_kazi_kazan_ve_kadinsi_cazibe"
+    },
+    {
+      "season": 15,
+      "episode": 98,
+      "title": "A Lobster, an Armadillo and a Way Bigger Number",
+      "diziid": "sheldon",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/98/bir_istakoz%2C_bir_armadillo_ve_cok_daha_buyuk_bir_sayi"
+    },
+    {
+      "season": 16,
+      "episode": 99,
+      "title": "A Suitcase Full of Cash and a Yellow Clown Car",
+      "diziid": "sheldon",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/99/bir_valiz_dolusu_nakit_ve_sari_bir_palyaco_arabasi"
+    },
+    {
+      "season": 17,
+      "episode": 100,
+      "title": "A Solo Peanut, a Social Butterfly and the Truth",
+      "diziid": "sheldon",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/100/yalniz_bir_yer_fistigi%2C_sosyal_bir_kelebek_ve_gercek"
+    },
+    {
+      "season": 18,
+      "episode": 101,
+      "title": "Babies, Lies and a Resplendent Cannoli",
+      "diziid": "sheldon",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/101/bebekler%2C_yalanlar_ve_gorkemli_cannoliler"
+    },
+    {
+      "season": 19,
+      "episode": 102,
+      "title": "A God-Fearin' Baptist and a Hot Trophy Husband",
+      "diziid": "sheldon",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/102/tanridan_korkan_bir_baptist_ve_seksi%2C_citir_bir_koca"
+    },
+    {
+      "season": 20,
+      "episode": 103,
+      "title": "Uncle Sheldon and a Hormonal Firecracker",
+      "diziid": "sheldon",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/103/sheldon_amca_ve_hormonal_maytap"
+    },
+    {
+      "season": 21,
+      "episode": 104,
+      "title": "White Trash, Holy Rollers and Punching People",
+      "diziid": "sheldon",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/104/cahil_beyazlar%2C_din_propagandacilari_ve_bir_yumruklama_olayi"
+    },
+    {
+      "season": 22,
+      "episode": 105,
+      "title": "A Clogged Pore, a Little Spanish and the Future",
+      "diziid": "sheldon",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/105/tikali_bir_gozenek%2C_biraz_ispanyolca_ve_gelecek"
+    },
+    {
+      "season": 1,
+      "episode": 106,
+      "title": "Four Hundred Cartons of Undeclared Cigarettes and a Niblingo",
+      "diziid": "sheldon",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/106/beyan_edilmemis_400_karton_sigara_ve_yardesco"
+    },
+    {
+      "season": 2,
+      "episode": 107,
+      "title": "Future Worf and the Margarita of the South Pacific",
+      "diziid": "sheldon",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/107/gelecekten_gelen_worf_ve_guney_pasifikin_margaritasi"
+    },
+    {
+      "season": 3,
+      "episode": 108,
+      "title": "Passion's Harvest and a Sheldocracy",
+      "diziid": "sheldon",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/108/tutku_hasadi_ve_sheldokrasi"
+    },
+    {
+      "season": 4,
+      "episode": 109,
+      "title": "Blonde Ambition and the Concept of Zero",
+      "diziid": "sheldon",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/109/sarisin_hirs_ve_sifir_kavrami"
+    },
+    {
+      "season": 5,
+      "episode": 110,
+      "title": "A Resident Advisor and the Word 'Sketchy'",
+      "diziid": "sheldon",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/110/yurt_sorumlusu_ve_supheli_sozcugu"
+    },
+    {
+      "season": 6,
+      "episode": 111,
+      "title": "An Ugly Car, an Affair and Some Kickass Football",
+      "diziid": "sheldon",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/111/cirkin_bir_araba%2C_aldatma_ve_efsane_oyun"
+    },
+    {
+      "season": 7,
+      "episode": 112,
+      "title": "A Tougher Nut and a Note on File",
+      "diziid": "sheldon",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/112/cetin_ceviz_ve_dosyadaki_not"
+    },
+    {
+      "season": 8,
+      "episode": 113,
+      "title": "Legalese and a Whole Hoo-Ha",
+      "diziid": "sheldon",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/113/hukuk_dili_ve_ahlak_tartismasi"
+    },
+    {
+      "season": 9,
+      "episode": 114,
+      "title": "College Dropouts and the Medford Miracle",
+      "diziid": "sheldon",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/114/universiteyi_birakmak_ve_medford_mucizesi"
+    },
+    {
+      "season": 10,
+      "episode": 115,
+      "title": "Pancake Sunday and Textbook Flirting",
+      "diziid": "sheldon",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/115/pankek_pazari_ve_klasik_flort"
+    },
+    {
+      "season": 11,
+      "episode": 116,
+      "title": "Ruthless, Toothless and a Week of Bed Rest",
+      "diziid": "sheldon",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/116/acimasiz%2C_pisirik_ve_bir_hafta_yatak_istirahati"
+    },
+    {
+      "season": 12,
+      "episode": 117,
+      "title": "A Baby Shower and Testosterone-Rich Banter",
+      "diziid": "sheldon",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/117/hediye_partisi_ve_testosteron_dolu_sohbet"
+    },
+    {
+      "season": 13,
+      "episode": 118,
+      "title": "A Frat Party, a Sleepover and the Mother of All Blisters",
+      "diziid": "sheldon",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/118/parti%2C_yatili_misafirlik_ve_su_toplamanin_kitabi"
+    },
+    {
+      "season": 14,
+      "episode": 119,
+      "title": "A Launch Party and a Whole Human Being",
+      "diziid": "sheldon",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/119/acilis_partisi_ve_komple_bir_insan"
+    },
+    {
+      "season": 15,
+      "episode": 120,
+      "title": "Teen Angst and a Smart-Boy Walk of Shame",
+      "diziid": "sheldon",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/120/kaygili_ergen_ve_akilli_cocugun_utanc_yuruyusu"
+    },
+    {
+      "season": 16,
+      "episode": 121,
+      "title": "A Stolen Truck and Going on the Lam",
+      "diziid": "sheldon",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/121/calinti_kamyonet_ve_kacis"
+    },
+    {
+      "season": 17,
+      "episode": 122,
+      "title": "A German Folk Song and an Actual Adult",
+      "diziid": "sheldon",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/122/alman_folk_sarkisi_ve_gercek_bir_yetiskin"
+    },
+    {
+      "season": 18,
+      "episode": 123,
+      "title": "Little Green Men and a Fella's Marriage Proposal",
+      "diziid": "sheldon",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/123/kucuk_yesil_adamlar_ve_bir_erkegin_evlenme_teklifi"
+    },
+    {
+      "season": 19,
+      "episode": 124,
+      "title": "A New Weather Girl and a Stay-at-Home Coddler",
+      "diziid": "sheldon",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/124/yeni_hava_durumu_sunucusu_ve_simartan_ev_hanimi"
+    },
+    {
+      "season": 20,
+      "episode": 125,
+      "title": "German for Beginners and a Crazy Old Man with a Bat",
+      "diziid": "sheldon",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/125/almancaya_giris_ve_eli_sopali_yasli_adam"
+    },
+    {
+      "season": 21,
+      "episode": 126,
+      "title": "A Romantic Getaway and a Germanic Meat-Based Diet",
+      "diziid": "sheldon",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/126/romantik_kacamak_ve_almanlarin_et_agirlikli_beslenme_duzeni"
+    },
+    {
+      "season": 22,
+      "episode": 127,
+      "title": "A Tornado, a 10-Hour Flight and a Darn Fine Ring",
+      "diziid": "sheldon",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/127/hortum%2C_10_saatlik_ucus_ve_acayip_guzel_bir_yuzuk"
+    },
+    {
+      "season": 1,
+      "episode": 128,
+      "title": "A Wiener Schnitzel and Underwear in a Tree",
+      "diziid": "sheldon",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/128/viyana_snitzeli_ve_agacta_ic_camasiri"
+    },
+    {
+      "season": 2,
+      "episode": 129,
+      "title": "A Roulette Wheel and a Piano Playing Dog",
+      "diziid": "sheldon",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/129/rulet_carki_ve_piyano_calan_kopek"
+    },
+    {
+      "season": 3,
+      "episode": 130,
+      "title": "A Strudel and a Hot American Boy Toy",
+      "diziid": "sheldon",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/130/strudel_ve_seksi_amerikali_kacamak"
+    },
+    {
+      "season": 4,
+      "episode": 131,
+      "title": "Ants on a Log and a Cheating Winker",
+      "diziid": "sheldon",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/131/kucukte_karinca_ve_goz_kirpan_hileci"
+    },
+    {
+      "season": 5,
+      "episode": 132,
+      "title": "A Frankenstein's Monster and a Crazy Church Guy",
+      "diziid": "sheldon",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/132/frankensteinin_canavari_ve_manyak_kiliseci_adam"
+    },
+    {
+      "season": 6,
+      "episode": 133,
+      "title": "Baptists, Catholics and an Attempted Drowning",
+      "diziid": "sheldon",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/133/baptistler%2C_katolikler_ve_bogma_girisimi"
+    },
+    {
+      "season": 7,
+      "episode": 134,
+      "title": "A Proper Wedding and Skeletons in the Closet",
+      "diziid": "sheldon",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/134/duzgun_bir_dugun_ve_kirli_camasirlar"
+    },
+    {
+      "season": 8,
+      "episode": 135,
+      "title": "An Ankle Monitor and a Big Plastic Crap House",
+      "diziid": "sheldon",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/135/ayak_bilegi_takip_cihazi_ve_buyuk_plastik_bir_pislik_evi"
+    },
+    {
+      "season": 9,
+      "episode": 136,
+      "title": "A Fancy Article and a Scholarship for a Baby",
+      "diziid": "sheldon",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/136/sofistike_bir_makale_ve_bir_bebege_burs"
+    },
+    {
+      "season": 10,
+      "episode": 137,
+      "title": "Community Service and the Key to a Happy Marriage",
+      "diziid": "sheldon",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/137/kamu_hizmeti_ve_mutlu_bir_evliligin_anahtari"
+    },
+    {
+      "season": 11,
+      "episode": 138,
+      "title": "A Little Snip and Teaching Old Dogs",
+      "diziid": "sheldon",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/138/kucuk_bir_kesik_ve_yasli_kurtlara_ders_vermek"
+    },
+    {
+      "season": 12,
+      "episode": 139,
+      "title": "A New Home and a Traditional Texas Torture",
+      "diziid": "sheldon",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/139/yeni_bir_ev_ve_geleneksel_bir_teksas_iskencesi"
+    },
+    {
+      "season": 13,
+      "episode": 140,
+      "title": "Funeral",
+      "diziid": "sheldon",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/140/cenaze"
+    },
+    {
+      "season": 14,
+      "episode": 141,
+      "title": "Memoir",
+      "diziid": "sheldon",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/sheldon/young_sheldon/141/ani_kitabi"
+    }
+  ]
+}

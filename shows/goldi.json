@@ -1,0 +1,372 @@
+{
+  "id": "goldi",
+  "title": "goldi ve ayÄ±cÄ±k",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/GOLDIPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Too Much Jack and Jill/Tiny Tale",
+      "diziid": "goldi",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/1/cok_fazla_jack_ve_jill__minik_masal"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Abraca-Cabbage / Furry Godmother",
+      "diziid": "goldi",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/2/abraca-lahana__tuylu_peri"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Birthday Chair / Big Bear",
+      "diziid": "goldi",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/3/dogum_gunu_sandalyesi__buyuk_ayi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Fee Fi Fo Shoe/Little Gold Riding Hood",
+      "diziid": "goldi",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/4/devin_ayakkabisi__kucuk_altin_baslikli_kiz"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Bear's Red Shoes/Goose Sitters",
+      "diziid": "goldi",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/5/ayicikin_kirmizi_pabuclari__kaz_bakicilari"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Moon Jump / Big Good Wolf",
+      "diziid": "goldi",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/6/ay_atlayicilari__buyuk_iyi_kurt"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Pinocchio-itis / The Clubhouse That Jack Built",
+      "diziid": "goldi",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/7/pinokyo_hastaligi___jackin_insa_ettigi_kulup_evi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Egg/Golden Kickball",
+      "diziid": "goldi",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/8/yumurta__altin_top"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Thumbelina's Wild Ride / Big Bad Houseguest",
+      "diziid": "goldi",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/9/thumbelinanin_cilgin_yolculugu__buyuk_kotu_misafir"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Suddenly Spots/A Fish Tale",
+      "diziid": "goldi",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/10/ani_benekler__bir_balik_masali"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "All the King's Men/Cheshire Goldie",
+      "diziid": "goldi",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/11/kralin_adamlari__cheshire_goldisi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Troll Tamer/The Froggiest Prince of All",
+      "diziid": "goldi",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/12/trol_terbiyecisi__en_kurbaga_gibi_kurbaga_prens"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Bear Who Would Be King / When the Gnome Is Away",
+      "diziid": "goldi",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/13/kral_olan_ayicik__cuce_uzaktayken"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Training of the Broom/Hickory Dickory Brian",
+      "diziid": "goldi",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/14/supurge_egitimi__tiki_tiki_tak_brian"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Giant Among Us/Fetch Skippy Fetch",
+      "diziid": "goldi",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/15/aramizdaki_dev__getir_skippy_getir"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "A Charming Day Off / The Sunny Side Up Club",
+      "diziid": "goldi",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/16/beyaz_atlinin_tatil_gunu__yagda_yumurta_kulubu"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Tooth About Jack and Jill/Pig Problems",
+      "diziid": "goldi",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/17/jack_ve_jill_ile_ilgili_dis__domuzcuk_sorunlari"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Topsy Turvy Tea Party/Old Knotty",
+      "diziid": "goldi",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/18/allak_bullak_cay_partisi___ihtiyar_budak"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Fairy Fly Adventure/Three's a Crowd",
+      "diziid": "goldi",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/19/peri_sinegi_macerasi__ucuncuye_laf_dusmez"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Sing Froggy Sing/Forget Me Lots",
+      "diziid": "goldi",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/20/soyle_kurbaga%2C_sarki_soyle__beni_cokca_unut"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Do You Know the Muffin Kids/Jack of All Trades",
+      "diziid": "goldi",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/21/kek_cocuklarini_tanir_misiniz__on_parmaginda_on_marifet"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "When Goldie Met Bear",
+      "diziid": "goldi",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/22/goldi_ile_ayicik_tanisinca"
+    },
+    {
+      "season": 1,
+      "episode": 23,
+      "title": "Goldie's Great Adventure / Tagalong Troll",
+      "diziid": "goldi",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/23/goldinin_buyuk_macerasi__pesini_birakmayan_trol"
+    },
+    {
+      "season": 2,
+      "episode": 24,
+      "title": "If the Slipper Fits / A Royal Cheese Mystery",
+      "diziid": "goldi",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/24/terlik_olursa__kraliyet_peyniri_gizemi"
+    },
+    {
+      "season": 3,
+      "episode": 25,
+      "title": "Little Coach Horner / A Whale of a Tale",
+      "diziid": "goldi",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/25/kucuk_antrenor_horner__bir_balina_masali"
+    },
+    {
+      "season": 4,
+      "episode": 26,
+      "title": "Pops Goes the Weasel/Fairy Godmother Gets Grounded",
+      "diziid": "goldi",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/26/dolandirici_surprizi__peri_anne_cezali"
+    },
+    {
+      "season": 5,
+      "episode": 27,
+      "title": "Think or Swim/Hark! A Snark!",
+      "diziid": "goldi",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/27/dusun_ya_da_yuz__dinle%21_bir_snark%21"
+    },
+    {
+      "season": 6,
+      "episode": 28,
+      "title": "Gnome Family Reunion/Adorable Norm",
+      "diziid": "goldi",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/28/cuce_aile_bulusmasi__sevimli_norm"
+    },
+    {
+      "season": 7,
+      "episode": 29,
+      "title": "Big Bad's Secret/Sprites on the Loose",
+      "diziid": "goldi",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/29/buyuk_kotu_kurtun_sirri__periler_firarda"
+    },
+    {
+      "season": 8,
+      "episode": 30,
+      "title": "Winterchime Day",
+      "diziid": "goldi",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/30/kis_cani_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 31,
+      "title": "The Fairy Tale Forest Quartet / Bear's Hair Don't",
+      "diziid": "goldi",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/31/masal_ormani_dortlusu__ayicigin_zorlu_saci"
+    },
+    {
+      "season": 10,
+      "episode": 32,
+      "title": "Wolf on Drums / Goldie's Do-Over Day",
+      "diziid": "goldi",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/32/davulda_kurt__goldinin_tekrar_gunu"
+    },
+    {
+      "season": 11,
+      "episode": 33,
+      "title": "Gingerbread Jimmy's Fantastical Forest/Bunny Trouble",
+      "diziid": "goldi",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/33/zencefilli_corek_jimmynin_fantastik_ormani__tavsan_belasi"
+    },
+    {
+      "season": 12,
+      "episode": 34,
+      "title": "Humpty's Big Hike/Mary, Mary",
+      "diziid": "goldi",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/34/rafadanin_buyuk_yuruyusu__mary%2C_mary"
+    },
+    {
+      "season": 13,
+      "episode": 35,
+      "title": "Any Wish You Wish / Vote for Goldie!",
+      "diziid": "goldi",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/35/dile_benden_ne_dilersen__oylar_goldiye"
+    },
+    {
+      "season": 14,
+      "episode": 36,
+      "title": "The Other Phil/Humpty Cracks the Case",
+      "diziid": "goldi",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/36/diger_phil__rafadan%2C_gizemi_cozer"
+    },
+    {
+      "season": 15,
+      "episode": 37,
+      "title": "Horsin' Around/Pigs Without Twigs",
+      "diziid": "goldi",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/37/aylak_aylak_dolasan_at__twigssiz_domuzlar"
+    },
+    {
+      "season": 16,
+      "episode": 38,
+      "title": "Mother Goose on the Loose/Billy the Kid",
+      "diziid": "goldi",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/38/anne_kaz_firarda__kaba_saba_billy"
+    },
+    {
+      "season": 17,
+      "episode": 39,
+      "title": "Crystal Clear / The Humungous Harvest of Hugeness",
+      "diziid": "goldi",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/39/kristal_netliginde__devasa_buyuklukte_hasat"
+    },
+    {
+      "season": 18,
+      "episode": 40,
+      "title": "Team Tiny/The Wolf Who Cried Wolf",
+      "diziid": "goldi",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/40/minik_takim__yalanci_cobani_oynayan_kurt"
+    },
+    {
+      "season": 19,
+      "episode": 41,
+      "title": "Goin' Overboard/All Hail the Conquering Bear",
+      "diziid": "goldi",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/41/denize_dusmek__fatih_ayicika_selamlar_olsun"
+    },
+    {
+      "season": 20,
+      "episode": 42,
+      "title": "Mr. Pail/Goldie Rides a Bike",
+      "diziid": "goldi",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/42/bay_kova__goldi_bisiklet_suruyor"
+    },
+    {
+      "season": 21,
+      "episode": 43,
+      "title": "Â¡Viva Don Huevo! / The Magic Handcuffs",
+      "diziid": "goldi",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/43/%C2%A1viva_don_huevo%21__sihirli_kelepceler"
+    },
+    {
+      "season": 22,
+      "episode": 44,
+      "title": "Tess the Giantess / Red Moves Away",
+      "diziid": "goldi",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/44/dev_tess__kirmizi_baslikli_gidiyor"
+    },
+    {
+      "season": 23,
+      "episode": 45,
+      "title": "Witch Cat is Which? / Trick or Treat Trouble",
+      "diziid": "goldi",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/goldi/goldi_ve_ayicik/45/cadi_kedi_hangisi__seker_toplama_sorunu"
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "id": "fur",
+  "title": "furiki",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/FURPoster.avif",
+  "channel": "Disney XD",
+  "genres": [
+    "Spor",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Need for Speed",
+      "diziid": "fur",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/1/hiz_yapma_ihtiyaci"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "A Tight Spot",
+      "diziid": "fur",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/2/darda_kalmak"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Andre Furiki: Sloth Genius",
+      "diziid": "fur",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/3/dahi_tembel_hayvan"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Monkey Wrench in the Works",
+      "diziid": "fur",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/4/ingiliz_anahtari_askina"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Demolition Cutie",
+      "diziid": "fur",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/5/imha_guzeli"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Peanutland",
+      "diziid": "fur",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/6/fistik_diyari"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Musical Muffler Mystery",
+      "diziid": "fur",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/7/muzikli_susturucunun_sirri"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Mama at the Wheel",
+      "diziid": "fur",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/8/annem_direksiyonda"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Burrito Hotel",
+      "diziid": "fur",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/9/burrito_oteli"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Brenda Gets the Boot",
+      "diziid": "fur",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/10/brenda_baglandi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Mission Piston",
+      "diziid": "fur",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/11/piston_gorevi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Chobado Loses His Head",
+      "diziid": "fur",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/12/chobadonun_kaski"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Brenda's Got Soul",
+      "diziid": "fur",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/13/brendanin_ruhu_var"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "15 Minutes of Furiki",
+      "diziid": "fur",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/14/furikinin_15_dakikasi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Fun and Thunder",
+      "diziid": "fur",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/15/eglence_ve_thunder"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Chasing Waterfall",
+      "diziid": "fur",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/16/selalenin_pesinde"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Furiki Day",
+      "diziid": "fur",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/17/furiki_gunu"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Carnivore Sleepover",
+      "diziid": "fur",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/18/etoburla_bir_gece"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Dude, Don't Scratch my Car",
+      "diziid": "fur",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/19/dostum%2C_arabami_cizme"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Moles of Anarchy",
+      "diziid": "fur",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/20/serseri_kostebekler"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Furiki on Ice",
+      "diziid": "fur",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/21/furiki_buz_ustunde"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Party Animals",
+      "diziid": "fur",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/22/parti_hayvanlari"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Bathtime for Brenda",
+      "diziid": "fur",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/23/brendanin_yikanma_zamani"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Teatime Terror",
+      "diziid": "fur",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/24/cay_vakti_teroru"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Hiccups and the Headless Racer",
+      "diziid": "fur",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/25/hickirik_ve_bassiz_yarisci"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Gordon Who?",
+      "diziid": "fur",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/26/gordon_kim"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Taxi Furiki",
+      "diziid": "fur",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/27/taksi_furiki"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Garage Games",
+      "diziid": "fur",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/28/garaj_oyunlari"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Furiki Family Vacation",
+      "diziid": "fur",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/29/furiki_aile_tatili"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Furiki Fashion Freakout",
+      "diziid": "fur",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/30/furiki_moda_cilginligi"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Santa Sloth",
+      "diziid": "fur",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/31/tembel_baba"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Stuck in the Truck",
+      "diziid": "fur",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/32/kamyonda_kalanlar"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Excarlibur",
+      "diziid": "fur",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/33/excarlibur"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Tacos of Wrath",
+      "diziid": "fur",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/34/gazap_tacolari"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Andre the Sloth Burglar",
+      "diziid": "fur",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/35/tembel_hirsiz_andre"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Wheels of Glory",
+      "diziid": "fur",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/36/sohret_tekerlekleri"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Me and Rocket McGoo",
+      "diziid": "fur",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/37/roket_magoo_ve_ben"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Time Bamboozler",
+      "diziid": "fur",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/38/zaman_makinesi"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Haunted Hotrod",
+      "diziid": "fur",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/39/lanetli_araba"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Safety Tips with Andre Furiki",
+      "diziid": "fur",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/40/andre_furiki_ile_guvenlik_onerileri"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Attack of the Killer Tires",
+      "diziid": "fur",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/41/katil_tekerlerin_saldirisi"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Secrets and Snails",
+      "diziid": "fur",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/42/sirlar_ve_solucanlar"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Thunderstruck",
+      "diziid": "fur",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/43/yildirim_carpmasi"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Sponsored by Sloth",
+      "diziid": "fur",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/44/tembel_hayvan_sponsorlugunda"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Star-Crossed Racers",
+      "diziid": "fur",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/45/sanssiz_yariscilar"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Melon Armageddon",
+      "diziid": "fur",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/46/karpuz_kiyameti"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Hello Wheeloville, Anybody Home?",
+      "diziid": "fur",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/47/merhaba_wheeloville%2C_evde_kimse_var_mi"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Too Many Kooks",
+      "diziid": "fur",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/48/pek_bir_piskin"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Furry Road",
+      "diziid": "fur",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/49/ofke_yolu"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Chillaxation Overdrive",
+      "diziid": "fur",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/50/rahatlama_sinirini_asmak"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Chillax Chobado",
+      "diziid": "fur",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/51/rahatla_chobado"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Andre's Dead End",
+      "diziid": "fur",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/fur/furiki/52/andrenin_cikmaz_sokagi"
+    }
+  ]
+}

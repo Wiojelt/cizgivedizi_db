@@ -1,0 +1,36 @@
+{
+  "id": "hyi",
+  "title": "hayalimdeki iÅŸ",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/HYIPoster.avif",
+  "channel": "Da Vinci",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Hello",
+      "diziid": "hyi",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/hyi/hayalimdeki_is/1/bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Montezuma",
+      "diziid": "hyi",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/hyi/hayalimdeki_is/2/bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Hunters",
+      "diziid": "hyi",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/hyi/hayalimdeki_is/3/bolum_3"
+    }
+  ]
+}

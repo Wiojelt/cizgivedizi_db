@@ -1,0 +1,100 @@
+{
+  "id": "dinovya",
+  "title": "dino ve yumurta avÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/DINOYAPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Egg Hunters Follow Prints / Visit the Market / Visit a Moving Island",
+      "diziid": "dinovya",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/dinovya/dino_ve_yumurta_avi/1/yumurta_avcilari_iz_pesinde__carsiya_ziyaret__hareket_eden_adaya_ziyaret"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Egg Hunters Hop on Clouds / Climb the Treetop / Jump on Geysers",
+      "diziid": "dinovya",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/dinovya/dino_ve_yumurta_avi/2/yumurta_avcilari_bulutlarin_uzerinde__agaca_tirmaniyor__gayzerden_atliyor"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Egg Hunters Climb a Flower / On the Moving Island / Climb the Treetops",
+      "diziid": "dinovya",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/dinovya/dino_ve_yumurta_avi/3/yumurta_avcilari_cicege_tirmaniyor__hareket_eden_adada__agaclara_tirmaniyor"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Egg Hunters Search the Swamp / Jump on Geysers / Search the Ice Cave",
+      "diziid": "dinovya",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/dinovya/dino_ve_yumurta_avi/4/yumurta_avcilari_batakligi_ariyor__gayzerden_atliyor__buz_magarasini_ariyor"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Egg Hunters Skip Through the Clouds / Visit the Island / Search a Cave",
+      "diziid": "dinovya",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/dinovya/dino_ve_yumurta_avi/5/yumurta_avcilari_bulutlarin_arasindan_geciyor__adayi_ziyaret_ediyor__magarayi_ariyor"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Egg Hunters Search the Market / Jump on Geysers / Search a Cave",
+      "diziid": "dinovya",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/dinovya/dino_ve_yumurta_avi/6/yumurta_avcilari_carsiyi_ariyor__gayzerlerden_atliyor__magarayi_ariyor"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Egg Hunters Climb a Flower / Hop on Clouds / Search the Moving Island",
+      "diziid": "dinovya",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/dinovya/dino_ve_yumurta_avi/7/yumurta_avcilari_cicege_tirmaniyor__bulutlarin_uzerinde__hareket_eden_adayi_ariyor"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Egg Hunters Dive Into the Ocean / Play with Mushrooms / Hop on Clouds",
+      "diziid": "dinovya",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/dinovya/dino_ve_yumurta_avi/8/yumurta_avcilari_okyanusa_daliyor__mantarlarla_oynuyor__bulutlarin_uzerinde"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Egg Hunters Jump on Geysers / Climb the Treetops / Dive in the Ocean",
+      "diziid": "dinovya",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/dinovya/dino_ve_yumurta_avi/9/yumurta_avcilari_gayzerden_atliyor__agaclara_tirmaniyor__okyanusa_daliyor"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Egg Hunters Follow Prints / Climb the Treetops / Dive in the Ocean",
+      "diziid": "dinovya",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/dinovya/dino_ve_yumurta_avi/10/yumurta_avcilari_iz_pesinde__agaclara_tirmaniyor__okyanusa_daliyor"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Egg Hunters Jump on Geysers / Search the Island / Climb the Flower",
+      "diziid": "dinovya",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/dinovya/dino_ve_yumurta_avi/11/yumurta_avcilari_gayzerden_atliyor__adayi_ariyor__cicege_tirmaniyor"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "lees",
+  "title": "lego elves: elvendale'in sÄ±rlarÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/LEESPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Uninvited Guest",
+      "diziid": "lees",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/lees/lego_elves%3A_elvendalein_sirlari/1/davetsiz_misafir"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Goblin King",
+      "diziid": "lees",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/lees/lego_elves%3A_elvendalein_sirlari/2/cin_krali"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Watcher",
+      "diziid": "lees",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/lees/lego_elves%3A_elvendalein_sirlari/3/gozcu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Worst Prisoner Ever",
+      "diziid": "lees",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/lees/lego_elves%3A_elvendalein_sirlari/4/gelmis_gecmis_en_kotu_tutsak"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Shadow Walker",
+      "diziid": "lees",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/lees/lego_elves%3A_elvendalein_sirlari/5/golge_tehlikesi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Secrets",
+      "diziid": "lees",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/lees/lego_elves%3A_elvendalein_sirlari/6/sirlar"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Betrayals",
+      "diziid": "lees",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/lees/lego_elves%3A_elvendalein_sirlari/7/ihanetler"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Sacrifice",
+      "diziid": "lees",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/lees/lego_elves%3A_elvendalein_sirlari/8/fedakarlik"
+    }
+  ]
+}

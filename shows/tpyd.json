@@ -1,0 +1,693 @@
+{
+  "id": "tpyd",
+  "title": "tyler perry's young dylan",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/TPYDPoster.avif",
+  "channel": "Nickelodeon",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Imaginary Friends",
+      "diziid": "tpyd",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/1/hayali_arkadaslar"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Chasing That Dream",
+      "diziid": "tpyd",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/2/o_ruyanin_pesinde"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Street Smart",
+      "diziid": "tpyd",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/3/hayat_okulu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Plain Faces",
+      "diziid": "tpyd",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/4/duz_suratlar"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Enforcer",
+      "diziid": "tpyd",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/5/yurutucu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Speechless",
+      "diziid": "tpyd",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/6/soyleyecek_kelime_yok"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Flowers",
+      "diziid": "tpyd",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/7/cicekler"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "In Too Deep",
+      "diziid": "tpyd",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/8/cok_derinlerde"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Mother May I",
+      "diziid": "tpyd",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/9/anne_iznin_var_mi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Teachable Moments",
+      "diziid": "tpyd",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/10/ogreten_anlar"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Natural Beauty",
+      "diziid": "tpyd",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/11/dogal_guzellik"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Special Delivery",
+      "diziid": "tpyd",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/12/ozel_teslimat"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Rap Game",
+      "diziid": "tpyd",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/13/rap_oyunu"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Gift",
+      "diziid": "tpyd",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/14/hediye"
+    },
+    {
+      "season": 1,
+      "episode": 15,
+      "title": "Food for the Soul",
+      "diziid": "tpyd",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/15/ruh_icin_yiyecek"
+    },
+    {
+      "season": 2,
+      "episode": 16,
+      "title": "My Fair Charlie",
+      "diziid": "tpyd",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/16/benim_adil_charliem"
+    },
+    {
+      "season": 3,
+      "episode": 17,
+      "title": "A Tale of Two Rappers",
+      "diziid": "tpyd",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/17/iki_rapcinin_hikayesi"
+    },
+    {
+      "season": 4,
+      "episode": 18,
+      "title": "Einsteins",
+      "diziid": "tpyd",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/18/einsteinlar"
+    },
+    {
+      "season": 5,
+      "episode": 19,
+      "title": "Who Done Done It?",
+      "diziid": "tpyd",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/19/kim_yapti"
+    },
+    {
+      "season": 6,
+      "episode": 20,
+      "title": "Partners in Rhyme",
+      "diziid": "tpyd",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/20/kafiye_ortaklari"
+    },
+    {
+      "season": 7,
+      "episode": 21,
+      "title": "Coppin' Magnitudes",
+      "diziid": "tpyd",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/21/ayakkabi_pesinde"
+    },
+    {
+      "season": 8,
+      "episode": 22,
+      "title": "Oceans 11am",
+      "diziid": "tpyd",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/22/oceans_11.00"
+    },
+    {
+      "season": 9,
+      "episode": 23,
+      "title": "Cruisin' for a Bruisin'",
+      "diziid": "tpyd",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/23/gizemli_scooter"
+    },
+    {
+      "season": 10,
+      "episode": 24,
+      "title": "Squirrel Scouts and Seaweed Masks",
+      "diziid": "tpyd",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/24/sincap_izciler_ve_yosun_maskeleri"
+    },
+    {
+      "season": 11,
+      "episode": 25,
+      "title": "Charlie the Bad Boy",
+      "diziid": "tpyd",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/25/kotu_cocuk_charlie"
+    },
+    {
+      "season": 12,
+      "episode": 26,
+      "title": "Dylan and Rebecca vs. Alcatraz",
+      "diziid": "tpyd",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/26/dylan_ve_rebecca_alcatraza_karsi"
+    },
+    {
+      "season": 13,
+      "episode": 27,
+      "title": "So Many Lessons",
+      "diziid": "tpyd",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/27/cok_fazla_ders"
+    },
+    {
+      "season": 14,
+      "episode": 28,
+      "title": "Haunted Halls",
+      "diziid": "tpyd",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/28/lanetli_koridor"
+    },
+    {
+      "season": 15,
+      "episode": 29,
+      "title": "Dylan vs. Mystery X",
+      "diziid": "tpyd",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/29/dylan_mystery_xe_karsi"
+    },
+    {
+      "season": 16,
+      "episode": 30,
+      "title": "Bunk Hate",
+      "diziid": "tpyd",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/30/ranza_nefreti"
+    },
+    {
+      "season": 17,
+      "episode": 31,
+      "title": "Snitches Get Stitches",
+      "diziid": "tpyd",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/31/ispiyonculari_kimse_sevmez"
+    },
+    {
+      "season": 18,
+      "episode": 32,
+      "title": "Taking Credit",
+      "diziid": "tpyd",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/32/kredi_sorunu"
+    },
+    {
+      "season": 19,
+      "episode": 33,
+      "title": "Waiting for Santa",
+      "diziid": "tpyd",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/33/noel_babayi_beklerken"
+    },
+    {
+      "season": 20,
+      "episode": 34,
+      "title": "Rap Dreams Do Come True",
+      "diziid": "tpyd",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/34/rap_hayalleri_gercek_oluyor"
+    },
+    {
+      "season": 1,
+      "episode": 35,
+      "title": "Friday the Juneteenth",
+      "diziid": "tpyd",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/35/19_haziran_cuma"
+    },
+    {
+      "season": 2,
+      "episode": 36,
+      "title": "How to Catch a Scammer",
+      "diziid": "tpyd",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/36/bir_dolandirici_nasil_yakalanir"
+    },
+    {
+      "season": 3,
+      "episode": 37,
+      "title": "Dylan Blows Up",
+      "diziid": "tpyd",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/37/dylan_havalara_ucar"
+    },
+    {
+      "season": 4,
+      "episode": 38,
+      "title": "Dylan & Charlie's Day Off",
+      "diziid": "tpyd",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/38/dylan_ve_charlienin_izin_gunu"
+    },
+    {
+      "season": 5,
+      "episode": 39,
+      "title": "The Gift Grift",
+      "diziid": "tpyd",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/39/hediye_hirsizlari"
+    },
+    {
+      "season": 6,
+      "episode": 40,
+      "title": "Power Trippin'",
+      "diziid": "tpyd",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/40/guc_gosterisi"
+    },
+    {
+      "season": 7,
+      "episode": 41,
+      "title": "Fame, Blame & Video Games",
+      "diziid": "tpyd",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/41/sohret%2C_suclama_ve_video_oyunlari"
+    },
+    {
+      "season": 8,
+      "episode": 42,
+      "title": "Saturday School",
+      "diziid": "tpyd",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/42/cumartesi_okulu"
+    },
+    {
+      "season": 9,
+      "episode": 43,
+      "title": "On the Hunt for Fun",
+      "diziid": "tpyd",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/43/eglence_pesinde"
+    },
+    {
+      "season": 10,
+      "episode": 44,
+      "title": "The Chi Ones",
+      "diziid": "tpyd",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/44/chi_olanlar"
+    },
+    {
+      "season": 11,
+      "episode": 45,
+      "title": "Renaissance Man",
+      "diziid": "tpyd",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/45/ronesans_insani"
+    },
+    {
+      "season": 12,
+      "episode": 46,
+      "title": "Reality Bites",
+      "diziid": "tpyd",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/46/gercekler_ortada"
+    },
+    {
+      "season": 13,
+      "episode": 47,
+      "title": "A Corsage With Your Sabotage",
+      "diziid": "tpyd",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/47/sabotajinizla_korsaj"
+    },
+    {
+      "season": 14,
+      "episode": 48,
+      "title": "Curse this Verse",
+      "diziid": "tpyd",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/48/lanet_dizeler"
+    },
+    {
+      "season": 15,
+      "episode": 49,
+      "title": "Principal Party Pooper",
+      "diziid": "tpyd",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/49/oyunbozan_amir"
+    },
+    {
+      "season": 16,
+      "episode": 50,
+      "title": "Burning After Reading",
+      "diziid": "tpyd",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/50/okuduktan_sonra_yak"
+    },
+    {
+      "season": 17,
+      "episode": 51,
+      "title": "Who's the Boss",
+      "diziid": "tpyd",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/51/patron_kim"
+    },
+    {
+      "season": 18,
+      "episode": 52,
+      "title": "The GOAT",
+      "diziid": "tpyd",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/52/keci"
+    },
+    {
+      "season": 19,
+      "episode": 53,
+      "title": "Between a Roach and a Hard Place",
+      "diziid": "tpyd",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/53/kotu_bir_yer_ile_zor_bir_yer_arasinda"
+    },
+    {
+      "season": 1,
+      "episode": 54,
+      "title": "Build it and They will Flow",
+      "diziid": "tpyd",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/54/insa_edin_takip_etsinler"
+    },
+    {
+      "season": 2,
+      "episode": 55,
+      "title": "Dylan's Villain",
+      "diziid": "tpyd",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/55/dylanin_kotusu"
+    },
+    {
+      "season": 3,
+      "episode": 56,
+      "title": "No Camping, No Problem",
+      "diziid": "tpyd",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/56/kamp_yok_sorun_yok"
+    },
+    {
+      "season": 4,
+      "episode": 57,
+      "title": "Wilson Vs. Wilson",
+      "diziid": "tpyd",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/57/wilson_wilsona_karsi"
+    },
+    {
+      "season": 5,
+      "episode": 58,
+      "title": "Artificial Intelligence",
+      "diziid": "tpyd",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/58/yapay_zeka"
+    },
+    {
+      "season": 6,
+      "episode": 59,
+      "title": "So Fresh, So Clean",
+      "diziid": "tpyd",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/59/cok_taze%2C_cok_temiz"
+    },
+    {
+      "season": 7,
+      "episode": 60,
+      "title": "Dancing with the Sons",
+      "diziid": "tpyd",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/60/evlatlarla_dans"
+    },
+    {
+      "season": 8,
+      "episode": 61,
+      "title": "The Wilson Family",
+      "diziid": "tpyd",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/61/wilson_ailesi"
+    },
+    {
+      "season": 9,
+      "episode": 62,
+      "title": "Best Friends For-Never",
+      "diziid": "tpyd",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/62/eski_dosttan_dusman"
+    },
+    {
+      "season": 10,
+      "episode": 63,
+      "title": "Picture Perfect",
+      "diziid": "tpyd",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/63/mukemmel_aile_fotografi"
+    },
+    {
+      "season": 11,
+      "episode": 64,
+      "title": "Deliver Us From Viola",
+      "diziid": "tpyd",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/64/bizi_violadan_kurtar"
+    },
+    {
+      "season": 12,
+      "episode": 65,
+      "title": "Hot Takes",
+      "diziid": "tpyd",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/65/aci_gercekler"
+    },
+    {
+      "season": 13,
+      "episode": 66,
+      "title": "Model Behavior",
+      "diziid": "tpyd",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/66/manken_edasi"
+    },
+    {
+      "season": 14,
+      "episode": 67,
+      "title": "Boyz To Men",
+      "diziid": "tpyd",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/67/koca_adam_olmak"
+    },
+    {
+      "season": 15,
+      "episode": 68,
+      "title": "What's Poppin'",
+      "diziid": "tpyd",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/68/bomba_gibi"
+    },
+    {
+      "season": 16,
+      "episode": 69,
+      "title": "A Very Delivery Van Christmas",
+      "diziid": "tpyd",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/69/noel_teslimati"
+    },
+    {
+      "season": 17,
+      "episode": 70,
+      "title": "Sleepover Showdown",
+      "diziid": "tpyd",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/70/pijama_partisi_savasi"
+    },
+    {
+      "season": 18,
+      "episode": 71,
+      "title": "Mo Viral, Mo Problems",
+      "diziid": "tpyd",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/71/virallik_basi_bela"
+    },
+    {
+      "season": 19,
+      "episode": 72,
+      "title": "Rhyme It and They Will Come",
+      "diziid": "tpyd",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/72/kafiye_yap_gelsinler"
+    },
+    {
+      "season": 1,
+      "episode": 73,
+      "title": "The Wrap Battle",
+      "diziid": "tpyd",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/73/buyuk_paket_savasi"
+    },
+    {
+      "season": 2,
+      "episode": 74,
+      "title": "Red Tails",
+      "diziid": "tpyd",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/74/ucak_korkusu"
+    },
+    {
+      "season": 3,
+      "episode": 75,
+      "title": "Sharing Is Caring",
+      "diziid": "tpyd",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/75/paylasmak_guzeldir"
+    },
+    {
+      "season": 4,
+      "episode": 76,
+      "title": "Yours, Mine, and Also Mine",
+      "diziid": "tpyd",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/76/senin%2C_benim%2C_yine_benim"
+    },
+    {
+      "season": 5,
+      "episode": 77,
+      "title": "Really Young Nova",
+      "diziid": "tpyd",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/77/kucuk_kiz_nova"
+    },
+    {
+      "season": 6,
+      "episode": 78,
+      "title": "Trippin'",
+      "diziid": "tpyd",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/78/okul_gezisi"
+    },
+    {
+      "season": 7,
+      "episode": 79,
+      "title": "The New Kid",
+      "diziid": "tpyd",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/79/yeni_cocuk"
+    },
+    {
+      "season": 8,
+      "episode": 80,
+      "title": "Star-Crossed Lockers",
+      "diziid": "tpyd",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/80/karsilikli_dolaplar"
+    },
+    {
+      "season": 9,
+      "episode": 81,
+      "title": "Keep It on the DL",
+      "diziid": "tpyd",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/81/sir_olarak_sakla"
+    },
+    {
+      "season": 10,
+      "episode": 82,
+      "title": "Betting on Booder",
+      "diziid": "tpyd",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/82/booderi_kandirmak"
+    },
+    {
+      "season": 11,
+      "episode": 83,
+      "title": "Crush Groove",
+      "diziid": "tpyd",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/83/komik_dayi"
+    },
+    {
+      "season": 12,
+      "episode": 84,
+      "title": "Dream Team",
+      "diziid": "tpyd",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/84/harika_takim"
+    },
+    {
+      "season": 13,
+      "episode": 85,
+      "title": "Funcle",
+      "diziid": "tpyd",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/tpyd/tyler_perrys_young_dylan/85/askin_ritmi"
+    }
+  ]
+}

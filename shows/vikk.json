@@ -1,0 +1,637 @@
+{
+  "id": "vikk",
+  "title": "vikingler (klasik)",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/VIKKPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Macera",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Race (aka The Contest)",
+      "diziid": "vikk",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/1/yaris"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Trap",
+      "diziid": "vikk",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/2/tuzak"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Imprisoned",
+      "diziid": "vikk",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/3/kacis"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Sleepless Night",
+      "diziid": "vikk",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/4/oyuk_dis"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Sven the Terrible",
+      "diziid": "vikk",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/5/korkunc_sven"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Tax Dodgers",
+      "diziid": "vikk",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/6/aldatildi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Wolfhunters",
+      "diziid": "vikk",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/7/19_kurt"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Sven Strikes Back",
+      "diziid": "vikk",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/8/saldiri"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Land of Seals",
+      "diziid": "vikk",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/9/gull_adasinda"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Promise",
+      "diziid": "vikk",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/10/soz"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Red-eyed Giants",
+      "diziid": "vikk",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/11/kizil_gozlu_devler"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Rescue",
+      "diziid": "vikk",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/12/kurtulus"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Enchanted Sword",
+      "diziid": "vikk",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/13/vicky_bir_arkadas_kazaniyor"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Magnificent Castle",
+      "diziid": "vikk",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/14/kaleyi_fethetmek"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Practical Jokers",
+      "diziid": "vikk",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/15/dar_kacis"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Water Warfare",
+      "diziid": "vikk",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/16/su_borulari"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Fighting Fire",
+      "diziid": "vikk",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/17/dunyanin_ilk_itfaiyecileri"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Winged Messenger",
+      "diziid": "vikk",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/18/haberci_guvercin"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Airborn",
+      "diziid": "vikk",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/19/ucan_gemi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Overstuffed Monarch",
+      "diziid": "vikk",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/20/sisman_kral"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "A Blow for Freedom",
+      "diziid": "vikk",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/21/kotu_kadin"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Halvar's Secret Treasure",
+      "diziid": "vikk",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/22/hazine_sandigi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "A Fishy Story",
+      "diziid": "vikk",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/23/kilicbaliginin_intikami"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Faxe Finds a Wife",
+      "diziid": "vikk",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/24/faksesin_gelin_almasi"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "The Phantom Ship",
+      "diziid": "vikk",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/25/hayalet_gemi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Frozen Assets",
+      "diziid": "vikk",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/26/yesil_ulkenin_hazinesi"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Mother Whale and Baby Whale",
+      "diziid": "vikk",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/27/anne_balina_ve_yavru_balina"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Carl the Seagull Versus Halvar the Viking",
+      "diziid": "vikk",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/28/marti_carl_ve_kral_halvar_arasindaki_mucadele"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "The Greek Labyrinth",
+      "diziid": "vikk",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/29/yunan_labirenti"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "The Olympic Games",
+      "diziid": "vikk",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/30/olimpiyat_oyunlari"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "The Danish Adventure",
+      "diziid": "vikk",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/31/danimarka_macerasi"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Freeing the Woman of Flake",
+      "diziid": "vikk",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/32/flakein_kadinlarini_kurtarmak"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "The Man from the North",
+      "diziid": "vikk",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/33/kuzeyden_gelen_adam"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "The Stone of Contention",
+      "diziid": "vikk",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/34/tartisma_tasi"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "High Flying Vicky",
+      "diziid": "vikk",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/35/yuksek_ucan_vicky"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "The Reunion",
+      "diziid": "vikk",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/36/bulusma"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Exploring New Land",
+      "diziid": "vikk",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/37/yeni_topraklari_kesfetmek"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "The Winca Indian Treasure",
+      "diziid": "vikk",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/38/winca_kabilesinin_hazinesi"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "The Indians, the Vikings, and Snoppe",
+      "diziid": "vikk",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/39/hindistanlilar%2C_vikingler_ve_snoppe"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "Snoppe's Revenge",
+      "diziid": "vikk",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/40/snoppenin_intikami"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "Snoppe's Last Stand",
+      "diziid": "vikk",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/41/snopeenin_son_durusu"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Circus Comes to Flake",
+      "diziid": "vikk",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/42/sirk_flakee_geliyor"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Battle of the Strawman",
+      "diziid": "vikk",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/43/kamisadam_savasi"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "The Woman of Flake Fight Back",
+      "diziid": "vikk",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/44/flakein_kadinlari_karsi_koyuyor"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "The Vikings to the Rescue",
+      "diziid": "vikk",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/45/vikingler_kurtariyor"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "Rescue in Bulgaria",
+      "diziid": "vikk",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/46/bulgaristanda_kurtarma"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "Bulldozer Attacks",
+      "diziid": "vikk",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/47/bulldozer_saldirilari"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "Bulldozer Tries Again",
+      "diziid": "vikk",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/48/bulldozer_tekrar_deniyor"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "The Final Battle",
+      "diziid": "vikk",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/49/son_savas"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "The Eskimo Adventure",
+      "diziid": "vikk",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/50/eskimo_macerasi"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "Vicky Invents the Windmill",
+      "diziid": "vikk",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/51/vicky_ruzgar_gulunu_icat_ediyor"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "Voyage to a Volcanic Island",
+      "diziid": "vikk",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/52/volkanik_bir_ada_yolculugu"
+    },
+    {
+      "season": 1,
+      "episode": 53,
+      "title": "Halvar's Fight with the Bear",
+      "diziid": "vikk",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/53/halvarin_ayiyla_dovusu"
+    },
+    {
+      "season": 2,
+      "episode": 54,
+      "title": "Father Halvar Has the Mumps",
+      "diziid": "vikk",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/54/baba_halvar_kabakulak_oluyor"
+    },
+    {
+      "season": 3,
+      "episode": 55,
+      "title": "The Bitter Will Be Bitten",
+      "diziid": "vikk",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/55/kotu_olana_kotuluk_yapilir"
+    },
+    {
+      "season": 4,
+      "episode": 56,
+      "title": "Vicky and the Horse",
+      "diziid": "vikk",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/56/vicky_ve_at"
+    },
+    {
+      "season": 5,
+      "episode": 57,
+      "title": "Ylvie on Bird Island",
+      "diziid": "vikk",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/57/kus_adasindaki_ylvie"
+    },
+    {
+      "season": 6,
+      "episode": 58,
+      "title": "Vicky and the Wolf",
+      "diziid": "vikk",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/58/vicky_ve_kurt"
+    },
+    {
+      "season": 7,
+      "episode": 59,
+      "title": "Baltac is in a Sticky Position",
+      "diziid": "vikk",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/59/baltac_zor_durumda"
+    },
+    {
+      "season": 8,
+      "episode": 60,
+      "title": "The Journey to Tarlis",
+      "diziid": "vikk",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/60/tarlise_yolculuk"
+    },
+    {
+      "season": 9,
+      "episode": 61,
+      "title": "The Two Fighting Cocks",
+      "diziid": "vikk",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/61/iki_dovus_horozu"
+    },
+    {
+      "season": 10,
+      "episode": 62,
+      "title": "Help for the Ghosts",
+      "diziid": "vikk",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/62/hayaletlere_yardim"
+    },
+    {
+      "season": 11,
+      "episode": 63,
+      "title": "We Are Really Vikings",
+      "diziid": "vikk",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/63/biz_gercekten_vikingiz"
+    },
+    {
+      "season": 12,
+      "episode": 64,
+      "title": "The Prophecy",
+      "diziid": "vikk",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/64/kehanet"
+    },
+    {
+      "season": 13,
+      "episode": 65,
+      "title": "The Golden Sword",
+      "diziid": "vikk",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/65/altin_kilic"
+    },
+    {
+      "season": 14,
+      "episode": 66,
+      "title": "Vicky's Victory",
+      "diziid": "vikk",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/66/vickynin_zaferi"
+    },
+    {
+      "season": 15,
+      "episode": 67,
+      "title": "Journey with Obstacles",
+      "diziid": "vikk",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/67/engellerle_dolu_yolculuk"
+    },
+    {
+      "season": 16,
+      "episode": 68,
+      "title": "The Fight of Tjure and Snorre",
+      "diziid": "vikk",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/68/tjure_ve_snorreun_mucadelesi"
+    },
+    {
+      "season": 17,
+      "episode": 69,
+      "title": "Who Will Be the Next Chieftain",
+      "diziid": "vikk",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/69/bir_sonraki_sef_kim_olacak"
+    },
+    {
+      "season": 18,
+      "episode": 70,
+      "title": "The Fairy-tale Teller",
+      "diziid": "vikk",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/70/ozan"
+    },
+    {
+      "season": 19,
+      "episode": 71,
+      "title": "The Secret Treasure",
+      "diziid": "vikk",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/71/gizli_hazine"
+    },
+    {
+      "season": 20,
+      "episode": 72,
+      "title": "The Cheese War",
+      "diziid": "vikk",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/72/peynir_savasi"
+    },
+    {
+      "season": 21,
+      "episode": 73,
+      "title": "Stranded",
+      "diziid": "vikk",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/73/mahsur_kalanlar"
+    },
+    {
+      "season": 22,
+      "episode": 74,
+      "title": "Baltac and the Water Pipe-line",
+      "diziid": "vikk",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/74/baltac_ve_su_borusu_hatti"
+    },
+    {
+      "season": 23,
+      "episode": 75,
+      "title": "Tjure's Wife is No Longer Game",
+      "diziid": "vikk",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/75/tjureun_karisi_artik_oyun_degil"
+    },
+    {
+      "season": 24,
+      "episode": 76,
+      "title": "Urobe's Niece",
+      "diziid": "vikk",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/76/urobeun_yegeni"
+    },
+    {
+      "season": 25,
+      "episode": 77,
+      "title": "The Banquet in Hanka",
+      "diziid": "vikk",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/77/hankadaki_ziyafet"
+    },
+    {
+      "season": 26,
+      "episode": 78,
+      "title": "Gold from Denmark",
+      "diziid": "vikk",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/vikk/vikingler_klasik/78/danimarkadan_gelen_altinlar"
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "id": "joey",
+  "title": "bizim joey",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/JOEYPoster.avif",
+  "channel": "Spacetoon",
+  "genres": [
+    "GÃ¼nlÃ¼k Hayattan",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Duo of Joey",
+      "diziid": "joey",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/1/joeynin_ikilemi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Mr. Billy's Treasure",
+      "diziid": "joey",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/2/bay_billynin_hazinesi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Mister Joey",
+      "diziid": "joey",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/3/bay_joey"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "10 out of 10",
+      "diziid": "joey",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/4/10_uzerinden_10"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Igor's Brain",
+      "diziid": "joey",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/5/igorun_beyni"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Amazing Joey",
+      "diziid": "joey",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/6/muhtesem_joey"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "title": "Stroller Wars",
+      "diziid": "joey",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/8/bebek_arabasi_yarisi"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "title": "Papazarro",
+      "diziid": "joey",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/9/okul_gazetesi"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "Big Boy Joey",
+      "diziid": "joey",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/10/agabey_joey"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "An Unexpected Dinner",
+      "diziid": "joey",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/11/beklenmedik_aksam_yemegi"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "My Super Ball",
+      "diziid": "joey",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/12/super_topum"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "Tunafish the Terrible",
+      "diziid": "joey",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/13/fena_tunafish"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "The Making of a Champion",
+      "diziid": "joey",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/14/sampiyon_kumas"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "The Candidates",
+      "diziid": "joey",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/15/adaylar"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Tooth or Consequences",
+      "diziid": "joey",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/16/disci"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "Saving Pappy",
+      "diziid": "joey",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/17/pappyyi_kurtarmak"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "The Lucky Stamp",
+      "diziid": "joey",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/18/ozel_pul"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "Friendship Day",
+      "diziid": "joey",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/19/arkadaslik_gunu"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "The Challenge",
+      "diziid": "joey",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/20/meydan_okuma"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "Coach Blanket",
+      "diziid": "joey",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/21/koc_blanket"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "The Big Star",
+      "diziid": "joey",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/22/buyuk_yildiz"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "A Good Influence",
+      "diziid": "joey",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/23/iyi_bir_etki"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "Class Photo",
+      "diziid": "joey",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/24/sinif_fotografi"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "An Awesome Film",
+      "diziid": "joey",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/25/muthis_bir_film"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "Mission: Protect Oddball",
+      "diziid": "joey",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/26/gorev%3A_olimposu_koru"
+    },
+    {
+      "season": 27,
+      "episode": 26,
+      "title": "Lost Treasure",
+      "diziid": "joey",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/27/hazine_avi"
+    },
+    {
+      "season": 29,
+      "episode": 27,
+      "title": "SOS Relax",
+      "diziid": "joey",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/29/rahatlama_gorevi"
+    },
+    {
+      "season": 30,
+      "episode": 28,
+      "title": "We're All Geniuses",
+      "diziid": "joey",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/30/hepimiz_dahiyiz"
+    },
+    {
+      "season": 31,
+      "episode": 29,
+      "title": "Surprise Surprise",
+      "diziid": "joey",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/31/surpriz"
+    },
+    {
+      "season": 33,
+      "episode": 30,
+      "title": "The New Chef",
+      "diziid": "joey",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/33/yeni_sef"
+    },
+    {
+      "season": 34,
+      "episode": 31,
+      "title": "The Best Gift Ever",
+      "diziid": "joey",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/34/en_iyi_hediye"
+    },
+    {
+      "season": 35,
+      "episode": 32,
+      "title": "The Invitation",
+      "diziid": "joey",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/joey/bizim_joey/35/davetiye"
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "id": "minioddb",
+  "title": "minibods",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MINIODDBPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "My Hero",
+      "diziid": "minioddb",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/1/kahramanim"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Jeff's Messy Guest",
+      "diziid": "minioddb",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/2/jeffin_daginik_misafiri"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Set Free the Snack",
+      "diziid": "minioddb",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/3/atistirmalik_makinesi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Party Time Pogo",
+      "diziid": "minioddb",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/4/parti_zamani_pogo"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Paint Time Trouble",
+      "diziid": "minioddb",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/5/boya_saati_sorunu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Bubbles' Bouncy Blob",
+      "diziid": "minioddb",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/6/bubblesin_ziplayan_damlasi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Fruits of Labour",
+      "diziid": "minioddb",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/7/meyve_emek_ister"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Bump in the Night",
+      "diziid": "minioddb",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/8/gece_carpmasi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Pop Goes the Bubble",
+      "diziid": "minioddb",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/9/baloncuk"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Cupcake Chaos",
+      "diziid": "minioddb",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/10/kek_kargasasi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Muddy Rescue",
+      "diziid": "minioddb",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/11/camurlu_kurtarma"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Eat Your Greens",
+      "diziid": "minioddb",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/12/yesillik_yiyin"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Winner",
+      "diziid": "minioddb",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/13/kazanan"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Ice Cream Meltdown",
+      "diziid": "minioddb",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/14/dondurma_erimesi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Football Fallout",
+      "diziid": "minioddb",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/15/futbol"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Cracked!",
+      "diziid": "minioddb",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/16/civciv"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Storytime",
+      "diziid": "minioddb",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/17/hikaye_zamani"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Pedal Power",
+      "diziid": "minioddb",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/18/pedal_gucu"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Reach for the Star",
+      "diziid": "minioddb",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/19/yildiza_ulasmak"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Teddy Bear Panic",
+      "diziid": "minioddb",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/20/oyuncak_ayi_panigi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Wait Your Turn, Lulu!",
+      "diziid": "minioddb",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/21/sirani_bekle%2C_lulu%21"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Don't Worry, Be Hoppy",
+      "diziid": "minioddb",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/22/endiselenme%2C_zipla%21"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Paint Mix Fix",
+      "diziid": "minioddb",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/23/boya_karisikligini_duzeltmek"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Fly by Night",
+      "diziid": "minioddb",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/24/gece_uc"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Lulu's Big Adventure",
+      "diziid": "minioddb",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/25/lulunun_buyuk_macerasi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Spoilsport Spider",
+      "diziid": "minioddb",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/26/orumcek"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "One, Two, Three, Boo!",
+      "diziid": "minioddb",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/27/1%2C2%2C3%2C_boo"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Pumpkin Munch Mayhem",
+      "diziid": "minioddb",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/28/balkabagi_kargasasi"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Halloween Treat Hunt",
+      "diziid": "minioddb",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/29/cadilar_bayrami_ikram_avi"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Building Block Bust-Up",
+      "diziid": "minioddb",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/30/blok"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "One Bod Band",
+      "diziid": "minioddb",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/31/muzik_grubu"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Drawing Day Disaster",
+      "diziid": "minioddb",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/32/cizim_felaketi"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Magic Show Spoiler",
+      "diziid": "minioddb",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/33/sihir_gosterisi"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Snowbod",
+      "diziid": "minioddb",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/34/karbod"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Frozen Ice Paradise",
+      "diziid": "minioddb",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/35/donmus_buz_eglencesi"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Sick Day Trick",
+      "diziid": "minioddb",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/36/hasta_numarasi"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Snowhoof",
+      "diziid": "minioddb",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/37/kar_toynagi"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Dance with Me",
+      "diziid": "minioddb",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/38/benimle_dans_et"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Too Shy for Showtime",
+      "diziid": "minioddb",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/minioddb/minibods/39/gosteri_icin_fazla_utangac"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "smiley",
+  "title": "smiley",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/ESKÄ°/dizi/resim/poster/SMILEYPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Romantik Komedi",
+    "LGBT"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "When Alex Met Bruno",
+      "diziid": "smiley",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/smiley/smiley/1/alex_ile_bruno_tanisinca"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Icarus's Wings",
+      "diziid": "smiley",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/smiley/smiley/2/ikarusun_kanatlari"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Bringing Up Baby",
+      "diziid": "smiley",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/smiley/smiley/3/tehlikeli_bebek"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Begin the Beguine",
+      "diziid": "smiley",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/smiley/smiley/4/bastan_baslamak"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "All Hearts Come Home for Christmas",
+      "diziid": "smiley",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/smiley/smiley/5/noelde_herkes_bir_araya_toplanir"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "One Degree of Separation",
+      "diziid": "smiley",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/smiley/smiley/6/ayrimin_bir_derecesi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Five Minutes Before the Countdown",
+      "diziid": "smiley",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/smiley/smiley/7/geri_sayimdan_bes_dakika_once"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Red Thread",
+      "diziid": "smiley",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/smiley/smiley/8/kirmizi_ip"
+    }
+  ]
+}

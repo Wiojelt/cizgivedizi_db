@@ -1,0 +1,142 @@
+{
+  "id": "hazbin",
+  "title": "hazbin hotel",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/HAZBPoster.avif",
+  "channel": "Prime Video",
+  "genres": [
+    "Komedi",
+    "Korku",
+    "MÃ¼zik/MÃ¼zikal"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Overture",
+      "diziid": "hazbin",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/1/giris"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Radio Killed the Video Star",
+      "diziid": "hazbin",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/2/radyo_video_yildizini_oldurdu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Scrambled Eggs",
+      "diziid": "hazbin",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/3/omlet"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Masquerade",
+      "diziid": "hazbin",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/4/maskeli_balo"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Dad Beat Dad",
+      "diziid": "hazbin",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/5/baba_babayi_dovdu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Welcome to Heaven",
+      "diziid": "hazbin",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/6/cennete_hos_geldin"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Hello Rosie!",
+      "diziid": "hazbin",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/7/merhaba_rosie%21"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Show Must Go On",
+      "diziid": "hazbin",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/8/gosteri_devam_etmeli"
+    },
+    {
+      "season": 1,
+      "episode": 9,
+      "title": "New Pentious",
+      "diziid": "hazbin",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/9/yeni_pentious"
+    },
+    {
+      "season": 2,
+      "episode": 10,
+      "title": "Storyteller",
+      "diziid": "hazbin",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/10/hikayeci"
+    },
+    {
+      "season": 3,
+      "episode": 11,
+      "title": "Hazbin Hotel: Behind Closed Doors",
+      "diziid": "hazbin",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/11/hazbin_hotel%3A_kapali_kapilar_ardinda"
+    },
+    {
+      "season": 4,
+      "episode": 12,
+      "title": "It's a Deal",
+      "diziid": "hazbin",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/12/anlastik"
+    },
+    {
+      "season": 5,
+      "episode": 13,
+      "title": "Silenced",
+      "diziid": "hazbin",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/13/susturulmus"
+    },
+    {
+      "season": 6,
+      "episode": 14,
+      "title": "Scream Rain",
+      "diziid": "hazbin",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/14/ciglik_yagmuru"
+    },
+    {
+      "season": 7,
+      "episode": 15,
+      "title": "Weapon of Mass Distraction",
+      "diziid": "hazbin",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/15/kitle_oyalama_silahi"
+    },
+    {
+      "season": 8,
+      "episode": 16,
+      "title": "Curtain Call",
+      "diziid": "hazbin",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/hazbin/hazbin_hotel/16/selamlama"
+    }
+  ]
+}

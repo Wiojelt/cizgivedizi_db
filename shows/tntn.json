@@ -1,0 +1,325 @@
+{
+  "id": "tntn",
+  "title": "tenten",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TNTNPoster.avif",
+  "channel": "Planet Ã‡ocuk",
+  "genres": [
+    "Macera",
+    "Dedektif"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Crab with the Golden Claws: Part 1",
+      "diziid": "tntn",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/1/altin_penceli_yengec%2C_1.bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Crab with the Golden Claws: Part 2",
+      "diziid": "tntn",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/2/altin_penceli_yengec%2C_2.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Secret of the Unicorn: Part 1",
+      "diziid": "tntn",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/3/tek_boynuzlu_atin_sirri%2C_1.bolum"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Secret of the Unicorn: Part 2",
+      "diziid": "tntn",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/4/tek_boynuzlu_atin_sirri%2C_2.bolum"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Red Rackham's Treasure",
+      "diziid": "tntn",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/5/red_rackhamin_hazinesi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Cigars of the Pharaoh: Part 1",
+      "diziid": "tntn",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/6/firavun_purolari%2C_1.bolum"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Cigars of the Pharaoh: Part 2",
+      "diziid": "tntn",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/7/firavun_purolari%2C_2.bolum"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Blue Lotus: Part 1",
+      "diziid": "tntn",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/8/mavi_lotus%2C_1.bolum"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Blue Lotus: Part 2",
+      "diziid": "tntn",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/9/mavi_lotus%2C_2.bolum"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Black Island: Part 1",
+      "diziid": "tntn",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/10/kara_ada%2C_1.bolum"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Black Island: Part 2",
+      "diziid": "tntn",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/11/kara_ada%2C_2.bolum"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Calculus Affair (1)",
+      "diziid": "tntn",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/12/matematik_meselesi%2C_1.bolum"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Calculus Affair (2)",
+      "diziid": "tntn",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/13/matematik_meselesi%2C_2.bolum"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "The Shooting Star",
+      "diziid": "tntn",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/14/kayan_yildiz"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "The Broken Ear: Part 1",
+      "diziid": "tntn",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/15/kirik_kulak%2C_1.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "The Broken Ear: Part 2",
+      "diziid": "tntn",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/16/kirik_kulak%2C_2.bolum"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "King Ottokar's Scepter: Part 1",
+      "diziid": "tntn",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/17/kral_ottokarin_asasi_1.bolum"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "King Ottokar's Scepter: Part 2",
+      "diziid": "tntn",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/18/kral_ottokarin_asasi_2.bolum"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Tintin in Tibet: Part 1",
+      "diziid": "tntn",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/19/tenten_tibette_1.bolum"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Tintin in Tibet: Part 2",
+      "diziid": "tntn",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/20/tenten_tibette_2.bolum"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Tintin and the Picaros: Part 1",
+      "diziid": "tntn",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/21/tenten_ve_picarolar_1.bolum"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Tintin and the Picaros: Part 2",
+      "diziid": "tntn",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/22/tenten_ve_picarolar_2.bolum"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Land of Black Gold: Part 1",
+      "diziid": "tntn",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/23/kara_altin_diyari_1.bolum"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "Land of Black Gold (2)",
+      "diziid": "tntn",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/24/kara_altin_diyari_2.bolum"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Flight 714: Part 1",
+      "diziid": "tntn",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/25/sidneye_714_nolu_ucus_1.bolum"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "Flight 714: Part 2",
+      "diziid": "tntn",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/26/sidneye_714_nolu_ucus_2.bolum"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "The Red Sea Sharks (1)",
+      "diziid": "tntn",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/27/ambardaki_komur_1.bolum"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "The Red Sea Sharks (2)",
+      "diziid": "tntn",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/28/ambardaki_komur_2.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "The Seven Crystal Balls: Part 1",
+      "diziid": "tntn",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/29/yedi_kristal_kure_1.bolum"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "The Seven Crystal Balls: Part 2",
+      "diziid": "tntn",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/30/yedi_kristal_kure_2.bolum"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Prisoners of the Sun: Part 1",
+      "diziid": "tntn",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/31/gunes_mabedi_1.bolum"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Prisoners of the Sun: Part 2",
+      "diziid": "tntn",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/32/gunes_mabedi_2.bolum"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "The Castafiore Emerald: Part 1",
+      "diziid": "tntn",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/33/castafiorenin_mucevherleri_1.bolum"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "The Castafiore Emerald (2)",
+      "diziid": "tntn",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/34/castafiorenin_mucevherleri_2.bolum"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Destination Moon: Part 1",
+      "diziid": "tntn",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/35/hedef_ay_1.bolum"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Destination Moon: Part 2",
+      "diziid": "tntn",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/36/hedef_ay_2.bolum"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Explorers on the Moon: Part 1",
+      "diziid": "tntn",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/37/aya_ayak_basildi_1.bolum"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Explorers on the Moon: Part 2",
+      "diziid": "tntn",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/38/aya_ayak_basildi_2.bolum"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Tintin in America",
+      "diziid": "tntn",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/tntn/tenten/39/tenten_amerikada"
+    }
+  ]
+}

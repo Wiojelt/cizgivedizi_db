@@ -1,0 +1,45 @@
+{
+  "id": "wakanda",
+  "title": "wakanda'nÄ±n gÃ¶zleri",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/WAKANDAPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Into the Lion's Den",
+      "diziid": "wakanda",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/wakanda/wakandanin_gozleri/1/aslanin_ininde"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Legends and Lies",
+      "diziid": "wakanda",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/wakanda/wakandanin_gozleri/2/efsaneler_ve_yalanlar"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Lost and Found",
+      "diziid": "wakanda",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/wakanda/wakandanin_gozleri/3/kayip_eser"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Last Panther",
+      "diziid": "wakanda",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/wakanda/wakandanin_gozleri/4/son_panther"
+    }
+  ]
+}

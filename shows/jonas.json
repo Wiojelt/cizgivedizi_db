@@ -1,0 +1,285 @@
+{
+  "id": "jonas",
+  "title": "jonas",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/JONASPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "MÃ¼zik/MÃ¼zikal"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Wrong Song",
+      "diziid": "jonas",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/1/yanlis_sarki"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Groovy Movies",
+      "diziid": "jonas",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/2/harika_filmler"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Pizza Girl",
+      "diziid": "jonas",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/3/pizzaci_kiz"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Keeping It Real",
+      "diziid": "jonas",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/4/kendin_olmak"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Band's Best Friend",
+      "diziid": "jonas",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/5/grubun_en_iyi_arkadasi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Chasing the Dream",
+      "diziid": "jonas",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/6/hayalin_pesinde"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Fashion Victim",
+      "diziid": "jonas",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/7/moda_kurbani"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "That Ding You Do",
+      "diziid": "jonas",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/8/hayal_tinlamasi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Complete Repeat",
+      "diziid": "jonas",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/9/tam_tekrar"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Love Sick",
+      "diziid": "jonas",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/10/ask_hatasi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Three Musketeers",
+      "diziid": "jonas",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/11/uc_silahsorler"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Frantic Romantic",
+      "diziid": "jonas",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/12/cilgin_romantik"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Detention",
+      "diziid": "jonas",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/13/ceza"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Karaoke Surprise",
+      "diziid": "jonas",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/14/karaoke_surprizi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Home Not Alone",
+      "diziid": "jonas",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/15/evde_tek_basina_degil"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Forgetting Stella's Birthday",
+      "diziid": "jonas",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/16/stellanin_dogum_gununu_unutunca"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Tale of the Haunted Firehouse",
+      "diziid": "jonas",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/17/perili_itfaiyenin_oyksu"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Double Date",
+      "diziid": "jonas",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/18/cifte_randevu"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Cold Shoulder",
+      "diziid": "jonas",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/19/soguk_karsilasma"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Beauty and the Beat",
+      "diziid": "jonas",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/20/guzel_ile_ritim"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Exam Jam",
+      "diziid": "jonas",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/21/sinav_yogunlugu"
+    },
+    {
+      "season": 1,
+      "episode": 22,
+      "title": "House Party",
+      "diziid": "jonas",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/22/ev_partisi"
+    },
+    {
+      "season": 2,
+      "episode": 23,
+      "title": "Back to the Beach",
+      "diziid": "jonas",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/23/sahile_geri_donus"
+    },
+    {
+      "season": 3,
+      "episode": 24,
+      "title": "Date Expectations",
+      "diziid": "jonas",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/24/randevu_beklentileri"
+    },
+    {
+      "season": 4,
+      "episode": 25,
+      "title": "And... Action!",
+      "diziid": "jonas",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/25/ve..._motor%21"
+    },
+    {
+      "season": 5,
+      "episode": 26,
+      "title": "America's Sweethearts",
+      "diziid": "jonas",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/26/amerikanin_sevgilileri"
+    },
+    {
+      "season": 6,
+      "episode": 27,
+      "title": "The Secret",
+      "diziid": "jonas",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/27/sir"
+    },
+    {
+      "season": 7,
+      "episode": 28,
+      "title": "A Wasabi Story",
+      "diziid": "jonas",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/28/bir_wasabi_hikayesi"
+    },
+    {
+      "season": 8,
+      "episode": 29,
+      "title": "Up in the Air",
+      "diziid": "jonas",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/29/akli_havada"
+    },
+    {
+      "season": 9,
+      "episode": 30,
+      "title": "Direct to Video",
+      "diziid": "jonas",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/30/dogrudan_kasete"
+    },
+    {
+      "season": 10,
+      "episode": 31,
+      "title": "The Flirt Locker",
+      "diziid": "jonas",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/31/flort_dolabi"
+    },
+    {
+      "season": 11,
+      "episode": 32,
+      "title": "Boat Trip",
+      "diziid": "jonas",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/32/tekne_gezisi"
+    },
+    {
+      "season": 12,
+      "episode": 33,
+      "title": "On the Radio",
+      "diziid": "jonas",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/33/radyoda"
+    },
+    {
+      "season": 13,
+      "episode": 34,
+      "title": "Band of Brothers",
+      "diziid": "jonas",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/jonas/jonas/34/kardesler_takimi"
+    }
+  ]
+}

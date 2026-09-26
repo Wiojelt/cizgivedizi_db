@@ -1,0 +1,533 @@
+{
+  "id": "list",
+  "title": "lilo ve stiÃ§",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/LISTPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Macera",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Richter",
+      "diziid": "list",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/1/richter"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Phantasmo",
+      "diziid": "list",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/2/phantasmo"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Clip",
+      "diziid": "list",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/3/klip"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Mr. Stenchy",
+      "diziid": "list",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/4/bay_stenchy"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Spooky",
+      "diziid": "list",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/5/urkutucu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Holio",
+      "diziid": "list",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/6/holio"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Cannonball",
+      "diziid": "list",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/7/gulle"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Yapper",
+      "diziid": "list",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/8/yapper"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Yin-Yang",
+      "diziid": "list",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/9/yinyang"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Kixx",
+      "diziid": "list",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/10/kixx"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Splodyhead",
+      "diziid": "list",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/11/splodyhead"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Amnesio",
+      "diziid": "list",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/12/amnesio"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Swirly",
+      "diziid": "list",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/13/swirly"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Fibber",
+      "diziid": "list",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/14/fibber"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Tank",
+      "diziid": "list",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/15/tank"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Sprout",
+      "diziid": "list",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/16/filiz"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Elastico",
+      "diziid": "list",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/17/elastico"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Yaarp",
+      "diziid": "list",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/18/yaarp"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "627",
+      "diziid": "list",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/19/627"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Asteroid",
+      "diziid": "list",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/20/asteroit"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Topper",
+      "diziid": "list",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/21/topper"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Melty",
+      "diziid": "list",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/22/melty"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Houdini",
+      "diziid": "list",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/23/houdini"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Sinker",
+      "diziid": "list",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/24/kursun"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Nosy",
+      "diziid": "list",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/25/merakli"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Finder",
+      "diziid": "list",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/26/bulucu"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Slushy",
+      "diziid": "list",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/27/sulu"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Dupe",
+      "diziid": "list",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/28/aldatmaca"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Short Stuff",
+      "diziid": "list",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/29/kisa"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Angel",
+      "diziid": "list",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/30/melek"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Felix",
+      "diziid": "list",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/31/felix"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Poxy",
+      "diziid": "list",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/32/poxy"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Hunkahunka",
+      "diziid": "list",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/33/hunkahunka"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Sample",
+      "diziid": "list",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/34/numune"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Baby-Fier",
+      "diziid": "list",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/35/bebeklestirici"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Bonnie & Clyde",
+      "diziid": "list",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/36/bonnie_%26_clyde"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Slugger",
+      "diziid": "list",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/37/slugger"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Bad Stitch",
+      "diziid": "list",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/38/kotu_stitch"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Drowsy",
+      "diziid": "list",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/39/uykulu"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "Spike",
+      "diziid": "list",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/40/spike"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "Frenchfry",
+      "diziid": "list",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/41/frenchfry"
+    },
+    {
+      "season": 3,
+      "episode": 42,
+      "title": "Swapper",
+      "diziid": "list",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/42/takasci"
+    },
+    {
+      "season": 4,
+      "episode": 43,
+      "title": "Shoe",
+      "diziid": "list",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/43/ayakkabi"
+    },
+    {
+      "season": 5,
+      "episode": 44,
+      "title": "Slick",
+      "diziid": "list",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/44/slick"
+    },
+    {
+      "season": 6,
+      "episode": 45,
+      "title": "Skip",
+      "diziid": "list",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/45/skip"
+    },
+    {
+      "season": 7,
+      "episode": 46,
+      "title": "Checkers",
+      "diziid": "list",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/46/dama"
+    },
+    {
+      "season": 8,
+      "episode": 47,
+      "title": "P.J.",
+      "diziid": "list",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/47/pj"
+    },
+    {
+      "season": 9,
+      "episode": 48,
+      "title": "Ploot",
+      "diziid": "list",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/48/ploot"
+    },
+    {
+      "season": 10,
+      "episode": 49,
+      "title": "Snooty",
+      "diziid": "list",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/49/snooty"
+    },
+    {
+      "season": 11,
+      "episode": 50,
+      "title": "Retro",
+      "diziid": "list",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/50/retro"
+    },
+    {
+      "season": 12,
+      "episode": 51,
+      "title": "Belle",
+      "diziid": "list",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/51/belle"
+    },
+    {
+      "season": 13,
+      "episode": 52,
+      "title": "Morpholomew",
+      "diziid": "list",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/52/morfolomew"
+    },
+    {
+      "season": 14,
+      "episode": 53,
+      "title": "Spats",
+      "diziid": "list",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/53/spats"
+    },
+    {
+      "season": 15,
+      "episode": 54,
+      "title": "Heckler",
+      "diziid": "list",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/54/laf_atan"
+    },
+    {
+      "season": 16,
+      "episode": 55,
+      "title": "Wishy-Washy",
+      "diziid": "list",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/55/zayif"
+    },
+    {
+      "season": 17,
+      "episode": 56,
+      "title": "Phoon",
+      "diziid": "list",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/56/phoon"
+    },
+    {
+      "season": 18,
+      "episode": 57,
+      "title": "Bugby",
+      "diziid": "list",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/57/bugby"
+    },
+    {
+      "season": 19,
+      "episode": 58,
+      "title": "Rufus",
+      "diziid": "list",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/58/rufus"
+    },
+    {
+      "season": 20,
+      "episode": 59,
+      "title": "Shush",
+      "diziid": "list",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/59/shush"
+    },
+    {
+      "season": 21,
+      "episode": 60,
+      "title": "Lax",
+      "diziid": "list",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/60/lax"
+    },
+    {
+      "season": 22,
+      "episode": 61,
+      "title": "Remmy",
+      "diziid": "list",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/61/remmy"
+    },
+    {
+      "season": 23,
+      "episode": 62,
+      "title": "Mrs. Hasagawa's Cats / Ace",
+      "diziid": "list",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/62/bayan_hasagawanin_kedileri__as"
+    },
+    {
+      "season": 24,
+      "episode": 63,
+      "title": "Glitch / Woops",
+      "diziid": "list",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/63/aksaklik__tuh"
+    },
+    {
+      "season": 25,
+      "episode": 64,
+      "title": "Snafu",
+      "diziid": "list",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/64/snafu"
+    },
+    {
+      "season": 26,
+      "episode": 65,
+      "title": "Link",
+      "diziid": "list",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/list/lilo_ve_stic/65/baglanti"
+    }
+  ]
+}

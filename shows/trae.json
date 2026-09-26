@@ -1,0 +1,381 @@
+{
+  "id": "trae",
+  "title": "transformers: earthspark",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TRAEPoster.avif",
+  "channel": "Nickelodeon",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Secret Legacy: Part 1",
+      "diziid": "trae",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/1/gizli_miras%2C_1.bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Secret Legacy: Part 2",
+      "diziid": "trae",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/2/gizli_miras%2C_2.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Moo-ving In",
+      "diziid": "trae",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/3/tasinma"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "House Rules",
+      "diziid": "trae",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/4/evin_kurallari"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Classified",
+      "diziid": "trae",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/5/gizli"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Traditions",
+      "diziid": "trae",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/6/gelenekler"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Family and Friends",
+      "diziid": "trae",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/7/aile_ve_arkadaslar"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Decoy",
+      "diziid": "trae",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/8/yem"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Age of Evolution",
+      "diziid": "trae",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/9/evrim_cagi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Age of Evolution: Part 2",
+      "diziid": "trae",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/10/evrim_cagi%2C_2.kisim"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Hashtag: Oops",
+      "diziid": "trae",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/11/hashtag%3A_eyvah"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Outtakes",
+      "diziid": "trae",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/12/cikarilmis_sahneler"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Missed Connection",
+      "diziid": "trae",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/13/kaybolan_baglantilar"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Security Protocols",
+      "diziid": "trae",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/14/guvenlik_protokolleri"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Bear Necessities",
+      "diziid": "trae",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/15/en_guvenli_seyler"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Warzone",
+      "diziid": "trae",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/16/savas_alani"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Home: Part 1",
+      "diziid": "trae",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/17/ev%2C_1.bolum"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Home: Part 2",
+      "diziid": "trae",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/18/ev%2C_2.bolum"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "A Stygi Situation",
+      "diziid": "trae",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/19/bir_stygi_durumu"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Disarmed",
+      "diziid": "trae",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/20/silahsizlandirildi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "What Dwells Within",
+      "diziid": "trae",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/21/icini_kemiren_sey"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Prime Time",
+      "diziid": "trae",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/22/haber_sonrasi_kusagi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Stowed Away, Stowaways",
+      "diziid": "trae",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/23/kacaklar_kaciyor"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Battle of Witwicky",
+      "diziid": "trae",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/24/witwicky_savasi"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Last Hope: Part 1",
+      "diziid": "trae",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/25/son_umut%2C_1.kisim"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Last Hope: Part 2",
+      "diziid": "trae",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/26/son_umut%2C_2.kisim"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Aftermath",
+      "diziid": "trae",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/27/netice"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "In Ruins",
+      "diziid": "trae",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/28/harabelerde"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Control Alt Delete",
+      "diziid": "trae",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/29/kontrol_alt_sil"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "The Butterfly Effect",
+      "diziid": "trae",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/30/kelebek_etkisi"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Togetherness",
+      "diziid": "trae",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/31/birliktelik"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Spitfire",
+      "diziid": "trae",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/32/spitfire"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "The Imposters",
+      "diziid": "trae",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/33/sahtekarlar"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Dude, Where's My Trailer?",
+      "diziid": "trae",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/34/dostum_karavanim_nerede"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Witwicky: Part 1",
+      "diziid": "trae",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/35/witwicky%2C_bolum_1"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Witwicky: Part 2",
+      "diziid": "trae",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/36/witwicky%2C_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 37,
+      "title": "The Need for Read",
+      "diziid": "trae",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/37/okuma_ihtiyaci"
+    },
+    {
+      "season": 2,
+      "episode": 38,
+      "title": "Attack of the Drive-In Movie",
+      "diziid": "trae",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/38/arabali_sinema_saldirisi"
+    },
+    {
+      "season": 3,
+      "episode": 39,
+      "title": "The Great Escape",
+      "diziid": "trae",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/39/buyuk_kacis"
+    },
+    {
+      "season": 4,
+      "episode": 40,
+      "title": "No Soldier Left Behind",
+      "diziid": "trae",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/40/hicbir_asker_geride_kalmaz"
+    },
+    {
+      "season": 5,
+      "episode": 41,
+      "title": "Fire and Ice",
+      "diziid": "trae",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/41/ates_ve_buz"
+    },
+    {
+      "season": 6,
+      "episode": 42,
+      "title": "The Truth Is Out There",
+      "diziid": "trae",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/42/gercek_orada_bir_yerde"
+    },
+    {
+      "season": 7,
+      "episode": 43,
+      "title": "Judgment Day: Part 1",
+      "diziid": "trae",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/43/mahser_gunu%2C_ilk_kisim"
+    },
+    {
+      "season": 8,
+      "episode": 44,
+      "title": "Judgment Day: Part 2",
+      "diziid": "trae",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/44/mahser_gunu%2C_ikinci_kisim"
+    },
+    {
+      "season": 1,
+      "episode": 45,
+      "title": "Hometown Heroes",
+      "diziid": "trae",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/45/yerel_kahramanlar"
+    },
+    {
+      "season": 1,
+      "episode": 46,
+      "title": "Legacy of Hope",
+      "diziid": "trae",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/trae/transformers%3A_earthspark/47/umudun_mirasi"
+    }
+  ]
+}

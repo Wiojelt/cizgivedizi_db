@@ -1,0 +1,117 @@
+{
+  "id": "gargo",
+  "title": "gargoyles",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/GARGOPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Aksiyon",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Journey",
+      "diziid": "gargo",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/gargo/gargoyles/66/goliath_gunlukleri%3A_yolculuk"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Ransom",
+      "diziid": "gargo",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/gargo/gargoyles/67/goliath_gunlukleri%3A_fidye"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Runaways",
+      "diziid": "gargo",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/gargo/gargoyles/68/goliath_gunlukleri%3A_kacaklar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Broadway Goes Hollywood",
+      "diziid": "gargo",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/gargo/gargoyles/69/goliath_gunlukleri%3A_broadway_hollywooda_gider"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "A Bronx Tail",
+      "diziid": "gargo",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/gargo/gargoyles/70/goliath_gunlukleri%3A_bronxun_izinde"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Dying of the Light",
+      "diziid": "gargo",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/gargo/gargoyles/71/goliath_gunlukleri%3A_gecenin_cokusu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "And Justice for All",
+      "diziid": "gargo",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/gargo/gargoyles/72/goliath_gunlukleri%3A_herkese_adalet"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Genesis Undone",
+      "diziid": "gargo",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/gargo/gargoyles/73/goliath_gunlukleri%3A_yarim_kalan_dogus"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Generations",
+      "diziid": "gargo",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/gargo/gargoyles/74/goliath_gunlukleri%3A_nesiller"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "...For It May Come True",
+      "diziid": "gargo",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/gargo/gargoyles/75/goliath_gunlukleri%3A_ne_diledigine_dikkat_et"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "To Serve Mankind",
+      "diziid": "gargo",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/gargo/gargoyles/76/goliath_gunlukleri%3A_insanliga_hizmet"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Seeing Isn't Believing",
+      "diziid": "gargo",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/gargo/gargoyles/77/goliath_gunlukleri%3A_gordugun_her_seye_inanma"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Angels in the Night",
+      "diziid": "gargo",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/gargo/gargoyles/78/goliath_gunlukleri%3A_gecenin_melekleri"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "tom",
+  "title": "dinozor tom",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TOMPoster.avif",
+  "channel": "Yumurcak TV",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 5,
+      "episode": 1,
+      "title": "Tom in Rio",
+      "diziid": "tom",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/5/tom_rioda"
+    },
+    {
+      "season": 6,
+      "episode": 2,
+      "title": "Tom in Paris",
+      "diziid": "tom",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/6/tom_pariste"
+    },
+    {
+      "season": 7,
+      "episode": 3,
+      "title": "Tom in Scotland",
+      "diziid": "tom",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/7/tom_iskocyada"
+    },
+    {
+      "season": 8,
+      "episode": 4,
+      "title": "Tom in Hollywood",
+      "diziid": "tom",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/8/tom_hollywoodda"
+    },
+    {
+      "season": 11,
+      "episode": 5,
+      "title": "Tom in Kenya",
+      "diziid": "tom",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/11/tom_kenyada"
+    },
+    {
+      "season": 12,
+      "episode": 6,
+      "title": "Tom in Barcelona",
+      "diziid": "tom",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/12/tom_barcelonada"
+    },
+    {
+      "season": 14,
+      "episode": 7,
+      "title": "Tom in Moscow",
+      "diziid": "tom",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/14/tom_moskovada"
+    },
+    {
+      "season": 18,
+      "episode": 8,
+      "title": "Tom in Machu Picchu",
+      "diziid": "tom",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/18/tom_machu_picchuda"
+    },
+    {
+      "season": 20,
+      "episode": 9,
+      "title": "Tom in the Caribbean",
+      "diziid": "tom",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/20/tom_karayiplerde"
+    },
+    {
+      "season": 21,
+      "episode": 10,
+      "title": "Tom in Australia",
+      "diziid": "tom",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/21/tom_avustralyada"
+    },
+    {
+      "season": 24,
+      "episode": 11,
+      "title": "Tom in Greece",
+      "diziid": "tom",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/24/tom_yunanistanda"
+    },
+    {
+      "season": 25,
+      "episode": 12,
+      "title": "Tom in Las Vegas",
+      "diziid": "tom",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/25/tom_las_vegasda"
+    },
+    {
+      "season": 26,
+      "episode": 13,
+      "title": "Tom in India",
+      "diziid": "tom",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/26/tom_hindistanda"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Tom in France",
+      "diziid": "tom",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/27/tom_fransada"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Tom in Morocco",
+      "diziid": "tom",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/28/tom_fasda"
+    },
+    {
+      "season": 5,
+      "episode": 16,
+      "title": "Tom in Prague",
+      "diziid": "tom",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/31/tom_pragda"
+    },
+    {
+      "season": 8,
+      "episode": 17,
+      "title": "Tom in Cambodia",
+      "diziid": "tom",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/34/tom_kambocyada"
+    },
+    {
+      "season": 11,
+      "episode": 18,
+      "title": "Tom in Mexico",
+      "diziid": "tom",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/37/tom_meksikada"
+    },
+    {
+      "season": 12,
+      "episode": 19,
+      "title": "Tom in Poland",
+      "diziid": "tom",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/tom/dinozor_tom/38/tom_polonyada"
+    }
+  ]
+}

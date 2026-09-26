@@ -1,0 +1,85 @@
+{
+  "id": "sirk",
+  "title": "inanÄ±lmaz dijital sirk",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SÄ°RKPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "AbsÃ¼rt",
+    "Gizem"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "sirk",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/sirk/inanilmaz_dijital_sirk/1/pilot_bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Candy Carrier Chaos!",
+      "diziid": "sirk",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/sirk/inanilmaz_dijital_sirk/2/seker_dolu_kaos%21"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Mystery Of Mildenhall Manor",
+      "diziid": "sirk",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/sirk/inanilmaz_dijital_sirk/3/mildenhall_malikanesinin_gizemi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Fast Food Masquerade",
+      "diziid": "sirk",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/sirk/inanilmaz_dijital_sirk/4/fast_food_macerasi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Untitled",
+      "diziid": "sirk",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/sirk/inanilmaz_dijital_sirk/5/isimsiz"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "They All Get Guns",
+      "diziid": "sirk",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/sirk/inanilmaz_dijital_sirk/6/silahlar_cekiliyor"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Beach Episode",
+      "diziid": "sirk",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/sirk/inanilmaz_dijital_sirk/7/plaj_bolumu"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "hjsakldfhl",
+      "diziid": "sirk",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/sirk/inanilmaz_dijital_sirk/8/hjsakldfhl"
+    },
+    {
+      "season": 1,
+      "episode": 9,
+      "title": "Remember",
+      "diziid": "sirk",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/sirk/inanilmaz_dijital_sirk/9/hatirlamak"
+    }
+  ]
+}

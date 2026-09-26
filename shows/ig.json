@@ -1,0 +1,93 @@
+{
+  "id": "ig",
+  "title": "Ä±dhun gÃ¼nlÃ¼kleri",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/IGPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Limbhad",
+      "diziid": "ig",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ig/idhun_gunlukleri/1/limbhad"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "You're Not Yet Ready",
+      "diziid": "ig",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ig/idhun_gunlukleri/2/henuz_hazir_degilsin"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Staff of Ayshel",
+      "diziid": "ig",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ig/idhun_gunlukleri/3/ayshelin_asasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Rescue Plans",
+      "diziid": "ig",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ig/idhun_gunlukleri/4/kurtarma_planlari"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Come With Me",
+      "diziid": "ig",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ig/idhun_gunlukleri/5/benimle_gel"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Re-encounter",
+      "diziid": "ig",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/ig/idhun_gunlukleri/6/yeniden_karsilasma"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Secrets",
+      "diziid": "ig",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/ig/idhun_gunlukleri/7/sirlar"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Their True Nature",
+      "diziid": "ig",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/ig/idhun_gunlukleri/8/onlarin_gercek_dogasi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Eye of the Serpent",
+      "diziid": "ig",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/ig/idhun_gunlukleri/9/yilanin_gozu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Victoria's Light",
+      "diziid": "ig",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/ig/idhun_gunlukleri/10/victorianin_isigi"
+    }
+  ]
+}

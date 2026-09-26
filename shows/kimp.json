@@ -1,0 +1,565 @@
+{
+  "id": "kimp",
+  "title": "kim possible",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KIMPPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Aksiyon",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Crush",
+      "diziid": "kimp",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/1/asik"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Sink or Swim",
+      "diziid": "kimp",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/2/batmak_ya_da_yuzmek"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The New Ron",
+      "diziid": "kimp",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/3/yeni_ron"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Tick-Tick-Tick",
+      "diziid": "kimp",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/4/tik-tak-tik-tak"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Downhill",
+      "diziid": "kimp",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/5/yokus_asagi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Bueno Nacho",
+      "diziid": "kimp",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/6/bueno_nacho"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Number One",
+      "diziid": "kimp",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/7/bir_numara"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Mind Games",
+      "diziid": "kimp",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/8/akil_oyunlari"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Attack of the Killer Bebes",
+      "diziid": "kimp",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/9/katil_bebelerin_saldirisi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Royal Pain",
+      "diziid": "kimp",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/10/kraliyet_sancisi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Coach Possible",
+      "diziid": "kimp",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/11/koc_possible"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "Monkey Fist Strikes",
+      "diziid": "kimp",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/13/maymun_fist_saldiriyor"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "October 31st",
+      "diziid": "kimp",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/14/31_ekim"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "All the News",
+      "diziid": "kimp",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/15/tum_haberler"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Kimitation Nation",
+      "diziid": "kimp",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/16/kimitasyon_millet"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "The Twin Factor",
+      "diziid": "kimp",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/17/ikiz_faktoru"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "Animal Attraction",
+      "diziid": "kimp",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/18/hayvan_cazibesi"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "Monkey Ninjas in Space",
+      "diziid": "kimp",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/19/uzayda_maymun_ninjalar"
+    },
+    {
+      "season": 21,
+      "episode": 19,
+      "title": "Low Budget",
+      "diziid": "kimp",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/21/dusuk_butce"
+    },
+    {
+      "season": 1,
+      "episode": 20,
+      "title": "Naked Genius",
+      "diziid": "kimp",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/22/ciplak_dahi"
+    },
+    {
+      "season": 2,
+      "episode": 21,
+      "title": "Grudge Match",
+      "diziid": "kimp",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/23/kin_maci"
+    },
+    {
+      "season": 3,
+      "episode": 22,
+      "title": "Two to Tutor",
+      "diziid": "kimp",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/24/egitilecek_iki_kisi"
+    },
+    {
+      "season": 4,
+      "episode": 23,
+      "title": "The Ron Factor",
+      "diziid": "kimp",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/25/ron_faktoru"
+    },
+    {
+      "season": 5,
+      "episode": 24,
+      "title": "Car Trouble",
+      "diziid": "kimp",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/26/araba_sorunu"
+    },
+    {
+      "season": 6,
+      "episode": 25,
+      "title": "Rufus in Show / Adventures in Rufus-Sitting",
+      "diziid": "kimp",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/27/rufus_sahnede__rufus_bakiciligi_sirasinda_maceralar"
+    },
+    {
+      "season": 8,
+      "episode": 26,
+      "title": "The Golden Years",
+      "diziid": "kimp",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/29/altin_yillar"
+    },
+    {
+      "season": 10,
+      "episode": 27,
+      "title": "The Fearless Ferret",
+      "diziid": "kimp",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/31/korkusuz_gelincik"
+    },
+    {
+      "season": 11,
+      "episode": 28,
+      "title": "Exchange",
+      "diziid": "kimp",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/32/degisim"
+    },
+    {
+      "season": 12,
+      "episode": 29,
+      "title": "Rufus Versus Commodore Puddles / Day of the Snowmen",
+      "diziid": "kimp",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/33/rufus%2C_kaptan_puddlesa_karsi__kardan_adamlar_gunu"
+    },
+    {
+      "season": 13,
+      "episode": 30,
+      "title": "A Sitch in Time (1): Present",
+      "diziid": "kimp",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/34/zaman_mevzusu%3A_simdi"
+    },
+    {
+      "season": 14,
+      "episode": 31,
+      "title": "A Sitch in Time (2): Past",
+      "diziid": "kimp",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/35/zaman_mevzusu%3A_gecmis"
+    },
+    {
+      "season": 15,
+      "episode": 32,
+      "title": "A Sitch in Time (3): Future",
+      "diziid": "kimp",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/36/zaman_mevzusu%3A_gelecek"
+    },
+    {
+      "season": 16,
+      "episode": 33,
+      "title": "A Very Possible Christmas",
+      "diziid": "kimp",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/37/cok_olasi_bir_yilbasi"
+    },
+    {
+      "season": 17,
+      "episode": 34,
+      "title": "Queen Bebe",
+      "diziid": "kimp",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/38/kralice_bebe"
+    },
+    {
+      "season": 18,
+      "episode": 35,
+      "title": "Hidden Talent",
+      "diziid": "kimp",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/39/gizli_yetenek"
+    },
+    {
+      "season": 19,
+      "episode": 36,
+      "title": "Return to Camp Wannaweep",
+      "diziid": "kimp",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/40/wannaweep_kampina_donus"
+    },
+    {
+      "season": 20,
+      "episode": 37,
+      "title": "Go Team Go",
+      "diziid": "kimp",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/41/hadi_takim%2C_bastir"
+    },
+    {
+      "season": 21,
+      "episode": 38,
+      "title": "The Full Monkey",
+      "diziid": "kimp",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/42/tam_maymun"
+    },
+    {
+      "season": 22,
+      "episode": 39,
+      "title": "Blush",
+      "diziid": "kimp",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/43/utanc"
+    },
+    {
+      "season": 23,
+      "episode": 40,
+      "title": "Partners",
+      "diziid": "kimp",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/44/esler"
+    },
+    {
+      "season": 24,
+      "episode": 41,
+      "title": "Oh Boyz",
+      "diziid": "kimp",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/45/oh_boyz"
+    },
+    {
+      "season": 25,
+      "episode": 42,
+      "title": "Sick Day / The Truth Hurts",
+      "diziid": "kimp",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/46/hastalik_izni__gercek_acitir"
+    },
+    {
+      "season": 26,
+      "episode": 43,
+      "title": "Mother's Day",
+      "diziid": "kimp",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/47/anneler_gunu"
+    },
+    {
+      "season": 27,
+      "episode": 44,
+      "title": "Motor Ed",
+      "diziid": "kimp",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/48/motor_ed"
+    },
+    {
+      "season": 28,
+      "episode": 45,
+      "title": "Ron Millionaire",
+      "diziid": "kimp",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/49/milyoner_ron"
+    },
+    {
+      "season": 30,
+      "episode": 46,
+      "title": "Rewriting History",
+      "diziid": "kimp",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/51/gecmisi_yeniden_yazmak"
+    },
+    {
+      "season": 31,
+      "episode": 47,
+      "title": "Showdown at the Crooked D",
+      "diziid": "kimp",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/52/crooked_dde_karsilasma"
+    },
+    {
+      "season": 66,
+      "episode": 48,
+      "title": "Ill-Suited",
+      "diziid": "kimp",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/66/uygunsuz"
+    },
+    {
+      "season": 67,
+      "episode": 49,
+      "title": "The Big Job",
+      "diziid": "kimp",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/67/buyuk_is"
+    },
+    {
+      "season": 68,
+      "episode": 50,
+      "title": "Trading Faces",
+      "diziid": "kimp",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/68/yuz_takasi"
+    },
+    {
+      "season": 69,
+      "episode": 51,
+      "title": "The Cupid Effect",
+      "diziid": "kimp",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/69/ask_tanrisi_etkisi"
+    },
+    {
+      "season": 70,
+      "episode": 52,
+      "title": "Car Alarm",
+      "diziid": "kimp",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/70/araba_alarmi"
+    },
+    {
+      "season": 71,
+      "episode": 53,
+      "title": "Mad Dogs and Aliens",
+      "diziid": "kimp",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/71/cildirmis_kopekler_ve_uzaylilar"
+    },
+    {
+      "season": 72,
+      "episode": 54,
+      "title": "Grande Size Me",
+      "diziid": "kimp",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/72/buyuk_beden_ben"
+    },
+    {
+      "season": 73,
+      "episode": 55,
+      "title": "Clothes Minded",
+      "diziid": "kimp",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/73/giysiler_onemli"
+    },
+    {
+      "season": 74,
+      "episode": 56,
+      "title": "Big Bother",
+      "diziid": "kimp",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/74/buyuk_agabey"
+    },
+    {
+      "season": 75,
+      "episode": 57,
+      "title": "Fashion Victim",
+      "diziid": "kimp",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/75/moda_kurbani"
+    },
+    {
+      "season": 76,
+      "episode": 58,
+      "title": "Odds Man In",
+      "diziid": "kimp",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/76/ihtimal_adami"
+    },
+    {
+      "season": 77,
+      "episode": 59,
+      "title": "Stop Team Go!",
+      "diziid": "kimp",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/77/go_takimini_durdur"
+    },
+    {
+      "season": 78,
+      "episode": 60,
+      "title": "Cap'n Drakken",
+      "diziid": "kimp",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/78/kaptan_drakken"
+    },
+    {
+      "season": 79,
+      "episode": 61,
+      "title": "Mathter and Fervent",
+      "diziid": "kimp",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/79/mathter_ve_fervent"
+    },
+    {
+      "season": 80,
+      "episode": 62,
+      "title": "The Mentor of Our Discontent",
+      "diziid": "kimp",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/80/mutsuzlugumuzun_akil_hocasi"
+    },
+    {
+      "season": 81,
+      "episode": 63,
+      "title": "Oh No! Yono!",
+      "diziid": "kimp",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/81/hayir%21_yono%21"
+    },
+    {
+      "season": 82,
+      "episode": 64,
+      "title": "Clean Slate",
+      "diziid": "kimp",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/82/yeni_bir_baslangic"
+    },
+    {
+      "season": 83,
+      "episode": 65,
+      "title": "Homecoming Upset",
+      "diziid": "kimp",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/83/eve_donus_partisinde_uzgun"
+    },
+    {
+      "season": 84,
+      "episode": 66,
+      "title": "Nursery Crimes / Chasing Rufus",
+      "diziid": "kimp",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/84/kres_suclari__rufusun_pesinde"
+    },
+    {
+      "season": 85,
+      "episode": 67,
+      "title": "Larry's Birthday",
+      "diziid": "kimp",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/85/larrynin_dogum_gunu"
+    },
+    {
+      "season": 86,
+      "episode": 68,
+      "title": "Graduation: Part 1",
+      "diziid": "kimp",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/86/mezuniyet%2C_bolum_1"
+    },
+    {
+      "season": 87,
+      "episode": 69,
+      "title": "Graduation: Part 2",
+      "diziid": "kimp",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/kimp/kim_possible/87/mezuniyet%2C_bolum_2"
+    }
+  ]
+}

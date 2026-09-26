@@ -1,0 +1,93 @@
+{
+  "id": "modok",
+  "title": "m.o.d.o.k",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MODOKPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "If This Be... M.O.D.O.K.!",
+      "diziid": "modok",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/modok/m.o.d.o.k/1/eger_bu...m.o.d.o.k.sa%21"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The M.O.D.O.K. That Time Forgot!",
+      "diziid": "modok",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/modok/m.o.d.o.k/2/zamanin_unuttugu_m.o.d.o.k.%21"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Beware What from Portal Comes!",
+      "diziid": "modok",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/modok/m.o.d.o.k/3/kapidan_gelene_dikkat%21"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "If Saturday Be... for the Boys!",
+      "diziid": "modok",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/modok/m.o.d.o.k/4/eger_cumartesi%E2%80%A6cocuklar_icinse%21"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "If Bureaucracy Be... Thy Death!",
+      "diziid": "modok",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/modok/m.o.d.o.k/5/eger_burokrasi%E2%80%A6olumunse%21"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Tales from the Great Bar Mitzvah War!",
+      "diziid": "modok",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/modok/m.o.d.o.k/6/buyuk_bar-mitzvah_savasindan_oykuler%21"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "This Manâ€¦ This Makeover!",
+      "diziid": "modok",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/modok/m.o.d.o.k/7/bu_adam%E2%80%A6bu_kilik_degistirme%21"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "O, Were Blood Thicker Than Robot Juice!",
+      "diziid": "modok",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/modok/m.o.d.o.k/8/kan%2C_robot_suyundan_daha_koyu%21"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "What Menace Doth the Mailman Deliver!",
+      "diziid": "modok",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/modok/m.o.d.o.k/9/postacinin_getirdigi_tehdit%21"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Days of Future M.O.D.O.K.s!",
+      "diziid": "modok",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/modok/m.o.d.o.k/10/gelecek_m.o.d.o.k.larin_gunleri%21"
+    }
+  ]
+}

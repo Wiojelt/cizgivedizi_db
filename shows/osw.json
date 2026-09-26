@@ -1,0 +1,421 @@
+{
+  "id": "osw",
+  "title": "oswaldo",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/OSWPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "All Game and No Play",
+      "diziid": "osw",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/1/uzayli_ninja_dinozorlar"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Beginner's Death",
+      "diziid": "osw",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/2/lazer_savasi_cilginligi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Osviral",
+      "diziid": "osw",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/3/unlu_oswaldo"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Last Sticker",
+      "diziid": "osw",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/4/ozel_cikartma"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Bestest Best Friend",
+      "diziid": "osw",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/5/en_yakin_arkadas"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Oswaldo Method",
+      "diziid": "osw",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/6/kariyer_testi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Mealsicle",
+      "diziid": "osw",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/7/buzlu_yemek"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Big Babies",
+      "diziid": "osw",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/8/anaokullu_oswaldo"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Secret Santa",
+      "diziid": "osw",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/9/gizemli_arkadas"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Sci-Fi Fair",
+      "diziid": "osw",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/10/bilim-kurgu_fuari"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Oswaldobias",
+      "diziid": "osw",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/11/oswaldobias"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Role-Playing",
+      "diziid": "osw",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/12/kitap_oyunu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Fast Times at Oswaldo High",
+      "diziid": "osw",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/13/okulda_tek_basina"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Close Encounters of The Checho Kind",
+      "diziid": "osw",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/14/ceco_gezegeni"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Bicycle Diaries",
+      "diziid": "osw",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/15/bisiklet_gunlukleri"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "The Brunch Club",
+      "diziid": "osw",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/16/veli_toplantisi"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Synecdoche Oswaldo",
+      "diziid": "osw",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/17/sinekdos_oswaldo"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Stego & Saurus - Pleading the Fifth (Grade)",
+      "diziid": "osw",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/18/stego_ve_saurus_-_iki_kisilik_gruplar"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "No Hay Banda",
+      "diziid": "osw",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/19/yetenek_yarismasi"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Oswaldo Goes Advertisement",
+      "diziid": "osw",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/20/reklamci_oswaldo"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Oswaldo is the New Black",
+      "diziid": "osw",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/21/yeni_siyah_oswaldo"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Oswaldonet",
+      "diziid": "osw",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/22/oswaldonet"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Stuck in the Traffic With You",
+      "diziid": "osw",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/23/trafikte_sikismak"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "Bad Hair Day",
+      "diziid": "osw",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/24/sac_kesimi"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Workopolis",
+      "diziid": "osw",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/25/iskopolis"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "Jeorigins: Jermaine Begins",
+      "diziid": "osw",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/26/jermainenin_gecmisi"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "The Hunger Rolls Games",
+      "diziid": "osw",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/27/rulo_pasta"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "He's Not So U-Down With You",
+      "diziid": "osw",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/28/paydo"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "The Wizard of Ozwaldo",
+      "diziid": "osw",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/29/ozwaldo_buyucusu"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Chicks Forever",
+      "diziid": "osw",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/30/leydiler_kulubu"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Chez Joubert",
+      "diziid": "osw",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/31/joubertin_evinde"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "The Shape of the Lagoon",
+      "diziid": "osw",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/32/lagunun_sekli"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Elections",
+      "diziid": "osw",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/33/secimler"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "My friend JanjÃ£o",
+      "diziid": "osw",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/34/metamorfoz"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "This S Is  Crazy",
+      "diziid": "osw",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/35/bu_durak_cok_cilgin"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Oswaldo from 5 to 5:15",
+      "diziid": "osw",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/36/15_dakika"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Mr Ramiro's Secret",
+      "diziid": "osw",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/37/jermainenin_sihri"
+    },
+    {
+      "season": 13,
+      "episode": 38,
+      "title": "User SM_1942",
+      "diziid": "osw",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/39/kullanici_oms_1942"
+    },
+    {
+      "season": 1,
+      "episode": 39,
+      "title": "The whisper",
+      "diziid": "osw",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/40/aile_sirri"
+    },
+    {
+      "season": 2,
+      "episode": 40,
+      "title": "VanGeo The Obscure",
+      "diziid": "osw",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/41/kuyruk"
+    },
+    {
+      "season": 3,
+      "episode": 41,
+      "title": "Meta-Metamorphosis",
+      "diziid": "osw",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/42/kapak_atma_yarismasi"
+    },
+    {
+      "season": 4,
+      "episode": 42,
+      "title": "Death and Life of Carlos Peixoto",
+      "diziid": "osw",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/43/charlie_fisherin_olumu"
+    },
+    {
+      "season": 5,
+      "episode": 43,
+      "title": "My dear Oswaldo",
+      "diziid": "osw",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/44/sik_olmak"
+    },
+    {
+      "season": 6,
+      "episode": 44,
+      "title": "The Divorce",
+      "diziid": "osw",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/45/oswaldonun_secimi"
+    },
+    {
+      "season": 7,
+      "episode": 45,
+      "title": "Thousand year olive oil",
+      "diziid": "osw",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/46/kapali_kantin"
+    },
+    {
+      "season": 8,
+      "episode": 46,
+      "title": "The Coconut War",
+      "diziid": "osw",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/47/hindistan_cevizi_savasi"
+    },
+    {
+      "season": 9,
+      "episode": 47,
+      "title": "Old Timer's Gang",
+      "diziid": "osw",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/48/kavga"
+    },
+    {
+      "season": 10,
+      "episode": 48,
+      "title": "Vanderson's Lil ship",
+      "diziid": "osw",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/49/sanal_gerceklik"
+    },
+    {
+      "season": 11,
+      "episode": 49,
+      "title": "Anti-Leia",
+      "diziid": "osw",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/50/ters_leia"
+    },
+    {
+      "season": 12,
+      "episode": 50,
+      "title": "Grannyswaldo",
+      "diziid": "osw",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/51/yas_ayricaligi"
+    },
+    {
+      "season": 13,
+      "episode": 51,
+      "title": "Parents and sons",
+      "diziid": "osw",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/osw/oswaldo/52/yilbasi"
+    }
+  ]
+}

@@ -1,0 +1,1380 @@
+{
+  "id": "seinf",
+  "title": "seinfeld",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/SEINPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Seinfeld Chronicles",
+      "diziid": "seinf",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/1/seinfeld"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Stakeout",
+      "diziid": "seinf",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/2/pusu_kurmak"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Robbery",
+      "diziid": "seinf",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/3/hirsizlik"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Male Unbonding",
+      "diziid": "seinf",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/4/arkadastan_ayrilmak"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Stock Tip",
+      "diziid": "seinf",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/5/borsa_tuyosu"
+    },
+    {
+      "season": 1,
+      "episode": 6,
+      "title": "The Ex-Girlfriend",
+      "diziid": "seinf",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/6/eski_kiz_arkadas"
+    },
+    {
+      "season": 2,
+      "episode": 7,
+      "title": "The Pony Remark",
+      "diziid": "seinf",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/7/midilli_olayi"
+    },
+    {
+      "season": 3,
+      "episode": 8,
+      "title": "The Jacket",
+      "diziid": "seinf",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/8/ceket"
+    },
+    {
+      "season": 4,
+      "episode": 9,
+      "title": "The Phone Message",
+      "diziid": "seinf",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/9/sesli_mesaj"
+    },
+    {
+      "season": 5,
+      "episode": 10,
+      "title": "The Apartment",
+      "diziid": "seinf",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/10/apartmanda_bir_daire"
+    },
+    {
+      "season": 6,
+      "episode": 11,
+      "title": "The Statue",
+      "diziid": "seinf",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/11/heykel"
+    },
+    {
+      "season": 7,
+      "episode": 12,
+      "title": "The Revenge",
+      "diziid": "seinf",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/12/intikam"
+    },
+    {
+      "season": 8,
+      "episode": 13,
+      "title": "The Heart Attack",
+      "diziid": "seinf",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/13/kalp_krizi"
+    },
+    {
+      "season": 9,
+      "episode": 14,
+      "title": "The Deal",
+      "diziid": "seinf",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/14/anlasma"
+    },
+    {
+      "season": 10,
+      "episode": 15,
+      "title": "The Baby Shower",
+      "diziid": "seinf",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/15/bebek_partisi"
+    },
+    {
+      "season": 11,
+      "episode": 16,
+      "title": "The Chinese Restaurant",
+      "diziid": "seinf",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/16/cin_restorani"
+    },
+    {
+      "season": 12,
+      "episode": 17,
+      "title": "The Busboy",
+      "diziid": "seinf",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/17/komi"
+    },
+    {
+      "season": 1,
+      "episode": 18,
+      "title": "The Note",
+      "diziid": "seinf",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/18/sevk_belgesi"
+    },
+    {
+      "season": 2,
+      "episode": 19,
+      "title": "The Truth",
+      "diziid": "seinf",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/19/gercek"
+    },
+    {
+      "season": 3,
+      "episode": 20,
+      "title": "The Pen",
+      "diziid": "seinf",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/20/kalem"
+    },
+    {
+      "season": 4,
+      "episode": 21,
+      "title": "The Dog",
+      "diziid": "seinf",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/21/kopek"
+    },
+    {
+      "season": 5,
+      "episode": 22,
+      "title": "The Library",
+      "diziid": "seinf",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/22/kutuphane"
+    },
+    {
+      "season": 6,
+      "episode": 23,
+      "title": "The Parking Garage",
+      "diziid": "seinf",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/23/otopark"
+    },
+    {
+      "season": 7,
+      "episode": 24,
+      "title": "The Cafe",
+      "diziid": "seinf",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/24/kafe"
+    },
+    {
+      "season": 8,
+      "episode": 25,
+      "title": "The Tape",
+      "diziid": "seinf",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/25/kaset"
+    },
+    {
+      "season": 9,
+      "episode": 26,
+      "title": "The Nose Job",
+      "diziid": "seinf",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/26/burun_estetigi"
+    },
+    {
+      "season": 10,
+      "episode": 27,
+      "title": "The Stranded",
+      "diziid": "seinf",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/27/misafirlikte_mahsur_kalmak"
+    },
+    {
+      "season": 11,
+      "episode": 28,
+      "title": "The Alternate Side",
+      "diziid": "seinf",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/28/arabalari_cekmek"
+    },
+    {
+      "season": 12,
+      "episode": 29,
+      "title": "The Red Dot",
+      "diziid": "seinf",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/29/kirmizi_nokta"
+    },
+    {
+      "season": 13,
+      "episode": 30,
+      "title": "The Subway",
+      "diziid": "seinf",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/30/metro"
+    },
+    {
+      "season": 14,
+      "episode": 31,
+      "title": "The Pez Dispenser",
+      "diziid": "seinf",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/31/pez_sekermatigi"
+    },
+    {
+      "season": 15,
+      "episode": 32,
+      "title": "The Suicide",
+      "diziid": "seinf",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/32/intihar"
+    },
+    {
+      "season": 16,
+      "episode": 33,
+      "title": "The Fix-Up",
+      "diziid": "seinf",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/33/copcatanlik"
+    },
+    {
+      "season": 1,
+      "episode": 34,
+      "title": "The Boyfriend",
+      "diziid": "seinf",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/34/erkek_arkadas%2C_kisim_1_ve_2"
+    },
+    {
+      "season": 19,
+      "episode": 35,
+      "title": "The Limo",
+      "diziid": "seinf",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/36/limuzin"
+    },
+    {
+      "season": 20,
+      "episode": 36,
+      "title": "The Good Samaritan",
+      "diziid": "seinf",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/37/hayirsever"
+    },
+    {
+      "season": 21,
+      "episode": 37,
+      "title": "The Letter",
+      "diziid": "seinf",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/38/mektup"
+    },
+    {
+      "season": 22,
+      "episode": 38,
+      "title": "The Parking Space",
+      "diziid": "seinf",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/39/park_yeri"
+    },
+    {
+      "season": 23,
+      "episode": 39,
+      "title": "The Keys",
+      "diziid": "seinf",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/40/anahtarlar"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "The Trip: Part 1",
+      "diziid": "seinf",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/41/yolculuk%3A_kisim_i"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "The Trip: Part 2",
+      "diziid": "seinf",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/42/yolculuk%3A_kisim_ii"
+    },
+    {
+      "season": 1,
+      "episode": 42,
+      "title": "The Pitch / The Ticket",
+      "diziid": "seinf",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/43/fikir_sunumu__ceza"
+    },
+    {
+      "season": 5,
+      "episode": 43,
+      "title": "The Wallet",
+      "diziid": "seinf",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/45/cuzdan"
+    },
+    {
+      "season": 6,
+      "episode": 44,
+      "title": "The Watch",
+      "diziid": "seinf",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/46/saat"
+    },
+    {
+      "season": 7,
+      "episode": 45,
+      "title": "The Bubble Boy",
+      "diziid": "seinf",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/47/balon_cocuk"
+    },
+    {
+      "season": 8,
+      "episode": 46,
+      "title": "The Cheever Letters",
+      "diziid": "seinf",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/48/cheeverin_mektuplari"
+    },
+    {
+      "season": 9,
+      "episode": 47,
+      "title": "The Opera",
+      "diziid": "seinf",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/49/opera"
+    },
+    {
+      "season": 10,
+      "episode": 48,
+      "title": "The Virgin",
+      "diziid": "seinf",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/50/bakire"
+    },
+    {
+      "season": 11,
+      "episode": 49,
+      "title": "The Contest",
+      "diziid": "seinf",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/51/yarisma"
+    },
+    {
+      "season": 12,
+      "episode": 50,
+      "title": "The Airport",
+      "diziid": "seinf",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/52/havaalani"
+    },
+    {
+      "season": 13,
+      "episode": 51,
+      "title": "The Pick",
+      "diziid": "seinf",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/53/karistirma"
+    },
+    {
+      "season": 14,
+      "episode": 52,
+      "title": "The Movie",
+      "diziid": "seinf",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/54/film"
+    },
+    {
+      "season": 15,
+      "episode": 53,
+      "title": "The Visa",
+      "diziid": "seinf",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/55/vize"
+    },
+    {
+      "season": 16,
+      "episode": 54,
+      "title": "The Shoes",
+      "diziid": "seinf",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/56/ayakkabilar"
+    },
+    {
+      "season": 17,
+      "episode": 55,
+      "title": "The Outing",
+      "diziid": "seinf",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/57/ben_geyim"
+    },
+    {
+      "season": 18,
+      "episode": 56,
+      "title": "The Old Man",
+      "diziid": "seinf",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/58/yasli_adam"
+    },
+    {
+      "season": 19,
+      "episode": 57,
+      "title": "The Implant",
+      "diziid": "seinf",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/59/silikon"
+    },
+    {
+      "season": 20,
+      "episode": 58,
+      "title": "The Junior Mint",
+      "diziid": "seinf",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/60/junior_mint"
+    },
+    {
+      "season": 21,
+      "episode": 59,
+      "title": "The Smelly Car",
+      "diziid": "seinf",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/61/araba_kokuyor"
+    },
+    {
+      "season": 22,
+      "episode": 60,
+      "title": "The Handicap Spot",
+      "diziid": "seinf",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/62/engelli_park_yeri"
+    },
+    {
+      "season": 1,
+      "episode": 61,
+      "title": "The Pilot",
+      "diziid": "seinf",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/63/pilot_bolum%3A_kisim_i_ve_ii"
+    },
+    {
+      "season": 1,
+      "episode": 62,
+      "title": "The Mango",
+      "diziid": "seinf",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/65/mango"
+    },
+    {
+      "season": 2,
+      "episode": 63,
+      "title": "The Puffy Shirt",
+      "diziid": "seinf",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/66/kabarik_gomlek"
+    },
+    {
+      "season": 3,
+      "episode": 64,
+      "title": "The Glasses",
+      "diziid": "seinf",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/67/gozluk"
+    },
+    {
+      "season": 4,
+      "episode": 65,
+      "title": "The Sniffing Accountant",
+      "diziid": "seinf",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/68/burnunu_ceken_muhasebeci"
+    },
+    {
+      "season": 5,
+      "episode": 66,
+      "title": "The Bris",
+      "diziid": "seinf",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/69/sunnet"
+    },
+    {
+      "season": 6,
+      "episode": 67,
+      "title": "The Lip Reader",
+      "diziid": "seinf",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/70/dudak_okuyucu"
+    },
+    {
+      "season": 7,
+      "episode": 68,
+      "title": "The Non-Fat Yogurt",
+      "diziid": "seinf",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/71/yagsiz_yogurt"
+    },
+    {
+      "season": 8,
+      "episode": 69,
+      "title": "The Barber",
+      "diziid": "seinf",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/72/berber"
+    },
+    {
+      "season": 9,
+      "episode": 70,
+      "title": "The Masseuse",
+      "diziid": "seinf",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/73/masoz"
+    },
+    {
+      "season": 10,
+      "episode": 71,
+      "title": "The Cigar Store Indian",
+      "diziid": "seinf",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/74/puro_dukkanindaki_kizilderili"
+    },
+    {
+      "season": 11,
+      "episode": 72,
+      "title": "The Conversion",
+      "diziid": "seinf",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/75/din_degistirme"
+    },
+    {
+      "season": 12,
+      "episode": 73,
+      "title": "The Stall",
+      "diziid": "seinf",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/76/tuvalet_kabini"
+    },
+    {
+      "season": 13,
+      "episode": 74,
+      "title": "The Dinner Party",
+      "diziid": "seinf",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/77/aksam_yemegi"
+    },
+    {
+      "season": 14,
+      "episode": 75,
+      "title": "The Marine Biologist",
+      "diziid": "seinf",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/78/deniz_biyologu"
+    },
+    {
+      "season": 15,
+      "episode": 76,
+      "title": "The Pie",
+      "diziid": "seinf",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/79/turta"
+    },
+    {
+      "season": 16,
+      "episode": 77,
+      "title": "The Stand-In",
+      "diziid": "seinf",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/80/dublorluk"
+    },
+    {
+      "season": 17,
+      "episode": 78,
+      "title": "The Wife",
+      "diziid": "seinf",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/81/esim"
+    },
+    {
+      "season": 1,
+      "episode": 79,
+      "title": "The Raincoats",
+      "diziid": "seinf",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/82/yagmurluklar%2C_i_ve_ii._kisim"
+    },
+    {
+      "season": 20,
+      "episode": 80,
+      "title": "The Fire",
+      "diziid": "seinf",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/84/yangin"
+    },
+    {
+      "season": 21,
+      "episode": 81,
+      "title": "The Hamptons",
+      "diziid": "seinf",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/85/hampton"
+    },
+    {
+      "season": 22,
+      "episode": 82,
+      "title": "The Opposite",
+      "diziid": "seinf",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/86/tam_tersi"
+    },
+    {
+      "season": 1,
+      "episode": 83,
+      "title": "The Chaperone",
+      "diziid": "seinf",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/87/eslikci"
+    },
+    {
+      "season": 2,
+      "episode": 84,
+      "title": "The Big Salad",
+      "diziid": "seinf",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/88/buyuk_salata"
+    },
+    {
+      "season": 3,
+      "episode": 85,
+      "title": "The Pledge Drive",
+      "diziid": "seinf",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/89/bagis_organizasyonu"
+    },
+    {
+      "season": 4,
+      "episode": 86,
+      "title": "The Chinese Woman",
+      "diziid": "seinf",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/90/cinli_kadin"
+    },
+    {
+      "season": 5,
+      "episode": 87,
+      "title": "The Couch",
+      "diziid": "seinf",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/91/koltuk"
+    },
+    {
+      "season": 6,
+      "episode": 88,
+      "title": "The Gymnast",
+      "diziid": "seinf",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/92/jimnastikci"
+    },
+    {
+      "season": 7,
+      "episode": 89,
+      "title": "The Soup",
+      "diziid": "seinf",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/93/corba"
+    },
+    {
+      "season": 8,
+      "episode": 90,
+      "title": "The Mom & Pop Store",
+      "diziid": "seinf",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/94/esnaf_dukkani"
+    },
+    {
+      "season": 9,
+      "episode": 91,
+      "title": "The Secretary",
+      "diziid": "seinf",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/95/sekreter"
+    },
+    {
+      "season": 10,
+      "episode": 92,
+      "title": "The Race",
+      "diziid": "seinf",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/96/yaris"
+    },
+    {
+      "season": 11,
+      "episode": 93,
+      "title": "The Switch",
+      "diziid": "seinf",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/97/gecis"
+    },
+    {
+      "season": 12,
+      "episode": 94,
+      "title": "The Label Maker",
+      "diziid": "seinf",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/98/etiket_makinesi"
+    },
+    {
+      "season": 13,
+      "episode": 95,
+      "title": "The Scofflaw",
+      "diziid": "seinf",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/99/kanunlari_takmayan_adam"
+    },
+    {
+      "season": 1,
+      "episode": 96,
+      "title": "The Highlights of a Hundred",
+      "diziid": "seinf",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/100/100._bolum_ozel__1_saat"
+    },
+    {
+      "season": 16,
+      "episode": 97,
+      "title": "The Beard",
+      "diziid": "seinf",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/102/cakma_partner"
+    },
+    {
+      "season": 17,
+      "episode": 98,
+      "title": "The Kiss Hello",
+      "diziid": "seinf",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/103/karsilasinca_opusme"
+    },
+    {
+      "season": 18,
+      "episode": 99,
+      "title": "The Doorman",
+      "diziid": "seinf",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/104/kapici"
+    },
+    {
+      "season": 19,
+      "episode": 100,
+      "title": "The Jimmy",
+      "diziid": "seinf",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/105/jimmy"
+    },
+    {
+      "season": 20,
+      "episode": 101,
+      "title": "The Doodle",
+      "diziid": "seinf",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/106/karalama"
+    },
+    {
+      "season": 21,
+      "episode": 102,
+      "title": "The Fusilli Jerry",
+      "diziid": "seinf",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/107/burgu_jerry"
+    },
+    {
+      "season": 22,
+      "episode": 103,
+      "title": "The Diplomat's Club",
+      "diziid": "seinf",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/108/diplomat_kulubu"
+    },
+    {
+      "season": 23,
+      "episode": 104,
+      "title": "The Face Painter",
+      "diziid": "seinf",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/109/suratini_boyayan_adam"
+    },
+    {
+      "season": 24,
+      "episode": 105,
+      "title": "The Understudy",
+      "diziid": "seinf",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/110/yedek_oyuncu"
+    },
+    {
+      "season": 1,
+      "episode": 106,
+      "title": "The Engagement",
+      "diziid": "seinf",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/111/nisanlanma"
+    },
+    {
+      "season": 2,
+      "episode": 107,
+      "title": "The Postponement",
+      "diziid": "seinf",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/112/erteleme"
+    },
+    {
+      "season": 3,
+      "episode": 108,
+      "title": "The Maestro",
+      "diziid": "seinf",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/113/sef"
+    },
+    {
+      "season": 4,
+      "episode": 109,
+      "title": "The Wink",
+      "diziid": "seinf",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/114/goz_kirpma"
+    },
+    {
+      "season": 5,
+      "episode": 110,
+      "title": "The Hot Tub",
+      "diziid": "seinf",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/115/jakuzi"
+    },
+    {
+      "season": 6,
+      "episode": 111,
+      "title": "The Soup Nazi",
+      "diziid": "seinf",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/116/nazi_corbaci"
+    },
+    {
+      "season": 7,
+      "episode": 112,
+      "title": "The Secret Code",
+      "diziid": "seinf",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/117/gizli_sifre"
+    },
+    {
+      "season": 8,
+      "episode": 113,
+      "title": "The Pool Guy",
+      "diziid": "seinf",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/118/havuz_temizlikcisi"
+    },
+    {
+      "season": 9,
+      "episode": 114,
+      "title": "The Sponge",
+      "diziid": "seinf",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/119/sunger"
+    },
+    {
+      "season": 10,
+      "episode": 115,
+      "title": "The Gum",
+      "diziid": "seinf",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/120/sakiz"
+    },
+    {
+      "season": 11,
+      "episode": 116,
+      "title": "The Rye",
+      "diziid": "seinf",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/121/cavdar_ekmegi"
+    },
+    {
+      "season": 12,
+      "episode": 117,
+      "title": "The Caddy",
+      "diziid": "seinf",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/122/golf_yardimcisi"
+    },
+    {
+      "season": 13,
+      "episode": 118,
+      "title": "The Seven",
+      "diziid": "seinf",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/123/yedi"
+    },
+    {
+      "season": 1,
+      "episode": 119,
+      "title": "The Cadillac",
+      "diziid": "seinf",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/124/cadillac%3A_kisim_i_ve_ii"
+    },
+    {
+      "season": 16,
+      "episode": 120,
+      "title": "The Shower Head",
+      "diziid": "seinf",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/126/dus_basligi"
+    },
+    {
+      "season": 17,
+      "episode": 121,
+      "title": "The Doll",
+      "diziid": "seinf",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/127/bebek"
+    },
+    {
+      "season": 18,
+      "episode": 122,
+      "title": "The Friars Club",
+      "diziid": "seinf",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/128/friars_club"
+    },
+    {
+      "season": 19,
+      "episode": 123,
+      "title": "The Wig Master",
+      "diziid": "seinf",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/129/peruk_ustasi"
+    },
+    {
+      "season": 20,
+      "episode": 124,
+      "title": "The Calzone",
+      "diziid": "seinf",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/130/calzone"
+    },
+    {
+      "season": 1,
+      "episode": 125,
+      "title": "The Bottle Deposit",
+      "diziid": "seinf",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/131/depozitolu_siseler%3A_kisim_i_ve_ii"
+    },
+    {
+      "season": 23,
+      "episode": 126,
+      "title": "The Wait Out",
+      "diziid": "seinf",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/133/bekleme"
+    },
+    {
+      "season": 24,
+      "episode": 127,
+      "title": "The Invitations",
+      "diziid": "seinf",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/134/davetiyeler"
+    },
+    {
+      "season": 1,
+      "episode": 128,
+      "title": "The Foundation",
+      "diziid": "seinf",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/135/vakif"
+    },
+    {
+      "season": 2,
+      "episode": 129,
+      "title": "The Soul Mate",
+      "diziid": "seinf",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/136/ruh_ikizi"
+    },
+    {
+      "season": 3,
+      "episode": 130,
+      "title": "The Bizarro Jerry",
+      "diziid": "seinf",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/137/bizarro_jerry"
+    },
+    {
+      "season": 4,
+      "episode": 131,
+      "title": "The Little Kicks",
+      "diziid": "seinf",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/138/kucuk_tekmeler"
+    },
+    {
+      "season": 5,
+      "episode": 132,
+      "title": "The Package",
+      "diziid": "seinf",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/139/paket"
+    },
+    {
+      "season": 6,
+      "episode": 133,
+      "title": "The Fatigues",
+      "diziid": "seinf",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/140/asker_giysileri"
+    },
+    {
+      "season": 7,
+      "episode": 134,
+      "title": "The Checks",
+      "diziid": "seinf",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/141/cekler"
+    },
+    {
+      "season": 8,
+      "episode": 135,
+      "title": "The Chicken Roaster",
+      "diziid": "seinf",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/142/kizarmis_tavuk"
+    },
+    {
+      "season": 9,
+      "episode": 136,
+      "title": "The Abstinence",
+      "diziid": "seinf",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/143/cinsel_perhiz"
+    },
+    {
+      "season": 10,
+      "episode": 137,
+      "title": "The Andrea Doria",
+      "diziid": "seinf",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/144/andrea_doria"
+    },
+    {
+      "season": 11,
+      "episode": 138,
+      "title": "The Little Jerry",
+      "diziid": "seinf",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/145/kucuk_jerry"
+    },
+    {
+      "season": 12,
+      "episode": 139,
+      "title": "The Money",
+      "diziid": "seinf",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/146/para"
+    },
+    {
+      "season": 13,
+      "episode": 140,
+      "title": "The Comeback",
+      "diziid": "seinf",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/147/hazircevap"
+    },
+    {
+      "season": 14,
+      "episode": 141,
+      "title": "The Van Buren Boys",
+      "diziid": "seinf",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/148/van_buren_cetesi"
+    },
+    {
+      "season": 15,
+      "episode": 142,
+      "title": "The Susie",
+      "diziid": "seinf",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/149/susie"
+    },
+    {
+      "season": 16,
+      "episode": 143,
+      "title": "The Pothole",
+      "diziid": "seinf",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/150/cukur"
+    },
+    {
+      "season": 17,
+      "episode": 144,
+      "title": "The English Patient",
+      "diziid": "seinf",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/151/ingiliz_hasta"
+    },
+    {
+      "season": 18,
+      "episode": 145,
+      "title": "The Nap",
+      "diziid": "seinf",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/152/sekerleme"
+    },
+    {
+      "season": 19,
+      "episode": 146,
+      "title": "The Yada Yada",
+      "diziid": "seinf",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/153/vesaire_vesaire"
+    },
+    {
+      "season": 20,
+      "episode": 147,
+      "title": "The Millennium",
+      "diziid": "seinf",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/154/milenyum"
+    },
+    {
+      "season": 21,
+      "episode": 148,
+      "title": "The Muffin Tops",
+      "diziid": "seinf",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/155/kek_tepesi"
+    },
+    {
+      "season": 22,
+      "episode": 149,
+      "title": "The Summer of George",
+      "diziid": "seinf",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/156/georgeun_yazi"
+    },
+    {
+      "season": 1,
+      "episode": 150,
+      "title": "The Butter Shave",
+      "diziid": "seinf",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/157/tereyagiyla_tiras"
+    },
+    {
+      "season": 2,
+      "episode": 151,
+      "title": "The Voice",
+      "diziid": "seinf",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/158/ses"
+    },
+    {
+      "season": 3,
+      "episode": 152,
+      "title": "The Serenity Now",
+      "diziid": "seinf",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/159/sakin_ol"
+    },
+    {
+      "season": 4,
+      "episode": 153,
+      "title": "The Blood",
+      "diziid": "seinf",
+      "bolum": "160",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/160/kan"
+    },
+    {
+      "season": 5,
+      "episode": 154,
+      "title": "The Junk Mail",
+      "diziid": "seinf",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/161/istenmeyen_posta"
+    },
+    {
+      "season": 6,
+      "episode": 155,
+      "title": "The Merv Griffin Show",
+      "diziid": "seinf",
+      "bolum": "162",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/162/merv_griffin_sov"
+    },
+    {
+      "season": 7,
+      "episode": 156,
+      "title": "The Slicer",
+      "diziid": "seinf",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/163/dilimleyici"
+    },
+    {
+      "season": 8,
+      "episode": 157,
+      "title": "The Betrayal",
+      "diziid": "seinf",
+      "bolum": "164",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/164/ihanet"
+    },
+    {
+      "season": 9,
+      "episode": 158,
+      "title": "The Apology",
+      "diziid": "seinf",
+      "bolum": "165",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/165/ozur"
+    },
+    {
+      "season": 10,
+      "episode": 159,
+      "title": "The Strike",
+      "diziid": "seinf",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/166/grev"
+    },
+    {
+      "season": 11,
+      "episode": 160,
+      "title": "The Dealership",
+      "diziid": "seinf",
+      "bolum": "167",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/167/bayi"
+    },
+    {
+      "season": 12,
+      "episode": 161,
+      "title": "The Reverse Peephole",
+      "diziid": "seinf",
+      "bolum": "168",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/168/ters_kapi_deligi"
+    },
+    {
+      "season": 13,
+      "episode": 162,
+      "title": "The Cartoon",
+      "diziid": "seinf",
+      "bolum": "169",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/169/karikatur"
+    },
+    {
+      "season": 14,
+      "episode": 163,
+      "title": "The Strongbox",
+      "diziid": "seinf",
+      "bolum": "170",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/170/kasa"
+    },
+    {
+      "season": 15,
+      "episode": 164,
+      "title": "The Wizard",
+      "diziid": "seinf",
+      "bolum": "171",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/171/wizard_elektronik_ajanda"
+    },
+    {
+      "season": 16,
+      "episode": 165,
+      "title": "The Burning",
+      "diziid": "seinf",
+      "bolum": "172",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/172/yanma"
+    },
+    {
+      "season": 17,
+      "episode": 166,
+      "title": "The Bookstore",
+      "diziid": "seinf",
+      "bolum": "173",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/173/kitabevi"
+    },
+    {
+      "season": 18,
+      "episode": 167,
+      "title": "The Frogger",
+      "diziid": "seinf",
+      "bolum": "174",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/174/kurbagaci"
+    },
+    {
+      "season": 19,
+      "episode": 168,
+      "title": "The Maid",
+      "diziid": "seinf",
+      "bolum": "175",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/175/hizmetci"
+    },
+    {
+      "season": 20,
+      "episode": 169,
+      "title": "The Puerto Rican Day",
+      "diziid": "seinf",
+      "bolum": "176",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/176/porto_riko_gunu"
+    },
+    {
+      "season": 1,
+      "episode": 170,
+      "title": "The Chronicle",
+      "diziid": "seinf",
+      "bolum": "177",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/177/ozet_bolum_kisim_1_ve_2"
+    },
+    {
+      "season": 1,
+      "episode": 171,
+      "title": "The Finale",
+      "diziid": "seinf",
+      "bolum": "179",
+      "url": "https://cizgivedizi.com/dizi/seinf/seinfeld/179/final_kisim_1_ve_2"
+    }
+  ]
+}

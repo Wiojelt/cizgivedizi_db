@@ -1,0 +1,93 @@
+{
+  "id": "tbb",
+  "title": "transformers: botbot'lar",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TBBPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Bilim Kurgu",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Mall Than Meets the Eye / (Never) Be Yourself",
+      "diziid": "tbb",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/tbb/transformers%3A_botbotlar/1/gorundugunden_daha_fazlasi__kendin_ol"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Escape from Snackatraz/I, Cheeseburger",
+      "diziid": "tbb",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/tbb/transformers%3A_botbotlar/2/otomattan_kacis__ben_cizburger"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Phoning It In/The Lost Bots and the Claw Crusade",
+      "diziid": "tbb",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/tbb/transformers%3A_botbotlar/3/telefon_takintisi__kayip_robotlar%3A_oyuncak_kapma_macerasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Live and Let LARP/Lone Bot and Carb",
+      "diziid": "tbb",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/tbb/transformers%3A_botbotlar/4/birakiniz_rol_yapma_oyunu_oynasinlar__yalniz_robot_ve_karbonhidrat_deposu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Dimlit in Love/On the Bot Prom Dance Floor",
+      "diziid": "tbb",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/tbb/transformers%3A_botbotlar/5/asik_dimlit__robot_balosunun_dans_pistinde"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Ruckus Rally/Crime and Bun-ishment",
+      "diziid": "tbb",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/tbb/transformers%3A_botbotlar/6/kargasa_dolu_bir_ralli__suc_ve_burger"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Spirit of Halloween/Rage Against the Karaoke Machine",
+      "diziid": "tbb",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/tbb/transformers%3A_botbotlar/7/cadilar_bayrami_ruhu__ofkeni_karaokeden_cikar"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Scanned Out/The Science Alliance",
+      "diziid": "tbb",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/tbb/transformers%3A_botbotlar/8/sepetlenme_korkusu__bilim_robotlari"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Agent Smartlit/Shopping Brawl",
+      "diziid": "tbb",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/tbb/transformers%3A_botbotlar/9/ajan_robot__alisveris_kavgasi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Goldrush Games",
+      "diziid": "tbb",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/tbb/transformers%3A_botbotlar/10/altina_hucum_oyunlari"
+    }
+  ]
+}

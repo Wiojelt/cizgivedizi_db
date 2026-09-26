@@ -1,0 +1,420 @@
+{
+  "id": "kazoom",
+  "title": "superthings: rivals of kaboom - kazoom gÃ¼cÃ¼",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KAZOOMPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Power of the Kazoom",
+      "diziid": "kazoom",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/1/kazoomun_gucu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Welcome to Kaboom City!",
+      "diziid": "kazoom",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/2/kaboom_cityye_hos_geldiniz%21"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Name of a Hero",
+      "diziid": "kazoom",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/3/bir_kahramanin_ismi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Let's Recover the Kazoom",
+      "diziid": "kazoom",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/4/hadi_kazoomu_geri_alalim%21"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "One of Us",
+      "diziid": "kazoom",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/5/bizden_biri"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Eyes of a Villain",
+      "diziid": "kazoom",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/6/bir_kotunun_gozleri"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Pop-corn Revenge",
+      "diziid": "kazoom",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/7/patlamis_misir_intikami"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Speedy Kazoom",
+      "diziid": "kazoom",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/8/suratli_kazoom"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Smells like Problems",
+      "diziid": "kazoom",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/9/sorun_gibi_kokuyor"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "5 More Minutes",
+      "diziid": "kazoom",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/10/bes_dakika_daha"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Check to the Barracks",
+      "diziid": "kazoom",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/11/kislaya_sah_mat"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Wreck Delivery Service",
+      "diziid": "kazoom",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/12/hasar_teslimat_servisi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Into Pieces",
+      "diziid": "kazoom",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/13/parcalara_ayrildi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "A Little Detour",
+      "diziid": "kazoom",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/14/kucuk_bir_sapma"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "This Is Our Base",
+      "diziid": "kazoom",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/15/burasi_bizim_ussumuz"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "A Legendary Quest",
+      "diziid": "kazoom",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/16/efsanevi_bir_gorev"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Candy Challenge",
+      "diziid": "kazoom",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/17/seker_mucadelesi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Newcomers",
+      "diziid": "kazoom",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/18/yeni_gelenler"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Villains on Ice",
+      "diziid": "kazoom",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/19/buzda_kotuler"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "A Funny-Dum Problem",
+      "diziid": "kazoom",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/20/_sorun"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Legendary Training",
+      "diziid": "kazoom",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/21/efsanevi_egitim"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Let's Steal the Energy",
+      "diziid": "kazoom",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/22/hadi_enerjiyi_alalim"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "Magma Mission",
+      "diziid": "kazoom",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/24/magma_gorevi"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "Raging Volcano",
+      "diziid": "kazoom",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/25/ofkeli_yanardag"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "Burning Flight",
+      "diziid": "kazoom",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/26/atesli_kacis"
+    },
+    {
+      "season": 1,
+      "episode": 26,
+      "title": "The Threat of Ultra Striker",
+      "diziid": "kazoom",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/27/ultra_strikerin_tehdidi"
+    },
+    {
+      "season": 2,
+      "episode": 27,
+      "title": "A Bad-Luck Day",
+      "diziid": "kazoom",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/28/ugursuz_bir_gun"
+    },
+    {
+      "season": 3,
+      "episode": 28,
+      "title": "Kazoomball",
+      "diziid": "kazoom",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/29/kazoombol"
+    },
+    {
+      "season": 4,
+      "episode": 29,
+      "title": "Next Station: Trouble!",
+      "diziid": "kazoom",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/30/bir_sonraki_durak%3A_sorun%21"
+    },
+    {
+      "season": 5,
+      "episode": 30,
+      "title": "Catastrophic Magnetism",
+      "diziid": "kazoom",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/31/felaket_manyetizmasi"
+    },
+    {
+      "season": 6,
+      "episode": 31,
+      "title": "The Strongest of Them All",
+      "diziid": "kazoom",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/32/hepsinin_en_guclusu"
+    },
+    {
+      "season": 7,
+      "episode": 32,
+      "title": "Pass The Spice?",
+      "diziid": "kazoom",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/33/baharati_uzatir_misin"
+    },
+    {
+      "season": 8,
+      "episode": 33,
+      "title": "Draw Me if You Can",
+      "diziid": "kazoom",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/34/yapabilirsen_ciz_beni"
+    },
+    {
+      "season": 9,
+      "episode": 34,
+      "title": "Fragmented Pyramid",
+      "diziid": "kazoom",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/35/parcalanmis_piramit"
+    },
+    {
+      "season": 10,
+      "episode": 35,
+      "title": "A Legendary Origin",
+      "diziid": "kazoom",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/36/efsanevi_bir_koken"
+    },
+    {
+      "season": 11,
+      "episode": 36,
+      "title": "Demolition Villains",
+      "diziid": "kazoom",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/37/yikim_kotuleri"
+    },
+    {
+      "season": 12,
+      "episode": 37,
+      "title": "An Epic Visit",
+      "diziid": "kazoom",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/38/destansi_bir_ziyaret"
+    },
+    {
+      "season": 13,
+      "episode": 38,
+      "title": "Mister King Versus Enigma",
+      "diziid": "kazoom",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/39/mister_kinge_karsi_enigma"
+    },
+    {
+      "season": 14,
+      "episode": 39,
+      "title": "Spinning Like A Tornado",
+      "diziid": "kazoom",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/40/kasirga_gibi_donmek"
+    },
+    {
+      "season": 15,
+      "episode": 40,
+      "title": "Spinning Combat",
+      "diziid": "kazoom",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/41/topac_savasi"
+    },
+    {
+      "season": 16,
+      "episode": 41,
+      "title": "A Sweet Disaster",
+      "diziid": "kazoom",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/42/tatli_bir_felaket"
+    },
+    {
+      "season": 17,
+      "episode": 42,
+      "title": "Mass Vegetation",
+      "diziid": "kazoom",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/43/kocaman_bitki_ortusu"
+    },
+    {
+      "season": 18,
+      "episode": 43,
+      "title": "A Camp Haunting",
+      "diziid": "kazoom",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/44/perili_kamp"
+    },
+    {
+      "season": 19,
+      "episode": 44,
+      "title": "Ron-Ron At The Race",
+      "diziid": "kazoom",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/45/ron-ron_yarista"
+    },
+    {
+      "season": 20,
+      "episode": 45,
+      "title": "The Last Fragment",
+      "diziid": "kazoom",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/46/son_parca"
+    },
+    {
+      "season": 21,
+      "episode": 46,
+      "title": "Back To The Laboratory",
+      "diziid": "kazoom",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/47/laboratuvara_donus"
+    },
+    {
+      "season": 22,
+      "episode": 47,
+      "title": "Making My Own Future",
+      "diziid": "kazoom",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/48/gelecek_benim"
+    },
+    {
+      "season": 23,
+      "episode": 48,
+      "title": "Calm Before The Storm",
+      "diziid": "kazoom",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/49/firtina_oncesi_sessizlik"
+    },
+    {
+      "season": 24,
+      "episode": 49,
+      "title": "The Day of Chaos",
+      "diziid": "kazoom",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/50/kaos_gunu"
+    },
+    {
+      "season": 25,
+      "episode": 50,
+      "title": "The Titan's Fury",
+      "diziid": "kazoom",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/51/titanin_gazabi"
+    },
+    {
+      "season": 26,
+      "episode": 51,
+      "title": "A Horizon of Kazoom",
+      "diziid": "kazoom",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/kazoom/superthings%3A_rivals_of_kaboom_-_kazoom_gucu/52/bir_kazoom_ufku"
+    }
+  ]
+}

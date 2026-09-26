@@ -1,0 +1,221 @@
+{
+  "id": "dindan",
+  "title": "dino dana",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/DINDANPoster.avif",
+  "channel": "Prime Video",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici",
+    "DoÄŸa ve Hayvanlar"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Dino Field Guides",
+      "diziid": "dindan",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/1/dino_saha_rehberleri"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Dino Divers / A Game of Microraptor and Mouse",
+      "diziid": "dindan",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/2/dino_dalgiclar__bir_microraptor-fare_oyunu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "All in the Dino Family / Snakes and Dinosaurs",
+      "diziid": "dindan",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/3/kocaman_bir_dino_ailesi__yilanlar_ve_dinozorlar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Dinos of a Feather / Dino Baby Talk",
+      "diziid": "dindan",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/4/tuylu_tuylu_dinolar__bebek_dino_konusmasi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Dino Doctor / Be My Dinobaby",
+      "diziid": "dindan",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/5/dino_doktoru__dino_bebegim_ol"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Dino Defender / Dino Days of Summer",
+      "diziid": "dindan",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/6/dino_koruyucusu__yazin_dino_gunleri"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Calling All Plesiosaurs / King of the Dance Floor",
+      "diziid": "dindan",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/7/tum_plesiosauruslari_cagiralim__dans_pistinin_krali"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Fossil Finders / Dino Rescue Train",
+      "diziid": "dindan",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/8/fosil_kasifleri__dino_kurtarma_treni"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Mega Tooth / Dino Dodgeball",
+      "diziid": "dindan",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/9/mega_dis__dino_yakantopu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Get That Incisivosaurus / Dino Sight",
+      "diziid": "dindan",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/10/incisivosaurusu_yakala__dino_gorusu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "I Dig History / Dinomite",
+      "diziid": "dindan",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/11/tarihi_kaziyorum__dinomit"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Face Your Fearosaurus / Herd It Loud and Clear",
+      "diziid": "dindan",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/12/korkusorusunla_yuzles__seni_cok_net_sekilde_surudum"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Dino Matchmaker / Lost and Sound",
+      "diziid": "dindan",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/13/dino_copcatani__kayip_ama_guvende"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Tusk Love",
+      "diziid": "dindan",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/14/buyuk_dis_sevgisi"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Dino Rivalry / Dino Skater",
+      "diziid": "dindan",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/15/dino_rakipler__dino_kaykayci"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Dino in Aisle 7 / Dino Suit of Armour",
+      "diziid": "dindan",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/16/reyondaki_dino__dino_savas_zirhi"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Taming the Smilodon / DIY Dino",
+      "diziid": "dindan",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/17/smilodon%E2%80%99u_evcillestirmek__kendi_dinonu_kendin_yap"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "A Dino Never Forgets / Claw & Order",
+      "diziid": "dindan",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/18/bir_dino_asla_unutmaz__pence_ve_duzen"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Reptile Connection / Three Dinos and a Baby",
+      "diziid": "dindan",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/19/surungen_baglantisi__3_dinozor_ve_1_bebek"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Dinoback Riding / Overnight Dino",
+      "diziid": "dindan",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/20/dino_sirtinda_gezi__yatili_dino"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Saaratops / Raising Dino Expectations",
+      "diziid": "dindan",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/21/saaratops__dino_beklentilerini_yukseltmek"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "The Fast and the Fiercest / Growing Up Dino",
+      "diziid": "dindan",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/22/en_hizli_ve_en_acimasiz__bir_dino_buyuyor"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Dino Thieves / The Dino Giver",
+      "diziid": "dindan",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/23/dino_hirsizlar__dino_verici"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "The First Elephant / Dino Burrow",
+      "diziid": "dindan",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/24/dunyanin_ilk_fili__dino_oyugu"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Dino Kitty / Dino, It's Cold Outside",
+      "diziid": "dindan",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/25/dino_kedicik__disarisi_cok_soguk_dino"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "Game of Bones",
+      "diziid": "dindan",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/dindan/dino_dana/26/kemik_oyunlari"
+    }
+  ]
+}

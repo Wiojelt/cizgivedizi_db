@@ -1,0 +1,93 @@
+{
+  "id": "qf",
+  "title": "q-force",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/QFPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "LGBT"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Rogue",
+      "diziid": "qf",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/qf/q-force/1/basibos"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Deb's BBQ",
+      "diziid": "qf",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/qf/q-force/2/debin_mangal_partisi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Backache Mountain",
+      "diziid": "qf",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/qf/q-force/3/backache_dagi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "EuropeVision",
+      "diziid": "qf",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/qf/q-force/4/europevision"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "WeHo Confidential",
+      "diziid": "qf",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/qf/q-force/5/west_hollywoodun_sirlari"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Secretaries' Ball",
+      "diziid": "qf",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/qf/q-force/6/sekreterler_balosu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Tarzana",
+      "diziid": "qf",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/qf/q-force/7/tarzana"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Greyscale",
+      "diziid": "qf",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/qf/q-force/8/gri_ton"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Coeur de la Mer",
+      "diziid": "qf",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/qf/q-force/9/denizin_kalbi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Hole",
+      "diziid": "qf",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/qf/q-force/10/yarik"
+    }
+  ]
+}

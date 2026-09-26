@@ -1,0 +1,613 @@
+{
+  "id": "duckt17",
+  "title": "ducktales (2017)",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/DUCKT17Poster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Macera",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Woo-oo!",
+      "diziid": "duckt17",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/1/hu_hu%21"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Escape To/From Atlantis!",
+      "diziid": "duckt17",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/2/atlantis_kacisi%21"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Daytrip of Doom!",
+      "diziid": "duckt17",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/3/talihsiz_gezi%21"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Impossible Summit of Mt. Neverrest!",
+      "diziid": "duckt17",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/4/neverest_daginin_ulasilmaz_zirvesi%21"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Great Dime Chase!",
+      "diziid": "duckt17",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/5/buyuk_para_avi%21"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Beagle Birthday Massacre!",
+      "diziid": "duckt17",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/6/beagle_dogum_gunu_fiyaskosu%21"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The House of the Lucky Gander!",
+      "diziid": "duckt17",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/7/sansli_ganderin_evi%21"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Infernal Internship of Mark Beaks!",
+      "diziid": "duckt17",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/8/mark_beaksin_korkunc_staji%21"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Living Mummies of Toth-Ra!",
+      "diziid": "duckt17",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/9/tot-ranin_canli_mumyalari%21"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Terror of the Terra-firmians!",
+      "diziid": "duckt17",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/10/terra-firmian_dehseti%21"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "McMystery at McDuck McManor!",
+      "diziid": "duckt17",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/11/mcduck_malikanesinde_mc-gizem%21"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Missing Links of Moorshire!",
+      "diziid": "duckt17",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/12/moorshirein_kayip_golf_sahasi%21"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Spear of Selene!",
+      "diziid": "duckt17",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/13/selenenin_mizragi%21"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Day of the Only Child!",
+      "diziid": "duckt17",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/14/tek_cocuk_gunu%21"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Beware the B.U.D.D.Y. System!",
+      "diziid": "duckt17",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/15/kusursuz_biksur_sistemi%21"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Golden Lagoon of White Agony Plains!",
+      "diziid": "duckt17",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/16/beyaz_eziyet_duzlukleri_altin_lagunu%21"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Jaw$!",
+      "diziid": "duckt17",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/17/para_kopek_baligi%21"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "From the Confidential Casefiles of Agent 22!",
+      "diziid": "duckt17",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/18/ajan_22nin_gizli_dosyalari%21"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Sky Pirates...In the Sky!",
+      "diziid": "duckt17",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/19/gokyuzundeki..._gok_korsanlari%21"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Secret(s) of Castle McDuck!",
+      "diziid": "duckt17",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/20/mcduck_satosunun_sirlari%21"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Who is Gizmoduck?!",
+      "diziid": "duckt17",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/21/ordek_gizmo_da_kim"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "The Other Bin of Scrooge McDuck!",
+      "diziid": "duckt17",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/22/varyemezin_diger_kasa_dairesi%21"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "The Last Crash of the Sunchaser!",
+      "diziid": "duckt17",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/23/gunes_avcisinin_son_kazasi%21"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Shadow War Part 1: The Night of De Spell!",
+      "diziid": "duckt17",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/24/karanlik_savasi_bolum_1%3A_magicanin_gecesi%21"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "The Shadow War Part 2: The Day of the Ducks!",
+      "diziid": "duckt17",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/25/karanlik_savasi_bolum_2%3A_magicanin_gecesi%21"
+    },
+    {
+      "season": 1,
+      "episode": 26,
+      "title": "The Most Dangerous Game...Night!",
+      "diziid": "duckt17",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/26/en_tehlikeli_oyun..._gecesi%21"
+    },
+    {
+      "season": 2,
+      "episode": 27,
+      "title": "The Depths of Cousin Fethry!",
+      "diziid": "duckt17",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/27/kuzen_fethrynin_derinlikleri%21"
+    },
+    {
+      "season": 3,
+      "episode": 28,
+      "title": "The Ballad of Duke Baloney!",
+      "diziid": "duckt17",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/28/duk_salamin_hikayesi%21"
+    },
+    {
+      "season": 4,
+      "episode": 29,
+      "title": "The Town Where Everyone Was Nice!",
+      "diziid": "duckt17",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/29/herkesin_nazik_oldugu_kasaba%21"
+    },
+    {
+      "season": 5,
+      "episode": 30,
+      "title": "Storkules in Duckburg!",
+      "diziid": "duckt17",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/30/storkul_ordek_sehrinde%21"
+    },
+    {
+      "season": 6,
+      "episode": 31,
+      "title": "Last Christmas!",
+      "diziid": "duckt17",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/31/son_yilbasi"
+    },
+    {
+      "season": 7,
+      "episode": 32,
+      "title": "Whatever Happened to Della Duck?!",
+      "diziid": "duckt17",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/32/ordek_dellanin_basina_ne_geldi%21"
+    },
+    {
+      "season": 8,
+      "episode": 33,
+      "title": "Treasure of the Found Lamp!",
+      "diziid": "duckt17",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/33/bulunan_kandilin_hazinesi%21"
+    },
+    {
+      "season": 9,
+      "episode": 34,
+      "title": "The Outlaw Scrooge McDuck!",
+      "diziid": "duckt17",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/34/kanun_kacagi_varyemez_amca%21"
+    },
+    {
+      "season": 10,
+      "episode": 35,
+      "title": "The 87 Cent Solution!",
+      "diziid": "duckt17",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/35/87_kurusluk_cozum%21"
+    },
+    {
+      "season": 11,
+      "episode": 36,
+      "title": "The Golden Spear!",
+      "diziid": "duckt17",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/36/altin_mizrak%21"
+    },
+    {
+      "season": 12,
+      "episode": 37,
+      "title": "Nothing Can Stop Della Duck!",
+      "diziid": "duckt17",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/37/hicbir_sey_ordek_dellayi_durduramaz%21"
+    },
+    {
+      "season": 13,
+      "episode": 38,
+      "title": "Raiders of the Doomsday Vault!",
+      "diziid": "duckt17",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/38/kiyamet_kasasi_yagmacilari%21"
+    },
+    {
+      "season": 14,
+      "episode": 39,
+      "title": "Friendship Hates Magic!",
+      "diziid": "duckt17",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/39/dostluk_sihirden_nefret_eder%21"
+    },
+    {
+      "season": 15,
+      "episode": 40,
+      "title": "The Dangerous Chemistry of Gandra Dee!",
+      "diziid": "duckt17",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/40/gandra_deenin_tehlikeli_kimyasi"
+    },
+    {
+      "season": 16,
+      "episode": 41,
+      "title": "The Duck Knight Returns!",
+      "diziid": "duckt17",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/41/ordek_sovalyenin_donusu%21"
+    },
+    {
+      "season": 17,
+      "episode": 42,
+      "title": "What Ever Happened to Donald Duck?!",
+      "diziid": "duckt17",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/42/donald_ducka_ne_oldu"
+    },
+    {
+      "season": 18,
+      "episode": 43,
+      "title": "Happy Birthday, Doofus Drake!",
+      "diziid": "duckt17",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/43/iyi_ki_dogdun_komik_drake"
+    },
+    {
+      "season": 19,
+      "episode": 44,
+      "title": "A Nightmare on Killmotor Hill!",
+      "diziid": "duckt17",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/44/kilmotor_tepesindeki_kabus%21"
+    },
+    {
+      "season": 20,
+      "episode": 45,
+      "title": "The Golden Armory of Cornelius Coot!",
+      "diziid": "duckt17",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/45/cornelius_cootun_altin_cephaneligi%21"
+    },
+    {
+      "season": 21,
+      "episode": 46,
+      "title": "Timephoon!",
+      "diziid": "duckt17",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/46/zaman_tayfunu%21"
+    },
+    {
+      "season": 22,
+      "episode": 47,
+      "title": "GlomTales!",
+      "diziid": "duckt17",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/47/glomun_hikayesi%21"
+    },
+    {
+      "season": 23,
+      "episode": 48,
+      "title": "The Richest Duck in the World!",
+      "diziid": "duckt17",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/48/dunyanin_en_zengin_ordegi%21"
+    },
+    {
+      "season": 24,
+      "episode": 49,
+      "title": "Moonvasion! Part 1",
+      "diziid": "duckt17",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/49/ay_istilasi%21_bolum_1"
+    },
+    {
+      "season": 25,
+      "episode": 50,
+      "title": "Moonvasion! Part 2",
+      "diziid": "duckt17",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/50/ay_istilasi%21_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 51,
+      "title": "Challenge of the Senior Junior Woodchucks!",
+      "diziid": "duckt17",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/51/kidemli_caylak_izci_yarismasi%21"
+    },
+    {
+      "season": 2,
+      "episode": 52,
+      "title": "Quack Pack!",
+      "diziid": "duckt17",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/52/ordek_ailesi%21"
+    },
+    {
+      "season": 3,
+      "episode": 53,
+      "title": "Double-O-Duck in You Only Crash Twice!",
+      "diziid": "duckt17",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/53/ajan_pilot_sadece_iki_kere_duser%21"
+    },
+    {
+      "season": 4,
+      "episode": 54,
+      "title": "The Lost Harp of Mervana!",
+      "diziid": "duckt17",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/54/mervananin_kayip_arpi%21"
+    },
+    {
+      "season": 5,
+      "episode": 55,
+      "title": "Louie's Eleven!",
+      "diziid": "duckt17",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/55/cemin_on_biri%21"
+    },
+    {
+      "season": 6,
+      "episode": 56,
+      "title": "Astro B.O.Y.D.!",
+      "diziid": "duckt17",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/56/astro_b.o.y.d.%21"
+    },
+    {
+      "season": 7,
+      "episode": 57,
+      "title": "The Rumble for Ragnarok!",
+      "diziid": "duckt17",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/57/ragnarok_gumburtusu%21"
+    },
+    {
+      "season": 8,
+      "episode": 58,
+      "title": "The Phantom and the Sorceress!",
+      "diziid": "duckt17",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/58/phantom_blot_ve_sihirbaz%21"
+    },
+    {
+      "season": 9,
+      "episode": 59,
+      "title": "They Put a Moonlander on the Earth!",
+      "diziid": "duckt17",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/59/dunyaya_bir_ayli_getirdiler%21"
+    },
+    {
+      "season": 10,
+      "episode": 60,
+      "title": "The Trickening!",
+      "diziid": "duckt17",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/60/cadilar_bayrami%21"
+    },
+    {
+      "season": 11,
+      "episode": 61,
+      "title": "The Forbidden Fountain of the Foreverglades!",
+      "diziid": "duckt17",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/61/ebediormanin_yasak_cesmesi%21"
+    },
+    {
+      "season": 12,
+      "episode": 62,
+      "title": "Let's Get Dangerous! Part 1: The St. Canardian Guardian!",
+      "diziid": "duckt17",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/62/haydi_tehlikeye_koyulalim%21_bolum_1%3A_aziz_kanarya_koruyucusu%21"
+    },
+    {
+      "season": 13,
+      "episode": 63,
+      "title": "Let's Get Dangerous! Part 2: A Case of Mistaken Reality!",
+      "diziid": "duckt17",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/63/haydi_tehlikeye_koyulalim%21_bolum_2%3A_yanlis_gerceklik_olayi"
+    },
+    {
+      "season": 14,
+      "episode": 64,
+      "title": "Escape from the ImpossiBin!",
+      "diziid": "duckt17",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/64/imkansiz_kasadan_kacis%21"
+    },
+    {
+      "season": 15,
+      "episode": 65,
+      "title": "The Split Sword of Swanstantine!",
+      "diziid": "duckt17",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/65/swanstantinein_kilic_parcalari%21"
+    },
+    {
+      "season": 16,
+      "episode": 66,
+      "title": "New Gods on the Block!",
+      "diziid": "duckt17",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/66/yeni_tanrilar"
+    },
+    {
+      "season": 17,
+      "episode": 67,
+      "title": "The First Adventure!",
+      "diziid": "duckt17",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/67/ilk_macera%21"
+    },
+    {
+      "season": 18,
+      "episode": 68,
+      "title": "The Fight for Castle McDuck!",
+      "diziid": "duckt17",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/68/mcduck_sarayi_savasi%21"
+    },
+    {
+      "season": 19,
+      "episode": 69,
+      "title": "How Santa Stole Christmas!",
+      "diziid": "duckt17",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/69/noel_babanin_noeli_calisi%21"
+    },
+    {
+      "season": 20,
+      "episode": 70,
+      "title": "Beaks in the Shell!",
+      "diziid": "duckt17",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/70/beaksin_basi_dertte%21"
+    },
+    {
+      "season": 21,
+      "episode": 71,
+      "title": "The Lost Cargo of Kit Cloudkicker!",
+      "diziid": "duckt17",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/71/kit_cloudkickerin_kayip_kargosu%21"
+    },
+    {
+      "season": 22,
+      "episode": 72,
+      "title": "The Life and Crimes of Scrooge McDuck!",
+      "diziid": "duckt17",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/72/varyemez_amcanin_hayati_ve_suclari%21"
+    },
+    {
+      "season": 23,
+      "episode": 73,
+      "title": "The Last Adventure! Part 1: A Tale of Three Webbys!",
+      "diziid": "duckt17",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/73/son_macera%21_-_bolum_1"
+    },
+    {
+      "season": 24,
+      "episode": 74,
+      "title": "The Last Adventure! Part 2: The Lost Library of Isabella Finch!",
+      "diziid": "duckt17",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/74/son_macera%21_2._bolum%3A_isabella_finchin_kayip_kutuphanesi"
+    },
+    {
+      "season": 25,
+      "episode": 75,
+      "title": "The Last Adventure! Part 3: Tale's End...",
+      "diziid": "duckt17",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/duckt17/ducktales_2017/75/son_macera%21_-_bolum_3"
+    }
+  ]
+}

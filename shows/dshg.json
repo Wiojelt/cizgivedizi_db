@@ -1,0 +1,613 @@
+{
+  "id": "dshg",
+  "title": "dc super hero girls",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/DSHGPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Aksiyon",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "#SweetJustice Part 1",
+      "diziid": "dshg",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/1/tatliadalet_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "#SweetJustice Part 2",
+      "diziid": "dshg",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/2/tatliadalet_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "#SweetJustice Part 3",
+      "diziid": "dshg",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/3/tatliadalet_bolum_3"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "#SweetJustice Part 4",
+      "diziid": "dshg",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/4/tatliadalet_bolum_4"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "#AdventuresInBunnysitting",
+      "diziid": "dshg",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/5/bunnyninmaceralari"
+    },
+    {
+      "season": 7,
+      "episode": 6,
+      "title": "#BurritoBucket",
+      "diziid": "dshg",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/7/burritobutcesi"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "title": "#MeetTheCheetah",
+      "diziid": "dshg",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/8/citaylatanisma"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "title": "#Beeline",
+      "diziid": "dshg",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/9/beeline"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "#SuperWho?",
+      "diziid": "dshg",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/10/superkim"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "#ShockItToMe",
+      "diziid": "dshg",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/11/soklabeni"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "#SheMightBeGiant",
+      "diziid": "dshg",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/12/obirdevolabilir"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "#FightAtTheMuseum",
+      "diziid": "dshg",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/13/muzedekavga"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "#FromBatTheWorse",
+      "diziid": "dshg",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/14/yarasadankotuyedogru"
+    },
+    {
+      "season": 16,
+      "episode": 14,
+      "title": "#MissgivingTree",
+      "diziid": "dshg",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/16/tarihiagac"
+    },
+    {
+      "season": 17,
+      "episode": 15,
+      "title": "#IllusionsOfGrandeur",
+      "diziid": "dshg",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/17/buyuklukilluzyonu"
+    },
+    {
+      "season": 18,
+      "episode": 16,
+      "title": "#BeastInShow",
+      "diziid": "dshg",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/18/gostericanavarlari"
+    },
+    {
+      "season": 19,
+      "episode": 17,
+      "title": "#GothamCon",
+      "diziid": "dshg",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/19/gothamfuari"
+    },
+    {
+      "season": 20,
+      "episode": 18,
+      "title": "#DCSuperHeroBoys Part 1",
+      "diziid": "dshg",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/20/supererkekler_1.bolum"
+    },
+    {
+      "season": 21,
+      "episode": 19,
+      "title": "#DCSuperHeroBoys Part 2",
+      "diziid": "dshg",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/21/supererkekler_2.bolum"
+    },
+    {
+      "season": 22,
+      "episode": 20,
+      "title": "#Frenemies Part 1",
+      "diziid": "dshg",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/22/dostdusmanlar_1.bolum"
+    },
+    {
+      "season": 23,
+      "episode": 21,
+      "title": "#Frenemies Part 2",
+      "diziid": "dshg",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/23/dostdusmanlar_2.bolum"
+    },
+    {
+      "season": 24,
+      "episode": 22,
+      "title": "#SoulSisters Part 1",
+      "diziid": "dshg",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/24/manevikardeslik_1.bolum"
+    },
+    {
+      "season": 25,
+      "episode": 23,
+      "title": "#SoulSisters Part 2",
+      "diziid": "dshg",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/25/manevikardeslik_2.bolum"
+    },
+    {
+      "season": 26,
+      "episode": 24,
+      "title": "#Abracadabrapalooza",
+      "diziid": "dshg",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/26/abracadabrafestivali"
+    },
+    {
+      "season": 27,
+      "episode": 25,
+      "title": "#RageCat",
+      "diziid": "dshg",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/27/ofkelikedi"
+    },
+    {
+      "season": 28,
+      "episode": 26,
+      "title": "#TheGoodTheBadAndTheBizarre",
+      "diziid": "dshg",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/28/iyikotuvetuhaf"
+    },
+    {
+      "season": 29,
+      "episode": 27,
+      "title": "#BackInAFlash",
+      "diziid": "dshg",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/29/gecmisedonus"
+    },
+    {
+      "season": 30,
+      "episode": 28,
+      "title": "#PowerSurge",
+      "diziid": "dshg",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/30/gucdegisimi"
+    },
+    {
+      "season": 31,
+      "episode": 29,
+      "title": "#ScrambledEggs",
+      "diziid": "dshg",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/31/omletler"
+    },
+    {
+      "season": 32,
+      "episode": 30,
+      "title": "#DramaQueen",
+      "diziid": "dshg",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/32/dramakralicesi"
+    },
+    {
+      "season": 33,
+      "episode": 31,
+      "title": "#AllyCat Part 1",
+      "diziid": "dshg",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/33/sokakkedisi_1.bolum"
+    },
+    {
+      "season": 34,
+      "episode": 32,
+      "title": "#AllyCat Part 2",
+      "diziid": "dshg",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/34/sokakkedisi_2.bolum"
+    },
+    {
+      "season": 35,
+      "episode": 33,
+      "title": "#Retreat!",
+      "diziid": "dshg",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/35/inziva"
+    },
+    {
+      "season": 36,
+      "episode": 34,
+      "title": "#DinnerForFive",
+      "diziid": "dshg",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/36/beskisilikaksamyemegi"
+    },
+    {
+      "season": 37,
+      "episode": 35,
+      "title": "#LivingTheNightmare",
+      "diziid": "dshg",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/37/gercekolankabus"
+    },
+    {
+      "season": 38,
+      "episode": 36,
+      "title": "#AllAboutZee",
+      "diziid": "dshg",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/38/zeezataratakintisi"
+    },
+    {
+      "season": 39,
+      "episode": 37,
+      "title": "#TweenTitans",
+      "diziid": "dshg",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/39/genctitanlar"
+    },
+    {
+      "season": 40,
+      "episode": 38,
+      "title": "#EmperorPenguin",
+      "diziid": "dshg",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/40/imparatorpenguen"
+    },
+    {
+      "season": 41,
+      "episode": 39,
+      "title": "#BreakingNews",
+      "diziid": "dshg",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/41/sondakikahaberleri"
+    },
+    {
+      "season": 42,
+      "episode": 40,
+      "title": "#CrashCourse",
+      "diziid": "dshg",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/42/hizlikurs"
+    },
+    {
+      "season": 43,
+      "episode": 41,
+      "title": "#LeagueOfShadows Part 1",
+      "diziid": "dshg",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/43/golgelerdiyari_1.bolum"
+    },
+    {
+      "season": 44,
+      "episode": 42,
+      "title": "#LeagueOfShadows Part 2",
+      "diziid": "dshg",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/44/golgelerdiyari_2.bolum"
+    },
+    {
+      "season": 45,
+      "episode": 43,
+      "title": "#HousePest",
+      "diziid": "dshg",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/45/evhaseresi"
+    },
+    {
+      "season": 46,
+      "episode": 44,
+      "title": "#ItsComplicated",
+      "diziid": "dshg",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/46/durumkarisik"
+    },
+    {
+      "season": 47,
+      "episode": 45,
+      "title": "#TheBirdAndTheBee",
+      "diziid": "dshg",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/47/kuslarvearilar"
+    },
+    {
+      "season": 48,
+      "episode": 46,
+      "title": "#FantasticBeastsAndHowToMindThem",
+      "diziid": "dshg",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/48/fantastikcanavarlaranasilbakilir"
+    },
+    {
+      "season": 49,
+      "episode": 47,
+      "title": "#AwesomeAuntAntiope",
+      "diziid": "dshg",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/49/muhtesemantiopeteyze"
+    },
+    {
+      "season": 50,
+      "episode": 48,
+      "title": "#SchoolGhoul",
+      "diziid": "dshg",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/50/okuldakihayalet"
+    },
+    {
+      "season": 51,
+      "episode": 49,
+      "title": "#TheFreshPrincessOfRenFaire Part 1",
+      "diziid": "dshg",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/51/ronesanspanayirininyeniprensesleri_1.bolum"
+    },
+    {
+      "season": 52,
+      "episode": 50,
+      "title": "#TheFreshPrincessOfRenFaire Part 2",
+      "diziid": "dshg",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/52/ronesanspanayirininyeniprensesleri_2.bolum"
+    },
+    {
+      "season": 1,
+      "episode": 51,
+      "title": "#AmBatgirl Part 1",
+      "diziid": "dshg",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/53/benbatgirl_1.bolum"
+    },
+    {
+      "season": 2,
+      "episode": 52,
+      "title": "#AmBatgirl Part 2",
+      "diziid": "dshg",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/54/benbatgirl_2.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 53,
+      "title": "#DoubleDanvers",
+      "diziid": "dshg",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/55/ciftedanverlar"
+    },
+    {
+      "season": 4,
+      "episode": 54,
+      "title": "#AccordingToGarth",
+      "diziid": "dshg",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/56/garthagore"
+    },
+    {
+      "season": 5,
+      "episode": 55,
+      "title": "#SuperWonderBatBeeZeeLanternMobile",
+      "diziid": "dshg",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/57/superharikayarasaarizeefenermobil"
+    },
+    {
+      "season": 6,
+      "episode": 56,
+      "title": "#SirensConch",
+      "diziid": "dshg",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/58/sirenlerinkabugu"
+    },
+    {
+      "season": 7,
+      "episode": 57,
+      "title": "#AngerManagement",
+      "diziid": "dshg",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/59/ofkekontrolu"
+    },
+    {
+      "season": 8,
+      "episode": 58,
+      "title": "#HappyBirthdayZee",
+      "diziid": "dshg",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/60/mutluyillarzee"
+    },
+    {
+      "season": 9,
+      "episode": 59,
+      "title": "#TheGreenRoom",
+      "diziid": "dshg",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/61/yesiloda"
+    },
+    {
+      "season": 10,
+      "episode": 60,
+      "title": "#EnterNightSting",
+      "diziid": "dshg",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/62/nightstinggeliyor"
+    },
+    {
+      "season": 11,
+      "episode": 61,
+      "title": "#WorldsFinest",
+      "diziid": "dshg",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/63/dunyanineniyisi"
+    },
+    {
+      "season": 12,
+      "episode": 62,
+      "title": "#WorkingStiff",
+      "diziid": "dshg",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/64/sikicalisma"
+    },
+    {
+      "season": 13,
+      "episode": 63,
+      "title": "#MultipliciZee",
+      "diziid": "dshg",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/65/cokfazlazee"
+    },
+    {
+      "season": 14,
+      "episode": 64,
+      "title": "#TheMinus",
+      "diziid": "dshg",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/66/eksinot"
+    },
+    {
+      "season": 15,
+      "episode": 65,
+      "title": "#Powerless",
+      "diziid": "dshg",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/67/gucsuz"
+    },
+    {
+      "season": 16,
+      "episode": 66,
+      "title": "#AcceptNoSubstitute",
+      "diziid": "dshg",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/68/degisiklikyok"
+    },
+    {
+      "season": 17,
+      "episode": 67,
+      "title": "#TheWarriorAndTheJester",
+      "diziid": "dshg",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/69/savascivesoytari"
+    },
+    {
+      "season": 18,
+      "episode": 68,
+      "title": "#MotherKnowsBest",
+      "diziid": "dshg",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/70/annelereniyisinibilir"
+    },
+    {
+      "season": 19,
+      "episode": 69,
+      "title": "#DetentionClub",
+      "diziid": "dshg",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/71/cezakulubu"
+    },
+    {
+      "season": 20,
+      "episode": 70,
+      "title": "#SmallVictories",
+      "diziid": "dshg",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/72/kucukzaferler"
+    },
+    {
+      "season": 21,
+      "episode": 71,
+      "title": "#CruzControl",
+      "diziid": "dshg",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/73/cruzkontrol"
+    },
+    {
+      "season": 22,
+      "episode": 72,
+      "title": "#WhySoBlue",
+      "diziid": "dshg",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/74/nedenboylemavi"
+    },
+    {
+      "season": 24,
+      "episode": 73,
+      "title": "#TheAquamanCometh",
+      "diziid": "dshg",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/76/aquamangeliyor"
+    },
+    {
+      "season": 25,
+      "episode": 74,
+      "title": "#NightmareInGotham Part 1",
+      "diziid": "dshg",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/77/gothamdakabus_1.bolum"
+    },
+    {
+      "season": 26,
+      "episode": 75,
+      "title": "#NightmareInGotham Part 2",
+      "diziid": "dshg",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/dshg/dc_super_hero_girls/78/gothamdakabus_2.bolum"
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "id": "pima",
+  "title": "pinky malinky",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/PIMAPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "AbsÃ¼rt"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Snack",
+      "diziid": "pima",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/1/atistirmalik"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Pet",
+      "diziid": "pima",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/2/evcil_hayvan"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Tech",
+      "diziid": "pima",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/3/teknoloji"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Spirit",
+      "diziid": "pima",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/4/okul_ruhu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Hater",
+      "diziid": "pima",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/5/dusman"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Video",
+      "diziid": "pima",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/6/video"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Duck",
+      "diziid": "pima",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/7/ordek"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Mannequin",
+      "diziid": "pima",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/8/manken"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Secret",
+      "diziid": "pima",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/9/sir"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Scary",
+      "diziid": "pima",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/10/korkutucu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Book",
+      "diziid": "pima",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/11/kitap"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Team",
+      "diziid": "pima",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/12/takim"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Game",
+      "diziid": "pima",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/13/oyun"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Undercover",
+      "diziid": "pima",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/14/gizli_kimlik"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Fun",
+      "diziid": "pima",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/15/eglenceli"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Brother",
+      "diziid": "pima",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/16/erkek_kardes"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Sensei",
+      "diziid": "pima",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/17/usta"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Hangout",
+      "diziid": "pima",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/18/mekan"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Sock",
+      "diziid": "pima",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/19/corap"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Count",
+      "diziid": "pima",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/20/sayma"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Voice",
+      "diziid": "pima",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/21/ses"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Phone",
+      "diziid": "pima",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/22/telefon"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Friend",
+      "diziid": "pima",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/23/arkadas"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Gym",
+      "diziid": "pima",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/24/spor_salonu"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "List",
+      "diziid": "pima",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/25/liste"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Double",
+      "diziid": "pima",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/26/cift"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Sight",
+      "diziid": "pima",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/27/gorme"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Grounded",
+      "diziid": "pima",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/28/cezali"
+    },
+    {
+      "season": 1,
+      "episode": 29,
+      "title": "Money",
+      "diziid": "pima",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/29/para"
+    },
+    {
+      "season": 2,
+      "episode": 30,
+      "title": "Babs",
+      "diziid": "pima",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/30/babs"
+    },
+    {
+      "season": 3,
+      "episode": 31,
+      "title": "Sarcasm",
+      "diziid": "pima",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/31/alaycilik"
+    },
+    {
+      "season": 4,
+      "episode": 32,
+      "title": "Song",
+      "diziid": "pima",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/32/sarki"
+    },
+    {
+      "season": 5,
+      "episode": 33,
+      "title": "Brain",
+      "diziid": "pima",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/33/beyin"
+    },
+    {
+      "season": 6,
+      "episode": 34,
+      "title": "Trophy",
+      "diziid": "pima",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/34/kupa"
+    },
+    {
+      "season": 7,
+      "episode": 35,
+      "title": "Search",
+      "diziid": "pima",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/35/arama"
+    },
+    {
+      "season": 8,
+      "episode": 36,
+      "title": "Haircut",
+      "diziid": "pima",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/36/sac_tirasi"
+    },
+    {
+      "season": 9,
+      "episode": 37,
+      "title": "Crutch",
+      "diziid": "pima",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/37/koltuk_degnegi"
+    },
+    {
+      "season": 10,
+      "episode": 38,
+      "title": "Smile",
+      "diziid": "pima",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/38/gulumseme"
+    },
+    {
+      "season": 11,
+      "episode": 39,
+      "title": "Cranky",
+      "diziid": "pima",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/39/huysuz"
+    },
+    {
+      "season": 12,
+      "episode": 40,
+      "title": "Weeds",
+      "diziid": "pima",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/40/otlar"
+    },
+    {
+      "season": 13,
+      "episode": 41,
+      "title": "Advanced",
+      "diziid": "pima",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/41/ileri_duzey"
+    },
+    {
+      "season": 14,
+      "episode": 42,
+      "title": "Bestie",
+      "diziid": "pima",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/42/en_iyi_arkadas"
+    },
+    {
+      "season": 15,
+      "episode": 43,
+      "title": "King",
+      "diziid": "pima",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/43/kral"
+    },
+    {
+      "season": 1,
+      "episode": 44,
+      "title": "Pinky",
+      "diziid": "pima",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/44/pinky"
+    },
+    {
+      "season": 1,
+      "episode": 45,
+      "title": "Change",
+      "diziid": "pima",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/46/degisim"
+    },
+    {
+      "season": 2,
+      "episode": 46,
+      "title": "Outdoors",
+      "diziid": "pima",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/47/acik_hava"
+    },
+    {
+      "season": 3,
+      "episode": 47,
+      "title": "Spotlight",
+      "diziid": "pima",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/48/ilgi_odagi"
+    },
+    {
+      "season": 4,
+      "episode": 48,
+      "title": "Dog",
+      "diziid": "pima",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/49/kopek"
+    },
+    {
+      "season": 5,
+      "episode": 49,
+      "title": "Birthday",
+      "diziid": "pima",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/50/dogum_gunu"
+    },
+    {
+      "season": 6,
+      "episode": 50,
+      "title": "Individual",
+      "diziid": "pima",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/51/kimlik_bunalimi"
+    },
+    {
+      "season": 7,
+      "episode": 51,
+      "title": "Dinner",
+      "diziid": "pima",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/52/aksam_yemegi"
+    },
+    {
+      "season": 8,
+      "episode": 52,
+      "title": "Clique",
+      "diziid": "pima",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/53/grup"
+    },
+    {
+      "season": 9,
+      "episode": 53,
+      "title": "Fundraiser",
+      "diziid": "pima",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/54/destekciler"
+    },
+    {
+      "season": 10,
+      "episode": 54,
+      "title": "Man",
+      "diziid": "pima",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/55/erkek"
+    },
+    {
+      "season": 11,
+      "episode": 55,
+      "title": "Wrestling",
+      "diziid": "pima",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/56/gures"
+    },
+    {
+      "season": 12,
+      "episode": 56,
+      "title": "Eraser",
+      "diziid": "pima",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/57/silgi"
+    },
+    {
+      "season": 13,
+      "episode": 57,
+      "title": "Dreams",
+      "diziid": "pima",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/58/ruyalar"
+    },
+    {
+      "season": 14,
+      "episode": 58,
+      "title": "Spark",
+      "diziid": "pima",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/59/kivilcim"
+    },
+    {
+      "season": 15,
+      "episode": 59,
+      "title": "Wiener",
+      "diziid": "pima",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/pima/pinky_malinky/60/sosis"
+    }
+  ]
+}

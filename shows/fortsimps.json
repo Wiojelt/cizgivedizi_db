@@ -1,0 +1,45 @@
+{
+  "id": "fortsimps",
+  "title": "fortnite x simpsonlar",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/FORTSIMPSPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "AbsÃ¼rt"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Apocalypse D'oh",
+      "diziid": "fortsimps",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/fortsimps/fortnite_x_simpsonlar/1/apocalypse_doh"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Sugar High",
+      "diziid": "fortsimps",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/fortsimps/fortnite_x_simpsonlar/2/seker_carpmasi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Multiplidiocy",
+      "diziid": "fortsimps",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/fortsimps/fortnite_x_simpsonlar/3/coklu_aptallik"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Incredible Bulk",
+      "diziid": "fortsimps",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/fortsimps/fortnite_x_simpsonlar/4/devasa_homer"
+    }
+  ]
+}

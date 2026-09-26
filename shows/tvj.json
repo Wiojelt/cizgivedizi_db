@@ -1,0 +1,1300 @@
+{
+  "id": "tvj",
+  "title": "tom ve jerry",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TVJPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Puss Gets the Boot",
+      "diziid": "tvj",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/1/ilk_bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Midnight Snack",
+      "diziid": "tvj",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/2/gece_yarisi_atistirmaligi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Night Before Christmas",
+      "diziid": "tvj",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/3/noel_arifesi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Fraidy Cat",
+      "diziid": "tvj",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/4/korkak_kedi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Dog Trouble",
+      "diziid": "tvj",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/5/kopek_sorunu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Puss N' Toots",
+      "diziid": "tvj",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/6/kucuk_kedi_yavrusu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Bowling Alley-Cat",
+      "diziid": "tvj",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/7/bowling"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Fine Feathered Friend",
+      "diziid": "tvj",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/8/tuylu_dost"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Sufferin' Cats!",
+      "diziid": "tvj",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/9/iki_kotu_kedi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Lonesome Mouse",
+      "diziid": "tvj",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/10/tom_giderse"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Yankee Doodle Mouse",
+      "diziid": "tvj",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/11/savasci_fare"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Baby Puss",
+      "diziid": "tvj",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/12/bebek_kedi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Zoot Cat",
+      "diziid": "tvj",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/13/hayvanat_bahcesi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Million Dollar Cat",
+      "diziid": "tvj",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/14/milyon_dolarlik_kedi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Bodyguard",
+      "diziid": "tvj",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/15/koruma"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Puttin' On the Dog",
+      "diziid": "tvj",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/16/kopek_kiliginda"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Mouse Trouble",
+      "diziid": "tvj",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/17/fare_sorunu"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Mouse Comes to Dinner",
+      "diziid": "tvj",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/18/aksam_yemegi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Mouse in Manhattan",
+      "diziid": "tvj",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/19/manhattandaki_fare"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Tee for Two",
+      "diziid": "tvj",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/20/tom_ve_golf"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Flirty Birdy",
+      "diziid": "tvj",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/21/flortoz_kus"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Quiet Please!",
+      "diziid": "tvj",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/22/sessizlik_lutfen%21"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Springtime for Thomas",
+      "diziid": "tvj",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/23/ilkbaharda_tom"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Milky Waif",
+      "diziid": "tvj",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/24/sut_sorunu"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Trap Happy",
+      "diziid": "tvj",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/25/yeni_fare"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Solid Serenade",
+      "diziid": "tvj",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/26/serenat"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Cat Fishin'",
+      "diziid": "tvj",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/27/balik_tutan_kedi"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Part Time Pal",
+      "diziid": "tvj",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/28/yari_zamanli_dost"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "The Cat Concerto",
+      "diziid": "tvj",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/29/kedi_koncertosu"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Dr. Jekyll and Mr. Mouse",
+      "diziid": "tvj",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/30/dr._jekyll_ve_bay_fare"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Salt Water Tabby",
+      "diziid": "tvj",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/31/tuzlu_su_kedisi"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "A Mouse in the House",
+      "diziid": "tvj",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/32/evde_bir_fare"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "The Invisible Mouse",
+      "diziid": "tvj",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/33/gorunmez_fare"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Kitty Foiled",
+      "diziid": "tvj",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/34/kanarya"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "The Truce Hurts",
+      "diziid": "tvj",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/35/ateskesi_bozmak"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Old Rockin' Chair Tom",
+      "diziid": "tvj",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/36/yasli_tembel_tom"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Professor Tom",
+      "diziid": "tvj",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/37/profesor_tom"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Mouse Cleaning",
+      "diziid": "tvj",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/38/ev_temizleme"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Polka-Dot Puss",
+      "diziid": "tvj",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/39/yalan_hastalik"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Hatch Up Your Troubles",
+      "diziid": "tvj",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/40/kucuk_kedi"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "The Little Orphan",
+      "diziid": "tvj",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/41/unut_dertlerini"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Heavenly Puss",
+      "diziid": "tvj",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/42/cennete_girmek_isteyen_kedi"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "The Cat and the Mermouse",
+      "diziid": "tvj",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/43/kedi_ve_denizkizi_fare"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Love That Pup",
+      "diziid": "tvj",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/44/o_yavruyu_seviyorum"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Jerry's Diary",
+      "diziid": "tvj",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/45/jerrynin_gunlugu"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Tennis Chumps",
+      "diziid": "tvj",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/46/tenis_sampiyonasi"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Little Quacker",
+      "diziid": "tvj",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/47/kucuk_sarlatan"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Saturday Evening Puss",
+      "diziid": "tvj",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/48/cumartesi_gecesi_kedileri"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Texas Tom",
+      "diziid": "tvj",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/49/texas_tom"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Jerry and the Lion",
+      "diziid": "tvj",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/50/jerry_ve_aslan"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Safety Second",
+      "diziid": "tvj",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/51/guvenlik_sonra_gelir"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "The Hollywood Bowl",
+      "diziid": "tvj",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/52/tom_ve_jerry_hollywoodda"
+    },
+    {
+      "season": 53,
+      "episode": 53,
+      "title": "The Framed Cat",
+      "diziid": "tvj",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/53/iftiralar"
+    },
+    {
+      "season": 54,
+      "episode": 54,
+      "title": "Cue Ball Cat",
+      "diziid": "tvj",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/54/bilardo_duellosu"
+    },
+    {
+      "season": 55,
+      "episode": 55,
+      "title": "Casanova Cat",
+      "diziid": "tvj",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/55/kazanova_kedisi"
+    },
+    {
+      "season": 56,
+      "episode": 56,
+      "title": "Jerry and the Goldfish",
+      "diziid": "tvj",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/56/jerry_ve_japon_baligi"
+    },
+    {
+      "season": 57,
+      "episode": 57,
+      "title": "Jerry's Cousin",
+      "diziid": "tvj",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/57/jerrynin_kuzeni"
+    },
+    {
+      "season": 58,
+      "episode": 58,
+      "title": "Sleepy-Time Tom",
+      "diziid": "tvj",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/58/uykulu_tom"
+    },
+    {
+      "season": 59,
+      "episode": 59,
+      "title": "His Mouse Friday",
+      "diziid": "tvj",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/59/yerli_koy"
+    },
+    {
+      "season": 60,
+      "episode": 60,
+      "title": "Slicked-Up Pup",
+      "diziid": "tvj",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/60/kurnaz_kopek_yavrusu"
+    },
+    {
+      "season": 61,
+      "episode": 61,
+      "title": "Nit-Witty Kitty",
+      "diziid": "tvj",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/61/sersemlemis_kedi"
+    },
+    {
+      "season": 62,
+      "episode": 62,
+      "title": "Cat Napping",
+      "diziid": "tvj",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/62/hamak_kavgasi"
+    },
+    {
+      "season": 63,
+      "episode": 63,
+      "title": "The Flying Cat",
+      "diziid": "tvj",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/63/ucan_kedi"
+    },
+    {
+      "season": 64,
+      "episode": 64,
+      "title": "The Duck Doctor",
+      "diziid": "tvj",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/64/ordek_doktoru"
+    },
+    {
+      "season": 65,
+      "episode": 65,
+      "title": "The Two Mouseketeers",
+      "diziid": "tvj",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/65/iki_silahsor"
+    },
+    {
+      "season": 66,
+      "episode": 66,
+      "title": "Smitten Kitten",
+      "diziid": "tvj",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/66/kalbinden_vurulmus"
+    },
+    {
+      "season": 67,
+      "episode": 67,
+      "title": "Triplet Trouble",
+      "diziid": "tvj",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/67/uc_kedi_yavrusu"
+    },
+    {
+      "season": 68,
+      "episode": 68,
+      "title": "Little Runaway",
+      "diziid": "tvj",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/68/kucuk_kacak"
+    },
+    {
+      "season": 69,
+      "episode": 69,
+      "title": "Fit to Be Tied",
+      "diziid": "tvj",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/69/tasma"
+    },
+    {
+      "season": 70,
+      "episode": 70,
+      "title": "Push-Button Kitty",
+      "diziid": "tvj",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/70/robot_kedi"
+    },
+    {
+      "season": 71,
+      "episode": 71,
+      "title": "Cruise Cat",
+      "diziid": "tvj",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/71/seyir_kedisi"
+    },
+    {
+      "season": 72,
+      "episode": 72,
+      "title": "The Dog House",
+      "diziid": "tvj",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/72/kopek_evi"
+    },
+    {
+      "season": 73,
+      "episode": 73,
+      "title": "The Missing Mouse",
+      "diziid": "tvj",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/73/kayip_fare"
+    },
+    {
+      "season": 74,
+      "episode": 74,
+      "title": "Jerry and Jumbo",
+      "diziid": "tvj",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/74/jerry_ve_jumbo"
+    },
+    {
+      "season": 75,
+      "episode": 75,
+      "title": "Johann Mouse",
+      "diziid": "tvj",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/75/johann_fare"
+    },
+    {
+      "season": 76,
+      "episode": 76,
+      "title": "That's My Pup!",
+      "diziid": "tvj",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/76/bu_benim_yavrum%21"
+    },
+    {
+      "season": 77,
+      "episode": 77,
+      "title": "Just Ducky",
+      "diziid": "tvj",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/77/sadece_ordek"
+    },
+    {
+      "season": 78,
+      "episode": 78,
+      "title": "Two Little Indians",
+      "diziid": "tvj",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/78/iki_kucuk_kizilderili"
+    },
+    {
+      "season": 79,
+      "episode": 79,
+      "title": "Life with Tom",
+      "diziid": "tvj",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/79/tom_ile_yasam"
+    },
+    {
+      "season": 80,
+      "episode": 80,
+      "title": "Puppy Tale",
+      "diziid": "tvj",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/80/kopek_yavrusu_hikayesi"
+    },
+    {
+      "season": 81,
+      "episode": 81,
+      "title": "Posse Cat",
+      "diziid": "tvj",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/81/kedi_sahibi"
+    },
+    {
+      "season": 82,
+      "episode": 82,
+      "title": "Hic-cup Pup",
+      "diziid": "tvj",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/82/hickirik_sorunu"
+    },
+    {
+      "season": 83,
+      "episode": 83,
+      "title": "Little School Mouse",
+      "diziid": "tvj",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/83/kucuk_okul_faresi"
+    },
+    {
+      "season": 84,
+      "episode": 84,
+      "title": "Baby Butch",
+      "diziid": "tvj",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/84/bebek_butch"
+    },
+    {
+      "season": 85,
+      "episode": 85,
+      "title": "Mice Follies",
+      "diziid": "tvj",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/85/donmus_mutfak"
+    },
+    {
+      "season": 86,
+      "episode": 86,
+      "title": "Neapolitan Mouse",
+      "diziid": "tvj",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/86/tom_ve_jerry%2C_napolide"
+    },
+    {
+      "season": 87,
+      "episode": 87,
+      "title": "Downhearted Duckling",
+      "diziid": "tvj",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/87/morali_bozuk_ordek"
+    },
+    {
+      "season": 88,
+      "episode": 88,
+      "title": "Pet Peeve",
+      "diziid": "tvj",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/88/evde_kalma_mucadelesi"
+    },
+    {
+      "season": 89,
+      "episode": 89,
+      "title": "TouchÃ©, Pussy Cat!",
+      "diziid": "tvj",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/89/yavru_kedi_disari"
+    },
+    {
+      "season": 90,
+      "episode": 90,
+      "title": "Southbound Duckling",
+      "diziid": "tvj",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/90/guneye_giden_ordek_yavrusu"
+    },
+    {
+      "season": 91,
+      "episode": 91,
+      "title": "Pup on a Picnic",
+      "diziid": "tvj",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/91/piknikteki_yavru"
+    },
+    {
+      "season": 92,
+      "episode": 92,
+      "title": "Mouse for Sale",
+      "diziid": "tvj",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/92/satilik_fare"
+    },
+    {
+      "season": 93,
+      "episode": 93,
+      "title": "Designs on Jerry",
+      "diziid": "tvj",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/93/jerrynin_tasarimlari"
+    },
+    {
+      "season": 94,
+      "episode": 94,
+      "title": "Tom and ChÃ©rie",
+      "diziid": "tvj",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/94/tom_ve_cherie"
+    },
+    {
+      "season": 95,
+      "episode": 95,
+      "title": "Smarty Cat",
+      "diziid": "tvj",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/95/zeki_kurk"
+    },
+    {
+      "season": 96,
+      "episode": 96,
+      "title": "Pecos Pest",
+      "diziid": "tvj",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/96/pecos_pest"
+    },
+    {
+      "season": 97,
+      "episode": 97,
+      "title": "That's My Mommy",
+      "diziid": "tvj",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/97/o_benim_annem"
+    },
+    {
+      "season": 98,
+      "episode": 98,
+      "title": "The Flying Sorceress",
+      "diziid": "tvj",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/98/ucan_buyucu"
+    },
+    {
+      "season": 99,
+      "episode": 99,
+      "title": "The Egg and Jerry",
+      "diziid": "tvj",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/99/yumurta_ve_jerry"
+    },
+    {
+      "season": 100,
+      "episode": 100,
+      "title": "Busy Buddies",
+      "diziid": "tvj",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/100/bebek_bakiciligi"
+    },
+    {
+      "season": 101,
+      "episode": 101,
+      "title": "Muscle Beach Tom",
+      "diziid": "tvj",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/101/plajda_rekabet"
+    },
+    {
+      "season": 102,
+      "episode": 102,
+      "title": "Down Beat Bear",
+      "diziid": "tvj",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/102/dans_eden_ayi"
+    },
+    {
+      "season": 103,
+      "episode": 103,
+      "title": "Blue Cat Blues",
+      "diziid": "tvj",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/103/ask_depresyonu"
+    },
+    {
+      "season": 104,
+      "episode": 104,
+      "title": "Barbecue Brawl",
+      "diziid": "tvj",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/104/mangal_sorunu"
+    },
+    {
+      "season": 105,
+      "episode": 105,
+      "title": "Tops with Pops",
+      "diziid": "tvj",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/105/o_yavruyu_seviyorum"
+    },
+    {
+      "season": 106,
+      "episode": 106,
+      "title": "Timid Tabby",
+      "diziid": "tvj",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/106/korkak_kedi"
+    },
+    {
+      "season": 107,
+      "episode": 107,
+      "title": "Feedin' the Kiddie",
+      "diziid": "tvj",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/107/kiddieyi_beslemek"
+    },
+    {
+      "season": 108,
+      "episode": 108,
+      "title": "Mucho Mouse",
+      "diziid": "tvj",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/108/fare_yakalama"
+    },
+    {
+      "season": 109,
+      "episode": 109,
+      "title": "Tom's Photo Finish",
+      "diziid": "tvj",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/109/tomun_suc_ustu_fotografi"
+    },
+    {
+      "season": 110,
+      "episode": 110,
+      "title": "Happy Go Ducky",
+      "diziid": "tvj",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/110/mutlu_ordek"
+    },
+    {
+      "season": 111,
+      "episode": 111,
+      "title": "Royal Cat Nap",
+      "diziid": "tvj",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/111/asil_kedinin_uykusu"
+    },
+    {
+      "season": 112,
+      "episode": 112,
+      "title": "The Vanishing Duck",
+      "diziid": "tvj",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/112/yok_olan_ordek"
+    },
+    {
+      "season": 113,
+      "episode": 113,
+      "title": "Robin Hoodwinked",
+      "diziid": "tvj",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/113/robin_hood"
+    },
+    {
+      "season": 114,
+      "episode": 114,
+      "title": "Tot Watchers",
+      "diziid": "tvj",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/114/bebek_bakicisi"
+    },
+    {
+      "season": 115,
+      "episode": 115,
+      "title": "Switchin' Kitten",
+      "diziid": "tvj",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/115/degisen_kedi"
+    },
+    {
+      "season": 116,
+      "episode": 116,
+      "title": "Down and Outing",
+      "diziid": "tvj",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/116/dusmus_ve_dislanmis"
+    },
+    {
+      "season": 117,
+      "episode": 117,
+      "title": "It's Greek to Me-Ow!",
+      "diziid": "tvj",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/117/yunanistan"
+    },
+    {
+      "season": 118,
+      "episode": 118,
+      "title": "High Steaks",
+      "diziid": "tvj",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/118/yuksek_biftek"
+    },
+    {
+      "season": 119,
+      "episode": 119,
+      "title": "Mouse into Space",
+      "diziid": "tvj",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/119/uzaya_gidecek_fare"
+    },
+    {
+      "season": 120,
+      "episode": 120,
+      "title": "Landing Stripling",
+      "diziid": "tvj",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/120/tom%2C_kus_ve_jerry"
+    },
+    {
+      "season": 121,
+      "episode": 121,
+      "title": "Calypso Cat",
+      "diziid": "tvj",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/121/kalipso_kedi"
+    },
+    {
+      "season": 122,
+      "episode": 122,
+      "title": "Dicky Moe",
+      "diziid": "tvj",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/122/beyaz_balina"
+    },
+    {
+      "season": 123,
+      "episode": 123,
+      "title": "The Tom and Jerry Cartoon Kit",
+      "diziid": "tvj",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/123/cizgi_film_kiti"
+    },
+    {
+      "season": 124,
+      "episode": 124,
+      "title": "Tall in the Trap",
+      "diziid": "tvj",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/124/gezgin_fare_avcisi"
+    },
+    {
+      "season": 125,
+      "episode": 125,
+      "title": "Sorry Safari",
+      "diziid": "tvj",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/125/safari"
+    },
+    {
+      "season": 126,
+      "episode": 126,
+      "title": "Buddies Thicker Than Water",
+      "diziid": "tvj",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/126/sudan_dostluklar"
+    },
+    {
+      "season": 127,
+      "episode": 127,
+      "title": "Carmen Get It!",
+      "diziid": "tvj",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/127/opera"
+    },
+    {
+      "season": 128,
+      "episode": 128,
+      "title": "Pent-House Mouse",
+      "diziid": "tvj",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/128/cati_kati_faresi"
+    },
+    {
+      "season": 129,
+      "episode": 129,
+      "title": "The Cat Above and the Mouse Below",
+      "diziid": "tvj",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/129/yukaridaki_kedi_ve_asagidaki_fare"
+    },
+    {
+      "season": 130,
+      "episode": 130,
+      "title": "Is There a Doctor in the Mouse?",
+      "diziid": "tvj",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/130/sehrin_fare_doktoru"
+    },
+    {
+      "season": 131,
+      "episode": 131,
+      "title": "Much Ado About Mousing",
+      "diziid": "tvj",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/131/fareyle_ilgili_cok_sey"
+    },
+    {
+      "season": 132,
+      "episode": 132,
+      "title": "Snowbody Loves Me",
+      "diziid": "tvj",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/132/kar_topu_beni_cok_seviyor"
+    },
+    {
+      "season": 133,
+      "episode": 133,
+      "title": "The Unshrinkable Jerry Mouse",
+      "diziid": "tvj",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/133/buzulmez_jerry"
+    },
+    {
+      "season": 134,
+      "episode": 134,
+      "title": "Ah, Sweet Mouse-Story of Life",
+      "diziid": "tvj",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/134/ah%2C_tatli_fare-hayat_hikayesi"
+    },
+    {
+      "season": 135,
+      "episode": 135,
+      "title": "Tom-ic Energy",
+      "diziid": "tvj",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/135/enerjik_tom"
+    },
+    {
+      "season": 136,
+      "episode": 136,
+      "title": "Bad Day at Cat Rock",
+      "diziid": "tvj",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/136/cat_rockta_kotu_gun"
+    },
+    {
+      "season": 137,
+      "episode": 137,
+      "title": "The Brothers Carry-Mouse-Off",
+      "diziid": "tvj",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/137/disi_fare"
+    },
+    {
+      "season": 138,
+      "episode": 138,
+      "title": "Haunted Mouse",
+      "diziid": "tvj",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/138/perili_fare"
+    },
+    {
+      "season": 139,
+      "episode": 139,
+      "title": "I'm Just Wild About Jerry",
+      "diziid": "tvj",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/139/jerry_hakkinda_sadece_cildiriyorum"
+    },
+    {
+      "season": 140,
+      "episode": 140,
+      "title": "Of Feline Bondage",
+      "diziid": "tvj",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/140/peri_fare"
+    },
+    {
+      "season": 141,
+      "episode": 141,
+      "title": "The Year of the Mouse",
+      "diziid": "tvj",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/141/yilin_faresi"
+    },
+    {
+      "season": 142,
+      "episode": 142,
+      "title": "The Cat's Me-Ouch",
+      "diziid": "tvj",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/142/koruyucu_kopek"
+    },
+    {
+      "season": 143,
+      "episode": 143,
+      "title": "Duel Personality",
+      "diziid": "tvj",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/143/duello"
+    },
+    {
+      "season": 144,
+      "episode": 144,
+      "title": "Jerry, Jerry, Quite Contrary",
+      "diziid": "tvj",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/144/tom_baski_altinda"
+    },
+    {
+      "season": 145,
+      "episode": 145,
+      "title": "Jerry-Go-Round",
+      "diziid": "tvj",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/145/jerry_ve_fil"
+    },
+    {
+      "season": 146,
+      "episode": 146,
+      "title": "Love Me, Love My Mouse",
+      "diziid": "tvj",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/146/beni_sev%2C_faremi_sev"
+    },
+    {
+      "season": 147,
+      "episode": 147,
+      "title": "Puss 'N' Boats",
+      "diziid": "tvj",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/147/kedi_ve_tekne"
+    },
+    {
+      "season": 148,
+      "episode": 148,
+      "title": "Filet Meow",
+      "diziid": "tvj",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/148/japon_baligi"
+    },
+    {
+      "season": 149,
+      "episode": 149,
+      "title": "Matinee Mouse",
+      "diziid": "tvj",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/149/fareler_matinesi"
+    },
+    {
+      "season": 150,
+      "episode": 150,
+      "title": "The A-TOM-iNABLE Snowman",
+      "diziid": "tvj",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/150/karda_kovalamaca"
+    },
+    {
+      "season": 151,
+      "episode": 151,
+      "title": "Catty-Cornered",
+      "diziid": "tvj",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/151/jerry%2C_tom_ve_simseke_karsi"
+    },
+    {
+      "season": 152,
+      "episode": 152,
+      "title": "Cat and Dupli-Cat",
+      "diziid": "tvj",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/152/venedik_macerasi"
+    },
+    {
+      "season": 153,
+      "episode": 153,
+      "title": "O-Solar-Meow",
+      "diziid": "tvj",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/153/uzayli_kedi"
+    },
+    {
+      "season": 154,
+      "episode": 154,
+      "title": "Guided Mouse-ille",
+      "diziid": "tvj",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/154/gelecek"
+    },
+    {
+      "season": 155,
+      "episode": 155,
+      "title": "Rock 'N' Rodent",
+      "diziid": "tvj",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/155/uyuyamayan_tom"
+    },
+    {
+      "season": 156,
+      "episode": 156,
+      "title": "Cannery Rodent",
+      "diziid": "tvj",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/156/konserve"
+    },
+    {
+      "season": 157,
+      "episode": 157,
+      "title": "The Mouse from H.U.N.G.E.R.",
+      "diziid": "tvj",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/157/gizli_ajan_fare"
+    },
+    {
+      "season": 158,
+      "episode": 158,
+      "title": "Surf-Bored Cat",
+      "diziid": "tvj",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/158/super_sorfcu_tom"
+    },
+    {
+      "season": 159,
+      "episode": 159,
+      "title": "Shutter-Bugged Cat",
+      "diziid": "tvj",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/159/haylaz_kedi"
+    },
+    {
+      "season": 160,
+      "episode": 160,
+      "title": "Advance and Be Mechanized",
+      "diziid": "tvj",
+      "bolum": "160",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/160/ilerleyin_ve_mekanize_olun"
+    },
+    {
+      "season": 161,
+      "episode": 161,
+      "title": "Purr-Chance to Dream",
+      "diziid": "tvj",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/tvj/tom_ve_jerry/161/uyku_sorunu"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "kark",
+  "title": "karmakarÄ±ÅŸÄ±k!",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/KARKPoster.avif",
+  "channel": "Nickelodeon",
+  "genres": [
+    "Komedi",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot!",
+      "diziid": "kark",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kark/karmakarisik%21/1/pilot%21"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Challenged!",
+      "diziid": "kark",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kark/karmakarisik%21/2/meydan_okuma%21"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Duped!",
+      "diziid": "kark",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kark/karmakarisik%21/3/oyuna_gelmek%21"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Space-Conflicted!",
+      "diziid": "kark",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kark/karmakarisik%21/4/uzay_cekismeleri%21"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Sandwiched!",
+      "diziid": "kark",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kark/karmakarisik%21/5/sikisip_kalmak%21"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Plagiarized!",
+      "diziid": "kark",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kark/karmakarisik%21/6/calinti%21"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Creeped!",
+      "diziid": "kark",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/kark/karmakarisik%21/7/urkutucu%21"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Recorded!",
+      "diziid": "kark",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/kark/karmakarisik%21/8/kayit_altinda%21"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Limited!",
+      "diziid": "kark",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/kark/karmakarisik%21/9/sinirli_sayida%21"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Raccooned!",
+      "diziid": "kark",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/kark/karmakarisik%21/10/rakunlandiniz%21"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Hired!",
+      "diziid": "kark",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/kark/karmakarisik%21/11/ise_alindin%21"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Talented!",
+      "diziid": "kark",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/kark/karmakarisik%21/12/yetenekli%21"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Finished!",
+      "diziid": "kark",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/kark/karmakarisik%21/13/bitti%21"
+    }
+  ]
+}

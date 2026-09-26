@@ -1,0 +1,605 @@
+{
+  "id": "swa",
+  "title": "star wars: asiler",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SWAPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Bilim Kurgu",
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Spark of Rebellion: Part 1",
+      "diziid": "swa",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/1/isyan_kivilcimi%3A_1._kisim"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Spark of Rebellion: Part 2",
+      "diziid": "swa",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/2/isyan_kivilcimi%3A_2._kisim"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Droids in Distress",
+      "diziid": "swa",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/3/droidler_tehlikede"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Fighter Flight",
+      "diziid": "swa",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/4/savas_ucagi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Rise of the Old Masters",
+      "diziid": "swa",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/5/eski_ustalarin_yukselisi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Breaking Ranks",
+      "diziid": "swa",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/6/kirilma_noktasi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Out of Darkness",
+      "diziid": "swa",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/7/karanligin_icinden"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Empire Day",
+      "diziid": "swa",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/8/imparatorluk_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Gathering Forces",
+      "diziid": "swa",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/9/guc_toplama"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Path of the Jedi",
+      "diziid": "swa",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/10/jedi_yolu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Idiot's Array",
+      "diziid": "swa",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/11/budala_dizilimi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Vision of Hope",
+      "diziid": "swa",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/12/umudu_ongormek"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Call to Action",
+      "diziid": "swa",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/13/eylem_cagrisi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Rebel Resolve",
+      "diziid": "swa",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/14/asilerin_azmi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Fire Across the Galaxy",
+      "diziid": "swa",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/15/tum_galakside_yangin"
+    },
+    {
+      "season": 1,
+      "episode": 16,
+      "title": "The Siege of Lothal: Part 1",
+      "diziid": "swa",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/16/lothal_kusatmasi%3A_1._kisim"
+    },
+    {
+      "season": 2,
+      "episode": 17,
+      "title": "The Siege of Lothal: Part 2",
+      "diziid": "swa",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/17/lothal_kusatmasi%3A_2._kisim"
+    },
+    {
+      "season": 3,
+      "episode": 18,
+      "title": "The Lost Commanders",
+      "diziid": "swa",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/18/kayip_komutanlar"
+    },
+    {
+      "season": 4,
+      "episode": 19,
+      "title": "Relics of the Old Republic",
+      "diziid": "swa",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/19/eski_cumhuriyetin_kalintilari"
+    },
+    {
+      "season": 5,
+      "episode": 20,
+      "title": "Always Two There Are",
+      "diziid": "swa",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/20/daima_vardir_iki"
+    },
+    {
+      "season": 6,
+      "episode": 21,
+      "title": "Brothers of the Broken Horn",
+      "diziid": "swa",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/21/kirik_boynuz_kardesleri"
+    },
+    {
+      "season": 7,
+      "episode": 22,
+      "title": "Wings of the Master",
+      "diziid": "swa",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/22/ustanin_kanatlari"
+    },
+    {
+      "season": 8,
+      "episode": 23,
+      "title": "Blood Sisters",
+      "diziid": "swa",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/23/kan_kardesleri"
+    },
+    {
+      "season": 9,
+      "episode": 24,
+      "title": "Stealth Strike",
+      "diziid": "swa",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/24/gizli_darbe"
+    },
+    {
+      "season": 10,
+      "episode": 25,
+      "title": "The Future of the Force",
+      "diziid": "swa",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/25/gucun_gelecegi"
+    },
+    {
+      "season": 11,
+      "episode": 26,
+      "title": "Legacy",
+      "diziid": "swa",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/26/miras"
+    },
+    {
+      "season": 12,
+      "episode": 27,
+      "title": "A Princess on Lothal",
+      "diziid": "swa",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/27/lothalda_bir_prenses"
+    },
+    {
+      "season": 13,
+      "episode": 28,
+      "title": "The Protector of Concord Dawn",
+      "diziid": "swa",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/28/concord_dawnin_koruyucusu"
+    },
+    {
+      "season": 14,
+      "episode": 29,
+      "title": "Legends of the Lasat",
+      "diziid": "swa",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/29/lasat_efsaneleri"
+    },
+    {
+      "season": 15,
+      "episode": 30,
+      "title": "The Call",
+      "diziid": "swa",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/30/cagri"
+    },
+    {
+      "season": 16,
+      "episode": 31,
+      "title": "Homecoming",
+      "diziid": "swa",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/31/eve_donus"
+    },
+    {
+      "season": 17,
+      "episode": 32,
+      "title": "The Honorable Ones",
+      "diziid": "swa",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/32/onurlu_olanlar"
+    },
+    {
+      "season": 18,
+      "episode": 33,
+      "title": "Shroud of Darkness",
+      "diziid": "swa",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/33/karanligin_kefeni"
+    },
+    {
+      "season": 19,
+      "episode": 34,
+      "title": "The Forgotten Droid",
+      "diziid": "swa",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/34/unutulmus_droid"
+    },
+    {
+      "season": 20,
+      "episode": 35,
+      "title": "The Mystery of Chopper Base",
+      "diziid": "swa",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/35/ana_ussun_gizemi"
+    },
+    {
+      "season": 21,
+      "episode": 36,
+      "title": "Twilight of the Apprentice: Part 1",
+      "diziid": "swa",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/36/cirakligin_alacakaranligi%3A_1._kisim"
+    },
+    {
+      "season": 22,
+      "episode": 37,
+      "title": "Twilight of the Apprentice: Part 2",
+      "diziid": "swa",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/37/cirakligin_alacakaranligi%3A_2._kisim"
+    },
+    {
+      "season": 1,
+      "episode": 38,
+      "title": "Steps Into Shadow: Part One",
+      "diziid": "swa",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/38/golgeye_atilan_adimlar%3A_1._kisim"
+    },
+    {
+      "season": 2,
+      "episode": 39,
+      "title": "Steps Into Shadow: Part Two",
+      "diziid": "swa",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/39/golgeye_atilan_adimlar%3A_2._kisim"
+    },
+    {
+      "season": 3,
+      "episode": 40,
+      "title": "The Holocrons of Fate",
+      "diziid": "swa",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/40/kader_holokronlari"
+    },
+    {
+      "season": 4,
+      "episode": 41,
+      "title": "The Antilles Extraction",
+      "diziid": "swa",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/41/antilles_cikarmasi"
+    },
+    {
+      "season": 5,
+      "episode": 42,
+      "title": "Hera's Heroes",
+      "diziid": "swa",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/42/heranin_kahramanlari"
+    },
+    {
+      "season": 6,
+      "episode": 43,
+      "title": "The Last Battle",
+      "diziid": "swa",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/43/son_muharebe"
+    },
+    {
+      "season": 7,
+      "episode": 44,
+      "title": "Imperial Supercommandos",
+      "diziid": "swa",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/44/imparatorluk_super_komandolari"
+    },
+    {
+      "season": 8,
+      "episode": 45,
+      "title": "Iron Squadron",
+      "diziid": "swa",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/45/demir_filosu"
+    },
+    {
+      "season": 9,
+      "episode": 46,
+      "title": "The Wynkahthu Job",
+      "diziid": "swa",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/46/wynkahthu_isi"
+    },
+    {
+      "season": 10,
+      "episode": 47,
+      "title": "An Inside Man",
+      "diziid": "swa",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/47/icerideki_adam"
+    },
+    {
+      "season": 11,
+      "episode": 48,
+      "title": "Visions and Voices",
+      "diziid": "swa",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/48/goruntuler_ve_sesler"
+    },
+    {
+      "season": 12,
+      "episode": 49,
+      "title": "Ghosts of Geonosis: Part 1",
+      "diziid": "swa",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/49/geonosisin_hayaletleri%3A_1._kisim"
+    },
+    {
+      "season": 13,
+      "episode": 50,
+      "title": "Ghosts of Geonosis: Part 2",
+      "diziid": "swa",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/50/geonosisin_hayaletleri%3A_2._kisim"
+    },
+    {
+      "season": 14,
+      "episode": 51,
+      "title": "Warhead",
+      "diziid": "swa",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/51/savas_basligi"
+    },
+    {
+      "season": 15,
+      "episode": 52,
+      "title": "Trials of the Darksaber",
+      "diziid": "swa",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/52/karakilic_denemeleri"
+    },
+    {
+      "season": 16,
+      "episode": 53,
+      "title": "Legacy of Mandalore",
+      "diziid": "swa",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/53/mandaloreun_mirasi"
+    },
+    {
+      "season": 17,
+      "episode": 54,
+      "title": "Through Imperial Eyes",
+      "diziid": "swa",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/54/imparatorluk_gozunden"
+    },
+    {
+      "season": 18,
+      "episode": 55,
+      "title": "Secret Cargo",
+      "diziid": "swa",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/55/gizli_kargo"
+    },
+    {
+      "season": 19,
+      "episode": 56,
+      "title": "Double Agent Droid",
+      "diziid": "swa",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/56/cift_tarafli_ajan_droid"
+    },
+    {
+      "season": 20,
+      "episode": 57,
+      "title": "Twin Suns",
+      "diziid": "swa",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/57/ikiz_gunesler"
+    },
+    {
+      "season": 21,
+      "episode": 58,
+      "title": "Zero Hour: Part 1",
+      "diziid": "swa",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/58/operasyon_vakti%3A_1._kisim"
+    },
+    {
+      "season": 22,
+      "episode": 59,
+      "title": "Zero Hour: Part 2",
+      "diziid": "swa",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/59/operasyon_vakti%3A_2._kisim"
+    },
+    {
+      "season": 1,
+      "episode": 60,
+      "title": "Heroes of Mandalore: Part 1",
+      "diziid": "swa",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/60/mandaloreun_kahramanlari%3A_1._bolum"
+    },
+    {
+      "season": 2,
+      "episode": 61,
+      "title": "Heroes of Mandalore: Part 2",
+      "diziid": "swa",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/61/mandaloreun_kahramanlari%3A_2._bolum"
+    },
+    {
+      "season": 3,
+      "episode": 62,
+      "title": "In the Name of the Rebellion: Part 1",
+      "diziid": "swa",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/62/isyan_adina%3A_1._bolum"
+    },
+    {
+      "season": 4,
+      "episode": 63,
+      "title": "In the Name of the Rebellion: Part 2",
+      "diziid": "swa",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/63/isyan_adina%3A_2._bolum"
+    },
+    {
+      "season": 5,
+      "episode": 64,
+      "title": "The Occupation",
+      "diziid": "swa",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/64/isgal"
+    },
+    {
+      "season": 6,
+      "episode": 65,
+      "title": "Flight of the Defender",
+      "diziid": "swa",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/65/koruyucunun_ucusu"
+    },
+    {
+      "season": 7,
+      "episode": 66,
+      "title": "Kindred",
+      "diziid": "swa",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/66/hemcinsler"
+    },
+    {
+      "season": 8,
+      "episode": 67,
+      "title": "Crawler Commandeers",
+      "diziid": "swa",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/67/maden_aracina_el_koyanlar"
+    },
+    {
+      "season": 9,
+      "episode": 68,
+      "title": "Rebel Assault",
+      "diziid": "swa",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/68/asi_saldirisi"
+    },
+    {
+      "season": 10,
+      "episode": 69,
+      "title": "Jedi Night",
+      "diziid": "swa",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/69/jedi_gecesi"
+    },
+    {
+      "season": 11,
+      "episode": 70,
+      "title": "DUME",
+      "diziid": "swa",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/70/dume"
+    },
+    {
+      "season": 12,
+      "episode": 71,
+      "title": "Wolves and a Door",
+      "diziid": "swa",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/71/kurtlar_ve_kapi"
+    },
+    {
+      "season": 13,
+      "episode": 72,
+      "title": "A World Between Worlds",
+      "diziid": "swa",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/72/dunyalar_arasindaki_bir_dunya"
+    },
+    {
+      "season": 14,
+      "episode": 73,
+      "title": "A Fool's Hope",
+      "diziid": "swa",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/73/saf_bir_umut"
+    },
+    {
+      "season": 1,
+      "episode": 74,
+      "title": "Family Reunion - and Farewell",
+      "diziid": "swa",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/swa/star_wars%3A_asiler/74/aile_bulusmasi_ve_veda"
+    }
+  ]
+}

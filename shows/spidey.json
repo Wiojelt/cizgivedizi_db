@@ -1,0 +1,836 @@
+{
+  "id": "spidey",
+  "title": "spidey ve inanÄ±lmaz arkadaÅŸlarÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SPIDEYPoster.avif",
+  "channel": "Disney Jr.",
+  "genres": [
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Spidey to the Power of Three/Panther Patience",
+      "diziid": "spidey",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/1/spidey_ile_uclu_guc__panter_sabri"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Superhero Hiccups/Lost and Found",
+      "diziid": "spidey",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/2/super_kahraman_hickiriklari__kayipti_ve_bulundu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Doc Ock's Super Octopus/Attack of the Green Giggles",
+      "diziid": "spidey",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/3/doc_ockun_super_ahtapotu__yesil_kikirdaklarin_saldirisi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Bug in the System/Test Your Super Strength",
+      "diziid": "spidey",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/4/sistemdeki_ariza__super_gucunu_test_et"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Pecking Prankster Pigeons/Green Thumb",
+      "diziid": "spidey",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/5/gagalayan_sakaci_guvercinler__yesil_bir_seyin_parmagi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Mother's Day Mayhem/Not-So-Fun House",
+      "diziid": "spidey",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/6/anneler_gunu_kargasasi__oyun_evinde_sorun"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Camping Conundrum/The Great Green Crime Spree",
+      "diziid": "spidey",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/7/kamp_bilmecesi__buyuk_yesil_seri_suclar"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Rocket Rhino!/Trick or TRACE-E",
+      "diziid": "spidey",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/8/roket_rhino%21__saka_mi_trace-e_mi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Gob-zilla/Speedy Spidey Delivery",
+      "diziid": "spidey",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/9/gob-zilla__suratli_spidey_teslimat"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Good Guy Gobby/Spider Monkey",
+      "diziid": "spidey",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/10/iyi_adam_gobby__orumcek_maymunu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "CAT-astrophe/Swing with a Stomp",
+      "diziid": "spidey",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/11/felakedi__ahta-boyutlayici"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "A Very Spidey Christmas/Gobby on Ice",
+      "diziid": "spidey",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/12/mutlu_ve_orumcekli_seneler__gobby_buz_ustunde"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Going Green/Coming Clean",
+      "diziid": "spidey",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/13/yesile_donmek__temizlik_zamani"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Web Beard's Treasure/Washed Away",
+      "diziid": "spidey",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/14/ag_sakalin_hazinesi__piril_piril"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Spin Rushes In/Bridge Bandit",
+      "diziid": "spidey",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/15/telasli_spin__kopru_haydudu"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Art Attack/Puppy Pandemonium",
+      "diziid": "spidey",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/16/sanata_saldiri%21__yavru_kopek_curcunasi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Goblin Island/Doc Ock and the Shocktobots",
+      "diziid": "spidey",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/17/cin_adasi__doktor_ahtapot_ve_shocktobotlar"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Peter's Pendant Predicament/TWIST-E",
+      "diziid": "spidey",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/18/peterin_kolye_ikilemi__twist-e"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Itsy-Bitsy Spiders/Gobby's Rotten Pumpkin Hunt",
+      "diziid": "spidey",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/19/minik_orumcekler__gobbynin_curuk_balkabagi_avi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Wozzlesnook/Superhero Switcheroo",
+      "diziid": "spidey",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/20/wozzlesnook__super_kahraman_degis_tokusu"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Aunt May's Mess/Foam Sweet Foam",
+      "diziid": "spidey",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/21/may_halanin_sorunu__kopugum%2C_guzel_kopugum"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Freeze! It's Team Spidey/A Sticky Situation",
+      "diziid": "spidey",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/22/kipirdamayin%21_spidey_takimi_geldi%21__yapisan_dertler"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Rhinoctopus/A Pumpkin Problem",
+      "diziid": "spidey",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/23/ahtapot_rhino__bal_kabagi_sorunu"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Catch and Release/Construction Destruction",
+      "diziid": "spidey",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/24/yakala_ve_birak__yapmak_ve_yikmak"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Parade Panic/The Case of the Burgling Book Bandit",
+      "diziid": "spidey",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/25/gecit_toreninde_panik__hirsizlik_yapan_kitap_haydudu"
+    },
+    {
+      "season": 1,
+      "episode": 26,
+      "title": "Electro's Gotta Glow/Black Cat Chaos",
+      "diziid": "spidey",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/26/electronun_parlamasi_gerek__kara_kedi_kaosu"
+    },
+    {
+      "season": 2,
+      "episode": 27,
+      "title": "Lights Out/Sandman Won't Share!",
+      "diziid": "spidey",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/27/isiklar_kesildi__kum_adam_paylasmiyor%21"
+    },
+    {
+      "season": 3,
+      "episode": 28,
+      "title": "Bootsie's Day Out/Trouble at Tony's",
+      "diziid": "spidey",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/28/bootsienin_disarida_bir_gunu__tonynin_evinde_kargasa"
+    },
+    {
+      "season": 4,
+      "episode": 29,
+      "title": "Sonic Boom Boom/Mini Golf Goof",
+      "diziid": "spidey",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/29/sonik_patlama__mini_golf_gafi"
+    },
+    {
+      "season": 5,
+      "episode": 30,
+      "title": "Li'l Hulk/Surprise Party Surprise",
+      "diziid": "spidey",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/30/minik_hulk__surpriz_parti_surprizi"
+    },
+    {
+      "season": 6,
+      "episode": 31,
+      "title": "Can't Stop Dancing!/The Ant Thief",
+      "diziid": "spidey",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/31/dans_etmeden_duramiyorum%21__hirsiz_karincalar"
+    },
+    {
+      "season": 7,
+      "episode": 32,
+      "title": "Sand Trapped/Too Much Fun",
+      "diziid": "spidey",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/32/kum_labirenti__asiri_eglenceli"
+    },
+    {
+      "season": 8,
+      "episode": 33,
+      "title": "Halted Holiday/Merry Spidey Christmas",
+      "diziid": "spidey",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/33/ertelenen_bayram__mutlu_spideyli_noeller"
+    },
+    {
+      "season": 9,
+      "episode": 34,
+      "title": "An Egg-Cellent Adventure/The Hangout Headache",
+      "diziid": "spidey",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/34/yumurtali_macera__bas_agrisi"
+    },
+    {
+      "season": 10,
+      "episode": 35,
+      "title": "Follow That Sea Monster!/It's Bad to be Gooed",
+      "diziid": "spidey",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/35/deniz_yaratiginin_pesinde__yapiskanlik_kotudur"
+    },
+    {
+      "season": 11,
+      "episode": 36,
+      "title": "Liberty on the Loose/Green Goblin's Dino Disaster",
+      "diziid": "spidey",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/36/ozgurluk_tehlikede__green_goblinin_dino_felaketi"
+    },
+    {
+      "season": 12,
+      "episode": 37,
+      "title": "Spidey Tidies Up/Oh No, Tomatoes!",
+      "diziid": "spidey",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/37/spidey_toparliyor__oh%2C_hayir_domates%21"
+    },
+    {
+      "season": 13,
+      "episode": 38,
+      "title": "Clean Power/Doc Ock & the Rocktobots",
+      "diziid": "spidey",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/38/temiz_guc__doc_ock_ve_rocktobots"
+    },
+    {
+      "season": 14,
+      "episode": 39,
+      "title": "Pirate Plunder Blunder/Bad Bot",
+      "diziid": "spidey",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/39/korsan_yagmasi_hatasi__kotu_bot"
+    },
+    {
+      "season": 15,
+      "episode": 40,
+      "title": "Spin Saves the Day/Water Woes",
+      "diziid": "spidey",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/40/spin_gunu_kurtariyor__su_sikintisi"
+    },
+    {
+      "season": 16,
+      "episode": 41,
+      "title": "Tunnel Trouble/Mystery On Goblin Island",
+      "diziid": "spidey",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/41/tunel_belasi__goblin_adasindaki_gizem"
+    },
+    {
+      "season": 17,
+      "episode": 42,
+      "title": "The Maltese Kitten/A Day With Black Panther",
+      "diziid": "spidey",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/42/malta_kedisi__kara_panter_ile_bir_gun"
+    },
+    {
+      "season": 18,
+      "episode": 43,
+      "title": "The New Villain in Town/Spidey Cat",
+      "diziid": "spidey",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/43/sehirdeki_yeni_kotu_adam__orumcek_kedi"
+    },
+    {
+      "season": 19,
+      "episode": 44,
+      "title": "A Syrupy Solution/Little Ant, Big Problem!",
+      "diziid": "spidey",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/44/tatli_cozum__kucuk_karinca%2C_buyuk_cozum"
+    },
+    {
+      "season": 20,
+      "episode": 45,
+      "title": "Ock Tower/Outsmarted by Art",
+      "diziid": "spidey",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/45/ock_kulesi__sanat_agir_basti"
+    },
+    {
+      "season": 21,
+      "episode": 46,
+      "title": "Super Scooter/The Lost Web Shooter",
+      "diziid": "spidey",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/46/harika_motor__kayip_ag_aticisi"
+    },
+    {
+      "season": 22,
+      "episode": 47,
+      "title": "Catnap Caper/Bunny Bonanza",
+      "diziid": "spidey",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/47/sekerleme_zamani__tavsan_cilginligi"
+    },
+    {
+      "season": 23,
+      "episode": 48,
+      "title": "Dino-Rama/Daytime at Nighttime",
+      "diziid": "spidey",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/48/dino-rama__gece_vakti_aydinlik"
+    },
+    {
+      "season": 24,
+      "episode": 49,
+      "title": "Stolen WEB-Quarters/Spideys in Space!",
+      "diziid": "spidey",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/49/ag_karargahinin_isgali__spideyler_uzayda"
+    },
+    {
+      "season": 25,
+      "episode": 50,
+      "title": "Hide & Seek/Whale of a Time",
+      "diziid": "spidey",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/50/saklambac__balina_zamani"
+    },
+    {
+      "season": 26,
+      "episode": 51,
+      "title": "Rollin Rhino/The Octopus and the Kitty Cat",
+      "diziid": "spidey",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/51/patenci_rhino__ahtapot_ve_kedicik"
+    },
+    {
+      "season": 27,
+      "episode": 52,
+      "title": "Go With the Lava Flow/An Un-Bee-Lievable Rosh Hashanah",
+      "diziid": "spidey",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/52/lava_kulak_ver__inanilmaz_bir_rosh_hashanah"
+    },
+    {
+      "season": 28,
+      "episode": 53,
+      "title": "Bootsie's Haunted Adventure/Too Many Tricks, Not Enough Treats",
+      "diziid": "spidey",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/53/bootsynin_perili_macerasi__saka_cok%2C_seker_yok"
+    },
+    {
+      "season": 29,
+      "episode": 54,
+      "title": "How To Train Your Doggy/Dome Alone",
+      "diziid": "spidey",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/54/kopegini_nasil_egitirsin__kubbede_tek_basina"
+    },
+    {
+      "season": 1,
+      "episode": 55,
+      "title": "The Friendly Neighborhood/Flight Of The Butterflies",
+      "diziid": "spidey",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/55/dostane_mahalle__kelebeklerin_ucusu"
+    },
+    {
+      "season": 2,
+      "episode": 56,
+      "title": "Ock's Obey Ray/Lemur At Large",
+      "diziid": "spidey",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/56/ockun_itaat_isini__lemur_kacista"
+    },
+    {
+      "season": 3,
+      "episode": 57,
+      "title": "Tree Trouble/Stuck In Space",
+      "diziid": "spidey",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/57/agac_sorunu__uzayda_mahsur"
+    },
+    {
+      "season": 4,
+      "episode": 58,
+      "title": "Antarctic Adventure/Let It Snowball, Let It Snowball, Let It Snowball",
+      "diziid": "spidey",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/58/kutup_macerasi__her_yer_bembeyaz_ve_kar_yagiyor"
+    },
+    {
+      "season": 5,
+      "episode": 59,
+      "title": "Bubble Trouble/Rainy River Run",
+      "diziid": "spidey",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/59/balon_sorunu__yagmurlu_bir_gun"
+    },
+    {
+      "season": 6,
+      "episode": 60,
+      "title": "The Rhino And The Goose/Dog Vs Cat",
+      "diziid": "spidey",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/60/gergedan_ve_kaz__kopek_kediye_karsi"
+    },
+    {
+      "season": 7,
+      "episode": 61,
+      "title": "Journey Through Zola/Villaintines Day",
+      "diziid": "spidey",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/61/zolun_icinde_yolculuk__kotuler_gunu"
+    },
+    {
+      "season": 8,
+      "episode": 62,
+      "title": "Now You See Me, Now You Don't/Meet Squirrel Girl",
+      "diziid": "spidey",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/62/simdi_beni_goruyorsun%2C_simdi_gormuyorsun%21__iste_squirrel_girl"
+    },
+    {
+      "season": 9,
+      "episode": 63,
+      "title": "Car-Tastrophe/Sandman and the Tortoise",
+      "diziid": "spidey",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/63/araba_faciasi__sandman_ve_tosbaga"
+    },
+    {
+      "season": 10,
+      "episode": 64,
+      "title": "Tiny Car Caper/Toothy Fairy Tricks",
+      "diziid": "spidey",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/64/minik_araba_oyunu__dis_perisi_hileleri"
+    },
+    {
+      "season": 11,
+      "episode": 65,
+      "title": "Picture Perfect Pandemonium/Catch That Panther Pod",
+      "diziid": "spidey",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/65/en_mukemmel_sergi__yakalayin_o_panter_podu"
+    },
+    {
+      "season": 12,
+      "episode": 66,
+      "title": "Iron Zola/Aunt May's Birthday Blowout",
+      "diziid": "spidey",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/66/iron_zula__may_halanin_dogum_gunu"
+    },
+    {
+      "season": 13,
+      "episode": 67,
+      "title": "Freeze, It's Dock Ock!/Go, Go, Jeff",
+      "diziid": "spidey",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/67/kipirdamayin%2C_dock_ock_geldi%21__hadi_jeff%2C_hadi"
+    },
+    {
+      "season": 14,
+      "episode": 68,
+      "title": "Zola's Novel Idea/Greatest Hits",
+      "diziid": "spidey",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/68/zolanin_roman_fikri__en_iyiler"
+    },
+    {
+      "season": 15,
+      "episode": 69,
+      "title": "Go Dino-Webs Go!/Ghost in the Museum",
+      "diziid": "spidey",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/69/hadi_dino_aglar_hadi%21__muzedeki_hayalet"
+    },
+    {
+      "season": 16,
+      "episode": 70,
+      "title": "Grow Webs Grow/Rio In Space",
+      "diziid": "spidey",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/70/buyu_aglar_buyu__rio_uzayda"
+    },
+    {
+      "season": 17,
+      "episode": 71,
+      "title": "The Goblin and The Geyser/Skeleton Stomp",
+      "diziid": "spidey",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/71/goblin_ve_gayzer__iskelet_darbesi"
+    },
+    {
+      "season": 18,
+      "episode": 72,
+      "title": "Fool's Gold/The Sundae Save",
+      "diziid": "spidey",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/72/sahte_altin__dondurma_kurtarisi"
+    },
+    {
+      "season": 19,
+      "episode": 73,
+      "title": "Adventures in Fossil Hunting/Lizard's Buggy Bonanza",
+      "diziid": "spidey",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/73/fosil_avciligi_maceralari__lizard%E2%80%99in_bocek_senligi"
+    },
+    {
+      "season": 20,
+      "episode": 74,
+      "title": "Odd Bot Team Up/The Lost King",
+      "diziid": "spidey",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/74/odd_bot_takimi__kayip_sah"
+    },
+    {
+      "season": 21,
+      "episode": 75,
+      "title": "The Curse of the Corn Dog King/Zola's Halloween Heist",
+      "diziid": "spidey",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/75/misir_sosisi_krali%E2%80%99nin_laneti__zolanin_cadilar_bayrami_soygunu"
+    },
+    {
+      "season": 22,
+      "episode": 76,
+      "title": "Too Many Zolas/Electro's Glow Show",
+      "diziid": "spidey",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/76/cok_fazla_zola__elektro%E2%80%99nun_parilti_gosterisi"
+    },
+    {
+      "season": 23,
+      "episode": 77,
+      "title": "Robo-Spideys/Saber-Toothed Kitten",
+      "diziid": "spidey",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/77/robo-spideyler__kilcikli_disli_kedi"
+    },
+    {
+      "season": 24,
+      "episode": 78,
+      "title": "Tree House Treasure/The Incredible Shrinking Zola",
+      "diziid": "spidey",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/78/agac_ev_istilasi__olaganustu_kucuk_zola"
+    },
+    {
+      "season": 25,
+      "episode": 79,
+      "title": "Moon Girl and the Dino Dilemma/Hulk's Squirrley Switch",
+      "diziid": "spidey",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/79/moon_girl_ve_dinozor_ikilemi__hulkin_sincap_degisimi"
+    },
+    {
+      "season": 26,
+      "episode": 80,
+      "title": "A Snow Day For Aunt May/Hanukkah Heist",
+      "diziid": "spidey",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/80/may_hala_icin_karli_bir_gun__hannukah_soygunu"
+    },
+    {
+      "season": 27,
+      "episode": 81,
+      "title": "Tricky Tricky Trapster/Tractor Beam Trouble",
+      "diziid": "spidey",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/81/numaraci_numaraci_trapster__cekici_isin_sorunu"
+    },
+    {
+      "season": 28,
+      "episode": 82,
+      "title": "The Campout Mystery/Gobby's Metal Menace",
+      "diziid": "spidey",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/82/kamp_alani_gizemi__gobby%E2%80%99nin_metal_tehlikesi"
+    },
+    {
+      "season": 29,
+      "episode": 83,
+      "title": "Dinosaurs on the Loose/WEB-STER'S Big Bad Bug",
+      "diziid": "spidey",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/83/dinozorlar_kacti__web-ster%E2%80%99in_kotu_bocek_sorunu"
+    },
+    {
+      "season": 30,
+      "episode": 84,
+      "title": "Groundhog's Day Out/Ploofy Power",
+      "diziid": "spidey",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/84/dag_sicani_gunu_sorunu__ploofy_gucu"
+    },
+    {
+      "season": 1,
+      "episode": 85,
+      "title": "Voyage to Spider Island/Superhero Soak",
+      "diziid": "spidey",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/85/orumcek_adasina_yolculuk__super_kahraman_saganagi"
+    },
+    {
+      "season": 2,
+      "episode": 86,
+      "title": "Giant-Sized Lizard/Rhino's Wild Bunch",
+      "diziid": "spidey",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/86/dev_boy_lizard__rhinonun_vahsi_destesi"
+    },
+    {
+      "season": 3,
+      "episode": 87,
+      "title": "The Bots Vs. Ock/The Battery Boost",
+      "diziid": "spidey",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/87/botlar_ocka_karsi__batarya_takviyesi"
+    },
+    {
+      "season": 4,
+      "episode": 88,
+      "title": "King Lizard/Go Rhino Go",
+      "diziid": "spidey",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/88/kral_lizard__rhino_cikiyor"
+    },
+    {
+      "season": 5,
+      "episode": 89,
+      "title": "Campout Chaos/Panther Pod to the Rescue",
+      "diziid": "spidey",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/89/kampta_karmasa__panter_kapsul_gorevde"
+    },
+    {
+      "season": 6,
+      "episode": 90,
+      "title": "Two Teleporters Too Many/Dinos Are Forever",
+      "diziid": "spidey",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/90/iki_isinlayici_bir_adada__dinolar_kalicidir"
+    },
+    {
+      "season": 7,
+      "episode": 91,
+      "title": "The Lost Lair of Web-Beard/Captain Gobby",
+      "diziid": "spidey",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/91/ag_sakalin_gizli_siginagi__kaptan_gobby"
+    },
+    {
+      "season": 8,
+      "episode": 92,
+      "title": "Mixing Up Trouble/To Catch a Cat",
+      "diziid": "spidey",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/92/karistirma_meselesi__kedi_kovalamaca"
+    },
+    {
+      "season": 9,
+      "episode": 93,
+      "title": "How to Catch a Caterpillar/A Jellyfish Tale",
+      "diziid": "spidey",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/93/tirtil_nasil_yakalanir__bir_denizanasi_hikayesi"
+    },
+    {
+      "season": 10,
+      "episode": 94,
+      "title": "Night of the Goblins/Bat Attitude",
+      "diziid": "spidey",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/94/goblinlerin_gecesi__yarasa_tavri"
+    },
+    {
+      "season": 14,
+      "episode": 95,
+      "title": "The Candlelight Christmas Walk/The Santa Trap",
+      "diziid": "spidey",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/98/mum_isiginda_noel_yuruyusu__noel_baba_tuzagi"
+    },
+    {
+      "season": 11,
+      "episode": 96,
+      "title": "Saving Spider Island/A Ribbiting Rescue",
+      "diziid": "spidey",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/95/orumcek_adasini_kurtariyoruz__viraklayan_kurtaris"
+    },
+    {
+      "season": 12,
+      "episode": 97,
+      "title": "A Squirrel Girl and Tippy Toe Pirate Adventure/Knight at the Museum",
+      "diziid": "spidey",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/96/squirrel_girl_ve_tippy_toenun_korsan_macerasi__muzedeki_sovalye"
+    },
+    {
+      "season": 13,
+      "episode": 98,
+      "title": "The Greedy Goose/Playpen Pandemonium",
+      "diziid": "spidey",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/97/acgozlu_kaz__oyun_parki_curcunasi"
+    },
+    {
+      "season": 15,
+      "episode": 99,
+      "title": "The Treasure of Billie the Pirate/Big City, Little Land Shark",
+      "diziid": "spidey",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/99/korsan_billienin_hazinesi__buyuk_sehir%2C_kucuk_kopek_baligi"
+    },
+    {
+      "season": 16,
+      "episode": 100,
+      "title": "A Helping Handful/Adventures Down the Drain",
+      "diziid": "spidey",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/100/yardim_eli_uzat__akip_giden_macera"
+    },
+    {
+      "season": 17,
+      "episode": 101,
+      "title": "Dolphin Rescue/Gobby's Trash Day Takeover",
+      "diziid": "spidey",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/101/yunus_kurtarisi__gobbynin_cop_gunu_macerasi"
+    },
+    {
+      "season": 18,
+      "episode": 102,
+      "title": "Motorcycle Madness/Oops! I Shrank WEB-Quarters",
+      "diziid": "spidey",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/102/motorsiklet_manyakligi__eyvah%2C_ag_karargahini_kuculttum%21"
+    },
+    {
+      "season": 19,
+      "episode": 103,
+      "title": "The Return of Web-Beard/Sandman vs Hydro-Man",
+      "diziid": "spidey",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/spidey/spidey_ve_inanilmaz_arkadaslari/103/ag_sakalin_muhtesem_donusu__sandman%2C_hydro-mane_karsi"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "minef",
+  "title": "bir minecraft filmi",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/MINECRFFilmPoster.avif",
+  "channel": "[HBO] Max",
+  "genres": [
+    "Komedi",
+    "Macera",
+    "Fantastik"
+  ],
+  "episodes": []
+}

@@ -1,0 +1,797 @@
+{
+  "id": "yka",
+  "title": "yaz kampÄ± adasÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/YKAPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Fantastik",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The First Day",
+      "diziid": "yka",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/1/ilk_gun"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Monster Babies",
+      "diziid": "yka",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/2/canavar_bebekler"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Chocolate Money Badgers",
+      "diziid": "yka",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/3/cikolata_para_rozeti"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Saxophone Come Home",
+      "diziid": "yka",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/4/saksafon_eve_don"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Pajama Pajimjams",
+      "diziid": "yka",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/5/pijama_mijama"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Oscar & Hedgehog's Melody",
+      "diziid": "yka",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/6/oscar_ve_kirpinin_melodisi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Feeling Spacey",
+      "diziid": "yka",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/7/boslukta_hissetmek"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Ghost the Boy",
+      "diziid": "yka",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/8/hayalet_cocuk"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Computer Vampire",
+      "diziid": "yka",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/9/bilgisayar_vampiri"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Basketball Liaries",
+      "diziid": "yka",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/10/basketbol_yalanlari"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Popular Banana Split",
+      "diziid": "yka",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/11/populer_muz_tatlisi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Time Traveling Quick Pants",
+      "diziid": "yka",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/12/hizli_pantolon"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "It's My Party",
+      "diziid": "yka",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/13/bu_benim_partim"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Moon Problems",
+      "diziid": "yka",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/14/ay_sorunlari"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Monster Visit",
+      "diziid": "yka",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/15/canavar_ziyareti"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Ice Cream Headache",
+      "diziid": "yka",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/16/dondurma_sancisi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Pepper's Blanket Is Missing",
+      "diziid": "yka",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/17/pepperin_kayip_battaniyesi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Hedgehog Werewolf",
+      "diziid": "yka",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/18/kirpi_kurt_adam"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Mr. Softball",
+      "diziid": "yka",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/19/bay_softbol"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Fuzzy Pink Time Babies",
+      "diziid": "yka",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/20/pembe_tuylu_zaman_bebekleri"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Cosmic Bupkiss",
+      "diziid": "yka",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/21/kozmik_opucuk"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Radio Silence",
+      "diziid": "yka",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/22/radyo_sessizligi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Director's Cut",
+      "diziid": "yka",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/23/yonetmenin_kurgusu"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Haunted Campfire",
+      "diziid": "yka",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/24/hayaletli_kamp_atesi"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "I Heart Heartforde",
+      "diziid": "yka",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/25/heartforde_sevgisi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Space Invasion",
+      "diziid": "yka",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/26/uzay_istilasi"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Momsoon",
+      "diziid": "yka",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/27/momsoon"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Sneeze Guard",
+      "diziid": "yka",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/28/hapsirik_bekcisi"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Susie's Fantastical Scavenger Hunt",
+      "diziid": "yka",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/29/susienin_fantastik_esya_avi"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Mop Forever",
+      "diziid": "yka",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/30/ebedi_paspaslama"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Pajamas Party",
+      "diziid": "yka",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/31/pijama_partisi"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "The Soundhouse",
+      "diziid": "yka",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/32/ses_evi"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Puff Paint",
+      "diziid": "yka",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/33/nefes_kesen_tablo"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Susie Appreciation Day",
+      "diziid": "yka",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/34/susienin_keyif_gunu"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Campers Above the Bed",
+      "diziid": "yka",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/35/yatagin_uzerindeki_kampcilar"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Midnight Quittance",
+      "diziid": "yka",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/36/gece_yarisi_hesaplasmasi"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "The Great Elf Invention Convention",
+      "diziid": "yka",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/37/buyuk_elf_bulusmalari_fuari"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Twelve Angry Hedgehogs",
+      "diziid": "yka",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/38/on_iki_ofkeli_kirpi"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Spell Crushers",
+      "diziid": "yka",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/39/oyun_bozucular"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "The Library",
+      "diziid": "yka",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/40/kutuphane"
+    },
+    {
+      "season": 1,
+      "episode": 41,
+      "title": "Meeting of the Minds",
+      "diziid": "yka",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/41/liderlerin_toplantisi"
+    },
+    {
+      "season": 2,
+      "episode": 42,
+      "title": "Ava's Yard Sale",
+      "diziid": "yka",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/42/avanin_bahce_satisi"
+    },
+    {
+      "season": 3,
+      "episode": 43,
+      "title": "Molar Moles",
+      "diziid": "yka",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/43/dis_polisleri"
+    },
+    {
+      "season": 4,
+      "episode": 44,
+      "title": "Tortilla Towel",
+      "diziid": "yka",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/44/lavas_havlu"
+    },
+    {
+      "season": 5,
+      "episode": 45,
+      "title": "Acorn Graduation",
+      "diziid": "yka",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/45/palamut_mezuniyeti"
+    },
+    {
+      "season": 6,
+      "episode": 46,
+      "title": "Dungeon Doug",
+      "diziid": "yka",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/46/zindanci_doug"
+    },
+    {
+      "season": 7,
+      "episode": 47,
+      "title": "Tub on the Run",
+      "diziid": "yka",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/47/kacak_kuvet"
+    },
+    {
+      "season": 8,
+      "episode": 48,
+      "title": "Spotted Bear Stretch",
+      "diziid": "yka",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/48/benekli_ayi_gerinmesi"
+    },
+    {
+      "season": 9,
+      "episode": 49,
+      "title": "French Toasting",
+      "diziid": "yka",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/49/fransiz_tostu"
+    },
+    {
+      "season": 11,
+      "episode": 50,
+      "title": "Catacombs",
+      "diziid": "yka",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/51/taraklilar"
+    },
+    {
+      "season": 12,
+      "episode": 51,
+      "title": "Wild Hearts Can't be Caboodled",
+      "diziid": "yka",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/52/vahsi_kalpler_degistirilemez"
+    },
+    {
+      "season": 13,
+      "episode": 52,
+      "title": "The Later Pile",
+      "diziid": "yka",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/53/yapilacaklar_yigini"
+    },
+    {
+      "season": 14,
+      "episode": 53,
+      "title": "Honeydew Hatch",
+      "diziid": "yka",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/54/kavun_hasadi"
+    },
+    {
+      "season": 15,
+      "episode": 54,
+      "title": "Light as a Feather",
+      "diziid": "yka",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/55/tuy_gibi_hafif"
+    },
+    {
+      "season": 17,
+      "episode": 55,
+      "title": "Oddjobs",
+      "diziid": "yka",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/57/ayak_isleri"
+    },
+    {
+      "season": 18,
+      "episode": 56,
+      "title": "Tumble Dry Low",
+      "diziid": "yka",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/58/kurutucuda_dusuk_ayar"
+    },
+    {
+      "season": 19,
+      "episode": 57,
+      "title": "Just You and Me",
+      "diziid": "yka",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/59/sadece_sen_ve_ben"
+    },
+    {
+      "season": 20,
+      "episode": 58,
+      "title": "Glow Worm",
+      "diziid": "yka",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/60/ates_bocegi"
+    },
+    {
+      "season": 1,
+      "episode": 59,
+      "title": "Susie's Ark",
+      "diziid": "yka",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/61/susienin_gemisi"
+    },
+    {
+      "season": 2,
+      "episode": 60,
+      "title": "Ghost Baby Jabberwock",
+      "diziid": "yka",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/62/hayalet_bebek_jabberwock"
+    },
+    {
+      "season": 3,
+      "episode": 61,
+      "title": "Meet Me in Massachusetts",
+      "diziid": "yka",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/63/massachusettste_bulusalim"
+    },
+    {
+      "season": 4,
+      "episode": 62,
+      "title": "Witches in the City",
+      "diziid": "yka",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/64/sehirdeki_cadilar"
+    },
+    {
+      "season": 8,
+      "episode": 63,
+      "title": "Don't Tell Lucy",
+      "diziid": "yka",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/68/lucyye_soyleme"
+    },
+    {
+      "season": 9,
+      "episode": 64,
+      "title": "The Yum Whisperer",
+      "diziid": "yka",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/69/yum_fisildayicisi"
+    },
+    {
+      "season": 10,
+      "episode": 65,
+      "title": "The Sherbet Scoop",
+      "diziid": "yka",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/70/serbet_kepcesi"
+    },
+    {
+      "season": 11,
+      "episode": 66,
+      "title": "Lucy's Instrument",
+      "diziid": "yka",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/71/lucynin_enstrumani"
+    },
+    {
+      "season": 12,
+      "episode": 67,
+      "title": "Where's the Confetti",
+      "diziid": "yka",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/72/konfeti_nerede"
+    },
+    {
+      "season": 1,
+      "episode": 68,
+      "title": "Sea Bunnies",
+      "diziid": "yka",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/73/deniz_tavsanlari"
+    },
+    {
+      "season": 2,
+      "episode": 69,
+      "title": "Mushrumours",
+      "diziid": "yka",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/74/mantar_dedikodusu"
+    },
+    {
+      "season": 3,
+      "episode": 70,
+      "title": "Breakfast Like Gene Kelly",
+      "diziid": "yka",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/75/ruya_gibi_kahvalti"
+    },
+    {
+      "season": 5,
+      "episode": 71,
+      "title": "Oscar & His Demon",
+      "diziid": "yka",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/77/oscar_ve_arkadasi"
+    },
+    {
+      "season": 6,
+      "episode": 72,
+      "title": "The Emily Ghost Institute for Manners and Magical Etiquette",
+      "diziid": "yka",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/78/hayalet_emilynin_terbiye_ve_sihir_adabi_enstitusu"
+    },
+    {
+      "season": 7,
+      "episode": 73,
+      "title": "Jeremiah",
+      "diziid": "yka",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/79/jeremiah"
+    },
+    {
+      "season": 10,
+      "episode": 74,
+      "title": "He's Just Not Here Right Now",
+      "diziid": "yka",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/82/su_an_da_burada_degil"
+    },
+    {
+      "season": 11,
+      "episode": 75,
+      "title": "Hark the Gerald Sings",
+      "diziid": "yka",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/83/geraldin_sarkisi"
+    },
+    {
+      "season": 12,
+      "episode": 76,
+      "title": "Hall of Mooms",
+      "diziid": "yka",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/84/annolar_salonu"
+    },
+    {
+      "season": 13,
+      "episode": 77,
+      "title": "Pepper and the Fog",
+      "diziid": "yka",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/85/pepper_ve_kurbaga"
+    },
+    {
+      "season": 1,
+      "episode": 78,
+      "title": "A Barb is Born",
+      "diziid": "yka",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/86/bir_barbin_dogusu"
+    },
+    {
+      "season": 2,
+      "episode": 79,
+      "title": "Hot Milk & Careless Whispers",
+      "diziid": "yka",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/87/sicak_sut_ve_pervasiz_fisiltilar"
+    },
+    {
+      "season": 3,
+      "episode": 80,
+      "title": "Barb and the Spotted Bears Chapter 3: Nightcap",
+      "diziid": "yka",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/88/gece_isi"
+    },
+    {
+      "season": 5,
+      "episode": 81,
+      "title": "Boo Jeans",
+      "diziid": "yka",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/90/boo_pantolonu"
+    },
+    {
+      "season": 7,
+      "episode": 82,
+      "title": "Susie and her Sister Chapter 1: Heathers",
+      "diziid": "yka",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/92/fundalar"
+    },
+    {
+      "season": 8,
+      "episode": 83,
+      "title": "Susie and her Sister Chapter 2: Hot Corn Girls",
+      "diziid": "yka",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/93/sicak_misir_saticilari"
+    },
+    {
+      "season": 9,
+      "episode": 84,
+      "title": "Mildred's Friends",
+      "diziid": "yka",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/94/mildredin_arkadasi"
+    },
+    {
+      "season": 10,
+      "episode": 85,
+      "title": "Unaccompanied Oscar",
+      "diziid": "yka",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/95/oscar_is_basinda"
+    },
+    {
+      "season": 11,
+      "episode": 86,
+      "title": "Tiny Outburst Society",
+      "diziid": "yka",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/96/kucuk_taskinlar_kulubu"
+    },
+    {
+      "season": 12,
+      "episode": 87,
+      "title": "Witches' Brew",
+      "diziid": "yka",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/97/cadi_demi"
+    },
+    {
+      "season": 13,
+      "episode": 88,
+      "title": "Breakfast Errands",
+      "diziid": "yka",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/98/kahvalti_isleri"
+    },
+    {
+      "season": 14,
+      "episode": 89,
+      "title": "Teacup Giant",
+      "diziid": "yka",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/99/fincan_devi"
+    },
+    {
+      "season": 15,
+      "episode": 90,
+      "title": "Lem is Nothing",
+      "diziid": "yka",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/100/lem_bir_hic"
+    },
+    {
+      "season": 2,
+      "episode": 91,
+      "title": "CHAPTER TWO If I Only Had a Wand",
+      "diziid": "yka",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/102/keske_sihirli_degnegim_olsa"
+    },
+    {
+      "season": 4,
+      "episode": 92,
+      "title": "CHAPTER FOUR Pepper's Funeral",
+      "diziid": "yka",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/104/veda_toreni"
+    },
+    {
+      "season": 6,
+      "episode": 93,
+      "title": "Miracle Rabbit",
+      "diziid": "yka",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/106/mucize_tavsan"
+    },
+    {
+      "season": 7,
+      "episode": 94,
+      "title": "CHAPTER SEVEN The Three Grrs",
+      "diziid": "yka",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/107/uc_sikinti"
+    },
+    {
+      "season": 8,
+      "episode": 95,
+      "title": "Go Get Our Girls",
+      "diziid": "yka",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/108/git_bizim_kizlari_al"
+    },
+    {
+      "season": 9,
+      "episode": 96,
+      "title": "CHAPTER NINE Storybook Susie",
+      "diziid": "yka",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/109/susienin_hikayesi"
+    },
+    {
+      "season": 13,
+      "episode": 97,
+      "title": "Jar Guard",
+      "diziid": "yka",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/113/kavanoz_muhafizi"
+    },
+    {
+      "season": 19,
+      "episode": 98,
+      "title": "Weather Your Weather",
+      "diziid": "yka",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/yka/yaz_kampi_adasi/119/kisiye_gore_hava"
+    }
+  ]
+}

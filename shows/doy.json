@@ -1,0 +1,53 @@
+{
+  "id": "doy",
+  "title": "darwin'in okul yÄ±llÄ±ÄŸÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/DOYPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Banana Joe",
+      "diziid": "doy",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/doy/darwinin_okul_yilligi/1/banana_joe"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Clayton",
+      "diziid": "doy",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/doy/darwinin_okul_yilligi/2/clayton"
+    },
+    {
+      "season": 4,
+      "episode": 3,
+      "title": "Alan",
+      "diziid": "doy",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/doy/darwinin_okul_yilligi/4/alan"
+    },
+    {
+      "season": 5,
+      "episode": 4,
+      "title": "Sarah",
+      "diziid": "doy",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/doy/darwinin_okul_yilligi/5/sarah"
+    },
+    {
+      "season": 6,
+      "episode": 5,
+      "title": "Teachers",
+      "diziid": "doy",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/doy/darwinin_okul_yilligi/6/ogretmenler"
+    }
+  ]
+}

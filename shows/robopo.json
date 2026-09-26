@@ -1,0 +1,844 @@
+{
+  "id": "robopo",
+  "title": "robocar poli",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ROBPOLPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Rescue Team of Brooms Town",
+      "diziid": "robopo",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/1/senkoyun_kurtarma_takimi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "School B's present",
+      "diziid": "robopo",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/2/okullunun_hediyesi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Concrete Fuss",
+      "diziid": "robopo",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/3/beton_telasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "New Friends",
+      "diziid": "robopo",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/4/yeni_arkadaslar"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Regular Checkup day",
+      "diziid": "robopo",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/5/duzenli_kontrol_gunu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Fuss about Ghost",
+      "diziid": "robopo",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/6/hayalet_telasi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Try not to hurry",
+      "diziid": "robopo",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/7/acele_etmemeye_calis"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "I want to be praised.",
+      "diziid": "robopo",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/8/ovgu_almak_istiyorum"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Trust your friends",
+      "diziid": "robopo",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/9/arkadaslarina_guven"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Helly's Birthday",
+      "diziid": "robopo",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/10/helinin_dogum_gunu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Where are you going, Cleany?",
+      "diziid": "robopo",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/11/nereye_gidiyorsun_pirpir"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Micky is angry!",
+      "diziid": "robopo",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/12/miko_sinirli%21"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "I Love You, Grandpa!",
+      "diziid": "robopo",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/13/seni_seviyorum_dedecigim%21"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "It's okay to make a mistake",
+      "diziid": "robopo",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/14/herkes_hata_yapabilir"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Talent Contest",
+      "diziid": "robopo",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/15/yetenek_yarismasi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Keep your promise",
+      "diziid": "robopo",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/16/sozunu_tut"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Please, Cleany!",
+      "diziid": "robopo",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/17/lutfen_pirpir%21"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Let's be clean!",
+      "diziid": "robopo",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/18/haydi_temizlenelim%21"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Friendship Tree",
+      "diziid": "robopo",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/19/dostluk_agaci"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Remember, Max!",
+      "diziid": "robopo",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/20/hatirla_cem%21"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Hide and Seek",
+      "diziid": "robopo",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/21/saklambac"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Marine's Dream",
+      "diziid": "robopo",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/22/beni%E2%80%99nin_ruyasi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Escape from the energy crisis",
+      "diziid": "robopo",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/23/enerji_krizinden_kacis"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Where Are You, Jin?",
+      "diziid": "robopo",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/24/kimin_tarafindasin"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Be healthy",
+      "diziid": "robopo",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/25/saglikli_ol"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Our new friend, Whooper",
+      "diziid": "robopo",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/26/yeni_arkadasimiz_vinlar"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Rody is a liar",
+      "diziid": "robopo",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/27/yalanci_rodi"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Greedy Mr. Wheeler",
+      "diziid": "robopo",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/28/acgozlu_mehmet_amca"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "I like the circus",
+      "diziid": "robopo",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/29/sirki_seviyorum"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Swampy situation",
+      "diziid": "robopo",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/30/bataklik_macerasi"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Mini's present",
+      "diziid": "robopo",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/31/mini%E2%80%99nin_hediyesi"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Leky, Lety, Lefy",
+      "diziid": "robopo",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/32/marcan%2C_sarcan%2C_kircan"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Let's Play Together, Poke!",
+      "diziid": "robopo",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/33/beraber_oynayalim_burun"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Thank you, Cleany",
+      "diziid": "robopo",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/34/tesekkurler_pirpir"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Spooky and swarm of bees",
+      "diziid": "robopo",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/35/hirhir_ve_ari_surusu"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "I like myself",
+      "diziid": "robopo",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/36/kendimi_seviyorum"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Annie's trip",
+      "diziid": "robopo",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/37/adanin_gezisi"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Treasure hunt",
+      "diziid": "robopo",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/38/hazine_avi"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "A friend under the sea",
+      "diziid": "robopo",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/39/su_altinda_yasayan_arkadas"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "Thinking of granddaughter",
+      "diziid": "robopo",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/40/torunumu_dusunuyorum"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "Trash Commotion",
+      "diziid": "robopo",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/41/cop_telasi"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Bruner's New ball",
+      "diziid": "robopo",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/42/buldonun_yeni_topu"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "I want it",
+      "diziid": "robopo",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/43/onu_istiyorum"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "Where Are You, Jin?",
+      "diziid": "robopo",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/44/neredesin_cici"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "The Secret of Poke",
+      "diziid": "robopo",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/45/burunun_sirri"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "School-B Looks Strange",
+      "diziid": "robopo",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/46/tuhaf_okullu"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "Brave Mr. Musty",
+      "diziid": "robopo",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/47/cesur_biyik_amca"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "Please Listen to Me",
+      "diziid": "robopo",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/48/lutfen_beni_dinleyin"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "Cap is neat",
+      "diziid": "robopo",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/49/temiz_takso"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "Mystery mail",
+      "diziid": "robopo",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/50/gizemli_mektuplar"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "Harmony of Broomstown part 1",
+      "diziid": "robopo",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/51/senkoyun_uyumu%3A_kisim_1"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "Harmony of Broomstown part 2",
+      "diziid": "robopo",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/52/senkoyun_uyumu%3A_kisim_2"
+    },
+    {
+      "season": 1,
+      "episode": 53,
+      "title": "Brooms Town's Visitor",
+      "diziid": "robopo",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/53/senkoyun_ziyaretcisi"
+    },
+    {
+      "season": 2,
+      "episode": 54,
+      "title": "Save Helly!",
+      "diziid": "robopo",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/54/heliyi_kurtar"
+    },
+    {
+      "season": 3,
+      "episode": 55,
+      "title": "Don't Worry, School-B",
+      "diziid": "robopo",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/55/endiselenme%2C_okullu"
+    },
+    {
+      "season": 4,
+      "episode": 56,
+      "title": "Bruner's Little cousin",
+      "diziid": "robopo",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/56/buldonun_kucuk_kuzeni"
+    },
+    {
+      "season": 5,
+      "episode": 57,
+      "title": "A Gift for Cleany",
+      "diziid": "robopo",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/57/pirpirin_hediyesi"
+    },
+    {
+      "season": 6,
+      "episode": 58,
+      "title": "Our Secret Club House",
+      "diziid": "robopo",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/58/gizli_kulup_binamiz"
+    },
+    {
+      "season": 7,
+      "episode": 59,
+      "title": "Terry's New Friend",
+      "diziid": "robopo",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/59/terry%E2%80%99nin_yeni_arkadasi"
+    },
+    {
+      "season": 8,
+      "episode": 60,
+      "title": "Helly's Pinwheel",
+      "diziid": "robopo",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/60/heli%E2%80%99nin_ruzgargulu"
+    },
+    {
+      "season": 9,
+      "episode": 61,
+      "title": "Micky's Lonely",
+      "diziid": "robopo",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/61/yalniz_miko"
+    },
+    {
+      "season": 10,
+      "episode": 62,
+      "title": "Drawing Lines",
+      "diziid": "robopo",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/62/cizgi_cekmek"
+    },
+    {
+      "season": 11,
+      "episode": 63,
+      "title": "Let's Draw Pictures",
+      "diziid": "robopo",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/63/haydi_resim_yapalim"
+    },
+    {
+      "season": 12,
+      "episode": 64,
+      "title": "I need a friend",
+      "diziid": "robopo",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/64/arkadasa_ihtiyacim_var"
+    },
+    {
+      "season": 13,
+      "episode": 65,
+      "title": "Please Stop My Hiccups",
+      "diziid": "robopo",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/65/lutfen_hickirigimi_durdur"
+    },
+    {
+      "season": 14,
+      "episode": 66,
+      "title": "Poli's Secret",
+      "diziid": "robopo",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/66/poli%E2%80%99nin_sirri"
+    },
+    {
+      "season": 15,
+      "episode": 67,
+      "title": "The Invitation",
+      "diziid": "robopo",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/67/davetiye"
+    },
+    {
+      "season": 16,
+      "episode": 68,
+      "title": "Spooky Plays Sick",
+      "diziid": "robopo",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/68/hirhir_hasta_numarasi_yapiyor"
+    },
+    {
+      "season": 17,
+      "episode": 69,
+      "title": "Multiple Mix-Up",
+      "diziid": "robopo",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/69/buyuk_karisiklik"
+    },
+    {
+      "season": 18,
+      "episode": 70,
+      "title": "Let's Be Honest",
+      "diziid": "robopo",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/70/haydi_durust_olalim"
+    },
+    {
+      "season": 19,
+      "episode": 71,
+      "title": "Max Gets a Fish",
+      "diziid": "robopo",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/71/cem_balik_aliyor"
+    },
+    {
+      "season": 20,
+      "episode": 72,
+      "title": "Let's Follow the Rules",
+      "diziid": "robopo",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/72/haydi_kurallara_uyalim"
+    },
+    {
+      "season": 21,
+      "episode": 73,
+      "title": "You Can Do It, Mr. Builder",
+      "diziid": "robopo",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/73/siz_yaparsiniz%2C_onaran_bey"
+    },
+    {
+      "season": 22,
+      "episode": 74,
+      "title": "Cleany Gets Angry",
+      "diziid": "robopo",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/74/pirpir_sinirleniyor"
+    },
+    {
+      "season": 23,
+      "episode": 75,
+      "title": "The Hottest day in Brooms Town",
+      "diziid": "robopo",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/75/senkoyun_en_sicak_gunu"
+    },
+    {
+      "season": 24,
+      "episode": 76,
+      "title": "Ms. Belle's Medal",
+      "diziid": "robopo",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/76/ela_hanimin_madalyasi"
+    },
+    {
+      "season": 25,
+      "episode": 77,
+      "title": "Who is Taller?",
+      "diziid": "robopo",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/77/kim_daha_uzun"
+    },
+    {
+      "season": 26,
+      "episode": 78,
+      "title": "Amber's Training",
+      "diziid": "robopo",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/78/amber%E2%80%99in_pratigi"
+    },
+    {
+      "season": 1,
+      "episode": 79,
+      "title": "A Suspicious Friend",
+      "diziid": "robopo",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/79/supheli_bir_arkadas"
+    },
+    {
+      "season": 2,
+      "episode": 80,
+      "title": "It's Good to Tidy Up",
+      "diziid": "robopo",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/80/toplanmak_icin_guzel_bir_gun"
+    },
+    {
+      "season": 3,
+      "episode": 81,
+      "title": "I'm Going to Do Whatever I Want",
+      "diziid": "robopo",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/81/canim_ne_isterse_onu_yaparim"
+    },
+    {
+      "season": 4,
+      "episode": 82,
+      "title": "Helly's Wish",
+      "diziid": "robopo",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/82/helinin_dilegi"
+    },
+    {
+      "season": 5,
+      "episode": 83,
+      "title": "We Look Alike",
+      "diziid": "robopo",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/83/birbirimize_benziyoruz"
+    },
+    {
+      "season": 6,
+      "episode": 84,
+      "title": "Marine's Dream",
+      "diziid": "robopo",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/84/yunusun_hayali"
+    },
+    {
+      "season": 7,
+      "episode": 85,
+      "title": "The Unpoppable Bubble",
+      "diziid": "robopo",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/85/patlamayan_balon"
+    },
+    {
+      "season": 8,
+      "episode": 86,
+      "title": "A Spring Cleaning Disaster",
+      "diziid": "robopo",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/86/bahar_temizligi_felaketi"
+    },
+    {
+      "season": 9,
+      "episode": 87,
+      "title": "Where's Bruny?",
+      "diziid": "robopo",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/87/benan_nerede"
+    },
+    {
+      "season": 10,
+      "episode": 88,
+      "title": "The Fortune Cookie",
+      "diziid": "robopo",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/88/fal_kurabiyesi"
+    },
+    {
+      "season": 11,
+      "episode": 89,
+      "title": "Tracky's Special Invitation",
+      "diziid": "robopo",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/89/trackynin_ozel_daveti"
+    },
+    {
+      "season": 12,
+      "episode": 90,
+      "title": "I Want to Go to Sea",
+      "diziid": "robopo",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/90/denize_gitmek_istiyorum"
+    },
+    {
+      "season": 13,
+      "episode": 91,
+      "title": "Move out! Battle in the Woods Part 1",
+      "diziid": "robopo",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/91/ormanda_savas_var%3A_kisim_1"
+    },
+    {
+      "season": 14,
+      "episode": 92,
+      "title": "Move out! Battle in the Woods Part 2",
+      "diziid": "robopo",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/92/ormanda_savas_var%3A_kisim_2"
+    },
+    {
+      "season": 15,
+      "episode": 93,
+      "title": "Please Accept My Apology",
+      "diziid": "robopo",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/93/lutfen_ozrumu_kabul_et"
+    },
+    {
+      "season": 16,
+      "episode": 94,
+      "title": "Bruner's Birthday Secret",
+      "diziid": "robopo",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/94/buldonun_dogum_gunu_hediyesi"
+    },
+    {
+      "season": 17,
+      "episode": 95,
+      "title": "Miracle at Tracky's Farm",
+      "diziid": "robopo",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/95/trackynin_ciftligindeki_mucize"
+    },
+    {
+      "season": 18,
+      "episode": 96,
+      "title": "Boom! Crash! Danger!",
+      "diziid": "robopo",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/96/patlama%21_carpma%21_tehlike%21"
+    },
+    {
+      "season": 19,
+      "episode": 97,
+      "title": "Camp's Secret Plan",
+      "diziid": "robopo",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/97/kampcinin_gizli_plani"
+    },
+    {
+      "season": 20,
+      "episode": 98,
+      "title": "Fishing Commotion",
+      "diziid": "robopo",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/98/balik_tutma_telasi"
+    },
+    {
+      "season": 21,
+      "episode": 99,
+      "title": "Thank you, Roy",
+      "diziid": "robopo",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/99/tesekkur_ederiz%2C_roy"
+    },
+    {
+      "season": 22,
+      "episode": 100,
+      "title": "Disappearance of Spook",
+      "diziid": "robopo",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/100/hirhir_ortada_yok"
+    },
+    {
+      "season": 23,
+      "episode": 101,
+      "title": "Helping Each Other When Things are Difficult",
+      "diziid": "robopo",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/101/zor_zamanlarda_birbirimize_yardim_etmeliyiz"
+    },
+    {
+      "season": 24,
+      "episode": 102,
+      "title": "Tracky's Present",
+      "diziid": "robopo",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/102/trackynin_hediyesi"
+    },
+    {
+      "season": 25,
+      "episode": 103,
+      "title": "The Brooms Town Railroad Station",
+      "diziid": "robopo",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/103/senkoy_tren_istasyonu"
+    },
+    {
+      "season": 26,
+      "episode": 104,
+      "title": "Our Fabulous New Friend",
+      "diziid": "robopo",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/robopo/robocar_poli/104/muhtesem_yeni_arkadasimiz"
+    }
+  ]
+}

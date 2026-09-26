@@ -1,0 +1,12 @@
+{
+  "id": "samsam",
+  "title": "samsam",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/SAMSAMFilmPoster.avif",
+  "channel": "Sinema Aile",
+  "genres": [
+    "Macera",
+    "Bilim Kurgu"
+  ],
+  "episodes": []
+}

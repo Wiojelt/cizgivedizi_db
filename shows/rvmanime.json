@@ -1,0 +1,93 @@
+{
+  "id": "rvmanime",
+  "title": "rick ve morty: anime",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/RVMANIMEPoster.avif",
+  "channel": "[HBO] Max",
+  "genres": [
+    "Komedi",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Girl Who Manipulates Time",
+      "diziid": "rvmanime",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/rvmanime/rick_ve_morty%3A_anime/1/zamani_manipule_eden_kiz"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Fighting Mother",
+      "diziid": "rvmanime",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/rvmanime/rick_ve_morty%3A_anime/2/savasci_anne"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Alien Elle",
+      "diziid": "rvmanime",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/rvmanime/rick_ve_morty%3A_anime/3/uzayli_elle"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Memories",
+      "diziid": "rvmanime",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/rvmanime/rick_ve_morty%3A_anime/4/anilar"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Family",
+      "diziid": "rvmanime",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/rvmanime/rick_ve_morty%3A_anime/5/aile"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Free Will",
+      "diziid": "rvmanime",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/rvmanime/rick_ve_morty%3A_anime/6/ozgur_irade"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "When We Meet in Our Dreams",
+      "diziid": "rvmanime",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/rvmanime/rick_ve_morty%3A_anime/7/ruyalarimizda_bulustugumuzda"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Feel, Don't Think",
+      "diziid": "rvmanime",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/rvmanime/rick_ve_morty%3A_anime/8/dusunme%2C_hisset"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Her Innermost Wish",
+      "diziid": "rvmanime",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/rvmanime/rick_ve_morty%3A_anime/9/onun_en_icten_dilegi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "A Pain in the Back",
+      "diziid": "rvmanime",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/rvmanime/rick_ve_morty%3A_anime/10/sirt_agrisi"
+    }
+  ]
+}

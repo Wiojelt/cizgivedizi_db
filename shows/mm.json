@@ -1,0 +1,628 @@
+{
+  "id": "mm",
+  "title": "muhteÅŸem mike",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MMPoster.avif",
+  "channel": "Boomerang",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Wacky Tacos",
+      "diziid": "mm",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/1/cilgin_tacolar"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Cone of Shame",
+      "diziid": "mm",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/2/utanc_verici_yakalik"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Skate Pool",
+      "diziid": "mm",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/3/kaykay_havuzu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Go fetch",
+      "diziid": "mm",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/4/hadi_yakala"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Robot-Attack",
+      "diziid": "mm",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/5/robot_saldirisi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Private Eye Mike",
+      "diziid": "mm",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/6/ozel_dedektif_mike"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Chickie's Return",
+      "diziid": "mm",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/7/tavukun_donusu"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Feline a Little Racoon",
+      "diziid": "mm",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/8/kucuk_rakun_kedicigi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Electric Turtles",
+      "diziid": "mm",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/9/elektrikli_kaplumbagalar"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Rescuing Roxanne",
+      "diziid": "mm",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/10/roxannei_kurtarmak"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "A Sick Trick",
+      "diziid": "mm",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/11/hasta_numarasi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Aye Aye Aye Phone",
+      "diziid": "mm",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/12/aye_aye_aye_telefon"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Agent 000",
+      "diziid": "mm",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/13/ajan_000"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "What a Circus",
+      "diziid": "mm",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/14/ne_sirk_ama%21"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Double Dog",
+      "diziid": "mm",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/15/dublor_kopek"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Ice Rink",
+      "diziid": "mm",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/16/buz_pisti"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Amnesia",
+      "diziid": "mm",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/17/hafiza_kaybi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Mike Unchained",
+      "diziid": "mm",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/18/zincirleri_kiran_mike"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Petal to the Metal",
+      "diziid": "mm",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/19/yapragi_ufle"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Abraca-Disaster!",
+      "diziid": "mm",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/20/abraca-felaket%21"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Itchy Frenzy",
+      "diziid": "mm",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/21/kudurtan_kasinti"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Handcuffed",
+      "diziid": "mm",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/22/kelepcelenmis"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Sleepy Head",
+      "diziid": "mm",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/23/uykucu"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Diamond Dogs",
+      "diziid": "mm",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/24/pirlanta_kopekler"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Boing Boing",
+      "diziid": "mm",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/25/zip_zip"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The Invitation",
+      "diziid": "mm",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/26/davet"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Fluffystein",
+      "diziid": "mm",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/27/pofudukstein"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Muscle Mike",
+      "diziid": "mm",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/28/kasli_mike"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Photobombed!",
+      "diziid": "mm",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/29/komik_fotograf%21"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "The Garden Games",
+      "diziid": "mm",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/30/bahce_oyunlari"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Vampire Attack",
+      "diziid": "mm",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/31/vampir_saldirisi"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "In the box",
+      "diziid": "mm",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/32/kutunun_icinde"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "That Magnificient Mike!",
+      "diziid": "mm",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/33/su_muhtesem_mike%21"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Mikeyzushi",
+      "diziid": "mm",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/34/mikeyzushi"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Sneezed To Meet You!",
+      "diziid": "mm",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/35/tanistigimiza_hapsirik_oldum%21"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Crooner Mike",
+      "diziid": "mm",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/36/romantik_sarkici_mike"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Duchesse",
+      "diziid": "mm",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/37/duses"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Fun Fur",
+      "diziid": "mm",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/38/lunakurk"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Robotix 3000",
+      "diziid": "mm",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/39/robotix_3000"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Rancid Racoons",
+      "diziid": "mm",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/40/kokusmus_rakunlar"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "The Show Must Go On!",
+      "diziid": "mm",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/41/gosteri_devam_etmeli%21"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Main E-Vent",
+      "diziid": "mm",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/42/elektronik_havalandirma"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Mike the Eggspert",
+      "diziid": "mm",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/43/uzman_mike"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Wahwahland",
+      "diziid": "mm",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/44/vay_canina_diyari"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "It's Been a Slice",
+      "diziid": "mm",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/45/sadece_bir_dilim"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Baritoon",
+      "diziid": "mm",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/46/bariton"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Paws for Thought",
+      "diziid": "mm",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/47/yetenekli_patiler"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Martial Arts Mike",
+      "diziid": "mm",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/48/savas_sanatlari_ustasi_mike"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Ditzy Home",
+      "diziid": "mm",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/49/sapsal_ev"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Well Trained",
+      "diziid": "mm",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/50/iyi_egitilmis"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "The Guard Dog",
+      "diziid": "mm",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/51/bekci_kopegi"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Who's the Boss?",
+      "diziid": "mm",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/52/patron_kimmis"
+    },
+    {
+      "season": 53,
+      "episode": 53,
+      "title": "Dog-Gone",
+      "diziid": "mm",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/53/kopek_gitti"
+    },
+    {
+      "season": 54,
+      "episode": 54,
+      "title": "The Fourth Turtle",
+      "diziid": "mm",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/54/dorduncu_kaplumbaga"
+    },
+    {
+      "season": 55,
+      "episode": 55,
+      "title": "Trojan Raccoons",
+      "diziid": "mm",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/55/trojan_rakunlari"
+    },
+    {
+      "season": 56,
+      "episode": 56,
+      "title": "Mike's Paws",
+      "diziid": "mm",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/56/mikein_patileri"
+    },
+    {
+      "season": 57,
+      "episode": 57,
+      "title": "Sauna",
+      "diziid": "mm",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/57/sauna"
+    },
+    {
+      "season": 58,
+      "episode": 58,
+      "title": "The Wrong Mike",
+      "diziid": "mm",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/58/yanlis_mike"
+    },
+    {
+      "season": 59,
+      "episode": 59,
+      "title": "The Rival",
+      "diziid": "mm",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/59/rekabet"
+    },
+    {
+      "season": 60,
+      "episode": 60,
+      "title": "The Prank",
+      "diziid": "mm",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/60/saka"
+    },
+    {
+      "season": 61,
+      "episode": 61,
+      "title": "White Cat",
+      "diziid": "mm",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/61/beyaz_kedi"
+    },
+    {
+      "season": 62,
+      "episode": 62,
+      "title": "The Party",
+      "diziid": "mm",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/62/parti"
+    },
+    {
+      "season": 63,
+      "episode": 63,
+      "title": "Best in Show",
+      "diziid": "mm",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/63/gosterinin_en_iyisi"
+    },
+    {
+      "season": 64,
+      "episode": 64,
+      "title": "Stuck on You",
+      "diziid": "mm",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/64/bagli_kalmak"
+    },
+    {
+      "season": 65,
+      "episode": 65,
+      "title": "Hoverboard",
+      "diziid": "mm",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/65/ucan_kaykay"
+    },
+    {
+      "season": 66,
+      "episode": 66,
+      "title": "Duchess in Charge",
+      "diziid": "mm",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/66/duses_is_basinda"
+    },
+    {
+      "season": 67,
+      "episode": 67,
+      "title": "Gone to Pot",
+      "diziid": "mm",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/67/harap_olmak"
+    },
+    {
+      "season": 68,
+      "episode": 68,
+      "title": "Animal Magnetism",
+      "diziid": "mm",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/68/hayvansal_manyetizma"
+    },
+    {
+      "season": 69,
+      "episode": 69,
+      "title": "Hypnosis",
+      "diziid": "mm",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/69/hipnoz"
+    },
+    {
+      "season": 70,
+      "episode": 70,
+      "title": "Mike Impounded",
+      "diziid": "mm",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/70/tutsak_mike"
+    },
+    {
+      "season": 71,
+      "episode": 71,
+      "title": "Lights, Camera... Inaction!",
+      "diziid": "mm",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/71/isik%2C_kamera..._kimildama%21"
+    },
+    {
+      "season": 72,
+      "episode": 72,
+      "title": "Freddy's Blues",
+      "diziid": "mm",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/72/freddynin_huznu"
+    },
+    {
+      "season": 73,
+      "episode": 73,
+      "title": "Dognapped",
+      "diziid": "mm",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/73/kacirilan_kopek"
+    },
+    {
+      "season": 74,
+      "episode": 74,
+      "title": "Fluffy the Fugitive",
+      "diziid": "mm",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/74/kacan_fluffy"
+    },
+    {
+      "season": 75,
+      "episode": 75,
+      "title": "And Then There Were None",
+      "diziid": "mm",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/75/sonunda_hicbiri_kalmadi"
+    },
+    {
+      "season": 77,
+      "episode": 76,
+      "title": "In the Doghouse",
+      "diziid": "mm",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/77/kopek_evi"
+    },
+    {
+      "season": 78,
+      "episode": 77,
+      "title": "Slippery When Wet",
+      "diziid": "mm",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/mm/muhtesem_mike/78/islak_kaygan_zemin"
+    }
+  ]
+}

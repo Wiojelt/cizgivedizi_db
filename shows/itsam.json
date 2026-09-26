@@ -1,0 +1,572 @@
+{
+  "id": "itsam",
+  "title": "itfaiyeci sam",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ITSAMPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Blow Me Down",
+      "diziid": "itsam",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/87/catidaki_ucurtma"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Pontypandy Extreme",
+      "diziid": "itsam",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/88/pontypandydeki_uc_olaylar"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Elvis Sings the Blues",
+      "diziid": "itsam",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/89/elvis_harekete_hazir"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Fireworks for Mandy",
+      "diziid": "itsam",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/90/mandynin_fisegi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Heap of Trouble",
+      "diziid": "itsam",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/91/bitki_sergisi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Stuck in the Muck",
+      "diziid": "itsam",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/92/camurlu_okul_gezisi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Sausages Versus Shrimps",
+      "diziid": "itsam",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/93/sosis_karidese_karsi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Flood's Flood",
+      "diziid": "itsam",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/94/su_sizintisi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Stranded",
+      "diziid": "itsam",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/95/karaya_vuran_balina"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Off Duty Sam",
+      "diziid": "itsam",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/96/sam_izinde"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Sheepdog Trials",
+      "diziid": "itsam",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/97/coban_kopegi"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "Poorly Penny",
+      "diziid": "itsam",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/99/penny_hasta"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "Pirates of Pontypandy",
+      "diziid": "itsam",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/100/pontypandy_korsanlari"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "The Pontypandy Pioneers",
+      "diziid": "itsam",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/101/pontypandy_izcileri"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Twitching the Night Away",
+      "diziid": "itsam",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/102/kirmizi_basli_cali_bulbulu"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "Double Trouble",
+      "diziid": "itsam",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/103/cifte_sorun"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "Sailor Steele",
+      "diziid": "itsam",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/104/kaptan_steele"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "Fireman James",
+      "diziid": "itsam",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/105/itfaiyeci_james"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "Dilys' Big Surprise",
+      "diziid": "itsam",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/106/dilysin_buyuk_surprizi"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "Day at the Seaside",
+      "diziid": "itsam",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/107/sahilde_bir_gun"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "Model Plane",
+      "diziid": "itsam",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/108/model_ucak"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "Three Legged Race",
+      "diziid": "itsam",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/109/uc_ayakli_yaris"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "Norman's Ark",
+      "diziid": "itsam",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/110/sular_yukseliyor"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "Open Day",
+      "diziid": "itsam",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/111/ziyaret_gunu"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "Mike's Rocket",
+      "diziid": "itsam",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/112/mikein_roketi"
+    },
+    {
+      "season": 1,
+      "episode": 26,
+      "title": "Bronwyn's Millionth Customer",
+      "diziid": "itsam",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/113/bronwynin_bir_milyonuncu_musterisi"
+    },
+    {
+      "season": 2,
+      "episode": 27,
+      "title": "Runaway Train",
+      "diziid": "itsam",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/114/kacak_tren"
+    },
+    {
+      "season": 3,
+      "episode": 28,
+      "title": "Mandy's Mountain",
+      "diziid": "itsam",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/115/mandynin_dagi"
+    },
+    {
+      "season": 4,
+      "episode": 29,
+      "title": "Water Tower Inferno",
+      "diziid": "itsam",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/116/su_kulesinde_yangin"
+    },
+    {
+      "season": 5,
+      "episode": 30,
+      "title": "Jupiter on the Loose",
+      "diziid": "itsam",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/117/jupiter_firarda"
+    },
+    {
+      "season": 6,
+      "episode": 31,
+      "title": "The Big Chill",
+      "diziid": "itsam",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/118/cok_soguk"
+    },
+    {
+      "season": 7,
+      "episode": 32,
+      "title": "Boyce Will Be Boyce",
+      "diziid": "itsam",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/119/boyce_hic_degismez"
+    },
+    {
+      "season": 8,
+      "episode": 33,
+      "title": "Elvis in Concert",
+      "diziid": "itsam",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/120/elvis_konserde"
+    },
+    {
+      "season": 9,
+      "episode": 34,
+      "title": "Mandy at Sea",
+      "diziid": "itsam",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/121/mandy_denizde"
+    },
+    {
+      "season": 11,
+      "episode": 35,
+      "title": "The Pontypandyness Monster",
+      "diziid": "itsam",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/123/pontypandy_canavari"
+    },
+    {
+      "season": 12,
+      "episode": 36,
+      "title": "Disastrous Dilys",
+      "diziid": "itsam",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/124/kotu_bir_gun"
+    },
+    {
+      "season": 13,
+      "episode": 37,
+      "title": "Charlie's Big Catch",
+      "diziid": "itsam",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/125/charlienin_buyuk_avi"
+    },
+    {
+      "season": 14,
+      "episode": 38,
+      "title": "Bessie to the Rescue",
+      "diziid": "itsam",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/126/bessie_kurtarmaya_gidiyor"
+    },
+    {
+      "season": 15,
+      "episode": 39,
+      "title": "King of the Mountain",
+      "diziid": "itsam",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/127/daglarin_krali"
+    },
+    {
+      "season": 16,
+      "episode": 40,
+      "title": "Lighthouse Lock Out",
+      "diziid": "itsam",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/128/deniz_fenerinde_kilitli_kalmak"
+    },
+    {
+      "season": 17,
+      "episode": 41,
+      "title": "Girls' Night In",
+      "diziid": "itsam",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/129/eglence_gecesi"
+    },
+    {
+      "season": 18,
+      "episode": 42,
+      "title": "To Outfox a Fox",
+      "diziid": "itsam",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/130/tilkiyi_alt_etmek"
+    },
+    {
+      "season": 19,
+      "episode": 43,
+      "title": "Lily Lost and Found",
+      "diziid": "itsam",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/131/kayip_lily"
+    },
+    {
+      "season": 21,
+      "episode": 44,
+      "title": "The Pontypandy Polar Bear",
+      "diziid": "itsam",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/133/pontypandy_kutup_ayisi"
+    },
+    {
+      "season": 22,
+      "episode": 45,
+      "title": "Ice Cold in Pontypandy",
+      "diziid": "itsam",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/134/pontypandy_buz_gibi"
+    },
+    {
+      "season": 23,
+      "episode": 46,
+      "title": "Snowball of Doom",
+      "diziid": "itsam",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/135/dev_kartopu"
+    },
+    {
+      "season": 26,
+      "episode": 47,
+      "title": "Wheel of Fire",
+      "diziid": "itsam",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/138/yangin_carki"
+    },
+    {
+      "season": 1,
+      "episode": 48,
+      "title": "All at Sea",
+      "diziid": "itsam",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/139/denizde"
+    },
+    {
+      "season": 2,
+      "episode": 49,
+      "title": "Battle of the Birthdays",
+      "diziid": "itsam",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/140/dogum_gunu_tartismasi"
+    },
+    {
+      "season": 3,
+      "episode": 50,
+      "title": "Wild Cheese Chase",
+      "diziid": "itsam",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/141/peynir_avi"
+    },
+    {
+      "season": 5,
+      "episode": 51,
+      "title": "Escape from Pontypandy Island",
+      "diziid": "itsam",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/143/pontypandy_adasindan_kacis"
+    },
+    {
+      "season": 7,
+      "episode": 52,
+      "title": "The Best Sleepover Ever",
+      "diziid": "itsam",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/145/en_iyi_pijama_partisi"
+    },
+    {
+      "season": 8,
+      "episode": 53,
+      "title": "Whale Watch",
+      "diziid": "itsam",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/146/balina_gozlemi"
+    },
+    {
+      "season": 9,
+      "episode": 54,
+      "title": "Up, Up and Away",
+      "diziid": "itsam",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/147/uc%2C_uc%2C_uc"
+    },
+    {
+      "season": 10,
+      "episode": 55,
+      "title": "The Pontypandy Cup",
+      "diziid": "itsam",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/148/pontypandy_kupasi"
+    },
+    {
+      "season": 11,
+      "episode": 56,
+      "title": "Treehouse Trouble",
+      "diziid": "itsam",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/149/agac_evinde_sorun"
+    },
+    {
+      "season": 12,
+      "episode": 57,
+      "title": "Record Breakers",
+      "diziid": "itsam",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/150/rekortmenler"
+    },
+    {
+      "season": 13,
+      "episode": 58,
+      "title": "Pontypandy Heatwave",
+      "diziid": "itsam",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/151/pontypandy_ve_sicak_dalgasi"
+    },
+    {
+      "season": 14,
+      "episode": 59,
+      "title": "Norman's Big Fossil Adventure",
+      "diziid": "itsam",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/152/normanin_buyuk_fosil_macerasi"
+    },
+    {
+      "season": 15,
+      "episode": 60,
+      "title": "Turtle Hunt",
+      "diziid": "itsam",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/153/kaplumbaga_avi"
+    },
+    {
+      "season": 16,
+      "episode": 61,
+      "title": "Rocky Rescue",
+      "diziid": "itsam",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/154/kayaliktan_kurtarma"
+    },
+    {
+      "season": 17,
+      "episode": 62,
+      "title": "The Treasure Trap",
+      "diziid": "itsam",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/155/hazine_tuzagi"
+    },
+    {
+      "season": 18,
+      "episode": 63,
+      "title": "Stage Fright",
+      "diziid": "itsam",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/156/sahne_korkusu"
+    },
+    {
+      "season": 19,
+      "episode": 64,
+      "title": "Pest in Show",
+      "diziid": "itsam",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/157/hayvanlar_yarisiyor"
+    },
+    {
+      "season": 20,
+      "episode": 65,
+      "title": "Hide and Seek",
+      "diziid": "itsam",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/158/saklambac"
+    },
+    {
+      "season": 21,
+      "episode": 66,
+      "title": "One Way Street",
+      "diziid": "itsam",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/159/tek_yon"
+    },
+    {
+      "season": 22,
+      "episode": 67,
+      "title": "Garden Force",
+      "diziid": "itsam",
+      "bolum": "160",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/160/bahce_birligi"
+    },
+    {
+      "season": 23,
+      "episode": 68,
+      "title": "On Thin Ice",
+      "diziid": "itsam",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/161/ince_buz_ustunde"
+    },
+    {
+      "season": 24,
+      "episode": 69,
+      "title": "Lights, Camera, Avalanche!",
+      "diziid": "itsam",
+      "bolum": "162",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/162/isiklar%2C_motor%2C_cig"
+    },
+    {
+      "season": 1,
+      "episode": 70,
+      "title": "The Return of Norman-Man",
+      "diziid": "itsam",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/itsam/itfaiyeci_sam/163/super_normanin_donusu"
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "id": "tk",
+  "title": "tembel kasaba",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/TKPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Welcome to LazyTown",
+      "diziid": "tk",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/1/tembel_kasabaya_hos_geldiniz"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Defeeted",
+      "diziid": "tk",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/2/cilgin_ayaklar"
+    },
+    {
+      "season": 4,
+      "episode": 3,
+      "title": "Crystal Caper",
+      "diziid": "tk",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/4/kayip_kristal"
+    },
+    {
+      "season": 6,
+      "episode": 4,
+      "title": "Swiped Sweets",
+      "diziid": "tk",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/6/calinan_sekerler"
+    },
+    {
+      "season": 8,
+      "episode": 5,
+      "title": "Sportafake",
+      "diziid": "tk",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/8/sportasahte"
+    },
+    {
+      "season": 9,
+      "episode": 6,
+      "title": "Happy Brush Day",
+      "diziid": "tk",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/9/mutlu_firca_gunu"
+    },
+    {
+      "season": 10,
+      "episode": 7,
+      "title": "Lazy Scouts",
+      "diziid": "tk",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/10/tembel_izciler"
+    },
+    {
+      "season": 13,
+      "episode": 8,
+      "title": "Cry Dinosaur",
+      "diziid": "tk",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/13/bagiran_dinozor"
+    },
+    {
+      "season": 15,
+      "episode": 9,
+      "title": "The Laziest Town",
+      "diziid": "tk",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/15/en_tembel_kasaba"
+    },
+    {
+      "season": 16,
+      "episode": 10,
+      "title": "Dear Diary",
+      "diziid": "tk",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/16/sevgili_gunluk"
+    },
+    {
+      "season": 17,
+      "episode": 11,
+      "title": "Zap It!",
+      "diziid": "tk",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/17/sil_sunu%21"
+    },
+    {
+      "season": 18,
+      "episode": 12,
+      "title": "Record's Day",
+      "diziid": "tk",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/18/rekor_gunu"
+    },
+    {
+      "season": 19,
+      "episode": 13,
+      "title": "Prince Stingy",
+      "diziid": "tk",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/19/prens_cimrici"
+    },
+    {
+      "season": 21,
+      "episode": 14,
+      "title": "Play Day",
+      "diziid": "tk",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/21/oyun_gunu"
+    },
+    {
+      "season": 23,
+      "episode": 15,
+      "title": "Sportacus Who?",
+      "diziid": "tk",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/23/sportacus_kim"
+    },
+    {
+      "season": 29,
+      "episode": 16,
+      "title": "LazyTown's Surprise Santa",
+      "diziid": "tk",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/29/noel_baba_tembel_kasabada"
+    },
+    {
+      "season": 33,
+      "episode": 17,
+      "title": "Ziggy's Alien",
+      "diziid": "tk",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/33/ziggynin_uzaylisi"
+    },
+    {
+      "season": 34,
+      "episode": 18,
+      "title": "Sportacus on the Move",
+      "diziid": "tk",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/34/sportacus_hic_durmaz%21"
+    },
+    {
+      "season": 1,
+      "episode": 19,
+      "title": "Rockin' Robbie",
+      "diziid": "tk",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/35/rockci_robbie"
+    },
+    {
+      "season": 2,
+      "episode": 20,
+      "title": "Little Sportacus",
+      "diziid": "tk",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/36/kucuk_sportacus"
+    },
+    {
+      "season": 3,
+      "episode": 21,
+      "title": "Trash Trouble",
+      "diziid": "tk",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/37/cop_sorunu"
+    },
+    {
+      "season": 4,
+      "episode": 22,
+      "title": "Double Trouble",
+      "diziid": "tk",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/38/cifte_bela"
+    },
+    {
+      "season": 5,
+      "episode": 23,
+      "title": "Haunted Castle",
+      "diziid": "tk",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/39/lanetli_sato"
+    },
+    {
+      "season": 6,
+      "episode": 24,
+      "title": "The LazyTown Snow Monster",
+      "diziid": "tk",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/40/kar_canavari"
+    },
+    {
+      "season": 7,
+      "episode": 25,
+      "title": "The LazyTown Circus",
+      "diziid": "tk",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/41/tembel_kasaba_sirki"
+    },
+    {
+      "season": 8,
+      "episode": 26,
+      "title": "School Scam",
+      "diziid": "tk",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/42/okulda_sahtekarlik"
+    },
+    {
+      "season": 9,
+      "episode": 27,
+      "title": "Pixel TV",
+      "diziid": "tk",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/43/pixel_tv"
+    },
+    {
+      "season": 10,
+      "episode": 28,
+      "title": "Friends Forever",
+      "diziid": "tk",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/44/sonsuza_dek_dostuz"
+    },
+    {
+      "season": 11,
+      "episode": 29,
+      "title": "Energy Book",
+      "diziid": "tk",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/45/enerji_defteri"
+    },
+    {
+      "season": 12,
+      "episode": 30,
+      "title": "Birthday Surprise",
+      "diziid": "tk",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/46/dogum_gunu_surprizi%21"
+    },
+    {
+      "season": 13,
+      "episode": 31,
+      "title": "LazyTown Goes Digital",
+      "diziid": "tk",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/47/tembel_kasaba_dijitallesiyor"
+    },
+    {
+      "season": 14,
+      "episode": 32,
+      "title": "The Lazy Genie",
+      "diziid": "tk",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/48/tembel_cin"
+    },
+    {
+      "season": 15,
+      "episode": 33,
+      "title": "Once Upon a Time",
+      "diziid": "tk",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/49/evvel_zaman_icinde"
+    },
+    {
+      "season": 16,
+      "episode": 34,
+      "title": "The Lazy Rockets",
+      "diziid": "tk",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/50/tembel_fuzeler"
+    },
+    {
+      "season": 17,
+      "episode": 35,
+      "title": "Dancing Dreams",
+      "diziid": "tk",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/51/dans_hayalleri"
+    },
+    {
+      "season": 18,
+      "episode": 36,
+      "title": "Sportacus Saves the Toys",
+      "diziid": "tk",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/52/sportacus_oyuncaklari_kurtariyor"
+    },
+    {
+      "season": 1,
+      "episode": 37,
+      "title": "Roboticus",
+      "diziid": "tk",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/53/roboticus"
+    },
+    {
+      "season": 2,
+      "episode": 38,
+      "title": "The Greatest Gift",
+      "diziid": "tk",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/54/en_buyuk_hediye"
+    },
+    {
+      "season": 3,
+      "episode": 39,
+      "title": "Little Pink Riding Hood",
+      "diziid": "tk",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/55/pembe_baslikli_kiz"
+    },
+    {
+      "season": 4,
+      "episode": 40,
+      "title": "The Scavenger Hunt",
+      "diziid": "tk",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/tk/tembel_kasaba/56/liste_avi"
+    }
+  ]
+}

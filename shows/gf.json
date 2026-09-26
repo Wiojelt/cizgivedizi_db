@@ -1,0 +1,333 @@
+{
+  "id": "gf",
+  "title": "glitter force",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/GFPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik",
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "An Exciting Beginning",
+      "diziid": "gf",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/1/heyecanli_bir_baslangic"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Kelsey Gets a Makeover",
+      "diziid": "gf",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/2/kelseynin_donusumu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "We Want Peace! Glitter Peace!",
+      "diziid": "gf",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/3/lily_ekibe_katiliyor"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Here Comes Glitter Spring!",
+      "diziid": "gf",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/4/ruzgarin_kizi_april"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Glitter Breeze vs. The Witch",
+      "diziid": "gf",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/5/chloe_gucunu_kesfediyor"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Library of Legends",
+      "diziid": "gf",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/6/ekip_tamam"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Perfect Hideout",
+      "diziid": "gf",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/7/gizli_yerimiz"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Glitter Switchers!",
+      "diziid": "gf",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/8/emily_ve_candy_yer_degistirirse"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "April Fools!",
+      "diziid": "gf",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/9/nisan_1%21"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Shrink-a-Rooed!",
+      "diziid": "gf",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/10/kizlar_kuculdu%21"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Feeling Blue",
+      "diziid": "gf",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/11/yeni_bir_guc"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Emily's Unlucky Day",
+      "diziid": "gf",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/12/emilynin_sanssiz_gunu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Lost Girls",
+      "diziid": "gf",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/13/kayip_kizlar"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Mother's Day Crunch",
+      "diziid": "gf",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/14/emilynin_anneler_gunu_plani"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Chloe Quits",
+      "diziid": "gf",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/15/chloenin_endiseleri"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Great Relay Race",
+      "diziid": "gf",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/16/buyuk_yaris"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "See-U-No-More",
+      "diziid": "gf",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/17/gorunmez_kizlar"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Wish Upon a Star",
+      "diziid": "gf",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/18/bir_dilek_tut"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Ultimate Choice",
+      "diziid": "gf",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/19/zor_karar"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Into the Shadow Realm!",
+      "diziid": "gf",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/20/kizlar_tehlikede"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "The Story Continues",
+      "diziid": "gf",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/21/hikaye_devam_ediyor"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "Battle on the Beach",
+      "diziid": "gf",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/22/sahildeki_savas"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "The Ghost Hunters",
+      "diziid": "gf",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/23/hayalet_avcilari"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "A Dicey Game",
+      "diziid": "gf",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/24/riskli_oyun"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "Around the World in Eighty Books",
+      "diziid": "gf",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/25/seksen_kitapta_devr-i_alem"
+    },
+    {
+      "season": 6,
+      "episode": 26,
+      "title": "The Royal Clock",
+      "diziid": "gf",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/26/kraliyet_saati"
+    },
+    {
+      "season": 7,
+      "episode": 27,
+      "title": "A Perfect Nightmare",
+      "diziid": "gf",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/27/mukemmel_kabus"
+    },
+    {
+      "season": 8,
+      "episode": 28,
+      "title": "Super-Lucky-Bott",
+      "diziid": "gf",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/28/super_sansli_bott"
+    },
+    {
+      "season": 9,
+      "episode": 29,
+      "title": "Candidate Chloe",
+      "diziid": "gf",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/29/aday_chloe"
+    },
+    {
+      "season": 10,
+      "episode": 30,
+      "title": "The Glitter Kids",
+      "diziid": "gf",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/30/glitter_cocuklari"
+    },
+    {
+      "season": 11,
+      "episode": 31,
+      "title": "A Fairytale Ending!",
+      "diziid": "gf",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/31/masal_gibi_son%21"
+    },
+    {
+      "season": 12,
+      "episode": 32,
+      "title": "The Greatest Treasure",
+      "diziid": "gf",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/32/en_harika_hazine"
+    },
+    {
+      "season": 13,
+      "episode": 33,
+      "title": "Goldenlight!",
+      "diziid": "gf",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/33/goldenlight"
+    },
+    {
+      "season": 14,
+      "episode": 34,
+      "title": "April's Babysitting Blues",
+      "diziid": "gf",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/34/aprilin_bakicilik_bunalimlar"
+    },
+    {
+      "season": 15,
+      "episode": 35,
+      "title": "Abroad Decision",
+      "diziid": "gf",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/35/karar"
+    },
+    {
+      "season": 16,
+      "episode": 36,
+      "title": "The Gift of Friendship",
+      "diziid": "gf",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/36/arkadasligin_hediyesi"
+    },
+    {
+      "season": 17,
+      "episode": 37,
+      "title": "The Miracle Jewel",
+      "diziid": "gf",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/37/mucize_mucevher"
+    },
+    {
+      "season": 18,
+      "episode": 38,
+      "title": "The Shadow Force",
+      "diziid": "gf",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/38/golge_gucu"
+    },
+    {
+      "season": 19,
+      "episode": 39,
+      "title": "The Queen of Jubiland",
+      "diziid": "gf",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/39/jubiland_kralicesi"
+    },
+    {
+      "season": 20,
+      "episode": 40,
+      "title": "Friends Forever",
+      "diziid": "gf",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/gf/glitter_force/40/sonsuza_kadar_arkadas"
+    }
+  ]
+}

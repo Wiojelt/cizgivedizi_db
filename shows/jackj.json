@@ -1,0 +1,221 @@
+{
+  "id": "jackj",
+  "title": "jackie ve jill",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/JACKJPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "First Friend",
+      "diziid": "jackj",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/1/bir_arkadasligin_baslangici"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Dangers of the Forest",
+      "diziid": "jackj",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/2/ormandaki_tehlike"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "A Dear Godparent",
+      "diziid": "jackj",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/3/alice_ve_jill"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Strong Mother",
+      "diziid": "jackj",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/4/guclu_anne_ayi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Don't Look",
+      "diziid": "jackj",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/5/trajik_son"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Where's Mother?",
+      "diziid": "jackj",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/6/annem_nerede"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Fight on the Mountain",
+      "diziid": "jackj",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/7/cesur_kucuk_jackie"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Do Your Best, Big Brother!",
+      "diziid": "jackj",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/8/mucizevi_tedavi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "A Difficult Mother Role",
+      "diziid": "jackj",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/9/kucuk_ayilari_nasil_yetistirirsiniz"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Big Ruckus in the Forest",
+      "diziid": "jackj",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/10/kutup_ayilari"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Painful Lesson",
+      "diziid": "jackj",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/11/aci_bir_ders"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Many Dangers",
+      "diziid": "jackj",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/12/bonaminin_tuzagi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Trap of the Hornets",
+      "diziid": "jackj",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/13/esekarisi_yuvasi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Knock Down the Dog and the Goat",
+      "diziid": "jackj",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/14/pedro_ve_facoya_yumruklar"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Western Town",
+      "diziid": "jackj",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/15/buyuk_sehre_seyahat"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "A Warm Welcome",
+      "diziid": "jackj",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/16/sacramentoda_heyecanli_bir_gun"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Fiendish Scheme",
+      "diziid": "jackj",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/17/ates%21"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Painful Parting",
+      "diziid": "jackj",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/18/acitan_elveda"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Unhappy Days",
+      "diziid": "jackj",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/19/jackie_ve_jill_icin_kotu_gunler"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "New Owner",
+      "diziid": "jackj",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/20/yeni_sahip"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Where Are You Going, Jacky?",
+      "diziid": "jackj",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/21/kacis"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Back to the Mountain",
+      "diziid": "jackj",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/22/macerali_bir_donus"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Burning Mount Tallac",
+      "diziid": "jackj",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/23/orman_yangini"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Winter Comes",
+      "diziid": "jackj",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/24/ilk_kis"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "A Grown-Up Bear",
+      "diziid": "jackj",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/25/sonunda_bahar_geldi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "To Faraway Mount Tallac",
+      "diziid": "jackj",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/jackj/jackie_ve_jill/26/eve_mutlu_donus"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "pass",
+  "title": "kelime denizi",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/PASSPoster.avif",
+  "channel": "Spacetoon Go",
+  "genres": [
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Vastness",
+      "diziid": "pass",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/pass/kelime_denizi/1/sonsuzluk"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Encounter",
+      "diziid": "pass",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/pass/kelime_denizi/2/karsilasma"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Love",
+      "diziid": "pass",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/pass/kelime_denizi/3/adanmak"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Steady Progress",
+      "diziid": "pass",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/pass/kelime_denizi/4/istikrarla_kalma"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Waver",
+      "diziid": "pass",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/pass/kelime_denizi/5/savrulmak"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Resonance",
+      "diziid": "pass",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/pass/kelime_denizi/6/ahenk"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Trust",
+      "diziid": "pass",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/pass/kelime_denizi/7/guven"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Compile",
+      "diziid": "pass",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/pass/kelime_denizi/8/derlemek"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Blood",
+      "diziid": "pass",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/pass/kelime_denizi/9/kurs"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Pride",
+      "diziid": "pass",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/pass/kelime_denizi/10/gurur"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Torch",
+      "diziid": "pass",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/pass/kelime_denizi/11/mesale"
+    }
+  ]
+}

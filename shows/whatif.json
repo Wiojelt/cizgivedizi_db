@@ -1,0 +1,221 @@
+{
+  "id": "whatif",
+  "title": "varsayalÄ±m...?",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/WHATIFPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "What If... Captain Carter Were the First Avenger?",
+      "diziid": "whatif",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../1/ya..._kaptan_carter_ilk_intikamci_olsaydi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "What If... T'Challa Became a Star-Lord?",
+      "diziid": "whatif",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../2/ya..._tchalla_bir_yildiz_lordu_olsaydi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "What If... The World Lost Its Mightiest Heroes?",
+      "diziid": "whatif",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../3/ya..._dunya_en_guclu_kahramanlarini_kaybetseydi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "What If... Doctor Strange Lost His Heart Instead of His Hands?",
+      "diziid": "whatif",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../4/ya..._doktor_strange_elleri_yerine_kalbini_kaybederse"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "What If... Zombies?!",
+      "diziid": "whatif",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../5/ya..._zombiler%21"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "What If... Killmonger Rescued Tony Stark?",
+      "diziid": "whatif",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../6/ya..._killmonger_tony_sparki_kurtarirsa"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "What If... Thor Were an Only Child?",
+      "diziid": "whatif",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../7/ya..._thor_tek_cocuk_olsaydi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "What If... Ultron Won?",
+      "diziid": "whatif",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../8/ya..._ultron_kazanirsa"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "What If... The Watcher Broke His Oath?",
+      "diziid": "whatif",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../9/ya..._gozcu_yeminini_bozarsa"
+    },
+    {
+      "season": 1,
+      "episode": 10,
+      "title": "What If... Nebula Joined the Nova Corps?",
+      "diziid": "whatif",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../10/ya_nebula%2C_nova_birligine_katilsaydi"
+    },
+    {
+      "season": 2,
+      "episode": 11,
+      "title": "What If... Peter Quill Attacked Earth's Mightiest Heroes?",
+      "diziid": "whatif",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../11/ya_peter_quill%2C_dunyanin_en_guclu_kahramanlarina_saldirsaydi"
+    },
+    {
+      "season": 3,
+      "episode": 12,
+      "title": "What If... Happy Hogan Saved Christmas?",
+      "diziid": "whatif",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../12/ya_happy_hogan%2C_noeli_kurtarsaydi"
+    },
+    {
+      "season": 4,
+      "episode": 13,
+      "title": "What If... Iron Man Crashed Into the Grandmaster?",
+      "diziid": "whatif",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../13/ya_iron_man%2C_grandmasterla_savassaydi"
+    },
+    {
+      "season": 5,
+      "episode": 14,
+      "title": "What If... Captain Carter Fought the Hydra Stomper?",
+      "diziid": "whatif",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../14/ya_yuzbasi_carter%2C_hydra_zirhiyla_savassaydi"
+    },
+    {
+      "season": 6,
+      "episode": 15,
+      "title": "What If... Kahhori Reshaped the World?",
+      "diziid": "whatif",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../15/ya_kahhori%2C_dunyayi_bastan_sekillendirseydi"
+    },
+    {
+      "season": 7,
+      "episode": 16,
+      "title": "What If... Hela Found the Ten Rings?",
+      "diziid": "whatif",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../16/ya_hela%2C_on_halkayi_bulmus_olsaydi"
+    },
+    {
+      "season": 8,
+      "episode": 17,
+      "title": "What If... The Avengers Assembled in 1602?",
+      "diziid": "whatif",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../17/ya_avengers%2C_1602de_kurulsaydi"
+    },
+    {
+      "season": 9,
+      "episode": 18,
+      "title": "What If... Strange Supreme Intervened?",
+      "diziid": "whatif",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../18/ya_strange_supremee_mudahale_edilseydi"
+    },
+    {
+      "season": 1,
+      "episode": 19,
+      "title": "What If... The Hulk Fought the Mech Avengers?",
+      "diziid": "whatif",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../19/ya_hulk_robotlu_avengerlarla_savassaydi"
+    },
+    {
+      "season": 2,
+      "episode": 20,
+      "title": "What If... Agatha Went to Hollywood?",
+      "diziid": "whatif",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../20/ya_agatha_hollywood%E2%80%99a_gitseydi"
+    },
+    {
+      "season": 3,
+      "episode": 21,
+      "title": "What If... The Red Guardian Stopped the Winter Soldier?",
+      "diziid": "whatif",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../21/ya_red_guardian_kis_askerini_durdursaydi"
+    },
+    {
+      "season": 4,
+      "episode": 22,
+      "title": "What If... Howard the Duck Got Hitched?",
+      "diziid": "whatif",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../22/ya_ordek_howard_evlenseydi"
+    },
+    {
+      "season": 5,
+      "episode": 23,
+      "title": "What If... The Emergence Destroyed the Earth?",
+      "diziid": "whatif",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../23/ya_yaradilis_dunyayi_yok_etseydi"
+    },
+    {
+      "season": 6,
+      "episode": 24,
+      "title": "What If... 1872?",
+      "diziid": "whatif",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../24/ya_1872"
+    },
+    {
+      "season": 7,
+      "episode": 25,
+      "title": "What If... The Watcher Disappeared?",
+      "diziid": "whatif",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../25/ya_watcher_kaybolsaydi"
+    },
+    {
+      "season": 8,
+      "episode": 26,
+      "title": "What If... What If?",
+      "diziid": "whatif",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/whatif/varsayalim.../26/ya..._ya"
+    }
+  ]
+}

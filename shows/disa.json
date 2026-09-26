@@ -1,0 +1,413 @@
+{
+  "id": "disa",
+  "title": "disenchantment",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/DISAPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "A Princess, an Elf, and a Demon Walk Into a Bar",
+      "diziid": "disa",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/1/bir_prenses%2C_bir_elf_ve_bir_iblis_bara_girerler"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "For Whom the Pig Oinks",
+      "diziid": "disa",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/2/domuzlar_kimin_icin_homurdaniyor"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Princess of Darkness",
+      "diziid": "disa",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/3/karanliklar_prensesi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Castle Party Massacre",
+      "diziid": "disa",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/4/sato_partisi_katliami"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Faster, Princess! Kill! Kill!",
+      "diziid": "disa",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/5/daha_hizli%2C_prenses%21_oldur%21_oldur%21"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Swamp and Circumstance",
+      "diziid": "disa",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/6/bataklik_seremonisi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Love's Tender Rampage",
+      "diziid": "disa",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/7/askin_hassas_kiyameti"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Limits of Immortality",
+      "diziid": "disa",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/8/olumsuzlugun_sinirlari"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "To Thine Own Elf Be True",
+      "diziid": "disa",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/9/kendi_elfine_sadik_kal"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Dreamland Falls",
+      "diziid": "disa",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/10/dreamland_dagiliyor"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Disenchantress",
+      "diziid": "disa",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/11/buyu_bozucu_kadin"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Stairway to Hell",
+      "diziid": "disa",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/12/cehenneme_merdiven"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Very Thing",
+      "diziid": "disa",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/13/ta_kendisi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Lonely Heart Is a Hunter",
+      "diziid": "disa",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/14/yalniz_kalp_bir_avcidir"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Our Bodies, Our Elves",
+      "diziid": "disa",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/15/bizim_vucutlarimiz%2C_bizim_elflerimiz"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Dreamland Job",
+      "diziid": "disa",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/16/dreamland_isi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Love's Slimy Embrace",
+      "diziid": "disa",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/17/sevginin_yapiskan_kollari"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "In Her Own Write",
+      "diziid": "disa",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/18/tiyatro_oyunu"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Electric Princess",
+      "diziid": "disa",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/19/elektrikli_prenses"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Tiabeanie Falls",
+      "diziid": "disa",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/20/tiabeanie_dusuyor"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "Subterranean Homesick Blues",
+      "diziid": "disa",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/21/yer_alti_huznu"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "You're the Bean",
+      "diziid": "disa",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/22/sensin_bean"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "Beanie Get Your Gun",
+      "diziid": "disa",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/23/silahi_bul_beanie"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "Steamland Confidential",
+      "diziid": "disa",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/24/steamlandin_sirlari"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "Freak Out!",
+      "diziid": "disa",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/25/ucube_gosterisi"
+    },
+    {
+      "season": 6,
+      "episode": 26,
+      "title": "Last Splash",
+      "diziid": "disa",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/26/son_sansasyon"
+    },
+    {
+      "season": 7,
+      "episode": 27,
+      "title": "Bad Moon Rising",
+      "diziid": "disa",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/27/kotu_ay_yukseliyor"
+    },
+    {
+      "season": 8,
+      "episode": 28,
+      "title": "Hey, Pig Spender",
+      "diziid": "disa",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/28/comert_domuz"
+    },
+    {
+      "season": 9,
+      "episode": 29,
+      "title": "The Madness of King ZÃ¸g",
+      "diziid": "disa",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/29/kral_z%C3%B8gun_deliligi"
+    },
+    {
+      "season": 10,
+      "episode": 30,
+      "title": "Bean Falls Down",
+      "diziid": "disa",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/30/beanin_dususu"
+    },
+    {
+      "season": 11,
+      "episode": 31,
+      "title": "Love Is Hell",
+      "diziid": "disa",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/31/cehennem_gibi_bir_ask"
+    },
+    {
+      "season": 12,
+      "episode": 32,
+      "title": "The Good, The Bad, and the Bum-Bum",
+      "diziid": "disa",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/32/iyi%2C_kotu_ve_popo"
+    },
+    {
+      "season": 13,
+      "episode": 33,
+      "title": "The Cabinet of Dr. Chazzzzz",
+      "diziid": "disa",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/33/dr._chazzzzzin_muayenehanesi"
+    },
+    {
+      "season": 14,
+      "episode": 34,
+      "title": "Goon Baby Goon",
+      "diziid": "disa",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/34/haydut_istilasi"
+    },
+    {
+      "season": 15,
+      "episode": 35,
+      "title": "The Pitter-Patter of Little Feet",
+      "diziid": "disa",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/35/kucuk_ayaklarin_tikirtisi"
+    },
+    {
+      "season": 16,
+      "episode": 36,
+      "title": "What to Expect When You're Expecting Parasites",
+      "diziid": "disa",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/36/parazitleri_beklerken"
+    },
+    {
+      "season": 17,
+      "episode": 37,
+      "title": "The Unbearable Lightning of Bean",
+      "diziid": "disa",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/37/beanin_yeni_silahi"
+    },
+    {
+      "season": 18,
+      "episode": 38,
+      "title": "Spy Vs. Spy Vs. Spy",
+      "diziid": "disa",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/38/uc_tarafli_casus"
+    },
+    {
+      "season": 19,
+      "episode": 39,
+      "title": "The Goo-Bye Girl",
+      "diziid": "disa",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/39/elveda_dagmar"
+    },
+    {
+      "season": 20,
+      "episode": 40,
+      "title": "Bean Falls Apart",
+      "diziid": "disa",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/40/bean_dagiliyor"
+    },
+    {
+      "season": 1,
+      "episode": 41,
+      "title": "Heads or Tails",
+      "diziid": "disa",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/41/vucut_butunlugu"
+    },
+    {
+      "season": 2,
+      "episode": 42,
+      "title": "Fish Out of Water",
+      "diziid": "disa",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/42/sudan_cikmis_balik"
+    },
+    {
+      "season": 3,
+      "episode": 43,
+      "title": "Electric Ladyland",
+      "diziid": "disa",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/43/electric_ladyland"
+    },
+    {
+      "season": 4,
+      "episode": 44,
+      "title": "I Hear Your Noggin, But You Can't Come In",
+      "diziid": "disa",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/44/amanini_kelle_kelle%2C_altini_ustunu_yelle"
+    },
+    {
+      "season": 5,
+      "episode": 45,
+      "title": "Who Shot Elfo?",
+      "diziid": "disa",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/45/elfoyu_kim_vurdu"
+    },
+    {
+      "season": 6,
+      "episode": 46,
+      "title": "The Stience of Homemade Lightning",
+      "diziid": "disa",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/46/firtinanin_merkezinde_her_sey_cok_sakindir"
+    },
+    {
+      "season": 7,
+      "episode": 47,
+      "title": "Gimme Gimme Shock Treatment",
+      "diziid": "disa",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/47/sok_tedavisi"
+    },
+    {
+      "season": 8,
+      "episode": 48,
+      "title": "The Battle of Falling Water",
+      "diziid": "disa",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/48/destansi_savas"
+    },
+    {
+      "season": 9,
+      "episode": 49,
+      "title": "Darkness Falls",
+      "diziid": "disa",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/49/karanlik_cokuyor"
+    },
+    {
+      "season": 1,
+      "episode": 50,
+      "title": "Goodbye Bean",
+      "diziid": "disa",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/disa/disenchantment/50/elveda_bean"
+    }
+  ]
+}

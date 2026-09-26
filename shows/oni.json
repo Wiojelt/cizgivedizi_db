@@ -1,0 +1,45 @@
+{
+  "id": "oni",
+  "title": "onÄ±: ÅŸimÅŸek tanrÄ±sÄ±nÄ±n hikÃ¢yesi",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ONIPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik",
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Onari's Kushi Power",
+      "diziid": "oni",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/oni/oni%3A_simsek_tanrisinin_hikayesi/1/onarinin_kushi_gucu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Mighty Storm Gods",
+      "diziid": "oni",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/oni/oni%3A_simsek_tanrisinin_hikayesi/2/yuce_firtina_tanrilari"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Truth",
+      "diziid": "oni",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/oni/oni%3A_simsek_tanrisinin_hikayesi/3/gercek"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Demon Moon Rises",
+      "diziid": "oni",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/oni/oni%3A_simsek_tanrisinin_hikayesi/4/iblis_ayi_dogarken"
+    }
+  ]
+}

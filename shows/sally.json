@@ -1,0 +1,684 @@
+{
+  "id": "sally",
+  "title": "hintli sally",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SALLYPoster.avif",
+  "channel": "Ã‡ocuk Smart",
+  "genres": [
+    "Dedektif"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Cockroach Capers",
+      "diziid": "sally",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/1/hamambocegi_kaparisi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Trapped By the Internet",
+      "diziid": "sally",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/2/internet_tuzagi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Talent Will Out",
+      "diziid": "sally",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/3/yetenek_ortaya_cikiyor"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "SOS Saris!",
+      "diziid": "sally",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/4/dans_kostumu_krizi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Window Pains",
+      "diziid": "sally",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/5/cam_felaketi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Chemical Reaction",
+      "diziid": "sally",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/6/kimyasal_reaksiyon"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Trouble at the Museum",
+      "diziid": "sally",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/7/muzede_bela"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Double Trouble",
+      "diziid": "sally",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/8/cifte_bela"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Don't Touch My Lucky Charm",
+      "diziid": "sally",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/9/tilsima_dokunma"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Mr. Big",
+      "diziid": "sally",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/10/bay_buyuk"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "George's Forced Labour",
+      "diziid": "sally",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/11/george_zorla_calistirilir"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "From Bombay with Love",
+      "diziid": "sally",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/12/bombaydan_sevgiler"
+    },
+    {
+      "season": 15,
+      "episode": 13,
+      "title": "Room with a Curse",
+      "diziid": "sally",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/15/lanetli_oda"
+    },
+    {
+      "season": 16,
+      "episode": 14,
+      "title": "Operation Nerd",
+      "diziid": "sally",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/16/inek_operasyonu"
+    },
+    {
+      "season": 19,
+      "episode": 15,
+      "title": "The White Bear",
+      "diziid": "sally",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/19/beyaz_ayi"
+    },
+    {
+      "season": 21,
+      "episode": 16,
+      "title": "The Dating Agency",
+      "diziid": "sally",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/21/es_bulma_ajansi"
+    },
+    {
+      "season": 22,
+      "episode": 17,
+      "title": "Go Kart Wars",
+      "diziid": "sally",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/22/go-kart_savaslari"
+    },
+    {
+      "season": 25,
+      "episode": 18,
+      "title": "Cold Case",
+      "diziid": "sally",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/25/eski_dosya"
+    },
+    {
+      "season": 26,
+      "episode": 19,
+      "title": "That's Rock 'N' Roll",
+      "diziid": "sally",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/26/rockn_roll"
+    },
+    {
+      "season": 27,
+      "episode": 20,
+      "title": "The Walls Of Cosmopolis",
+      "diziid": "sally",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/27/kozmopolisin_duvarlari"
+    },
+    {
+      "season": 28,
+      "episode": 21,
+      "title": "The Delayed Action Chilli Pepper",
+      "diziid": "sally",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/28/aksiyon_baslatan_kirmizi_biberler"
+    },
+    {
+      "season": 31,
+      "episode": 22,
+      "title": "The SBI Sees Double",
+      "diziid": "sally",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/31/sbi_cift_goruyor"
+    },
+    {
+      "season": 32,
+      "episode": 23,
+      "title": "Bling Bling",
+      "diziid": "sally",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/32/parilti"
+    },
+    {
+      "season": 35,
+      "episode": 24,
+      "title": "High School Musical Mystery",
+      "diziid": "sally",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/35/okul_muzikalindeki_gizem"
+    },
+    {
+      "season": 36,
+      "episode": 25,
+      "title": "The Formidable Miss Chicago",
+      "diziid": "sally",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/36/zorlu_bayan_sikago"
+    },
+    {
+      "season": 41,
+      "episode": 26,
+      "title": "Doowee's Luck Runs Out",
+      "diziid": "sally",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/41/dooweenin_sansi_kaybolur"
+    },
+    {
+      "season": 42,
+      "episode": 27,
+      "title": "The Party",
+      "diziid": "sally",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/42/parti"
+    },
+    {
+      "season": 43,
+      "episode": 28,
+      "title": "The Client in the Clouds",
+      "diziid": "sally",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/43/bulutlardaki_musteri"
+    },
+    {
+      "season": 44,
+      "episode": 29,
+      "title": "Call My Lawyer",
+      "diziid": "sally",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/44/avukatimi_ara"
+    },
+    {
+      "season": 49,
+      "episode": 30,
+      "title": "Caught Red Handed",
+      "diziid": "sally",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/49/suc_mahalinde_bulundu"
+    },
+    {
+      "season": 50,
+      "episode": 31,
+      "title": "The Missing Stamp",
+      "diziid": "sally",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/50/kayip_pul"
+    },
+    {
+      "season": 51,
+      "episode": 32,
+      "title": "Stranger Than Fiction",
+      "diziid": "sally",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/51/kurgu_olamayacak_kadar_gercek"
+    },
+    {
+      "season": 52,
+      "episode": 33,
+      "title": "International Day",
+      "diziid": "sally",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/52/uluslararasi_gunu"
+    },
+    {
+      "season": 1,
+      "episode": 34,
+      "title": "Rock 'N' Roll Dad",
+      "diziid": "sally",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/53/rockci_baba"
+    },
+    {
+      "season": 2,
+      "episode": 35,
+      "title": "Comic Book Caper",
+      "diziid": "sally",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/54/cizgi_roman_hirsizi"
+    },
+    {
+      "season": 3,
+      "episode": 36,
+      "title": "Performing Magic",
+      "diziid": "sally",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/55/sihir_gosterisi"
+    },
+    {
+      "season": 4,
+      "episode": 37,
+      "title": "The New Teacher",
+      "diziid": "sally",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/56/yeni_ogretmen"
+    },
+    {
+      "season": 5,
+      "episode": 38,
+      "title": "The Sorceress",
+      "diziid": "sally",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/57/buyucu"
+    },
+    {
+      "season": 6,
+      "episode": 39,
+      "title": "Muckraking",
+      "diziid": "sally",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/58/skandal_habercisi"
+    },
+    {
+      "season": 7,
+      "episode": 40,
+      "title": "Poster Boy",
+      "diziid": "sally",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/59/posterci_cocuk"
+    },
+    {
+      "season": 8,
+      "episode": 41,
+      "title": "Exchange Student",
+      "diziid": "sally",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/60/ogrenci_degisimi"
+    },
+    {
+      "season": 9,
+      "episode": 42,
+      "title": "The Crystal Guitar",
+      "diziid": "sally",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/61/kristal_gitar"
+    },
+    {
+      "season": 10,
+      "episode": 43,
+      "title": "Ancient History",
+      "diziid": "sally",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/62/antik_cag"
+    },
+    {
+      "season": 11,
+      "episode": 44,
+      "title": "Night at the Museum",
+      "diziid": "sally",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/63/muzede_bir_gece"
+    },
+    {
+      "season": 12,
+      "episode": 45,
+      "title": "The Sad Clown Gang",
+      "diziid": "sally",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/64/uzgun_palyaco_cetesi"
+    },
+    {
+      "season": 13,
+      "episode": 46,
+      "title": "Everyone's Private Eye",
+      "diziid": "sally",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/65/herkes_ozel_dedektif_olabilir"
+    },
+    {
+      "season": 14,
+      "episode": 47,
+      "title": "Burglary 2.0",
+      "diziid": "sally",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/66/hirsizlik"
+    },
+    {
+      "season": 15,
+      "episode": 48,
+      "title": "The Black Sheep",
+      "diziid": "sally",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/67/kara_koyun"
+    },
+    {
+      "season": 16,
+      "episode": 49,
+      "title": "The Haunted House",
+      "diziid": "sally",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/68/perili_ev"
+    },
+    {
+      "season": 17,
+      "episode": 50,
+      "title": "The Big Stink",
+      "diziid": "sally",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/69/kotu_koku"
+    },
+    {
+      "season": 18,
+      "episode": 51,
+      "title": "Storm Clouds Over the SBI",
+      "diziid": "sally",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/70/sbi_uzerindeki_kara_bulutlar"
+    },
+    {
+      "season": 19,
+      "episode": 52,
+      "title": "Pet Sitting",
+      "diziid": "sally",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/71/evcil_hayvan_bakicisi"
+    },
+    {
+      "season": 20,
+      "episode": 53,
+      "title": "Crime Flash",
+      "diziid": "sally",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/72/hizli_suclar"
+    },
+    {
+      "season": 21,
+      "episode": 54,
+      "title": "Missing Mobiles",
+      "diziid": "sally",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/73/kayip_telefonlar"
+    },
+    {
+      "season": 22,
+      "episode": 55,
+      "title": "Eye in the Sky",
+      "diziid": "sally",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/74/gozler_gokyuzunde"
+    },
+    {
+      "season": 23,
+      "episode": 56,
+      "title": "Whodunnit",
+      "diziid": "sally",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/75/kim_yapti"
+    },
+    {
+      "season": 25,
+      "episode": 57,
+      "title": "Singing & Dancing Sally",
+      "diziid": "sally",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/77/sarkici%2C_dansci_sally"
+    },
+    {
+      "season": 26,
+      "episode": 58,
+      "title": "Sally's Circus",
+      "diziid": "sally",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/78/sallynin_sirki"
+    },
+    {
+      "season": 27,
+      "episode": 59,
+      "title": "Camp of Doom",
+      "diziid": "sally",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/79/kiyamet_kampi"
+    },
+    {
+      "season": 28,
+      "episode": 60,
+      "title": "A Bird in the Hand",
+      "diziid": "sally",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/80/evdeki_kus"
+    },
+    {
+      "season": 29,
+      "episode": 61,
+      "title": "Detention",
+      "diziid": "sally",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/81/goz_alti"
+    },
+    {
+      "season": 30,
+      "episode": 62,
+      "title": "Serial Treachery",
+      "diziid": "sally",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/82/seri_ihanet"
+    },
+    {
+      "season": 31,
+      "episode": 63,
+      "title": "Starry Eyed",
+      "diziid": "sally",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/83/romantik"
+    },
+    {
+      "season": 32,
+      "episode": 64,
+      "title": "Miss Mystery",
+      "diziid": "sally",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/84/bayan_gizem"
+    },
+    {
+      "season": 33,
+      "episode": 65,
+      "title": "Pyjama Party",
+      "diziid": "sally",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/85/pijama_partisi"
+    },
+    {
+      "season": 34,
+      "episode": 66,
+      "title": "Sally's Pen Pal",
+      "diziid": "sally",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/86/sallynin_mektup_arkadasi"
+    },
+    {
+      "season": 35,
+      "episode": 67,
+      "title": "Too Many Cooks",
+      "diziid": "sally",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/87/bir_suru_agac"
+    },
+    {
+      "season": 36,
+      "episode": 68,
+      "title": "The White Knight",
+      "diziid": "sally",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/88/beyaz_sovalye"
+    },
+    {
+      "season": 37,
+      "episode": 69,
+      "title": "Fangs A Lot",
+      "diziid": "sally",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/89/uzun_dis"
+    },
+    {
+      "season": 38,
+      "episode": 70,
+      "title": "Ripped Off Rapp",
+      "diziid": "sally",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/90/calinan_rap"
+    },
+    {
+      "season": 39,
+      "episode": 71,
+      "title": "Party Pooper",
+      "diziid": "sally",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/91/oyun_bozan"
+    },
+    {
+      "season": 40,
+      "episode": 72,
+      "title": "Doowee's Urn",
+      "diziid": "sally",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/92/dooweenin_vazosu"
+    },
+    {
+      "season": 41,
+      "episode": 73,
+      "title": "Beauty Pageant",
+      "diziid": "sally",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/93/guzellik_yarismasi"
+    },
+    {
+      "season": 42,
+      "episode": 74,
+      "title": "Ring My Bell",
+      "diziid": "sally",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/94/ziller_caliyor"
+    },
+    {
+      "season": 43,
+      "episode": 75,
+      "title": "Catch Me If You Can",
+      "diziid": "sally",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/95/yakala_bakalim"
+    },
+    {
+      "season": 44,
+      "episode": 76,
+      "title": "The Invincible Racer",
+      "diziid": "sally",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/96/yenilmez_yaris"
+    },
+    {
+      "season": 45,
+      "episode": 77,
+      "title": "Dinosaur Danger",
+      "diziid": "sally",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/97/dinozor_tehlikesi"
+    },
+    {
+      "season": 46,
+      "episode": 78,
+      "title": "New Girl",
+      "diziid": "sally",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/98/yeni_kiz"
+    },
+    {
+      "season": 47,
+      "episode": 79,
+      "title": "All Made Up",
+      "diziid": "sally",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/99/isi_bitti"
+    },
+    {
+      "season": 48,
+      "episode": 80,
+      "title": "Asphalt Jungle",
+      "diziid": "sally",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/100/asfalt_ormani"
+    },
+    {
+      "season": 49,
+      "episode": 81,
+      "title": "Birthday Surprise",
+      "diziid": "sally",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/101/dogum_gunu_surprizi"
+    },
+    {
+      "season": 50,
+      "episode": 82,
+      "title": "Champion",
+      "diziid": "sally",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/102/sampiyon"
+    },
+    {
+      "season": 51,
+      "episode": 83,
+      "title": "Hot Potatoes",
+      "diziid": "sally",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/103/sicak_patates"
+    },
+    {
+      "season": 52,
+      "episode": 84,
+      "title": "Fund Raising Felony",
+      "diziid": "sally",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/sally/hintli_sally/104/kermeste_hirsizlik"
+    }
+  ]
+}

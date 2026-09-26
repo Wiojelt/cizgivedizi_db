@@ -1,0 +1,173 @@
+{
+  "id": "stugo",
+  "title": "stugo",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/STUGOPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Legitimate Summer Camp/Dog Eat Dog",
+      "diziid": "stugo",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/1/mesru_yaz_kampi__kopek_kopege"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Nannytee / Noodle It (A Little Bit)",
+      "diziid": "stugo",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/2/daditi__eristele"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Diorama Drama / Goat Racket",
+      "diziid": "stugo",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/3/diorama_dramasi__keci_curcunasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Breakfast at Chippany's / Birdyguard",
+      "diziid": "stugo",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/4/chipin_cilgin_kahvaltisi__kus_fedai"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "No Manhands Is an Island / Sister Swim",
+      "diziid": "stugo",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/5/manhands_ada_degildir__kiz_kardes_yuzusu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Moon Moon / Mailbog",
+      "diziid": "stugo",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/6/ay_ay__posta_batakligi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Finders Kelpers/Truck Everlasting",
+      "diziid": "stugo",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/7/bulana_kalir__kamyon_sonsuz"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Alpha Betta Chip / The Bomb Swapper",
+      "diziid": "stugo",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/8/alfa_beta_chip__bomba_degistirici"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Wolf of Jealousy/Stench Mensch",
+      "diziid": "stugo",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/9/kiskanclik_kurdu__pis_kokulu_dost"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Francis Wants to Be Alone / The Sash",
+      "diziid": "stugo",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/10/francis_yalniz_kalmak_istiyor__kusak"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Deep Trent / Disaster Play",
+      "diziid": "stugo",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/11/derinler__felaket_oyunu"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Shapesister/Lullah's Game",
+      "diziid": "stugo",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/12/canavarlar__lullahnin_oyunu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Night Mutants/Chunk Beastknuckles",
+      "diziid": "stugo",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/13/gece_mutantlari__koca_el"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Leg Farm/Unquenchable Thurst",
+      "diziid": "stugo",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/14/bacak_fabrikasi__dinmeyen_susuzluk"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Plantcis / Big Ol' Heads Eggs Salad Venture",
+      "diziid": "stugo",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/15/bitki_macerasi__yumurta_salatasi_girisimi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "PANTelevision/Infinity Braid",
+      "diziid": "stugo",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/16/pantelevizyon__sonsuz_orgu"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Primate Fear / Francis' Last Straw",
+      "diziid": "stugo",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/17/maymun_korkusu__francisin_son_damlasi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Phishin' Chip/Shell-Shock!",
+      "diziid": "stugo",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/18/sazan_chip__travma%21"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Elephant Triumvirate Book 6: Trunkumvirate Triumphaphant/Z.O.R.B.Z. (Zorbular Orb Rorb Borb Zorbs)",
+      "diziid": "stugo",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/19/elephant_triumvirate_kitap_6%3A_trunkumvirate_triumphaphant__z.o.r.b.z."
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Pea-Brained Mutant Crystal Nuptials / S.T.U.G.O.",
+      "diziid": "stugo",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/stugo/stugo/20/kus_beyinli_mutant_crystal_nikahlari__s.t.u.g.o."
+    }
+  ]
+}

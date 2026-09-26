@@ -1,0 +1,86 @@
+{
+  "id": "mv3",
+  "title": "maya ve Ã¼Ã§ savaÅŸÃ§Ä±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MV3Poster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Aksiyon",
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Chapter 1: QuinceaÃ±era",
+      "diziid": "mv3",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/mv3/maya_ve_uc_savasci/1/no._1%3A_15._yas_gunu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Chapter 2: The Prophecy",
+      "diziid": "mv3",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/mv3/maya_ve_uc_savasci/2/no._2%3A_kehanet"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Chapter 3: The Rooster",
+      "diziid": "mv3",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/mv3/maya_ve_uc_savasci/3/no._3%3A_horoz"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Chapter 4: The Skull",
+      "diziid": "mv3",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/mv3/maya_ve_uc_savasci/4/no._4%3A_kafatasi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Chapter 5: The Puma",
+      "diziid": "mv3",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/mv3/maya_ve_uc_savasci/5/no._5%3A_puma"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Chapter 6: Maya and the Three",
+      "diziid": "mv3",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/mv3/maya_ve_uc_savasci/6/no._6%3A_maya_ve_uc_savasci"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Chapter 7: The Divine Gate",
+      "diziid": "mv3",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/mv3/maya_ve_uc_savasci/7/no._7%3A_ilahi_gecit"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Chapter 8: The Bat and the Owl",
+      "diziid": "mv3",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/mv3/maya_ve_uc_savasci/8/no._8%3A_yarasa_ve_baykus"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Chapter 9: The Sun and the Moon",
+      "diziid": "mv3",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/mv3/maya_ve_uc_savasci/9/no._9%3A_gunes_ve_ay"
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "id": "miles",
+  "title": "miles yarÄ±nÄ±n Ã¶tesinde",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MILESPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Bilim Kurgu",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Journey to the Frozen Planet/Attack of the Flickorax",
+      "diziid": "miles",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/1/donmus_gezegene_yolculuk__flickorax_saldirisi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Runaway Shuttle / Surfin' the Whirlpool",
+      "diziid": "miles",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/2/kacak_mekik__whirlpoolda_sorf_yapmak"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Ocean in Motion / Explorer Exchange",
+      "diziid": "miles",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/3/hareketli_okyanus__gezgin_degisimi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Game On/How I Saved My Summer Vacation",
+      "diziid": "miles",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/4/oyun_basliyor__yaz_tatilimi_nasil_kurtardim"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Catch That IOTA! / Mighty Merc",
+      "diziid": "miles",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/5/o_iotayi_yakala__guclu_merc"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Who Stole the Stellosphere? / Rock N' Roll",
+      "diziid": "miles",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/6/stellospherei_kim_caldi__rock_n_roll"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Downsized / Ride of the Quarkons",
+      "diziid": "miles",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/7/kucultme__quarkonlara_yolculuk"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Happy Captain's Day/Planet of the Plants",
+      "diziid": "miles",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/8/kaptanlar_gunu__bitkilerin_gezegeni"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "To the Goldilocks Zone/Hiccup in the Plan",
+      "diziid": "miles",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/9/goldilocks_bolgesine__plandaki_sikinti"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "On SpaceGuard / Spaceship Invader",
+      "diziid": "miles",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/10/spaceguard__uzay_gemisi_istilasi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Adventures in Robot-Pet Sitting/The Great Blastboard Chase",
+      "diziid": "miles",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/11/robot_evcil_hayvan_bakimi_maceralari__buyuk_blastboard_kovalamacasi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Unplugged/Junked",
+      "diziid": "miles",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/12/baglantisiz__cop"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Mama Merc/Space Race",
+      "diziid": "miles",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/13/anne_merc__uzay_yarisi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Neptune Adventure/Eye to Eye",
+      "diziid": "miles",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/14/neptun_macerasi__goze_goz"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Yuri's Night/I, Stella",
+      "diziid": "miles",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/15/yurinin_gecesi__ben%2C_stella"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Frozen Food/Later, Multivator",
+      "diziid": "miles",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/16/dondurulmus_gida__multivator"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Lunar New Year/The Hoverbike Diaries",
+      "diziid": "miles",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/17/ay_yeni_yili__hoverbike_gunkuleri"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Search for Skellig Ro/Endangered Species",
+      "diziid": "miles",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/18/skelling_royu_aramak__tehlikedeki_turler"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Blasteroid! / Magnetic Merc",
+      "diziid": "miles",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/19/blasteroid__manyetik_merc"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "A Growing Problem/The Tardigrade Escapade",
+      "diziid": "miles",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/20/buyuyen_bir_sorun__tardigrad_kacisi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Miles vs. the Volcano / Scavengers of Mars",
+      "diziid": "miles",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/21/miles_volkana_karsi__mars_avcilari"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Unexpected Ally/Skyrise",
+      "diziid": "miles",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/22/beklenmedik_muteffik__skyrise"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Ghost Moon/Stormy Night in a Dark Nebula",
+      "diziid": "miles",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/23/hayalet_ay__kara_nebulada_firtinali_gece"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Dino World/Team Exo-Flex",
+      "diziid": "miles",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/24/dino_dunyasi__exo-flex_takimi"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "The Pluto Rescue/The Taking of the Solar Express",
+      "diziid": "miles",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/25/plutonu_kurtarmak__solar_ekspresin_alinmasi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The Space Trader/The Quantum Cup",
+      "diziid": "miles",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/26/uzay_tuccari__kuantum_kupasi"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "The Legend of Sandelion / The Mystery of Atlantix",
+      "diziid": "miles",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/27/sandelion_efsanesi__atlantixin_gizemi"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Escape from the Tethoscape/The Hitchhiker's Ride Through the Galaxy",
+      "diziid": "miles",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/28/tethoscapeten_kacis__otostopun_galaksideki_yolculugu"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Snow Globe / The Discovery Expedition",
+      "diziid": "miles",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/29/kar_kuresi__kesif_seferi"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Galactech: Secrets of the Black Hole",
+      "diziid": "miles",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/30/galactech%3A_kara_deligin_sirlari"
+    },
+    {
+      "season": 1,
+      "episode": 31,
+      "title": "Galactech: Captain Miles/The Search for Spot",
+      "diziid": "miles",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/31/galactech%3A_kaptan_miles__nokta_arayisi"
+    },
+    {
+      "season": 2,
+      "episode": 32,
+      "title": "The Blobbysitters/Astro-Cavers",
+      "diziid": "miles",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/32/blobby_bakicilar__astro_magaracilar"
+    },
+    {
+      "season": 3,
+      "episode": 33,
+      "title": "Galactech: How to Build a Robot-Pet/Career Day",
+      "diziid": "miles",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/33/galactech%3A_robot_pet_yapmak__kariyer_gunu"
+    },
+    {
+      "season": 4,
+      "episode": 34,
+      "title": "Galloping Groundshakers/Galactech: March of the Robo-Penguins",
+      "diziid": "miles",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/34/dortnala_yer_sarsicilar__galactech_robo_penguenlerin_yuruyusu"
+    },
+    {
+      "season": 5,
+      "episode": 35,
+      "title": "The Tiny Aliens / The Adventures of Jet Retrograde",
+      "diziid": "miles",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/35/minik_uzaylilar__jet_retrogradein_maceralari"
+    },
+    {
+      "season": 6,
+      "episode": 36,
+      "title": "Galactech: The Galactech Grab/Galactech: An Admiral Rescue",
+      "diziid": "miles",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/36/galactechi_kapmak__galactech%3A_amirali_kurtarmak"
+    },
+    {
+      "season": 7,
+      "episode": 37,
+      "title": "Galaxias Quest/Galactech: Mission to the Sun",
+      "diziid": "miles",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/37/galaxias_gorevi__galactech%3A_gunes_yolculugu"
+    },
+    {
+      "season": 8,
+      "episode": 38,
+      "title": "The First Day of Galactic School/Miles Underwater",
+      "diziid": "miles",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/38/galaktik_okulun_ilk_gunu__miles_su_altinda"
+    },
+    {
+      "season": 9,
+      "episode": 39,
+      "title": "The Galactic Fair/Unfair Getaway",
+      "diziid": "miles",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/39/galaktik_fuar__haksiz_kacis"
+    },
+    {
+      "season": 10,
+      "episode": 40,
+      "title": "Building Day / Galactech: Flight of the IOTAs",
+      "diziid": "miles",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/40/insaat_gunu__iotalarin_ucusu"
+    },
+    {
+      "season": 11,
+      "episode": 41,
+      "title": "Galactech: Still Rocketing/Merc's Night Out",
+      "diziid": "miles",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/41/galactech%3A_hala_roketleniyor__mercun_gecesi"
+    },
+    {
+      "season": 12,
+      "episode": 42,
+      "title": "Space Junkers/Help Us, Jet Retrograde!",
+      "diziid": "miles",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/42/uzay_copculeri__yardim_et%2C_jet_retrograde%21"
+    },
+    {
+      "season": 13,
+      "episode": 43,
+      "title": "Blackout on Bloppsburgh/The Robot Thief",
+      "diziid": "miles",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/43/galactech%3A_bloppsburgh__karartma"
+    },
+    {
+      "season": 14,
+      "episode": 44,
+      "title": "Back in the Groove/Saving Lumaro",
+      "diziid": "miles",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/44/groovea_donus__lumaroyu_kurtarmak"
+    },
+    {
+      "season": 15,
+      "episode": 45,
+      "title": "Galactech: The S'Leet Heist/Galactech: The S'Leet Fleet",
+      "diziid": "miles",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/45/galactech_sleet_soygunu__galactech_sleet_filosu"
+    },
+    {
+      "season": 16,
+      "episode": 46,
+      "title": "Once in a Blue Moon/The Queen Gemma Dilemma",
+      "diziid": "miles",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/46/nadiren__kralice_gemma_ikilemi"
+    },
+    {
+      "season": 17,
+      "episode": 47,
+      "title": "Galactech: The Mystery of the Dinosaurs",
+      "diziid": "miles",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/47/galatech%3A_dinozorlarin_gizemi"
+    },
+    {
+      "season": 18,
+      "episode": 48,
+      "title": "Who Stole the Dinosaur?/Nine Minutes 'Til Bedtime",
+      "diziid": "miles",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/48/dinozoru_kim_caldi__uyku_zamanina_dokuz_dakika"
+    },
+    {
+      "season": 19,
+      "episode": 49,
+      "title": "Chasing the Stormchaser! / Galatech: Loretta's Lost BraceLex",
+      "diziid": "miles",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/49/firtina_avcisini_kovalamak__galactech%3A_lorettanin_kayip_bracelexi"
+    },
+    {
+      "season": 20,
+      "episode": 50,
+      "title": "Gamechangers/Goon Baby Goon",
+      "diziid": "miles",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/50/cigir_agan__bebek_goon"
+    },
+    {
+      "season": 21,
+      "episode": 51,
+      "title": "Beneath Europa/Callistos on Ice",
+      "diziid": "miles",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/51/europanin_altinda__buzda_callistolar"
+    },
+    {
+      "season": 22,
+      "episode": 52,
+      "title": "Galactech: the Space Trader Strikes Back / Galactech: the Vanishing Callistos",
+      "diziid": "miles",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/52/galatech%3A_uzay_tuccari_geri_donuyor__galactech%3A_kaybolan_callistolar"
+    },
+    {
+      "season": 23,
+      "episode": 53,
+      "title": "Galactech: the Search for the Plectrix / Robo-Monkey Business",
+      "diziid": "miles",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/53/galactech%3A_plectrixi_aramak__robo_maymun_isi"
+    },
+    {
+      "season": 24,
+      "episode": 54,
+      "title": "Connect and Protect: Part 1",
+      "diziid": "miles",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/54/baglan_ve_koru_1._kisim"
+    },
+    {
+      "season": 25,
+      "episode": 55,
+      "title": "Connect and Protect: Part 2",
+      "diziid": "miles",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/miles/miles_yarinin_otesinde/55/baglan_ve_koru_2._kisim"
+    }
+  ]
+}

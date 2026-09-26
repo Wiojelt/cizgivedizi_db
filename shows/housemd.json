@@ -1,0 +1,1438 @@
+{
+  "id": "housemd",
+  "title": "house, m.d.",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/ESKÄ°/dizi/resim/poster/HOUSEMDPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Dram",
+    "TÄ±p",
+    "Gizem"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "housemd",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./1/pilot_bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Paternity",
+      "diziid": "housemd",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./2/babalik"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Occam's Razor",
+      "diziid": "housemd",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./3/ockhamin_usturasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Maternity",
+      "diziid": "housemd",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./4/annelik"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Damned If You Do",
+      "diziid": "housemd",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./5/sirlar"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Socratic Method",
+      "diziid": "housemd",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./6/sokratik_yontem"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Fidelity",
+      "diziid": "housemd",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./7/dogruluk"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Poison",
+      "diziid": "housemd",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./8/zehir"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "DNR",
+      "diziid": "housemd",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./9/yeni_hayat"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Histories",
+      "diziid": "housemd",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./10/yalanlar"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Detox",
+      "diziid": "housemd",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./11/veda"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Sports Medicine",
+      "diziid": "housemd",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./12/spor_hekimligi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Cursed",
+      "diziid": "housemd",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./13/lanetli"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Control",
+      "diziid": "housemd",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./14/kontrol"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Mob Rules",
+      "diziid": "housemd",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./15/sokak_kanunlari"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Heavy",
+      "diziid": "housemd",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./16/agir"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Role Model",
+      "diziid": "housemd",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./17/ornek_vatandas"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Babies & Bathwater",
+      "diziid": "housemd",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./18/karar"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Kids",
+      "diziid": "housemd",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./19/ufakliklar"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Love Hurts",
+      "diziid": "housemd",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./20/ask_acitir"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Three Stories",
+      "diziid": "housemd",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./21/uc_vaka"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Honeymoon",
+      "diziid": "housemd",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./22/balayi"
+    },
+    {
+      "season": 1,
+      "episode": 23,
+      "title": "Acceptance",
+      "diziid": "housemd",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./23/kabullenis"
+    },
+    {
+      "season": 2,
+      "episode": 24,
+      "title": "Autopsy",
+      "diziid": "housemd",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./24/otopsi"
+    },
+    {
+      "season": 3,
+      "episode": 25,
+      "title": "Humpty Dumpty",
+      "diziid": "housemd",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./25/kaza"
+    },
+    {
+      "season": 4,
+      "episode": 26,
+      "title": "TB or Not TB",
+      "diziid": "housemd",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./26/feda"
+    },
+    {
+      "season": 5,
+      "episode": 27,
+      "title": "Daddy's Boy",
+      "diziid": "housemd",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./27/baba_ve_ogul"
+    },
+    {
+      "season": 6,
+      "episode": 28,
+      "title": "Spin",
+      "diziid": "housemd",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./28/tur"
+    },
+    {
+      "season": 7,
+      "episode": 29,
+      "title": "Hunting",
+      "diziid": "housemd",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./29/av"
+    },
+    {
+      "season": 8,
+      "episode": 30,
+      "title": "The Mistake",
+      "diziid": "housemd",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./30/hata"
+    },
+    {
+      "season": 9,
+      "episode": 31,
+      "title": "Deception",
+      "diziid": "housemd",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./31/yalan_dolan"
+    },
+    {
+      "season": 10,
+      "episode": 32,
+      "title": "Failure to Communicate",
+      "diziid": "housemd",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./32/iletisimsizlik"
+    },
+    {
+      "season": 11,
+      "episode": 33,
+      "title": "Need to Know",
+      "diziid": "housemd",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./33/bilmem_lazim"
+    },
+    {
+      "season": 12,
+      "episode": 34,
+      "title": "Distractions",
+      "diziid": "housemd",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./34/dikkat_dagitici_seyler"
+    },
+    {
+      "season": 13,
+      "episode": 35,
+      "title": "Skin Deep",
+      "diziid": "housemd",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./35/ustunkoru"
+    },
+    {
+      "season": 14,
+      "episode": 36,
+      "title": "Sex Kills",
+      "diziid": "housemd",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./36/seks_oldurur"
+    },
+    {
+      "season": 15,
+      "episode": 37,
+      "title": "Clueless",
+      "diziid": "housemd",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./37/oyun"
+    },
+    {
+      "season": 16,
+      "episode": 38,
+      "title": "Safe",
+      "diziid": "housemd",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./38/steril"
+    },
+    {
+      "season": 17,
+      "episode": 39,
+      "title": "All In",
+      "diziid": "housemd",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./39/caresiz"
+    },
+    {
+      "season": 18,
+      "episode": 40,
+      "title": "Sleeping Dogs Lie",
+      "diziid": "housemd",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./40/oluruna_birak"
+    },
+    {
+      "season": 19,
+      "episode": 41,
+      "title": "House vs. God",
+      "diziid": "housemd",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./41/house_ve_tanri"
+    },
+    {
+      "season": 20,
+      "episode": 42,
+      "title": "Euphoria (Part 1)",
+      "diziid": "housemd",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./42/mutluluk%3A_1._kisim"
+    },
+    {
+      "season": 21,
+      "episode": 43,
+      "title": "Euphoria (Part 2)",
+      "diziid": "housemd",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./43/mutluluk%3A_2._kisim"
+    },
+    {
+      "season": 22,
+      "episode": 44,
+      "title": "Forever",
+      "diziid": "housemd",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./44/ebediyen"
+    },
+    {
+      "season": 23,
+      "episode": 45,
+      "title": "Who's Your Daddy?",
+      "diziid": "housemd",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./45/baban_kim"
+    },
+    {
+      "season": 24,
+      "episode": 46,
+      "title": "No Reason",
+      "diziid": "housemd",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./46/eski_dost"
+    },
+    {
+      "season": 1,
+      "episode": 47,
+      "title": "Meaning",
+      "diziid": "housemd",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./47/herkese_karsi_tek_basina"
+    },
+    {
+      "season": 2,
+      "episode": 48,
+      "title": "Cane & Able",
+      "diziid": "housemd",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./48/uzun_yolculuk"
+    },
+    {
+      "season": 3,
+      "episode": 49,
+      "title": "Informed Consent",
+      "diziid": "housemd",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./49/bilgilendirilmis_riza"
+    },
+    {
+      "season": 4,
+      "episode": 50,
+      "title": "Lines in the Sand",
+      "diziid": "housemd",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./50/kumdan_kaleler"
+    },
+    {
+      "season": 5,
+      "episode": 51,
+      "title": "Fools for Love",
+      "diziid": "housemd",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./51/sonuclar"
+    },
+    {
+      "season": 6,
+      "episode": 52,
+      "title": "Que Sera Sera",
+      "diziid": "housemd",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./52/fazla_kilolar"
+    },
+    {
+      "season": 7,
+      "episode": 53,
+      "title": "Son of Coma Guy",
+      "diziid": "housemd",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./53/komadakinin_oglu"
+    },
+    {
+      "season": 8,
+      "episode": 54,
+      "title": "Whac-A-Mole",
+      "diziid": "housemd",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./54/her_sey_onlar_icin"
+    },
+    {
+      "season": 9,
+      "episode": 55,
+      "title": "Finding Judas",
+      "diziid": "housemd",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./55/aramizdaki_hain"
+    },
+    {
+      "season": 10,
+      "episode": 56,
+      "title": "Merry Little Christmas",
+      "diziid": "housemd",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./56/mutsuz_noel"
+    },
+    {
+      "season": 11,
+      "episode": 57,
+      "title": "Words and Deeds",
+      "diziid": "housemd",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./57/sozler_ve_ozler"
+    },
+    {
+      "season": 12,
+      "episode": 58,
+      "title": "One Day, One Room",
+      "diziid": "housemd",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./58/zorunlu_calisma"
+    },
+    {
+      "season": 13,
+      "episode": 59,
+      "title": "Needle in a Haystack",
+      "diziid": "housemd",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./59/samanliktaki_igne"
+    },
+    {
+      "season": 14,
+      "episode": 60,
+      "title": "Insensitive",
+      "diziid": "housemd",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./60/duygusuz"
+    },
+    {
+      "season": 15,
+      "episode": 61,
+      "title": "Half-Wit",
+      "diziid": "housemd",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./61/yarim_akil"
+    },
+    {
+      "season": 16,
+      "episode": 62,
+      "title": "Top Secret",
+      "diziid": "housemd",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./62/cok_gizli"
+    },
+    {
+      "season": 17,
+      "episode": 63,
+      "title": "Fetal Position",
+      "diziid": "housemd",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./63/cenin_pozisyonu"
+    },
+    {
+      "season": 18,
+      "episode": 64,
+      "title": "Airborne",
+      "diziid": "housemd",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./64/havada"
+    },
+    {
+      "season": 19,
+      "episode": 65,
+      "title": "Act Your Age",
+      "diziid": "housemd",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./65/yasina_uygun_davran"
+    },
+    {
+      "season": 20,
+      "episode": 66,
+      "title": "House Training",
+      "diziid": "housemd",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./66/bul_karayi"
+    },
+    {
+      "season": 21,
+      "episode": 67,
+      "title": "Family",
+      "diziid": "housemd",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./67/aile"
+    },
+    {
+      "season": 22,
+      "episode": 68,
+      "title": "Resignation",
+      "diziid": "housemd",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./68/istifa"
+    },
+    {
+      "season": 23,
+      "episode": 69,
+      "title": "The Jerk",
+      "diziid": "housemd",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./69/sah_ve_mat"
+    },
+    {
+      "season": 24,
+      "episode": 70,
+      "title": "Human Error",
+      "diziid": "housemd",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./70/insan_hatasi"
+    },
+    {
+      "season": 1,
+      "episode": 71,
+      "title": "Alone",
+      "diziid": "housemd",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./71/tek_basina"
+    },
+    {
+      "season": 2,
+      "episode": 72,
+      "title": "The Right Stuff",
+      "diziid": "housemd",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./72/en_iyiler"
+    },
+    {
+      "season": 3,
+      "episode": 73,
+      "title": "97 Seconds",
+      "diziid": "housemd",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./73/97_saniye"
+    },
+    {
+      "season": 4,
+      "episode": 74,
+      "title": "Guardian Angels",
+      "diziid": "housemd",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./74/koruyucu_melekler"
+    },
+    {
+      "season": 5,
+      "episode": 75,
+      "title": "Mirror Mirror",
+      "diziid": "housemd",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./75/ayna_ayna"
+    },
+    {
+      "season": 6,
+      "episode": 76,
+      "title": "Whatever It Takes",
+      "diziid": "housemd",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./76/ne_gerekirse"
+    },
+    {
+      "season": 7,
+      "episode": 77,
+      "title": "Ugly",
+      "diziid": "housemd",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./77/cirkin"
+    },
+    {
+      "season": 8,
+      "episode": 78,
+      "title": "You Don't Want to Know",
+      "diziid": "housemd",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./78/bilmek_istemezin"
+    },
+    {
+      "season": 9,
+      "episode": 79,
+      "title": "Games",
+      "diziid": "housemd",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./79/oyunlar"
+    },
+    {
+      "season": 10,
+      "episode": 80,
+      "title": "It's a Wonderful Lie",
+      "diziid": "housemd",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./80/mukemmel_bir_yalan"
+    },
+    {
+      "season": 11,
+      "episode": 81,
+      "title": "Frozen",
+      "diziid": "housemd",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./81/okyanus_otesinden"
+    },
+    {
+      "season": 12,
+      "episode": 82,
+      "title": "Don't Ever Change",
+      "diziid": "housemd",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./82/asla_degisme"
+    },
+    {
+      "season": 13,
+      "episode": 83,
+      "title": "No More Mr. Nice Guy",
+      "diziid": "housemd",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./83/efendilik_de_bir_yere_kadar"
+    },
+    {
+      "season": 14,
+      "episode": 84,
+      "title": "Living the Dream",
+      "diziid": "housemd",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./84/aptal_kutusu"
+    },
+    {
+      "season": 15,
+      "episode": 85,
+      "title": "House's Head",
+      "diziid": "housemd",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./85/houseun_akli"
+    },
+    {
+      "season": 16,
+      "episode": 86,
+      "title": "Wilson's Heart",
+      "diziid": "housemd",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./86/wilsonin_kalbi"
+    },
+    {
+      "season": 1,
+      "episode": 87,
+      "title": "Dying Changes Everything",
+      "diziid": "housemd",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./87/olum_her_seyi_degistirir"
+    },
+    {
+      "season": 2,
+      "episode": 88,
+      "title": "Not Cancer",
+      "diziid": "housemd",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./88/kanser_degil"
+    },
+    {
+      "season": 3,
+      "episode": 89,
+      "title": "Adverse Events",
+      "diziid": "housemd",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./89/umulandan_farkli"
+    },
+    {
+      "season": 4,
+      "episode": 90,
+      "title": "Birthmarks",
+      "diziid": "housemd",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./90/dogum_izleri"
+    },
+    {
+      "season": 5,
+      "episode": 91,
+      "title": "Lucky Thirteen",
+      "diziid": "housemd",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./91/sansli_onuc"
+    },
+    {
+      "season": 6,
+      "episode": 92,
+      "title": "Joy",
+      "diziid": "housemd",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./92/muruvvet"
+    },
+    {
+      "season": 7,
+      "episode": 93,
+      "title": "The Itch",
+      "diziid": "housemd",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./93/kasinti"
+    },
+    {
+      "season": 8,
+      "episode": 94,
+      "title": "Emancipation",
+      "diziid": "housemd",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./94/guven_sorunu"
+    },
+    {
+      "season": 9,
+      "episode": 95,
+      "title": "Last Resort",
+      "diziid": "housemd",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./95/son_care"
+    },
+    {
+      "season": 10,
+      "episode": 96,
+      "title": "Let Them Eat Cake",
+      "diziid": "housemd",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./96/ekmek_bulamiyorlarsa_pasta_yesinler"
+    },
+    {
+      "season": 11,
+      "episode": 97,
+      "title": "Joy to the World",
+      "diziid": "housemd",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./97/dunyevi_zevkler"
+    },
+    {
+      "season": 12,
+      "episode": 98,
+      "title": "Painless",
+      "diziid": "housemd",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./98/agrisiz"
+    },
+    {
+      "season": 13,
+      "episode": 99,
+      "title": "Big Baby",
+      "diziid": "housemd",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./99/koca_bebek"
+    },
+    {
+      "season": 14,
+      "episode": 100,
+      "title": "The Greater Good",
+      "diziid": "housemd",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./100/herkesin_iyiligi_icin"
+    },
+    {
+      "season": 15,
+      "episode": 101,
+      "title": "Unfaithful",
+      "diziid": "housemd",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./101/sadakatsiz"
+    },
+    {
+      "season": 16,
+      "episode": 102,
+      "title": "The Softer Side",
+      "diziid": "housemd",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./102/yumusak_taraf"
+    },
+    {
+      "season": 17,
+      "episode": 103,
+      "title": "The Social Contract",
+      "diziid": "housemd",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./103/toplumsal_sozlesme"
+    },
+    {
+      "season": 18,
+      "episode": 104,
+      "title": "Here Kitty",
+      "diziid": "housemd",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./104/kahin_kedi"
+    },
+    {
+      "season": 19,
+      "episode": 105,
+      "title": "Locked In",
+      "diziid": "housemd",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./105/hapis"
+    },
+    {
+      "season": 20,
+      "episode": 106,
+      "title": "Simple Explanation",
+      "diziid": "housemd",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./106/basit_aciklama"
+    },
+    {
+      "season": 21,
+      "episode": 107,
+      "title": "Saviors",
+      "diziid": "housemd",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./107/kurtaricilar"
+    },
+    {
+      "season": 22,
+      "episode": 108,
+      "title": "House Divided",
+      "diziid": "housemd",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./108/patlamalar"
+    },
+    {
+      "season": 23,
+      "episode": 109,
+      "title": "Under My Skin",
+      "diziid": "housemd",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./109/derimin_altinda"
+    },
+    {
+      "season": 24,
+      "episode": 110,
+      "title": "Both Sides Now",
+      "diziid": "housemd",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./110/iki_tarafli"
+    },
+    {
+      "season": 1,
+      "episode": 111,
+      "title": "Broken (Part 1)",
+      "diziid": "housemd",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./111/terapi%3A_1._kisim"
+    },
+    {
+      "season": 2,
+      "episode": 112,
+      "title": "Broken (Part 2)",
+      "diziid": "housemd",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./112/terapi%3A_2._kisim"
+    },
+    {
+      "season": 3,
+      "episode": 113,
+      "title": "Epic Fail",
+      "diziid": "housemd",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./113/buyuk_hata"
+    },
+    {
+      "season": 4,
+      "episode": 114,
+      "title": "The Tyrant",
+      "diziid": "housemd",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./114/zorba"
+    },
+    {
+      "season": 5,
+      "episode": 115,
+      "title": "Instant Karma",
+      "diziid": "housemd",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./115/aninda_karma_etkisi"
+    },
+    {
+      "season": 6,
+      "episode": 116,
+      "title": "Brave Heart",
+      "diziid": "housemd",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./116/cesur_yurek"
+    },
+    {
+      "season": 7,
+      "episode": 117,
+      "title": "Known Unknowns",
+      "diziid": "housemd",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./117/bilinmedigi_bilinenler"
+    },
+    {
+      "season": 8,
+      "episode": 118,
+      "title": "Teamwork",
+      "diziid": "housemd",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./118/ekip_calismasi"
+    },
+    {
+      "season": 9,
+      "episode": 119,
+      "title": "Ignorance Is Bliss",
+      "diziid": "housemd",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./119/cehalet_mutluluktur"
+    },
+    {
+      "season": 10,
+      "episode": 120,
+      "title": "Wilson",
+      "diziid": "housemd",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./120/wilson"
+    },
+    {
+      "season": 11,
+      "episode": 121,
+      "title": "The Down Low",
+      "diziid": "housemd",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./121/arkadasina_sadik"
+    },
+    {
+      "season": 12,
+      "episode": 122,
+      "title": "Remorse",
+      "diziid": "housemd",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./122/pismanlik"
+    },
+    {
+      "season": 13,
+      "episode": 123,
+      "title": "Moving the Chains",
+      "diziid": "housemd",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./123/kazanmak_icin"
+    },
+    {
+      "season": 14,
+      "episode": 124,
+      "title": "5 to 9",
+      "diziid": "housemd",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./124/5ten_9a"
+    },
+    {
+      "season": 15,
+      "episode": 125,
+      "title": "Private Lives",
+      "diziid": "housemd",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./125/ozel_hayatlar"
+    },
+    {
+      "season": 16,
+      "episode": 126,
+      "title": "Black Hole",
+      "diziid": "housemd",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./126/kara_delik"
+    },
+    {
+      "season": 17,
+      "episode": 127,
+      "title": "Lockdown",
+      "diziid": "housemd",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./127/tecrit"
+    },
+    {
+      "season": 18,
+      "episode": 128,
+      "title": "Knight Fall",
+      "diziid": "housemd",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./128/sovalyenin_yenilgisi"
+    },
+    {
+      "season": 19,
+      "episode": 129,
+      "title": "Open and Shut",
+      "diziid": "housemd",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./129/apacik"
+    },
+    {
+      "season": 20,
+      "episode": 130,
+      "title": "The Choice",
+      "diziid": "housemd",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./130/tercih"
+    },
+    {
+      "season": 21,
+      "episode": 131,
+      "title": "Baggage",
+      "diziid": "housemd",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./131/yuk"
+    },
+    {
+      "season": 22,
+      "episode": 132,
+      "title": "Help Me",
+      "diziid": "housemd",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./132/yardim_edin"
+    },
+    {
+      "season": 1,
+      "episode": 133,
+      "title": "Now What?",
+      "diziid": "housemd",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./133/simdi_ne_olacak"
+    },
+    {
+      "season": 2,
+      "episode": 134,
+      "title": "Selfish",
+      "diziid": "housemd",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./134/bencil"
+    },
+    {
+      "season": 3,
+      "episode": 135,
+      "title": "Unwritten",
+      "diziid": "housemd",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./135/ikinci_anlam"
+    },
+    {
+      "season": 4,
+      "episode": 136,
+      "title": "Massage Therapy",
+      "diziid": "housemd",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./136/masaj_terapisi"
+    },
+    {
+      "season": 5,
+      "episode": 137,
+      "title": "Unplanned Parenthood",
+      "diziid": "housemd",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./137/beklenmedik_annelik"
+    },
+    {
+      "season": 6,
+      "episode": 138,
+      "title": "Office Politics",
+      "diziid": "housemd",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./138/ofis_politikasi"
+    },
+    {
+      "season": 7,
+      "episode": 139,
+      "title": "A Pox on Our House",
+      "diziid": "housemd",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./139/cicek"
+    },
+    {
+      "season": 8,
+      "episode": 140,
+      "title": "Small Sacrifices",
+      "diziid": "housemd",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./140/kucuk_fedakarliklar"
+    },
+    {
+      "season": 9,
+      "episode": 141,
+      "title": "Larger Than Life",
+      "diziid": "housemd",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./141/kahramanlik"
+    },
+    {
+      "season": 10,
+      "episode": 142,
+      "title": "Carrot or Stick",
+      "diziid": "housemd",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./142/odul_ya_da_ceza"
+    },
+    {
+      "season": 11,
+      "episode": 143,
+      "title": "Family Practice",
+      "diziid": "housemd",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./143/aile_hekimligi"
+    },
+    {
+      "season": 12,
+      "episode": 144,
+      "title": "You Must Remember This",
+      "diziid": "housemd",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./144/bunu_hatirlamalisin"
+    },
+    {
+      "season": 13,
+      "episode": 145,
+      "title": "Two Stories",
+      "diziid": "housemd",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./145/iki_hikaye"
+    },
+    {
+      "season": 14,
+      "episode": 146,
+      "title": "Recession Proof",
+      "diziid": "housemd",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./146/ekonomik_kuculme_nedeniyle"
+    },
+    {
+      "season": 15,
+      "episode": 147,
+      "title": "Bombshells",
+      "diziid": "housemd",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./147/darbe_ustune_darbe"
+    },
+    {
+      "season": 16,
+      "episode": 148,
+      "title": "Out of the Chute",
+      "diziid": "housemd",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./148/savunmasiz"
+    },
+    {
+      "season": 17,
+      "episode": 149,
+      "title": "Fall from Grace",
+      "diziid": "housemd",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./149/yuz_karasi"
+    },
+    {
+      "season": 18,
+      "episode": 150,
+      "title": "The Dig",
+      "diziid": "housemd",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./150/yeniden_ozgur"
+    },
+    {
+      "season": 19,
+      "episode": 151,
+      "title": "Last Temptation",
+      "diziid": "housemd",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./151/son_kez"
+    },
+    {
+      "season": 20,
+      "episode": 152,
+      "title": "Changes",
+      "diziid": "housemd",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./152/kotu_sans"
+    },
+    {
+      "season": 21,
+      "episode": 153,
+      "title": "The Fix",
+      "diziid": "housemd",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./153/sike"
+    },
+    {
+      "season": 22,
+      "episode": 154,
+      "title": "After Hours",
+      "diziid": "housemd",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./154/eski_yoldas"
+    },
+    {
+      "season": 23,
+      "episode": 155,
+      "title": "Moving On",
+      "diziid": "housemd",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./155/yola_devam"
+    },
+    {
+      "season": 1,
+      "episode": 156,
+      "title": "Twenty Vicodin",
+      "diziid": "housemd",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./156/yirmi_vicodin"
+    },
+    {
+      "season": 2,
+      "episode": 157,
+      "title": "Transplant",
+      "diziid": "housemd",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./157/nakil"
+    },
+    {
+      "season": 3,
+      "episode": 158,
+      "title": "Charity Case",
+      "diziid": "housemd",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./158/hayir_isi"
+    },
+    {
+      "season": 4,
+      "episode": 159,
+      "title": "Risky Business",
+      "diziid": "housemd",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./159/tehlikeli_is"
+    },
+    {
+      "season": 5,
+      "episode": 160,
+      "title": "The Confession",
+      "diziid": "housemd",
+      "bolum": "160",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./160/itiraf"
+    },
+    {
+      "season": 6,
+      "episode": 161,
+      "title": "Parents",
+      "diziid": "housemd",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./161/ebeveynler"
+    },
+    {
+      "season": 7,
+      "episode": 162,
+      "title": "Dead & Buried",
+      "diziid": "housemd",
+      "bolum": "162",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./162/yasak_olan_cezbeder"
+    },
+    {
+      "season": 8,
+      "episode": 163,
+      "title": "Perils of Paranoia",
+      "diziid": "housemd",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./163/paranoyanin_tehlikeleri"
+    },
+    {
+      "season": 9,
+      "episode": 164,
+      "title": "Better Half",
+      "diziid": "housemd",
+      "bolum": "164",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./164/hayat_arkadasi"
+    },
+    {
+      "season": 10,
+      "episode": 165,
+      "title": "Runaways",
+      "diziid": "housemd",
+      "bolum": "165",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./165/kacak"
+    },
+    {
+      "season": 11,
+      "episode": 166,
+      "title": "Nobody's Fault",
+      "diziid": "housemd",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./166/kimsenin_hatasi_degil"
+    },
+    {
+      "season": 12,
+      "episode": 167,
+      "title": "Chase",
+      "diziid": "housemd",
+      "bolum": "167",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./167/chase"
+    },
+    {
+      "season": 13,
+      "episode": 168,
+      "title": "Man of the House",
+      "diziid": "housemd",
+      "bolum": "168",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./168/evin_erkegi"
+    },
+    {
+      "season": 14,
+      "episode": 169,
+      "title": "Love Is Blind",
+      "diziid": "housemd",
+      "bolum": "169",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./169/askin_gozu_kordur"
+    },
+    {
+      "season": 15,
+      "episode": 170,
+      "title": "Blowing the Whistle",
+      "diziid": "housemd",
+      "bolum": "170",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./170/kararsiz"
+    },
+    {
+      "season": 16,
+      "episode": 171,
+      "title": "Gut Check",
+      "diziid": "housemd",
+      "bolum": "171",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./171/cesaret_sinavi"
+    },
+    {
+      "season": 17,
+      "episode": 172,
+      "title": "We Need the Eggs",
+      "diziid": "housemd",
+      "bolum": "172",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./172/kadinlar"
+    },
+    {
+      "season": 18,
+      "episode": 173,
+      "title": "Body and Soul",
+      "diziid": "housemd",
+      "bolum": "173",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./173/beden_ve_ruh"
+    },
+    {
+      "season": 19,
+      "episode": 174,
+      "title": "The C-Word",
+      "diziid": "housemd",
+      "bolum": "174",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./174/annelik_gorevi"
+    },
+    {
+      "season": 20,
+      "episode": 175,
+      "title": "Post Mortem",
+      "diziid": "housemd",
+      "bolum": "175",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./175/olum_sonrasi"
+    },
+    {
+      "season": 21,
+      "episode": 176,
+      "title": "Holding On",
+      "diziid": "housemd",
+      "bolum": "176",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./176/direnis"
+    },
+    {
+      "season": 22,
+      "episode": 177,
+      "title": "Everybody Dies",
+      "diziid": "housemd",
+      "bolum": "177",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./177/herkes_olur"
+    },
+    {
+      "season": 1,
+      "episode": 178,
+      "title": "House M.D. Swan Song",
+      "diziid": "housemd",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/housemd/house%2C_m.d./0/kugunun_sarkisi"
+    }
+  ]
+}

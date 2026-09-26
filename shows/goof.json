@@ -1,0 +1,628 @@
+{
+  "id": "goof",
+  "title": "goof'un takÄ±mÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/GOOFPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Everything's Coming Up Goofy",
+      "diziid": "goof",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/1/hayat_goofye_guzel"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Good Neighbor Goof",
+      "diziid": "goof",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/2/iyi_komsu_goof"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Axed by Addition",
+      "diziid": "goof",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/3/toplama_baltasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Unreal Estate",
+      "diziid": "goof",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/4/tekinsiz_menkul"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "You Camp Take It with You",
+      "diziid": "goof",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/5/bunu_kampa_goturemezsin"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Midnight Movie Madness",
+      "diziid": "goof",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/6/gece_yarisi_film_cilginligi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Queasy Rider",
+      "diziid": "goof",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/7/midesi_hassas_binici"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Counterfeit Goof",
+      "diziid": "goof",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/8/sahte_goof"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "O, R-V, I N-V U",
+      "diziid": "goof",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/9/o%2C_r-v%2C_i_n-v_u"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Meanwhile, Back at the Ramp",
+      "diziid": "goof",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/10/bu_sirada%2C_rampada"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Close Encounters of the Weird Mime",
+      "diziid": "goof",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/11/garip_pandomimciyle_yakin_karsilasmalar"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Slightly Dinghy",
+      "diziid": "goof",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/12/hafifce_saibeli"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Cabana Fever",
+      "diziid": "goof",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/13/kabana_atesi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Maximum Insecurity",
+      "diziid": "goof",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/14/maksimum_guvensizlik"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Where There's Smoke, There's Goof",
+      "diziid": "goof",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/15/dumanin_oldugu_yerde_goof_da_vardir"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Date with Destiny",
+      "diziid": "goof",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/16/kader_ile_bulusma"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Hot Air",
+      "diziid": "goof",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/17/sicak_hava"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Take Me Out of the Ball Game",
+      "diziid": "goof",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/18/beni_top_oyunundan_cikar"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Wrecks, Lies & Videotape",
+      "diziid": "goof",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/19/enkazlar%2C_yalanlar_ve_video_kaset"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Puppy Love",
+      "diziid": "goof",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/20/yavru_sevgisi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Max-imum Protection",
+      "diziid": "goof",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/21/maksimum_koruma"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Goofin' Hood and His Melancholy Men",
+      "diziid": "goof",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/22/goofin_hood_ve_melankoli_adamlar"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Leader of the Pack",
+      "diziid": "goof",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/23/surunun_lideri"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Inspector Goofy",
+      "diziid": "goof",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/24/mufettis_goofy"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Shake, Rattle & Goof",
+      "diziid": "goof",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/25/salla%2C_kivir_ve_goof"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Great Egg-Spectations",
+      "diziid": "goof",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/26/buyuk_yumurta_beklentileri"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Terminal Pete",
+      "diziid": "goof",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/27/son_pete"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Fool's Gold",
+      "diziid": "goof",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/28/sapsalin_altini"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Cat's Entertainment",
+      "diziid": "goof",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/29/kedi_eglencesi"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Waste Makes Haste",
+      "diziid": "goof",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/30/atik_acele_getirir"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "The Ungoofables",
+      "diziid": "goof",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/31/gooflanamayanlar"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Three Ring Bind",
+      "diziid": "goof",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/32/uc_halkali_baglama"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "All the Goof That's Fit to Print",
+      "diziid": "goof",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/33/yazmaya_uygun_tum_gooflar"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "To Heir Is Human",
+      "diziid": "goof",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/34/varislik_insanliktandir"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Hallow-Weenies",
+      "diziid": "goof",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/35/cadilar_sosisleri"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Tub Be or Not Tub Be",
+      "diziid": "goof",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/36/kuvet_olma_ya_da_kuvet_olmamak"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Major Goof",
+      "diziid": "goof",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/37/binbasi_goof"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Pistolgeist",
+      "diziid": "goof",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/38/pistol_gunlukleri"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "A Goof of the People",
+      "diziid": "goof",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/39/halkin_goofu"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Goof Under My Roof",
+      "diziid": "goof",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/40/catimin_altindaki_goof"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Goodbye Mr. Goofy",
+      "diziid": "goof",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/41/gule_gule_bay_goof"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Bringin' on the Rain",
+      "diziid": "goof",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/42/yagmuru_cagirmak"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Lethal Goofin'",
+      "diziid": "goof",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/43/olumcul_goofylik"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Frankengoof",
+      "diziid": "goof",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/44/frankengoof"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "E=MC Goof",
+      "diziid": "goof",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/45/e_esittir_mc_goof"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Pete's Day at the Races",
+      "diziid": "goof",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/46/petein_yaris_gunu"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "In Goof We Trust",
+      "diziid": "goof",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/47/goofa_guveniyoruz"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Talent to the Max",
+      "diziid": "goof",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/48/yetenekli_max"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "And Baby Makes Three",
+      "diziid": "goof",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/49/ve_bebek_uc_yapar"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "The Incredible Bulk",
+      "diziid": "goof",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/50/inanilmaz_bulk"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Mrs. Spoonerville",
+      "diziid": "goof",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/51/bayan_spoonerville"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "For Pete's Sake",
+      "diziid": "goof",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/52/petein_askina"
+    },
+    {
+      "season": 53,
+      "episode": 53,
+      "title": "Big City Blues",
+      "diziid": "goof",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/53/melankolik_buyuk_sehir"
+    },
+    {
+      "season": 54,
+      "episode": 54,
+      "title": "Tee for Two",
+      "diziid": "goof",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/54/iki_kisilik_oyun"
+    },
+    {
+      "season": 55,
+      "episode": 55,
+      "title": "Rally Round the Goof",
+      "diziid": "goof",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/55/goofun_etrafinda_toplanin"
+    },
+    {
+      "season": 56,
+      "episode": 56,
+      "title": "Window Pains",
+      "diziid": "goof",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/56/pencere_agrilari"
+    },
+    {
+      "season": 57,
+      "episode": 57,
+      "title": "Nightmare on Goof Street",
+      "diziid": "goof",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/57/goof_caddesinde_kabus"
+    },
+    {
+      "season": 58,
+      "episode": 58,
+      "title": "Where There's a Will, There's a Goof",
+      "diziid": "goof",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/58/istek_varsa_goof_da_vardir"
+    },
+    {
+      "season": 59,
+      "episode": 59,
+      "title": "Winter Blunderland",
+      "diziid": "goof",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/59/kis_faciasi"
+    },
+    {
+      "season": 60,
+      "episode": 60,
+      "title": "Goofin' Up the Social Ladder",
+      "diziid": "goof",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/60/sosyal_merdiveni_tirmanan_goof"
+    },
+    {
+      "season": 61,
+      "episode": 61,
+      "title": "Gymnauseum",
+      "diziid": "goof",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/61/spor_bulantilari"
+    },
+    {
+      "season": 62,
+      "episode": 62,
+      "title": "Come Fly with Me",
+      "diziid": "goof",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/62/gel_benimle_uc"
+    },
+    {
+      "season": 63,
+      "episode": 63,
+      "title": "As Goof Would Have It",
+      "diziid": "goof",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/63/goof_tarzi"
+    },
+    {
+      "season": 64,
+      "episode": 64,
+      "title": "Calling All Goofs",
+      "diziid": "goof",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/64/tum_gooflar_toplanin"
+    },
+    {
+      "season": 65,
+      "episode": 65,
+      "title": "Buddy Building",
+      "diziid": "goof",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/65/buddy_binasi"
+    },
+    {
+      "season": 66,
+      "episode": 66,
+      "title": "Sherlock Goof",
+      "diziid": "goof",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/66/sherlock_goof"
+    },
+    {
+      "season": 67,
+      "episode": 67,
+      "title": "Dr. Horatio's Magic Orchestra",
+      "diziid": "goof",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/67/dr._horationun_sihirli_orkestrasi"
+    },
+    {
+      "season": 68,
+      "episode": 68,
+      "title": "Goofs of a Feather",
+      "diziid": "goof",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/68/goof_goofu_ceker"
+    },
+    {
+      "season": 69,
+      "episode": 69,
+      "title": "Goof Fellas",
+      "diziid": "goof",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/69/goof_dostlar"
+    },
+    {
+      "season": 70,
+      "episode": 70,
+      "title": "The Good, the Bad, and the Goofy",
+      "diziid": "goof",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/70/iyi%2C_kotu_ve_goofy"
+    },
+    {
+      "season": 71,
+      "episode": 71,
+      "title": "Educating Goofy",
+      "diziid": "goof",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/71/goofyyi_egitmek"
+    },
+    {
+      "season": 72,
+      "episode": 72,
+      "title": "From Air to Eternity",
+      "diziid": "goof",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/72/havadan_sonsuzluga"
+    },
+    {
+      "season": 73,
+      "episode": 73,
+      "title": "Peg o' the Jungle",
+      "diziid": "goof",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/73/orman_pegi"
+    },
+    {
+      "season": 74,
+      "episode": 74,
+      "title": "Partners in Grime",
+      "diziid": "goof",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/74/grime_ortaklari"
+    },
+    {
+      "season": 75,
+      "episode": 75,
+      "title": "A Pizza the Action",
+      "diziid": "goof",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/75/bir_pizza_aksiyonu"
+    },
+    {
+      "season": 76,
+      "episode": 76,
+      "title": "To Catch a Goof",
+      "diziid": "goof",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/76/bir_goof_yakalamak"
+    },
+    {
+      "season": 78,
+      "episode": 77,
+      "title": "Clan of the Cave Goof",
+      "diziid": "goof",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/goof/goofun_takimi/78/magara_gooflari_klani"
+    }
+  ]
+}

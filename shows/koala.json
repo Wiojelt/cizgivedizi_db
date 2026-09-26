@@ -1,0 +1,77 @@
+{
+  "id": "koala",
+  "title": "koala man",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KOALAPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "AbsÃ¼rt",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Bin Day",
+      "diziid": "koala",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/koala/koala_man/1/cop_gunu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Deep Pockets",
+      "diziid": "koala",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/koala/koala_man/2/derin_cepler"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Red Hot Rule",
+      "diziid": "koala",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/koala/koala_man/3/kirmizi_sicak_kurali"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Great One",
+      "diziid": "koala",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/koala/koala_man/4/buyuk_olan"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Ode to a Koala Bear",
+      "diziid": "koala",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/koala/koala_man/5/bir_koala_ayisina_ovgu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Handies",
+      "diziid": "koala",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/koala/koala_man/6/hunerliler"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Emu War II",
+      "diziid": "koala",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/koala/koala_man/7/emu_savasi_ii"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Hot Christmas",
+      "diziid": "koala",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/koala/koala_man/8/sicak_noel"
+    }
+  ]
+}

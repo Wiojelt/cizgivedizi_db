@@ -1,0 +1,485 @@
+{
+  "id": "giva",
+  "title": "gizemli vakalar",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/GIVAPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "DoÄŸa ve Hayvanlar",
+    "Dedektif"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Mystery on the Monsoon Express",
+      "diziid": "giva",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/1/muson_ekspresi%26039%3Bndeki_gizem"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Riddle of Raging Rhinos/The Trouble in the Tundra",
+      "diziid": "giva",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/2/ofkeli_gergedanlar_bilmecesi__tundradaki_tuhaflik"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Puzzle of the Plummeting Eggs/The Missing Mole Rat Princess",
+      "diziid": "giva",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/3/dusen_yumurtalarin_gizemi__kostebek_faresi_prensesi_nerede"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Hunt for the Hidden Hive/The Trouble of the Toppled Trees",
+      "diziid": "giva",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/4/sakli_kovanin_pesinde__devrik_agaclar_sorunu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Mysterious Fruit Thief/The Riddle of the Wrestling Lizards",
+      "diziid": "giva",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/5/gizemli_meyve_hirsizi__guresci_kertenkeleler_bilmecesi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Disappearing Dung Ball/The Search for the Spotted Frog",
+      "diziid": "giva",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/6/kayip_gubre_topu__benekli_kurbagayi_ararken"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Case of the Big Chomp/The Secret of the Salt Cave",
+      "diziid": "giva",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/7/buyuk_isirik_vakasi__tuz_magarasinin_sirri"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Case of the Blue Bandit/The Honey Badger Break-In",
+      "diziid": "giva",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/8/mavi_haydut_vakasi__bal_porsugu_vakasi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Unidentified Shiny Object/The Case of the Crying Monkey",
+      "diziid": "giva",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/9/belirlenemeyen_parlak_cisim__aglayan_maymun_vakasi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Search for the Silver Ant Hill/The Search for the Swamp Snapper",
+      "diziid": "giva",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/10/gumus_karincalarinin_yuvasini_ararken__timsahin_pesinde"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Puzzle of the Poisonous Leaves/The Mystery of the Missing Hare",
+      "diziid": "giva",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/11/zehirli_yapraklar_bilmecesi__kayip_tavsanin_gizemi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Secret of the Sand Serpent/The Disappearance of Peggy Scratch",
+      "diziid": "giva",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/12/kum_yilaninin_sirri__peggy_scratch_nerede"
+    },
+    {
+      "season": 1,
+      "episode": 13,
+      "title": "The Missing Mammoth: A Holiday Mystery",
+      "diziid": "giva",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/13/kayip_mamut%3A_bir_noel_gizemi"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "The Forest Food Bandit/The Case of the Absent Giraffe",
+      "diziid": "giva",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/14/ormandaki_yemek_hirsizi__kayip_zurafa_vakasi"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "The Frozen Stowaways/The Puzzle of the Empty Pond",
+      "diziid": "giva",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/15/donmus_kacak_yolcular__bos_goletin_gizemi"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "The Undercover Hyena/The Stranger in the Burrow",
+      "diziid": "giva",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/16/gizli_sirtlan__cukurdaki_yabanci"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "The Bat Cave Crisis/The Mysterious Ant Circle",
+      "diziid": "giva",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/17/yarasa_magarasi_krizi__gizemli_karinca_cemberi"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "The Lost Capybara Kids/The Case of the Curious Keas",
+      "diziid": "giva",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/18/kayip_kapibara_yavrulari__merakli_papaganlar_vakasi"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "The Legend of the Night Howler/The Haystack Stakeout",
+      "diziid": "giva",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/19/gece_uluyan_efsanesi__saman_yigini_nobeti"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "The Case of the Scorpion's Sting/The Case of the Constant Dripping",
+      "diziid": "giva",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/20/akrep_sokmasi_vakasi__bitmeyen_damlama_vakasi"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "The Spider's Stolen Silk",
+      "diziid": "giva",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/21/orumcegin_calinan_ipegi"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "The Mystery in the Snow Maze",
+      "diziid": "giva",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/22/kar_labirentindeki_gizem"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "The Case of the Stinky Swamp",
+      "diziid": "giva",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/23/pis_kokulu_bataklik_vakasi"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "The Case of the Talking Tree",
+      "diziid": "giva",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/24/konusan_agac_vakasi"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "The Trail of the Tuatara",
+      "diziid": "giva",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/25/tuatara%26039%3Bnin_pesinde"
+    },
+    {
+      "season": 6,
+      "episode": 26,
+      "title": "The Disaster at the Dust Spa",
+      "diziid": "giva",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/26/toz_spasindaki_felaket"
+    },
+    {
+      "season": 7,
+      "episode": 27,
+      "title": "The Mysterious Swamp Rats",
+      "diziid": "giva",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/27/gizemli_bataklik_fareleri"
+    },
+    {
+      "season": 8,
+      "episode": 28,
+      "title": "The Vanishing of Mr. Blue",
+      "diziid": "giva",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/28/gizemli_bir_kayip_vakasi"
+    },
+    {
+      "season": 9,
+      "episode": 29,
+      "title": "The Bat Who Couldn't Remember",
+      "diziid": "giva",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/29/hafizasini_yitiren_yarasa"
+    },
+    {
+      "season": 10,
+      "episode": 30,
+      "title": "The Hidden Hitchhiker",
+      "diziid": "giva",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/30/gizli_otostopcu"
+    },
+    {
+      "season": 1,
+      "episode": 31,
+      "title": "The Mystery of the Missing Milk",
+      "diziid": "giva",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/31/kayip_sutun_gizemi"
+    },
+    {
+      "season": 2,
+      "episode": 32,
+      "title": "The Puzzle of the Pink Kangaroo",
+      "diziid": "giva",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/32/pembe_kanguru_bulmacasi"
+    },
+    {
+      "season": 3,
+      "episode": 33,
+      "title": "The Vanished Valentine",
+      "diziid": "giva",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/33/kaybolan_sevgili"
+    },
+    {
+      "season": 4,
+      "episode": 34,
+      "title": "The Secret of the Cracked Cocoon",
+      "diziid": "giva",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/34/catlak_kozanin_sirri"
+    },
+    {
+      "season": 5,
+      "episode": 35,
+      "title": "The Riddle of the Rash",
+      "diziid": "giva",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/35/kasinti_bilmecesi"
+    },
+    {
+      "season": 6,
+      "episode": 36,
+      "title": "The Mystery on Yeti Mountain",
+      "diziid": "giva",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/36/yeti_dagi%26039%3Bndaki_gizem"
+    },
+    {
+      "season": 7,
+      "episode": 37,
+      "title": "The Case of the Mislaid Egg",
+      "diziid": "giva",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/37/kaybolan_yumurta_vakasi"
+    },
+    {
+      "season": 8,
+      "episode": 38,
+      "title": "The Sneaky Stick Stealer",
+      "diziid": "giva",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/38/sinsi_cubuk_hirsizi"
+    },
+    {
+      "season": 1,
+      "episode": 39,
+      "title": "The Baffling Badger Affair",
+      "diziid": "giva",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/39/sasirtici_porsuk_olayi"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "The Beehive Burglar",
+      "diziid": "giva",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/41/kovan_hirsizi"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "The Shadow of the Sky Pirates",
+      "diziid": "giva",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/42/gokyuzu_korsanlarinin_pesinde"
+    },
+    {
+      "season": 3,
+      "episode": 42,
+      "title": "The Legend of Lemmingland",
+      "diziid": "giva",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/43/fare_diyari_efsanesi"
+    },
+    {
+      "season": 4,
+      "episode": 43,
+      "title": "The Riddle of the Lion's Roar",
+      "diziid": "giva",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/44/aslan_kukremesi_bilmecesi"
+    },
+    {
+      "season": 5,
+      "episode": 44,
+      "title": "The Burrow of the Booty Bumper",
+      "diziid": "giva",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/45/carpisan_totonun_yuvasi"
+    },
+    {
+      "season": 6,
+      "episode": 45,
+      "title": "The Missing Pack Member",
+      "diziid": "giva",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/46/kayip_suru_uyesi"
+    },
+    {
+      "season": 7,
+      "episode": 46,
+      "title": "The Invisible Frog",
+      "diziid": "giva",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/47/gorunmeyen_kurbaga"
+    },
+    {
+      "season": 8,
+      "episode": 47,
+      "title": "The Island of the Lost Rabbits",
+      "diziid": "giva",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/48/kayip_tavsanlar_adasi"
+    },
+    {
+      "season": 9,
+      "episode": 48,
+      "title": "The Mystery of the Missing Acorns",
+      "diziid": "giva",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/49/kayip_palamutlarin_sirri"
+    },
+    {
+      "season": 10,
+      "episode": 49,
+      "title": "The Thirsty Thief",
+      "diziid": "giva",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/50/susamis_hirsiz"
+    },
+    {
+      "season": 1,
+      "episode": 50,
+      "title": "The Case of the Lost Condors",
+      "diziid": "giva",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/51/kayip_kondorlar_vakasi"
+    },
+    {
+      "season": 2,
+      "episode": 51,
+      "title": "The Danger in the Lion's Den",
+      "diziid": "giva",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/52/aslan_inindeki_tehlike"
+    },
+    {
+      "season": 3,
+      "episode": 52,
+      "title": "The Secret of the Stinky Fruit",
+      "diziid": "giva",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/53/pis_kokulu_meyvenin_sirri"
+    },
+    {
+      "season": 4,
+      "episode": 53,
+      "title": "The Puzzle of the Panicking Penguins",
+      "diziid": "giva",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/54/panikleyen_penguenler_gizemi"
+    },
+    {
+      "season": 5,
+      "episode": 54,
+      "title": "The Hunt for the Hot Spring",
+      "diziid": "giva",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/55/kaplica_avi"
+    },
+    {
+      "season": 6,
+      "episode": 55,
+      "title": "The Creature in the Cave",
+      "diziid": "giva",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/56/magaradaki_yaratik"
+    },
+    {
+      "season": 7,
+      "episode": 56,
+      "title": "The CLADE Corn Caper",
+      "diziid": "giva",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/57/hayhada_misir_soygunu"
+    },
+    {
+      "season": 8,
+      "episode": 57,
+      "title": "The Search for the Enormous Snake",
+      "diziid": "giva",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/58/devasa_yilanin_pesinde"
+    },
+    {
+      "season": 9,
+      "episode": 58,
+      "title": "The Slimy Swamp Monster",
+      "diziid": "giva",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/59/balcikli_bataklik_canavari"
+    },
+    {
+      "season": 10,
+      "episode": 59,
+      "title": "The Case of the Travelling Twigs",
+      "diziid": "giva",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/giva/gizemli_vakalar/60/yuruyen_dallar_vakasi"
+    }
+  ]
+}

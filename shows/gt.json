@@ -1,0 +1,572 @@
+{
+  "id": "gt",
+  "title": "geyik takÄ±mÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/GTPoster.avif",
+  "channel": "Nick Jr.",
+  "genres": [
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Goodnight Central Forest / Steelzilla",
+      "diziid": "gt",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/1/iyi_geceler_merkez_ormani__celikzilla"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Save the Bees / Duck Dilemma",
+      "diziid": "gt",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/2/arilari_kurtarmak__ordek_karmasasi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Catfish Capers / Bubble Debacle",
+      "diziid": "gt",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/3/baligi_kurtarmak__baloncuk_felaketi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Kai Express / Ducknado",
+      "diziid": "gt",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/4/kai_ekspresi__ordek_hortumu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Donut Panic / I Scream",
+      "diziid": "gt",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/5/corek_panigi__dondurma_krizi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Deep Blue Boo Boo / Stuck Together",
+      "diziid": "gt",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/6/gol_canavari__hep_beraber"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Meteor Mayhem / Dance of Destruction",
+      "diziid": "gt",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/7/meteor_kargasasi___dans_felaketi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Fan Club / Speeding Steel",
+      "diziid": "gt",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/8/hayran_kulubu__hizli_celik"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Switcheroo / Protect the Egg",
+      "diziid": "gt",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/9/degisim__yumurtayi_koru"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Steel in Space / That's Magic",
+      "diziid": "gt",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/10/celik_uzayda__iste_bu_sihir%21"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Double Trouble / Box Not So Clever",
+      "diziid": "gt",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/11/cifte_bela__geri_donusum_kutulari"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Sky Art / The Great Race",
+      "diziid": "gt",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/12/gokyuzu_sanati__buyuk_yaris"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Doctor Steel Little / Astonished and Amazed",
+      "diziid": "gt",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/13/yavru_hayvanlar_sir_celik__saskin_ve_afallamis"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Attack of the Drones / Slime Time",
+      "diziid": "gt",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/14/drone_saldirisi__balcik_zamani"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Captain Steel / Wash Out",
+      "diziid": "gt",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/15/kaptan_celik__su_savasi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Gravity Calamity / Ball of Chaos",
+      "diziid": "gt",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/16/yer_cekimi_felaketi__kargasa_topu"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Lola's Air Display / Down the Sewers",
+      "diziid": "gt",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/17/lola%26039%3Bnin_hava_gosterisi__kanalizasyondan_asagi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Small Is Smashing / Pine Cone Power Up",
+      "diziid": "gt",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/18/super_kucuk__kozalak_guclendirici"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Steel Antlers / Berry Bad",
+      "diziid": "gt",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/19/celik_boynuzlar__kotu_meyveler"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Turnip for the Books / Magnet Maelstrom",
+      "diziid": "gt",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/20/devasa_turp__miknatis_girdabi"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "Over the Rainbow / We're Toast",
+      "diziid": "gt",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/21/gokkusagi_macerasi__tost_pesinde"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "Muffin in Space / Fizzy Frenzy",
+      "diziid": "gt",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/22/corek_uzayda__gazoz_cilginligi"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "Were Wig on the Loose / Lights Camera Action",
+      "diziid": "gt",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/23/peruk_firarda__isiklar_kamera_kayit"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "Raining Teddies / Party People",
+      "diziid": "gt",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/24/ayicik_yagmuru__particiler"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "The Wig of Power / The Duck Who Parped Wolf",
+      "diziid": "gt",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/25/peruk_gucu__kurt_diye_bagiran_ordek"
+    },
+    {
+      "season": 6,
+      "episode": 26,
+      "title": "Satellite Flight / Diamond Geezer",
+      "diziid": "gt",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/26/uyduya_yolculuk__elmas_pesinde"
+    },
+    {
+      "season": 7,
+      "episode": 27,
+      "title": "Jump Up and Get Down / What's Up Lola",
+      "diziid": "gt",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/27/zipla_ve_in__lola%26039%3Bnin_nesi_var"
+    },
+    {
+      "season": 8,
+      "episode": 28,
+      "title": "Crystal Catastrophe / Good Steel Bad Steel",
+      "diziid": "gt",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/28/kristal_faciasi__iyi_celik_kotu_celik"
+    },
+    {
+      "season": 9,
+      "episode": 29,
+      "title": "Lady Monkey Mech / Critter Care Calamity",
+      "diziid": "gt",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/29/lady_maymun_kostumunde__hayvan_bakimi_felaketi"
+    },
+    {
+      "season": 10,
+      "episode": 30,
+      "title": "The Supersized Sunflower / Moontaker",
+      "diziid": "gt",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/30/dev_gibi_aycicegi__ay_hirsizi"
+    },
+    {
+      "season": 11,
+      "episode": 31,
+      "title": "Every Cloud / Rainbow Comet Rush",
+      "diziid": "gt",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/31/seker_bulutlar__gokkusagi_kuyruklu_yildizi_telasi"
+    },
+    {
+      "season": 12,
+      "episode": 32,
+      "title": "The Big Bug Hunt / Deer Ball",
+      "diziid": "gt",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/32/buyuk_bocek_avi__geyik_topu"
+    },
+    {
+      "season": 13,
+      "episode": 33,
+      "title": "Game Over / Forever Young",
+      "diziid": "gt",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/33/oyun_bitti__her_daim_genc"
+    },
+    {
+      "season": 14,
+      "episode": 34,
+      "title": "Tiny Heroes / Big Face in Space",
+      "diziid": "gt",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/34/minik_kahramanlar__uzayda_kocaman_bir_yuz"
+    },
+    {
+      "season": 15,
+      "episode": 35,
+      "title": "Treasure Park / Baddy Long Legs",
+      "diziid": "gt",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/35/hazine_arazisi__belali_uzun_bacaklar"
+    },
+    {
+      "season": 16,
+      "episode": 36,
+      "title": "Wheel of Steel / Bobbi's Bongos",
+      "diziid": "gt",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/36/celik_cark__bobbi%26039%3Bnin_bongolari"
+    },
+    {
+      "season": 17,
+      "episode": 37,
+      "title": "Fountain Fiasco / Night of the Disco Lights",
+      "diziid": "gt",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/37/cesme_fiyaskosu__disko_isiklari_gecesi"
+    },
+    {
+      "season": 18,
+      "episode": 38,
+      "title": "Cosmic Circus / A Hole Lot of Trouble",
+      "diziid": "gt",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/38/kozmik_sirk__dev_cukur_sorunu"
+    },
+    {
+      "season": 19,
+      "episode": 39,
+      "title": "Den Build Disaster / Winter Lights",
+      "diziid": "gt",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/39/yuva_felaketi__kis_isiklari"
+    },
+    {
+      "season": 20,
+      "episode": 40,
+      "title": "Dinobot / Forest Squad in Space",
+      "diziid": "gt",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/40/dinobot__orman_takimi_uzayda"
+    },
+    {
+      "season": 1,
+      "episode": 41,
+      "title": "Nubble Trouble / Bouncing Boulders",
+      "diziid": "gt",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/41/nubble_belasi__ziplayan_kayalar"
+    },
+    {
+      "season": 2,
+      "episode": 42,
+      "title": "The Space Station Mystery / Crystal Cracks",
+      "diziid": "gt",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/42/uzay_istasyonu_gizemi__kristal_karmasasi"
+    },
+    {
+      "season": 3,
+      "episode": 43,
+      "title": "Runaway Hamster Ball / The Perfectinator",
+      "diziid": "gt",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/43/kacak_hamster_topu__mukemmellestirici"
+    },
+    {
+      "season": 4,
+      "episode": 44,
+      "title": "The Secret Island / The Name's Chomp",
+      "diziid": "gt",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/44/gizli_ada__adi_kitir"
+    },
+    {
+      "season": 5,
+      "episode": 45,
+      "title": "The Crystal of Strength / Clamity",
+      "diziid": "gt",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/45/guc_kristali__istiridye"
+    },
+    {
+      "season": 6,
+      "episode": 46,
+      "title": "Baby Steel / Joke's on You",
+      "diziid": "gt",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/46/bebek_celik__sakaci_sakalaninca"
+    },
+    {
+      "season": 7,
+      "episode": 47,
+      "title": "Deep Dive / Firefruit Surprise",
+      "diziid": "gt",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/47/derinlere_dalis__ates_meyvesi_surprizi"
+    },
+    {
+      "season": 8,
+      "episode": 48,
+      "title": "Astrobot / Cactus-trophe",
+      "diziid": "gt",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/48/astrobot__kaktus_felaketi"
+    },
+    {
+      "season": 9,
+      "episode": 49,
+      "title": "Sandcastle Calamity / Owl-Ert",
+      "diziid": "gt",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/49/kumdan_kale_felaketi__baykus_ekibi"
+    },
+    {
+      "season": 10,
+      "episode": 50,
+      "title": "Going Off with a Bang / Talent for Trouble",
+      "diziid": "gt",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/50/bir_patlamayla_baslamak__dert_cikarma_yetenegi"
+    },
+    {
+      "season": 11,
+      "episode": 51,
+      "title": "Treasure Ship / Sleepover on Sparkle Island",
+      "diziid": "gt",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/51/hazine_gemisi__kivilcim_adasinda_pijama_partisi"
+    },
+    {
+      "season": 12,
+      "episode": 52,
+      "title": "Bats All Folks / The Handbag of Doom",
+      "diziid": "gt",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/52/yarasalar_dostlar__canta_karmasasi"
+    },
+    {
+      "season": 13,
+      "episode": 53,
+      "title": "Penguin Panic / Cave Conundrum",
+      "diziid": "gt",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/53/penguen_karmasasi__magara_cikmazi"
+    },
+    {
+      "season": 14,
+      "episode": 54,
+      "title": "Adventure Camp / Colour Drain",
+      "diziid": "gt",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/54/macera_kampi__renk_hirsizi"
+    },
+    {
+      "season": 15,
+      "episode": 55,
+      "title": "Inventor's Block / A Sticky Situation",
+      "diziid": "gt",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/55/mucit_tikanmasi__yapiskan_sorunu"
+    },
+    {
+      "season": 16,
+      "episode": 56,
+      "title": "Doors Galore / No Rules Day",
+      "diziid": "gt",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/56/bir_suru_kapi__kuralsiz_gun"
+    },
+    {
+      "season": 17,
+      "episode": 57,
+      "title": "Catherine and the Slime Crocs / Forest Flyer",
+      "diziid": "gt",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/57/catherine_ve_bataklik_timsahlari__orman_cambazi"
+    },
+    {
+      "season": 18,
+      "episode": 58,
+      "title": "Whale of a Time / The Ice Troll",
+      "diziid": "gt",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/58/balina_macerasi__buz_devi"
+    },
+    {
+      "season": 19,
+      "episode": 59,
+      "title": "Monster Mix-up / Space Station Staycation",
+      "diziid": "gt",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/59/canavar_karmasasi__uzay_istasyonu_tatili"
+    },
+    {
+      "season": 20,
+      "episode": 60,
+      "title": "Hide and Sea / Mountain of Fun",
+      "diziid": "gt",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/60/denizde_saklambac__dagda_eglence"
+    },
+    {
+      "season": 1,
+      "episode": 61,
+      "title": "Out of the ICE Part 1 / Out of the ICE Part 2",
+      "diziid": "gt",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/61/buzdan_cikis"
+    },
+    {
+      "season": 2,
+      "episode": 62,
+      "title": "Buns in Space / Scratch and Sniff",
+      "diziid": "gt",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/62/uzaydaki_ekmekler__kazi_ve_kokla"
+    },
+    {
+      "season": 3,
+      "episode": 63,
+      "title": "Penguin Peril / Fix It Fair",
+      "diziid": "gt",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/63/penguen_tehlikesi__onarim_fuari"
+    },
+    {
+      "season": 4,
+      "episode": 64,
+      "title": "Dojobot / A Shark's Life",
+      "diziid": "gt",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/64/dojobot__bir_kopek_baliginin_hayati"
+    },
+    {
+      "season": 5,
+      "episode": 65,
+      "title": "Strength of Steel / Bubbles Bubbles Lot of Troubles",
+      "diziid": "gt",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/65/celikin_gucu__kopuk%2C_kopuk%2C_bolca_sorun"
+    },
+    {
+      "season": 6,
+      "episode": 66,
+      "title": "Slushy Storm / Cowboy Steel",
+      "diziid": "gt",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/66/buzlu_firtina__kovboy_celik"
+    },
+    {
+      "season": 7,
+      "episode": 67,
+      "title": "Rise of the Sub-Zero Sub / Balloon Bonanza",
+      "diziid": "gt",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/67/sifirin_alti_denizaltisinin_yukselisi__balon_cilginligi"
+    },
+    {
+      "season": 8,
+      "episode": 68,
+      "title": "Steel Man Steel / The Mystery Heroes",
+      "diziid": "gt",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/68/celik_adam_celik__gizemli_kahramanlar"
+    },
+    {
+      "season": 9,
+      "episode": 69,
+      "title": "Winter Is Coming / Kite Fright",
+      "diziid": "gt",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/69/kis_geliyor__ucurtma_korkusu"
+    },
+    {
+      "season": 10,
+      "episode": 70,
+      "title": "Musical Mayhem / Dinobadbot",
+      "diziid": "gt",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/gt/geyik_takimi/70/muzikal_kargasa__dino-kotu-bot"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "sigmund",
+  "title": "sigmund ve deniz canavarlarÄ±",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/SIGMVDCPoste.avif",
+  "channel": "Prime Video",
+  "genres": [
+    "Komedi",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "sigmund",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/sigmund/sigmund_ve_deniz_canavarlari/1/pilot"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Finding Sigmund",
+      "diziid": "sigmund",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/sigmund/sigmund_ve_deniz_canavarlari/2/sigmundi_bulma"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Dibs",
+      "diziid": "sigmund",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/sigmund/sigmund_ve_deniz_canavarlari/3/benimdir%21"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Robyn Has A Gift",
+      "diziid": "sigmund",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/sigmund/sigmund_ve_deniz_canavarlari/4/robynnin_hediyesi_var"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Squid Stays in The Picture",
+      "diziid": "sigmund",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/sigmund/sigmund_ve_deniz_canavarlari/5/murekkep_baligi_resimde_kalir"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Sigmund And The Sand Castle Contest",
+      "diziid": "sigmund",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/sigmund/sigmund_ve_deniz_canavarlari/6/sigmund_ve_kumdan_kale_yarismasi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Treasure of Sigmund's Madre",
+      "diziid": "sigmund",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/sigmund/sigmund_ve_deniz_canavarlari/7/sigmundin_mercan_hazinesi"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "id": "prns",
+  "title": "power rangers ninja steel",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/PRNSPoster.avif",
+  "channel": "Planet Ã‡ocuk",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Return of the Prism",
+      "diziid": "prns",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/1/prizmanin_donusu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Forged in Steel",
+      "diziid": "prns",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/2/celikten_dovulmus"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Live and Learn",
+      "diziid": "prns",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/3/yasa_ve_ogren"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Presto Chango-O",
+      "diziid": "prns",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/4/degisim"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Drive to Survive",
+      "diziid": "prns",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/5/hayatta_kalmak_icin_sur"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "My Friend, Redbot",
+      "diziid": "prns",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/6/arkadasim_redbot"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Hack Attack",
+      "diziid": "prns",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/7/siber_saldiri"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Gold Rush",
+      "diziid": "prns",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/8/altin_pesinde"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Rocking & Rolling",
+      "diziid": "prns",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/9/deprem"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Ranger Ribbon",
+      "diziid": "prns",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/10/ranger_kurdelesi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Poisonous Plots",
+      "diziid": "prns",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/11/zehirli_planlar"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Family Fusion",
+      "diziid": "prns",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/12/aile_fuzyonu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Ace and the Race",
+      "diziid": "prns",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/13/ace_ve_yaris"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Royal Rival",
+      "diziid": "prns",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/14/kraliyet_rakibi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Royal Rumble",
+      "diziid": "prns",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/15/kraliyet_karmasasi"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "Monkey Business",
+      "diziid": "prns",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/17/yalan_dolan"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "The Adventures of Redbot",
+      "diziid": "prns",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/18/redbotun_maceralari"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "Abrakadanger",
+      "diziid": "prns",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/19/abrakatehlike"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "Helping Hand",
+      "diziid": "prns",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/prns/power_rangers_ninja_steel/20/yardim_eli"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "id": "poca",
+  "title": "pocahontas",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/POCAPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Departure",
+      "diziid": "poca",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/1/hareket"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "A New Friend",
+      "diziid": "poca",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/2/yeni_bir_arkadas"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Niagara Falls",
+      "diziid": "poca",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/3/niagara_selaleleri"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Great Gathering",
+      "diziid": "poca",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/4/buyuk_toplanma"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Heading North",
+      "diziid": "poca",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/5/kuzeye_yolculuk"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Midnight Sun",
+      "diziid": "poca",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/6/geceyarisi_gunesi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Frozen Wastes",
+      "diziid": "poca",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/7/donmus_coller"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Heading for Another Sea",
+      "diziid": "poca",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/8/baska_denize_dogru"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Heading for California",
+      "diziid": "poca",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/9/kaliforniyaya_yolculuk"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Basket Makers",
+      "diziid": "poca",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/10/sepet_yapanlar"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Future King of the Prairie",
+      "diziid": "poca",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/11/buyuk_ovanin_gelecegi_krali"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Twin Falls",
+      "diziid": "poca",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/12/ikiz_selaleler"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The People of the River and the High Plateau",
+      "diziid": "poca",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/13/nehir_ve_yuksek_platonun_halki"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Heading for Bison Country",
+      "diziid": "poca",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/14/bison_ulkesine_yolculuk"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Lords of the Prairie",
+      "diziid": "poca",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/15/buyuk_ovanin_efendileri"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Bison Country",
+      "diziid": "poca",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/16/bison_ulkesi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Heading for Canyon Country",
+      "diziid": "poca",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/17/kanyon_ulkesine_yolculuk"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Great Battle",
+      "diziid": "poca",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/18/buyuk_savas"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Victory Celebration",
+      "diziid": "poca",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/19/zafer_kutlamasi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Blue Star",
+      "diziid": "poca",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/20/mavi_yildiz"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Journey to Cahokia",
+      "diziid": "poca",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/21/cahokiaya_yolculuk"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "The Sacred City",
+      "diziid": "poca",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/22/kutsal_sehir"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Heading for the Smoking Mountains",
+      "diziid": "poca",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/23/dumanli_daglara_yolculuk"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Heart of a Unique World",
+      "diziid": "poca",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/24/essiz_bir_dunyanin_kalbi"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "From Tenochtitlan to the Condor Mountains",
+      "diziid": "poca",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/25/tenochtitlandan_condor_daglarina"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The Homecoming",
+      "diziid": "poca",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/poca/pocahontas/26/donus"
+    }
+  ]
+}

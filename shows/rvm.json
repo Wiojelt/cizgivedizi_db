@@ -1,0 +1,741 @@
+{
+  "id": "rvm",
+  "title": "rick ve morty",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/RVMPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Bilim Kurgu",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "rvm",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/1/pilot_bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Lawnmower Dog",
+      "diziid": "rvm",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/2/teknolojik_kopek"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Anatomy Park",
+      "diziid": "rvm",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/3/anatomi_parki"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "M. Night Shaym-Aliens!",
+      "diziid": "rvm",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/4/sanal_gercekler"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Meeseeks and Destroy",
+      "diziid": "rvm",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/5/meeseeks_hizmetinizde"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Rick Potion #9",
+      "diziid": "rvm",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/6/ask_iksiri"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Raising Gazorpazorp",
+      "diziid": "rvm",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/7/gazorpazorpu_buyutmek"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Rixty Minutes",
+      "diziid": "rvm",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/8/rickmis_dakika"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Something Ricked This Way Comes",
+      "diziid": "rvm",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/9/ricksiz_bir_sey_geliyor"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Close Rick-counters of the Rick Kind",
+      "diziid": "rvm",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/10/rickinci_turden_ricklesmeler"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Ricksy Business",
+      "diziid": "rvm",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/11/ricksli_is"
+    },
+    {
+      "season": 1,
+      "episode": 12,
+      "title": "A Rickle in Time",
+      "diziid": "rvm",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/12/nerede_kalmistik"
+    },
+    {
+      "season": 2,
+      "episode": 13,
+      "title": "Mortynight Run",
+      "diziid": "rvm",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/13/morty_av_pesinde"
+    },
+    {
+      "season": 3,
+      "episode": 14,
+      "title": "Auto Erotic Assimilation",
+      "diziid": "rvm",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/14/erotik_asimilasyon"
+    },
+    {
+      "season": 4,
+      "episode": 15,
+      "title": "Total Rickall",
+      "diziid": "rvm",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/15/uzayli_parazitler"
+    },
+    {
+      "season": 5,
+      "episode": 16,
+      "title": "Get Schwifty",
+      "diziid": "rvm",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/16/schwiftylenme_zamani"
+    },
+    {
+      "season": 6,
+      "episode": 17,
+      "title": "The Ricks Must Be Crazy",
+      "diziid": "rvm",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/17/rick_cildirmis_olmali"
+    },
+    {
+      "season": 7,
+      "episode": 18,
+      "title": "Big Trouble in Little Sanchez",
+      "diziid": "rvm",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/18/evlilik_terapisi"
+    },
+    {
+      "season": 8,
+      "episode": 19,
+      "title": "Interdimensional Cable 2: Tempting Fate",
+      "diziid": "rvm",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/19/boyutlar_arasi_kablo_tv_2%3A_kiskirtici_kader"
+    },
+    {
+      "season": 9,
+      "episode": 20,
+      "title": "Look Who's Purging Now",
+      "diziid": "rvm",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/20/bak_su_arinana"
+    },
+    {
+      "season": 10,
+      "episode": 21,
+      "title": "The Wedding Squanchers",
+      "diziid": "rvm",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/21/dugun"
+    },
+    {
+      "season": 1,
+      "episode": 22,
+      "title": "The Rickshank Rickdemption",
+      "diziid": "rvm",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/22/esarickin_bedeli"
+    },
+    {
+      "season": 2,
+      "episode": 23,
+      "title": "Rickmancing the Stone",
+      "diziid": "rvm",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/23/rickazonda_firtina"
+    },
+    {
+      "season": 3,
+      "episode": 24,
+      "title": "Pickle Rick",
+      "diziid": "rvm",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/24/tursu_rick"
+    },
+    {
+      "season": 4,
+      "episode": 25,
+      "title": "Vindicators 3: The Return of Worldender",
+      "diziid": "rvm",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/25/koruyucular_3%3A_dunya_yok_edenin_donusu"
+    },
+    {
+      "season": 5,
+      "episode": 26,
+      "title": "The Whirly Dirly Conspiracy",
+      "diziid": "rvm",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/26/dolambacli_halkalar_komplosu"
+    },
+    {
+      "season": 6,
+      "episode": 27,
+      "title": "Rest and Ricklaxation",
+      "diziid": "rvm",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/27/dinlenme_ve_ricktirahat"
+    },
+    {
+      "season": 7,
+      "episode": 28,
+      "title": "The Ricklantis Mixup",
+      "diziid": "rvm",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/28/ricklantiste_karisiklik"
+    },
+    {
+      "season": 8,
+      "episode": 29,
+      "title": "Morty's Mind Blowers",
+      "diziid": "rvm",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/29/mortynin_kafa_patlatanlari"
+    },
+    {
+      "season": 9,
+      "episode": 30,
+      "title": "The ABC's of Beth",
+      "diziid": "rvm",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/30/bethin_abecesi"
+    },
+    {
+      "season": 10,
+      "episode": 31,
+      "title": "The Rickchurian Mortydate",
+      "diziid": "rvm",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/31/rickcuryali_mortaday"
+    },
+    {
+      "season": 1,
+      "episode": 32,
+      "title": "Edge of Tomorty: Rick Die Rickpeat",
+      "diziid": "rvm",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/32/mortynin_sinirinda%3A_rick%2C_ol%2C_canlan"
+    },
+    {
+      "season": 2,
+      "episode": 33,
+      "title": "The Old Man and the Seat",
+      "diziid": "rvm",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/33/ihtiyar_adam_ve_klozet"
+    },
+    {
+      "season": 3,
+      "episode": 34,
+      "title": "One Crew over the Crewcoo's Morty",
+      "diziid": "rvm",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/34/soygun_ekibi"
+    },
+    {
+      "season": 4,
+      "episode": 35,
+      "title": "Claw and Hoarder: Special Ricktim's Morty",
+      "diziid": "rvm",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/35/pence_ve_kanat%3A_mortynin_yeni_ev_hayvani"
+    },
+    {
+      "season": 5,
+      "episode": 36,
+      "title": "Rattlestar Ricklactica",
+      "diziid": "rvm",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/36/uzayda_yilan_macerasi"
+    },
+    {
+      "season": 6,
+      "episode": 37,
+      "title": "Never Ricking Morty",
+      "diziid": "rvm",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/37/rick_asagi%2C_rick_yukari"
+    },
+    {
+      "season": 7,
+      "episode": 38,
+      "title": "Promortyus",
+      "diziid": "rvm",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/38/yuz_emiciler"
+    },
+    {
+      "season": 8,
+      "episode": 39,
+      "title": "The Vat of Acid Episode",
+      "diziid": "rvm",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/39/asit_varili_bolumu"
+    },
+    {
+      "season": 9,
+      "episode": 40,
+      "title": "Childrick of Mort",
+      "diziid": "rvm",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/40/mortun_cocukricki"
+    },
+    {
+      "season": 10,
+      "episode": 41,
+      "title": "Star Mort Rickturn of the Jerri",
+      "diziid": "rvm",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/41/kahraman_aile_dunyayi_kurtariyor"
+    },
+    {
+      "season": 1,
+      "episode": 42,
+      "title": "Mort Dinner Rick Andre",
+      "diziid": "rvm",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/42/rick_andre_ile_aksam_yemegi"
+    },
+    {
+      "season": 2,
+      "episode": 43,
+      "title": "Mortyplicity",
+      "diziid": "rvm",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/43/yem_aileler"
+    },
+    {
+      "season": 3,
+      "episode": 44,
+      "title": "A Rickconvenient Mort",
+      "diziid": "rvm",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/44/mortynin_ekolojik_aski"
+    },
+    {
+      "season": 4,
+      "episode": 45,
+      "title": "A Rickdependence Spray",
+      "diziid": "rvm",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/45/kurturick_gunu"
+    },
+    {
+      "season": 5,
+      "episode": 46,
+      "title": "Amortycan Grickfitti",
+      "diziid": "rvm",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/46/ricklik_yillari"
+    },
+    {
+      "season": 6,
+      "episode": 47,
+      "title": "Rick & Morty's Thanksploitation Spectacular",
+      "diziid": "rvm",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/47/rick_ve_mortynin_sukran_gunu_gosterhindisi"
+    },
+    {
+      "season": 7,
+      "episode": 48,
+      "title": "Gotron Jerrysis Rickvangelion",
+      "diziid": "rvm",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/48/gotron_jerrysis_rickvangelian"
+    },
+    {
+      "season": 8,
+      "episode": 49,
+      "title": "Rickternal Friendshine of the Spotless Mort",
+      "diziid": "rvm",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/49/rick_basmorttan"
+    },
+    {
+      "season": 9,
+      "episode": 50,
+      "title": "Forgetting Sarick Mortshall",
+      "diziid": "rvm",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/50/rickzede"
+    },
+    {
+      "season": 10,
+      "episode": 51,
+      "title": "Rickmurai Jack",
+      "diziid": "rvm",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/51/rickmuray_jack"
+    },
+    {
+      "season": 1,
+      "episode": 52,
+      "title": "Solaricks",
+      "diziid": "rvm",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/52/solaricks"
+    },
+    {
+      "season": 2,
+      "episode": 53,
+      "title": "Rick: A Mort Well Lived",
+      "diziid": "rvm",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/53/rick%3A_mortun_iyi_yasanmis_hayati"
+    },
+    {
+      "season": 3,
+      "episode": 54,
+      "title": "Bethic Twinstinct",
+      "diziid": "rvm",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/54/bethin_temel_icgudusu"
+    },
+    {
+      "season": 4,
+      "episode": 55,
+      "title": "Night Family",
+      "diziid": "rvm",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/55/gece_ailesi"
+    },
+    {
+      "season": 5,
+      "episode": 56,
+      "title": "Final DeSmithation",
+      "diziid": "rvm",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/56/son_smith_duragi"
+    },
+    {
+      "season": 6,
+      "episode": 57,
+      "title": "JuRicksic Mort",
+      "diziid": "rvm",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/57/juricksic_mort"
+    },
+    {
+      "season": 7,
+      "episode": 58,
+      "title": "Full Meta Jackrick",
+      "diziid": "rvm",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/58/meta_jackrick"
+    },
+    {
+      "season": 8,
+      "episode": 59,
+      "title": "Analyze Piss",
+      "diziid": "rvm",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/59/sidikli_oda"
+    },
+    {
+      "season": 9,
+      "episode": 60,
+      "title": "A Rick in King Mortur's Mort",
+      "diziid": "rvm",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/60/kral_morturun_sarayindaki_rick"
+    },
+    {
+      "season": 10,
+      "episode": 61,
+      "title": "Ricktional Mortpoon's Rickmas Mortcation",
+      "diziid": "rvm",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/61/cilgin_aile_rickbasi_mortilinde"
+    },
+    {
+      "season": 1,
+      "episode": 62,
+      "title": "How Poopy Got His Poop Back",
+      "diziid": "rvm",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/62/mudahale"
+    },
+    {
+      "season": 2,
+      "episode": 63,
+      "title": "The Jerrick Trap",
+      "diziid": "rvm",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/63/jerrick_tuzagi"
+    },
+    {
+      "season": 3,
+      "episode": 64,
+      "title": "Air Force Wong",
+      "diziid": "rvm",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/64/hava_kuvvetleri_wong"
+    },
+    {
+      "season": 4,
+      "episode": 65,
+      "title": "That's Amorte",
+      "diziid": "rvm",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/65/rickin_meshur_spagettisi"
+    },
+    {
+      "season": 5,
+      "episode": 66,
+      "title": "Unmortricken",
+      "diziid": "rvm",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/66/kotu_mortynin_donusu"
+    },
+    {
+      "season": 6,
+      "episode": 67,
+      "title": "Rickfending Your Mort",
+      "diziid": "rvm",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/67/mort_savunmaya_deger"
+    },
+    {
+      "season": 7,
+      "episode": 68,
+      "title": "Wet Kuat Amortican Summer",
+      "diziid": "rvm",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/68/morty%2C_summer_ve_curcuna"
+    },
+    {
+      "season": 8,
+      "episode": 69,
+      "title": "Rise of the Numbericons: The Movie",
+      "diziid": "rvm",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/69/rakamikonlarin_yukselisi%3A_film"
+    },
+    {
+      "season": 9,
+      "episode": 70,
+      "title": "Mort: Ragnarick",
+      "diziid": "rvm",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/70/mort%3A_ragnarick"
+    },
+    {
+      "season": 10,
+      "episode": 71,
+      "title": "Fear No Mort",
+      "diziid": "rvm",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/71/artik_korkma_mort"
+    },
+    {
+      "season": 1,
+      "episode": 72,
+      "title": "Summer of All Fears",
+      "diziid": "rvm",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/72/tum_korkularin_summeri"
+    },
+    {
+      "season": 2,
+      "episode": 73,
+      "title": "Valkyrick",
+      "diziid": "rvm",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/73/valkyrick"
+    },
+    {
+      "season": 3,
+      "episode": 74,
+      "title": "The Rick, The Mort & The Ugly",
+      "diziid": "rvm",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/74/rick%2C_morty_ve_cirkin"
+    },
+    {
+      "season": 4,
+      "episode": 75,
+      "title": "The Last Temptation of Jerry",
+      "diziid": "rvm",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/75/jerry%E2%80%99nin_son_bastan_cikisi"
+    },
+    {
+      "season": 5,
+      "episode": 76,
+      "title": "Cryo Mort a Rickver",
+      "diziid": "rvm",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/76/kriyojenik_gemi"
+    },
+    {
+      "season": 6,
+      "episode": 77,
+      "title": "The Curicksous Case of Bethjamin Button",
+      "diziid": "rvm",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/77/bethjamin_buttonin_davasi"
+    },
+    {
+      "season": 7,
+      "episode": 78,
+      "title": "Ricker Than Fiction",
+      "diziid": "rvm",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/78/rickten_daha_garip"
+    },
+    {
+      "season": 8,
+      "episode": 79,
+      "title": "Nomortland",
+      "diziid": "rvm",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/79/olum_ulkesi"
+    },
+    {
+      "season": 9,
+      "episode": 80,
+      "title": "Morty Daddy",
+      "diziid": "rvm",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/80/baba_morty"
+    },
+    {
+      "season": 10,
+      "episode": 81,
+      "title": "Hot Rick",
+      "diziid": "rvm",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/81/atesli_rick"
+    },
+    {
+      "season": 1,
+      "episode": 82,
+      "title": "There's Something About Morty",
+      "diziid": "rvm",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/82/mortyde_bir_sey_var"
+    },
+    {
+      "season": 2,
+      "episode": 83,
+      "title": "Ricks Days, Seven Nights",
+      "diziid": "rvm",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/83/rick_gun%2C_yedi_gece"
+    },
+    {
+      "season": 3,
+      "episode": 84,
+      "title": "Rick Fu Hustle",
+      "diziid": "rvm",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/84/rick_fu_sokagi"
+    },
+    {
+      "season": 4,
+      "episode": 85,
+      "title": "A Ricker Runs Through It",
+      "diziid": "rvm",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/85/icinden_bir_rick_gecer"
+    },
+    {
+      "season": 5,
+      "episode": 86,
+      "title": "Jer Bud",
+      "diziid": "rvm",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/86/jerrynin_can_dostu"
+    },
+    {
+      "season": 6,
+      "episode": 87,
+      "title": "Erickerhead",
+      "diziid": "rvm",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/87/rick_kafa"
+    },
+    {
+      "season": 7,
+      "episode": 88,
+      "title": "Mortgully: The Last Rickforest",
+      "diziid": "rvm",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/88/morty_vadisi%3A_son_rick_ormani"
+    },
+    {
+      "season": 8,
+      "episode": 89,
+      "title": "Rickuiem Mort a Dream",
+      "diziid": "rvm",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/89/mortynin_ruyasina_rick_agidi"
+    },
+    {
+      "season": 9,
+      "episode": 90,
+      "title": "Salute Your Morts",
+      "diziid": "rvm",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/90/mortylere_selam_dur"
+    },
+    {
+      "season": 10,
+      "episode": 91,
+      "title": "Field of Dreams",
+      "diziid": "rvm",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/rvm/rick_ve_morty/91/dusler_tarlasi"
+    }
+  ]
+}

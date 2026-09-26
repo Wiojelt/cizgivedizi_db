@@ -1,0 +1,613 @@
+{
+  "id": "evs",
+  "title": "elma ve soÄŸan",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/EVSPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "A New Life",
+      "diziid": "evs",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/1/yeni_bir_hayat"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Perfect Team",
+      "diziid": "evs",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/2/mukemmel_ekip"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Tips",
+      "diziid": "evs",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/3/bahsis"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Falafel's Fun Day",
+      "diziid": "evs",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/4/nohut_koftesinin_eglence_gunu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Apple's In Trouble",
+      "diziid": "evs",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/5/elmanin_basi_belada"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "4 on 1",
+      "diziid": "evs",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/6/4e_1"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Hotdog's Movie Premiere",
+      "diziid": "evs",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/7/sosislinin_film_galasi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Bottle Catch",
+      "diziid": "evs",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/8/sise_yakalamaca"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Pancake's Bus Tour",
+      "diziid": "evs",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/9/krepin_tur_otobusu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Block Party",
+      "diziid": "evs",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/10/acik_hava_partisi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Apple's Focus",
+      "diziid": "evs",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/11/elmanin_dikkati"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Lil Noodle",
+      "diziid": "evs",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/12/kucuk_noodle"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Gyranoid of the Future",
+      "diziid": "evs",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/13/gelecege_yolculuk"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Fun Proof",
+      "diziid": "evs",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/14/eglendigini_kanitlamak"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Whale Spotting",
+      "diziid": "evs",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/15/balinayi_bulmak"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Heatwave",
+      "diziid": "evs",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/16/sicak_hava_dalgasi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Apple's In Charge",
+      "diziid": "evs",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/17/sorumluluk_elmada"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Burger's Trampoline",
+      "diziid": "evs",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/18/burgerin_trambolini"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Baby Boi TP",
+      "diziid": "evs",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/19/bebek_suratli_tuvalet_kagidi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Not Funny",
+      "diziid": "evs",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/20/hic_komik_degil"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Onionless",
+      "diziid": "evs",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/21/sogansiz_yasamak"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Party Popper",
+      "diziid": "evs",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/22/partideki_cekirdek"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Face Your Fears",
+      "diziid": "evs",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/23/korkularinla_yuzles"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Apple's Short",
+      "diziid": "evs",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/24/kisa_boylu_elma"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Positive Attitude Theory",
+      "diziid": "evs",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/25/pozitif_tutum_teorisi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Follow Your Dreams",
+      "diziid": "evs",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/26/hayalinin_pesinden_git"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Sausage and Sweetie Smash",
+      "diziid": "evs",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/27/sosis_ve_seker_kirma_oyunu"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Selfish Shellfish",
+      "diziid": "evs",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/28/bencil_deniz_kabuklusu"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Apple's Formula",
+      "diziid": "evs",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/29/elma_formulu"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "River of Gold",
+      "diziid": "evs",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/30/altin_nehri"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Appleoni",
+      "diziid": "evs",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/31/elma_sogan_dansi"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Falafel's in Jail",
+      "diziid": "evs",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/32/nohut_koftesi_hapiste"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "The Music Store Thief",
+      "diziid": "evs",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/33/muzik_magazasi_hirsizi"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "The Fly",
+      "diziid": "evs",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/34/sinek"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Dragonhead",
+      "diziid": "evs",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/35/ejderha_basligi"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Pulling Your Weight",
+      "diziid": "evs",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/36/agirlik_kaldirma"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Rotten Apple",
+      "diziid": "evs",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/37/curuk_elma"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "The Inbetween",
+      "diziid": "evs",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/38/arada"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Election Day",
+      "diziid": "evs",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/39/secim_gunu"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "Champion",
+      "diziid": "evs",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/40/sampiyon"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "Falafel's Passion",
+      "diziid": "evs",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/41/nohut_koftesinin_tutkusu"
+    },
+    {
+      "season": 3,
+      "episode": 42,
+      "title": "Hole in Roof",
+      "diziid": "evs",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/42/catidaki_delik"
+    },
+    {
+      "season": 4,
+      "episode": 43,
+      "title": "Patty's Law",
+      "diziid": "evs",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/43/borekin_yasasi"
+    },
+    {
+      "season": 5,
+      "episode": 44,
+      "title": "The Eater",
+      "diziid": "evs",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/44/yiyici"
+    },
+    {
+      "season": 6,
+      "episode": 45,
+      "title": "Apple & Onion's Booth",
+      "diziid": "evs",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/45/elma_ve_soganin_koltugu"
+    },
+    {
+      "season": 7,
+      "episode": 46,
+      "title": "Ferekh",
+      "diziid": "evs",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/46/ferekh"
+    },
+    {
+      "season": 8,
+      "episode": 47,
+      "title": "Pat on the Head",
+      "diziid": "evs",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/47/bas_oksama"
+    },
+    {
+      "season": 9,
+      "episode": 48,
+      "title": "Falafel's Glory",
+      "diziid": "evs",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/48/nohut_koftesinin_zaferi"
+    },
+    {
+      "season": 10,
+      "episode": 49,
+      "title": "Christmas Spirit",
+      "diziid": "evs",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/49/yeni_yil_ruhu"
+    },
+    {
+      "season": 11,
+      "episode": 50,
+      "title": "Slobbery",
+      "diziid": "evs",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/50/pasakli"
+    },
+    {
+      "season": 12,
+      "episode": 51,
+      "title": "Microwave's Dance Club",
+      "diziid": "evs",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/51/mikrodalga_dans_kulubu"
+    },
+    {
+      "season": 13,
+      "episode": 52,
+      "title": "All Work and No Play",
+      "diziid": "evs",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/52/isten_oyuna_zaman_yok"
+    },
+    {
+      "season": 14,
+      "episode": 53,
+      "title": "Drone Shoes",
+      "diziid": "evs",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/53/drone_ayakkabilar"
+    },
+    {
+      "season": 15,
+      "episode": 54,
+      "title": "Walking on the Ceiling",
+      "diziid": "evs",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/54/tavanda_yurumek"
+    },
+    {
+      "season": 16,
+      "episode": 55,
+      "title": "Keep It Fresh",
+      "diziid": "evs",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/55/taze_sarma"
+    },
+    {
+      "season": 17,
+      "episode": 56,
+      "title": "Panamanian Night Monkey",
+      "diziid": "evs",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/56/panama_gece_maymunu"
+    },
+    {
+      "season": 18,
+      "episode": 57,
+      "title": "Za",
+      "diziid": "evs",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/57/za"
+    },
+    {
+      "season": 19,
+      "episode": 58,
+      "title": "Broccoli",
+      "diziid": "evs",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/58/brokoli"
+    },
+    {
+      "season": 20,
+      "episode": 59,
+      "title": "Cousin's Day",
+      "diziid": "evs",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/59/kuzen_gunu"
+    },
+    {
+      "season": 21,
+      "episode": 60,
+      "title": "Nothing Can Stop Us",
+      "diziid": "evs",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/60/bizi_hicbir_sey_engelleyemez"
+    },
+    {
+      "season": 22,
+      "episode": 61,
+      "title": "Good Job",
+      "diziid": "evs",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/61/iyi_is"
+    },
+    {
+      "season": 23,
+      "episode": 62,
+      "title": "One Hit Wonder",
+      "diziid": "evs",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/62/tek_sarkilik_mucize"
+    },
+    {
+      "season": 24,
+      "episode": 63,
+      "title": "A Matter of Pride",
+      "diziid": "evs",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/63/gurur_meselesi"
+    },
+    {
+      "season": 25,
+      "episode": 64,
+      "title": "Eyesore a Sunset",
+      "diziid": "evs",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/64/goze_batan_gun_batimi"
+    },
+    {
+      "season": 27,
+      "episode": 65,
+      "title": "Petri",
+      "diziid": "evs",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/66/petri"
+    },
+    {
+      "season": 28,
+      "episode": 66,
+      "title": "Lowlifes",
+      "diziid": "evs",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/67/lumpenler"
+    },
+    {
+      "season": 29,
+      "episode": 67,
+      "title": "Falafel's Car Keys",
+      "diziid": "evs",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/68/nohut_koftesinin_araba_anahtarlari"
+    },
+    {
+      "season": 30,
+      "episode": 68,
+      "title": "Sneakerheads",
+      "diziid": "evs",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/69/ayakkabi_tutkunlari"
+    },
+    {
+      "season": 31,
+      "episode": 69,
+      "title": "Filthy Rich",
+      "diziid": "evs",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/70/fena_zengin"
+    },
+    {
+      "season": 32,
+      "episode": 70,
+      "title": "Truffle Season",
+      "diziid": "evs",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/71/truf_mantari_sezonu"
+    },
+    {
+      "season": 33,
+      "episode": 71,
+      "title": "Lambporcini",
+      "diziid": "evs",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/72/lambporcini"
+    },
+    {
+      "season": 34,
+      "episode": 72,
+      "title": "Jerk Chicken",
+      "diziid": "evs",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/73/baharatli_tavuk"
+    },
+    {
+      "season": 35,
+      "episode": 73,
+      "title": "Open House Cookies",
+      "diziid": "evs",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/74/satilik_ev_kurabiyeleri"
+    },
+    {
+      "season": 36,
+      "episode": 74,
+      "title": "World Cup",
+      "diziid": "evs",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/75/dunya_kupasi"
+    },
+    {
+      "season": 37,
+      "episode": 75,
+      "title": "Win It or Bin It",
+      "diziid": "evs",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/evs/elma_ve_sogan/76/kazan_ya_da_cope_at"
+    }
+  ]
+}

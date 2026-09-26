@@ -1,0 +1,645 @@
+{
+  "id": "gorm",
+  "title": "gormiti (2018)",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/GORMPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The One Tower",
+      "diziid": "gorm",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/1/tek_kule"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Training Day",
+      "diziid": "gorm",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/2/egitim_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Bend the Rules",
+      "diziid": "gorm",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/3/kurallari_esnet"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Tower Rising",
+      "diziid": "gorm",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/4/kule_yukseliyor"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Go with the Flow",
+      "diziid": "gorm",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/5/akisina_birak"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Wind of Change",
+      "diziid": "gorm",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/6/degisim_ruzgari"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Tournament",
+      "diziid": "gorm",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/7/turnuva"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Hyperbeasts Go!",
+      "diziid": "gorm",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/8/hadi_hiper_canavar%21"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Dark Storm",
+      "diziid": "gorm",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/9/karanlik_firtina"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Sixty Feet Under",
+      "diziid": "gorm",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/10/yerin_cok_altinda"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Deep Freeze",
+      "diziid": "gorm",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/11/derin_dondurucu"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Defender of the Ice",
+      "diziid": "gorm",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/12/buzun_koruyucusu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Tiny Trouble",
+      "diziid": "gorm",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/13/minik_bir_sorun"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Stone of Deception",
+      "diziid": "gorm",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/14/yaniltma_tasi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Haunted Heralds",
+      "diziid": "gorm",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/15/hayaletli_kale"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "All for One",
+      "diziid": "gorm",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/16/hepimiz_birimiz_icin"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Dangerous Combo",
+      "diziid": "gorm",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/17/tehlikeli_birlesim"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Roaring Riot",
+      "diziid": "gorm",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/18/buyuyen_karmasa"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Windriders",
+      "diziid": "gorm",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/19/ruzgar_suruculeri"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "A Slice of Thin Air",
+      "diziid": "gorm",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/20/havaya_karismak"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Freefalling",
+      "diziid": "gorm",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/21/serbest_dusus"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Tower Defense",
+      "diziid": "gorm",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/22/kule_savunmasi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "The Way of Fire",
+      "diziid": "gorm",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/23/atesin_yolu"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "King Riff",
+      "diziid": "gorm",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/24/kral_riff"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "The Battle for the Elestar (1)",
+      "diziid": "gorm",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/25/elestar_savasi_1.kisim"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The Battle for the Elestar (2)",
+      "diziid": "gorm",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/26/elestar_savasi_2.kisim"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Dawn of the Meka - Part One",
+      "diziid": "gorm",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/27/mekanin_dogusu_safagi_1.bolum"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Dawn of the Meka - Part Two",
+      "diziid": "gorm",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/28/mekanin_dogusu_2.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "The First Beacon",
+      "diziid": "gorm",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/29/ilk_isaret"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Cliffhanger",
+      "diziid": "gorm",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/30/yukseklik_korkusu"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Deep Trouble",
+      "diziid": "gorm",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/31/derin_tehlike"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Solid as a Rock",
+      "diziid": "gorm",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/32/kaya_gibi_saglam"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Rockies United",
+      "diziid": "gorm",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/33/kayacilar_birlesiyor"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Brain vs Brawn",
+      "diziid": "gorm",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/34/zeka_kaba_kuvvete_karsi"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Fire and Fear",
+      "diziid": "gorm",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/35/ates_ve_korku"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Blast of Hot Air",
+      "diziid": "gorm",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/36/sicak_ruzgarlar"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Riff under Fire",
+      "diziid": "gorm",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/37/riff_ates_altinda"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Surrounded by Evil",
+      "diziid": "gorm",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/38/etrafi_kotulukle_cevrili"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Voidus Rising",
+      "diziid": "gorm",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/39/voidus_yukseliyor"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "Gorm with the Wind",
+      "diziid": "gorm",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/40/ruzgar_gibi_gecti"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "Wind Wiped!",
+      "diziid": "gorm",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/41/hafiza_kaybi%21"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Out of Order",
+      "diziid": "gorm",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/42/hizmet_disi"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "The Windy Way",
+      "diziid": "gorm",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/43/ruzgar_yontemi"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "Catch the Wind",
+      "diziid": "gorm",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/44/ruzgari_yakala"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "Cold as Ice",
+      "diziid": "gorm",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/45/buz_gibi_soguk"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "The Final Curse",
+      "diziid": "gorm",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/46/tehlikeli_vadi"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "Portals of Chaos",
+      "diziid": "gorm",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/47/kaos_portallari"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "No Laughing Matter",
+      "diziid": "gorm",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/48/gulunecek_sey_degil"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "Alone Together",
+      "diziid": "gorm",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/49/birlikte_ama_yalniz"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "The Dark Fortress - Part One",
+      "diziid": "gorm",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/50/karanlik_kale_bolum_1"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "The Dark Fortress - Part Two",
+      "diziid": "gorm",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/51/karanlik_kale_bolum_2"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "The Dark Fortress - Part Three",
+      "diziid": "gorm",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/52/karanlik_kale_bolum_3"
+    },
+    {
+      "season": 1,
+      "episode": 53,
+      "title": "Friends and Foes",
+      "diziid": "gorm",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/53/dostlar_ve_dusmanlar"
+    },
+    {
+      "season": 2,
+      "episode": 54,
+      "title": "The Call",
+      "diziid": "gorm",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/54/cagri"
+    },
+    {
+      "season": 3,
+      "episode": 55,
+      "title": "The Titan Heart",
+      "diziid": "gorm",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/55/titan_kalbi"
+    },
+    {
+      "season": 4,
+      "episode": 56,
+      "title": "The Iskador",
+      "diziid": "gorm",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/56/iskador"
+    },
+    {
+      "season": 5,
+      "episode": 57,
+      "title": "Fire Bombs",
+      "diziid": "gorm",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/57/ates_bombalari"
+    },
+    {
+      "season": 6,
+      "episode": 58,
+      "title": "Cool as Magma",
+      "diziid": "gorm",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/58/magma_kadar_havali"
+    },
+    {
+      "season": 7,
+      "episode": 59,
+      "title": "The Magma Way",
+      "diziid": "gorm",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/59/magma_yontemi"
+    },
+    {
+      "season": 8,
+      "episode": 60,
+      "title": "The Sanctuary",
+      "diziid": "gorm",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/60/siginak"
+    },
+    {
+      "season": 9,
+      "episode": 61,
+      "title": "Hyperchase",
+      "diziid": "gorm",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/61/hiper_takip%21"
+    },
+    {
+      "season": 10,
+      "episode": 62,
+      "title": "Ultra-Super-Fast",
+      "diziid": "gorm",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/62/ultra-super-hizli"
+    },
+    {
+      "season": 11,
+      "episode": 63,
+      "title": "Kawakai!",
+      "diziid": "gorm",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/63/kawakai%21"
+    },
+    {
+      "season": 12,
+      "episode": 64,
+      "title": "Battle of Iskador",
+      "diziid": "gorm",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/64/iskador_savasi"
+    },
+    {
+      "season": 13,
+      "episode": 65,
+      "title": "I'm Awake!",
+      "diziid": "gorm",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/65/uyanigim%21"
+    },
+    {
+      "season": 14,
+      "episode": 66,
+      "title": "The Secret of the Heart",
+      "diziid": "gorm",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/66/kalbin_sirri"
+    },
+    {
+      "season": 15,
+      "episode": 67,
+      "title": "Ocean Buddies",
+      "diziid": "gorm",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/67/okyanus_dostlari"
+    },
+    {
+      "season": 16,
+      "episode": 68,
+      "title": "Stolen Emotions",
+      "diziid": "gorm",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/68/calinan_duygular"
+    },
+    {
+      "season": 17,
+      "episode": 69,
+      "title": "Underwater Trek",
+      "diziid": "gorm",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/69/trek_su_altinda"
+    },
+    {
+      "season": 18,
+      "episode": 70,
+      "title": "Weird Eron",
+      "diziid": "gorm",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/70/tuhaf_eron"
+    },
+    {
+      "season": 19,
+      "episode": 71,
+      "title": "Control Your Flow",
+      "diziid": "gorm",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/71/akisini_kontrol_et"
+    },
+    {
+      "season": 20,
+      "episode": 72,
+      "title": "Tiny Trek",
+      "diziid": "gorm",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/72/minik_trek"
+    },
+    {
+      "season": 21,
+      "episode": 73,
+      "title": "Floating Rocks",
+      "diziid": "gorm",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/73/ucusan_kayalar"
+    },
+    {
+      "season": 22,
+      "episode": 74,
+      "title": "The Cosmic Cube",
+      "diziid": "gorm",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/74/kozmik_kup"
+    },
+    {
+      "season": 23,
+      "episode": 75,
+      "title": "Time After Time",
+      "diziid": "gorm",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/75/zaman_zaman"
+    },
+    {
+      "season": 24,
+      "episode": 76,
+      "title": "Knowledge is Power",
+      "diziid": "gorm",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/76/bilgi_guctur"
+    },
+    {
+      "season": 25,
+      "episode": 77,
+      "title": "Heroes of the Heart Part One",
+      "diziid": "gorm",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/77/kalbin_kahramanlari_1.bolum"
+    },
+    {
+      "season": 26,
+      "episode": 78,
+      "title": "Heroes of the Heart Part Two",
+      "diziid": "gorm",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/78/kalbin_kahramanlari_2.bolum"
+    },
+    {
+      "season": 27,
+      "episode": 79,
+      "title": "Heroes of the Heart Part Three",
+      "diziid": "gorm",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/gorm/gormiti_2018/79/kalbin_kahramanlari_3.bolum"
+    }
+  ]
+}

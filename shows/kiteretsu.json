@@ -1,0 +1,613 @@
+{
+  "id": "kiteretsu",
+  "title": "kiteretsu ansiklopedisi",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/KITERETSUPoster.avif",
+  "channel": "Spacetoon",
+  "genres": [
+    "Komedi",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Searching for buried treasures! / My Own Invention that got Big Treasure!",
+      "diziid": "kiteretsu",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/1/lokum__derinlik_kesif_araci"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "A Reinvention I made for Benzo / Korosuke becomes a Director!",
+      "diziid": "kiteretsu",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/2/uzun_zamandan_sonra_geri_gelis__kukla_gosterisi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Kiteretsu's Moon adventure",
+      "diziid": "kiteretsu",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/3/ay%E2%80%99a_yapilan_yolculuk"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Troubled in the dark / A Magic Costume Saved Everyone",
+      "diziid": "kiteretsu",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/4/gecis_giysisi__ofke_baloncugu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Goblin Secret passage",
+      "diziid": "kiteretsu",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/5/ormana_okul_gezisine_gidiyoruz"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Look Look! The Warrior is Here / Ini-Mini-Mynih! Everything is Tiny!",
+      "diziid": "kiteretsu",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/6/oyuncak_asker__kucuk_ve_buyutme_icin_yogunluk_cihazi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "I Will Play House with Miyoko / Just Forget It!",
+      "diziid": "kiteretsu",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/7/hayal_evi__hafiza_silici_sapka"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Letâ€™s Make a Movie / Big Fun in the Small City!",
+      "diziid": "kiteretsu",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/8/tuhaf_uzayli__kucuk_sehirde_oynamak"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Camera of memories / Showdown! Korosuke against Kawarabankozou",
+      "diziid": "kiteretsu",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/9/anilari_yakalamak__gazeteci_robot"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Korosuke and the baby dinosaur!",
+      "diziid": "kiteretsu",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/10/dinozor_denizalti"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Human Duplication Gun / Korosuke Goes to School",
+      "diziid": "kiteretsu",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/11/kopyalama_kamerasi__lokum_okula_gidiyor"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Machine which can stop time / Playing with water",
+      "diziid": "kiteretsu",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/12/zaman_makinesi_icadi__kurutulmus_suyun_icadi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Sweet home above clouds",
+      "diziid": "kiteretsu",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/13/bulutlarin_uzerinde_cocuk_parki"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Crime catcher robot / Ghost Lamp",
+      "diziid": "kiteretsu",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/14/disiplin_polisi__lamba"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "A Little Bodyguard / Giant Bubble Dome",
+      "diziid": "kiteretsu",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/15/isirgan_oyuncak__ucan_balon_oyuncak"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Father's day meeting",
+      "diziid": "kiteretsu",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/16/okulda_babalar_gunu"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Tongari becomes invisible",
+      "diziid": "kiteretsu",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/17/zaman_makinesi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "We will meet Edison",
+      "diziid": "kiteretsu",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/18/gorunmezlik_pelerini"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Heat has got Everyone Soaked / Peter-Pater-Jimer-Jamer-Trip-Grip-Rip!",
+      "diziid": "kiteretsu",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/19/soguk_su_camuru__cocuk_alisveris_festivali"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Korosuke does Everything to Become Stronger!",
+      "diziid": "kiteretsu",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/20/antara_lokum_ve_zaman_kapsulleri"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Changing Marathon Time",
+      "diziid": "kiteretsu",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/21/akilli_sayac_ve_pusula"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Sports Meet, Who Will Become MVP",
+      "diziid": "kiteretsu",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/22/televizyon_odullu_aile_spor_yarismasi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Butagorira's Vegetable Party / Animal Voice Translator",
+      "diziid": "kiteretsu",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/23/sebze_ustasi_kardes__hayvan_dili_tercumani"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Lantern Makes Study Easy / Robots Have Feelings Too",
+      "diziid": "kiteretsu",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/24/yazma_lambasi__robot"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Laughing Helmet",
+      "diziid": "kiteretsu",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/25/yigitin_hikayesi_ve_kahkaha_sapkasi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Everyone Will Obey Me",
+      "diziid": "kiteretsu",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/26/hipnoz_kolyesi"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Kiteretsu Will Do Somersault",
+      "diziid": "kiteretsu",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/27/simdi_sirada_barfikste_takla"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Wicker Cloth Box / Korosuke's Matchmaking With a Dog",
+      "diziid": "kiteretsu",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/28/harikalar_kutusu__koku_alma_aleti"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Searching For Hot Springs Deep in the Earth",
+      "diziid": "kiteretsu",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/29/bugun_hep_birlikte_babamin_eve_donusunu_kutlayacagiz"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "The story of Korosuke and Chibigorira's friendship",
+      "diziid": "kiteretsu",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/30/kayip_gorilin_hikayesi"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Otohime Loves Kiteretsu",
+      "diziid": "kiteretsu",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/31/dilek_tokmagi"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Kiteretsu-san is an Actor",
+      "diziid": "kiteretsu",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/32/odamda_beliren_sahte_buyukbaba_kim"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Santa Claus is Real",
+      "diziid": "kiteretsu",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/33/karlar_ulkesine_yolculuk"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "After 10 Years Of Flower Bridegroom Divination Miyo-Chan Coming-Of-Age Ceremony",
+      "diziid": "kiteretsu",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/34/kristal_kurenin_yalanlari"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Mystery In The Snow Country",
+      "diziid": "kiteretsu",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/35/gizemli_gorunmez_ayakkabilar"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Skating Special Training Of Butagorira / Polar Bear Swim Tournament",
+      "diziid": "kiteretsu",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/36/otomatik_buz_pateni__yuzme_yarisi"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "New Annual Must-See! Girl With Red School Bag",
+      "diziid": "kiteretsu",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/37/kirmizi_cantanin_gizemi"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Marry A Prince!? Miyoko Princess",
+      "diziid": "kiteretsu",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/38/sunanin_ruyasi"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "U-Turn To The North Country In Hokutosei",
+      "diziid": "kiteretsu",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/39/karli_sehre_yolculuk"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "Become Assistant Roller Smart Ass!?",
+      "diziid": "kiteretsu",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/40/kisa_hikaye_yarismasi"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "Bride Elect Of The Roller Assistant Wakasama",
+      "diziid": "kiteretsu",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/41/eski_donem"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Welcome To The Land Of Invitation From South Of Dinosaur!",
+      "diziid": "kiteretsu",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/42/dinozordan_gelen_mektup"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Butagorira Longing Girl Older?",
+      "diziid": "kiteretsu",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/43/hafiza_kaybi_problemi"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "Shot In Ultra Wandering Maze!?",
+      "diziid": "kiteretsu",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/44/devasa_labirentte_gezinti"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "Find The Butterfly Illusion Of Get-Rich-Quick",
+      "diziid": "kiteretsu",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/45/altin_kelebegin_pesinde_bir_yolculuk"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "Echo Vegetables To Meet To Refer To These Signals As Bits,",
+      "diziid": "kiteretsu",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/46/konusan_sebzeler"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "Maca Mysterious? Otohime-Sama Grateful Crane",
+      "diziid": "kiteretsu",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/47/hikayeler_ve_dilek_tokmagi"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "How To Make A Earthquake / Reconciled With Memories House",
+      "diziid": "kiteretsu",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/48/deprem_oldu__veli_uzlasmasi"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "To Be Home Free! Class Officer In The Limelight Light",
+      "diziid": "kiteretsu",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/49/populer_cocuk"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "Lie! The Vegetables That Hate Butagorira Is!?",
+      "diziid": "kiteretsu",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/50/demir_sebze_yemek_istemiyor"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "Adventure Of Underground Found Kinkira Jinshan",
+      "diziid": "kiteretsu",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/51/define_pesinde_bir_yolculuk"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "Popular! 5 Years Three Sets Swan Teacher",
+      "diziid": "kiteretsu",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/52/bayrak_yarisi"
+    },
+    {
+      "season": 1,
+      "episode": 53,
+      "title": "Myna Bird Roller Assistant Of Fear Is Dangerous!",
+      "diziid": "kiteretsu",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/53/korkunc_cigdeci_kusu"
+    },
+    {
+      "season": 2,
+      "episode": 54,
+      "title": "The Tear Is Also In The Eyes Of The Samurai Inspiring Bell",
+      "diziid": "kiteretsu",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/54/duygular_tasip_sel_oldugunda%2C_samuray_kahraman_bile_aglar"
+    },
+    {
+      "season": 3,
+      "episode": 55,
+      "title": "Eureka Large Pinch? Invention Ban Daddy!",
+      "diziid": "kiteretsu",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/55/babam_icatlari_yasakliyor"
+    },
+    {
+      "season": 4,
+      "episode": 56,
+      "title": "Shooting Excellent Condition! Babylon Great Palace Of Hollywood",
+      "diziid": "kiteretsu",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/56/buyuk_film_seti"
+    },
+    {
+      "season": 5,
+      "episode": 57,
+      "title": "The Prophecies! Tomorrow Zoshi Of The Roller Assistant",
+      "diziid": "kiteretsu",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/57/lokumun_muhtesem_romani"
+    },
+    {
+      "season": 6,
+      "episode": 58,
+      "title": "Invention At Last!?? Dream To Triple The Summer Vacation",
+      "diziid": "kiteretsu",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/58/yaz_uce_katlaniyor"
+    },
+    {
+      "season": 7,
+      "episode": 59,
+      "title": "The Gavel Tired Of Fool's Errand",
+      "diziid": "kiteretsu",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/59/buyuk_bir_kavga_icin_eski_bir_tokmak"
+    },
+    {
+      "season": 8,
+      "episode": 60,
+      "title": "One Day In August, Lost Child Whale Blue Sky",
+      "diziid": "kiteretsu",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/60/kayip_balina_okyanusa_donuyor"
+    },
+    {
+      "season": 9,
+      "episode": 61,
+      "title": "Flying It's Scary! Perfect With Three Half- Mirror",
+      "diziid": "kiteretsu",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/61/korkuyla_birlikte_yuzlesiyoruz"
+    },
+    {
+      "season": 10,
+      "episode": 62,
+      "title": "Ghost Is Full!? Panic In The Camp",
+      "diziid": "kiteretsu",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/62/kampta_buyuk_panik"
+    },
+    {
+      "season": 11,
+      "episode": 63,
+      "title": "Hashire! Four-Wheel Drive Grand Prix Of Tongariro Issue Dream",
+      "diziid": "kiteretsu",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/63/buyuk_dort_ceker_yarismasi"
+    },
+    {
+      "season": 12,
+      "episode": 64,
+      "title": "Makoto Nari! Mountain Climbing In Kikko Ship",
+      "diziid": "kiteretsu",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/64/nehre_yolculuk"
+    },
+    {
+      "season": 13,
+      "episode": 65,
+      "title": "Butagorira- Better, Gorilla Gorilla",
+      "diziid": "kiteretsu",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/65/hic_bitmeyen_hayvanat_bahcesi"
+    },
+    {
+      "season": 14,
+      "episode": 66,
+      "title": "Lol! Otohime That Came",
+      "diziid": "kiteretsu",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/66/bugunku_hikaye_en_guzel_kizin_donusu"
+    },
+    {
+      "season": 15,
+      "episode": 67,
+      "title": "Touch It Rains Rain! Your Hands The Umbrella Forget",
+      "diziid": "kiteretsu",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/67/yagmur_yagsin%2C_yagmur_yagsin%2C_bazi_hava_tahminleri_sorunu"
+    },
+    {
+      "season": 16,
+      "episode": 68,
+      "title": "I Approach The Mystery Of Yamataikoku! Miyoko Is Himiko?",
+      "diziid": "kiteretsu",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/68/hasircilar_ulkesinin_soylu_kadini"
+    },
+    {
+      "season": 17,
+      "episode": 69,
+      "title": "Wedding Full Course Aligned Everyone Looking For Fall",
+      "diziid": "kiteretsu",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/69/dugun_yemegi"
+    },
+    {
+      "season": 18,
+      "episode": 70,
+      "title": "Test Is Perfect, Too! Cram Pillow",
+      "diziid": "kiteretsu",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/70/salamura_tas_yastik"
+    },
+    {
+      "season": 19,
+      "episode": 71,
+      "title": "5 More Minutes! Reverse Time Machine What Such A Case",
+      "diziid": "kiteretsu",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/71/zamani_geri_alan_makine_tam_zamaninda"
+    },
+    {
+      "season": 20,
+      "episode": 72,
+      "title": "Bees And Grandfather Came",
+      "diziid": "kiteretsu",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/72/balin_faydalari"
+    },
+    {
+      "season": 21,
+      "episode": 73,
+      "title": "Grandson Santa's Little Match Girl Nari!",
+      "diziid": "kiteretsu",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/73/kibritci_kiz"
+    },
+    {
+      "season": 22,
+      "episode": 74,
+      "title": "Success At Last! 2001- A University Campus",
+      "diziid": "kiteretsu",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/74/parlak_gelecek"
+    },
+    {
+      "season": 23,
+      "episode": 75,
+      "title": "Thugs Did You See! I Go Dual Wield Roller Assistant Western",
+      "diziid": "kiteretsu",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/kiteretsu/kiteretsu_ansiklopedisi/75/en_guclu_samuray_dusmanlarla_savasiyor"
+    }
+  ]
+}

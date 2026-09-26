@@ -1,0 +1,78 @@
+{
+  "id": "murdrone",
+  "title": "murder drones",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MURDRONESPoster.avif",
+  "channel": "Prime Video",
+  "genres": [
+    "Bilim Kurgu",
+    "Korku",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "murdrone",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/murdrone/murder_drones/1/pilot"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Heartbeat",
+      "diziid": "murdrone",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/murdrone/murder_drones/2/kalp_atisi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Promening",
+      "diziid": "murdrone",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/murdrone/murder_drones/3/gezinti"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Cabin Fever",
+      "diziid": "murdrone",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/murdrone/murder_drones/4/kapanma_bunalimi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Home",
+      "diziid": "murdrone",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/murdrone/murder_drones/5/ev"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Dead End",
+      "diziid": "murdrone",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/murdrone/murder_drones/6/cikmaz_sokak"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Mass Destruction",
+      "diziid": "murdrone",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/murdrone/murder_drones/7/kitle_imha"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Absolute End",
+      "diziid": "murdrone",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/murdrone/murder_drones/8/mutlak_son"
+    }
+  ]
+}

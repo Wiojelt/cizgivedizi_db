@@ -1,0 +1,68 @@
+{
+  "id": "tonbo",
+  "title": "golf adasÄ±: tonbo!",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/TONBOPoster.avif",
+  "channel": "Spacetoon Go",
+  "genres": [
+    "Spor"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Tonbo and the 3-Iron",
+      "diziid": "tonbo",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/tonbo/golf_adasi%3A_tonbo%21/1/tonbo_ve_3_demir"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Secret of the 3-Iron",
+      "diziid": "tonbo",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/tonbo/golf_adasi%3A_tonbo%21/2/demirin_sirri_3"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Wedges and Regrets",
+      "diziid": "tonbo",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/tonbo/golf_adasi%3A_tonbo%21/3/golf_ve_pismanliklar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Sashimi Shot",
+      "diziid": "tonbo",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/tonbo/golf_adasi%3A_tonbo%21/4/sashimi_vurusu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "This Isn't Real Golf",
+      "diziid": "tonbo",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/tonbo/golf_adasi%3A_tonbo%21/5/senin_oynadigin_golf_degil"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Okinawan Rival",
+      "diziid": "tonbo",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/tonbo/golf_adasi%3A_tonbo%21/6/okinawali_rakip"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Great Monotony",
+      "diziid": "tonbo",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/tonbo/golf_adasi%3A_tonbo%21/7/muhtesem_teknik"
+    }
+  ]
+}

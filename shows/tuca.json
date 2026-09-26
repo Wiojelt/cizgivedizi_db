@@ -1,0 +1,93 @@
+{
+  "id": "tuca",
+  "title": "tuca ve bertie",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TUCAPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Sugar Bowl",
+      "diziid": "tuca",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/tuca/tuca_ve_bertie/1/sekerlik"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Promotion",
+      "diziid": "tuca",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/tuca/tuca_ve_bertie/2/terfi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Deli Guy",
+      "diziid": "tuca",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/tuca/tuca_ve_bertie/3/sarkuterici"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Sex Bugs",
+      "diziid": "tuca",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/tuca/tuca_ve_bertie/4/seks_bocekleri"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Plumage",
+      "diziid": "tuca",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/tuca/tuca_ve_bertie/5/kus_tuyu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Open House",
+      "diziid": "tuca",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/tuca/tuca_ve_bertie/6/ev_gosterimi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Yeast Week",
+      "diziid": "tuca",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/tuca/tuca_ve_bertie/7/maya_haftasi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The New Bird",
+      "diziid": "tuca",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/tuca/tuca_ve_bertie/8/yeni_kus"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Jelly Lakes",
+      "diziid": "tuca",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/tuca/tuca_ve_bertie/9/jole_golleri"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "SweetBeak",
+      "diziid": "tuca",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/tuca/tuca_ve_bertie/10/tatli_gaga"
+    }
+  ]
+}

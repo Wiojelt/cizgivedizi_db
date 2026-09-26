@@ -1,0 +1,93 @@
+{
+  "id": "korkh",
+  "title": "korku hikÃ¢yeleri",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KORKHPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Korku",
+    "Gizem"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "While the Cat's Away",
+      "diziid": "korkh",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/korkh/korku_hikayeleri/1/kediler_uzaktayken"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Nature",
+      "diziid": "korkh",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/korkh/korku_hikayeleri/2/doga"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Pleasant Screams",
+      "diziid": "korkh",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/korkh/korku_hikayeleri/3/keyif_cigliklari"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Gone Fishin' / A Little Body of Work",
+      "diziid": "korkh",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/korkh/korku_hikayeleri/4/balik_tutmak__kaporta_isi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Works... In Wax",
+      "diziid": "korkh",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/korkh/korku_hikayeleri/5/balmumu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Sleeping Beauty",
+      "diziid": "korkh",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/korkh/korku_hikayeleri/6/uyuyan_guzel"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Cave Man",
+      "diziid": "korkh",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/korkh/korku_hikayeleri/7/magara_adami"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Hyde and Go Shriek",
+      "diziid": "korkh",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/korkh/korku_hikayeleri/8/kurt_adam"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Fare Tonight",
+      "diziid": "korkh",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/korkh/korku_hikayeleri/9/vampir_avi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Gorilla's Paw",
+      "diziid": "korkh",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/korkh/korku_hikayeleri/10/gorilin_pencesi"
+    }
+  ]
+}

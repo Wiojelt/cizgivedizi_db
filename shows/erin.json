@@ -1,0 +1,117 @@
+{
+  "id": "erin",
+  "title": "erin ve aaron",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/ERINPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "GÃ¼nlÃ¼k Hayattan",
+    "MÃ¼zik/MÃ¼zikal"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "We Are Family",
+      "diziid": "erin",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/erin/erin_ve_aaron/1/resmen_bir_aileyiz"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Piano Man",
+      "diziid": "erin",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/erin/erin_ve_aaron/2/piyano_reeves"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Un-break My Heart",
+      "diziid": "erin",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/erin/erin_ve_aaron/3/susi_gecesi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Music For A Sushi Restaurant",
+      "diziid": "erin",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/erin/erin_ve_aaron/4/kalbim_paramparca"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Somebody's Watching Me",
+      "diziid": "erin",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/erin/erin_ve_aaron/5/biz_bakiciyiz_sen_bebeksin"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Born in the U.S.A",
+      "diziid": "erin",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/erin/erin_ve_aaron/6/muzik_yarismasi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Gone Country",
+      "diziid": "erin",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/erin/erin_ve_aaron/7/country_yildizi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Lose Yourself",
+      "diziid": "erin",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/erin/erin_ve_aaron/8/kendin_olmak"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "I Want You Back",
+      "diziid": "erin",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/erin/erin_ve_aaron/9/geri_don"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Pictures of You",
+      "diziid": "erin",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/erin/erin_ve_aaron/10/fotograf_cekimi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Bad Romance",
+      "diziid": "erin",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/erin/erin_ve_aaron/11/ask_berbat_bir_sey"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Should I Stay or Should I Go? Part I",
+      "diziid": "erin",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/erin/erin_ve_aaron/12/gitmek_mi_zor%2C_kalmak_mi_zor_kisim_i"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Should I Stay Or Should I Go? Part II",
+      "diziid": "erin",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/erin/erin_ve_aaron/13/gitmek_mi_zor%2C_kalmak_mi_zor_kisim_ii"
+    }
+  ]
+}

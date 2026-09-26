@@ -1,0 +1,61 @@
+{
+  "id": "hayÅŸ",
+  "title": "hayaletler ÅŸehri",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/HAYÅPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Gizem",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Sort of Japanese Restaurant",
+      "diziid": "hay%C5%9F",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/hay%C5%9F/hayaletler_sehri/1/japon_restorani"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Venice",
+      "diziid": "hay%C5%9F",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/hay%C5%9F/hayaletler_sehri/2/venice"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Leimert Park",
+      "diziid": "hay%C5%9F",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/hay%C5%9F/hayaletler_sehri/3/leimert_park"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Tovaangar",
+      "diziid": "hay%C5%9F",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/hay%C5%9F/hayaletler_sehri/4/tovaangar"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Bob & Nancy",
+      "diziid": "hay%C5%9F",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/hay%C5%9F/hayaletler_sehri/5/bob_ve_nancy"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Koreatown",
+      "diziid": "hay%C5%9F",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/hay%C5%9F/hayaletler_sehri/6/kore_mahallesi"
+    }
+  ]
+}

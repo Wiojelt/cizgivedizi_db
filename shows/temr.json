@@ -1,0 +1,372 @@
+{
+  "id": "temr",
+  "title": "temel reis",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TEMRPoster.avif",
+  "channel": "Kanal D",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 6,
+      "episode": 1,
+      "title": "Dead-Eye Popeye",
+      "diziid": "temr",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/6/serif_temel"
+    },
+    {
+      "season": 7,
+      "episode": 2,
+      "title": "Mueller's Mad Monster",
+      "diziid": "temr",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/7/canavar"
+    },
+    {
+      "season": 8,
+      "episode": 3,
+      "title": "Caveman Capers",
+      "diziid": "temr",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/8/ispanagin_hikayesi"
+    },
+    {
+      "season": 9,
+      "episode": 4,
+      "title": "Bullfighter Bully",
+      "diziid": "temr",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/9/boga_gurescisi"
+    },
+    {
+      "season": 10,
+      "episode": 5,
+      "title": "College of Hard Knocks",
+      "diziid": "temr",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/10/kolej"
+    },
+    {
+      "season": 11,
+      "episode": 6,
+      "title": "Abdominal Snowman",
+      "diziid": "temr",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/11/kar_adam"
+    },
+    {
+      "season": 17,
+      "episode": 7,
+      "title": "Childhood Daze",
+      "diziid": "temr",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/17/cocukluga_donus"
+    },
+    {
+      "season": 18,
+      "episode": 8,
+      "title": "Sheepish Sheep-Herder",
+      "diziid": "temr",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/18/koyun_hirsizi"
+    },
+    {
+      "season": 19,
+      "episode": 9,
+      "title": "Track Meet Cheat",
+      "diziid": "temr",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/19/spor"
+    },
+    {
+      "season": 20,
+      "episode": 10,
+      "title": "Crystal Ball Brawl",
+      "diziid": "temr",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/20/kristal_top"
+    },
+    {
+      "season": 25,
+      "episode": 11,
+      "title": "Swee'pea Soup",
+      "diziid": "temr",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/25/corba"
+    },
+    {
+      "season": 26,
+      "episode": 12,
+      "title": "Hag Way Robbery",
+      "diziid": "temr",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/26/deniz_cadisi_ve_ispanak_bitimi"
+    },
+    {
+      "season": 27,
+      "episode": 13,
+      "title": "The Lost City of Bubble-Lon",
+      "diziid": "temr",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/27/kayip_ulke"
+    },
+    {
+      "season": 28,
+      "episode": 14,
+      "title": "There's No Space Like Home",
+      "diziid": "temr",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/28/uzay_ve_parti"
+    },
+    {
+      "season": 29,
+      "episode": 15,
+      "title": "Potent Lotion",
+      "diziid": "temr",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/29/tiras_losyonu"
+    },
+    {
+      "season": 30,
+      "episode": 16,
+      "title": "Astro-Nut",
+      "diziid": "temr",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/30/astronot"
+    },
+    {
+      "season": 31,
+      "episode": 17,
+      "title": "Where There's a Will",
+      "diziid": "temr",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/31/miras_kavgasi"
+    },
+    {
+      "season": 32,
+      "episode": 18,
+      "title": "Take It Easel",
+      "diziid": "temr",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/32/resim_yarismasi"
+    },
+    {
+      "season": 33,
+      "episode": 19,
+      "title": "I Bin Sculped",
+      "diziid": "temr",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/33/model_araniyor"
+    },
+    {
+      "season": 34,
+      "episode": 20,
+      "title": "Fleas a Crowd",
+      "diziid": "temr",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/34/pireler"
+    },
+    {
+      "season": 35,
+      "episode": 21,
+      "title": "Popeye's Junior Headache",
+      "diziid": "temr",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/35/bas_belasi_ufaklik"
+    },
+    {
+      "season": 36,
+      "episode": 22,
+      "title": "Egypt Us",
+      "diziid": "temr",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/36/misir"
+    },
+    {
+      "season": 37,
+      "episode": 23,
+      "title": "The Big Sneeze",
+      "diziid": "temr",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/37/buyuk_hapsirik"
+    },
+    {
+      "season": 38,
+      "episode": 24,
+      "title": "The Last Resort",
+      "diziid": "temr",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/38/sahte_para"
+    },
+    {
+      "season": 39,
+      "episode": 25,
+      "title": "Jeopardy Sheriff",
+      "diziid": "temr",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/39/serif"
+    },
+    {
+      "season": 40,
+      "episode": 26,
+      "title": "Baby Phase",
+      "diziid": "temr",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/40/hokkabaz_bebek"
+    },
+    {
+      "season": 43,
+      "episode": 27,
+      "title": "Dog-Gone Dog-Catcher",
+      "diziid": "temr",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/43/kopek_yakalayicisi"
+    },
+    {
+      "season": 44,
+      "episode": 28,
+      "title": "Voice from the Deep or See Here, Sea Hag",
+      "diziid": "temr",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/44/konusan_yanardag"
+    },
+    {
+      "season": 45,
+      "episode": 29,
+      "title": "MatinÃ©e Idol Popeye",
+      "diziid": "temr",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/45/film"
+    },
+    {
+      "season": 59,
+      "episode": 30,
+      "title": "Popeye and the Dragon",
+      "diziid": "temr",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/59/ejderha"
+    },
+    {
+      "season": 60,
+      "episode": 31,
+      "title": "Popeye the Fireman",
+      "diziid": "temr",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/60/itfaiyeci_temel_reis"
+    },
+    {
+      "season": 61,
+      "episode": 32,
+      "title": "Popeye's Pizza Palace",
+      "diziid": "temr",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/61/pizzaci_temel_reis"
+    },
+    {
+      "season": 62,
+      "episode": 33,
+      "title": "Down the Hatch",
+      "diziid": "temr",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/62/korsan_anilari"
+    },
+    {
+      "season": 63,
+      "episode": 34,
+      "title": "Lighthouse Keeping",
+      "diziid": "temr",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/63/deniz_feneri"
+    },
+    {
+      "season": 64,
+      "episode": 35,
+      "title": "Popeye and the Phantom",
+      "diziid": "temr",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/64/hayalet"
+    },
+    {
+      "season": 65,
+      "episode": 36,
+      "title": "Popeye's Picnic",
+      "diziid": "temr",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/65/piknik"
+    },
+    {
+      "season": 66,
+      "episode": 37,
+      "title": "Out of This World",
+      "diziid": "temr",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/66/bu_dunyanin_disinda"
+    },
+    {
+      "season": 71,
+      "episode": 38,
+      "title": "Little Olive Riding Hood",
+      "diziid": "temr",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/71/kirmizi_baslikli_safinaz"
+    },
+    {
+      "season": 72,
+      "episode": 39,
+      "title": "Popeye's Hypnotic Glance",
+      "diziid": "temr",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/72/hipnoz"
+    },
+    {
+      "season": 73,
+      "episode": 40,
+      "title": "Popeye's Trojan Horse",
+      "diziid": "temr",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/73/truva_ati"
+    },
+    {
+      "season": 74,
+      "episode": 41,
+      "title": "Frozen Feuds",
+      "diziid": "temr",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/74/canavar_alice"
+    },
+    {
+      "season": 79,
+      "episode": 42,
+      "title": "Popeye's Museum Piece",
+      "diziid": "temr",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/79/muze"
+    },
+    {
+      "season": 80,
+      "episode": 43,
+      "title": "Golf Brawl",
+      "diziid": "temr",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/80/golf_yarisi"
+    },
+    {
+      "season": 81,
+      "episode": 44,
+      "title": "Wimpy's Lunch Wagon",
+      "diziid": "temr",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/81/magazaya_goz_kulak_olmak"
+    },
+    {
+      "season": 82,
+      "episode": 45,
+      "title": "Weather Watchers",
+      "diziid": "temr",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/temr/temel_reis/82/hava_durumu"
+    }
+  ]
+}

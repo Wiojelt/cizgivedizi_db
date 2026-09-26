@@ -1,0 +1,349 @@
+{
+  "id": "sdm",
+  "title": "scooby doo'nun maceralarÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SDMPoster.avif",
+  "channel": "Boomerang",
+  "genres": [
+    "Dedektif",
+    "Gizem"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "There's No Creature Like Snow Creature",
+      "diziid": "sdm",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/1/kar_yaratigi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "3-D Struction",
+      "diziid": "sdm",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/2/3_boyutlu_insaat"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Space Ape at the Cape",
+      "diziid": "sdm",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/3/capede_uzay_maymunu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Big Scare in the Big Easy",
+      "diziid": "sdm",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/4/mezarliktaki_duello"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "It's Mean, It's Green, It's the Mystery Machine",
+      "diziid": "sdm",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/5/gizem_makinesi_canlandi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Riva Ras Regas",
+      "diziid": "sdm",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/6/las_vegas"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Roller Ghoster Ride!",
+      "diziid": "sdm",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/7/hiz_treni_hayaleti"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Safari, So Goodi!",
+      "diziid": "sdm",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/8/safari%2C_cok_iyi%21"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "She Sees Sea Monsters at the Sea Shore",
+      "diziid": "sdm",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/9/deniz_canavari"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "A Scooby-Doo! Christmas",
+      "diziid": "sdm",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/10/yilbasi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Toy Scary Boo",
+      "diziid": "sdm",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/11/canlanan_oyunlar"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Lights! Camera! Mayhem!",
+      "diziid": "sdm",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/12/isik%21_kamera%21_kargasa%21"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Pompeii and Circumstance",
+      "diziid": "sdm",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/13/gladyator"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Unnatural",
+      "diziid": "sdm",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/14/dogal_olmayan"
+    },
+    {
+      "season": 1,
+      "episode": 15,
+      "title": "Big Appetite in Little Tokyo",
+      "diziid": "sdm",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/15/kucuk_tokyoda_buyuk_istah"
+    },
+    {
+      "season": 2,
+      "episode": 16,
+      "title": "Mummy Scares Best",
+      "diziid": "sdm",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/16/mumya"
+    },
+    {
+      "season": 3,
+      "episode": 17,
+      "title": "The Fast and the Wormious",
+      "diziid": "sdm",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/17/yaris_ve_solucan"
+    },
+    {
+      "season": 4,
+      "episode": 18,
+      "title": "High-Tech House of Horrors",
+      "diziid": "sdm",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/18/yuksek_teknolojili_korku_evi"
+    },
+    {
+      "season": 5,
+      "episode": 19,
+      "title": "The Vampire Strikes Back",
+      "diziid": "sdm",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/19/vampirin_donusu"
+    },
+    {
+      "season": 6,
+      "episode": 20,
+      "title": "A Scooby Doo Halloween",
+      "diziid": "sdm",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/20/cadilar_bayrami"
+    },
+    {
+      "season": 7,
+      "episode": 21,
+      "title": "Homeward Hound",
+      "diziid": "sdm",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/21/kopek_gosterisi"
+    },
+    {
+      "season": 8,
+      "episode": 22,
+      "title": "The San Franpsycho",
+      "diziid": "sdm",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/22/san_franpsiko"
+    },
+    {
+      "season": 9,
+      "episode": 23,
+      "title": "Simple Plan and the Invisible Madman",
+      "diziid": "sdm",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/23/basit_plan_ve_gorunmez_adam"
+    },
+    {
+      "season": 10,
+      "episode": 24,
+      "title": "Recipe for Disaster",
+      "diziid": "sdm",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/24/atistirmalik_fabrikasindaki_hayalet"
+    },
+    {
+      "season": 11,
+      "episode": 25,
+      "title": "Large Dragon at Large",
+      "diziid": "sdm",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/25/ejderha"
+    },
+    {
+      "season": 12,
+      "episode": 26,
+      "title": "Uncle Scooby and Antarctica",
+      "diziid": "sdm",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/26/scooby_amca_ve_antarktika"
+    },
+    {
+      "season": 13,
+      "episode": 27,
+      "title": "New Mexico, Old Monster",
+      "diziid": "sdm",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/27/yeni_mexico%2C_eski_canavar"
+    },
+    {
+      "season": 14,
+      "episode": 28,
+      "title": "It's All Greek to Scooby",
+      "diziid": "sdm",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/28/yunanistan_macerasi"
+    },
+    {
+      "season": 1,
+      "episode": 29,
+      "title": "Fright House of a Lighthouse",
+      "diziid": "sdm",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/29/bir_deniz_feneri_korku_evi"
+    },
+    {
+      "season": 2,
+      "episode": 30,
+      "title": "Go West, Young Scoob",
+      "diziid": "sdm",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/30/batiya_git%2C_genc_scoob"
+    },
+    {
+      "season": 3,
+      "episode": 31,
+      "title": "A Scooby-Doo Valentine",
+      "diziid": "sdm",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/31/bir_scooby_doo_ask_ekibi"
+    },
+    {
+      "season": 4,
+      "episode": 32,
+      "title": "Wrestle Maniacs",
+      "diziid": "sdm",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/32/gures"
+    },
+    {
+      "season": 5,
+      "episode": 33,
+      "title": "Ready to Scare",
+      "diziid": "sdm",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/33/korkutmaya_hazir"
+    },
+    {
+      "season": 6,
+      "episode": 34,
+      "title": "Farmed and Dangerous",
+      "diziid": "sdm",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/34/ciftlik_ve_tehlikeli"
+    },
+    {
+      "season": 7,
+      "episode": 35,
+      "title": "Diamonds Are a Ghoul's Best Friend",
+      "diziid": "sdm",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/35/elmaslar_bir_hayaletin_en_iyi_arkadasidir"
+    },
+    {
+      "season": 8,
+      "episode": 36,
+      "title": "A Terrifying Round with a Menacing Metallic Clown",
+      "diziid": "sdm",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/36/tehditkar_metalik_palyaco_ile_korkunc_bir_tur"
+    },
+    {
+      "season": 9,
+      "episode": 37,
+      "title": "Camp Comeoniwannascareya",
+      "diziid": "sdm",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/37/kamp"
+    },
+    {
+      "season": 10,
+      "episode": 38,
+      "title": "Block-Long Hong Kong Horror",
+      "diziid": "sdm",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/38/yuzuk_calan_ejderha"
+    },
+    {
+      "season": 11,
+      "episode": 39,
+      "title": "Gentlemen, Start Your Monsters!",
+      "diziid": "sdm",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/39/beyler%2C_canavarlarinizi_baslatin%21"
+    },
+    {
+      "season": 12,
+      "episode": 40,
+      "title": "Gold Paw",
+      "diziid": "sdm",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/40/altin_pence"
+    },
+    {
+      "season": 13,
+      "episode": 41,
+      "title": "Reef Grief!",
+      "diziid": "sdm",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/41/kumdan_kale"
+    },
+    {
+      "season": 14,
+      "episode": 42,
+      "title": "E-Scream",
+      "diziid": "sdm",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/sdm/scooby_doonun_maceralari/42/sanal_ciglik"
+    }
+  ]
+}

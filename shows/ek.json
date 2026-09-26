@@ -1,0 +1,342 @@
+{
+  "id": "ek",
+  "title": "esrarengiz kasaba",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/EKPoster.avif",
+  "channel": "Disney Channel",
+  "genres": [
+    "Gizem",
+    "Fantastik",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Tourist Trapped",
+      "diziid": "ek",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/1/turist_kapani"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Legend of the Gobblewonker",
+      "diziid": "ek",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/2/gol_canavari_efsanesi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Headhunters",
+      "diziid": "ek",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/3/kafa_avcilari"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Hand That Rocks the Mabel",
+      "diziid": "ek",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/4/mabelin_elindeki_taslar"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Inconveniencing",
+      "diziid": "ek",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/5/rahatsiz_ettiniz"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Dipper vs. Manliness",
+      "diziid": "ek",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/6/dipper_adamliga_karsi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Double Dipper",
+      "diziid": "ek",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/7/coklu_dipper"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Irrational Treasure",
+      "diziid": "ek",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/8/mantiksiz_hazine"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Time Traveler's Pig",
+      "diziid": "ek",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/9/zaman_yolcusunun_domuzu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Fight Fighters",
+      "diziid": "ek",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/10/dovus_dovusculeri"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Little Dipper",
+      "diziid": "ek",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/11/kucuk_dipper"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Summerween",
+      "diziid": "ek",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/12/yaz_cadilar_bayrami"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Boss Mabel",
+      "diziid": "ek",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/13/patron_mabel"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Bottomless Pit!",
+      "diziid": "ek",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/14/dipsiz_kuyu"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Deep End",
+      "diziid": "ek",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/15/derin_son"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Carpet Diem",
+      "diziid": "ek",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/16/beden_degistirme_halisi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Boyz Crazy",
+      "diziid": "ek",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/17/cilgin_cocuklar"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Land Before Swine",
+      "diziid": "ek",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/18/domuzdan_onceki_arazi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Dreamscaperers",
+      "diziid": "ek",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/19/hayal_kanunsuzu"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Gideon Rises",
+      "diziid": "ek",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/20/gideon_yukseliyor"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "Scary-oke",
+      "diziid": "ek",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/21/korku-oke"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "Into the Bunker",
+      "diziid": "ek",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/22/yeralti_siginanin_icinde"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "The Golf War",
+      "diziid": "ek",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/23/golf_savasi"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "Sock Opera",
+      "diziid": "ek",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/24/kukla"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "Soos and the Real Girl",
+      "diziid": "ek",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/25/soos_ve_gercek_kiz"
+    },
+    {
+      "season": 6,
+      "episode": 26,
+      "title": "Little Gift Shop of Horrors",
+      "diziid": "ek",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/26/korkunun_kucuk_hediye_dukkani"
+    },
+    {
+      "season": 7,
+      "episode": 27,
+      "title": "Society of the Blind Eye",
+      "diziid": "ek",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/27/kor_goz_toplulugu"
+    },
+    {
+      "season": 8,
+      "episode": 28,
+      "title": "Blendin's Game",
+      "diziid": "ek",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/28/blendinin_oyunu"
+    },
+    {
+      "season": 9,
+      "episode": 29,
+      "title": "The Love God",
+      "diziid": "ek",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/29/ask_tanrisi"
+    },
+    {
+      "season": 10,
+      "episode": 30,
+      "title": "Northwest Mansion Mystery",
+      "diziid": "ek",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/30/northwest_konagi_gizemi"
+    },
+    {
+      "season": 11,
+      "episode": 31,
+      "title": "Not What He Seems",
+      "diziid": "ek",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/31/o_gorundugu_gibi_degil"
+    },
+    {
+      "season": 12,
+      "episode": 32,
+      "title": "A Tale of Two Stans",
+      "diziid": "ek",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/32/iki_stanin_hikayesi"
+    },
+    {
+      "season": 13,
+      "episode": 33,
+      "title": "Dungeons, Dungeons, and More Dungeons",
+      "diziid": "ek",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/33/zindan%2C_zindan_ve_daha_cok_zindan"
+    },
+    {
+      "season": 14,
+      "episode": 34,
+      "title": "The Stanchurian Candidate",
+      "diziid": "ek",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/34/stanchurian_adayi"
+    },
+    {
+      "season": 15,
+      "episode": 35,
+      "title": "The Last Mabelcorn",
+      "diziid": "ek",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/35/son_mabel_tekboynuzlusu"
+    },
+    {
+      "season": 16,
+      "episode": 36,
+      "title": "Roadside Attraction",
+      "diziid": "ek",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/36/yol_kenari_atraksiyonu"
+    },
+    {
+      "season": 17,
+      "episode": 37,
+      "title": "Dipper and Mabel vs. the Future",
+      "diziid": "ek",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/37/mabel_ve_dipper_gelecege_karsi"
+    },
+    {
+      "season": 18,
+      "episode": 38,
+      "title": "Weirdmageddon Part 1",
+      "diziid": "ek",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/38/tuhafliklar_kiyameti_bolum_1"
+    },
+    {
+      "season": 19,
+      "episode": 39,
+      "title": "Weirdmageddon (2): Escape from Reality",
+      "diziid": "ek",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/39/tuhafliklar_kiyameti_2%3A_gerceklikten_kacis"
+    },
+    {
+      "season": 20,
+      "episode": 40,
+      "title": "Weirdmageddon (3): Take Back the Falls",
+      "diziid": "ek",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/40/tuhafliklar_kiyameti_3%3A_kasabayi_geri_al%2C_part_1"
+    },
+    {
+      "season": 21,
+      "episode": 41,
+      "title": "Weirdmageddon 4: Somewhere in the Woods",
+      "diziid": "ek",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/ek/esrarengiz_kasaba/41/tuhafliklar_kiyameti_3%3A_kasabayi_geri_al%2C_part_2"
+    }
+  ]
+}

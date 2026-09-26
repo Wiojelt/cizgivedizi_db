@@ -1,0 +1,420 @@
+{
+  "id": "pcys3",
+  "title": "iÅŸte baÅŸlÄ±yor! pocoyo!",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/PCYS3Poster.avif",
+  "channel": "Yumurcak TV",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pocoyo's Restaurant",
+      "diziid": "pcys3",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/1/pocoyonun_orkestrasi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Picnic",
+      "diziid": "pcys3",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/2/piknik"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Pato's Shower",
+      "diziid": "pcys3",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/3/pato_yikaniyor"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Garden",
+      "diziid": "pcys3",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/4/bahce"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Pato the Postman",
+      "diziid": "pcys3",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/5/postaci_pato"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "House of Colors",
+      "diziid": "pcys3",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/6/renkler"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "title": "Camping",
+      "diziid": "pcys3",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/8/kamp"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "title": "Space Mission",
+      "diziid": "pcys3",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/9/uzay_gorevi"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "Travel with Pato",
+      "diziid": "pcys3",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/10/pato_ile_yolculuk"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "Playtime",
+      "diziid": "pcys3",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/11/oyun_zamani"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "Tennis Everyone",
+      "diziid": "pcys3",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/12/herkes_tenis_oynuyor"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "Hide and Seek",
+      "diziid": "pcys3",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/13/saklambac"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "Party Time",
+      "diziid": "pcys3",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/14/kutlama_zamani"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "Wheels",
+      "diziid": "pcys3",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/15/araclar"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Elly's Bath",
+      "diziid": "pcys3",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/16/ellynin_banyosu"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "The Amazing Tower",
+      "diziid": "pcys3",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/17/yuksek_kule"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "Pocoyoâ€™s New Toys",
+      "diziid": "pcys3",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/18/pocoyonun_yeni_oyuncaklari"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "Bathing Loula",
+      "diziid": "pcys3",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/19/loulayi_yikamak"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "Art",
+      "diziid": "pcys3",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/20/marifetli_parmaklar"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "Cooking with Elly",
+      "diziid": "pcys3",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/21/elly_ile_yemek_zamani"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "Elly's Market",
+      "diziid": "pcys3",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/22/ellynin_manavi"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "Patoâ€™s Bedtime",
+      "diziid": "pcys3",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/23/patonun_yatma_saati"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "Strike!",
+      "diziid": "pcys3",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/24/tek_vurus"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "Pocoyoâ€™s Camera",
+      "diziid": "pcys3",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/25/pocoyonun_fotograf_makinesi"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "Painting with Pocoyo",
+      "diziid": "pcys3",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/26/pocoyo_ile_resim_yapmak"
+    },
+    {
+      "season": 27,
+      "episode": 26,
+      "title": "Playing Dress Up",
+      "diziid": "pcys3",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/27/kiyafet_degistirmece"
+    },
+    {
+      "season": 28,
+      "episode": 27,
+      "title": "Magic Box",
+      "diziid": "pcys3",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/28/ozel_kutu"
+    },
+    {
+      "season": 29,
+      "episode": 28,
+      "title": "Pocoyoâ€™s Restaurant",
+      "diziid": "pcys3",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/29/pocoyonun_restorani"
+    },
+    {
+      "season": 30,
+      "episode": 29,
+      "title": "Wake UP, Pocoyo!",
+      "diziid": "pcys3",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/30/pocoyo%2C_hadi_uyan%21"
+    },
+    {
+      "season": 31,
+      "episode": 30,
+      "title": "Ahoy, Pocoyo!",
+      "diziid": "pcys3",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/31/korsan_pocoyo"
+    },
+    {
+      "season": 32,
+      "episode": 31,
+      "title": "Ellyâ€™s Computer",
+      "diziid": "pcys3",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/32/ellynin_bilgisayari"
+    },
+    {
+      "season": 33,
+      "episode": 32,
+      "title": "Going to the Beach",
+      "diziid": "pcys3",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/33/kumsala_gidiyoruz"
+    },
+    {
+      "season": 34,
+      "episode": 33,
+      "title": "Big & Small",
+      "diziid": "pcys3",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/34/buyuk_ve_kucuk"
+    },
+    {
+      "season": 35,
+      "episode": 34,
+      "title": "Face Painting",
+      "diziid": "pcys3",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/35/yuz_cizme"
+    },
+    {
+      "season": 36,
+      "episode": 35,
+      "title": "Pocoyoâ€™s Supermarket",
+      "diziid": "pcys3",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/36/supermarket"
+    },
+    {
+      "season": 37,
+      "episode": 36,
+      "title": "Ellyâ€™s Playhouse",
+      "diziid": "pcys3",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/37/ellynin_oyun_evi"
+    },
+    {
+      "season": 38,
+      "episode": 37,
+      "title": "Pocoyoâ€™s Puppet Theatre",
+      "diziid": "pcys3",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/38/pocoyonun_kukla_tiyatrosu"
+    },
+    {
+      "season": 39,
+      "episode": 38,
+      "title": "Up & Down",
+      "diziid": "pcys3",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/39/yukari_ve_asagi"
+    },
+    {
+      "season": 40,
+      "episode": 39,
+      "title": "Pocoyo's Breakfast",
+      "diziid": "pcys3",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/40/pocoyonun_kahvaltisi"
+    },
+    {
+      "season": 41,
+      "episode": 40,
+      "title": "Traffic Jam",
+      "diziid": "pcys3",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/41/sikisik_trafik"
+    },
+    {
+      "season": 42,
+      "episode": 41,
+      "title": "Patoâ€™s Living Room",
+      "diziid": "pcys3",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/42/patonun_oturma_odasi"
+    },
+    {
+      "season": 43,
+      "episode": 42,
+      "title": "Cinema",
+      "diziid": "pcys3",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/43/sinema"
+    },
+    {
+      "season": 44,
+      "episode": 43,
+      "title": "Ellyâ€™s New Doll",
+      "diziid": "pcys3",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/44/ellynin_yeni_oyuncak_bebegi"
+    },
+    {
+      "season": 45,
+      "episode": 44,
+      "title": "Circus",
+      "diziid": "pcys3",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/45/sirk"
+    },
+    {
+      "season": 46,
+      "episode": 45,
+      "title": "The Best Bedroom",
+      "diziid": "pcys3",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/46/en_guzel_yatak_odasi"
+    },
+    {
+      "season": 47,
+      "episode": 46,
+      "title": "Pocoyo Goes to School",
+      "diziid": "pcys3",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/47/pocoyo_okula_gidiyor"
+    },
+    {
+      "season": 48,
+      "episode": 47,
+      "title": "Art",
+      "diziid": "pcys3",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/48/sanat"
+    },
+    {
+      "season": 49,
+      "episode": 48,
+      "title": "Pocoyo Recycles",
+      "diziid": "pcys3",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/49/en_guzel_yatak_odasi"
+    },
+    {
+      "season": 50,
+      "episode": 49,
+      "title": "Down on the Farm",
+      "diziid": "pcys3",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/50/ciftlikte"
+    },
+    {
+      "season": 51,
+      "episode": 50,
+      "title": "Nurse Elly",
+      "diziid": "pcys3",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/51/hemsire_elly"
+    },
+    {
+      "season": 52,
+      "episode": 51,
+      "title": "Fishing with Pocoyo",
+      "diziid": "pcys3",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/pcys3/iste_basliyor%21_pocoyo%21/52/pocoyo_ile_balik_tutmak"
+    }
+  ]
+}

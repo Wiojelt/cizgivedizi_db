@@ -1,0 +1,37 @@
+{
+  "id": "mÃ¼zd",
+  "title": "mÃ¼ziÄŸin dahileri",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/MÃœZDPoster.avif",
+  "channel": "Da Vinci",
+  "genres": [
+    "MÃ¼zik/MÃ¼zikal",
+    "Tarihi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "We Can Be Heroes",
+      "diziid": "m%C3%BCzd",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/m%C3%BCzd/muzigin_dahileri/1/kahraman_olabiliriz"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Talkin' 'bout a Revolution",
+      "diziid": "m%C3%BCzd",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/m%C3%BCzd/muzigin_dahileri/2/bir_devrimden_bahsetmek"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Party like it's 1899",
+      "diziid": "m%C3%BCzd",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/m%C3%BCzd/muzigin_dahileri/3/1899daki_parti_gibi"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "id": "icad",
+  "title": "icatlarÄ±n dÃ¼nyasÄ±",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/ICADPoster.avif",
+  "channel": "Da Vinci",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Underwater Jetski",
+      "diziid": "icad",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/1/su_kirici"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Pony Play",
+      "diziid": "icad",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/2/at_keyif_topu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Football Robot",
+      "diziid": "icad",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/3/mobil_sanal_oyuncu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Balancing Rocks",
+      "diziid": "icad",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/4/tas_dengeleme"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Wheelchairs for Pets",
+      "diziid": "icad",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/5/hayvanlar_icin_tekerlekli_sandalye"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Wrist Concert Lights",
+      "diziid": "icad",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/6/uzaktan_renk_degistiren_bileklik"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Correcting Color Blindness",
+      "diziid": "icad",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/7/renk_korlugunu_duzelten_gozluk"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Animal Movie Magic",
+      "diziid": "icad",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/8/yesil_ekranda_hayvanlar"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Bowling Ball Math Lesson",
+      "diziid": "icad",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/9/video_kapi_zili"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Sit With Us App",
+      "diziid": "icad",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/10/bizimle_otur_uygulamasi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Football Fever",
+      "diziid": "icad",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/11/skycam"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Monster Video Walls",
+      "diziid": "icad",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/12/obscura"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "Fire Gel",
+      "diziid": "icad",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/14/ates_buzu"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "Robot Snake",
+      "diziid": "icad",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/15/balik_bulduran_uygulama"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Digital Camera Inventor",
+      "diziid": "icad",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/16/dijital_fotograf_makinesinin_mucidi"
+    },
+    {
+      "season": 1,
+      "episode": 16,
+      "title": "Luxury Treehouses",
+      "diziid": "icad",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/18/luks_agac_evler"
+    },
+    {
+      "season": 2,
+      "episode": 17,
+      "title": "Inland Surf Park",
+      "diziid": "icad",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/19/sorf_parki"
+    },
+    {
+      "season": 3,
+      "episode": 18,
+      "title": "Cellphone Inventor",
+      "diziid": "icad",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/20/havada_yuzenler"
+    },
+    {
+      "season": 4,
+      "episode": 19,
+      "title": "Globe Maker",
+      "diziid": "icad",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/21/kure_yapicilar"
+    },
+    {
+      "season": 5,
+      "episode": 20,
+      "title": "Medical MacGyver",
+      "diziid": "icad",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/22/kucuk_cihazlar"
+    },
+    {
+      "season": 6,
+      "episode": 21,
+      "title": "3D Statuetts",
+      "diziid": "icad",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/23/heykeller"
+    },
+    {
+      "season": 7,
+      "episode": 22,
+      "title": "Bat BnB",
+      "diziid": "icad",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/24/kopek_yikama_cihazi"
+    },
+    {
+      "season": 8,
+      "episode": 23,
+      "title": "Dog Food Chef",
+      "diziid": "icad",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/25/kopek_mamasi_sefi"
+    },
+    {
+      "season": 9,
+      "episode": 24,
+      "title": "Light Up Paint",
+      "diziid": "icad",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/26/isikli_boya"
+    },
+    {
+      "season": 10,
+      "episode": 25,
+      "title": "Ski Jump Slip N Slide",
+      "diziid": "icad",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/27/3_boyutlu_yemek"
+    },
+    {
+      "season": 11,
+      "episode": 26,
+      "title": "Girls Who Code",
+      "diziid": "icad",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/28/kodlayan_kizlar"
+    },
+    {
+      "season": 12,
+      "episode": 27,
+      "title": "Mine Killing Drone",
+      "diziid": "icad",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/29/mayin_bulan_drone"
+    },
+    {
+      "season": 13,
+      "episode": 28,
+      "title": "Shoes That Grow",
+      "diziid": "icad",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/30/buyuyen_ayakkabilar"
+    },
+    {
+      "season": 14,
+      "episode": 29,
+      "title": "Thermal Image Cameras",
+      "diziid": "icad",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/31/termal_goruntu_kameralari"
+    },
+    {
+      "season": 15,
+      "episode": 30,
+      "title": "Pop Up Greeting Cards",
+      "diziid": "icad",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/32/acilir_tebrik_kartlari"
+    },
+    {
+      "season": 16,
+      "episode": 31,
+      "title": "Floating Hammock",
+      "diziid": "icad",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/33/yuzen_hamak"
+    },
+    {
+      "season": 17,
+      "episode": 32,
+      "title": "Penguin Chick Bot",
+      "diziid": "icad",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/icad/icatlarin_dunyasi/34/penguen_civciv_botu"
+    }
+  ]
+}

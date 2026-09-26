@@ -1,0 +1,61 @@
+{
+  "id": "iwaju",
+  "title": "Ä±wÃ¡jÃº",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/IWAJUPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Bilim Kurgu",
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "IwÃ¡jÃº",
+      "diziid": "iwaju",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/iwaju/iw%C3%A1j%C3%BA/1/iw%C3%A1j%C3%BA"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Bode",
+      "diziid": "iwaju",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/iwaju/iw%C3%A1j%C3%BA/2/bode"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Kole",
+      "diziid": "iwaju",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/iwaju/iw%C3%A1j%C3%BA/3/kole"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Tunde",
+      "diziid": "iwaju",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/iwaju/iw%C3%A1j%C3%BA/4/tunde"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Otin",
+      "diziid": "iwaju",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/iwaju/iw%C3%A1j%C3%BA/5/otin"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Tola",
+      "diziid": "iwaju",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/iwaju/iw%C3%A1j%C3%BA/6/tola"
+    }
+  ]
+}

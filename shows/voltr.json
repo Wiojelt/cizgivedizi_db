@@ -1,0 +1,405 @@
+{
+  "id": "voltr",
+  "title": "voltron",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/VOLTRPoster.avif",
+  "channel": "D Ã‡ocuk",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Space Explorers Captured",
+      "diziid": "voltr",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/1/uzay_kasifleri_yakalandi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Escape to Another Planet",
+      "diziid": "voltr",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/2/baska_gezegene_kacis"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "A Ghost And Four Keys",
+      "diziid": "voltr",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/3/hayalet_ve_dort_anahtar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Missing Key",
+      "diziid": "voltr",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/4/kayip_anahtar"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Princess Joins Up",
+      "diziid": "voltr",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/5/prensesin_katilimi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Right Arm of Voltron",
+      "diziid": "voltr",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/6/voltronin_sag_kolu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Lion Has New Claws",
+      "diziid": "voltr",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/7/aslanin_penceleri"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Stolen Lion",
+      "diziid": "voltr",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/8/calinan_aslan"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "A Pretty Spy",
+      "diziid": "voltr",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/9/guzel_casus"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Secret of the White Lion",
+      "diziid": "voltr",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/10/beyaz_aslanin_sirri"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Surrender",
+      "diziid": "voltr",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/11/teslim_olmak"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Bad Birthday Party",
+      "diziid": "voltr",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/12/kotu_dogum_gunu_partisi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Witch Gets a Facelift",
+      "diziid": "voltr",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/13/cadinin_yuz_germesi"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "Give Me Your Princess",
+      "diziid": "voltr",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/15/bana_prensesini_ver"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Bridge Over the River Chozzerai",
+      "diziid": "voltr",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/16/nehir_uzerindeki_kopru"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "My Brother Is A Robeast",
+      "diziid": "voltr",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/17/kardesim_bir_robeast"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "Zarkon Is Dying",
+      "diziid": "voltr",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/18/zarkon_oluyor"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "The Buried Castle",
+      "diziid": "voltr",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/19/gomulu_kale"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "Pidge's Home Planet",
+      "diziid": "voltr",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/20/pidgein_ana_gezegeni"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "It'll Be a Cold Day",
+      "diziid": "voltr",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/21/soguk_bir_gun"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "The Deadly Flowers",
+      "diziid": "voltr",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/22/olumcul_cicekler"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "It Takes Real Lions",
+      "diziid": "voltr",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/23/gercek_aslanlar"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "Raid of the Alien Mice",
+      "diziid": "voltr",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/24/uzayli_fareler"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "Short Run of the Centipede Express",
+      "diziid": "voltr",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/25/kirkayak_ekspresi"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "The Invisible Robeast",
+      "diziid": "voltr",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/26/gorunmez_robeast"
+    },
+    {
+      "season": 27,
+      "episode": 26,
+      "title": "The Green Medusa",
+      "diziid": "voltr",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/27/yesil_medusa"
+    },
+    {
+      "season": 28,
+      "episode": 27,
+      "title": "The Treasure of Planet Tyrus",
+      "diziid": "voltr",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/28/tyrus_gezegeninin_hazinesi"
+    },
+    {
+      "season": 29,
+      "episode": 28,
+      "title": "Magnetic Attraction",
+      "diziid": "voltr",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/29/manyetik_cazibe"
+    },
+    {
+      "season": 30,
+      "episode": 29,
+      "title": "The Sleeping Princess",
+      "diziid": "voltr",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/30/uyuyan_prenses"
+    },
+    {
+      "season": 31,
+      "episode": 30,
+      "title": "The Sincerest Form of Flattery",
+      "diziid": "voltr",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/31/samimi_yalakalik"
+    },
+    {
+      "season": 32,
+      "episode": 31,
+      "title": "A Transplant for the Blue Lion",
+      "diziid": "voltr",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/32/mavi_aslan_icin_nakil"
+    },
+    {
+      "season": 33,
+      "episode": 32,
+      "title": "Attack of the Fierce Frogs",
+      "diziid": "voltr",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/33/kurbagalarin_saldirisi"
+    },
+    {
+      "season": 34,
+      "episode": 33,
+      "title": "Lotor Traps Pidge",
+      "diziid": "voltr",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/34/lotor_pidge_tuzaklari"
+    },
+    {
+      "season": 35,
+      "episode": 34,
+      "title": "Doom Boycotts the Space Olympics",
+      "diziid": "voltr",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/35/uzay_olimpiyatlari_boykotu"
+    },
+    {
+      "season": 36,
+      "episode": 35,
+      "title": "Lotor's Clone",
+      "diziid": "voltr",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/36/lotorun_klonu"
+    },
+    {
+      "season": 37,
+      "episode": 36,
+      "title": "Lotor's New Hitman",
+      "diziid": "voltr",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/37/lotorun_yeni_tetikcisi"
+    },
+    {
+      "season": 38,
+      "episode": 37,
+      "title": "Raid of the Red Berets",
+      "diziid": "voltr",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/38/kirmizi_bereliler_baskini"
+    },
+    {
+      "season": 39,
+      "episode": 38,
+      "title": "The Captive Comet",
+      "diziid": "voltr",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/39/tutsak_kuyruklu_yildiz"
+    },
+    {
+      "season": 40,
+      "episode": 39,
+      "title": "The Little Prince",
+      "diziid": "voltr",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/40/kucuk_prens"
+    },
+    {
+      "season": 41,
+      "episode": 40,
+      "title": "There Will Be A Royal Wedding",
+      "diziid": "voltr",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/41/kraliyet_dugunu"
+    },
+    {
+      "season": 42,
+      "episode": 41,
+      "title": "The Sand People",
+      "diziid": "voltr",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/42/kum_ailesi"
+    },
+    {
+      "season": 43,
+      "episode": 42,
+      "title": "Voltron Frees the Slaves",
+      "diziid": "voltr",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/43/voltron_koleleri_ozgurlestirir"
+    },
+    {
+      "season": 44,
+      "episode": 43,
+      "title": "Voltron vs. Voltron",
+      "diziid": "voltr",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/44/voltron%2C_voltrona_karsi"
+    },
+    {
+      "season": 45,
+      "episode": 44,
+      "title": "One Princess To Another",
+      "diziid": "voltr",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/45/bir_prensesten_digerine"
+    },
+    {
+      "season": 46,
+      "episode": 45,
+      "title": "The Mighty Space Mouse",
+      "diziid": "voltr",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/46/guclu_uzay_faresi"
+    },
+    {
+      "season": 47,
+      "episode": 46,
+      "title": "Summit Meeting",
+      "diziid": "voltr",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/47/toplanti"
+    },
+    {
+      "season": 48,
+      "episode": 47,
+      "title": "Return of Coran's Son",
+      "diziid": "voltr",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/48/coranin_oglu_donuyor"
+    },
+    {
+      "season": 49,
+      "episode": 48,
+      "title": "Coran's Son Runs Amok",
+      "diziid": "voltr",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/49/coranin_oglu_ve_amok"
+    },
+    {
+      "season": 50,
+      "episode": 49,
+      "title": "Zarkon Becomes a Robeast",
+      "diziid": "voltr",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/voltr/voltron/50/zarkon_robeast_oluyor"
+    }
+  ]
+}

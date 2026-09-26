@@ -1,0 +1,62 @@
+{
+  "id": "zettz",
+  "title": "kamen rider zeztz",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/ZETTZPoster.avif",
+  "channel": "Spacetoon",
+  "genres": [
+    "Aksiyon",
+    "Fantastik",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Start",
+      "diziid": "zettz",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/zettz/kamen_rider_zeztz/1/ajan_yedi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Explode",
+      "diziid": "zettz",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/zettz/kamen_rider_zeztz/2/bombaciyla_yuzlesme"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Erode",
+      "diziid": "zettz",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/zettz/kamen_rider_zeztz/3/bombaciyi_yok_etme"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Rob",
+      "diziid": "zettz",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/zettz/kamen_rider_zeztz/4/tuylu_canavarla_yuzlesme"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Crash",
+      "diziid": "zettz",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/zettz/kamen_rider_zeztz/5/tuylu_canavari_yok_etme"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Imprison",
+      "diziid": "zettz",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/zettz/kamen_rider_zeztz/6/canavarin_bedenindeki_gorev"
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "id": "sosd",
+  "title": "sakin ol, scooby doo!",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SOSDPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi",
+    "Dedektif",
+    "Gizem"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Mystery 101",
+      "diziid": "sosd",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/1/gizem_101_dersi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Game of Chicken",
+      "diziid": "sosd",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/2/tavuk_oyunu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "All Paws on Deck",
+      "diziid": "sosd",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/3/butun_penceler_guverteye"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Poodle Justice",
+      "diziid": "sosd",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/4/finonun_adaleti"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Grand Scam",
+      "diziid": "sosd",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/5/buyuk_dumen"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Trading Chases",
+      "diziid": "sosd",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/6/is_takibi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Be Quiet, Scooby-Doo!",
+      "diziid": "sosd",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/7/sessiz_ol%2C_scooby-doo%21"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Party Like It's 1899",
+      "diziid": "sosd",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/8/1899daki_parti_gibi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Screama Donna",
+      "diziid": "sosd",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/9/ciglik_atan_kadin"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Kitchen Frightmare",
+      "diziid": "sosd",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/10/mutfaktaki_kabus"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Me, Myself and A.I.",
+      "diziid": "sosd",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/11/ben%2C_kendim_ve_yapay_zeka"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Area 51 Adjacent",
+      "diziid": "sosd",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/12/51_numarali_bolge_siniri"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Where There's a Will, There's a Wraith",
+      "diziid": "sosd",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/13/bir_vasiyet_olan_yerde_bir_hayalet_vardir"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Scary Christmas",
+      "diziid": "sosd",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/14/korkutucu_noel"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "If You Can't Scooby-Doo the Time, Don't Scooby-Doo the Crime",
+      "diziid": "sosd",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/15/hapis_yatmak_istemiyorsan_suc_isleme"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Gremlin on a Plane",
+      "diziid": "sosd",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/16/bir_ucaktaki_gremlin"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Sorcerer Snacks Scare",
+      "diziid": "sosd",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/17/sihirbaz_atistirmaliklari_korkusu"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Saga of the Swamp Beast",
+      "diziid": "sosd",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/18/bataklik_canavari_efsanesi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Be Cold, Scooby-Doo!",
+      "diziid": "sosd",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/19/soguk_ol%2C_scooby-doo%21"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Giant Problems",
+      "diziid": "sosd",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/20/dev_problemler"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Eating Crow",
+      "diziid": "sosd",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/21/yiyen_karga"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "I Scooby-Dooby-Do",
+      "diziid": "sosd",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/22/ben_scooby_dooby_do"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "El Bandito",
+      "diziid": "sosd",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/23/el_bandito"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Into the Mouth of Madcap",
+      "diziid": "sosd",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/24/madcapin_agzinin_icine"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "The Norse Case Scenario",
+      "diziid": "sosd",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/25/iskandinav_senaryosu"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The People vs. Fred Jones",
+      "diziid": "sosd",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/26/insanlar_ve_fred_jones"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Some Fred Time",
+      "diziid": "sosd",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/27/fred_zamani"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "There Wolf",
+      "diziid": "sosd",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/28/kurt_adam"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Renn Scare",
+      "diziid": "sosd",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/29/korkunc_soytari"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "How to Train Your Coward",
+      "diziid": "sosd",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/30/korkagini_nasil_egitirsin"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Worst in Show",
+      "diziid": "sosd",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/31/gosterinin_en_kotusu"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Mysteries on the Disorient Express",
+      "diziid": "sosd",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/32/yonunu_sasirmis_trendeki_gizemler"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Halloween",
+      "diziid": "sosd",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/33/cadilar_bayrami"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "The Curse of Kaniaku",
+      "diziid": "sosd",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/34/kaniakunun_ugursuzlugu"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Vote Velma",
+      "diziid": "sosd",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/35/velmaya_oy_verin"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Scroogey Doo",
+      "diziid": "sosd",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/36/scroogey_doo"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "In Space",
+      "diziid": "sosd",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/37/uzayda"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Doo Not Disturb",
+      "diziid": "sosd",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/38/rahatsiz_etmeyin"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Silver Scream",
+      "diziid": "sosd",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/39/beyaz_ciglik"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "Fright of Hand",
+      "diziid": "sosd",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/40/el_korkusu"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "Greece Is the Word",
+      "diziid": "sosd",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/41/kelime_yunanistan"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "American Goth",
+      "diziid": "sosd",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/42/amerikan_gotik"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Omelettes Are Forever",
+      "diziid": "sosd",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/43/omletler_sonsuza_kadar"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "Ghost in the Mystery Machine",
+      "diziid": "sosd",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/44/gizem_makinesinin_hayaleti"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "Naughty or Ice",
+      "diziid": "sosd",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/45/yaramaz_ya_da_buz"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "Night of the Upsetting Shorts",
+      "diziid": "sosd",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/46/rahatsiz_edici_sort_gecesi"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "Junkyard Dogs",
+      "diziid": "sosd",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/47/hurdalik_kopekleri"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "Protein Titans 2",
+      "diziid": "sosd",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/48/protein_devleri_2"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "World of Witchcraft",
+      "diziid": "sosd",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/49/cadilik_dunyasi"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "Professor Huh: Part 1",
+      "diziid": "sosd",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/50/profesor_huh_bolum_1"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "Professor Huh? Part 6 Â¾",
+      "diziid": "sosd",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/51/profesor_huh_bolum_6_%C2%BE"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "Pizza O'Possum's / The Curse of Half-Beard's Booty",
+      "diziid": "sosd",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/sosd/sakin_ol%2C_scooby_doo%21/52/opossums_pizza__yari_sakalin_ganimetinin_gizemi"
+    }
+  ]
+}

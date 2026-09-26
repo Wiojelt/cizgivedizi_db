@@ -1,0 +1,572 @@
+{
+  "id": "lu",
+  "title": "lu ve yuva arkadaÅŸlarÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/LUPoster.avif",
+  "channel": "Cartoonito",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Fruit Caboose",
+      "diziid": "lu",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/1/meyve_vagonu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Bin Bug",
+      "diziid": "lu",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/2/bidon_bocegi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Bug Hugs",
+      "diziid": "lu",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/3/bocek_sarilmasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Tower Tower Wow",
+      "diziid": "lu",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/4/kule_kule_wow"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Xylophone Blues",
+      "diziid": "lu",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/5/ksilofon_muzigi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Copy Copy Caterpillar",
+      "diziid": "lu",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/6/kopyala_kopyala_tirtil"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "What If I Can't",
+      "diziid": "lu",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/7/ya_yapamazsam"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Home Toy",
+      "diziid": "lu",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/8/ev_oyuncagi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Elevator Play Date",
+      "diziid": "lu",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/9/asansor_oyuncagi_gunu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Wibble Blobs",
+      "diziid": "lu",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/10/hareketli_joleler"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Down in the Grumps",
+      "diziid": "lu",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/11/somurtkan"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Counting Spaghetti",
+      "diziid": "lu",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/12/makarna_saymak"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Lu's New Shoes",
+      "diziid": "lu",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/13/lunun_yeni_pabuclari"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Droopy Patrick",
+      "diziid": "lu",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/14/halsiz_patrick"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Horsefly Jumps",
+      "diziid": "lu",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/15/at_sineki_ziplar"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "When's My Turn?",
+      "diziid": "lu",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/16/benim_siram_ne_zaman"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "Play with me!",
+      "diziid": "lu",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/18/benimle_oyna"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "Proper Game",
+      "diziid": "lu",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/19/duzgun_oyun"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "My Friend Biba",
+      "diziid": "lu",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/20/arkadasim_biba"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "Vacuumasaurus",
+      "diziid": "lu",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/21/supurgesaurus"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "The Box",
+      "diziid": "lu",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/22/kutu"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "Spotty Rocket",
+      "diziid": "lu",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/23/benekli_roket"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "Goodbye Rain Boots",
+      "diziid": "lu",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/24/hosca_kal_cizmeler"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "I Can Catch",
+      "diziid": "lu",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/25/yakalayabilirim"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "That's My Favourite",
+      "diziid": "lu",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/26/en_sevdigim"
+    },
+    {
+      "season": 27,
+      "episode": 26,
+      "title": "Tidy Up",
+      "diziid": "lu",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/27/etrafi_topla"
+    },
+    {
+      "season": 28,
+      "episode": 27,
+      "title": "Find The Blueberries",
+      "diziid": "lu",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/28/yaban_mersinlerini_bul"
+    },
+    {
+      "season": 29,
+      "episode": 28,
+      "title": "Green Eyed Birthday Monster",
+      "diziid": "lu",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/29/yesil_gozlu_dogum_gunu_canavari"
+    },
+    {
+      "season": 30,
+      "episode": 29,
+      "title": "But Why?",
+      "diziid": "lu",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/30/ama_niye"
+    },
+    {
+      "season": 31,
+      "episode": 30,
+      "title": "Cupcake Surprise",
+      "diziid": "lu",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/31/surpriz_kek"
+    },
+    {
+      "season": 32,
+      "episode": 31,
+      "title": "A New Pet",
+      "diziid": "lu",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/32/yeni_bir_evcil_hayvan"
+    },
+    {
+      "season": 33,
+      "episode": 32,
+      "title": "Don't Want to Miss Out",
+      "diziid": "lu",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/33/kacirmak_istemiyorum"
+    },
+    {
+      "season": 34,
+      "episode": 33,
+      "title": "Penguin Please",
+      "diziid": "lu",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/34/penguen_lutfen"
+    },
+    {
+      "season": 35,
+      "episode": 34,
+      "title": "Swing Me",
+      "diziid": "lu",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/35/salla_beni"
+    },
+    {
+      "season": 36,
+      "episode": 35,
+      "title": "The Long Goodbye",
+      "diziid": "lu",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/36/uzun_vedalasma"
+    },
+    {
+      "season": 37,
+      "episode": 36,
+      "title": "Squeaky Squid",
+      "diziid": "lu",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/37/gicirtili_murekkep_baligi"
+    },
+    {
+      "season": 38,
+      "episode": 37,
+      "title": "Mon Ami Celeri",
+      "diziid": "lu",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/38/arkadasim_kereviz"
+    },
+    {
+      "season": 39,
+      "episode": 38,
+      "title": "Wiggling and Flapping",
+      "diziid": "lu",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/39/kivrimli_ve_kanatli"
+    },
+    {
+      "season": 41,
+      "episode": 39,
+      "title": "Baby Barnaby",
+      "diziid": "lu",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/41/bebek_barnaby"
+    },
+    {
+      "season": 42,
+      "episode": 40,
+      "title": "Lu's Decision",
+      "diziid": "lu",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/42/lunun_karari"
+    },
+    {
+      "season": 43,
+      "episode": 41,
+      "title": "Rocky Day",
+      "diziid": "lu",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/43/kayali_gun"
+    },
+    {
+      "season": 44,
+      "episode": 42,
+      "title": "Leaf Boats",
+      "diziid": "lu",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/44/yaprak_tekneleri"
+    },
+    {
+      "season": 45,
+      "episode": 43,
+      "title": "Bike Ride",
+      "diziid": "lu",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/45/bisiklet_surusu"
+    },
+    {
+      "season": 46,
+      "episode": 44,
+      "title": "Roly Poly Disappearance",
+      "diziid": "lu",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/46/bodur_rolandin_kaybolusu"
+    },
+    {
+      "season": 47,
+      "episode": 45,
+      "title": "Ask Me First",
+      "diziid": "lu",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/47/once_bana_sor"
+    },
+    {
+      "season": 48,
+      "episode": 46,
+      "title": "When Bugs Cry",
+      "diziid": "lu",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/48/bocekler_agladiginda"
+    },
+    {
+      "season": 49,
+      "episode": 47,
+      "title": "Long Long Line",
+      "diziid": "lu",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/49/uzun_sira"
+    },
+    {
+      "season": 50,
+      "episode": 48,
+      "title": "The Chalk",
+      "diziid": "lu",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/50/tebesir"
+    },
+    {
+      "season": 51,
+      "episode": 49,
+      "title": "Elodie Wants to Decide",
+      "diziid": "lu",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/51/elodie_karar_vermek_istiyor"
+    },
+    {
+      "season": 52,
+      "episode": 50,
+      "title": "Swim Class",
+      "diziid": "lu",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/52/yuzme_dersi"
+    },
+    {
+      "season": 53,
+      "episode": 51,
+      "title": "Squeak Jumps",
+      "diziid": "lu",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/53/gicirti_ziplamasi"
+    },
+    {
+      "season": 54,
+      "episode": 52,
+      "title": "Boat Trip",
+      "diziid": "lu",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/54/sandal_gezisi"
+    },
+    {
+      "season": 55,
+      "episode": 53,
+      "title": "Treasure Hunt",
+      "diziid": "lu",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/55/define_avi"
+    },
+    {
+      "season": 56,
+      "episode": 54,
+      "title": "Toy Hospital",
+      "diziid": "lu",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/56/oyuncak_hastanesi"
+    },
+    {
+      "season": 57,
+      "episode": 55,
+      "title": "Silly Soup",
+      "diziid": "lu",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/57/sapsal_corba"
+    },
+    {
+      "season": 58,
+      "episode": 56,
+      "title": "Scary Tara",
+      "diziid": "lu",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/58/korkunc_tara"
+    },
+    {
+      "season": 59,
+      "episode": 57,
+      "title": "Home School Day",
+      "diziid": "lu",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/59/ev_ve_okul_gunu"
+    },
+    {
+      "season": 60,
+      "episode": 58,
+      "title": "New Library Book",
+      "diziid": "lu",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/60/yeni_kutuphane_kitabi"
+    },
+    {
+      "season": 61,
+      "episode": 59,
+      "title": "Betty the Bookworm",
+      "diziid": "lu",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/61/kitap_kurdu_betty"
+    },
+    {
+      "season": 62,
+      "episode": 60,
+      "title": "Costume Day",
+      "diziid": "lu",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/62/kostum_gunu"
+    },
+    {
+      "season": 63,
+      "episode": 61,
+      "title": "Barnaby's Choice",
+      "diziid": "lu",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/63/barnabynin_secimi"
+    },
+    {
+      "season": 64,
+      "episode": 62,
+      "title": "Uncle Lorcan",
+      "diziid": "lu",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/64/lorcan_amca"
+    },
+    {
+      "season": 66,
+      "episode": 63,
+      "title": "Bright Beetle Lu",
+      "diziid": "lu",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/66/parlak_bocek_lu"
+    },
+    {
+      "season": 67,
+      "episode": 64,
+      "title": "Gotcha!",
+      "diziid": "lu",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/67/seni_buldum%21"
+    },
+    {
+      "season": 69,
+      "episode": 65,
+      "title": "The Big Laugh",
+      "diziid": "lu",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/69/kahkaha"
+    },
+    {
+      "season": 71,
+      "episode": 66,
+      "title": "Baby Horsefly",
+      "diziid": "lu",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/71/bebek_at_sinegi"
+    },
+    {
+      "season": 72,
+      "episode": 67,
+      "title": "Margo Mayfly",
+      "diziid": "lu",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/72/margo_mayis_sinegi"
+    },
+    {
+      "season": 73,
+      "episode": 68,
+      "title": "Grow Lines",
+      "diziid": "lu",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/73/boy_cizgileri"
+    },
+    {
+      "season": 74,
+      "episode": 69,
+      "title": "Packing for France",
+      "diziid": "lu",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/74/fransa_icin_hazirlik"
+    },
+    {
+      "season": 75,
+      "episode": 70,
+      "title": "Elodie's Graduation",
+      "diziid": "lu",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/lu/lu_ve_yuva_arkadaslari/75/elodienin_mezuniyeti"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "mickminyyÅŸ",
+  "title": "mickey ve minnie'nin yeni yÄ±l ÅŸarkÄ±sÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MICKMINYYÅPoster.avif",
+  "channel": "Disney Jr.",
+  "genres": [
+    "MÃ¼zik/MÃ¼zikal"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "We Wish You a Merry Christmas",
+      "diziid": "mickminyy%C5%9F",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/mickminyy%C5%9F/mickey_ve_minnienin_yeni_yil_sarkisi/1/mutlu_noeller_dileriz"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "12 Days of Christmas",
+      "diziid": "mickminyy%C5%9F",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/mickminyy%C5%9F/mickey_ve_minnienin_yeni_yil_sarkisi/2/noelin_12_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Jingle Bells",
+      "diziid": "mickminyy%C5%9F",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/mickminyy%C5%9F/mickey_ve_minnienin_yeni_yil_sarkisi/3/noel_canlari"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Hot Dog! Christmas",
+      "diziid": "mickminyy%C5%9F",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/mickminyy%C5%9F/mickey_ve_minnienin_yeni_yil_sarkisi/4/sosisli_sandvicli_noel"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Deck the Halls",
+      "diziid": "mickminyy%C5%9F",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/mickminyy%C5%9F/mickey_ve_minnienin_yeni_yil_sarkisi/5/salonlari_susleyin"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "mbc",
+  "title": "monster buster club",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MBCPoster.avif",
+  "channel": "Ã‡ocuk Smart",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Popular Kids",
+      "diziid": "mbc",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/1/populer_cocuklar"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Mindreader",
+      "diziid": "mbc",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/2/zihin_okuyucu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Wrong Number",
+      "diziid": "mbc",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/3/yanlis_numara"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Snack Time",
+      "diziid": "mbc",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/4/atistirma_zamani"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Trouble with Troublemaking",
+      "diziid": "mbc",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/5/sorun_cikarmayla_ilgili_sorun"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Dog Daze",
+      "diziid": "mbc",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/6/kopek_uyusuklugu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Flower King",
+      "diziid": "mbc",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/7/cicek_kral"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Battle of the Bands",
+      "diziid": "mbc",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/8/bandoidlerin_savasi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "World's Toughest Kid",
+      "diziid": "mbc",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/9/dunyanin_en_zor_cocugu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Acting Out",
+      "diziid": "mbc",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/10/harekete_gecmek"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Monster Beaters",
+      "diziid": "mbc",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/11/canavar_dayakcilari"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Comic Book Heroes",
+      "diziid": "mbc",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/12/cizgi_roman_kahramanlari"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Statue of Limitations",
+      "diziid": "mbc",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/13/zaman_asimi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Pipe Dreams",
+      "diziid": "mbc",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/14/hayalperestlik"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Aliens on the Fast Track",
+      "diziid": "mbc",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/15/hiz_yapan_uzaylilar"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Secret Santa",
+      "diziid": "mbc",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/16/gizli_noel_baba"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Bugaboos",
+      "diziid": "mbc",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/17/ocu_bocekler"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Forget-Me-Stone",
+      "diziid": "mbc",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/18/unut_beni_tasi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Camping Out",
+      "diziid": "mbc",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/19/disarida_kamp"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Trick or Treat... or Alien?",
+      "diziid": "mbc",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/20/seker_mi_saka_mi_yoksa_uzayli_mi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "A Matter of Principals",
+      "diziid": "mbc",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/21/mudur_meselesi"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Sore Winner",
+      "diziid": "mbc",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/22/muzik"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Beware of Frogs",
+      "diziid": "mbc",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/23/dikkat_kurbaga_cikabilir"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Outcracker's Badland Galaxy Tour",
+      "diziid": "mbc",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/24/koca_catlakin_corak_galaksi_turu"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "The End of Everything: Part 1",
+      "diziid": "mbc",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/25/her_seyin_sonu_bolum_1"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The End of Everything: Part 2",
+      "diziid": "mbc",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/mbc/monster_buster_club/26/her_seyin_sonu_bolum_2"
+    }
+  ]
+}

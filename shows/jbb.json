@@ -1,0 +1,188 @@
+{
+  "id": "jbb",
+  "title": "jibber ve jabber",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/JBBPoster.avif",
+  "channel": "TRT Ã‡ocuk",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 3,
+      "episode": 1,
+      "title": "Pirates of Privacy",
+      "diziid": "jbb",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/3/ozel_hayat_korsanlari_bolum_1"
+    },
+    {
+      "season": 4,
+      "episode": 2,
+      "title": "Mutiny of Privacy",
+      "diziid": "jbb",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/4/ozel_hayat_korsanlari_bolum_2"
+    },
+    {
+      "season": 5,
+      "episode": 3,
+      "title": "Cartoon Satellite",
+      "diziid": "jbb",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/5/cizgi_film_uydusu"
+    },
+    {
+      "season": 8,
+      "episode": 4,
+      "title": "Do You See What I See",
+      "diziid": "jbb",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/8/benim_gordugumu_sen_de_goruyor_musun"
+    },
+    {
+      "season": 9,
+      "episode": 5,
+      "title": "Jelly's Belly",
+      "diziid": "jbb",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/9/jolebazin_midesi"
+    },
+    {
+      "season": 10,
+      "episode": 6,
+      "title": "Pirates of Nowhere",
+      "diziid": "jbb",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/10/korsanlar_is_basinda"
+    },
+    {
+      "season": 11,
+      "episode": 7,
+      "title": "Kung Food",
+      "diziid": "jbb",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/11/kung_fu_yemegi"
+    },
+    {
+      "season": 12,
+      "episode": 8,
+      "title": "The Greatest Wall",
+      "diziid": "jbb",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/12/cin_seddi"
+    },
+    {
+      "season": 13,
+      "episode": 9,
+      "title": "Enter the Jelly",
+      "diziid": "jbb",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/13/jolebaz_"
+    },
+    {
+      "season": 14,
+      "episode": 10,
+      "title": "Book of Endings",
+      "diziid": "jbb",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/14/sonlar_kitabi"
+    },
+    {
+      "season": 15,
+      "episode": 11,
+      "title": "The Chamber of Perils",
+      "diziid": "jbb",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/15/tehlike_odasi"
+    },
+    {
+      "season": 16,
+      "episode": 12,
+      "title": "Brain vs Brawn",
+      "diziid": "jbb",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/16/akil_guce_karsi"
+    },
+    {
+      "season": 17,
+      "episode": 13,
+      "title": "Night of the Werewolf",
+      "diziid": "jbb",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/17/kurt_adam_gecesi"
+    },
+    {
+      "season": 18,
+      "episode": 14,
+      "title": "Lady Jess and Ms Hyde",
+      "diziid": "jbb",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/18/lady_jess_ve_bayan_hyde"
+    },
+    {
+      "season": 19,
+      "episode": 15,
+      "title": "Night of the Vampire",
+      "diziid": "jbb",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/19/vampirin_gecesi"
+    },
+    {
+      "season": 20,
+      "episode": 16,
+      "title": "No Such Things As Ghosts",
+      "diziid": "jbb",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/20/hayaletler_gibisi_yok"
+    },
+    {
+      "season": 21,
+      "episode": 17,
+      "title": "Space for Sale",
+      "diziid": "jbb",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/21/satilik_uzay"
+    },
+    {
+      "season": 22,
+      "episode": 18,
+      "title": "One Bad Asteroid",
+      "diziid": "jbb",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/22/kotu_bir_goktasi"
+    },
+    {
+      "season": 23,
+      "episode": 19,
+      "title": "Pirates Plunder Blunder",
+      "diziid": "jbb",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/23/korsanlar_tayfalari_icin_savasiyor"
+    },
+    {
+      "season": 24,
+      "episode": 20,
+      "title": "Attack of the Giant Worm-A-Noids",
+      "diziid": "jbb",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/24/dev_solucanlarin_saldirisi"
+    },
+    {
+      "season": 25,
+      "episode": 21,
+      "title": "April Fools Rules",
+      "diziid": "jbb",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/25/nisan_1_kurallari"
+    },
+    {
+      "season": 26,
+      "episode": 22,
+      "title": "Double or Nothing",
+      "diziid": "jbb",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/jbb/jibber_ve_jabber/26/ya_hep_ya_hic"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "denksih",
+  "title": "deniz kÄ±zÄ± sihri",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/DENKSÄ°HPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Pearls of Neptune",
+      "diziid": "denksih",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/denksih/deniz_kizi_sihri/1/neptun_incileri"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Pirates' Cove",
+      "diziid": "denksih",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/denksih/deniz_kizi_sihri/2/korsan_koyu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Dark Secrets Beneath the School",
+      "diziid": "denksih",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/denksih/deniz_kizi_sihri/3/okulun_altindaki_karanlik_sirlar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Guardian of the Pearls",
+      "diziid": "denksih",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/denksih/deniz_kizi_sihri/4/incilerin_muhafizi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Haunted Ride",
+      "diziid": "denksih",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/denksih/deniz_kizi_sihri/5/korku_tuneli"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Danger at Marine Rescue Center",
+      "diziid": "denksih",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/denksih/deniz_kizi_sihri/6/deniz_kurtarma_merkezinde_tehlike"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "A Volcanic Adventure",
+      "diziid": "denksih",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/denksih/deniz_kizi_sihri/7/volkan_macerasi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Return to Mertropia",
+      "diziid": "denksih",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/denksih/deniz_kizi_sihri/8/denizistana_donus"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "A Test for Merlinda",
+      "diziid": "denksih",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/denksih/deniz_kizi_sihri/9/merlinda_bir_testten_geciyor"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Power of the Pearls",
+      "diziid": "denksih",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/denksih/deniz_kizi_sihri/10/inci_gucu"
+    }
+  ]
+}

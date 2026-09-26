@@ -1,0 +1,428 @@
+{
+  "id": "ykr",
+  "title": "yakari",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/YKRPoster.avif",
+  "channel": "Ã‡ocuk Smart",
+  "genres": [
+    "DoÄŸa ve Hayvanlar"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Blue Horse",
+      "diziid": "ykr",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/105/mavi_at"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Clumsy Raccoon",
+      "diziid": "ykr",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/106/sakar_rakun"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Angry Crows",
+      "diziid": "ykr",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/107/kizgin_kayalar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Long March of Eyes-always-shut",
+      "diziid": "ykr",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/108/gozleri_hep_kapali"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Honor of the Tribe",
+      "diziid": "ykr",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/109/kabilenin_onuru"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Great Thirst",
+      "diziid": "ykr",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/110/buyuk_susuzluk"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Calumet Stone",
+      "diziid": "ykr",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/111/baris_cubugu_tasi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Sabotage in the Beaver Camp",
+      "diziid": "ykr",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/112/kunduz_kampinda_sabotaj"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Great-Grey's Fear",
+      "diziid": "ykr",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/113/buyuk_grinin_korkusu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Wolverine gets into Trouble",
+      "diziid": "ykr",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/114/porsukun_basi_dertte"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Many-Mouth's Memory",
+      "diziid": "ykr",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/115/koca_agizin_hafizasi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Grizzly Bear Hunt",
+      "diziid": "ykr",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/116/boz_ayi_avi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Spirit's Clearing",
+      "diziid": "ykr",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/117/ruhlarin_yeri"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Yakari and the Antler Velvet",
+      "diziid": "ykr",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/118/yakari_ve_boynuz_kadifesi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Path of the Puma",
+      "diziid": "ykr",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/119/pumanin_pesinde"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Great White Crow",
+      "diziid": "ykr",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/120/buyuk_beyaz_karga"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Brave Papoose",
+      "diziid": "ykr",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/121/cesur_kizilderili_cocuk"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Hot Springs Hero",
+      "diziid": "ykr",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/122/kaplica_kahramani"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The First Big Day Out",
+      "diziid": "ykr",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/123/disarida_ilk_buyuk_gun"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "White-Paw",
+      "diziid": "ykr",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/124/beyaz_pence"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Sleep of the Wolverine",
+      "diziid": "ykr",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/125/porsukun_uykusu"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "The Strange Phenomenon",
+      "diziid": "ykr",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/126/garip_bir_olay"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "The Sacred Tomahawk",
+      "diziid": "ykr",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/127/kutsal_kucuk_balta"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Everything Back To Front",
+      "diziid": "ykr",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/128/her_sey_tersine_dondu"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Tree Gliding",
+      "diziid": "ykr",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/129/agac_yarisi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "A Very Lazy Bear",
+      "diziid": "ykr",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/130/tembel_ayi"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "The Sun Tree",
+      "diziid": "ykr",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/131/gunes_agaci"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Some Friend You Are",
+      "diziid": "ykr",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/132/ne_arkadas_ama%21"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Chasing the Turquoise",
+      "diziid": "ykr",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/133/turkuazin_pesinde"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "The Stones That Speak",
+      "diziid": "ykr",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/134/konusan_taslar"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "The Good Seed",
+      "diziid": "ykr",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/135/iyi_tohum"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Save the Spikes!",
+      "diziid": "ykr",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/136/dikenleri_topla%21"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Faster than the Wind",
+      "diziid": "ykr",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/137/ruzgardan_daha_hizli"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "War Between Chiefs",
+      "diziid": "ykr",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/138/aciklik_icin_yaris"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Droopy-ear",
+      "diziid": "ykr",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/139/dusuk_kulak"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "A Guide In The Darkness",
+      "diziid": "ykr",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/140/gece_rehberi"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "An Unlikely Duo",
+      "diziid": "ykr",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/141/zit_cekim"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "In Search Of The Snow Trees",
+      "diziid": "ykr",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/142/kar_agaclarini_ararken"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Great-Yakari",
+      "diziid": "ykr",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/143/muhtesem_yakari"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "Free-horse",
+      "diziid": "ykr",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/144/ozgur_at"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "Dance of the Lynx",
+      "diziid": "ykr",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/145/lynxin_dansi"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Silence is Golden",
+      "diziid": "ykr",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/146/sukut_altindir"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Wild-Wind's Secret",
+      "diziid": "ykr",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/147/vahsi_ruzgarin_sirri"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "The Flying Bear Cub",
+      "diziid": "ykr",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/148/ucan_ayi_yavrusu"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "Under Eagle's Beak",
+      "diziid": "ykr",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/149/kartalin_gagasi"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "Two's Company",
+      "diziid": "ykr",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/150/ayrilmaz_ikili"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "SOS, Herd in Distress",
+      "diziid": "ykr",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/151/yardim_cagrisi%3A_suru_streste"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "The Red Ribbon",
+      "diziid": "ykr",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/152/kirmizi_kurdele"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "The Winged Totem",
+      "diziid": "ykr",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/153/kanatli_totem"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "In The Tepees' Shelter",
+      "diziid": "ykr",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/154/kizilderili_cadirinda"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "The Chief's Headdress",
+      "diziid": "ykr",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/155/sefin_basligi"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "Restful-Rock And The Coyote",
+      "diziid": "ykr",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/ykr/yakari/156/dinlendirici_kaya_ve_cakal"
+    }
+  ]
+}

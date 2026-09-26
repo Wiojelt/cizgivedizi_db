@@ -1,0 +1,340 @@
+{
+  "id": "deva",
+  "title": "dev arkadaÅŸÄ±m",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/DEVAPoster.avif",
+  "channel": "Kanal D",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Watch of Scire (part 1)",
+      "diziid": "deva",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/1/bilge_saat_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Watch of Scire (part 2)",
+      "diziid": "deva",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/2/bilge_saat_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Zatkush",
+      "diziid": "deva",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/3/robot_ev"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Stella",
+      "diziid": "deva",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/4/stella"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Proto 01",
+      "diziid": "deva",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/5/prototip"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Bodyguard",
+      "diziid": "deva",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/6/koruyucum"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "title": "TheDuel",
+      "diziid": "deva",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/8/duello"
+    },
+    {
+      "season": 10,
+      "episode": 8,
+      "title": "Operation Open House",
+      "diziid": "deva",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/10/herkese_acik_davet"
+    },
+    {
+      "season": 11,
+      "episode": 9,
+      "title": "Motus",
+      "diziid": "deva",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/11/telepati"
+    },
+    {
+      "season": 12,
+      "episode": 10,
+      "title": "Plook Hunters",
+      "diziid": "deva",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/12/plook_avcilari"
+    },
+    {
+      "season": 13,
+      "episode": 11,
+      "title": "Senidas Soudarits",
+      "diziid": "deva",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/13/yaslilarla_dayanisma"
+    },
+    {
+      "season": 15,
+      "episode": 12,
+      "title": "Our Friend Glassoon",
+      "diziid": "deva",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/15/dostumuz_glassoon"
+    },
+    {
+      "season": 16,
+      "episode": 13,
+      "title": "Big Catch",
+      "diziid": "deva",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/16/buyuk_tuzak"
+    },
+    {
+      "season": 17,
+      "episode": 14,
+      "title": "Princess Aqaba",
+      "diziid": "deva",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/17/prenses_aqaba"
+    },
+    {
+      "season": 18,
+      "episode": 15,
+      "title": "Th Dilemma",
+      "diziid": "deva",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/18/ikilem"
+    },
+    {
+      "season": 20,
+      "episode": 16,
+      "title": "Th Formidable Worby",
+      "diziid": "deva",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/20/sorunlu_wormby"
+    },
+    {
+      "season": 21,
+      "episode": 17,
+      "title": "Cute Enough to Eat",
+      "diziid": "deva",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/21/av_ve_avci"
+    },
+    {
+      "season": 22,
+      "episode": 18,
+      "title": "Captain Universe",
+      "diziid": "deva",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/22/kaptan_evren"
+    },
+    {
+      "season": 23,
+      "episode": 19,
+      "title": "Ronk and Zotz",
+      "diziid": "deva",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/23/ronk_ve_zotz"
+    },
+    {
+      "season": 24,
+      "episode": 20,
+      "title": "Gabots the Conqueror",
+      "diziid": "deva",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/24/gabotz"
+    },
+    {
+      "season": 25,
+      "episode": 21,
+      "title": "Hally",
+      "diziid": "deva",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/25/hally"
+    },
+    {
+      "season": 26,
+      "episode": 22,
+      "title": "Sacrifice (part 1)",
+      "diziid": "deva",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/26/fedakarlik_-_bolum_1"
+    },
+    {
+      "season": 27,
+      "episode": 23,
+      "title": "Sacrifice (part 2)",
+      "diziid": "deva",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/27/fedakarlik_-_bolum_2"
+    },
+    {
+      "season": 29,
+      "episode": 24,
+      "title": "Storom",
+      "diziid": "deva",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/29/stotorm"
+    },
+    {
+      "season": 31,
+      "episode": 25,
+      "title": "This is the Best Pitsi",
+      "diziid": "deva",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/31/bu_pits%21"
+    },
+    {
+      "season": 33,
+      "episode": 26,
+      "title": "Bye Bye BeeBee",
+      "diziid": "deva",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/33/gule_gule_beebee%21"
+    },
+    {
+      "season": 34,
+      "episode": 27,
+      "title": "As Old As You Feel",
+      "diziid": "deva",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/34/hissettigin_kadar_yasli"
+    },
+    {
+      "season": 36,
+      "episode": 28,
+      "title": "Marble",
+      "diziid": "deva",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/36/tas_gibi"
+    },
+    {
+      "season": 37,
+      "episode": 29,
+      "title": "Straight to the Heart",
+      "diziid": "deva",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/37/tam_kalbinden%21"
+    },
+    {
+      "season": 39,
+      "episode": 30,
+      "title": "Vortex",
+      "diziid": "deva",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/39/vortex"
+    },
+    {
+      "season": 40,
+      "episode": 31,
+      "title": "Surprise Guest",
+      "diziid": "deva",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/40/surpriz_ziyaretci"
+    },
+    {
+      "season": 42,
+      "episode": 32,
+      "title": "Gogalem",
+      "diziid": "deva",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/42/gogalem"
+    },
+    {
+      "season": 43,
+      "episode": 33,
+      "title": "Body Snatcher",
+      "diziid": "deva",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/43/beden_avcisi"
+    },
+    {
+      "season": 44,
+      "episode": 34,
+      "title": "Larva",
+      "diziid": "deva",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/44/larva"
+    },
+    {
+      "season": 45,
+      "episode": 35,
+      "title": "The Athlete",
+      "diziid": "deva",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/45/sporcu"
+    },
+    {
+      "season": 47,
+      "episode": 36,
+      "title": "Multiplex",
+      "diziid": "deva",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/47/multiplex"
+    },
+    {
+      "season": 48,
+      "episode": 37,
+      "title": "Flashback",
+      "diziid": "deva",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/48/geriye_don"
+    },
+    {
+      "season": 49,
+      "episode": 38,
+      "title": "Iris and Joon",
+      "diziid": "deva",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/49/iris_ve_joon"
+    },
+    {
+      "season": 50,
+      "episode": 39,
+      "title": "The Call of the Decoy",
+      "diziid": "deva",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/50/monique_ile_dans"
+    },
+    {
+      "season": 51,
+      "episode": 40,
+      "title": "The Omega Radius (part 1)",
+      "diziid": "deva",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/51/omega_isini_-_bolum_1"
+    },
+    {
+      "season": 52,
+      "episode": 41,
+      "title": "The Omega Radius (part 2)",
+      "diziid": "deva",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/deva/dev_arkadasim/52/omega_isini_-_bolum_2"
+    }
+  ]
+}

@@ -1,0 +1,956 @@
+{
+  "id": "dvob",
+  "title": "dorothy ve oz bÃ¼yÃ¼cÃ¼sÃ¼",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/DVOBPoster.avif",
+  "channel": "Boomerang",
+  "genres": [
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Beware the Woozy",
+      "diziid": "dvob",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/1/serseme_dikkat_edin"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Magical Mandolin",
+      "diziid": "dvob",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/2/sihirli_mandolin"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Toto Unleashed",
+      "diziid": "dvob",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/3/tasmasindan_kurtulan_toto"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Official Ozian Exam",
+      "diziid": "dvob",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/4/resmi_oz_sinavi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Locket Locket in My Pocket",
+      "diziid": "dvob",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/5/cebimdeki_madalyon"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Mixed-Up Mixer",
+      "diziid": "dvob",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/6/mikser"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Ojo the Unlucky",
+      "diziid": "dvob",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/7/sanssiz_ojo"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Lion's Share",
+      "diziid": "dvob",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/8/aslan_payi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Rules of Attraction",
+      "diziid": "dvob",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/9/cekiciligin_kurallari"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Brain Power of Love",
+      "diziid": "dvob",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/10/askin_beyin_gucu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Jinxed",
+      "diziid": "dvob",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/11/ugursuzluk"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Rise of the Nome King",
+      "diziid": "dvob",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/12/kral_nomenin_yukselisi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "One-Winged Wally",
+      "diziid": "dvob",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/13/tek_kanatli_wally"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Wand-erful",
+      "diziid": "dvob",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/14/sihirli_degnek"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "No Sleep Sleepover",
+      "diziid": "dvob",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/15/pijama_partisinde_uyumak_yok"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Lion Catches a Bug",
+      "diziid": "dvob",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/16/aslan_virus_kapar"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Tik Tok and Tin Man",
+      "diziid": "dvob",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/17/tik_tak_ve_teneke_adam"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "If I Only Had Some Brawn",
+      "diziid": "dvob",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/18/keske_biraz_kas_gucum_olsaydi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Beast Royales",
+      "diziid": "dvob",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/19/cirkin_krallar"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Time After Time",
+      "diziid": "dvob",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/20/tekrar_tekrar"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Kitten Around",
+      "diziid": "dvob",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/21/kedi_kente_hos_geldiniz"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Castle Sitters",
+      "diziid": "dvob",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/22/kale_bakicilari"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Stuck on You",
+      "diziid": "dvob",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/23/dostluk_zanki"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Family Matters",
+      "diziid": "dvob",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/24/ozinin_ailesi"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "The Emerald of Zog",
+      "diziid": "dvob",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/25/zog_zumrudu"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Cooking Up Some Magic",
+      "diziid": "dvob",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/26/sihirli_kurabiyeler"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Copy Cat",
+      "diziid": "dvob",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/27/kopya_kedi"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Snow Place Like Home",
+      "diziid": "dvob",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/28/kar_kuresi"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Mirror Madness",
+      "diziid": "dvob",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/29/sihirli_ayna"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Everything Coming Up Poppies",
+      "diziid": "dvob",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/30/uyutan_gelincikler"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "A Cut Above the Rest",
+      "diziid": "dvob",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/31/baloda_panik"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Abraca-Oops",
+      "diziid": "dvob",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/32/dilek_tasi"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Halloween Heist",
+      "diziid": "dvob",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/33/cadilar_bayrami"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Haunt Me Not",
+      "diziid": "dvob",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/34/seker_mi_saka_mi"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Wheelers of Fortune",
+      "diziid": "dvob",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/35/bozuk_teker"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Sister Sister",
+      "diziid": "dvob",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/36/cadi_kardes"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Moody Magic",
+      "diziid": "dvob",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/37/sihirli_yuzuk"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "If the Shoe Fits",
+      "diziid": "dvob",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/38/oteki_pabuc"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Get Smart",
+      "diziid": "dvob",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/39/mukemmel_plan"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Mission Imp-Possible",
+      "diziid": "dvob",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/40/zorlu_gorev"
+    },
+    {
+      "season": 1,
+      "episode": 41,
+      "title": "The Wizard Returns",
+      "diziid": "dvob",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/41/sihirbazin_donusu"
+    },
+    {
+      "season": 2,
+      "episode": 42,
+      "title": "The Wizard Pays a Visit",
+      "diziid": "dvob",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/42/sihirbaz_ziyarete_gelir"
+    },
+    {
+      "season": 3,
+      "episode": 43,
+      "title": "Escape From the Crystal Ball",
+      "diziid": "dvob",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/43/kristal_kureden_kacis"
+    },
+    {
+      "season": 4,
+      "episode": 44,
+      "title": "The Return of the Wicked Witch",
+      "diziid": "dvob",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/44/kotu_cadinin_donusu"
+    },
+    {
+      "season": 5,
+      "episode": 45,
+      "title": "Three Friends and a Magic Crystal",
+      "diziid": "dvob",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/45/uc_arkadas_ve_sihirli_bir_kristal"
+    },
+    {
+      "season": 6,
+      "episode": 46,
+      "title": "Toto Transformed",
+      "diziid": "dvob",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/46/toto_donustu"
+    },
+    {
+      "season": 7,
+      "episode": 47,
+      "title": "Scarecrow Knows Best",
+      "diziid": "dvob",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/47/korkuluk_en_iyisini_bilir"
+    },
+    {
+      "season": 8,
+      "episode": 48,
+      "title": "General Jinjur",
+      "diziid": "dvob",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/48/general_jinjur"
+    },
+    {
+      "season": 9,
+      "episode": 49,
+      "title": "Where-Helmina's My Broom?!",
+      "diziid": "dvob",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/49/supurgem_nerede"
+    },
+    {
+      "season": 10,
+      "episode": 50,
+      "title": "Yellow Brick Road Race",
+      "diziid": "dvob",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/50/sari_tuglali_yol_yarisi"
+    },
+    {
+      "season": 11,
+      "episode": 51,
+      "title": "Don't Follow the Yellow Brick Road",
+      "diziid": "dvob",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/51/sari_tuglali_yoldan_gitmeyin"
+    },
+    {
+      "season": 12,
+      "episode": 52,
+      "title": "The Tallest Munchkin",
+      "diziid": "dvob",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/52/en_uzun_munchkin"
+    },
+    {
+      "season": 13,
+      "episode": 53,
+      "title": "Scarecrow Goes to College",
+      "diziid": "dvob",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/53/korkuluk_universiteye_gidiyor"
+    },
+    {
+      "season": 14,
+      "episode": 54,
+      "title": "Welcome to Oz Mitch",
+      "diziid": "dvob",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/54/oza_hos_geldin_mitch"
+    },
+    {
+      "season": 15,
+      "episode": 55,
+      "title": "Wheeling Tin Man",
+      "diziid": "dvob",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/55/tekerlekli_teneke_adam"
+    },
+    {
+      "season": 16,
+      "episode": 56,
+      "title": "Home Away from Home",
+      "diziid": "dvob",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/56/evden_cok_uzakta"
+    },
+    {
+      "season": 17,
+      "episode": 57,
+      "title": "The Vault Heist",
+      "diziid": "dvob",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/57/mahsendeki_iksir"
+    },
+    {
+      "season": 18,
+      "episode": 58,
+      "title": "Witch One's the Boss?!",
+      "diziid": "dvob",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/58/hangisi_guclu"
+    },
+    {
+      "season": 19,
+      "episode": 59,
+      "title": "Wingmen No More",
+      "diziid": "dvob",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/59/kanatsiz_maymunlar"
+    },
+    {
+      "season": 20,
+      "episode": 60,
+      "title": "Hammer Time",
+      "diziid": "dvob",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/60/cekic_zamani"
+    },
+    {
+      "season": 21,
+      "episode": 61,
+      "title": "Jest Kidding",
+      "diziid": "dvob",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/61/sadece_saka"
+    },
+    {
+      "season": 22,
+      "episode": 62,
+      "title": "Sisterhood of the Witch",
+      "diziid": "dvob",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/62/cadi_kiz_kardes"
+    },
+    {
+      "season": 23,
+      "episode": 63,
+      "title": "The Old Classic",
+      "diziid": "dvob",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/63/eskisi"
+    },
+    {
+      "season": 24,
+      "episode": 64,
+      "title": "Too Predictable",
+      "diziid": "dvob",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/64/fazla_ongorulebilir"
+    },
+    {
+      "season": 25,
+      "episode": 65,
+      "title": "Oztember Surprise",
+      "diziid": "dvob",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/65/eylul_surprizi"
+    },
+    {
+      "season": 26,
+      "episode": 66,
+      "title": "Sir Hokus of Pokes",
+      "diziid": "dvob",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/66/bay_hokus_pokus"
+    },
+    {
+      "season": 27,
+      "episode": 67,
+      "title": "The Nice Witch",
+      "diziid": "dvob",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/67/iyi_cadi"
+    },
+    {
+      "season": 28,
+      "episode": 68,
+      "title": "Scoodlers",
+      "diziid": "dvob",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/68/koca_kafalar"
+    },
+    {
+      "season": 29,
+      "episode": 69,
+      "title": "Emerald Thumb",
+      "diziid": "dvob",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/69/zumrut_bitkiler"
+    },
+    {
+      "season": 30,
+      "episode": 70,
+      "title": "The Witch Hunter",
+      "diziid": "dvob",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/70/cadi_avcisi"
+    },
+    {
+      "season": 31,
+      "episode": 71,
+      "title": "The Tin Giant",
+      "diziid": "dvob",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/71/teneke_dev"
+    },
+    {
+      "season": 32,
+      "episode": 72,
+      "title": "Dorothy's Detective Agency",
+      "diziid": "dvob",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/72/dorothynin_dedektif_ajansi"
+    },
+    {
+      "season": 33,
+      "episode": 73,
+      "title": "Kingdom of Dreams",
+      "diziid": "dvob",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/73/ruyallar_kralligi"
+    },
+    {
+      "season": 34,
+      "episode": 74,
+      "title": "Ozmosis",
+      "diziid": "dvob",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/74/ozmosis"
+    },
+    {
+      "season": 35,
+      "episode": 75,
+      "title": "Lion and the Crown",
+      "diziid": "dvob",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/75/aslan_ve_tac"
+    },
+    {
+      "season": 36,
+      "episode": 76,
+      "title": "Munchkin School",
+      "diziid": "dvob",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/76/munchkin_okulu"
+    },
+    {
+      "season": 37,
+      "episode": 77,
+      "title": "Welcome to the Bungle",
+      "diziid": "dvob",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/77/kedi_fare_oyunu"
+    },
+    {
+      "season": 38,
+      "episode": 78,
+      "title": "The Mouse that Roared",
+      "diziid": "dvob",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/78/kukreyen_fare"
+    },
+    {
+      "season": 39,
+      "episode": 79,
+      "title": "Special Delivery",
+      "diziid": "dvob",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/79/ozel_teslimat"
+    },
+    {
+      "season": 40,
+      "episode": 80,
+      "title": "Broomstormers!",
+      "diziid": "dvob",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/80/ucan_supurgeler%21"
+    },
+    {
+      "season": 41,
+      "episode": 81,
+      "title": "Prisoner Under the Rainbow",
+      "diziid": "dvob",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/81/gokkusagi_altindaki_tutsak"
+    },
+    {
+      "season": 42,
+      "episode": 82,
+      "title": "The Lost Appetite",
+      "diziid": "dvob",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/82/kayip_istah"
+    },
+    {
+      "season": 43,
+      "episode": 83,
+      "title": "Chasing Rainbows",
+      "diziid": "dvob",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/83/gokkusagi_kovalama"
+    },
+    {
+      "season": 44,
+      "episode": 84,
+      "title": "The Wicked Wand",
+      "diziid": "dvob",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/84/kotu_asa"
+    },
+    {
+      "season": 45,
+      "episode": 85,
+      "title": "Ojo's Treasure Hunt",
+      "diziid": "dvob",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/85/ojonun_hazine_avi"
+    },
+    {
+      "season": 46,
+      "episode": 86,
+      "title": "Return of Pumpkinhead",
+      "diziid": "dvob",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/86/balkabaginin_donusu"
+    },
+    {
+      "season": 47,
+      "episode": 87,
+      "title": "Christmas in Oz: Part 1",
+      "diziid": "dvob",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/87/ozda_noel_bolum_1"
+    },
+    {
+      "season": 48,
+      "episode": 88,
+      "title": "Christmas in Oz: Part 2",
+      "diziid": "dvob",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/88/ozda_noel_bolum_2"
+    },
+    {
+      "season": 49,
+      "episode": 89,
+      "title": "Doozy of a Woozy",
+      "diziid": "dvob",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/89/woozynin_yaramazliklari"
+    },
+    {
+      "season": 50,
+      "episode": 90,
+      "title": "The Wizard Gets Witched",
+      "diziid": "dvob",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/90/sihirbaz_cadi_olur"
+    },
+    {
+      "season": 51,
+      "episode": 91,
+      "title": "Toto a Go! Go!",
+      "diziid": "dvob",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/91/kos%21_toto_kos%21"
+    },
+    {
+      "season": 52,
+      "episode": 92,
+      "title": "Cap'n Bill in \"Going Nowhere Fast\"",
+      "diziid": "dvob",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/92/kaptan_bill_hicbir_yere_gidemezsin"
+    },
+    {
+      "season": 1,
+      "episode": 93,
+      "title": "The Return of the Silver Slippers: Part 1",
+      "diziid": "dvob",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/93/gumus_pabuclarin_donusu%3A_1.bolum"
+    },
+    {
+      "season": 2,
+      "episode": 94,
+      "title": "The Return of the Silver Slippers: Part 2",
+      "diziid": "dvob",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/94/gumus_pabuclarin_donusu%3A_2.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 95,
+      "title": "The Return of the Silver Slippers: Part 3",
+      "diziid": "dvob",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/95/gumus_pabuclarin_donusu%3A_3.bolum"
+    },
+    {
+      "season": 4,
+      "episode": 96,
+      "title": "The Return of the Silver Slippers: Part 4",
+      "diziid": "dvob",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/96/gumus_pabuclarin_donusu%3A_4.bolum"
+    },
+    {
+      "season": 5,
+      "episode": 97,
+      "title": "Monkey Business Part 1",
+      "diziid": "dvob",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/97/maymun_isi%3A_bolum_1"
+    },
+    {
+      "season": 6,
+      "episode": 98,
+      "title": "Monkey Business Part 2",
+      "diziid": "dvob",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/98/maymun_isi%3A_bolum_2"
+    },
+    {
+      "season": 7,
+      "episode": 99,
+      "title": "Beast in Show",
+      "diziid": "dvob",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/99/gosterideki_canavar"
+    },
+    {
+      "season": 8,
+      "episode": 100,
+      "title": "The New Beast of the East",
+      "diziid": "dvob",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/100/dogunun_yeni_canavari"
+    },
+    {
+      "season": 9,
+      "episode": 101,
+      "title": "Oz on Ice: Part 1",
+      "diziid": "dvob",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/101/buzlar_altinda_oz%3A_1.bolum"
+    },
+    {
+      "season": 10,
+      "episode": 102,
+      "title": "Oz on Ice: Part 2",
+      "diziid": "dvob",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/102/buzlar_altinda_oz%3A_2.bolum"
+    },
+    {
+      "season": 11,
+      "episode": 103,
+      "title": "Naught a Fun Ride",
+      "diziid": "dvob",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/103/eglenceyi_bozan"
+    },
+    {
+      "season": 12,
+      "episode": 104,
+      "title": "Triple Something",
+      "diziid": "dvob",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/104/ucu_bir_arada"
+    },
+    {
+      "season": 13,
+      "episode": 105,
+      "title": "Hatterday Night Fever",
+      "diziid": "dvob",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/105/kayip_sapka_gecesi"
+    },
+    {
+      "season": 14,
+      "episode": 106,
+      "title": "Binkie Gets Her Groove Back",
+      "diziid": "dvob",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/106/blinkie_ritmini_buluyor"
+    },
+    {
+      "season": 15,
+      "episode": 107,
+      "title": "The Wicked Wizard",
+      "diziid": "dvob",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/107/kotu_sihirbaz"
+    },
+    {
+      "season": 16,
+      "episode": 108,
+      "title": "Doggone Cat Crazy",
+      "diziid": "dvob",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/108/kedi_cilgini"
+    },
+    {
+      "season": 17,
+      "episode": 109,
+      "title": "Guardians of the Gates of Yawn",
+      "diziid": "dvob",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/109/esneme_kapisinin_nobetcileri"
+    },
+    {
+      "season": 18,
+      "episode": 110,
+      "title": "Trip to the Moon",
+      "diziid": "dvob",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/110/aya_yolculuk"
+    },
+    {
+      "season": 19,
+      "episode": 111,
+      "title": "The Good, the Wicked, and the Silver: Part 1",
+      "diziid": "dvob",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/111/iyi%2C_kotu_ve_gumus_1.bolum"
+    },
+    {
+      "season": 20,
+      "episode": 112,
+      "title": "The Good, the Wicked, and the Silver: Part 2",
+      "diziid": "dvob",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/112/iyi%2C_kotu_ve_gumus_2.bolum"
+    },
+    {
+      "season": 21,
+      "episode": 113,
+      "title": "Three Eyes and a Baby",
+      "diziid": "dvob",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/113/uc_goz_ve_bir_bebek"
+    },
+    {
+      "season": 22,
+      "episode": 114,
+      "title": "Just for Kicks",
+      "diziid": "dvob",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/114/eglence_icin"
+    },
+    {
+      "season": 23,
+      "episode": 115,
+      "title": "The Tin Champion",
+      "diziid": "dvob",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/115/teneke_sampiyon"
+    },
+    {
+      "season": 24,
+      "episode": 116,
+      "title": "North Meets West",
+      "diziid": "dvob",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/116/kuzey_batiyla_bulusuyor"
+    },
+    {
+      "season": 25,
+      "episode": 117,
+      "title": "Battle for the Silver Slippers: Part 1",
+      "diziid": "dvob",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/117/gumus_pabuclar_savasi_bolum_1"
+    },
+    {
+      "season": 26,
+      "episode": 118,
+      "title": "Battle for the Silver Slippers: Part 2",
+      "diziid": "dvob",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/dvob/dorothy_ve_oz_buyucusu/118/gumus_pabuclar_savasi_bolum_2"
+    }
+  ]
+}

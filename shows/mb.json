@@ -1,0 +1,1389 @@
+{
+  "id": "mb",
+  "title": "mr. bean",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MBPoster.avif",
+  "channel": "Cartoonito",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "In the Wild",
+      "diziid": "mb",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/1/dogada"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Missing Teddy",
+      "diziid": "mb",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/2/kayip_oyuncak_ayi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "No Parking",
+      "diziid": "mb",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/3/park_yasak"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Bean's Bounty",
+      "diziid": "mb",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/4/beanin_hazinesi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Mime Games",
+      "diziid": "mb",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/5/pandomim_oyunlari"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Spring Clean",
+      "diziid": "mb",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/6/bahar_temizligi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Birthday Bear",
+      "diziid": "mb",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/7/dogum_gunu_ayisi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Mole",
+      "diziid": "mb",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/8/kostebek"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Roadworks",
+      "diziid": "mb",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/9/yol_calismasi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Sofa",
+      "diziid": "mb",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/10/kanepe"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Treasure!",
+      "diziid": "mb",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/11/hazine%21"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Homeless",
+      "diziid": "mb",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/12/evsiz"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Nurse!",
+      "diziid": "mb",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/13/hemsire%21"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Dead Cat",
+      "diziid": "mb",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/14/olu_kedi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Super Trolley",
+      "diziid": "mb",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/15/super_alisveris_arabasi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Magpie",
+      "diziid": "mb",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/16/saksagan"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Cat-Sitting",
+      "diziid": "mb",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/17/kedi_bakiciligi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Bottle",
+      "diziid": "mb",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/18/sise"
+    },
+    {
+      "season": 1,
+      "episode": 19,
+      "title": "Goldfish",
+      "diziid": "mb",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/19/japon_baligi"
+    },
+    {
+      "season": 2,
+      "episode": 20,
+      "title": "Inventor",
+      "diziid": "mb",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/20/mucit"
+    },
+    {
+      "season": 3,
+      "episode": 21,
+      "title": "Royal Bean",
+      "diziid": "mb",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/21/bean_kraliyette"
+    },
+    {
+      "season": 4,
+      "episode": 22,
+      "title": "Young Bean",
+      "diziid": "mb",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/22/kucuk_bean"
+    },
+    {
+      "season": 5,
+      "episode": 23,
+      "title": "In the Pink",
+      "diziid": "mb",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/23/pembeli"
+    },
+    {
+      "season": 7,
+      "episode": 24,
+      "title": "The Ball",
+      "diziid": "mb",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/25/top"
+    },
+    {
+      "season": 8,
+      "episode": 25,
+      "title": "Toothache",
+      "diziid": "mb",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/26/dis_agrisi"
+    },
+    {
+      "season": 9,
+      "episode": 26,
+      "title": "Haircut",
+      "diziid": "mb",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/27/sac_kestirmek"
+    },
+    {
+      "season": 10,
+      "episode": 27,
+      "title": "Goodnight, Mr. Bean",
+      "diziid": "mb",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/28/iyi_komsu_bean"
+    },
+    {
+      "season": 11,
+      "episode": 28,
+      "title": "Car Trouble",
+      "diziid": "mb",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/29/araba_sorunu"
+    },
+    {
+      "season": 12,
+      "episode": 29,
+      "title": "Restaurant",
+      "diziid": "mb",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/30/restoran"
+    },
+    {
+      "season": 16,
+      "episode": 30,
+      "title": "Wanted",
+      "diziid": "mb",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/34/araniyor"
+    },
+    {
+      "season": 1,
+      "episode": 31,
+      "title": "Gadget Kid",
+      "diziid": "mb",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/35/teknolojik_cocuk"
+    },
+    {
+      "season": 2,
+      "episode": 32,
+      "title": "The Visitor",
+      "diziid": "mb",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/36/ziyaretci"
+    },
+    {
+      "season": 3,
+      "episode": 33,
+      "title": "Big TV",
+      "diziid": "mb",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/37/buyuk_televizyon"
+    },
+    {
+      "season": 4,
+      "episode": 34,
+      "title": "Keyboard Capers",
+      "diziid": "mb",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/38/piyanist"
+    },
+    {
+      "season": 5,
+      "episode": 35,
+      "title": "Artful Bean",
+      "diziid": "mb",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/39/sanat_meraklisi_bean"
+    },
+    {
+      "season": 6,
+      "episode": 36,
+      "title": "The Fly",
+      "diziid": "mb",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/40/sinek"
+    },
+    {
+      "season": 7,
+      "episode": 37,
+      "title": "A Royal Makeover",
+      "diziid": "mb",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/41/kraliyet_duzenlemesi"
+    },
+    {
+      "season": 8,
+      "episode": 38,
+      "title": "SuperMarrow",
+      "diziid": "mb",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/42/super_kabak"
+    },
+    {
+      "season": 9,
+      "episode": 39,
+      "title": "A Running Battle",
+      "diziid": "mb",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/43/buyuk_yaris"
+    },
+    {
+      "season": 10,
+      "episode": 40,
+      "title": "Mr. Bean",
+      "diziid": "mb",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/44/yumurta_ve_bay_bean"
+    },
+    {
+      "season": 11,
+      "episode": 41,
+      "title": "Camping",
+      "diziid": "mb",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/45/kamp_yapmak"
+    },
+    {
+      "season": 12,
+      "episode": 42,
+      "title": "Chocks Away",
+      "diziid": "mb",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/46/ucus_zamani"
+    },
+    {
+      "season": 13,
+      "episode": 43,
+      "title": "Hopping Mad!",
+      "diziid": "mb",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/47/kurbaga_cilginligi"
+    },
+    {
+      "season": 14,
+      "episode": 44,
+      "title": "A Grand Invitation",
+      "diziid": "mb",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/48/buyuk_davet"
+    },
+    {
+      "season": 15,
+      "episode": 45,
+      "title": "No Pets",
+      "diziid": "mb",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/49/evcil_hayvan_yasak"
+    },
+    {
+      "season": 16,
+      "episode": 46,
+      "title": "Ray of Sunshine",
+      "diziid": "mb",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/50/gunes_isigi"
+    },
+    {
+      "season": 18,
+      "episode": 47,
+      "title": "Mr. Bean",
+      "diziid": "mb",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/52/iki_bean"
+    },
+    {
+      "season": 1,
+      "episode": 48,
+      "title": "Home Movie",
+      "diziid": "mb",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/53/ev_sinemasi"
+    },
+    {
+      "season": 2,
+      "episode": 49,
+      "title": "Fish Sitting",
+      "diziid": "mb",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/54/balik_mucadelesi"
+    },
+    {
+      "season": 3,
+      "episode": 50,
+      "title": "The Cruise",
+      "diziid": "mb",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/55/gezi"
+    },
+    {
+      "season": 4,
+      "episode": 51,
+      "title": "Coconut Shy",
+      "diziid": "mb",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/56/hindistan_cevizi_toplari"
+    },
+    {
+      "season": 5,
+      "episode": 52,
+      "title": "Green Bean",
+      "diziid": "mb",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/57/yesil_bean"
+    },
+    {
+      "season": 6,
+      "episode": 53,
+      "title": "Cash Machine",
+      "diziid": "mb",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/58/para_cekme_makinesi"
+    },
+    {
+      "season": 7,
+      "episode": 54,
+      "title": "Litterbugs",
+      "diziid": "mb",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/59/cop_atanlar"
+    },
+    {
+      "season": 8,
+      "episode": 55,
+      "title": "Rat Trap",
+      "diziid": "mb",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/60/fare_kapani"
+    },
+    {
+      "season": 9,
+      "episode": 56,
+      "title": "Valentine's Bean",
+      "diziid": "mb",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/61/beanin_sevgililer_gunu"
+    },
+    {
+      "season": 10,
+      "episode": 57,
+      "title": "All You Can Eat",
+      "diziid": "mb",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/62/acik_bufe"
+    },
+    {
+      "season": 11,
+      "episode": 58,
+      "title": "Flat Pack",
+      "diziid": "mb",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/63/mobilya_montaji"
+    },
+    {
+      "season": 12,
+      "episode": 59,
+      "title": "Holiday for Teddy",
+      "diziid": "mb",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/64/teddynin_tatili"
+    },
+    {
+      "season": 13,
+      "episode": 60,
+      "title": "The Newspaper",
+      "diziid": "mb",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/65/gazete"
+    },
+    {
+      "season": 14,
+      "episode": 61,
+      "title": "Viral Bean",
+      "diziid": "mb",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/66/viral_bean"
+    },
+    {
+      "season": 15,
+      "episode": 62,
+      "title": "Super Spy",
+      "diziid": "mb",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/67/super_ajan"
+    },
+    {
+      "season": 16,
+      "episode": 63,
+      "title": "Scout Bean",
+      "diziid": "mb",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/68/izci_bean"
+    },
+    {
+      "season": 17,
+      "episode": 64,
+      "title": "Back to School",
+      "diziid": "mb",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/69/okula_donus"
+    },
+    {
+      "season": 18,
+      "episode": 65,
+      "title": "Lord Bean",
+      "diziid": "mb",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/70/lord_bean"
+    },
+    {
+      "season": 19,
+      "episode": 66,
+      "title": "Car Wars",
+      "diziid": "mb",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/71/araba_savaslari"
+    },
+    {
+      "season": 20,
+      "episode": 67,
+      "title": "Wedding Day",
+      "diziid": "mb",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/72/dugun_gunu"
+    },
+    {
+      "season": 21,
+      "episode": 68,
+      "title": "Bean Phone",
+      "diziid": "mb",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/73/bean_telefonu"
+    },
+    {
+      "season": 22,
+      "episode": 69,
+      "title": "Hotel Bean",
+      "diziid": "mb",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/74/otel_bean"
+    },
+    {
+      "season": 23,
+      "episode": 70,
+      "title": "Jurassic Bean",
+      "diziid": "mb",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/75/jurassic_bean"
+    },
+    {
+      "season": 24,
+      "episode": 71,
+      "title": "Caring Bean",
+      "diziid": "mb",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/76/bakici_bean"
+    },
+    {
+      "season": 25,
+      "episode": 72,
+      "title": "Opera Bean",
+      "diziid": "mb",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/77/opera_sever_bean"
+    },
+    {
+      "season": 26,
+      "episode": 73,
+      "title": "Taxi Bean",
+      "diziid": "mb",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/78/taksici_bean"
+    },
+    {
+      "season": 27,
+      "episode": 74,
+      "title": "Muscle Bean",
+      "diziid": "mb",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/79/kasli_bean"
+    },
+    {
+      "season": 28,
+      "episode": 75,
+      "title": "A New Friend",
+      "diziid": "mb",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/80/yeni_arkadas"
+    },
+    {
+      "season": 29,
+      "episode": 76,
+      "title": "The Lift",
+      "diziid": "mb",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/81/asansor"
+    },
+    {
+      "season": 30,
+      "episode": 77,
+      "title": "Dig This",
+      "diziid": "mb",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/82/kaz_sunu"
+    },
+    {
+      "season": 32,
+      "episode": 78,
+      "title": "Car Wash",
+      "diziid": "mb",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/84/arac_yikama"
+    },
+    {
+      "season": 33,
+      "episode": 79,
+      "title": "Where Did You Get That Cat?",
+      "diziid": "mb",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/85/o_kediyi_nereden_buldun"
+    },
+    {
+      "season": 34,
+      "episode": 80,
+      "title": "Valuable Lessons",
+      "diziid": "mb",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/86/degerli_dersler"
+    },
+    {
+      "season": 35,
+      "episode": 81,
+      "title": "Halloween",
+      "diziid": "mb",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/87/cadilar_bayrami"
+    },
+    {
+      "season": 36,
+      "episode": 82,
+      "title": "Bean Painting",
+      "diziid": "mb",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/88/ressam_bean"
+    },
+    {
+      "season": 37,
+      "episode": 83,
+      "title": "Wrestle Bean",
+      "diziid": "mb",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/89/guresci_bean"
+    },
+    {
+      "season": 38,
+      "episode": 84,
+      "title": "Rare Bird",
+      "diziid": "mb",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/90/ender_bulunan_kus"
+    },
+    {
+      "season": 39,
+      "episode": 85,
+      "title": "Bean's Safari",
+      "diziid": "mb",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/91/bean_safaride"
+    },
+    {
+      "season": 40,
+      "episode": 86,
+      "title": "A Round of Golf",
+      "diziid": "mb",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/92/bir_tur_golf"
+    },
+    {
+      "season": 41,
+      "episode": 87,
+      "title": "Superhero Bean",
+      "diziid": "mb",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/93/super_kahraman_bean"
+    },
+    {
+      "season": 42,
+      "episode": 88,
+      "title": "What a Load of Rubbish",
+      "diziid": "mb",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/94/bir_dolu_ivir_zivir"
+    },
+    {
+      "season": 43,
+      "episode": 89,
+      "title": "The Robot",
+      "diziid": "mb",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/95/robot"
+    },
+    {
+      "season": 44,
+      "episode": 90,
+      "title": "Ice Cream",
+      "diziid": "mb",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/96/dondurma"
+    },
+    {
+      "season": 45,
+      "episode": 91,
+      "title": "Birthday Party",
+      "diziid": "mb",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/97/dogum_gunu_partisi"
+    },
+    {
+      "season": 46,
+      "episode": 92,
+      "title": "In the Garden",
+      "diziid": "mb",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/98/bahcede"
+    },
+    {
+      "season": 47,
+      "episode": 93,
+      "title": "A Magic Day Out",
+      "diziid": "mb",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/99/disarida_sihirli_bir_gun"
+    },
+    {
+      "season": 48,
+      "episode": 94,
+      "title": "Ball Pool",
+      "diziid": "mb",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/100/top_havuzu"
+    },
+    {
+      "season": 49,
+      "episode": 95,
+      "title": "Pizza Bean",
+      "diziid": "mb",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/101/pizza_bean"
+    },
+    {
+      "season": 50,
+      "episode": 96,
+      "title": "The Photograph",
+      "diziid": "mb",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/102/fotograf"
+    },
+    {
+      "season": 51,
+      "episode": 97,
+      "title": "Dancing Bean",
+      "diziid": "mb",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/103/dansci_bean"
+    },
+    {
+      "season": 52,
+      "episode": 98,
+      "title": "Bean Shopping",
+      "diziid": "mb",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/104/bean_alisveriste"
+    },
+    {
+      "season": 1,
+      "episode": 99,
+      "title": "Game Over",
+      "diziid": "mb",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/105/oyunun_sonu"
+    },
+    {
+      "season": 2,
+      "episode": 100,
+      "title": "Special Delivery",
+      "diziid": "mb",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/106/ozel_teslimat"
+    },
+    {
+      "season": 3,
+      "episode": 101,
+      "title": "A Dog's Life",
+      "diziid": "mb",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/107/bir_kopegin_yasami"
+    },
+    {
+      "season": 4,
+      "episode": 102,
+      "title": "Big Stink",
+      "diziid": "mb",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/108/kotu_koku"
+    },
+    {
+      "season": 5,
+      "episode": 103,
+      "title": "Birthday Bother",
+      "diziid": "mb",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/109/yas_gunu_sikintisi"
+    },
+    {
+      "season": 6,
+      "episode": 104,
+      "title": "Bed Bean",
+      "diziid": "mb",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/110/bean_yatakta"
+    },
+    {
+      "season": 7,
+      "episode": 105,
+      "title": "Spa Day",
+      "diziid": "mb",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/111/spa_gunu"
+    },
+    {
+      "season": 8,
+      "episode": 106,
+      "title": "Charity Bean",
+      "diziid": "mb",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/112/hayirsever_bean"
+    },
+    {
+      "season": 9,
+      "episode": 107,
+      "title": "Bean Encore",
+      "diziid": "mb",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/113/bean_sahnede"
+    },
+    {
+      "season": 10,
+      "episode": 108,
+      "title": "Mobile Home",
+      "diziid": "mb",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/114/mobil_ev"
+    },
+    {
+      "season": 11,
+      "episode": 109,
+      "title": "Haunted House",
+      "diziid": "mb",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/115/perili_ev"
+    },
+    {
+      "season": 12,
+      "episode": 110,
+      "title": "Eau de Bean",
+      "diziid": "mb",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/116/bean_parfumu"
+    },
+    {
+      "season": 13,
+      "episode": 111,
+      "title": "Running on Empty",
+      "diziid": "mb",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/117/aracin_yakiti_bitince"
+    },
+    {
+      "season": 14,
+      "episode": 112,
+      "title": "Bean Bug",
+      "diziid": "mb",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/118/pireli_bean"
+    },
+    {
+      "season": 15,
+      "episode": 113,
+      "title": "Coffee Bean",
+      "diziid": "mb",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/119/kahve_cekirdegi"
+    },
+    {
+      "season": 16,
+      "episode": 114,
+      "title": "The Big Freeze",
+      "diziid": "mb",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/120/asiri_soguk"
+    },
+    {
+      "season": 17,
+      "episode": 115,
+      "title": "Scrapper Cleans Up",
+      "diziid": "mb",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/121/talip_scrapper"
+    },
+    {
+      "season": 18,
+      "episode": 116,
+      "title": "Coach Trip",
+      "diziid": "mb",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/122/otobus_gezisi"
+    },
+    {
+      "season": 19,
+      "episode": 117,
+      "title": "Save That Tree",
+      "diziid": "mb",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/123/agaci_kurtarin"
+    },
+    {
+      "season": 20,
+      "episode": 118,
+      "title": "For Sale",
+      "diziid": "mb",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/124/satilik_ev"
+    },
+    {
+      "season": 21,
+      "episode": 119,
+      "title": "Jumping Bean",
+      "diziid": "mb",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/125/kaykayli_bean"
+    },
+    {
+      "season": 22,
+      "episode": 120,
+      "title": "Cat Chaos",
+      "diziid": "mb",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/126/kedi_kaosu"
+    },
+    {
+      "season": 23,
+      "episode": 121,
+      "title": "Stick It",
+      "diziid": "mb",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/127/etiketler"
+    },
+    {
+      "season": 24,
+      "episode": 122,
+      "title": "Bean at the Museum",
+      "diziid": "mb",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/128/bean_muzede"
+    },
+    {
+      "season": 25,
+      "episode": 123,
+      "title": "A Car for Irma",
+      "diziid": "mb",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/129/irmanin_arabasi"
+    },
+    {
+      "season": 26,
+      "episode": 124,
+      "title": "Trophy Bean",
+      "diziid": "mb",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/130/beanin_odulu"
+    },
+    {
+      "season": 1,
+      "episode": 125,
+      "title": "A Day In Bed",
+      "diziid": "mb",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/131/yatak_gunu"
+    },
+    {
+      "season": 2,
+      "episode": 126,
+      "title": "Karting Bean",
+      "diziid": "mb",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/132/go-kartci_bean"
+    },
+    {
+      "season": 3,
+      "episode": 127,
+      "title": "Bowled Over",
+      "diziid": "mb",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/133/bean_bowlingte"
+    },
+    {
+      "season": 4,
+      "episode": 128,
+      "title": "Sample Sale",
+      "diziid": "mb",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/134/kermes"
+    },
+    {
+      "season": 5,
+      "episode": 129,
+      "title": "Grounded",
+      "diziid": "mb",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/135/cezali"
+    },
+    {
+      "season": 6,
+      "episode": 130,
+      "title": "Un-suitable",
+      "diziid": "mb",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/136/uygunsuz"
+    },
+    {
+      "season": 7,
+      "episode": 131,
+      "title": "Fitness Instructor",
+      "diziid": "mb",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/137/fitness_egitmeni"
+    },
+    {
+      "season": 8,
+      "episode": 132,
+      "title": "Trampoline Trouble",
+      "diziid": "mb",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/138/trambolin_parki"
+    },
+    {
+      "season": 9,
+      "episode": 133,
+      "title": "Sheepish Bean",
+      "diziid": "mb",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/139/koyun_bean"
+    },
+    {
+      "season": 10,
+      "episode": 134,
+      "title": "Page Turner",
+      "diziid": "mb",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/140/kitap_kurdu"
+    },
+    {
+      "season": 11,
+      "episode": 135,
+      "title": "Arcade Trouble",
+      "diziid": "mb",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/141/oyun_salonu"
+    },
+    {
+      "season": 12,
+      "episode": 136,
+      "title": "Alarm Bean",
+      "diziid": "mb",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/142/alarm_sorunu"
+    },
+    {
+      "season": 13,
+      "episode": 137,
+      "title": "Operation Wicket",
+      "diziid": "mb",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/143/wicket_hastanede"
+    },
+    {
+      "season": 14,
+      "episode": 138,
+      "title": "Supermarket Ride",
+      "diziid": "mb",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/144/supermarket_yolculugu"
+    },
+    {
+      "season": 15,
+      "episode": 139,
+      "title": "Bean's Blooms",
+      "diziid": "mb",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/145/bean%E2%80%99in_cicekleri"
+    },
+    {
+      "season": 16,
+      "episode": 140,
+      "title": "Drone Rescue",
+      "diziid": "mb",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/146/drone_kurtarisi"
+    },
+    {
+      "season": 17,
+      "episode": 141,
+      "title": "Say Cheese!",
+      "diziid": "mb",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/147/fotograf_cekimi"
+    },
+    {
+      "season": 18,
+      "episode": 142,
+      "title": "Tale of Two Teddies",
+      "diziid": "mb",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/148/iki_ayicik_hikayesi"
+    },
+    {
+      "season": 19,
+      "episode": 143,
+      "title": "Climbing Bean",
+      "diziid": "mb",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/149/bean_tirmaniyor"
+    },
+    {
+      "season": 21,
+      "episode": 144,
+      "title": "Precious Plant",
+      "diziid": "mb",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/151/degerli_bitki"
+    },
+    {
+      "season": 22,
+      "episode": 145,
+      "title": "Bin and Gone",
+      "diziid": "mb",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/152/cop_kovalamacasi"
+    },
+    {
+      "season": 23,
+      "episode": 146,
+      "title": "Staycation",
+      "diziid": "mb",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/153/evde_tatil"
+    },
+    {
+      "season": 24,
+      "episode": 147,
+      "title": "Funfair",
+      "diziid": "mb",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/154/lunapark"
+    },
+    {
+      "season": 25,
+      "episode": 148,
+      "title": "Grandfather Clock",
+      "diziid": "mb",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/155/dolapli_saat"
+    },
+    {
+      "season": 1,
+      "episode": 149,
+      "title": "Wicket's Driving Lesson",
+      "diziid": "mb",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/157/wicketin_direksiyon_dersi"
+    },
+    {
+      "season": 2,
+      "episode": 150,
+      "title": "Prize Photo",
+      "diziid": "mb",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/158/odul_fotografi"
+    },
+    {
+      "season": 3,
+      "episode": 151,
+      "title": "Scrapper's Snack",
+      "diziid": "mb",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/159/pacavranin_atistirmaligi"
+    },
+    {
+      "season": 5,
+      "episode": 152,
+      "title": "Ghost Spotters",
+      "diziid": "mb",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/161/hayalet_avcilari"
+    },
+    {
+      "season": 6,
+      "episode": 153,
+      "title": "Necklace Thief",
+      "diziid": "mb",
+      "bolum": "162",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/162/kolye_hirsizi"
+    },
+    {
+      "season": 7,
+      "episode": 154,
+      "title": "The Big Shrink",
+      "diziid": "mb",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/163/buyuk_kuculme"
+    },
+    {
+      "season": 8,
+      "episode": 155,
+      "title": "Winning Ticket",
+      "diziid": "mb",
+      "bolum": "164",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/164/kazanan_bilet"
+    },
+    {
+      "season": 9,
+      "episode": 156,
+      "title": "Train Trouble",
+      "diziid": "mb",
+      "bolum": "165",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/165/tren_sorunu"
+    },
+    {
+      "season": 10,
+      "episode": 157,
+      "title": "Blown Away",
+      "diziid": "mb",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/166/ucan_yapraklar"
+    },
+    {
+      "season": 11,
+      "episode": 158,
+      "title": "Autograph Hunter",
+      "diziid": "mb",
+      "bolum": "167",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/167/imza_avcisi"
+    },
+    {
+      "season": 12,
+      "episode": 159,
+      "title": "The Sofa Stain",
+      "diziid": "mb",
+      "bolum": "168",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/168/kanepe_lekesi"
+    },
+    {
+      "season": 13,
+      "episode": 160,
+      "title": "Bean The Pet Groomer",
+      "diziid": "mb",
+      "bolum": "169",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/169/hayvan_kuaforu_bean"
+    },
+    {
+      "season": 15,
+      "episode": 161,
+      "title": "Table Tennis Trick",
+      "diziid": "mb",
+      "bolum": "171",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/171/masa_tenisi_numarasi"
+    },
+    {
+      "season": 16,
+      "episode": 162,
+      "title": "Walking Into Trouble",
+      "diziid": "mb",
+      "bolum": "172",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/172/dertli_yol"
+    },
+    {
+      "season": 17,
+      "episode": 163,
+      "title": "Bean's Baby",
+      "diziid": "mb",
+      "bolum": "173",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/173/beanin_bebegi"
+    },
+    {
+      "season": 18,
+      "episode": 164,
+      "title": "Hiding At Home",
+      "diziid": "mb",
+      "bolum": "174",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/174/evde_saklambac"
+    },
+    {
+      "season": 19,
+      "episode": 165,
+      "title": "Bean's Bath Bother",
+      "diziid": "mb",
+      "bolum": "175",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/175/beanin_banyo_sorunu"
+    },
+    {
+      "season": 20,
+      "episode": 166,
+      "title": "Opera For One",
+      "diziid": "mb",
+      "bolum": "176",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/176/ozel_konser"
+    },
+    {
+      "season": 21,
+      "episode": 167,
+      "title": "Bean Hatches A Plan",
+      "diziid": "mb",
+      "bolum": "177",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/177/beanin_plani"
+    },
+    {
+      "season": 22,
+      "episode": 168,
+      "title": "Remote Control Chaos",
+      "diziid": "mb",
+      "bolum": "178",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/178/uzaktan_kumandali_kaos"
+    },
+    {
+      "season": 23,
+      "episode": 169,
+      "title": "Scrapper's Feeding Time",
+      "diziid": "mb",
+      "bolum": "179",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/179/pacavranin_beslenme_zamani"
+    },
+    {
+      "season": 24,
+      "episode": 170,
+      "title": "Pretend Patient",
+      "diziid": "mb",
+      "bolum": "180",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/180/sahte_hasta"
+    },
+    {
+      "season": 26,
+      "episode": 171,
+      "title": "Irma's Surprise",
+      "diziid": "mb",
+      "bolum": "182",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/182/irmanin_surprizi"
+    },
+    {
+      "season": 25,
+      "episode": 172,
+      "title": "Window of Opportunity",
+      "diziid": "mb",
+      "bolum": "181",
+      "url": "https://cizgivedizi.com/dizi/mb/mr._bean/181/firsat_penceresi"
+    }
+  ]
+}

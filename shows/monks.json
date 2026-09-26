@@ -1,0 +1,45 @@
+{
+  "id": "monks",
+  "title": "monkie kid: kaderini sahiplen",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MONKSPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Aksiyon",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "This Imperfect World",
+      "diziid": "monks",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/monks/monkie_kid%3A_kaderini_sahiplen/1/kusurlu_dunya"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Corrupted King",
+      "diziid": "monks",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/monks/monkie_kid%3A_kaderini_sahiplen/2/yozlasmis_kral"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Time to Be Warriors",
+      "diziid": "monks",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/monks/monkie_kid%3A_kaderini_sahiplen/3/savasci_olma_zamani"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Destiny Fulfilled",
+      "diziid": "monks",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/monks/monkie_kid%3A_kaderini_sahiplen/4/kader_gerceklesti"
+    }
+  ]
+}

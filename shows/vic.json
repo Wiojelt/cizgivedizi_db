@@ -1,0 +1,485 @@
+{
+  "id": "vic",
+  "title": "victoria'nÄ±n ÅŸovu",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/VICPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "vic",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/1/pilot_bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Bird Scene",
+      "diziid": "vic",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/2/kus_sahnesi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Stage Fighting",
+      "diziid": "vic",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/3/sahne_dovusu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Birthweek Song",
+      "diziid": "vic",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/4/dogum_haftasi_sarkisi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Jade Dumps Beck",
+      "diziid": "vic",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/5/jade_beckten_ayriliyor"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Tori the Zombie",
+      "diziid": "vic",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/6/zombi_tori"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Robarazzi",
+      "diziid": "vic",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/7/robarazzi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Survival of the Hottest",
+      "diziid": "vic",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/8/sicak_hava_dalgasi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Wi-Fi in the Sky",
+      "diziid": "vic",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/9/gokyuzunde_wi-fi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Beck's Big Break",
+      "diziid": "vic",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/10/beckin_buyuk_firsati"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Great Ping Pong Scam",
+      "diziid": "vic",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/11/pinpon_yalani"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Cat's New Boyfriend",
+      "diziid": "vic",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/12/catin_yeni_erkek_arkadasi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Freak the Freak Out - Part 1",
+      "diziid": "vic",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/13/catlaklari_catlatmak_kisim_1"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Freak the Freak Out - Part 2",
+      "diziid": "vic",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/14/catlaklari_catlatmak_kisim_2"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Rex Dies",
+      "diziid": "vic",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/15/rexin_olum"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Diddly-Bops",
+      "diziid": "vic",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/16/catlaklar_grubu"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Wok Star",
+      "diziid": "vic",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/17/wok_star"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Wood",
+      "diziid": "vic",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/18/hollywood"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "A Film by Dale Squires",
+      "diziid": "vic",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/19/bir_dale_squires_filmi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Sleepover at Sikowitz's",
+      "diziid": "vic",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/20/sikowitzin_evinde_gece_yatisi"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "Beggin' on Your Knees",
+      "diziid": "vic",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/21/diz_cokup_yalvaracaksin"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "Beck Falls for Tori",
+      "diziid": "vic",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/22/torinin_dususu"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "Ice Cream for Ke$ha",
+      "diziid": "vic",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/23/ke%24ha_icin_dondurma"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "Tori Gets Stuck",
+      "diziid": "vic",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/24/torinin_cikmazi"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "Prom Wrecker",
+      "diziid": "vic",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/25/balo_sabotajcisi"
+    },
+    {
+      "season": 1,
+      "episode": 26,
+      "title": "Victorious: Locked Up!",
+      "diziid": "vic",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/26/hapishane%21"
+    },
+    {
+      "season": 8,
+      "episode": 27,
+      "title": "Helen Back Again",
+      "diziid": "vic",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/28/yeni_mudur_helen"
+    },
+    {
+      "season": 9,
+      "episode": 28,
+      "title": "Who Did It to Trina?",
+      "diziid": "vic",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/29/trinaya_bunu_kim_yapti"
+    },
+    {
+      "season": 10,
+      "episode": 29,
+      "title": "Tori Tortures Teacher",
+      "diziid": "vic",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/30/torinin_ogretmene_iskencesi"
+    },
+    {
+      "season": 11,
+      "episode": 30,
+      "title": "Jade Gets Crushed",
+      "diziid": "vic",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/31/jadee_asik_olmak"
+    },
+    {
+      "season": 12,
+      "episode": 31,
+      "title": "Terror on Cupcake Street",
+      "diziid": "vic",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/32/kapkek_sokaginda_dehset"
+    },
+    {
+      "season": 13,
+      "episode": 32,
+      "title": "A Christmas Tori",
+      "diziid": "vic",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/33/torinin_noeli"
+    },
+    {
+      "season": 14,
+      "episode": 33,
+      "title": "Blooptorious",
+      "diziid": "vic",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/34/gaflar_ve_cekim_hatalari"
+    },
+    {
+      "season": 1,
+      "episode": 34,
+      "title": "The Breakfast Bunch",
+      "diziid": "vic",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/35/kahvalti_grubu"
+    },
+    {
+      "season": 2,
+      "episode": 35,
+      "title": "The Gorilla Club",
+      "diziid": "vic",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/36/goril_kulubu"
+    },
+    {
+      "season": 3,
+      "episode": 36,
+      "title": "The Worst Couple",
+      "diziid": "vic",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/37/en_kotu_cift"
+    },
+    {
+      "season": 4,
+      "episode": 37,
+      "title": "Andre's Horrible Girl",
+      "diziid": "vic",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/38/andrenin_korkunc_kiz_arkadasi"
+    },
+    {
+      "season": 5,
+      "episode": 38,
+      "title": "Car, Rain, and Fire",
+      "diziid": "vic",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/39/araba%2C_yagmur_ve_yangin"
+    },
+    {
+      "season": 6,
+      "episode": 39,
+      "title": "Tori and Jade's Playdate",
+      "diziid": "vic",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/40/tori_ve_jadein_randevusu"
+    },
+    {
+      "season": 7,
+      "episode": 40,
+      "title": "April Fools Blank",
+      "diziid": "vic",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/41/bir_nisan_sakasi"
+    },
+    {
+      "season": 8,
+      "episode": 41,
+      "title": "Driving Tori Crazy",
+      "diziid": "vic",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/42/toriyi_okula_birakmak"
+    },
+    {
+      "season": 9,
+      "episode": 42,
+      "title": "How Trina Got In",
+      "diziid": "vic",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/43/trina_okula_nasil_girdi"
+    },
+    {
+      "season": 10,
+      "episode": 43,
+      "title": "Tori Goes Platinum Pt. 1",
+      "diziid": "vic",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/44/platin_muzik_odulleri%3A_kisim_1"
+    },
+    {
+      "season": 11,
+      "episode": 44,
+      "title": "Tori Goes Platinum Pt. 2",
+      "diziid": "vic",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/45/platin_muzik_odulleri%3A_kisim_2"
+    },
+    {
+      "season": 12,
+      "episode": 45,
+      "title": "Crazy Ponnie",
+      "diziid": "vic",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/46/cilgin_ponnie"
+    },
+    {
+      "season": 13,
+      "episode": 46,
+      "title": "The Blonde Squad",
+      "diziid": "vic",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/47/sarisin_ekibi"
+    },
+    {
+      "season": 1,
+      "episode": 47,
+      "title": "Wanko's Warehouse",
+      "diziid": "vic",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/48/wankonun_deposu"
+    },
+    {
+      "season": 2,
+      "episode": 48,
+      "title": "The Hambone King",
+      "diziid": "vic",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/49/kemik_dansi_krali"
+    },
+    {
+      "season": 3,
+      "episode": 49,
+      "title": "Opposite Date",
+      "diziid": "vic",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/50/ters_randevu"
+    },
+    {
+      "season": 4,
+      "episode": 50,
+      "title": "Three Girls and a Moose",
+      "diziid": "vic",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/51/uc_kiz%2C_bir_moose"
+    },
+    {
+      "season": 5,
+      "episode": 51,
+      "title": "Cell Block",
+      "diziid": "vic",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/52/telefon_yasagi"
+    },
+    {
+      "season": 6,
+      "episode": 52,
+      "title": "Tori Fixes Beck & Jade",
+      "diziid": "vic",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/53/tori%2C_back_ve_jadei_duzeltiyor"
+    },
+    {
+      "season": 7,
+      "episode": 53,
+      "title": "One Thousand Berry Balls",
+      "diziid": "vic",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/54/meyveli_yogurt_toplari"
+    },
+    {
+      "season": 8,
+      "episode": 54,
+      "title": "Robbie Sells Rex",
+      "diziid": "vic",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/55/robbie_rexi_satiyor"
+    },
+    {
+      "season": 9,
+      "episode": 55,
+      "title": "The Bad Roommate",
+      "diziid": "vic",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/56/kotu_oda_arkadasi"
+    },
+    {
+      "season": 10,
+      "episode": 56,
+      "title": "Brain Squeezers",
+      "diziid": "vic",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/57/beyin_sikacagi"
+    },
+    {
+      "season": 11,
+      "episode": 57,
+      "title": "The Slap Fight",
+      "diziid": "vic",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/58/slap_kavgasi"
+    },
+    {
+      "season": 12,
+      "episode": 58,
+      "title": "Star-Spangled Tori",
+      "diziid": "vic",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/59/tori_ulusal_marsi_soyluyor"
+    },
+    {
+      "season": 13,
+      "episode": 59,
+      "title": "Victori-Yes",
+      "diziid": "vic",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/vic/victorianin_sovu/60/her_seye_evet"
+    }
+  ]
+}

@@ -1,0 +1,589 @@
+{
+  "id": "yoj",
+  "title": "young justice",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/YOJPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Independence Day",
+      "diziid": "yoj",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/1/bagimsizlik_gunu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Fireworks",
+      "diziid": "yoj",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/2/havai_fisekler"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Welcome to Happy Harbor",
+      "diziid": "yoj",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/3/happy_harbora_hos_geldiniz"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Drop-Zone",
+      "diziid": "yoj",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/4/atlama_sahasi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Schooled",
+      "diziid": "yoj",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/5/egitim"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Infiltrator",
+      "diziid": "yoj",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/6/casus"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Denial",
+      "diziid": "yoj",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/7/inkar"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Downtime",
+      "diziid": "yoj",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/8/dusunme_suresi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Bereft",
+      "diziid": "yoj",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/9/yoksulluk"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Targets",
+      "diziid": "yoj",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/10/hedefler"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Terrors",
+      "diziid": "yoj",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/11/bas_belalari"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Homefront",
+      "diziid": "yoj",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/12/sivil_cephe"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Alpha Male",
+      "diziid": "yoj",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/13/alfa_erkegi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Revelation",
+      "diziid": "yoj",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/14/aciga_cikarma"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Humanity",
+      "diziid": "yoj",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/15/insanlik"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Failsafe",
+      "diziid": "yoj",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/16/tehlike_onleyici"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Disordered",
+      "diziid": "yoj",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/17/duzensiz"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Secrets",
+      "diziid": "yoj",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/18/sirlar"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Misplaced",
+      "diziid": "yoj",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/19/karisiklik"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Coldhearted",
+      "diziid": "yoj",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/20/merhametsiz"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Image",
+      "diziid": "yoj",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/21/goruntu"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Agendas",
+      "diziid": "yoj",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/22/gorusme"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Insecurity",
+      "diziid": "yoj",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/23/guvensizlik"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Performance",
+      "diziid": "yoj",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/24/gosteri"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Usual Suspects",
+      "diziid": "yoj",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/25/olagan_supheliler"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Auld Acquaintance",
+      "diziid": "yoj",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/26/eski_dostlar"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Happy New Year",
+      "diziid": "yoj",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/27/mutlu_yeni_yillar"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Earthlings",
+      "diziid": "yoj",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/28/dunyalilar"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Alienated",
+      "diziid": "yoj",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/29/dislananlar"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Salvage",
+      "diziid": "yoj",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/30/kurtulus"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Beneath",
+      "diziid": "yoj",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/31/asagida"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Bloodlines",
+      "diziid": "yoj",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/32/soy"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Depths",
+      "diziid": "yoj",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/33/derinlik"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Satisfaction",
+      "diziid": "yoj",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/34/tatmin"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Darkest",
+      "diziid": "yoj",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/35/kor_karanlik"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Before the Dawn",
+      "diziid": "yoj",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/36/safaktan_once"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Cornered",
+      "diziid": "yoj",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/37/koseye_sikismis"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "True Colors",
+      "diziid": "yoj",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/38/gercek_renkler"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "The Fix",
+      "diziid": "yoj",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/39/onarim"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "Runaways",
+      "diziid": "yoj",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/40/kacaklar"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "War",
+      "diziid": "yoj",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/41/savas"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Complications",
+      "diziid": "yoj",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/42/komplikasyonlar"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "The Hunt",
+      "diziid": "yoj",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/43/av"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "Intervention",
+      "diziid": "yoj",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/44/mudahale"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "Summit",
+      "diziid": "yoj",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/45/zirve"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "Endgame",
+      "diziid": "yoj",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/46/son"
+    },
+    {
+      "season": 1,
+      "episode": 47,
+      "title": "Princes All",
+      "diziid": "yoj",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/47/prenslerin_hepsi"
+    },
+    {
+      "season": 2,
+      "episode": 48,
+      "title": "Royal We",
+      "diziid": "yoj",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/48/kraliyet_biz"
+    },
+    {
+      "season": 3,
+      "episode": 49,
+      "title": "Eminent Threat",
+      "diziid": "yoj",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/49/onemli_tehdit"
+    },
+    {
+      "season": 4,
+      "episode": 50,
+      "title": "Private Security",
+      "diziid": "yoj",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/50/ozel_guvenlik"
+    },
+    {
+      "season": 5,
+      "episode": 51,
+      "title": "Away Mission",
+      "diziid": "yoj",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/51/uzak_gorev"
+    },
+    {
+      "season": 6,
+      "episode": 52,
+      "title": "Rescue Op",
+      "diziid": "yoj",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/52/kurtarma_operasyonu"
+    },
+    {
+      "season": 7,
+      "episode": 53,
+      "title": "Evolution",
+      "diziid": "yoj",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/53/evrim"
+    },
+    {
+      "season": 8,
+      "episode": 54,
+      "title": "Triptych",
+      "diziid": "yoj",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/54/triptik"
+    },
+    {
+      "season": 9,
+      "episode": 55,
+      "title": "Home Fires",
+      "diziid": "yoj",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/55/ev_yanginlari"
+    },
+    {
+      "season": 10,
+      "episode": 56,
+      "title": "Exceptional Human Beings",
+      "diziid": "yoj",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/56/olaganustu_insanlar"
+    },
+    {
+      "season": 11,
+      "episode": 57,
+      "title": "Another Freak",
+      "diziid": "yoj",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/57/baska_bir_ucube"
+    },
+    {
+      "season": 12,
+      "episode": 58,
+      "title": "Nightmare Monkeys",
+      "diziid": "yoj",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/58/kabus_maymunlari"
+    },
+    {
+      "season": 13,
+      "episode": 59,
+      "title": "True Heroes",
+      "diziid": "yoj",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/59/gercek_kahramanlar"
+    },
+    {
+      "season": 14,
+      "episode": 60,
+      "title": "Influence",
+      "diziid": "yoj",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/60/etkilemek"
+    },
+    {
+      "season": 15,
+      "episode": 61,
+      "title": "Leverage",
+      "diziid": "yoj",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/61/kaldirac"
+    },
+    {
+      "season": 16,
+      "episode": 62,
+      "title": "Illusion of Control",
+      "diziid": "yoj",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/62/kontrol_yanilsamasi"
+    },
+    {
+      "season": 17,
+      "episode": 63,
+      "title": "First Impression",
+      "diziid": "yoj",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/63/ilk_izlenim"
+    },
+    {
+      "season": 18,
+      "episode": 64,
+      "title": "Early Warning",
+      "diziid": "yoj",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/64/erken_uyari"
+    },
+    {
+      "season": 19,
+      "episode": 65,
+      "title": "Elder Wisdom",
+      "diziid": "yoj",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/65/yasli_bilgelik"
+    },
+    {
+      "season": 20,
+      "episode": 66,
+      "title": "Quiet Conversations",
+      "diziid": "yoj",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/66/sessiz_konusmalar"
+    },
+    {
+      "season": 21,
+      "episode": 67,
+      "title": "Unknown Factors",
+      "diziid": "yoj",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/67/bilinmeyen_faktorler"
+    },
+    {
+      "season": 22,
+      "episode": 68,
+      "title": "Antisocial Pathologies",
+      "diziid": "yoj",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/68/antisosyal_patolojiler"
+    },
+    {
+      "season": 23,
+      "episode": 69,
+      "title": "Terminus",
+      "diziid": "yoj",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/69/terminus"
+    },
+    {
+      "season": 24,
+      "episode": 70,
+      "title": "Into the Breach",
+      "diziid": "yoj",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/70/ihlalin_icine"
+    },
+    {
+      "season": 25,
+      "episode": 71,
+      "title": "Overwhelmed",
+      "diziid": "yoj",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/71/ezilmis"
+    },
+    {
+      "season": 26,
+      "episode": 72,
+      "title": "Nevermore",
+      "diziid": "yoj",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/yoj/young_justice/72/bir_daha_asla"
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "id": "twirly",
+  "title": "twirlywoos",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TWIRLYPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Full",
+      "diziid": "twirly",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/1/dolu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Underneath",
+      "diziid": "twirly",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/2/altinda"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Round & Round",
+      "diziid": "twirly",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/3/donmek"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Up",
+      "diziid": "twirly",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/4/yukari"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Connecting",
+      "diziid": "twirly",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/5/baglamak%2C_birlestirmek"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Noisy",
+      "diziid": "twirly",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/6/gurultulu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "All Gone",
+      "diziid": "twirly",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/7/hepsi_bitti"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Behind",
+      "diziid": "twirly",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/8/arkada"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "This Way, That Way",
+      "diziid": "twirly",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/9/su_tarafa%2C_bu_tarafa"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Up and Down",
+      "diziid": "twirly",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/10/yukari_ve_asagi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Over",
+      "diziid": "twirly",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/11/uzerinden"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Shorter and Shorter",
+      "diziid": "twirly",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/12/daha_kisa_ve_daha_da_kisa"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Wrapping",
+      "diziid": "twirly",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/13/paketlemek"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Gone",
+      "diziid": "twirly",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/14/gitti"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Covering",
+      "diziid": "twirly",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/15/ortmek%2C_kaplamak"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Coming and Going",
+      "diziid": "twirly",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/16/gelmek_ve_gitmek"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Through",
+      "diziid": "twirly",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/17/icinden_gecmek%2C_atmak"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Soft",
+      "diziid": "twirly",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/18/yumusak"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Pop",
+      "diziid": "twirly",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/19/patlamak"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Upside Down",
+      "diziid": "twirly",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/20/bas_asagi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Getting Wet",
+      "diziid": "twirly",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/21/islanmak"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Out",
+      "diziid": "twirly",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/22/disari"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Down",
+      "diziid": "twirly",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/23/asagi"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Inside",
+      "diziid": "twirly",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/24/icinde"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Going Over",
+      "diziid": "twirly",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/25/uzerinden_atlamak"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Rolling",
+      "diziid": "twirly",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/26/yuvarlanmak"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "In and Out",
+      "diziid": "twirly",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/27/iceri_ve_disari"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Cleaning",
+      "diziid": "twirly",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/28/temizlemek"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Louder and Louder",
+      "diziid": "twirly",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/29/daha_yuksek%2C_daha_yuksek_ses"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Turning",
+      "diziid": "twirly",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/30/donmek%2C_cevirmek"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Collecting",
+      "diziid": "twirly",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/31/toplamak"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Longer",
+      "diziid": "twirly",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/32/daha_uzun"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Bigger and Bigger",
+      "diziid": "twirly",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/33/buyuk%2C_daha_buyuk"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "High and Low",
+      "diziid": "twirly",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/34/yuksek_ve_alcak"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Outside",
+      "diziid": "twirly",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/35/disarida"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Next To",
+      "diziid": "twirly",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/36/yaninda"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Open and Close",
+      "diziid": "twirly",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/37/acik_ve_kapali"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "On Top Of",
+      "diziid": "twirly",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/38/ustunde"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Balancing",
+      "diziid": "twirly",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/39/denge"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Joining Up",
+      "diziid": "twirly",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/40/baglamak%2C_birlestirmek"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Fitting Together",
+      "diziid": "twirly",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/41/birbirine_eklemek"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Spinning",
+      "diziid": "twirly",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/42/dondurmek%2C_donmek"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "More and More",
+      "diziid": "twirly",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/43/daha_cok%2C_daha_da_cok"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Taller and Taller",
+      "diziid": "twirly",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/44/daha_uzun%2C_daha_da_uzun"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Smaller",
+      "diziid": "twirly",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/45/daha_kucuk"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Twirling",
+      "diziid": "twirly",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/46/donmek"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Faster and Faster",
+      "diziid": "twirly",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/47/daha_hizli%2C_daha_da_hizli"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "On and Off",
+      "diziid": "twirly",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/48/takmak_ve_cikarmak"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Hiding",
+      "diziid": "twirly",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/49/saklamak"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Pulling",
+      "diziid": "twirly",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/twirly/twirlywoos/50/cekmek"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "spa",
+  "title": "lost in space",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/LSPAPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Bilim Kurgu",
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Impact",
+      "diziid": "spa",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/1/carpisma"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Diamonds in the Sky",
+      "diziid": "spa",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/2/gokyuzundeki_elmaslar"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Infestation",
+      "diziid": "spa",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/3/istila"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Robinsons Were Here",
+      "diziid": "spa",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/4/robinsonlar_buradaydi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Transmission",
+      "diziid": "spa",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/5/iletisim"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Eulogy",
+      "diziid": "spa",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/6/anma"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Pressurized",
+      "diziid": "spa",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/7/basinc"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Trajectory",
+      "diziid": "spa",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/8/guzergah"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Resurrection",
+      "diziid": "spa",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/9/dirilis"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Danger, Will Robinson",
+      "diziid": "spa",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/10/tehlike%2C_will_robinson"
+    },
+    {
+      "season": 1,
+      "episode": 11,
+      "title": "Shipwrecked",
+      "diziid": "spa",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/11/kazazedeler"
+    },
+    {
+      "season": 2,
+      "episode": 12,
+      "title": "Precipice",
+      "diziid": "spa",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/12/hendek"
+    },
+    {
+      "season": 3,
+      "episode": 13,
+      "title": "Echoes",
+      "diziid": "spa",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/13/yankilar"
+    },
+    {
+      "season": 4,
+      "episode": 14,
+      "title": "Scarecrow",
+      "diziid": "spa",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/14/korkuluk"
+    },
+    {
+      "season": 5,
+      "episode": 15,
+      "title": "Run",
+      "diziid": "spa",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/15/kosu"
+    },
+    {
+      "season": 6,
+      "episode": 16,
+      "title": "Severed",
+      "diziid": "spa",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/16/mahsur"
+    },
+    {
+      "season": 7,
+      "episode": 17,
+      "title": "Evolution",
+      "diziid": "spa",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/17/evrim"
+    },
+    {
+      "season": 8,
+      "episode": 18,
+      "title": "Unknown",
+      "diziid": "spa",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/18/bilinmeyen"
+    },
+    {
+      "season": 9,
+      "episode": 19,
+      "title": "Shell Game",
+      "diziid": "spa",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/19/uckagit"
+    },
+    {
+      "season": 10,
+      "episode": 20,
+      "title": "Ninety-Seven",
+      "diziid": "spa",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/20/doksan_yedi"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "Three Little Birds",
+      "diziid": "spa",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/21/uc_kucuk_kus"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "Contact",
+      "diziid": "spa",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/22/temas"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "The New Guy",
+      "diziid": "spa",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/23/yeni_biri"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "Nothing Left Behind",
+      "diziid": "spa",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/24/iz_birakmadan"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "Stuck",
+      "diziid": "spa",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/25/cikis_yok"
+    },
+    {
+      "season": 6,
+      "episode": 26,
+      "title": "Final Transmission",
+      "diziid": "spa",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/26/son_mesaj"
+    },
+    {
+      "season": 7,
+      "episode": 27,
+      "title": "Contingencies on Contingencies",
+      "diziid": "spa",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/27/b_ve_c_planlari"
+    },
+    {
+      "season": 8,
+      "episode": 28,
+      "title": "Trust",
+      "diziid": "spa",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/spa/lost_in_space/28/guven"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "hayk",
+  "title": "hayalet kÃ¶pekler",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/HAYKPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Korku",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Meet the Phantom Pups",
+      "diziid": "hayk",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/hayk/hayalet_kopekler/1/hayalet_kopeklerle_tanisma"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Phome Alone",
+      "diziid": "hayk",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/hayk/hayalet_kopekler/2/evde_tek_basina"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Boosketball Phun",
+      "diziid": "hayk",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/hayk/hayalet_kopekler/3/hayalet_kopeklerle_basketbol_keyfi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Phantom Phoam",
+      "diziid": "hayk",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/hayk/hayalet_kopekler/4/hayalet_kopugu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Phantom Phixer-Upper",
+      "diziid": "hayk",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/hayk/hayalet_kopekler/5/hayalet_tadilatci"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Phreaky Phriday",
+      "diziid": "hayk",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/hayk/hayalet_kopekler/6/hayalet_kopeklerle_cilgin_cuma"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Fox Phoils Freddie",
+      "diziid": "hayk",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/hayk/hayalet_kopekler/7/fox%2C_freddieye_gununu_gosteriyor"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Phantom Phorest",
+      "diziid": "hayk",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/hayk/hayalet_kopekler/8/hayalet_orman"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Phantom Phright Fest",
+      "diziid": "hayk",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/hayk/hayalet_kopekler/9/hayaletli_korku_bayrami"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Pharewell Phantom Pups",
+      "diziid": "hayk",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/hayk/hayalet_kopekler/10/elveda_hayalet_kopekler"
+    }
+  ]
+}

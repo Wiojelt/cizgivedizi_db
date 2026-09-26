@@ -1,0 +1,69 @@
+{
+  "id": "sihaÄŸaÃ§",
+  "title": "sihirli aÄŸaÃ§",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/SÄ°HAÄAPoster.png",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Wooden Dog",
+      "diziid": "siha%C4%9Fa%C3%A7",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/siha%C4%9Fa%C3%A7/sihirli_agac/1/kizak"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Dice",
+      "diziid": "siha%C4%9Fa%C3%A7",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/siha%C4%9Fa%C3%A7/sihirli_agac/2/zar"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Crayon",
+      "diziid": "siha%C4%9Fa%C3%A7",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/siha%C4%9Fa%C3%A7/sihirli_agac/3/boya_kalemi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Sceptre",
+      "diziid": "siha%C4%9Fa%C3%A7",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/siha%C4%9Fa%C3%A7/sihirli_agac/4/asa"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Brothers",
+      "diziid": "siha%C4%9Fa%C3%A7",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/siha%C4%9Fa%C3%A7/sihirli_agac/5/odun"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "A pair",
+      "diziid": "siha%C4%9Fa%C3%A7",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/siha%C4%9Fa%C3%A7/sihirli_agac/6/ikizler"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Bookworms",
+      "diziid": "siha%C4%9Fa%C3%A7",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/siha%C4%9Fa%C3%A7/sihirli_agac/7/kitap_kurtlari"
+    }
+  ]
+}

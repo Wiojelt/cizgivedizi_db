@@ -1,0 +1,430 @@
+{
+  "id": "mlvo",
+  "title": "mike, lu ve og",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MLVOPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi",
+    "Macera",
+    "AbsÃ¼rt"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Sultans of Swat",
+      "diziid": "mlvo",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/1/beyzbolun_sultanlari"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Tea for Three",
+      "diziid": "mlvo",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/2/uc_kisilik_cay"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Tube",
+      "diziid": "mlvo",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/3/televizyon"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Roller Madness",
+      "diziid": "mlvo",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/4/paten_cilginligi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Losing Lancelot",
+      "diziid": "mlvo",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/5/lancelot_kayip"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Buzz Cut",
+      "diziid": "mlvo",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/6/ari_gibi_ucarim"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Elephant Walk",
+      "diziid": "mlvo",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/7/prensesin_arzusu"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Palm Pet",
+      "diziid": "mlvo",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/8/evcil_palmiye"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Yo Ho Who",
+      "diziid": "mlvo",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/9/hazine_adasi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "A Boy's Game",
+      "diziid": "mlvo",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/10/cocuk_oyunu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Whole Lotta Shakin'",
+      "diziid": "mlvo",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/11/sarsinti"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Mother of All Marathons",
+      "diziid": "mlvo",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/12/buyuk_yaris"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Hot Couture",
+      "diziid": "mlvo",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/13/moda_gunleri"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Opposites Attack",
+      "diziid": "mlvo",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/14/caliskan_ol"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Scopin' It Out",
+      "diziid": "mlvo",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/15/kahin"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Good Ship Bad",
+      "diziid": "mlvo",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/16/lu%2C_hazine_avcisi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "High Rise",
+      "diziid": "mlvo",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/17/yukselis"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Great Snipe Hunt",
+      "diziid": "mlvo",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/18/buyuk_gizli_av"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Nobody's Nose",
+      "diziid": "mlvo",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/19/burun_festivali"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Scuba Dooby Doo",
+      "diziid": "mlvo",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/20/bak_postaci_geliyor"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "JuJu Bombs",
+      "diziid": "mlvo",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/21/top_seker"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Turtle Stew",
+      "diziid": "mlvo",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/22/kaplumbaga_alarmi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "A Bicycle Built for Me",
+      "diziid": "mlvo",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/23/benim_bisikletim"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Crowded House",
+      "diziid": "mlvo",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/24/kalabalik"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "High Camp",
+      "diziid": "mlvo",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/25/yuksek_kamp"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Sneeze Please",
+      "diziid": "mlvo",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/26/hapsirin%2C_lutfen"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "A Learning Experience",
+      "diziid": "mlvo",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/27/deneyimlemek"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "We the People",
+      "diziid": "mlvo",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/28/biz_halkiz"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Money",
+      "diziid": "mlvo",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/29/para"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Repeat After Me",
+      "diziid": "mlvo",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/30/benden_sonra_tekrar_et"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Thanks, But No Thanks",
+      "diziid": "mlvo",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/31/tesekkur_etmek_isterdim%2C_ama_etmiyorum"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Hot Dog",
+      "diziid": "mlvo",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/32/sosisli_sandvic"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "That Sinking Feeling",
+      "diziid": "mlvo",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/33/kotu_bir_his"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Founders' Day",
+      "diziid": "mlvo",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/34/kurtulus_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Giant Steps",
+      "diziid": "mlvo",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/35/dev_adimlar"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Night of the Living Ancestors",
+      "diziid": "mlvo",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/36/yasayan_atalarin_gecesi"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "For the Love of Mike",
+      "diziid": "mlvo",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/37/mike_askina"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Sparks",
+      "diziid": "mlvo",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/38/kivilcimlar"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Brave Sir Lancelot",
+      "diziid": "mlvo",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/39/cesur_sir_lancelot"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "The Big Game",
+      "diziid": "mlvo",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/40/buyuk_oyun"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "Flustering Footwear Flotsam",
+      "diziid": "mlvo",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/41/ayakkabi_cilginligi"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Fathers and Pies",
+      "diziid": "mlvo",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/42/babalar_ve_turtalar"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Queeks, Queeks, Who's Got the Queeks?",
+      "diziid": "mlvo",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/43/queeksi_kim_kacirdi"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "Alfred, Lord of the Jungle",
+      "diziid": "mlvo",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/44/alfred%2C_ormanlar_krali"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "The King of Curtains",
+      "diziid": "mlvo",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/45/perde_krali"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "Margery the Duck",
+      "diziid": "mlvo",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/46/ordek_margery"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "A Freudian Split",
+      "diziid": "mlvo",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/47/freud_olsaydi"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "Fitness Fever",
+      "diziid": "mlvo",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/48/formda_kalmak"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "The Hunter and the Hunted",
+      "diziid": "mlvo",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/49/av_ve_avci"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "To Serve Lu",
+      "diziid": "mlvo",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/50/prenses_lu"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "The Three Amigas",
+      "diziid": "mlvo",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/51/uc_silahsorler"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "Sleeping Ugly",
+      "diziid": "mlvo",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/mlvo/mike%2C_lu_ve_og/52/uyuyan_cirkin"
+    }
+  ]
+}

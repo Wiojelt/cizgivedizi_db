@@ -1,0 +1,372 @@
+{
+  "id": "nils",
+  "title": "nils ve uÃ§an kaz",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/NILSPoster.avif",
+  "channel": "TRT Ã‡ocuk",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Head in the Clouds",
+      "diziid": "nils",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/1/bulutlara_dogru"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Guess Who's Coming to Dinner?",
+      "diziid": "nils",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/2/bilin_bakalim_yemege_kim_geliyor"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Adventurers of the Southlands",
+      "diziid": "nils",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/3/guneyli_maceracilar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Tornado",
+      "diziid": "nils",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/4/kasirga"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Big Fat Gorgo",
+      "diziid": "nils",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/5/tombul_gorgo"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Star Stone",
+      "diziid": "nils",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/6/yildiz_tasi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Squeek!",
+      "diziid": "nils",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/7/cik_cik"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Leader's Wings",
+      "diziid": "nils",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/8/lider_kanatlari"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "The Werebat",
+      "diziid": "nils",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/10/yarasa"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "Too Small",
+      "diziid": "nils",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/11/cok_ufak"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "Two of a Kind",
+      "diziid": "nils",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/12/sahane_takim"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "The Gingerbread House",
+      "diziid": "nils",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/13/zencefilli_ev"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "Some Like it Smokey",
+      "diziid": "nils",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/14/bazilari_isli_sever"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "The Hero",
+      "diziid": "nils",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/15/kahramanlar"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "The Stowaway Stork",
+      "diziid": "nils",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/16/kacak_yolcu_leylek"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "A Helping Paw",
+      "diziid": "nils",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/17/yardim_eli"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "Martin's Nightmare",
+      "diziid": "nils",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/18/martinin_kotu_ruyasi"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "Into the Lion's Den",
+      "diziid": "nils",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/19/aslanin_inine_dogru"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "A Child's Play",
+      "diziid": "nils",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/20/cocuk_oyunu"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "The Ice Garden",
+      "diziid": "nils",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/21/buzdan_bahce"
+    },
+    {
+      "season": 23,
+      "episode": 21,
+      "title": "The Exile",
+      "diziid": "nils",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/23/surgun"
+    },
+    {
+      "season": 24,
+      "episode": 22,
+      "title": "An Eye for an Eye... A Beak for a Beak",
+      "diziid": "nils",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/24/goze_goz_gagaya_gaga"
+    },
+    {
+      "season": 25,
+      "episode": 23,
+      "title": "Dear Burden",
+      "diziid": "nils",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/25/zorlu_gorev"
+    },
+    {
+      "season": 26,
+      "episode": 24,
+      "title": "Solo Flight",
+      "diziid": "nils",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/26/solo_ucus"
+    },
+    {
+      "season": 27,
+      "episode": 25,
+      "title": "The Wolverine",
+      "diziid": "nils",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/27/ayi_sansari"
+    },
+    {
+      "season": 28,
+      "episode": 26,
+      "title": "Sola's Light",
+      "diziid": "nils",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/28/solanin_baloncuklari"
+    },
+    {
+      "season": 29,
+      "episode": 27,
+      "title": "Big and Strong Like Gorgo",
+      "diziid": "nils",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/29/gorgo_gibi_heybetli_ve_guclu"
+    },
+    {
+      "season": 30,
+      "episode": 28,
+      "title": "One More Mile",
+      "diziid": "nils",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/30/bir_mil_daha"
+    },
+    {
+      "season": 31,
+      "episode": 29,
+      "title": "Out of Blue",
+      "diziid": "nils",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/31/beklenmedik_bir_anda"
+    },
+    {
+      "season": 33,
+      "episode": 30,
+      "title": "Dizzy Dive",
+      "diziid": "nils",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/33/bas_donduren_dalis"
+    },
+    {
+      "season": 34,
+      "episode": 31,
+      "title": "Not Guilty",
+      "diziid": "nils",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/34/masum"
+    },
+    {
+      "season": 35,
+      "episode": 32,
+      "title": "Ask the Pebble",
+      "diziid": "nils",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/35/tecrubeye_kulak_ver"
+    },
+    {
+      "season": 36,
+      "episode": 33,
+      "title": "Lost",
+      "diziid": "nils",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/36/kayip"
+    },
+    {
+      "season": 37,
+      "episode": 34,
+      "title": "A Strange Night Owl",
+      "diziid": "nils",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/37/tuhaf_bir_gece_kusu"
+    },
+    {
+      "season": 38,
+      "episode": 35,
+      "title": "The Exam",
+      "diziid": "nils",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/38/sinav"
+    },
+    {
+      "season": 39,
+      "episode": 36,
+      "title": "The Promise",
+      "diziid": "nils",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/39/soz"
+    },
+    {
+      "season": 40,
+      "episode": 37,
+      "title": "Bird Brain",
+      "diziid": "nils",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/40/kus_zekasi"
+    },
+    {
+      "season": 41,
+      "episode": 38,
+      "title": "Treasure Hunt",
+      "diziid": "nils",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/41/define_avi"
+    },
+    {
+      "season": 43,
+      "episode": 39,
+      "title": "Look Before You Leap",
+      "diziid": "nils",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/43/harekete_gecmeden_once_bak"
+    },
+    {
+      "season": 44,
+      "episode": 40,
+      "title": "Haunted Forest",
+      "diziid": "nils",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/44/gizemli_orman"
+    },
+    {
+      "season": 45,
+      "episode": 41,
+      "title": "Fear of Heights",
+      "diziid": "nils",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/45/yukseklik_korkusu"
+    },
+    {
+      "season": 46,
+      "episode": 42,
+      "title": "A Matter of Taste",
+      "diziid": "nils",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/46/tat_meselesi"
+    },
+    {
+      "season": 47,
+      "episode": 43,
+      "title": "Home Sweet Home",
+      "diziid": "nils",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/47/evim_guzel_evim"
+    },
+    {
+      "season": 48,
+      "episode": 44,
+      "title": "The Cosy Nest",
+      "diziid": "nils",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/48/sicak_yuva"
+    },
+    {
+      "season": 52,
+      "episode": 45,
+      "title": "Both Feet on the Ground",
+      "diziid": "nils",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/nils/nils_ve_ucan_kaz/52/ayaklari_yere_basmak"
+    }
+  ]
+}

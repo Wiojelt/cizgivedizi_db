@@ -1,0 +1,93 @@
+{
+  "id": "gooj",
+  "title": "goojitzu",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/GOOJPoster.avif",
+  "channel": "YouTube",
+  "genres": [
+    "Aksiyon",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Quest for Supagoo",
+      "diziid": "gooj",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/gooj/goojitzu/1/super_gooyu_aramak"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Goo, the Bad, the Squishy / The Goo, the Bad, the Squishy Part 2",
+      "diziid": "gooj",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/gooj/goojitzu/2/iyi%2C_kotu_ve_yapismak_birinci_ve_ikinci_kisim"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "What Goos Around Comes Around",
+      "diziid": "gooj",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/gooj/goojitzu/3/etrafta_goolayan_yakina_goolar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Gooing the Distance!",
+      "diziid": "gooj",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/gooj/goojitzu/4/goo_gucu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Where No-One Has Goo Before",
+      "diziid": "gooj",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/gooj/goojitzu/5/goo_gucu_uzayda"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Goomageddon",
+      "diziid": "gooj",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/gooj/goojitzu/6/buyuk_sir"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Goo Vibrations",
+      "diziid": "gooj",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/gooj/goojitzu/7/yeni_gucler_kesfediliyor"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Fast and the Goorious",
+      "diziid": "gooj",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/gooj/goojitzu/8/hizli_ve_muhtesem_goolimpiyat"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Let the Goo-Shine In",
+      "diziid": "gooj",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/gooj/goojitzu/9/karanlikta_parlayan"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Gooing Under",
+      "diziid": "gooj",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/gooj/goojitzu/10/su_altinda"
+    }
+  ]
+}

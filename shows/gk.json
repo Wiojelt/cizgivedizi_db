@@ -1,0 +1,428 @@
+{
+  "id": "gk",
+  "title": "gÃ¼Ã§ krallÄ±ÄŸÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/GKPoster.avif",
+  "channel": "Boomerang",
+  "genres": [
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Origins pt. 1",
+      "diziid": "gk",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/1/baslangic"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Origins pt. 2",
+      "diziid": "gk",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/2/baslangic_2.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Runaway Train",
+      "diziid": "gk",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/3/kacak_tren"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Forecast: Chaos",
+      "diziid": "gk",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/4/hava_durumu%3A_kaos"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Fire on Wolf Mountain",
+      "diziid": "gk",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/5/kurt_daginda_yangin"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Go with the Floe",
+      "diziid": "gk",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/6/kendini_buzlara_birak"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Sinkhole or Swim",
+      "diziid": "gk",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/7/su_batakligi_mi_yuzmek_mi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Drop it Like It's Hot",
+      "diziid": "gk",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/8/sicakmis_gibi_birak"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Danger in Grizzly Valley",
+      "diziid": "gk",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/9/boz_ayi_vadisinde_tehlike"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Gondola with the Wind",
+      "diziid": "gk",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/10/ruzgardaki_gondol"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Bee Yourself",
+      "diziid": "gk",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/11/kendin_ol"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Creepy Crawler",
+      "diziid": "gk",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/12/kayip_bocek"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "We Be Jammin",
+      "diziid": "gk",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/13/hareket_zamani"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Dog Daze",
+      "diziid": "gk",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/14/firtina_sakinligi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Can You Dig It?",
+      "diziid": "gk",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/15/kazabilir_misin"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Howl-o-Ween",
+      "diziid": "gk",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/16/uluma_bayrami"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Funbit 9000",
+      "diziid": "gk",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/17/funbit_9000"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Iron Ape",
+      "diziid": "gk",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/18/demir_maymun"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Ruin of Zoom",
+      "diziid": "gk",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/19/zoom_harabeleri"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Night Birds",
+      "diziid": "gk",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/20/gece_kuslari"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Mad Max Volume",
+      "diziid": "gk",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/21/cilgin_maksimum_ses"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Big Cat Blues",
+      "diziid": "gk",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/22/buyuk_kedi_sorunu"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Stink'em Up",
+      "diziid": "gk",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/23/kokusuklar"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Night Beast of Gorilla Gulch",
+      "diziid": "gk",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/24/goril_kanyonundaki_gece_canavari"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Free Prize in Every Box",
+      "diziid": "gk",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/25/her_kutuda_bir_hediye"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Sloppy Jalopi",
+      "diziid": "gk",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/26/dikkatsiz_jalopi"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Full Moon Fever",
+      "diziid": "gk",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/27/dolunay_atesi"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Super Jalopi!",
+      "diziid": "gk",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/28/super_jalopi%21"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Hello Dolly",
+      "diziid": "gk",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/29/merhaba_dolly"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Say Yes to the Mess",
+      "diziid": "gk",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/30/karmasaya_evet"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Snowballs of Fury",
+      "diziid": "gk",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/31/ofkeli_kar_toplari"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Cat Me if You Can",
+      "diziid": "gk",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/32/sikiyorsa_yakala"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Ready, Set, Slow!",
+      "diziid": "gk",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/33/hazir%2C_ileri%2C_yavas%21"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Ground Breakin', Earth Shakin', No Fakin'",
+      "diziid": "gk",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/34/cigir_acici%2C_yer_sarsici%2C_yalan_degil"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Control Yourself",
+      "diziid": "gk",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/35/kendine_hakim_ol"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Codes of Trouble",
+      "diziid": "gk",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/36/sorun_programi"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Chill or Be Chilled",
+      "diziid": "gk",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/37/sakin_ol_ya_da_don"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Gimme a Break",
+      "diziid": "gk",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/38/yine_olmadi"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Under Pressure",
+      "diziid": "gk",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/39/baski_altinda"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "License to Drill",
+      "diziid": "gk",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/40/kazma_ehliyeti"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Norvyn Not-So-Big",
+      "diziid": "gk",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/41/pek_de_buyuk_olmayan_norvyn"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Skate Expectations",
+      "diziid": "gk",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/42/kaykay_beklentisi"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Moustivus",
+      "diziid": "gk",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/43/yanlis_saka"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Outfoxed",
+      "diziid": "gk",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/44/kurnazlik_savasi"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Burden of Tooth",
+      "diziid": "gk",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/45/dis_yuku"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Alpha-Magnet",
+      "diziid": "gk",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/46/alfa-miknatis"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Fleas and Thank You",
+      "diziid": "gk",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/47/pireler_ve_tesekkurler"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Cold Comfort",
+      "diziid": "gk",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/48/soguk_rahatlik"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Growing, Growing, Gone",
+      "diziid": "gk",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/49/buyur%2C_buyur%2C_gider"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Ain't No Level High Enough",
+      "diziid": "gk",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/50/en_ust_seviye_bile_yeterli_degil"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "See Cat Run",
+      "diziid": "gk",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/51/kedinin_kacisi"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Throw Norvyn From The Train",
+      "diziid": "gk",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/gk/guc_kralligi/52/norvyni_trenden_atin"
+    }
+  ]
+}

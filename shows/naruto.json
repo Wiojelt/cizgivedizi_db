@@ -1,0 +1,653 @@
+{
+  "id": "naruto",
+  "title": "naruto",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/NARUTOPoster.avif",
+  "channel": "Spacetoon",
+  "genres": [
+    "Aksiyon",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Enter: Naruto Uzumaki!",
+      "diziid": "naruto",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/1/karsinizda%2C_naruto_uzumaki"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "My Name Is Konohamaru!",
+      "diziid": "naruto",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/2/benim_adim_konohamaru%2C_millet%21"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Sasuke and Sakura: Friends or Foes?",
+      "diziid": "naruto",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/3/bir_rakip%3A_sasuke_ve_sakura"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Pass or Fail: Survival Test",
+      "diziid": "naruto",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/4/test%21_hayatta_kalma_egitimi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "You Failed! Kakashi's Final Decision",
+      "diziid": "naruto",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/5/hata%21_kakashinin_son_karari"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "A Dangerous Mission! Journey to the Land of Waves!",
+      "diziid": "naruto",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/6/tehlikeli_bir_gorev%21_dalgalar_diyarina_bir_yolculuk%21"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Assassin of the Mist!",
+      "diziid": "naruto",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/7/sessiz_sis_canavari"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Oath of Pain",
+      "diziid": "naruto",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/8/yara_uzerine_bir_yemin"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Kakashi: Sharingan Warrior",
+      "diziid": "naruto",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/9/sharingan%E2%80%99li_kakashi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Forest of Chakra",
+      "diziid": "naruto",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/10/enerji_ormani"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Land Where a Hero Once Lived",
+      "diziid": "naruto",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/11/bir_kahramanin_dirildigi_ulke"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Battle on the Bridge! Zabuza Returns!",
+      "diziid": "naruto",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/12/koprudeki_savas%3A_zabuzanin_donusu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Haku's Secret Jutsu: Crystal Ice Mirrors",
+      "diziid": "naruto",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/13/hakunun_gizli_teknigi%3A_kristal_buz_aynalari"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Number One Hyperactive, Knucklehead Ninja Joins the Fight!",
+      "diziid": "naruto",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/14/tuhaf_dikbasli_ninja_savasa_katiliyor"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Zero Visibility: The Sharingan Shatters",
+      "diziid": "naruto",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/15/sifir_gorus%3A_sharingan_parcalaniyor"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Broken Seal",
+      "diziid": "naruto",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/16/kirik_muhur"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "White Past: Hidden Ambition",
+      "diziid": "naruto",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/17/beyaz_gecmis%2C_gizli_bir_hirs"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Weapons Known as Shinobi",
+      "diziid": "naruto",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/18/ninja_olarak_bilinen_enstrumanlar"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Demon in the Snow",
+      "diziid": "naruto",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/19/karda_bir_canavar%3A_zabuza..."
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "A New Chapter Begins: The Chunin Exam!",
+      "diziid": "naruto",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/20/yeni_bir_bolum_basliyor%21_chunin_sinavi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Identify Yourself: Powerful New Rivals",
+      "diziid": "naruto",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/21/kendinizi_tanitin%21_guclu_yeni_dusmanlar%21"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Chunin Challenge: Rock Lee vs. Sasuke!",
+      "diziid": "naruto",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/22/enerji_%25120%3A_modern_ve_sarsici_bir_mucadele"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Genin Takedown! All Nine Rookies Face Off!",
+      "diziid": "naruto",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/23/rakipleri_yen%21_tum_9_caylak_toplandi"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Start Your Engines: The Chunin Exam Begins!",
+      "diziid": "naruto",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/24/daha_simdiden_mi_basarisiz_oldum_cok_zor_ilk_sinav"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "The Tenth Question: All or Nothing!",
+      "diziid": "naruto",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/25/aniden_yapilan_bir_mac%21_sabretmemiz_gereken_10._soru"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Special Report: Live from the Forest of Death!",
+      "diziid": "naruto",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/26/yok_olus_vadisine_girmeden_once_bildir%21_konohanin_okul_gazetesi%21"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "The Chunin Exam Stage 2: The Forest of Death",
+      "diziid": "naruto",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/27/ikinci_asama_artik_basladi%21_artik_herkes_birbirine_rakip%21"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Eat or Be Eaten: Panic in the Forest",
+      "diziid": "naruto",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/28/yen_ya_da_yenil"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Naruto's Counterattack: Never Give In!",
+      "diziid": "naruto",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/29/karsi_saldiri%21_ben_asla_kacmam%21"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "The Sharingan Revived: Dragon-Flame Jutsu!",
+      "diziid": "naruto",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/30/uyanma_basladi%21_ejderha_alev_teknigi_geliyor%21"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Bushy Brow's Pledge: Undying Love and Protection!",
+      "diziid": "naruto",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/31/cali_kaslanin_hisleri%3A_son_nefesime_kadar_seni_koruyacagim%21"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Sakura Blossoms!",
+      "diziid": "naruto",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/32/kiraz_cicegi_aciliyor%21_simdi_kiraz_ciceginin_sirasi%21"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Battle Formation: Ino-Shika-Cho!",
+      "diziid": "naruto",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/33/guclu_bir_duzen%2C_muthis_mucadele%21"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Akamaru Trembles: Gaara's Cruel Strength!",
+      "diziid": "naruto",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/34/sok_ve_ozel_yetenek%21"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "The Scroll's Secret: No Peeking Allowed",
+      "diziid": "naruto",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/35/icine_bakmak_yasak%3A_parsomenin_sirri"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Clone vs. Clone: Mine Are Better Than Yours!",
+      "diziid": "naruto",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/36/golge_mucadelesi%21_buradaki_ana_karakter_benim%21"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Surviving the Cut! The Rookie Nine Together Again!",
+      "diziid": "naruto",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/37/ikinci_asama_tamamlandi%21_dokuz_caylak_da_burada%21"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Narrowing the Field: Sudden Death Elimination!",
+      "diziid": "naruto",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/38/yarismacilarin_yalnizca_yarisi_gececek%21_beklenmedik_bir_mucadele%21"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Bushy Brow's Jealousy: Lions Barrage Unleashed!",
+      "diziid": "naruto",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/39/cali_kaslinin_kiskancligi%21_aslan_kombosu_uyandi%21"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "Kakashi and Orochimaru: Face-to-Face!",
+      "diziid": "naruto",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/40/yuzlesme_vakti_geldi%21_beklenmedik_bir_karsilasma%21"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "Kunoichi Rumble: The Rivals Get Serious!",
+      "diziid": "naruto",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/41/iki_rakip_yuzlesiyor%21"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "The Ultimate Battle: Cha!",
+      "diziid": "naruto",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/42/son_mucadele%21_baslasin%21"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Killer Kunoichi and a Shaky Shikamaru",
+      "diziid": "naruto",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/43/iki_yeni_kiz%21_kiz_ninjalar_arasinda_fena_bir_mucadele%21"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "Akamaru Unleashed! Who's Top Dog Now?",
+      "diziid": "naruto",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/44/mucadele_baslasin%21_simdi_kim_galip_gelecek"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Surprise Attack! Naruto's Secret Weapon!",
+      "diziid": "naruto",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/45/utanc_verici_bir_sok_geliyor%21_galibiyet_karti_geldi"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Byakugan Battle: Hinata Grows Bold!",
+      "diziid": "naruto",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/46/ucus_zamani%21_utangacligini_yen_ve_mucadele_et%21"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "A Failure Stands Tall!",
+      "diziid": "naruto",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/47/saygi_duydugum_biri"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Gaara vs. Rock Lee: The Power of Youth Explodes!",
+      "diziid": "naruto",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/48/galibiyet%21_guc%21_irade_gucu_alevleniyor%21"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Lee's Hidden Strength: Forbidden Secret Jutsu!",
+      "diziid": "naruto",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/49/kaygisizlik%21_yasak_teknik_aciga_cikiyor%21"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "The Fifth Gate: A Splendid Ninja Is Born",
+      "diziid": "naruto",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/50/aferin%21_iste_bir_adam_boyle_olur%21"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "A Shadow in Darkness: Danger Approaches Sasuke",
+      "diziid": "naruto",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/51/karanlikta_sizan_golge_sasuke_tehlikede%21"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Ebisu Returns: Naruto's Toughest Training Yet!",
+      "diziid": "naruto",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/52/sapsal_hoca%21_yaramazlik_yasak%21"
+    },
+    {
+      "season": 1,
+      "episode": 53,
+      "title": "Long Time No See: Jiraiya Returns!",
+      "diziid": "naruto",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/53/uzun_zaman_olmustu%21_jiraiya_geri_donuyor%21"
+    },
+    {
+      "season": 2,
+      "episode": 54,
+      "title": "The Summoning Jutsu: Wisdom of the Toad Sage!",
+      "diziid": "naruto",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/54/jiraiyanin_teknigi%21_ilk_dersimiz_basliyor%21"
+    },
+    {
+      "season": 3,
+      "episode": 55,
+      "title": "A Feeling of Yearning, a Flower Full of Hope",
+      "diziid": "naruto",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/55/aci_hissi%21_umut_dolu_bir_cicek%21"
+    },
+    {
+      "season": 4,
+      "episode": 56,
+      "title": "Live or Die: Risk It All to Win It All!",
+      "diziid": "naruto",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/56/naruto_yasayacak_mi_ya_hep_ya_hic%21"
+    },
+    {
+      "season": 5,
+      "episode": 57,
+      "title": "He Flies! He Jumps! He Lurks! Chief Toad Appears!",
+      "diziid": "naruto",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/57/ucar%21_kacar%21_gizlenir%21_sef_kurbaga_ile_tanisin%21"
+    },
+    {
+      "season": 6,
+      "episode": 58,
+      "title": "Hospital Besieged: The Evil Hand Revealed!",
+      "diziid": "naruto",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/58/kotu_el_uzaniyor%21_hedef_hastane_odasinda%21"
+    },
+    {
+      "season": 7,
+      "episode": 59,
+      "title": "The Final Rounds: Rush to the Battle Arena!",
+      "diziid": "naruto",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/59/kos%2C_zipla_ve_hizlan%21_final_sinavi_basliyor%21"
+    },
+    {
+      "season": 8,
+      "episode": 60,
+      "title": "Byakugan vs. Shadow Clone",
+      "diziid": "naruto",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/60/byakugan_ve_golge_cogaltma_teknigi%21_ne_olursa_olsun_kazanacagim%21"
+    },
+    {
+      "season": 9,
+      "episode": 61,
+      "title": "Ultimate Defense: Zero Blind Spot!",
+      "diziid": "naruto",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/61/sifir_kor_nokta%21_nihai_savunma%21"
+    },
+    {
+      "season": 10,
+      "episode": 62,
+      "title": "A Failure's True Power",
+      "diziid": "naruto",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/62/bir_basarisizin_gizli_gucu%21"
+    },
+    {
+      "season": 11,
+      "episode": 63,
+      "title": "Hit It or Quit It: The Final Rounds Get Complicated!",
+      "diziid": "naruto",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/63/yenilgi_mi_tehlike_mi_mucadele_devam_etmeli%21"
+    },
+    {
+      "season": 12,
+      "episode": 64,
+      "title": "Zero Motivation: The Guy with Cloud Envy!",
+      "diziid": "naruto",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/64/bulutlar_ne_kadar_da_guzel%21_motivasyonu_olmayan_cocuk%21"
+    },
+    {
+      "season": 13,
+      "episode": 65,
+      "title": "Dancing Leaf, Squirming Sand",
+      "diziid": "naruto",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/65/yaprak_dans_ettiginde_kumlar_savruldugunda%21"
+    },
+    {
+      "season": 14,
+      "episode": 66,
+      "title": "Bushy Brow's Jutsu: Sasuke Style!",
+      "diziid": "naruto",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/66/cali_kaslarinin_teknigi%21_ozel_bir_teknik_geliyor%21"
+    },
+    {
+      "season": 15,
+      "episode": 67,
+      "title": "Late for the Show, but Ready to Go! The Ultimate Secret Technique Is Born!",
+      "diziid": "naruto",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/67/sasukenin_gec_kalma_nedeni%21_gizli_teknik_artik_aydinlaniyor%21"
+    },
+    {
+      "season": 16,
+      "episode": 68,
+      "title": "Zero Hour! The Destruction of the Hidden Leaf Village Begins!",
+      "diziid": "naruto",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/68/konohanin_yikimi_basliyor%21"
+    },
+    {
+      "season": 17,
+      "episode": 69,
+      "title": "Village in Distress: A New A-Ranked Mission!",
+      "diziid": "naruto",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/69/bunu_bekliyordum%21_a_seviyesi_gorev_basliyor%21"
+    },
+    {
+      "season": 18,
+      "episode": 70,
+      "title": "A Shirker's Call to Action: Layabout No More!",
+      "diziid": "naruto",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/70/bir_kaytaricinin_cagrisi_bunu_yapmaliyiz%21"
+    },
+    {
+      "season": 19,
+      "episode": 71,
+      "title": "An Unrivaled Match: Hokage Battle Royale!",
+      "diziid": "naruto",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/71/inanilmaz%21_hokage_seviyesinde_bir_mucadele%21"
+    },
+    {
+      "season": 20,
+      "episode": 72,
+      "title": "A Mistake from the Past: A Face Revealed!",
+      "diziid": "naruto",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/72/hokagenin_hatasi%21_maskenin_ardindaki_yuz%21"
+    },
+    {
+      "season": 21,
+      "episode": 73,
+      "title": "Forbidden Secret Technique: Reaper Death Seal!",
+      "diziid": "naruto",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/73/yasakli_bir_teknik%21_enerji_hayaleti_muhru%21"
+    },
+    {
+      "season": 22,
+      "episode": 74,
+      "title": "Astonishing Truth! Gaara's Identity Emerges!",
+      "diziid": "naruto",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/74/sok%21_gaaranin_gercek_yuzu%21"
+    },
+    {
+      "season": 23,
+      "episode": 75,
+      "title": "Sasuke's Decision: Pushed to the Edge!",
+      "diziid": "naruto",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/75/sinirlari_asmak%21_sasukenin_secimi%21"
+    },
+    {
+      "season": 24,
+      "episode": 76,
+      "title": "Assassin of the Moonlit Night",
+      "diziid": "naruto",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/76/gece_yarisinda_bir_suikast"
+    },
+    {
+      "season": 25,
+      "episode": 77,
+      "title": "Light vs. Dark: The Two Faces of Gaara",
+      "diziid": "naruto",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/77/karanlik_ve_aydinlik-gaaranin_iki_yuzu%21"
+    },
+    {
+      "season": 1,
+      "episode": 78,
+      "title": "Naruto's Ninja Handbook",
+      "diziid": "naruto",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/78/bom%21_iste_naruto_boyle_mucadele_eder%21"
+    },
+    {
+      "season": 2,
+      "episode": 79,
+      "title": "Beyond the Limit of Darkness and Light",
+      "diziid": "naruto",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/79/sinirlarin_otesinde%21_mucadelenin_sonu%21"
+    },
+    {
+      "season": 3,
+      "episode": 80,
+      "title": "The Third Hokage, Forever...",
+      "diziid": "naruto",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/naruto/naruto/80/ucuncu_hokageye_elveda"
+    }
+  ]
+}

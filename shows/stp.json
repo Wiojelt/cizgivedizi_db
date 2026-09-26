@@ -1,0 +1,333 @@
+{
+  "id": "stp",
+  "title": "star trek: genÃ§ dehalar",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/STPPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Bilim Kurgu",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Lost & Found, Part 1",
+      "diziid": "stp",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/1/kayip_esya_burosu_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Lost & Found, Part 2",
+      "diziid": "stp",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/2/kayip_esya_burosu_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Starstruck",
+      "diziid": "stp",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/3/sohret_delisi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Dream Catcher",
+      "diziid": "stp",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/4/ruya_kapani"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Terror Firma",
+      "diziid": "stp",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/5/dehset_arazisi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Kobayashi",
+      "diziid": "stp",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/6/kobayashi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "First Con-tact",
+      "diziid": "stp",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/7/ilk_irtibat"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Time Amok",
+      "diziid": "stp",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/8/amok_zamani"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "A Moral Star, Part 1",
+      "diziid": "stp",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/9/tarsa_donus_1.kisim"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "A Moral Star, Part 2",
+      "diziid": "stp",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/10/tarsa_donus_2.kisim"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Asylum",
+      "diziid": "stp",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/11/timarhane"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Let Sleeping Borg Lie",
+      "diziid": "stp",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/12/uyuyan_borgu_uyandirmak"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "All the World's a Stage",
+      "diziid": "stp",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/13/butun_dunya_bir_sahne"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Crossroads",
+      "diziid": "stp",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/14/donum_noktasi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Masquerade",
+      "diziid": "stp",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/15/maskeli_balo"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Preludes",
+      "diziid": "stp",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/16/baslangic"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Ghost in the Machine",
+      "diziid": "stp",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/17/makinedeki_hayalet"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Mindwalk",
+      "diziid": "stp",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/18/zihin_yuruyusu"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Supernova, Part 1",
+      "diziid": "stp",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/19/supernova_1.kisim"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Supernova, Part 2",
+      "diziid": "stp",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/20/supernova_2.kisim"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "Into the Breach: Part 1",
+      "diziid": "stp",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/21/sizintiya_dogru%2C_1.bolum"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "Into the Breach: Part 2",
+      "diziid": "stp",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/22/sizintiya_dogru%2C_2.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "Who Saves the Saviors?",
+      "diziid": "stp",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/23/kahramanlari_kim_kurtaracak"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "Temporal Mechanics 101",
+      "diziid": "stp",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/24/gecici_mekanik_101"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "Observer's Paradox",
+      "diziid": "stp",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/25/gozlemcinin_paradoksu"
+    },
+    {
+      "season": 6,
+      "episode": 26,
+      "title": "Imposter Syndrome",
+      "diziid": "stp",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/26/sahtekar_sendromu"
+    },
+    {
+      "season": 7,
+      "episode": 27,
+      "title": "The Fast and the Curious",
+      "diziid": "stp",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/27/hizli_ve_merakli"
+    },
+    {
+      "season": 8,
+      "episode": 28,
+      "title": "Is There in Beauty No Truth?",
+      "diziid": "stp",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/28/gercekte_guzellik_yok_mudur"
+    },
+    {
+      "season": 9,
+      "episode": 29,
+      "title": "The Devourer of All Things: Part 1",
+      "diziid": "stp",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/29/her_seyin_yok_edicisi%2C_1.bolum"
+    },
+    {
+      "season": 10,
+      "episode": 30,
+      "title": "The Devourer of All Things: Part 2",
+      "diziid": "stp",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/30/tum_seylerin_yok_edicisi%2C_2.kisim"
+    },
+    {
+      "season": 11,
+      "episode": 31,
+      "title": "Last Flight of the Protostar: Part 1",
+      "diziid": "stp",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/31/protostarin_son_ucusu%2C_1.kisim"
+    },
+    {
+      "season": 12,
+      "episode": 32,
+      "title": "Last Flight of the Protostar: Part 2",
+      "diziid": "stp",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/32/protostarin_son_ucusu%2C_2.kisim"
+    },
+    {
+      "season": 13,
+      "episode": 33,
+      "title": "A Tribble Called Quest",
+      "diziid": "stp",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/33/gorevin_adi_tribble"
+    },
+    {
+      "season": 14,
+      "episode": 34,
+      "title": "Cracked Mirror",
+      "diziid": "stp",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/34/catlak_ayna"
+    },
+    {
+      "season": 15,
+      "episode": 35,
+      "title": "Ascension: Part 1",
+      "diziid": "stp",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/35/yukselis%2C_1.kisim"
+    },
+    {
+      "season": 16,
+      "episode": 36,
+      "title": "Ascension: Part 2",
+      "diziid": "stp",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/36/yukselis%2C_2.kisim"
+    },
+    {
+      "season": 17,
+      "episode": 37,
+      "title": "Brink",
+      "diziid": "stp",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/37/sinirda"
+    },
+    {
+      "season": 18,
+      "episode": 38,
+      "title": "Touch of Grey",
+      "diziid": "stp",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/38/gri_dokunus"
+    },
+    {
+      "season": 19,
+      "episode": 39,
+      "title": "Ouroboros: Part 1",
+      "diziid": "stp",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/39/ouroboros%2C_1.kisim"
+    },
+    {
+      "season": 20,
+      "episode": 40,
+      "title": "Ouroboros: Part 2",
+      "diziid": "stp",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/stp/star_trek%3A_genc_dehalar/40/ouroboros%2C_2.kisim"
+    }
+  ]
+}

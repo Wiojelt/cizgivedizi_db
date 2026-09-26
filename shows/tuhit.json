@@ -1,0 +1,829 @@
+{
+  "id": "tuhit",
+  "title": "tuhaf iÅŸler takÄ±mÄ±",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/TUHITPoster.avif",
+  "channel": "TRT Ã‡ocuk",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 3,
+      "episode": 1,
+      "title": "Soundcheck",
+      "diziid": "tuhit",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/3/ses_kontrol"
+    },
+    {
+      "season": 4,
+      "episode": 2,
+      "title": "Double Trouble",
+      "diziid": "tuhit",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/4/cifte_dert"
+    },
+    {
+      "season": 11,
+      "episode": 3,
+      "title": "Oscar and the Oscarbots",
+      "diziid": "tuhit",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/11/oscar_ve_oscarbotlar"
+    },
+    {
+      "season": 12,
+      "episode": 4,
+      "title": "Picture Day",
+      "diziid": "tuhit",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/12/fotograf_gunu"
+    },
+    {
+      "season": 13,
+      "episode": 5,
+      "title": "A Case of the Sing Alongs",
+      "diziid": "tuhit",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/13/koro_hastaligi"
+    },
+    {
+      "season": 19,
+      "episode": 6,
+      "title": "The Trouble with Centigurps",
+      "diziid": "tuhit",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/19/santi_kurk_sorunu"
+    },
+    {
+      "season": 20,
+      "episode": 7,
+      "title": "Totally Odd Squad",
+      "diziid": "tuhit",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/20/yuzde_yuz_tuhaf_isler"
+    },
+    {
+      "season": 23,
+      "episode": 8,
+      "title": "Best Seats in the House",
+      "diziid": "tuhit",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/23/evin_en_iyi_koltuklari"
+    },
+    {
+      "season": 24,
+      "episode": 9,
+      "title": "Agent Obfusco",
+      "diziid": "tuhit",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/24/ajan_anlasilmaz"
+    },
+    {
+      "season": 25,
+      "episode": 10,
+      "title": "Life of O'Brian",
+      "diziid": "tuhit",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/25/obrianin_yasami"
+    },
+    {
+      "season": 26,
+      "episode": 11,
+      "title": "Whatever Happened to Agent Oz?",
+      "diziid": "tuhit",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/26/ajan_ozun_basina_ne_geldi"
+    },
+    {
+      "season": 27,
+      "episode": 12,
+      "title": "The Jackies",
+      "diziid": "tuhit",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/27/tavsan_odulu"
+    },
+    {
+      "season": 28,
+      "episode": 13,
+      "title": "Invasion of the Body Switchers",
+      "diziid": "tuhit",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/28/vucut_degistirici_sorunu"
+    },
+    {
+      "season": 29,
+      "episode": 14,
+      "title": "The Odd Antidote",
+      "diziid": "tuhit",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/29/tuhaflik_panzehri"
+    },
+    {
+      "season": 30,
+      "episode": 15,
+      "title": "The One That Got Away",
+      "diziid": "tuhit",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/30/gecmiste_kalan_gizem"
+    },
+    {
+      "season": 31,
+      "episode": 16,
+      "title": "Odd Outbreak",
+      "diziid": "tuhit",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/31/tuhaf_salgin"
+    },
+    {
+      "season": 32,
+      "episode": 17,
+      "title": "The Perfect Lunch",
+      "diziid": "tuhit",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/32/mukemmel_ogle_yemegi"
+    },
+    {
+      "season": 35,
+      "episode": 18,
+      "title": "Dance Like Nobody's Watching",
+      "diziid": "tuhit",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/35/kimse_gormuyormus_gibi_dans_et"
+    },
+    {
+      "season": 36,
+      "episode": 19,
+      "title": "Recipe for Disaster",
+      "diziid": "tuhit",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/36/felaketin_recetesi"
+    },
+    {
+      "season": 37,
+      "episode": 20,
+      "title": "Hold the Door",
+      "diziid": "tuhit",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/37/kapiyi_tutun"
+    },
+    {
+      "season": 38,
+      "episode": 21,
+      "title": "Flatastrophe",
+      "diziid": "tuhit",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/38/yassi_felaket"
+    },
+    {
+      "season": 39,
+      "episode": 22,
+      "title": "Puppet Show",
+      "diziid": "tuhit",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/39/kukla_gosterisi"
+    },
+    {
+      "season": 40,
+      "episode": 23,
+      "title": "Mystic Egg Pizza",
+      "diziid": "tuhit",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/40/gizemli_yumurtali_pizza"
+    },
+    {
+      "season": 41,
+      "episode": 24,
+      "title": "6:00 to 6:05: Part 1",
+      "diziid": "tuhit",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/41/saat_06%3A00dan_06%3A05e_bolum_1"
+    },
+    {
+      "season": 42,
+      "episode": 25,
+      "title": "6:00 to 6:05: Part 2",
+      "diziid": "tuhit",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/42/saat_06%3A00dan_06%3A05e_bolum_2"
+    },
+    {
+      "season": 43,
+      "episode": 26,
+      "title": "The Potato Ultimato",
+      "diziid": "tuhit",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/43/patates_sorunsali"
+    },
+    {
+      "season": 44,
+      "episode": 27,
+      "title": "A Fistful of Fruit Juice",
+      "diziid": "tuhit",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/44/bir_avuc_meyve_suyu"
+    },
+    {
+      "season": 45,
+      "episode": 28,
+      "title": "Soundcheck Part Deux",
+      "diziid": "tuhit",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/45/ses_kontrol_bolum_2"
+    },
+    {
+      "season": 46,
+      "episode": 29,
+      "title": "Jinx",
+      "diziid": "tuhit",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/46/kilit"
+    },
+    {
+      "season": 47,
+      "episode": 30,
+      "title": "Training Day: Part 1",
+      "diziid": "tuhit",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/47/egitim_gunu_bolum_1"
+    },
+    {
+      "season": 48,
+      "episode": 31,
+      "title": "Training Day: Part 2",
+      "diziid": "tuhit",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/48/egitim_gunu_bolum_2"
+    },
+    {
+      "season": 49,
+      "episode": 32,
+      "title": "Trading Places",
+      "diziid": "tuhit",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/49/yer_degistiren_sayilar"
+    },
+    {
+      "season": 50,
+      "episode": 33,
+      "title": "Bad Lemonade",
+      "diziid": "tuhit",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/50/bozuk_limonata"
+    },
+    {
+      "season": 51,
+      "episode": 34,
+      "title": "Robert Plant",
+      "diziid": "tuhit",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/51/cicek_robert"
+    },
+    {
+      "season": 52,
+      "episode": 35,
+      "title": "Game Time",
+      "diziid": "tuhit",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/52/oyun_zamani"
+    },
+    {
+      "season": 55,
+      "episode": 36,
+      "title": "Captain Fun",
+      "diziid": "tuhit",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/55/kaptan_komik"
+    },
+    {
+      "season": 56,
+      "episode": 37,
+      "title": "Switch Your Partner Round and Round",
+      "diziid": "tuhit",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/56/tekrar_tekrar_ortak_degistir"
+    },
+    {
+      "season": 57,
+      "episode": 38,
+      "title": "Trials and Tubulations: Part 1",
+      "diziid": "tuhit",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/57/zorluklar_ve_guclukler_bolum_1"
+    },
+    {
+      "season": 58,
+      "episode": 39,
+      "title": "Trials and Tubulations: Part 2",
+      "diziid": "tuhit",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/58/zorluklar_ve_guclukler_bolum_2"
+    },
+    {
+      "season": 59,
+      "episode": 40,
+      "title": "No Ifs, Ands, or Robots",
+      "diziid": "tuhit",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/59/amasiz_mamasi_yok_robotlar_giremez"
+    },
+    {
+      "season": 60,
+      "episode": 41,
+      "title": "Worst First Day Ever",
+      "diziid": "tuhit",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/60/sehirdeki_en_kotu_ilk_gun"
+    },
+    {
+      "season": 63,
+      "episode": 42,
+      "title": "Not So Splash",
+      "diziid": "tuhit",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/63/havuz_problemi"
+    },
+    {
+      "season": 64,
+      "episode": 43,
+      "title": "By the Book",
+      "diziid": "tuhit",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/64/kitabina_gore"
+    },
+    {
+      "season": 65,
+      "episode": 44,
+      "title": "O vs. the Ballcano",
+      "diziid": "tuhit",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/65/top_dagi_patlamasi"
+    },
+    {
+      "season": 66,
+      "episode": 45,
+      "title": "Assistant's Creed",
+      "diziid": "tuhit",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/66/asistandan_ajan_olur_mu"
+    },
+    {
+      "season": 70,
+      "episode": 46,
+      "title": "Oscar the Couch",
+      "diziid": "tuhit",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/70/kanepe_oscar"
+    },
+    {
+      "season": 73,
+      "episode": 47,
+      "title": "There Might Be Dragons",
+      "diziid": "tuhit",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/73/belki_ejderhalar_vardir"
+    },
+    {
+      "season": 74,
+      "episode": 48,
+      "title": "Dawn of the Read",
+      "diziid": "tuhit",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/74/kitaplar_havalara_uctu"
+    },
+    {
+      "season": 75,
+      "episode": 49,
+      "title": "Olive and Otto in Shmumberland: Part 1",
+      "diziid": "tuhit",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/75/olive_ve_otto_simambir_diyarinda_bolum_1"
+    },
+    {
+      "season": 76,
+      "episode": 50,
+      "title": "Olive and Otto in Shmumberland: Part 2",
+      "diziid": "tuhit",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/76/olive_ve_otto_simambir_diyarinda_bolum_2"
+    },
+    {
+      "season": 77,
+      "episode": 51,
+      "title": "Disorder in the Court: Part 1",
+      "diziid": "tuhit",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/77/mahkemede_kargasa_bolum_1"
+    },
+    {
+      "season": 78,
+      "episode": 52,
+      "title": "Disorder in the Court: Part 2",
+      "diziid": "tuhit",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/78/mahkemede_kargasa_bolum_2"
+    },
+    {
+      "season": 79,
+      "episode": 53,
+      "title": "O Is Not for Over: Part 1",
+      "diziid": "tuhit",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/79/daha_son_noktayi_koymadik_bolum_bir"
+    },
+    {
+      "season": 80,
+      "episode": 54,
+      "title": "O Is Not for Over: Part 2",
+      "diziid": "tuhit",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/80/daha_son_noktayi_koymadik_bolum_iki"
+    },
+    {
+      "season": 1,
+      "episode": 55,
+      "title": "First Day: Part 1",
+      "diziid": "tuhit",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/81/ilk_gun_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 56,
+      "title": "First Day: Part 2",
+      "diziid": "tuhit",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/82/ilk_gun_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 57,
+      "title": "Back to the Past",
+      "diziid": "tuhit",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/83/gecmise_donus"
+    },
+    {
+      "season": 4,
+      "episode": 58,
+      "title": "Odd Squad Needs You",
+      "diziid": "tuhit",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/84/tuhaf_isler_seni_cagiriyor"
+    },
+    {
+      "season": 13,
+      "episode": 59,
+      "title": "Olympia's Day",
+      "diziid": "tuhit",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/93/olympianin_gunu"
+    },
+    {
+      "season": 14,
+      "episode": 60,
+      "title": "Otis' Day",
+      "diziid": "tuhit",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/94/otisin_gunu"
+    },
+    {
+      "season": 15,
+      "episode": 61,
+      "title": "And Then They Were Puppies",
+      "diziid": "tuhit",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/95/hepsi_yavru_kopekti"
+    },
+    {
+      "season": 16,
+      "episode": 62,
+      "title": "A Case of the Sillies",
+      "diziid": "tuhit",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/96/sersemlik_hastaligi"
+    },
+    {
+      "season": 17,
+      "episode": 63,
+      "title": "Happy Halfiversary",
+      "diziid": "tuhit",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/97/yarim_yil_donumu_kutlamasi"
+    },
+    {
+      "season": 18,
+      "episode": 64,
+      "title": "Good Egg Bad Egg",
+      "diziid": "tuhit",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/98/iyi_yumurta%2C_kotu_yumurta"
+    },
+    {
+      "season": 19,
+      "episode": 65,
+      "title": "Night Shift",
+      "diziid": "tuhit",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/99/gece_vardiyasi"
+    },
+    {
+      "season": 20,
+      "episode": 66,
+      "title": "Put Me In, Coach",
+      "diziid": "tuhit",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/100/beni_de_takma_al_koc"
+    },
+    {
+      "season": 21,
+      "episode": 67,
+      "title": "Extreme Cake-over",
+      "diziid": "tuhit",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/101/siddetli_pasta_salgini"
+    },
+    {
+      "season": 22,
+      "episode": 68,
+      "title": "A Job Well Undone",
+      "diziid": "tuhit",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/102/iyi_kotarilmamis_bir_is"
+    },
+    {
+      "season": 23,
+      "episode": 69,
+      "title": "Three's Company",
+      "diziid": "tuhit",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/103/asagidakiler_yukaridakiler"
+    },
+    {
+      "season": 24,
+      "episode": 70,
+      "title": "Behind Enemy Mimes",
+      "diziid": "tuhit",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/104/pandomim_deyip_gecme"
+    },
+    {
+      "season": 25,
+      "episode": 71,
+      "title": "Drop Gadget Repeat",
+      "diziid": "tuhit",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/105/her_seferinde_yeni_bastan"
+    },
+    {
+      "season": 26,
+      "episode": 72,
+      "title": "20 Questions",
+      "diziid": "tuhit",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/106/yirmi_soru"
+    },
+    {
+      "season": 27,
+      "episode": 73,
+      "title": "High Maintenance",
+      "diziid": "tuhit",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/107/yogun_bakim"
+    },
+    {
+      "season": 28,
+      "episode": 74,
+      "title": "Not OK Computer",
+      "diziid": "tuhit",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/108/bu_bilgisayar_ne_tuhaf"
+    },
+    {
+      "season": 29,
+      "episode": 75,
+      "title": "O Is for Opposite",
+      "diziid": "tuhit",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/109/bayan_onun_yansimasi"
+    },
+    {
+      "season": 30,
+      "episode": 76,
+      "title": "Agent Oksana's Kitchen Nightmares",
+      "diziid": "tuhit",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/110/ajan_oksananin_mutfak_istekleri"
+    },
+    {
+      "season": 31,
+      "episode": 77,
+      "title": "Rookie Night",
+      "diziid": "tuhit",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/111/caylak_gecesi"
+    },
+    {
+      "season": 32,
+      "episode": 78,
+      "title": "Who Let the Doug Out?",
+      "diziid": "tuhit",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/112/yumurta_kapiya_dayandi"
+    },
+    {
+      "season": 33,
+      "episode": 79,
+      "title": "The Cherry-on-Top-inator",
+      "diziid": "tuhit",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/113/kiraz_kondurucu"
+    },
+    {
+      "season": 34,
+      "episode": 80,
+      "title": "Sir",
+      "diziid": "tuhit",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/114/beyefendi"
+    },
+    {
+      "season": 35,
+      "episode": 81,
+      "title": "Orchid's Almost Half Hour Talent Show",
+      "diziid": "tuhit",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/115/neredeyse_yarim_saatlik_yetenek_gosterisi"
+    },
+    {
+      "season": 36,
+      "episode": 82,
+      "title": "The Perfect Score",
+      "diziid": "tuhit",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/116/mukemmel_sonuc"
+    },
+    {
+      "season": 37,
+      "episode": 83,
+      "title": "The Voice",
+      "diziid": "tuhit",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/117/ses"
+    },
+    {
+      "season": 38,
+      "episode": 84,
+      "title": "Partner Problems",
+      "diziid": "tuhit",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/118/ortaklik_sorunlari"
+    },
+    {
+      "season": 39,
+      "episode": 85,
+      "title": "Oona and the Oonabots",
+      "diziid": "tuhit",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/119/oona_ve_oonabotlar"
+    },
+    {
+      "season": 40,
+      "episode": 86,
+      "title": "The Ninja Situation",
+      "diziid": "tuhit",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/120/ninja_durumu"
+    },
+    {
+      "season": 41,
+      "episode": 87,
+      "title": "Breakfast Club",
+      "diziid": "tuhit",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/121/kahvalti_kulubu"
+    },
+    {
+      "season": 42,
+      "episode": 88,
+      "title": "Dr. O: Party Time, Excellent",
+      "diziid": "tuhit",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/122/doktor_onun_veda_partisi"
+    },
+    {
+      "season": 47,
+      "episode": 89,
+      "title": "Negative Town",
+      "diziid": "tuhit",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/127/negatif_sehir"
+    },
+    {
+      "season": 48,
+      "episode": 90,
+      "title": "License to Science",
+      "diziid": "tuhit",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/128/bilim_ruhsati"
+    },
+    {
+      "season": 49,
+      "episode": 91,
+      "title": "Two Agents and a Baby",
+      "diziid": "tuhit",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/129/iki_ajan_ve_bir_bebek"
+    },
+    {
+      "season": 50,
+      "episode": 92,
+      "title": "Ocean and the Fly",
+      "diziid": "tuhit",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/130/okyanus_ve_sinek"
+    },
+    {
+      "season": 51,
+      "episode": 93,
+      "title": "Hands on a Desk Chair",
+      "diziid": "tuhit",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/131/koltuga_yapisanlar"
+    },
+    {
+      "season": 52,
+      "episode": 94,
+      "title": "There Is No O in O-Bot",
+      "diziid": "tuhit",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/132/robotun_icinde_o_yok%3B_yanlis%2C_iki_tane_var"
+    },
+    {
+      "season": 53,
+      "episode": 95,
+      "title": "Shapely University",
+      "diziid": "tuhit",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/133/sekilli_universite"
+    },
+    {
+      "season": 54,
+      "episode": 96,
+      "title": "Slow Day",
+      "diziid": "tuhit",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/134/agir_cekim_bir_gun"
+    },
+    {
+      "season": 59,
+      "episode": 97,
+      "title": "The Deposit Slip-Up",
+      "diziid": "tuhit",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/139/sahte_sehir%2C_sahte_kasa"
+    },
+    {
+      "season": 60,
+      "episode": 98,
+      "title": "Villains Always Win",
+      "diziid": "tuhit",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/140/kotuler_daima_kazanir"
+    },
+    {
+      "season": 61,
+      "episode": 99,
+      "title": "Other Olympia",
+      "diziid": "tuhit",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/141/oteki_olympia"
+    },
+    {
+      "season": 62,
+      "episode": 100,
+      "title": "Total Zeros",
+      "diziid": "tuhit",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/142/toplam_sifirlar"
+    },
+    {
+      "season": 63,
+      "episode": 101,
+      "title": "It Takes Goo to Make a Feud Go Right",
+      "diziid": "tuhit",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/143/bazen_kavgalilar_birbirine_yapistirmak_gerekir"
+    },
+    {
+      "season": 64,
+      "episode": 102,
+      "title": "Friends of Odd Squad",
+      "diziid": "tuhit",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/tuhit/tuhaf_isler_takimi/144/tuhaf_isler_takiminin_dostlari"
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "id": "ne",
+  "title": "ninja ekspres",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/NEPoster.avif",
+  "channel": "Boomerang",
+  "genres": [
+    "Aksiyon",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Viking Beats",
+      "diziid": "ne",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/1/viking_ritmi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Wooden Horse",
+      "diziid": "ne",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/2/tahta_at"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Ultimate Sword Remover",
+      "diziid": "ne",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/3/en_iyi_kilic_cikaricisi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Damsel in Distress",
+      "diziid": "ne",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/4/prensesin_basi_dertte"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "A Flag",
+      "diziid": "ne",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/5/bayrak"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "What a Drag",
+      "diziid": "ne",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/6/ne_yaris_ama%21"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Deliving Daylights",
+      "diziid": "ne",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/7/ajani_kurtaris"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "A Brick",
+      "diziid": "ne",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/8/tugla"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Soup",
+      "diziid": "ne",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/9/corba"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Awesome Cleaning Robot",
+      "diziid": "ne",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/10/harika_temizlik_robotu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "A Carriage",
+      "diziid": "ne",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/11/bir_araba"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Ninja Cleaners",
+      "diziid": "ne",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/12/ninja_temizlikciler"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Treasure Hunting",
+      "diziid": "ne",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/13/hazine_avi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Temple of Wishes",
+      "diziid": "ne",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/14/dilek_evi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Hats off to the Ninjas",
+      "diziid": "ne",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/15/ninjalara_sapka_cikarin"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Mad for Mariachi",
+      "diziid": "ne",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/16/muzik_cilginligi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "A Magic Wand",
+      "diziid": "ne",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/17/sihirli_degnek"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Straight from the Horse's Mouth",
+      "diziid": "ne",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/18/once_ata_sorun"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "An Epic Wave",
+      "diziid": "ne",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/19/destansi_dalga"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "A Mammoth Wedding",
+      "diziid": "ne",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/20/mamut_dugunu"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Fire",
+      "diziid": "ne",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/21/ates"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Egg",
+      "diziid": "ne",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/22/yumurta"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "By the Seaside",
+      "diziid": "ne",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/23/deniz_kenarinda"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Villain",
+      "diziid": "ne",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/24/kotu_adam"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Figurine",
+      "diziid": "ne",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/25/heykel"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Highland Fling",
+      "diziid": "ne",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/26/iskocya_macerasi"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Mega Hero Girl",
+      "diziid": "ne",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/27/mega_kahraman_kiz"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Making Music",
+      "diziid": "ne",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/28/muzik_yapmak"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "The Balloon",
+      "diziid": "ne",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/29/balon"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Cuckoo Car",
+      "diziid": "ne",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/30/guguk_kusu_arabasi"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "The Nanny",
+      "diziid": "ne",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/31/dadi"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Giant Trousers",
+      "diziid": "ne",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/32/dev_pantolon"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Operation Potato",
+      "diziid": "ne",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/33/patates_operasyonu"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Gnome Sweet Gnome",
+      "diziid": "ne",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/34/gnome_guzel_gnome"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Monster Shield",
+      "diziid": "ne",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/35/canavar_kalkani"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Ninja Detective",
+      "diziid": "ne",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/36/dedektif_ninja"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Canned",
+      "diziid": "ne",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/37/konserve"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Ninja Pong",
+      "diziid": "ne",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/38/ninja_pong"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "The Pre-Hysteric Race",
+      "diziid": "ne",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/39/eski_cag_yarisi"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Beatbox",
+      "diziid": "ne",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/40/beatbox"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Home Orc",
+      "diziid": "ne",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/41/ev_evi"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "A New Rug",
+      "diziid": "ne",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/42/yeni_bir_hali"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Trainee Witch",
+      "diziid": "ne",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/43/acemi_cadi"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Ninja against Ninja",
+      "diziid": "ne",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/44/ninja_ninjaya_karsi"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Peaceful Planet",
+      "diziid": "ne",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/45/uslu_gezegen"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Powerless",
+      "diziid": "ne",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/46/gucsuz"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Magic Tournament",
+      "diziid": "ne",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/47/sihir_turnuvasi"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Temper Tantrums",
+      "diziid": "ne",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/48/ofke_krizleri"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Mega Feline",
+      "diziid": "ne",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/49/mega_kedigil"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "The Toymaker",
+      "diziid": "ne",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/50/oyuncakci"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Sweet Smell of Success",
+      "diziid": "ne",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/51/basarinin_tatli_kokusu"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Three Wishes",
+      "diziid": "ne",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/ne/ninja_ekspres/52/uc_dilek"
+    }
+  ]
+}

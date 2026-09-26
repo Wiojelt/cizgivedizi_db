@@ -1,0 +1,428 @@
+{
+  "id": "orki",
+  "title": "orman kitabÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ORKIPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Mowgli Comes into the Jungle",
+      "diziid": "orki",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/1/mowgli_ormana_geliyor"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Birth of Wolf-Boy Mowgli",
+      "diziid": "orki",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/2/kurt_ogul_mowglinin_dogumu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Alexander's Son",
+      "diziid": "orki",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/3/alexanderin_oglu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Jungle Law",
+      "diziid": "orki",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/4/orman_kanunu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The New Friends",
+      "diziid": "orki",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/5/yeni_arkadaslar"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Solitary Kichi",
+      "diziid": "orki",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/6/asker_kichi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Cold Fang",
+      "diziid": "orki",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/7/soguk_dis"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Sorry, Baloo!",
+      "diziid": "orki",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/8/ozur_dilerim%2C_baloo%21"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "More Precious than the Law",
+      "diziid": "orki",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/9/kanundan_daha_degerli"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Lone Wolf Visitor",
+      "diziid": "orki",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/10/yalniz_kurt_ziyaretcisi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Devil in the Mind",
+      "diziid": "orki",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/11/zihindeki_seytan"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Adventurous Journey",
+      "diziid": "orki",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/12/macera_dolu_yolculuk"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Hero's Return",
+      "diziid": "orki",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/13/kahramanin_donusu"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Chilly Woods",
+      "diziid": "orki",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/14/soguk_orman"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Human Being",
+      "diziid": "orki",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/15/insan_olmak"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Damaged Heart",
+      "diziid": "orki",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/16/hasarli_kalp"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Goodbye Mother",
+      "diziid": "orki",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/17/elveda_anne"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Other Jungle",
+      "diziid": "orki",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/18/diger_orman"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Going Back to My Own Jungle",
+      "diziid": "orki",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/19/kendi_ormanima_donmek"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Mowgli's Lair",
+      "diziid": "orki",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/20/mowglinin_yuvasi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Waterfront Truce",
+      "diziid": "orki",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/21/liman_barisi"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "The \"Dreaded\" Came",
+      "diziid": "orki",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/22/dehset_geldi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "The Pride of a Hero",
+      "diziid": "orki",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/23/bir_kahramanin_gururu"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Mowgli Has a Sweetheart",
+      "diziid": "orki",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/24/mowglinin_bir_sevgilisi_var"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Grizzle the Stray Wolf",
+      "diziid": "orki",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/25/basibos_kurt_grizzle"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Peace in Seeonee Forest",
+      "diziid": "orki",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/26/seeonee_ormaninda_baris"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "No Leader",
+      "diziid": "orki",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/27/lider_yok"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Mother's Determination",
+      "diziid": "orki",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/28/annenin_kararliligi"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Look for the Bad Guys",
+      "diziid": "orki",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/29/kotu_adamlari_ara"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "The Victory Song by All",
+      "diziid": "orki",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/30/herkes_tarafindan_kazanilan_zafer_sarkisi"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Birth of a New Boss",
+      "diziid": "orki",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/31/yeni_bir_patronun_dogumu"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Mowgli's Red Flower",
+      "diziid": "orki",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/32/mowglinin_kirmizi_cicegi"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Human Speech Is Beautiful",
+      "diziid": "orki",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/33/guzel_insan_konusmasi"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Mowgli Goes to the Village",
+      "diziid": "orki",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/34/mowgli_koye_gidiyor"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Want to Know Human Being",
+      "diziid": "orki",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/35/insan_olmayi_bilmek_istemek"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "The Lying Human Being",
+      "diziid": "orki",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/36/yalanci_insan_olmak"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Tears Before the Battle",
+      "diziid": "orki",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/37/savastan_once_gozyaslari"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "The Decisive Battle",
+      "diziid": "orki",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/38/kararli_savas"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Goodbye Meshua",
+      "diziid": "orki",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/39/elveda_meshua"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "The Dhole Invasion",
+      "diziid": "orki",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/40/dhole_saldirisi"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Run through the Valley of Death",
+      "diziid": "orki",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/41/olumsuz_vadide_kosu"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Longing to Meet Meshua",
+      "diziid": "orki",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/42/meshua_ile_gorusmek_istegi"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Mowgli Helps",
+      "diziid": "orki",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/43/mowgli_yardim_ediyor"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Bells in the Moonless Night",
+      "diziid": "orki",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/44/ay_isigi_olmayan_gecede_ziller"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "The Great Counterattack from the Forest",
+      "diziid": "orki",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/45/ormandan_buyuk_karsi_saldiri"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "The Town of Khanhiwara",
+      "diziid": "orki",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/46/khanhiwara_kasabasi"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "The Great Escape Operation",
+      "diziid": "orki",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/47/buyuk_kacis_operasyonu"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Voice Calling Mowgli",
+      "diziid": "orki",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/48/mowgliyi_arayan_ses"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Courageous One, May You Rest in Peace",
+      "diziid": "orki",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/49/cesur_olan%2C_huzur_icinde_uyu"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Kaa's Sloughing and the Elephant Dance",
+      "diziid": "orki",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/50/kaanin_deri_degisimi_ve_fil_dansi"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Meets Meshua",
+      "diziid": "orki",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/51/meshuayla_bulusma"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "A Word to Mowgli",
+      "diziid": "orki",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/orki/orman_kitabi/52/mowgliye_bir_soz"
+    }
+  ]
+}

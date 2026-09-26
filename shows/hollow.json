@@ -1,0 +1,173 @@
+{
+  "id": "hollow",
+  "title": "hollow",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/HOLLOWPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Bilim Kurgu",
+    "Gizem"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Room",
+      "diziid": "hollow",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/1/oda"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Desert",
+      "diziid": "hollow",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/2/col"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Apocalypse",
+      "diziid": "hollow",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/3/mahser"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Lighthouse",
+      "diziid": "hollow",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/4/deniz_feneri"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Ishibo",
+      "diziid": "hollow",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/5/ishibo"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Undead",
+      "diziid": "hollow",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/6/zombiler"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Riddle",
+      "diziid": "hollow",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/7/bilmece"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Ice",
+      "diziid": "hollow",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/8/buz"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Cocoon",
+      "diziid": "hollow",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/9/orumcek_agi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Colrath",
+      "diziid": "hollow",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/10/colrath"
+    },
+    {
+      "season": 1,
+      "episode": 11,
+      "title": "Home",
+      "diziid": "hollow",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/11/ev"
+    },
+    {
+      "season": 2,
+      "episode": 12,
+      "title": "Hollow Games",
+      "diziid": "hollow",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/12/hollow_oyunlari"
+    },
+    {
+      "season": 3,
+      "episode": 13,
+      "title": "The Return",
+      "diziid": "hollow",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/13/donus"
+    },
+    {
+      "season": 4,
+      "episode": 14,
+      "title": "Puzzles",
+      "diziid": "hollow",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/14/bilmeceler"
+    },
+    {
+      "season": 5,
+      "episode": 15,
+      "title": "Alchemy",
+      "diziid": "hollow",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/15/simya"
+    },
+    {
+      "season": 6,
+      "episode": 16,
+      "title": "Dead End",
+      "diziid": "hollow",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/16/cikmaz"
+    },
+    {
+      "season": 7,
+      "episode": 17,
+      "title": "Unbalanced",
+      "diziid": "hollow",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/17/denge"
+    },
+    {
+      "season": 8,
+      "episode": 18,
+      "title": "Fang",
+      "diziid": "hollow",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/18/dis"
+    },
+    {
+      "season": 9,
+      "episode": 19,
+      "title": "Fire",
+      "diziid": "hollow",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/19/yangin"
+    },
+    {
+      "season": 10,
+      "episode": 20,
+      "title": "Race",
+      "diziid": "hollow",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/hollow/hollow/20/yaris"
+    }
+  ]
+}

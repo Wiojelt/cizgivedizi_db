@@ -1,0 +1,44 @@
+{
+  "id": "sÃ¶cÃ¼p",
+  "title": "sÃ¼per Ã¶cÃ¼ler: Ã¶cÃ¼ partisi",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SÃœPÃ–PPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "This Day",
+      "diziid": "s%C3%B6c%C3%BCp",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/s%C3%B6c%C3%BCp/super_oculer%3A_ocu_partisi/1/bugun"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Favorite Monster",
+      "diziid": "s%C3%B6c%C3%BCp",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/s%C3%B6c%C3%BCp/super_oculer%3A_ocu_partisi/2/en_sevilen_ocu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Special Monster",
+      "diziid": "s%C3%B6c%C3%BCp",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/s%C3%B6c%C3%BCp/super_oculer%3A_ocu_partisi/3/ozel_bir_ocu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Monsters Up",
+      "diziid": "s%C3%B6c%C3%BCp",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/s%C3%B6c%C3%BCp/super_oculer%3A_ocu_partisi/4/oculerin_zamani"
+    }
+  ]
+}

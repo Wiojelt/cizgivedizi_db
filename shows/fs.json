@@ -1,0 +1,301 @@
+{
+  "id": "fs",
+  "title": "son uzay",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/FSPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Bilim Kurgu",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Chapter One",
+      "diziid": "fs",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/1/no._1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Chapter Two",
+      "diziid": "fs",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/2/no._2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Chapter Three",
+      "diziid": "fs",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/3/no._3"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Chapter Four",
+      "diziid": "fs",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/4/no._4"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Chapter Five",
+      "diziid": "fs",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/5/no._5"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Chapter Six",
+      "diziid": "fs",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/6/no._6"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Chapter Seven",
+      "diziid": "fs",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/7/no._7"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Chapter Eight",
+      "diziid": "fs",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/8/no._8"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Chapter Nine",
+      "diziid": "fs",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/9/no._9"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Chapter Ten",
+      "diziid": "fs",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/10/no._10"
+    },
+    {
+      "season": 1,
+      "episode": 11,
+      "title": "The Toro Regatta",
+      "diziid": "fs",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/11/toro_regatta"
+    },
+    {
+      "season": 2,
+      "episode": 12,
+      "title": "The Happy Place",
+      "diziid": "fs",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/12/mutluluk_mekani"
+    },
+    {
+      "season": 3,
+      "episode": 13,
+      "title": "The Grand Surrender",
+      "diziid": "fs",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/13/buyuk_teslimiyet"
+    },
+    {
+      "season": 4,
+      "episode": 14,
+      "title": "The Other Side",
+      "diziid": "fs",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/14/oteki_taraf"
+    },
+    {
+      "season": 5,
+      "episode": 15,
+      "title": "The Notorious Mrs. Goodspeed",
+      "diziid": "fs",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/15/kotu_sohretli_bayan_goodspeed"
+    },
+    {
+      "season": 6,
+      "episode": 16,
+      "title": "The Arachnitects",
+      "diziid": "fs",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/16/arachnitectler"
+    },
+    {
+      "season": 7,
+      "episode": 17,
+      "title": "The First Times They Met",
+      "diziid": "fs",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/17/ilk_tanisma_ani"
+    },
+    {
+      "season": 8,
+      "episode": 18,
+      "title": "The Remembered",
+      "diziid": "fs",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/18/hatirlananlar"
+    },
+    {
+      "season": 9,
+      "episode": 19,
+      "title": "The Closer You Get",
+      "diziid": "fs",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/19/ne_kadar_yaklasirsan..."
+    },
+    {
+      "season": 10,
+      "episode": 20,
+      "title": "The Lost Spy",
+      "diziid": "fs",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/20/kayip_casus"
+    },
+    {
+      "season": 11,
+      "episode": 21,
+      "title": "The Set Up",
+      "diziid": "fs",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/21/ihanet"
+    },
+    {
+      "season": 12,
+      "episode": 22,
+      "title": "The Descent Into Darkness",
+      "diziid": "fs",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/22/karanligin_cokusu"
+    },
+    {
+      "season": 13,
+      "episode": 23,
+      "title": "The Sixth Key",
+      "diziid": "fs",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/23/altinci_anahtar"
+    },
+    {
+      "season": 1,
+      "episode": 24,
+      "title": "...And Into the Fire",
+      "diziid": "fs",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/24/...ve_atese"
+    },
+    {
+      "season": 2,
+      "episode": 25,
+      "title": "The Hidden Light",
+      "diziid": "fs",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/25/gizli_isik"
+    },
+    {
+      "season": 3,
+      "episode": 26,
+      "title": "The Ventrexian",
+      "diziid": "fs",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/26/ventrexian"
+    },
+    {
+      "season": 4,
+      "episode": 27,
+      "title": "One of Us",
+      "diziid": "fs",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/27/bizden_biri"
+    },
+    {
+      "season": 5,
+      "episode": 28,
+      "title": "All the Moments Lost",
+      "diziid": "fs",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/28/kayip_anlar"
+    },
+    {
+      "season": 6,
+      "episode": 29,
+      "title": "Change is Gonna Come",
+      "diziid": "fs",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/29/donus_noktasi"
+    },
+    {
+      "season": 7,
+      "episode": 30,
+      "title": "The Chamber of Doubt",
+      "diziid": "fs",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/30/suphe_odasi"
+    },
+    {
+      "season": 8,
+      "episode": 31,
+      "title": "Forgiveness",
+      "diziid": "fs",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/31/bagislama"
+    },
+    {
+      "season": 9,
+      "episode": 32,
+      "title": "Hyper-Transdimensional Bridge Rising",
+      "diziid": "fs",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/32/hiper-boyutlar_otesi_kopru"
+    },
+    {
+      "season": 10,
+      "episode": 33,
+      "title": "Until the Sky Falls",
+      "diziid": "fs",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/33/gokyuzu_dusene_kadar"
+    },
+    {
+      "season": 11,
+      "episode": 34,
+      "title": "The Dead Speak",
+      "diziid": "fs",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/34/olu_konusma"
+    },
+    {
+      "season": 12,
+      "episode": 35,
+      "title": "The Leaving",
+      "diziid": "fs",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/35/ayrilma"
+    },
+    {
+      "season": 13,
+      "episode": 36,
+      "title": "The Devil's Den",
+      "diziid": "fs",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/fs/son_uzay/36/seytanin_ini"
+    }
+  ]
+}

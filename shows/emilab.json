@@ -1,0 +1,93 @@
+{
+  "id": "emilab",
+  "title": "emily'nin muhteÅŸem laboratuvarÄ±",
+  "type": "other",
+  "poster": "https://cizgivedizi.com/resim/EMILABPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Glow Party",
+      "diziid": "emilab",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/emilab/emilynin_muhtesem_laboratuvari/1/isiltili_parti"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Walking on Oobleck",
+      "diziid": "emilab",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/emilab/emilynin_muhtesem_laboratuvari/2/oobleck_ustunde_yurumek"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Rainbow Horse Toothpaste",
+      "diziid": "emilab",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/emilab/emilynin_muhtesem_laboratuvari/3/gokkusagi_at_dis_macunu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Tornado Chasers",
+      "diziid": "emilab",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/emilab/emilynin_muhtesem_laboratuvari/4/hortum_kovalayanlar"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Eggs! Eggs! Eggs!",
+      "diziid": "emilab",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/emilab/emilynin_muhtesem_laboratuvari/5/yumurtalar%21_yumurtalar%21_yumurtalar%21"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Slime Time",
+      "diziid": "emilab",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/emilab/emilynin_muhtesem_laboratuvari/6/slime_zamani"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Bowling with Air",
+      "diziid": "emilab",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/emilab/emilynin_muhtesem_laboratuvari/7/havali_bovling"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Balloon Power",
+      "diziid": "emilab",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/emilab/emilynin_muhtesem_laboratuvari/8/balon_gucu"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Spooky Science",
+      "diziid": "emilab",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/emilab/emilynin_muhtesem_laboratuvari/9/urkutucu_bilim"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Solar Bake Off",
+      "diziid": "emilab",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/emilab/emilynin_muhtesem_laboratuvari/10/gunes_enerjisiyle_ascilik"
+    }
+  ]
+}

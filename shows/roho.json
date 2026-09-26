@@ -1,0 +1,429 @@
+{
+  "id": "roho",
+  "title": "robin hood",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ROHOPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Macera",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Birth of the Hero",
+      "diziid": "roho",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/1/kahramanin_dogusu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Mystery Forest",
+      "diziid": "roho",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/2/gizemli_orman"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "A Duel",
+      "diziid": "roho",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/3/bir_duello"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "House Building",
+      "diziid": "roho",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/4/ev_insasi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Mercenary",
+      "diziid": "roho",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/5/sozlesmeli_savasci"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Gentlemen Bandits",
+      "diziid": "roho",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/6/centilmen_haydutlar"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Loyal King",
+      "diziid": "roho",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/7/sadik_kral"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Towards Nottingham",
+      "diziid": "roho",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/8/nottinghama_dogru"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Friend or Foe",
+      "diziid": "roho",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/9/dost_mu%2C_dusman_mi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Impossible",
+      "diziid": "roho",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/10/imkansiz"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "An Uncertain Future",
+      "diziid": "roho",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/11/belirsiz_bir_gelecek"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Disguise",
+      "diziid": "roho",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/12/taklit"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Up in Smoke",
+      "diziid": "roho",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/13/dumanin_icinde"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "A New Day",
+      "diziid": "roho",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/14/yeni_bir_gun"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "An Unexpected Return",
+      "diziid": "roho",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/15/beklenmedik_bir_donus"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Fog and Wind",
+      "diziid": "roho",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/16/sis_ve_ruzgar"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Ultimate Farewell",
+      "diziid": "roho",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/17/son_veda"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Tuck's Battle",
+      "diziid": "roho",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/18/tuckin_savasi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Witchcraft",
+      "diziid": "roho",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/19/cadilik"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Revenge",
+      "diziid": "roho",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/20/intikam"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "King of the Forest",
+      "diziid": "roho",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/21/ormanin_krali"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Fire",
+      "diziid": "roho",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/22/alev"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Thunderstorm in Nottingham",
+      "diziid": "roho",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/23/nottinghamda_firtina"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Girl in Black",
+      "diziid": "roho",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/24/siyah_giyimli_kiz"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Love and Hate",
+      "diziid": "roho",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/25/ask_ve_nefret"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Peace After the Storm",
+      "diziid": "roho",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/26/firtinadan_sonra_baris"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "A Foundling",
+      "diziid": "roho",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/27/buluntu_bebek"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "The Flying Ship",
+      "diziid": "roho",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/28/ucan_gemi"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "A Prediction",
+      "diziid": "roho",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/29/bir_kehanet"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Barons Greed",
+      "diziid": "roho",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/30/baronlarin_hirsi"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "The Bandits' Revenge",
+      "diziid": "roho",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/31/haydutlarin_intikami"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Jenny's Tale",
+      "diziid": "roho",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/32/jennynin_hikayesi"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Return",
+      "diziid": "roho",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/33/donus"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "The Fog of Revenge",
+      "diziid": "roho",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/34/intikamin_sisi"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "The Good Old Days",
+      "diziid": "roho",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/35/eski_gunler"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Gamekeeper",
+      "diziid": "roho",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/36/ocakbasi"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Fire in the Forest",
+      "diziid": "roho",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/37/ormanda_yangin"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "The Treasury",
+      "diziid": "roho",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/38/hazine"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Reconciliation",
+      "diziid": "roho",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/39/uzlasma"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "An Evil Being",
+      "diziid": "roho",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/40/kotu_bir_varlik"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Traitor",
+      "diziid": "roho",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/41/hain"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "The Lake of Truth",
+      "diziid": "roho",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/42/dogruluk_golu"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "The Decisive Battle",
+      "diziid": "roho",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/43/kararli_savas"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "The Bad Luck Man",
+      "diziid": "roho",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/44/talihsiz_adam"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "A Charming Villain",
+      "diziid": "roho",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/45/buyuleyici_kotu_adam"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Unbeatable",
+      "diziid": "roho",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/46/yenilmez"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Honest Eyes",
+      "diziid": "roho",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/47/durust_gozler"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Tragedy",
+      "diziid": "roho",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/48/trajedi"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "The Prince of the Woods",
+      "diziid": "roho",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/49/ormanin_prensi"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "The Decision",
+      "diziid": "roho",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/50/karar"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "The Crowning",
+      "diziid": "roho",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/51/tac_giyme"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Immortal",
+      "diziid": "roho",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/roho/robin_hood/52/olumsuz"
+    }
+  ]
+}

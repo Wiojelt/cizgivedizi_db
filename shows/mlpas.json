@@ -1,0 +1,1692 @@
+{
+  "id": "mlpas",
+  "title": "my little pony: arkadaÅŸlÄ±k sihirlidir",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MLPASPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Friendship is Magic - Part 1",
+      "diziid": "mlpas",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/1/arkadaslik_sihirlidir%3A_kisim_1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Friendship is Magic - Part 2",
+      "diziid": "mlpas",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/2/arkadaslik_sihirlidir%3A_kisim_2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Ticket Master",
+      "diziid": "mlpas",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/3/biletlerin_efendisi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Applebuck Season",
+      "diziid": "mlpas",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/4/elma_hasadi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Griffon the Brush-Off",
+      "diziid": "mlpas",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/5/huysuz_kartalan"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Boast Busters",
+      "diziid": "mlpas",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/6/iftihar_avcilari"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Dragonshy",
+      "diziid": "mlpas",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/7/dragonshy"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Look Before You Sleep",
+      "diziid": "mlpas",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/8/uyumadan_once_bak"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Bridle Gossip",
+      "diziid": "mlpas",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/9/yular_dedikodusu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Swarm of the Century",
+      "diziid": "mlpas",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/10/asrin_surusu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Winter Wrap Up",
+      "diziid": "mlpas",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/11/kis_giderken"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Call of the Cutie",
+      "diziid": "mlpas",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/12/sevimlinin_cagrisi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Fall Weather Friends",
+      "diziid": "mlpas",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/13/sonbahar_arkadaslari"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Suited for Success",
+      "diziid": "mlpas",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/14/basari_icin_uygun"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Feeling Pinkie Keen",
+      "diziid": "mlpas",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/15/pinkieyi_hissetmek"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Sonic Rainboom",
+      "diziid": "mlpas",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/16/sonik_gokkusagi_patlamasi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Stare Master",
+      "diziid": "mlpas",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/17/bakma_ustasi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Show Stoppers",
+      "diziid": "mlpas",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/18/gosteri_engelleyicileri"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "A Dog and Pony Show",
+      "diziid": "mlpas",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/19/kopekle_tayin_gosterisi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Green Isn't Your Color",
+      "diziid": "mlpas",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/20/yesil_sana_gitmiyor"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Over a Barrel",
+      "diziid": "mlpas",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/21/koseye_sikismis"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "A Bird in the Hoof",
+      "diziid": "mlpas",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/22/toynaktaki_kus"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "The Cutie Mark Chronicles",
+      "diziid": "mlpas",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/23/sevimli_isareti_gunlukleri"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Owl's Well That Ends Well",
+      "diziid": "mlpas",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/24/sonu_iyi_biten_baykus"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Party of One",
+      "diziid": "mlpas",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/25/tek_kisilik_parti"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The Best Night Ever",
+      "diziid": "mlpas",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/26/en_guzel_gece"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "The Return of Harmony - Part 1",
+      "diziid": "mlpas",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/27/uyumun_donusu_kisim_1"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "The Return of Harmony - Part 2",
+      "diziid": "mlpas",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/28/uyumun_donusu_kisim_2"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Lesson Zero",
+      "diziid": "mlpas",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/29/sifir_numarali_ders"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Luna Eclipsed",
+      "diziid": "mlpas",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/30/luna_tutulmasi"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Sisterhooves Social",
+      "diziid": "mlpas",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/31/toynak_kardesligi"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "The Cutie Pox",
+      "diziid": "mlpas",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/32/sevimli_hastaligi"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "May the Best Pet Win!",
+      "diziid": "mlpas",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/33/en_iyi_evcil_hayvan_kazansin"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "The Mysterious Mare Do Well",
+      "diziid": "mlpas",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/34/gizem_dolu_becerikli_kisrak"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Sweet and Elite",
+      "diziid": "mlpas",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/35/tatli_ve_seckin"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Secret of My Excess",
+      "diziid": "mlpas",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/36/asiriligimin_sirri"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Hearth's Warming Eve",
+      "diziid": "mlpas",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/37/buyuk_tiyatro_gunu"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Family Appreciation Day",
+      "diziid": "mlpas",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/38/tanitma_gunu"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Baby Cakes",
+      "diziid": "mlpas",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/39/bebek_cakeler"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "The Last Roundup",
+      "diziid": "mlpas",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/40/son_bakis"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "The Super Speedy Cider Squeezy 6000",
+      "diziid": "mlpas",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/41/super_hizli_elma_sirasi_yarismasi"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Read It and Weep",
+      "diziid": "mlpas",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/42/oku_ve_agla"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Hearts and Hooves Day",
+      "diziid": "mlpas",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/43/kalp_ve_toynak_gunu"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "A Friend in Deed",
+      "diziid": "mlpas",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/44/arkadas_dedigin"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "Putting Your Hoof Down",
+      "diziid": "mlpas",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/45/indir_o_toynagi"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "It's About Time",
+      "diziid": "mlpas",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/46/zamani_gelmisti"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "Dragon Quest",
+      "diziid": "mlpas",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/47/ejderha_pesinde"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "Hurricane Fluttershy",
+      "diziid": "mlpas",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/48/kasirga_fluttershy"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "Ponyville Confidential",
+      "diziid": "mlpas",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/49/ponyville_dosyasi"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "MMMystery on the Friendship Express",
+      "diziid": "mlpas",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/50/arkadaslik_ekspresinde_buyuk_bilmece"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "A Canterlot Wedding - Part 1",
+      "diziid": "mlpas",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/51/canterlot_dugunu_kisim_1"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "A Canterlot Wedding - Part 2",
+      "diziid": "mlpas",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/52/canterlot_dugunu_kisim_2"
+    },
+    {
+      "season": 1,
+      "episode": 53,
+      "title": "The Crystal Empire - Part 1",
+      "diziid": "mlpas",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/53/kristal_krallik_kisim_1"
+    },
+    {
+      "season": 2,
+      "episode": 54,
+      "title": "The Crystal Empire - Part 2",
+      "diziid": "mlpas",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/54/kristal_krallik_kisim_2"
+    },
+    {
+      "season": 3,
+      "episode": 55,
+      "title": "Too Many Pinkie Pies",
+      "diziid": "mlpas",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/55/bir_suru_pinkie_pie"
+    },
+    {
+      "season": 4,
+      "episode": 56,
+      "title": "One Bad Apple",
+      "diziid": "mlpas",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/56/curuk_elma"
+    },
+    {
+      "season": 5,
+      "episode": 57,
+      "title": "Magic Duel",
+      "diziid": "mlpas",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/57/guc_duellosu"
+    },
+    {
+      "season": 6,
+      "episode": 58,
+      "title": "Sleepless in Ponyville",
+      "diziid": "mlpas",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/58/ponyvillede_uyku_yok"
+    },
+    {
+      "season": 7,
+      "episode": 59,
+      "title": "Wonderbolts Academy",
+      "diziid": "mlpas",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/59/wonderbolts_akademisi"
+    },
+    {
+      "season": 8,
+      "episode": 60,
+      "title": "Apple Family Reunion",
+      "diziid": "mlpas",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/60/apple_ailesi_bulusmasi"
+    },
+    {
+      "season": 9,
+      "episode": 61,
+      "title": "Spike at Your Service",
+      "diziid": "mlpas",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/61/spike_emrinizde"
+    },
+    {
+      "season": 10,
+      "episode": 62,
+      "title": "Keep Calm and Flutter On",
+      "diziid": "mlpas",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/62/sakin_ol_ve_kanat_cirp"
+    },
+    {
+      "season": 11,
+      "episode": 63,
+      "title": "Just for Sidekicks",
+      "diziid": "mlpas",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/63/bakici_spike"
+    },
+    {
+      "season": 12,
+      "episode": 64,
+      "title": "Games Ponies Play",
+      "diziid": "mlpas",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/64/pony_olimpiyatlari"
+    },
+    {
+      "season": 13,
+      "episode": 65,
+      "title": "Magical Mystery Cure",
+      "diziid": "mlpas",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/65/gizemli_sihir_numarasi"
+    },
+    {
+      "season": 1,
+      "episode": 66,
+      "title": "Princess Twilight Sparkle - Part 1",
+      "diziid": "mlpas",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/66/prenses_twilight_sparkle_kisim_1"
+    },
+    {
+      "season": 2,
+      "episode": 67,
+      "title": "Princess Twilight Sparkle - Part 2",
+      "diziid": "mlpas",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/67/prenses_twilight_sparkle_kisim_2"
+    },
+    {
+      "season": 3,
+      "episode": 68,
+      "title": "Castle-mania",
+      "diziid": "mlpas",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/68/cilgin_saray"
+    },
+    {
+      "season": 4,
+      "episode": 69,
+      "title": "Daring Don't",
+      "diziid": "mlpas",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/69/cesur_degil"
+    },
+    {
+      "season": 5,
+      "episode": 70,
+      "title": "Flight to the Finish",
+      "diziid": "mlpas",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/70/bitise_kadar_uc"
+    },
+    {
+      "season": 6,
+      "episode": 71,
+      "title": "Power Ponies",
+      "diziid": "mlpas",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/71/kahraman_ponyler"
+    },
+    {
+      "season": 7,
+      "episode": 72,
+      "title": "Bats!",
+      "diziid": "mlpas",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/72/yarasalar"
+    },
+    {
+      "season": 8,
+      "episode": 73,
+      "title": "Rarity Takes Manehattan",
+      "diziid": "mlpas",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/73/rarity_manehattanda"
+    },
+    {
+      "season": 9,
+      "episode": 74,
+      "title": "Pinkie Apple Pie",
+      "diziid": "mlpas",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/74/pinkie_apple_pie"
+    },
+    {
+      "season": 10,
+      "episode": 75,
+      "title": "Rainbow Falls",
+      "diziid": "mlpas",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/75/rainbow_dusuyor"
+    },
+    {
+      "season": 11,
+      "episode": 76,
+      "title": "Three's a Crowd",
+      "diziid": "mlpas",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/76/uc_kisi_kalabalik_olur"
+    },
+    {
+      "season": 12,
+      "episode": 77,
+      "title": "Pinkie Pride",
+      "diziid": "mlpas",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/77/pinkie_gecidi"
+    },
+    {
+      "season": 13,
+      "episode": 78,
+      "title": "Simple Ways",
+      "diziid": "mlpas",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/78/basit_hayat"
+    },
+    {
+      "season": 14,
+      "episode": 79,
+      "title": "Filli Vanilli",
+      "diziid": "mlpas",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/79/yedek_sarkici"
+    },
+    {
+      "season": 15,
+      "episode": 80,
+      "title": "Twilight Time",
+      "diziid": "mlpas",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/80/twilight_gunu"
+    },
+    {
+      "season": 16,
+      "episode": 81,
+      "title": "It Ain't Easy Being Breezies",
+      "diziid": "mlpas",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/81/breezy_olmak_kolay_degil"
+    },
+    {
+      "season": 17,
+      "episode": 82,
+      "title": "Somepony to Watch Over Me",
+      "diziid": "mlpas",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/82/bana_goz_kulak_olacak_biri"
+    },
+    {
+      "season": 18,
+      "episode": 83,
+      "title": "Maud Pie",
+      "diziid": "mlpas",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/83/maudun_ziyareti"
+    },
+    {
+      "season": 19,
+      "episode": 84,
+      "title": "For Whom the Sweetie Belle Toils",
+      "diziid": "mlpas",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/84/sweetie_belle_kimin_icin_calisiyor"
+    },
+    {
+      "season": 20,
+      "episode": 85,
+      "title": "Leap of Faith",
+      "diziid": "mlpas",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/85/inanirsan_olur"
+    },
+    {
+      "season": 21,
+      "episode": 86,
+      "title": "Testing, Testing, 1, 2, 3",
+      "diziid": "mlpas",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/86/deneme_1%2C2%2C3"
+    },
+    {
+      "season": 22,
+      "episode": 87,
+      "title": "Trade Ya",
+      "diziid": "mlpas",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/87/degis_tokus_pazari"
+    },
+    {
+      "season": 23,
+      "episode": 88,
+      "title": "Inspiration Manifestation",
+      "diziid": "mlpas",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/88/fikir_kitabi"
+    },
+    {
+      "season": 24,
+      "episode": 89,
+      "title": "Equestria Games",
+      "diziid": "mlpas",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/89/equestria_oyunlari"
+    },
+    {
+      "season": 25,
+      "episode": 90,
+      "title": "Twilight's Kingdom - Part 1",
+      "diziid": "mlpas",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/90/twilightin_kralligi_kisim_1"
+    },
+    {
+      "season": 26,
+      "episode": 91,
+      "title": "Twilight's Kingdom - Part 2",
+      "diziid": "mlpas",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/91/twilightin_kralligi_kisim_2"
+    },
+    {
+      "season": 1,
+      "episode": 92,
+      "title": "The Cutie Map - Part 1",
+      "diziid": "mlpas",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/92/sevimli_harita_kisim_1"
+    },
+    {
+      "season": 2,
+      "episode": 93,
+      "title": "The Cutie Map - Part 2",
+      "diziid": "mlpas",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/93/sevimli_harita_kisim_2"
+    },
+    {
+      "season": 3,
+      "episode": 94,
+      "title": "Castle Sweet Castle",
+      "diziid": "mlpas",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/94/benim_guzel_sarayim"
+    },
+    {
+      "season": 4,
+      "episode": 95,
+      "title": "Bloom & Gloom",
+      "diziid": "mlpas",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/95/sevimli_sorun"
+    },
+    {
+      "season": 5,
+      "episode": 96,
+      "title": "Tanks for the Memories",
+      "diziid": "mlpas",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/96/mevsimsel_sorunlar"
+    },
+    {
+      "season": 6,
+      "episode": 97,
+      "title": "Appleoosa's Most Wanted",
+      "diziid": "mlpas",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/97/appleoosanin_en_cok_aranani"
+    },
+    {
+      "season": 7,
+      "episode": 98,
+      "title": "Make New Friends But Keep Discord",
+      "diziid": "mlpas",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/98/discord_disinda_herkes"
+    },
+    {
+      "season": 8,
+      "episode": 99,
+      "title": "The Lost Treasure of Griffonstone",
+      "diziid": "mlpas",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/99/griffstoneun_kayip_hazinesi"
+    },
+    {
+      "season": 9,
+      "episode": 100,
+      "title": "Slice of Life",
+      "diziid": "mlpas",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/100/yasamdan_bir_dilim"
+    },
+    {
+      "season": 10,
+      "episode": 101,
+      "title": "Princess Spike",
+      "diziid": "mlpas",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/101/prenses_spike"
+    },
+    {
+      "season": 11,
+      "episode": 102,
+      "title": "Party Pooped",
+      "diziid": "mlpas",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/102/mahvolan_parti"
+    },
+    {
+      "season": 12,
+      "episode": 103,
+      "title": "Amending Fences",
+      "diziid": "mlpas",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/103/eskileri_yenilemek"
+    },
+    {
+      "season": 13,
+      "episode": 104,
+      "title": "Do Princesses Dream of Magic Sheep?",
+      "diziid": "mlpas",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/104/prensesin_ruyasi"
+    },
+    {
+      "season": 14,
+      "episode": 105,
+      "title": "Canterlot Boutique",
+      "diziid": "mlpas",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/105/canterlot_butigi"
+    },
+    {
+      "season": 15,
+      "episode": 106,
+      "title": "Rarity Investigates!",
+      "diziid": "mlpas",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/106/dedektif_rarity"
+    },
+    {
+      "season": 16,
+      "episode": 107,
+      "title": "Made in Manehattan",
+      "diziid": "mlpas",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/107/manehattan_gorevi"
+    },
+    {
+      "season": 17,
+      "episode": 108,
+      "title": "Brotherhooves Social",
+      "diziid": "mlpas",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/108/kardes_bulusmasi"
+    },
+    {
+      "season": 18,
+      "episode": 109,
+      "title": "Crusaders of the Lost Mark",
+      "diziid": "mlpas",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/109/kayip_isaret_avcilari"
+    },
+    {
+      "season": 19,
+      "episode": 110,
+      "title": "The One Where Pinkie Pie Knows",
+      "diziid": "mlpas",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/110/pinkie_piein_sirri"
+    },
+    {
+      "season": 20,
+      "episode": 111,
+      "title": "Hearthbreakers",
+      "diziid": "mlpas",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/111/kirilan_kalpler"
+    },
+    {
+      "season": 21,
+      "episode": 112,
+      "title": "Scare Master",
+      "diziid": "mlpas",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/112/korkutma_uzmani"
+    },
+    {
+      "season": 22,
+      "episode": 113,
+      "title": "What About Discord?",
+      "diziid": "mlpas",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/113/discord_ne_yapti"
+    },
+    {
+      "season": 23,
+      "episode": 114,
+      "title": "The Hooffields and McColts",
+      "diziid": "mlpas",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/114/hooffieldlar_ve_mccoltlar"
+    },
+    {
+      "season": 24,
+      "episode": 115,
+      "title": "The Mane Attraction",
+      "diziid": "mlpas",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/115/yildiz_pony"
+    },
+    {
+      "season": 25,
+      "episode": 116,
+      "title": "The Cutie Re-Mark - Part 1",
+      "diziid": "mlpas",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/116/sevimli_isaret_kisim_1"
+    },
+    {
+      "season": 26,
+      "episode": 117,
+      "title": "The Cutie Re-Mark - Part 2",
+      "diziid": "mlpas",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/117/sevimli_isaret_kisim_2"
+    },
+    {
+      "season": 1,
+      "episode": 118,
+      "title": "The Crystalling - Part 1",
+      "diziid": "mlpas",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/118/kristal_toreni_kisim_1"
+    },
+    {
+      "season": 2,
+      "episode": 119,
+      "title": "The Crystalling - Part 2",
+      "diziid": "mlpas",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/119/kristal_toreni_kisim_2"
+    },
+    {
+      "season": 3,
+      "episode": 120,
+      "title": "The Gift of the Maud Pie",
+      "diziid": "mlpas",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/120/maud_piein_hediyesi"
+    },
+    {
+      "season": 4,
+      "episode": 121,
+      "title": "On Your Marks",
+      "diziid": "mlpas",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/121/cutie_markin_hediyesi"
+    },
+    {
+      "season": 5,
+      "episode": 122,
+      "title": "Gauntlet of Fire",
+      "diziid": "mlpas",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/122/kim_kral_olacak"
+    },
+    {
+      "season": 6,
+      "episode": 123,
+      "title": "No Second Prances",
+      "diziid": "mlpas",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/123/ikinci_bir_firsat"
+    },
+    {
+      "season": 7,
+      "episode": 124,
+      "title": "Newbie Dash",
+      "diziid": "mlpas",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/124/acemi_dash"
+    },
+    {
+      "season": 8,
+      "episode": 125,
+      "title": "A Hearth's Warming Tail",
+      "diziid": "mlpas",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/125/kalpleri_isitan_gece"
+    },
+    {
+      "season": 9,
+      "episode": 126,
+      "title": "The Saddle Row Review",
+      "diziid": "mlpas",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/126/saddle_bulvari_haberleri"
+    },
+    {
+      "season": 10,
+      "episode": 127,
+      "title": "Applejack's \"Day\" Off",
+      "diziid": "mlpas",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/127/applejackin_serbest_gunu"
+    },
+    {
+      "season": 11,
+      "episode": 128,
+      "title": "Flutter Brutter",
+      "diziid": "mlpas",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/128/fluttershyin_kardesi"
+    },
+    {
+      "season": 12,
+      "episode": 129,
+      "title": "Spice Up Your Life",
+      "diziid": "mlpas",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/129/hayatini_tatlandir"
+    },
+    {
+      "season": 13,
+      "episode": 130,
+      "title": "Stranger Than Fan Fiction",
+      "diziid": "mlpas",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/130/gercek_bir_hikaye_daha"
+    },
+    {
+      "season": 14,
+      "episode": 131,
+      "title": "The Cart Before the Ponies",
+      "diziid": "mlpas",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/131/ponylerin_araba_yarisi"
+    },
+    {
+      "season": 15,
+      "episode": 132,
+      "title": "28 Pranks Later",
+      "diziid": "mlpas",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/132/guldurmeyen_saka"
+    },
+    {
+      "season": 16,
+      "episode": 133,
+      "title": "The Times They Are a Changeling",
+      "diziid": "mlpas",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/133/changeling_degisir"
+    },
+    {
+      "season": 17,
+      "episode": 134,
+      "title": "Dungeons & Discords",
+      "diziid": "mlpas",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/134/erkek_erkege_eglence"
+    },
+    {
+      "season": 18,
+      "episode": 135,
+      "title": "Buckball Season",
+      "diziid": "mlpas",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/135/buckball_yarismasi"
+    },
+    {
+      "season": 19,
+      "episode": 136,
+      "title": "The Fault in Our Cutie Marks",
+      "diziid": "mlpas",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/136/akbaba_sevimli_isaret_alabilir_mi"
+    },
+    {
+      "season": 20,
+      "episode": 137,
+      "title": "Viva Las Pegasus",
+      "diziid": "mlpas",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/137/las_pegasustaki_gorev"
+    },
+    {
+      "season": 21,
+      "episode": 138,
+      "title": "Every Little Thing She Does",
+      "diziid": "mlpas",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/138/starlightin_arkadaslik_dersleri"
+    },
+    {
+      "season": 22,
+      "episode": 139,
+      "title": "P.P.O.V. (Pony Point of View)",
+      "diziid": "mlpas",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/139/farkli_bakis_acilari"
+    },
+    {
+      "season": 23,
+      "episode": 140,
+      "title": "Where the Apple Lies",
+      "diziid": "mlpas",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/140/elma_suyu_sezonu"
+    },
+    {
+      "season": 24,
+      "episode": 141,
+      "title": "Top Bolt",
+      "diziid": "mlpas",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/141/en_iyi_pilot"
+    },
+    {
+      "season": 25,
+      "episode": 142,
+      "title": "To Where and Back Again - Part 1",
+      "diziid": "mlpas",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/142/gucleri_birlestirme_zamani_kisim_1"
+    },
+    {
+      "season": 26,
+      "episode": 143,
+      "title": "To Where and Back Again - Part 2",
+      "diziid": "mlpas",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/143/gucleri_birlestirme_zamani_kisim_2"
+    },
+    {
+      "season": 1,
+      "episode": 144,
+      "title": "Celestial Advice",
+      "diziid": "mlpas",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/144/starlightin_gelecegi"
+    },
+    {
+      "season": 2,
+      "episode": 145,
+      "title": "All Bottled Up",
+      "diziid": "mlpas",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/145/starlightin_siniri_tepesine_cikarsa"
+    },
+    {
+      "season": 3,
+      "episode": 146,
+      "title": "A Flurry of Emotions",
+      "diziid": "mlpas",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/146/twilightin_yapacak_cok_isi_var"
+    },
+    {
+      "season": 4,
+      "episode": 147,
+      "title": "Rock Solid Friendship",
+      "diziid": "mlpas",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/147/kaya_gibi_saglam_dostluk"
+    },
+    {
+      "season": 5,
+      "episode": 148,
+      "title": "Fluttershy Leans In",
+      "diziid": "mlpas",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/148/fluttershy_yardim_ederse"
+    },
+    {
+      "season": 6,
+      "episode": 149,
+      "title": "Forever Filly",
+      "diziid": "mlpas",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/149/kucuk_bir_ponyken"
+    },
+    {
+      "season": 7,
+      "episode": 150,
+      "title": "Parental Glideance",
+      "diziid": "mlpas",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/150/ailevi_konular"
+    },
+    {
+      "season": 9,
+      "episode": 151,
+      "title": "Honest Apple",
+      "diziid": "mlpas",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/152/durust_apple"
+    },
+    {
+      "season": 10,
+      "episode": 152,
+      "title": "A Royal Problem",
+      "diziid": "mlpas",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/153/bir_kraliyet_sorunu"
+    },
+    {
+      "season": 11,
+      "episode": 153,
+      "title": "Not Asking for Trouble",
+      "diziid": "mlpas",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/154/yardim_istemiyor"
+    },
+    {
+      "season": 12,
+      "episode": 154,
+      "title": "Discordant Harmony",
+      "diziid": "mlpas",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/155/tuhaf_ve_karmasik"
+    },
+    {
+      "season": 14,
+      "episode": 155,
+      "title": "Fame and Misfortune",
+      "diziid": "mlpas",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/157/arkadaslik_gunlugu"
+    },
+    {
+      "season": 15,
+      "episode": 156,
+      "title": "Triple Threat",
+      "diziid": "mlpas",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/158/spikein_anlasmazlik_sorunu"
+    },
+    {
+      "season": 16,
+      "episode": 157,
+      "title": "Campfire Tales",
+      "diziid": "mlpas",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/159/kamp_hikayeleri"
+    },
+    {
+      "season": 17,
+      "episode": 158,
+      "title": "To Change a Changeling",
+      "diziid": "mlpas",
+      "bolum": "160",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/160/changelingleri_degistirmek"
+    },
+    {
+      "season": 18,
+      "episode": 159,
+      "title": "Daring Done?",
+      "diziid": "mlpas",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/161/daring_donun_maceralari"
+    },
+    {
+      "season": 19,
+      "episode": 160,
+      "title": "It Isn't the Mane Thing About You",
+      "diziid": "mlpas",
+      "bolum": "162",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/162/tarzini_konustur"
+    },
+    {
+      "season": 20,
+      "episode": 161,
+      "title": "A Health of Information",
+      "diziid": "mlpas",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/163/bir_saglik_bilgisi"
+    },
+    {
+      "season": 21,
+      "episode": 162,
+      "title": "Marks and Recreation",
+      "diziid": "mlpas",
+      "bolum": "164",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/164/sevimli_isaret_kulubu_kampi"
+    },
+    {
+      "season": 22,
+      "episode": 163,
+      "title": "Once Upon a Zeppelin",
+      "diziid": "mlpas",
+      "bolum": "165",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/165/tatil_zamani"
+    },
+    {
+      "season": 23,
+      "episode": 164,
+      "title": "Secrets and Pies",
+      "diziid": "mlpas",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/166/turtalarin_gizemi"
+    },
+    {
+      "season": 24,
+      "episode": 165,
+      "title": "Uncommon Bond",
+      "diziid": "mlpas",
+      "bolum": "167",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/167/ortak_yon_bulma_cabalari"
+    },
+    {
+      "season": 1,
+      "episode": 166,
+      "title": "School Daze - Part 1",
+      "diziid": "mlpas",
+      "bolum": "170",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/170/okul_heyecani_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 167,
+      "title": "School Daze - Part 2",
+      "diziid": "mlpas",
+      "bolum": "171",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/171/okul_heyecani_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 168,
+      "title": "The Maud Couple",
+      "diziid": "mlpas",
+      "bolum": "172",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/172/bir_cift_maud"
+    },
+    {
+      "season": 4,
+      "episode": 169,
+      "title": "Fake It â€˜Til You Make It",
+      "diziid": "mlpas",
+      "bolum": "173",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/173/olana_kadar_rol_yap"
+    },
+    {
+      "season": 5,
+      "episode": 170,
+      "title": "Grannies Gone Wild",
+      "diziid": "mlpas",
+      "bolum": "174",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/174/eglenceli_anneanneler"
+    },
+    {
+      "season": 6,
+      "episode": 171,
+      "title": "Surf and/or Turf",
+      "diziid": "mlpas",
+      "bolum": "175",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/175/su_veya_toprak"
+    },
+    {
+      "season": 7,
+      "episode": 172,
+      "title": "Horse Play",
+      "diziid": "mlpas",
+      "bolum": "176",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/176/at_oyunu"
+    },
+    {
+      "season": 8,
+      "episode": 173,
+      "title": "The Parent Map",
+      "diziid": "mlpas",
+      "bolum": "177",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/177/aile_haritasi"
+    },
+    {
+      "season": 9,
+      "episode": 174,
+      "title": "Non-Compete Clause",
+      "diziid": "mlpas",
+      "bolum": "178",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/178/ayin_ogretmeni"
+    },
+    {
+      "season": 11,
+      "episode": 175,
+      "title": "Molt Down",
+      "diziid": "mlpas",
+      "bolum": "180",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/180/pul_degistirme"
+    },
+    {
+      "season": 13,
+      "episode": 176,
+      "title": "The Mean 6",
+      "diziid": "mlpas",
+      "bolum": "182",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/182/kaba_altili"
+    },
+    {
+      "season": 14,
+      "episode": 177,
+      "title": "A Matter of Principals",
+      "diziid": "mlpas",
+      "bolum": "183",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/183/prensip_meselesi"
+    },
+    {
+      "season": 17,
+      "episode": 178,
+      "title": "The End in Friend",
+      "diziid": "mlpas",
+      "bolum": "186",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/186/arkadasligi_hatirlamak"
+    },
+    {
+      "season": 18,
+      "episode": 179,
+      "title": "Yakity-Sax",
+      "diziid": "mlpas",
+      "bolum": "187",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/187/yak_saksafonu"
+    },
+    {
+      "season": 20,
+      "episode": 180,
+      "title": "The Washouts",
+      "diziid": "mlpas",
+      "bolum": "189",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/189/cikarilmislar"
+    },
+    {
+      "season": 21,
+      "episode": 181,
+      "title": "A Rockhoof and a Hard Place",
+      "diziid": "mlpas",
+      "bolum": "190",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/190/uyum_saglayamayan_rockhoof"
+    },
+    {
+      "season": 22,
+      "episode": 182,
+      "title": "What Lies Beneath",
+      "diziid": "mlpas",
+      "bolum": "191",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/191/kutuphanenin_altindaki_magara"
+    },
+    {
+      "season": 23,
+      "episode": 183,
+      "title": "Sounds of Silence",
+      "diziid": "mlpas",
+      "bolum": "192",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/192/sessizligin_sesi"
+    },
+    {
+      "season": 24,
+      "episode": 184,
+      "title": "Father Knows Beast",
+      "diziid": "mlpas",
+      "bolum": "193",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/193/babayla_tanisma"
+    },
+    {
+      "season": 25,
+      "episode": 185,
+      "title": "School Raze - Part 1",
+      "diziid": "mlpas",
+      "bolum": "194",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/194/okulda_kargasa_bolum_1"
+    },
+    {
+      "season": 26,
+      "episode": 186,
+      "title": "School Raze - Part 2",
+      "diziid": "mlpas",
+      "bolum": "195",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/195/okulda_kargasa_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 187,
+      "title": "The Beginning of the End - Part 1",
+      "diziid": "mlpas",
+      "bolum": "196",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/196/sonun_baslangici_kisim_1"
+    },
+    {
+      "season": 2,
+      "episode": 188,
+      "title": "The Beginning of the End - Part 2",
+      "diziid": "mlpas",
+      "bolum": "197",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/197/sonun_baslangici_kisim_2"
+    },
+    {
+      "season": 3,
+      "episode": 189,
+      "title": "Uprooted",
+      "diziid": "mlpas",
+      "bolum": "198",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/198/yerinden_edilenler"
+    },
+    {
+      "season": 4,
+      "episode": 190,
+      "title": "Sparkle's Seven",
+      "diziid": "mlpas",
+      "bolum": "199",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/199/super_kardes"
+    },
+    {
+      "season": 5,
+      "episode": 191,
+      "title": "The Point of No Return",
+      "diziid": "mlpas",
+      "bolum": "200",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/200/donusu_olmayan_nokta"
+    },
+    {
+      "season": 6,
+      "episode": 192,
+      "title": "Common Ground",
+      "diziid": "mlpas",
+      "bolum": "201",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/201/ortak_nokta"
+    },
+    {
+      "season": 7,
+      "episode": 193,
+      "title": "She's All Yak",
+      "diziid": "mlpas",
+      "bolum": "202",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/202/tam_bir_yak"
+    },
+    {
+      "season": 8,
+      "episode": 194,
+      "title": "Frenemies",
+      "diziid": "mlpas",
+      "bolum": "203",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/203/sahte_dostlar"
+    },
+    {
+      "season": 9,
+      "episode": 195,
+      "title": "Sweet and Smoky",
+      "diziid": "mlpas",
+      "bolum": "204",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/204/tatli_ve_dumanli"
+    },
+    {
+      "season": 10,
+      "episode": 196,
+      "title": "Going to Seed",
+      "diziid": "mlpas",
+      "bolum": "205",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/205/hasat_zamani"
+    },
+    {
+      "season": 11,
+      "episode": 197,
+      "title": "Student Counsel",
+      "diziid": "mlpas",
+      "bolum": "206",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/206/ogrenci_danismani"
+    },
+    {
+      "season": 12,
+      "episode": 198,
+      "title": "The Last Crusade",
+      "diziid": "mlpas",
+      "bolum": "207",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/207/son_mucadele"
+    },
+    {
+      "season": 13,
+      "episode": 199,
+      "title": "Between Dark and Dawn",
+      "diziid": "mlpas",
+      "bolum": "208",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/208/gece_ve_safak_arasinda"
+    },
+    {
+      "season": 14,
+      "episode": 200,
+      "title": "The Last Laugh",
+      "diziid": "mlpas",
+      "bolum": "209",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/209/son_gulus"
+    },
+    {
+      "season": 16,
+      "episode": 201,
+      "title": "A Trivial Pursuit",
+      "diziid": "mlpas",
+      "bolum": "211",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/211/bilgi_yarismasi"
+    },
+    {
+      "season": 17,
+      "episode": 202,
+      "title": "The Summer Sun Setback",
+      "diziid": "mlpas",
+      "bolum": "212",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/212/yaz_gunesi_aksiligi"
+    },
+    {
+      "season": 18,
+      "episode": 203,
+      "title": "She Talks to Angel",
+      "diziid": "mlpas",
+      "bolum": "213",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/213/angel_ile_konusmak"
+    },
+    {
+      "season": 19,
+      "episode": 204,
+      "title": "Dragon Dropped",
+      "diziid": "mlpas",
+      "bolum": "214",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/214/paylasilamayan_ejderha"
+    },
+    {
+      "season": 20,
+      "episode": 205,
+      "title": "A Horse Shoe-In",
+      "diziid": "mlpas",
+      "bolum": "215",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/215/en_guclu_aday"
+    },
+    {
+      "season": 22,
+      "episode": 206,
+      "title": "Growing Up is Hard to Do",
+      "diziid": "mlpas",
+      "bolum": "217",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/217/yetiskin_olmak_zor_is"
+    },
+    {
+      "season": 23,
+      "episode": 207,
+      "title": "The Big Mac Question",
+      "diziid": "mlpas",
+      "bolum": "218",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/218/buyuk_sorun"
+    },
+    {
+      "season": 24,
+      "episode": 208,
+      "title": "The Ending of the End - Part 1",
+      "diziid": "mlpas",
+      "bolum": "219",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/219/sonun_bitisi_kisim_1"
+    },
+    {
+      "season": 25,
+      "episode": 209,
+      "title": "The Ending of the End - Part 2",
+      "diziid": "mlpas",
+      "bolum": "220",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/220/sonun_bitisi_kisim_2"
+    },
+    {
+      "season": 26,
+      "episode": 210,
+      "title": "The Last Problem",
+      "diziid": "mlpas",
+      "bolum": "221",
+      "url": "https://cizgivedizi.com/dizi/mlpas/my_little_pony%3A_arkadaslik_sihirlidir/221/son_problem"
+    }
+  ]
+}

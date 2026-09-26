@@ -1,0 +1,533 @@
+{
+  "id": "inaz",
+  "title": "Ä±nazuma eleven",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/INAZPoster.avif",
+  "channel": "Spacetoon",
+  "genres": [
+    "Spor",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Let's Play Soccer",
+      "diziid": "inaz",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/1/bu_baslangic._oynamaya_hazirlanin"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Royal Is Here!",
+      "diziid": "inaz",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/2/ilk_mac"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Here Comes the Killer Shot!",
+      "diziid": "inaz",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/3/takimin_kimligi_araniyor"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Dragon Is Here!",
+      "diziid": "inaz",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/4/ejderha_kasirgasi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Where's the Secret Notebook?",
+      "diziid": "inaz",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/5/defter_nerede"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Is the Inazuma Drop!",
+      "diziid": "inaz",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/6/yeni_plan"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Duel on the Riverbank!",
+      "diziid": "inaz",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/7/yorucu_mac%21"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Formidable Cyborg Players!",
+      "diziid": "inaz",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/8/burada_her_sey_cok_tuhaf"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Willy rising!",
+      "diziid": "inaz",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/9/olaganustu_oyuncu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Royal Academy's Spy!",
+      "diziid": "inaz",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/10/yildizlarin_casusu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Let's Find a Coach!",
+      "diziid": "inaz",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/11/antrenor_arayisi_suruyor"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Final Against the Royal Academy, Part One!",
+      "diziid": "inaz",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/12/yildizlarla_yuzlesme_bolum_1"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Final Against the Royal Academy, Part Two!",
+      "diziid": "inaz",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/13/yildizlarla_yuzlesme_bolum_2"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Legendary Team!",
+      "diziid": "inaz",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/14/gecmise_donus"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The National Tournament Finally Begins!",
+      "diziid": "inaz",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/15/en_zor_turnuvanin_baslangici"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Let's Beat the Ninja School!",
+      "diziid": "inaz",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/16/becerikli_ve_cevik_bir_takim%21"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Kidou's Decision!",
+      "diziid": "inaz",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/17/kaya_geliyor%21"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Break Through the Never-Ending Wall!",
+      "diziid": "inaz",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/18/celik_duvarin_parcasi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "A Star Returns!",
+      "diziid": "inaz",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/19/mert_donuyor%21"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Killer Triangle Z!",
+      "diziid": "inaz",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/20/sahra_takimiyla_karsilasma%21"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Clash With Kirkwood Jr. High!",
+      "diziid": "inaz",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/21/yuzlesme%21_iyi_olan_kazansin%21"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Go Beyond the God Hand!",
+      "diziid": "inaz",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/22/altin_yumrugun_yikilisi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "A Challenge from a God!",
+      "diziid": "inaz",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/23/meydan_okuma_mesaji"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Let's Go to Training Camp!",
+      "diziid": "inaz",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/24/egitim_kampi%21"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "The Final Battle!",
+      "diziid": "inaz",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/25/final_maci%21"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "God vs Majin!",
+      "diziid": "inaz",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/26/hicbir_sey_imkansiz_degildir"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "The Aliens Are Here!",
+      "diziid": "inaz",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/27/yeni_meydan_okuma%21"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "The Raimon 11 Fight Back!",
+      "diziid": "inaz",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/28/ani_saldiri%21"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Take Down the Black 11!",
+      "diziid": "inaz",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/29/vandallari_bulma_zamani%21"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "The Alius Academy Threat",
+      "diziid": "inaz",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/30/uzaylilar_takiminin_tehdidi%21"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "The Search for the Legendary Striker!",
+      "diziid": "inaz",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/31/efsane_golcuyu_ariyoruz%21"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "The Prince of Snow Land",
+      "diziid": "inaz",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/32/kar_sovalyesi"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Who IS the New Ace Striker?",
+      "diziid": "inaz",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/33/takimin_birinci_golcusu_kim"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Clash! Aliea Academy!!",
+      "diziid": "inaz",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/34/yeni_bir_karsilasma"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Epsilon Attacks!",
+      "diziid": "inaz",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/35/baska_taraftan_saldiri"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "The Hidden Power!",
+      "diziid": "inaz",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/36/gizli_guc"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Royal Academy's Comeback - Part 1!",
+      "diziid": "inaz",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/37/karsi_saldiri_bolum_1"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Royal Academy's Comeback - Part 2!",
+      "diziid": "inaz",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/38/karsi_saldiri_bolum_2"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "The Last Wyvern Blizzard!",
+      "diziid": "inaz",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/39/son_firtina"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "Erik Eagle in Serious Trouble!",
+      "diziid": "inaz",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/40/yabancilar_takiminin_pesinde"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "Dvalin's Trap!",
+      "diziid": "inaz",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/41/seytani_takimin_tuzagi"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Epsilon - The Toughest Battle Yet!",
+      "diziid": "inaz",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/42/kritik_mac"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Grandpa's Secret Trick!",
+      "diziid": "inaz",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/43/mahran_dede%E2%80%99nin_teknigi"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "The Other Majin the Hand!",
+      "diziid": "inaz",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/44/inanilmaz_yumruk%21"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "Size Make Earthquake!",
+      "diziid": "inaz",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/45/panterler_takimi"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "The Captain's Test!",
+      "diziid": "inaz",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/46/kartallarin_kaptani_sikintida"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "The Great Battle in the Southern Sea!",
+      "diziid": "inaz",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/47/sorfcu%21"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "The Flame Striker",
+      "diziid": "inaz",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/48/alevli_forvet"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "The Radical Rhythmic Soccer Game",
+      "diziid": "inaz",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/49/tuhaf_bir_mac%21"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "The Fist of Justice!",
+      "diziid": "inaz",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/50/inanilmaz_yumruk"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "Epsilon's Counterattack!",
+      "diziid": "inaz",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/51/dusman_saldirisi_ve_zorlu_mac"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "The Explosive Flames of Revival!",
+      "diziid": "inaz",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/52/uzun_bir_aradan_sonra_geri_donuyor"
+    },
+    {
+      "season": 1,
+      "episode": 53,
+      "title": "The Freezing Darkness of Diamond Dust!",
+      "diziid": "inaz",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/53/elmas_tozu_-_donmus_karanlik"
+    },
+    {
+      "season": 2,
+      "episode": 54,
+      "title": "The Strongest Assist, Aphrodi!",
+      "diziid": "inaz",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/54/enes%2C_en_guclu_destekci"
+    },
+    {
+      "season": 3,
+      "episode": 55,
+      "title": "A New Challenge!",
+      "diziid": "inaz",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/55/emir_ve_yeni_mucadelesi"
+    },
+    {
+      "season": 4,
+      "episode": 56,
+      "title": "Mark VS Axel!",
+      "diziid": "inaz",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/56/yildizlar_ve_kartallar_arasindaki_karsilama"
+    },
+    {
+      "season": 5,
+      "episode": 57,
+      "title": "The Miraculous Team!",
+      "diziid": "inaz",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/57/kaus%2C_harikalar_takimi"
+    },
+    {
+      "season": 6,
+      "episode": 58,
+      "title": "Blizzard of Fire!",
+      "diziid": "inaz",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/58/cifte_yildirim"
+    },
+    {
+      "season": 7,
+      "episode": 59,
+      "title": "Alius Academy Finally Arrives!",
+      "diziid": "inaz",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/59/ziria_akademisi"
+    },
+    {
+      "season": 14,
+      "episode": 60,
+      "title": "The World's Strongest Team: Blizzard Version!",
+      "diziid": "inaz",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/66/gecmis_anilar_2._bolum"
+    },
+    {
+      "season": 16,
+      "episode": 61,
+      "title": "National team reunion!",
+      "diziid": "inaz",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/68/finalde_ulkeyi_kim_temsil_edecek"
+    },
+    {
+      "season": 17,
+      "episode": 62,
+      "title": "Inazuma National is born!",
+      "diziid": "inaz",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/69/takimin_yeniden_yapilanmasi"
+    },
+    {
+      "season": 18,
+      "episode": 63,
+      "title": "Let's overcome The Big Wave!",
+      "diziid": "inaz",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/70/yogun_antrenman"
+    },
+    {
+      "season": 19,
+      "episode": 64,
+      "title": "Desert Lions! Some ardent fighters!",
+      "diziid": "inaz",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/71/ilk_rakibimiz%3A_big_opies%21"
+    },
+    {
+      "season": 20,
+      "episode": 65,
+      "title": "The Sleeping Tiger Awakes!",
+      "diziid": "inaz",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/inaz/inazuma_eleven/72/hedefimiz_mutlak_zafer%21"
+    }
+  ]
+}

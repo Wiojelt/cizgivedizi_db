@@ -1,0 +1,45 @@
+{
+  "id": "wht",
+  "title": "watership tepesi",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/WHTPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Macera",
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Journey",
+      "diziid": "wht",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/wht/watership_tepesi/1/yolculuk"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Raid",
+      "diziid": "wht",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/wht/watership_tepesi/2/baskin"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Escape",
+      "diziid": "wht",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/wht/watership_tepesi/3/kacis"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Siege",
+      "diziid": "wht",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/wht/watership_tepesi/4/kusatma"
+    }
+  ]
+}

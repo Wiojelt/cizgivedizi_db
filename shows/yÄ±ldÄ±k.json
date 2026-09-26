@@ -1,0 +1,156 @@
+{
+  "id": "yÄ±ldÄ±k",
+  "title": "yÄ±ldÄ±z kÃ¶pekler",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/YILDIKPoster.avif",
+  "channel": "Yumurcak TV",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "A Dog's Tale",
+      "diziid": "y%C4%B1ld%C4%B1k",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/y%C4%B1ld%C4%B1k/yildiz_kopekler/1/kopekin_hikayesi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Obedience School",
+      "diziid": "y%C4%B1ld%C4%B1k",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/y%C4%B1ld%C4%B1k/yildiz_kopekler/2/itaat_okulu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Fetch",
+      "diziid": "y%C4%B1ld%C4%B1k",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/y%C4%B1ld%C4%B1k/yildiz_kopekler/3/getir"
+    },
+    {
+      "season": 12,
+      "episode": 4,
+      "title": "Running with the Pack",
+      "diziid": "y%C4%B1ld%C4%B1k",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/y%C4%B1ld%C4%B1k/yildiz_kopekler/12/paketle_kosmak"
+    },
+    {
+      "season": 13,
+      "episode": 5,
+      "title": "Paws",
+      "diziid": "y%C4%B1ld%C4%B1k",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/y%C4%B1ld%C4%B1k/yildiz_kopekler/13/pence"
+    },
+    {
+      "season": 14,
+      "episode": 6,
+      "title": "Dog Show",
+      "diziid": "y%C4%B1ld%C4%B1k",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/y%C4%B1ld%C4%B1k/yildiz_kopekler/14/kopek_gosterisi"
+    },
+    {
+      "season": 15,
+      "episode": 7,
+      "title": "Old Dog New Tricks",
+      "diziid": "y%C4%B1ld%C4%B1k",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/y%C4%B1ld%C4%B1k/yildiz_kopekler/15/yasli_kopegin_yeni_numaralari"
+    },
+    {
+      "season": 16,
+      "episode": 8,
+      "title": "Hounded",
+      "diziid": "y%C4%B1ld%C4%B1k",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/y%C4%B1ld%C4%B1k/yildiz_kopekler/16/iz_pesinde"
+    },
+    {
+      "season": 17,
+      "episode": 9,
+      "title": "Dog Gone",
+      "diziid": "y%C4%B1ld%C4%B1k",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/y%C4%B1ld%C4%B1k/yildiz_kopekler/17/kopek_gitti"
+    },
+    {
+      "season": 25,
+      "episode": 10,
+      "title": "Smart Dog",
+      "diziid": "y%C4%B1ld%C4%B1k",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/y%C4%B1ld%C4%B1k/yildiz_kopekler/25/akilli_kopek"
+    },
+    {
+      "season": 10,
+      "episode": 11,
+      "title": "Little Boy Lost",
+      "diziid": "y%C4%B1ld%C4%B1k",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/y%C4%B1ld%C4%B1k/yildiz_kopekler/35/kayip_cocuk"
+    },
+    {
+      "season": 11,
+      "episode": 12,
+      "title": "Fatal Attraction",
+      "diziid": "y%C4%B1ld%C4%B1k",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/y%C4%B1ld%C4%B1k/yildiz_kopekler/36/olumcul_cazibe"
+    },
+    {
+      "season": 12,
+      "episode": 13,
+      "title": "Robot Revolution",
+      "diziid": "y%C4%B1ld%C4%B1k",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/y%C4%B1ld%C4%B1k/yildiz_kopekler/37/robot_devrimi"
+    },
+    {
+      "season": 13,
+      "episode": 14,
+      "title": "Twice The Excitement",
+      "diziid": "y%C4%B1ld%C4%B1k",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/y%C4%B1ld%C4%B1k/yildiz_kopekler/38/iki_kat_eglence"
+    },
+    {
+      "season": 20,
+      "episode": 15,
+      "title": "Robosauria",
+      "diziid": "y%C4%B1ld%C4%B1k",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/y%C4%B1ld%C4%B1k/yildiz_kopekler/45/robosarya"
+    },
+    {
+      "season": 21,
+      "episode": 16,
+      "title": "Secrets and More Secrets",
+      "diziid": "y%C4%B1ld%C4%B1k",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/y%C4%B1ld%C4%B1k/yildiz_kopekler/46/sirlar_ve_daha_cok_sirlar"
+    },
+    {
+      "season": 22,
+      "episode": 17,
+      "title": "Persuasion",
+      "diziid": "y%C4%B1ld%C4%B1k",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/y%C4%B1ld%C4%B1k/yildiz_kopekler/47/ikna"
+    },
+    {
+      "season": 23,
+      "episode": 18,
+      "title": "The Good, The Bad And The Baba",
+      "diziid": "y%C4%B1ld%C4%B1k",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/y%C4%B1ld%C4%B1k/yildiz_kopekler/48/iyi%2C_kotu_ve_baba"
+    }
+  ]
+}

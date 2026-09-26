@@ -1,0 +1,45 @@
+{
+  "id": "kryptogk",
+  "title": "krypto gÃ¼nÃ¼ kurtarÄ±yor",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KRYPTOGKPoster.avif",
+  "channel": "Cartoonito",
+  "genres": [
+    "Macera",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "School Bus Scuffle",
+      "diziid": "kryptogk",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kryptogk/krypto_gunu_kurtariyor/1/okul_servisi_arbedesi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Halloween Havoc",
+      "diziid": "kryptogk",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kryptogk/krypto_gunu_kurtariyor/2/cadilar_bayrami_kargasasi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Package Pandemonium",
+      "diziid": "kryptogk",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kryptogk/krypto_gunu_kurtariyor/3/paket_hengamesi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Coastal Catastrophe",
+      "diziid": "kryptogk",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kryptogk/krypto_gunu_kurtariyor/4/kiyi_felaketi"
+    }
+  ]
+}

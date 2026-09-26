@@ -1,0 +1,428 @@
+{
+  "id": "dr",
+  "title": "dino ranch",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/DRPoster.avif",
+  "channel": "Boomerang",
+  "genres": [
+    "DoÄŸa ve Hayvanlar"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Big Jon Big Trouble",
+      "diziid": "dr",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/1/buyuk_jon_buyuk_sorun"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Min's Quest",
+      "diziid": "dr",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/2/minin_gorevi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Stop that Spinosaurus!",
+      "diziid": "dr",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/3/su_spinozoru_durdurun%21"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Spookasaurus",
+      "diziid": "dr",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/4/urkutozor"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Jane's Perfect Present",
+      "diziid": "dr",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/5/janein_mukemmel_hediyesi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Pterodactyl-Doodle-Doo",
+      "diziid": "dr",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/6/pterodaktil_otusu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Long Way Home",
+      "diziid": "dr",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/7/eve_donus_yolu"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Trade in the Shade",
+      "diziid": "dr",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/8/golgede_takas"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Small Wonder",
+      "diziid": "dr",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/9/kucuk_mucize"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Dino Checkup Hiccup",
+      "diziid": "dr",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/10/dino_muayene_sorunu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Tinhorn Trouble",
+      "diziid": "dr",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/11/tinhorn_sorunu"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Family Comes First",
+      "diziid": "dr",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/12/aile_once_gelir"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Clover's Tiny Problem",
+      "diziid": "dr",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/13/cloverin_kucuk_problemi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Tango's BFF",
+      "diziid": "dr",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/14/tangonun_yakin_arkadasi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Home on the Range",
+      "diziid": "dr",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/15/arazideki_yuva"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Miguel's Compy Conundrum",
+      "diziid": "dr",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/16/miguelin_compy_sorunu"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Ten Gallon Trophy",
+      "diziid": "dr",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/17/on_galonluk_kupa"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Plane Crazy",
+      "diziid": "dr",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/18/ucak_cilgini"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Sneaky Swipers",
+      "diziid": "dr",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/19/sinsi_hirsizlar"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Clover's Height Fright",
+      "diziid": "dr",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/20/cloverin_yukseklik_korkusu"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Ballad of Big Jon",
+      "diziid": "dr",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/21/buyuk_jonun_sarkisi"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "One Good Turn",
+      "diziid": "dr",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/22/iyi_bir_donus"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Guitar Heroes",
+      "diziid": "dr",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/23/gitar_kahramanlari"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Wild Wild Thunderfoot",
+      "diziid": "dr",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/24/vahsi_thunderfoot"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Lost Dinosaur",
+      "diziid": "dr",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/25/kayip_dinozor"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The Dino Doldrums",
+      "diziid": "dr",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/26/dinozor_sikintilari"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Goliath's Little Helper",
+      "diziid": "dr",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/27/goliathin_kucuk_yardimcisi"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Have You Herd?",
+      "diziid": "dr",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/28/hangi_suru"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Treasure Ranch",
+      "diziid": "dr",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/29/hazine_ciftligi"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Good Neighbors",
+      "diziid": "dr",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/30/iyi_komsular"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Blitz Be Gone",
+      "diziid": "dr",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/31/blitz_kayip"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Little Big Shot",
+      "diziid": "dr",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/32/buyumus_de_kuculmus"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Pterodackattack!",
+      "diziid": "dr",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/33/pterodak_saldirisi"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Sonny the Kid",
+      "diziid": "dr",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/34/cocuk_sonny"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Dino Sore",
+      "diziid": "dr",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/35/dino_agrisi"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Strife in the Fast Lane",
+      "diziid": "dr",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/36/hizli_seritte_cekisme"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Ranch-a-Pal-ooza",
+      "diziid": "dr",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/37/ciftlik_eglencesi"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Sky's the Limit",
+      "diziid": "dr",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/38/sinir_gokyuzu"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Trading Day",
+      "diziid": "dr",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/39/takas_gunu"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "It's a Dino Egg-Mergency",
+      "diziid": "dr",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/40/bu_bir_dino_yumurta_acil_durumu"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Family Feud",
+      "diziid": "dr",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/41/aile_kavgasi"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "This Ranch Ain't Big Enough",
+      "diziid": "dr",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/42/bu_ciftlik_yeterince_buyuk_degil"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Herds of a Feather",
+      "diziid": "dr",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/43/_tuyleri"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Stink to High Noon",
+      "diziid": "dr",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/44/fena_koku"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Calling All Riders!",
+      "diziid": "dr",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/45/tum_biniciler_cagriliyor%21"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Ridin' Mighty",
+      "diziid": "dr",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/46/guclu_surus"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Storm-A-Lert",
+      "diziid": "dr",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/47/firtina_alarmi"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Adoptasaurus Rex",
+      "diziid": "dr",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/48/bir_rex_sahiplen"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "The Great Dinosaur Getaway",
+      "diziid": "dr",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/49/buyuk_dinozor_kacisi"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Dino Ranch Rocks",
+      "diziid": "dr",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/50/dino_ranch_partisi"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Tall in the Saddle Drive",
+      "diziid": "dr",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/51/suru_gocunde_sorun"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Min-Perfection",
+      "diziid": "dr",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/dr/dino_ranch/52/min_ve_mukemmellik"
+    }
+  ]
+}

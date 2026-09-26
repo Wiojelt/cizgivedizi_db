@@ -1,0 +1,645 @@
+{
+  "id": "rob",
+  "title": "robot rob",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ROBPoster.avif",
+  "channel": "Moonbug",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Splish Splash",
+      "diziid": "rob",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/1/sulu_mulu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Too Much Fun",
+      "diziid": "rob",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/2/asiri_eglence"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Chill Out",
+      "diziid": "rob",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/3/neselen"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Arrr Marks the Spot",
+      "diziid": "rob",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/4/isaretli_yer"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Space Race",
+      "diziid": "rob",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/5/uzay_yarisi"
+    },
+    {
+      "season": 7,
+      "episode": 6,
+      "title": "Can You Dance",
+      "diziid": "rob",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/7/dans_edebilir_misin"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "title": "The Ugly Space Duckling",
+      "diziid": "rob",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/8/cirkin_ordek_yavrusu_uzayda"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "title": "Colour Confusion",
+      "diziid": "rob",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/9/renk_karmasasi"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "Sports Day",
+      "diziid": "rob",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/10/spor_gunu"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "Rocket Band",
+      "diziid": "rob",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/11/roket_bandosu"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "Bone to Pick",
+      "diziid": "rob",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/12/kayip_kemik"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "Space Cat Pet Sitters",
+      "diziid": "rob",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/13/evcil_uzay_kedileri"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "Origami Whammy",
+      "diziid": "rob",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/14/origami_acayipligi"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "Sure Sign",
+      "diziid": "rob",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/15/kanit"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Chee-easiest Mission Ever",
+      "diziid": "rob",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/16/cantada_keklik_gorev"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "Tricked",
+      "diziid": "rob",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/17/kandirmaca"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "Imagination Day",
+      "diziid": "rob",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/18/hayal_gunu"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "The Smallest Show in the Universe",
+      "diziid": "rob",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/19/evrenin_en_kucuk_gosterisi"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "Mud Trouble",
+      "diziid": "rob",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/20/camur_sorunu"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "Puzzled",
+      "diziid": "rob",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/21/bulmacali"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "The Mouse House",
+      "diziid": "rob",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/22/fare_evi"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "Space Virus Blues",
+      "diziid": "rob",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/23/uzay_virusu_mavisi"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "Invisibot",
+      "diziid": "rob",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/24/gorunmez_robot"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "Space Camp",
+      "diziid": "rob",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/25/uzay_kampi"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "Sleepy Heads",
+      "diziid": "rob",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/26/uykucular"
+    },
+    {
+      "season": 27,
+      "episode": 26,
+      "title": "Tall Tale",
+      "diziid": "rob",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/27/uzun_hikaye"
+    },
+    {
+      "season": 28,
+      "episode": 27,
+      "title": "Shivers in Space",
+      "diziid": "rob",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/28/uzaydaki_urperti"
+    },
+    {
+      "season": 29,
+      "episode": 28,
+      "title": "Get Cracking",
+      "diziid": "rob",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/29/alelacele"
+    },
+    {
+      "season": 31,
+      "episode": 29,
+      "title": "Help Giving",
+      "diziid": "rob",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/31/yardimlasma"
+    },
+    {
+      "season": 32,
+      "episode": 30,
+      "title": "Picnic Panic",
+      "diziid": "rob",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/32/piknik_panigi"
+    },
+    {
+      "season": 33,
+      "episode": 31,
+      "title": "Lost and Found",
+      "diziid": "rob",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/33/kayip_esya"
+    },
+    {
+      "season": 34,
+      "episode": 32,
+      "title": "A Home for Harold",
+      "diziid": "rob",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/34/haroldun_yeni_evi"
+    },
+    {
+      "season": 35,
+      "episode": 33,
+      "title": "Squeakersize",
+      "diziid": "rob",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/35/egzersgirc"
+    },
+    {
+      "season": 36,
+      "episode": 34,
+      "title": "Treehouse Trouble",
+      "diziid": "rob",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/36/agac_evde_sorun"
+    },
+    {
+      "season": 37,
+      "episode": 35,
+      "title": "Knight for a Day",
+      "diziid": "rob",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/37/bir_gunluk_sovalye"
+    },
+    {
+      "season": 38,
+      "episode": 36,
+      "title": "Lord of the Robots",
+      "diziid": "rob",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/38/robotlarin_efendisi"
+    },
+    {
+      "season": 39,
+      "episode": 37,
+      "title": "Dinosaur Lost",
+      "diziid": "rob",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/39/kayip_dinozor"
+    },
+    {
+      "season": 40,
+      "episode": 38,
+      "title": "Be a Sport",
+      "diziid": "rob",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/40/sporcu_olmak"
+    },
+    {
+      "season": 41,
+      "episode": 39,
+      "title": "Up, Up and Away",
+      "diziid": "rob",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/41/yukari_ve_otesine"
+    },
+    {
+      "season": 44,
+      "episode": 40,
+      "title": "Cosmic Day",
+      "diziid": "rob",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/44/kozmik_gun"
+    },
+    {
+      "season": 45,
+      "episode": 41,
+      "title": "The Big Robowski",
+      "diziid": "rob",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/45/buyuk_robowski"
+    },
+    {
+      "season": 46,
+      "episode": 42,
+      "title": "Game Show",
+      "diziid": "rob",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/46/oyun_gosterisi"
+    },
+    {
+      "season": 47,
+      "episode": 43,
+      "title": "Found Unwound",
+      "diziid": "rob",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/47/yeni_anahtar"
+    },
+    {
+      "season": 48,
+      "episode": 44,
+      "title": "Galaxy Golf",
+      "diziid": "rob",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/48/galaksi_golfu"
+    },
+    {
+      "season": 49,
+      "episode": 45,
+      "title": "Funny Mummy",
+      "diziid": "rob",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/49/komik_mumya"
+    },
+    {
+      "season": 50,
+      "episode": 46,
+      "title": "Be Careful What You Wish For",
+      "diziid": "rob",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/50/ne_diledigine_dikkat_et"
+    },
+    {
+      "season": 51,
+      "episode": 47,
+      "title": "Making the Grade",
+      "diziid": "rob",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/51/gelisim_zamani"
+    },
+    {
+      "season": 52,
+      "episode": 48,
+      "title": "The Mysterious Mea Mystery",
+      "diziid": "rob",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/52/esrarengiz_mea_gizemi"
+    },
+    {
+      "season": 1,
+      "episode": 49,
+      "title": "Hocus Pocus",
+      "diziid": "rob",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/53/hokus_pokus"
+    },
+    {
+      "season": 2,
+      "episode": 50,
+      "title": "Honk If You're Happy",
+      "diziid": "rob",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/54/mutluysan_ot"
+    },
+    {
+      "season": 3,
+      "episode": 51,
+      "title": "TK's Toy",
+      "diziid": "rob",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/55/tkin_oyuncagi"
+    },
+    {
+      "season": 4,
+      "episode": 52,
+      "title": "Hero at Heart",
+      "diziid": "rob",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/56/kahraman_gonullu"
+    },
+    {
+      "season": 5,
+      "episode": 53,
+      "title": "Food-o-Matic",
+      "diziid": "rob",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/57/yemek-matik"
+    },
+    {
+      "season": 6,
+      "episode": 54,
+      "title": "Crouching Tiger Hidden Wagon",
+      "diziid": "rob",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/58/kaplan_ve_sakli_vagon"
+    },
+    {
+      "season": 8,
+      "episode": 55,
+      "title": "You Can't Handle the Tooth",
+      "diziid": "rob",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/60/disle_basa_cikamazsin"
+    },
+    {
+      "season": 9,
+      "episode": 56,
+      "title": "Funky Monkey",
+      "diziid": "rob",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/61/korkak_maymun"
+    },
+    {
+      "season": 10,
+      "episode": 57,
+      "title": "Hare-Raising Event",
+      "diziid": "rob",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/62/tavsan_toplama_etkinligi"
+    },
+    {
+      "season": 11,
+      "episode": 58,
+      "title": "Sheriff in Town",
+      "diziid": "rob",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/63/kasabanin_serifi"
+    },
+    {
+      "season": 12,
+      "episode": 59,
+      "title": "Shell Shock",
+      "diziid": "rob",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/64/sasirtici_kabuk"
+    },
+    {
+      "season": 14,
+      "episode": 60,
+      "title": "Robot Run",
+      "diziid": "rob",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/66/robot_kosusu"
+    },
+    {
+      "season": 16,
+      "episode": 61,
+      "title": "Telescope Tale",
+      "diziid": "rob",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/68/teleskop_hikayesi"
+    },
+    {
+      "season": 17,
+      "episode": 62,
+      "title": "Super Friends",
+      "diziid": "rob",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/69/super_arkadaslar"
+    },
+    {
+      "season": 18,
+      "episode": 63,
+      "title": "Powering Down",
+      "diziid": "rob",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/70/sarj_kesikligi"
+    },
+    {
+      "season": 19,
+      "episode": 64,
+      "title": "Finding Rob",
+      "diziid": "rob",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/71/kayip_rob"
+    },
+    {
+      "season": 22,
+      "episode": 65,
+      "title": "Memory Mix Up",
+      "diziid": "rob",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/74/hafiza_karisikligi"
+    },
+    {
+      "season": 23,
+      "episode": 66,
+      "title": "What Goes Up",
+      "diziid": "rob",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/75/yukari_cikanlar"
+    },
+    {
+      "season": 24,
+      "episode": 67,
+      "title": "Time for Fun",
+      "diziid": "rob",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/76/eglence_zamani"
+    },
+    {
+      "season": 25,
+      "episode": 68,
+      "title": "Starstruck",
+      "diziid": "rob",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/77/yildiz_carpmasi"
+    },
+    {
+      "season": 26,
+      "episode": 69,
+      "title": "Balancing Act",
+      "diziid": "rob",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/78/denge_isi"
+    },
+    {
+      "season": 27,
+      "episode": 70,
+      "title": "Riddle of the Runs",
+      "diziid": "rob",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/79/kalintilarin_kesfi"
+    },
+    {
+      "season": 28,
+      "episode": 71,
+      "title": "Pirate Day",
+      "diziid": "rob",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/80/korsan_gunu"
+    },
+    {
+      "season": 30,
+      "episode": 72,
+      "title": "Grape Expectation",
+      "diziid": "rob",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/82/uzum_beklentisi"
+    },
+    {
+      "season": 31,
+      "episode": 73,
+      "title": "Ups & Downs",
+      "diziid": "rob",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/83/yukari_asagi"
+    },
+    {
+      "season": 32,
+      "episode": 74,
+      "title": "The Plane Truth",
+      "diziid": "rob",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/84/ucak_dogrusu"
+    },
+    {
+      "season": 33,
+      "episode": 75,
+      "title": "How Sweet It Is",
+      "diziid": "rob",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/85/ne_kadar_tatli"
+    },
+    {
+      "season": 34,
+      "episode": 76,
+      "title": "Night Light",
+      "diziid": "rob",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/86/gece_isigi"
+    },
+    {
+      "season": 35,
+      "episode": 77,
+      "title": "Rob the Writer",
+      "diziid": "rob",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/87/yazar_rob"
+    },
+    {
+      "season": 36,
+      "episode": 78,
+      "title": "Medieval Manners",
+      "diziid": "rob",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/88/orta_cag_terbiyesi"
+    },
+    {
+      "season": 38,
+      "episode": 79,
+      "title": "2 Fast 2 Curious",
+      "diziid": "rob",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/rob/robot_rob/90/hizli_ve_merakli"
+    }
+  ]
+}

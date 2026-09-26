@@ -1,0 +1,28 @@
+{
+  "id": "yerÃ§md",
+  "title": "yer Ã§ekiminin muhteÅŸem dÃ¼nyasÄ±",
+  "type": "other",
+  "poster": "https://cizgivedizi.com/resim/YERÃ‡MDPoster.avif",
+  "channel": "Da Vinci",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Episode 1",
+      "diziid": "yer%C3%A7md",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/yer%C3%A7md/yer_cekiminin_muhtesem_dunyasi/1/bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Episode 2",
+      "diziid": "yer%C3%A7md",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/yer%C3%A7md/yer_cekiminin_muhtesem_dunyasi/2/bolum_2"
+    }
+  ]
+}

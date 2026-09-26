@@ -1,0 +1,596 @@
+{
+  "id": "rube",
+  "title": "rubble ve ekibi",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/RUBEPoster.avif",
+  "channel": "Nick Jr.",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Crew Builds a Bridge",
+      "diziid": "rube",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/1/ekip_kopru_insa_ediyor"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Crew Builds a Big Bike Shop / The Crew Builds a Super Tub",
+      "diziid": "rube",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/2/kopusler_buyuk_bir_bisiklet_magazasi_insa_ediyor__ekip_super_kuvet_yapiyor"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Crew Builds an Ice Cream Shop / The Crew Fixes a Squeak",
+      "diziid": "rube",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/3/ekip_dondurma_dukkani_insa_ediyor__ekip_bir_gicirtiyi_duzeltiyor"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Crew Builds a Playground / The Crew Fixes a Roof",
+      "diziid": "rube",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/4/ekip_oyun_bahcesi_insa_ediyor__ekip_bir_catiyi_onariyor"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Crew Builds a Car Wash / The Crew Plans Grandpa Day",
+      "diziid": "rube",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/5/ekip_oto_yikama_insa_ediyor__ekip_buyukbaba_gunu_planliyor"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Crew Builds a Skate Park / The Crew Builds a Tunnel",
+      "diziid": "rube",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/6/ekip_kaykay_parki_insa_ediyor__ekip_tunel_insa_ediyor"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Crew Builds a Beaver Home / The Crew Fixes a Road",
+      "diziid": "rube",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/7/ekip_kunduz_evi_insa_ediyor__ekip_yol_tamir_ediyor"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Crew Builds a Popcorn CafÃ© / The Crew Fixes a Slippery Mess",
+      "diziid": "rube",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/8/ekip_patlamis_misir_kafesi_insa_ediyor__ekip_kaygan_karmasayi_toparliyor"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Crew Builds a Drive-In Movie Theater / The Crew Finds a Rainbow Treasure",
+      "diziid": "rube",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/9/ekip_acik_hava_sinemasi_insa_ediyor__ekip_gokkusagi_hazinesi_buluyor"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Crew Builds a Pig Barn / The Crew Builds a Giant Runway",
+      "diziid": "rube",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/10/ekip_bir_domuz_ahiri_insa_ediyor__ekip_dev_bir_ucak_pisti_insa_ediyor"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Crew and Marshall Build a Fire Station",
+      "diziid": "rube",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/11/ekip%2C_bir_itfaiye_istasyonu_insa_ediyor%21"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Crew Does a Home Renovation / The Crew Builds a Lighthouse",
+      "diziid": "rube",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/12/ekip%2C_ev_tadilati_yapiyor%21__ekip_bir_denizfeneri_insa_ediyor%21"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Crew Builds a Dinosaur Museum / The Crew Builds a Wheelchair Ramp",
+      "diziid": "rube",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/13/ekip%2C_bir_dinozor_muzesi_insa_ediyor%21__ekip%2C_tekerlekli_sandalye_rampasi_insa_ediyor%21"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Crew Builds a Splash Park / The Crew Builds a Playroom",
+      "diziid": "rube",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/14/ekip_bir_su_parki_insa_ediyor__kopusler_bir_oyun_odasi_insa_ediyor"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Crew Builds a School / The Crew Builds a Waterway",
+      "diziid": "rube",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/15/ekip%2C_bir_okul_insa_ediyor%21__ekip%2C_su_yolu_insa_ediyor%21"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Crew Fixes a Haunted House / The Crew Builds a Bat House",
+      "diziid": "rube",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/16/ekip_perili_bir_evi_onariyor__ekip_yarasa_evi_insa_ediyor"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Crew Builds an Observatory / The Crew Builds a Zipline",
+      "diziid": "rube",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/17/ekip%2C_bir_gozlemevi_insa_ediyor%21__ekip_bir_zip_line_insa_ediyor"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Crew Builds a Library Tea Shop / The Crew Builds a Dance Floor",
+      "diziid": "rube",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/18/ekip%2C_bir_kutuphane_insa_ediyor__ekip_bir_dans_pisti_insa_ediyor%21"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Crew Builds a Giant Lemonade Stand / The Crew Builds a Wildlife Bridge",
+      "diziid": "rube",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/19/ekip%2C_dev_bir_limonata_standi_insa_ediyor%21__ekip%2C_bir_yaban_hayati_koprusu_insa_ediyor%21"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Crew and Chase Are on the Case",
+      "diziid": "rube",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/20/ekip_ve_chase_gorev_basinda%21"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Crew Fixes the Talent Show Stage / The Crew Builds Instruments",
+      "diziid": "rube",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/21/ekip_yetenek_yarismasi_sahnesini_onariyor__ekip_enstruman_insa_ediyor"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "The Crew Builds a Giant Dam / The Crew Builds a Squirrel-Proof Farm",
+      "diziid": "rube",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/22/ekip_dev_bir_baraj_insa_ediyor__ekip_sincap_korumali_ciftlik_insa_ediyor"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "The Crew Builds a Fountain Show / The Crew Builds a Carousel",
+      "diziid": "rube",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/23/ekip_fiskiye_gosterisi_insa_ediyor__kopusler_atlikarinca_insa_ediyor"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Crew Builds a Christmas Show / The Crew Builds a Giant Sled Ramp",
+      "diziid": "rube",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/24/ekip_noel_gosterisi_duzenliyor__ekip_dev_bir_kizak_rampasi_insa_ediyor"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "The Crew Builds a Parking Garage / The Crew Builds a Campsite",
+      "diziid": "rube",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/25/ekip_bir_katli_otopark_insa_ediyor__ekip_kamp_alani_insa_ediyor"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The Crew Builds a Treehouse / The Crew Builds a Chicken Feeder",
+      "diziid": "rube",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/26/ekip_bir_agac_ev_insa_ediyor__ekip_bir_tavuk_yemligi_insa_ediyor"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "The Crew Builds a Roller Coaster / The Crew Builds Motor a Play Space",
+      "diziid": "rube",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/27/ekip_bir_hiz_treni_insa_ediyor%21__ekip_motora_oyun_alani_insa_ediyor%21"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "The Crew Builds a Train Station / The Crew Builds a Sierra Sparkle Sign",
+      "diziid": "rube",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/28/ekip_tren_istasyonu_insa_ediyor__ekip_piriltili_sierra_tabelasi_insa_ediyor"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "The Crew Builds a Mini Golf Course / The Crew Builds a Butterfly Garden",
+      "diziid": "rube",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/29/ekip_mini_bir_golf_sahasi_insa_ediyor__ekip_bir_kelebek_bahcesi_insa_ediyor"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "The Crew Builds a Library Tunnel / The Crew Builds a Super Snack Dispenser",
+      "diziid": "rube",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/30/ekip_kutuphane_hazine_tunelleri_insa_ediyor__ekip_bir_super_atistirmalik_makinesi_insa_ediyor"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "The Crew Builds a Hair Salon / The Crew Builds a Colorful Crystal Show",
+      "diziid": "rube",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/31/ekip_bir_kuafor_salonu_insa_ediyor__ekip_renkli_bir_kristal_gosterisi_insa_ediyor"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "The Crew Builds a Gym / The Crew Puts on a Construction Show",
+      "diziid": "rube",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/32/ekip_bir_spor_salonu_insa_ediyor__ekip_bir_insaat_gosterisi_hazirliyor"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "The Crew Builds Charger a Super Bed / The Crew Builds a Super Squirrely Whirly Playground",
+      "diziid": "rube",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/33/ekip_chargera_bir_super_yatak_insa_ediyor__ekip_super_kivrak_sincap_parki_insa_ediyor"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "The Crew Builds a Smoothie Shop / The Crew Builds a Dino Roof Party",
+      "diziid": "rube",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/34/ekip_bir_smoothie_dukkani_insa_ediyor__ekip_dinozorlu_bir_catisi_partisi_insa_ediyor%21"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "The Crew Builds a Ferris Wheel / The Crew Builds a Farm Animal Yoga Space",
+      "diziid": "rube",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/35/ekip_bir_donme_dolap_insa_ediyor__ekip_ciftlik_hayvanlarina_yoga_alani_insa_ediyor"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "The Crew and Skye Build a Mountain Lodge",
+      "diziid": "rube",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/36/ekip_ve_skye_bir_dag_evi_insa_ediyor"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "The Crew Builds Mr. Ducky-Doo a Special Diving Board / The Crew Builds a Rainwater Tank",
+      "diziid": "rube",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/37/ekip_bay_ducky_dooya_ozel_bir_tramplen_insa_ediyor__ekip_bir_yagmur_suyu_tanki_insa_ediyor"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "The Crew Builds a Ballpark / The Crew Builds a Surf Bridge",
+      "diziid": "rube",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/38/ekip_beyzbol_sahasi_insa_ediyor__ekip_bir_sorf_koprusu_insa_ediyor"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "The Crew Builds a Reuse-It Station / The Crew Builds a Duck Bridge",
+      "diziid": "rube",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/39/ekip_bir_donusum_tesisi_insa_ediyor__ekip_bir_ordek_koprusu_insa_ediyor"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "The Crew Builds a Pizza Parlor / The Crew Builds an Airport Road",
+      "diziid": "rube",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/40/ekip_bir_pizza_dukkani_insa_ediyor__ekip_bir_havalimani_yolu_insa_ediyor"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "The Crew Builds an Indoor Skydiving Center / The Crew Builds a Roller Rink",
+      "diziid": "rube",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/41/ekip_kapali_bir_serbest_parasutculuk_merkezi_insa_ediyor__ekip_bir_paten_pisti_insa_ediyor"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "The Crew Builds a Bowling Alley / The Crew Builds a Superbloom Path",
+      "diziid": "rube",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/42/ekip_bir_bowling_salonu_insa_ediyor__ekip_bir_super_cicek_yolu_insa_ediyor"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "The Crew Celebrates Builder Covegiving Day / The Crew Builds a Rocket Ship Ride",
+      "diziid": "rube",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/43/ekip_insaat_sukran_gununu_kutluyor__ekip_bir_uzay_mekigi_treni_insa_ediyor"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "The Crew Raises a Runway / The Crew Builds a Giant Skateboard",
+      "diziid": "rube",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/44/ekip_bir_pisti_yukseltiyor__ekip_devasa_bir_kaykay_insa_ediyor"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "The Crew Makes Christmas Magical",
+      "diziid": "rube",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/45/ekip_noeli_buyulu_kiliyor"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "The Crew Builds a Post Office / The Crew Builds a Farm Animal Wash",
+      "diziid": "rube",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/46/ekip_bir_postane_insa_ediyor__ekip_super_bir_ciftlik_hayvani_banyosu_insa_ediyor"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "The Crew Builds a Winter Wonderland / The Crew Builds a Giant Snow Squirrelly Whirly",
+      "diziid": "rube",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/47/ekip_bir_kis_diyari_insa_ediyor__ekip_devasa_bir_kardan_kivrak_sincap_insa_ediyor"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "The Crew Builds a Hotel / The Crew Builds a Hiking Trail",
+      "diziid": "rube",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/48/ekip_bir_otel_insa_ediyor__ekip_bir_yuruyus_yolu_yapiyor"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "The Crew and Rocky Build a Bear Island",
+      "diziid": "rube",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/49/rocky_ve_ekip_bir_ayi_adasi_insa_ediyor"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "The Crew Builds a Kangaroo Safari / The Crew Plays in the Construction Games",
+      "diziid": "rube",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/50/ekip_bir_kanguru_safarisi_insa_ediyor__ekip_insaat_oyunlarinda_yarisiyor"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "The Crew Builds a Rooftop Stage / The Crew Fixes the Lighthouse",
+      "diziid": "rube",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/51/ekip_bir_cati_sahnesi_insa_ediyor__ekip_deniz_fenerini_tamir_ediyor"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "The Crew Builds a Solar-powered Bus / The Crew Builds a Lifeguard Tower",
+      "diziid": "rube",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/52/ekip_gunes_enerjisiyle_calisan_otobus_yapiyor__ekip_bir_cankurtaran_kulesi_insa_ediyor"
+    },
+    {
+      "season": 1,
+      "episode": 53,
+      "title": "The Crew Builds a Vet Clinic / The Crew Builds a Mermaid Party",
+      "diziid": "rube",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/53/ekip_bir_veteriner_klinigi_insa_ediyor__ekip_bir_deniz_kizi_partisi_veriyor"
+    },
+    {
+      "season": 2,
+      "episode": 54,
+      "title": "The Crew Builds a Hotel Elevator / The Crew Builds a Popcorn-Cat CafÃ©",
+      "diziid": "rube",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/54/ekip_bir_otel_asansoru_insa_ediyor__ekip_patlamis_misir_kedi_kafesi_insa_ediyor"
+    },
+    {
+      "season": 3,
+      "episode": 55,
+      "title": "The Crew Builds a Sea Wall",
+      "diziid": "rube",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/55/ekip_bir_deniz_duvari_insa_ediyor"
+    },
+    {
+      "season": 4,
+      "episode": 56,
+      "title": "The Crew Builds a Super Mega Movie Screen / The Crew Builds an Auntie Day Present",
+      "diziid": "rube",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/56/ekip_super_mega_sinema_ekrani_insa_ediyor__ekip%2C_teyzeler_gunu_hediyesi_insa_ediyor"
+    },
+    {
+      "season": 5,
+      "episode": 57,
+      "title": "The Crew Builds a Giant Skate Track / The Crew Builds a Giant Ice Cream Maker",
+      "diziid": "rube",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/57/ekip_dev_bir_kaykay_pisti_insa_ediyor__ekip_dev_bir_dondurma_makinesi_yapiyor"
+    },
+    {
+      "season": 6,
+      "episode": 58,
+      "title": "The Crew Builds a Giant Turtle House / The Crew Builds a Giant Volcano",
+      "diziid": "rube",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/58/ekip_dev_bir_kaplumbaga_evi_insa_ediyor__ekip_dev_bir_volkan_insa_ediyor"
+    },
+    {
+      "season": 7,
+      "episode": 59,
+      "title": "The Crew Builds a Firefighter Training Center / The Crew Builds a Sierra Sparkle Space Show",
+      "diziid": "rube",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/59/ekip_itfaiyeci_egitim_merkezi_insa_ediyor__ekip_sierra_sparkle_icin_uzay_sovu_hazirliyor"
+    },
+    {
+      "season": 8,
+      "episode": 60,
+      "title": "The Crew Builds a Giant Duck Plane / The Crew Builds a Vet Room for Motor",
+      "diziid": "rube",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/60/ekip_dev_bir_ordek_ucagi_insa_ediyor__ekip_bir_veteriner_odasi_insa_ediyor"
+    },
+    {
+      "season": 9,
+      "episode": 61,
+      "title": "The Crew Builds an Art Museum / The Crew Builds a Giant Alphorn",
+      "diziid": "rube",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/61/ekip_bir_muze_insa_ediyor__ekip_dev_bir_alp_boynuzu_insa_ediyor"
+    },
+    {
+      "season": 10,
+      "episode": 62,
+      "title": "The Crew Builds a Skyscraper",
+      "diziid": "rube",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/62/ekip_bir_gokdelen_insa_ediyor"
+    },
+    {
+      "season": 11,
+      "episode": 63,
+      "title": "The Crew Lifts Up City Hall / The Crew Builds a Rotating Restaurant",
+      "diziid": "rube",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/63/ekip_belediye_binasini_yukseltiyor__ekip_donen_restoran_insa_ediyor"
+    },
+    {
+      "season": 12,
+      "episode": 64,
+      "title": "The Crew Builds a Giant Tunnel",
+      "diziid": "rube",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/64/ekip_dev_bir_tunel_insa_ediyor"
+    },
+    {
+      "season": 13,
+      "episode": 65,
+      "title": "The Crew Builds a Mega Stunt Ramp / The Crew Builds a Solar Farm",
+      "diziid": "rube",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/65/ekip_dev_bir_akrobasi_rampasi_insa_ediyor__ekip_gunes_enerjisi_ciftligi_kuruyor"
+    },
+    {
+      "season": 1,
+      "episode": 66,
+      "title": "The Crew Builds a Fancy Drive-Thru Restaurant / The Crew Builds a Castle Show",
+      "diziid": "rube",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/66/ekip%2C_sik_bir_al-gotur_restoran_insa_ediyor%21__ekip%2C_kale_gosterisi_insa_ediyor%21"
+    },
+    {
+      "season": 3,
+      "episode": 67,
+      "title": "The Crew Builds a Pirate Ship CafÃ© / The Crew Builds a Sierra Sparkle Experience",
+      "diziid": "rube",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/68/ekip_korsan_gemisi_kafe_insa_ediyor%21__ekip_piriltili_sierra_deneyimi_insa_ediyor%21"
+    },
+    {
+      "season": 4,
+      "episode": 68,
+      "title": "The Crew Builds a Conveyor Belt Restaurant / The Crew Makes a Community Soup",
+      "diziid": "rube",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/69/ekip_tasima_bantli_restoran_insa_ediyor%21__ekip_dev_bir_corba_insa_ediyor%21"
+    },
+    {
+      "season": 6,
+      "episode": 69,
+      "title": "The Crew Installs a New Observatory Lens / The Crew Builds a Meow Yard",
+      "diziid": "rube",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/71/ekip_birlikte_gozlem_evini_tamir_ediyor__ekip_birlikte_miyav_sahasi_insa_ediyor"
+    },
+    {
+      "season": 7,
+      "episode": 70,
+      "title": "The Crew Builds a Giant Checkerboard / The Crew Builds a Corn Silo",
+      "diziid": "rube",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/72/ekip_dev_bir_dama_tahtasi_insa_ediyor__ekip_bir_misir_silosu_insa_ediyor"
+    },
+    {
+      "season": 8,
+      "episode": 71,
+      "title": "The Crew Builds a Soap Box Derby / The Crew Builds a Bird Flight School",
+      "diziid": "rube",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/73/ekip_ev_yapimi_araba_derbisi_insa_ediyor__ekip_kus_ucus_okulu_insa_ediyor"
+    },
+    {
+      "season": 9,
+      "episode": 72,
+      "title": "The Crew Builds a Pancake Cafe / The Crew Builds a Duck Plane Wash",
+      "diziid": "rube",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/74/ekip_pankek_kafe_insa_ediyor__ekip_ucak_yikamacisi_insa_ediyor"
+    },
+    {
+      "season": 10,
+      "episode": 73,
+      "title": "The Crew Builds a Farmyard Skatepark / The Crew Builds a Room with a View",
+      "diziid": "rube",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/rube/rubble_ve_ekibi/75/ekip_ciftlik_kaykay_parki_insa_ediyor__ekip_manzarali_bir_oda_insa_ediyor%21"
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "id": "vampiri",
+  "title": "vampirina",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/VAMPIRIPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Going Batty/Scare B&B",
+      "diziid": "vampiri",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/1/yarasalar__scare_pansiyonu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Sleepover/Portrait of a Vampire",
+      "diziid": "vampiri",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/2/yatiya_kalma__bir_vampirin_portresi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Vee's Surprise Party/Vee Goes Viral",
+      "diziid": "vampiri",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/3/veenin_surpriz_partisi__vee_fenomen_oluyor"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Plant Predicament/Mummy Mayhem",
+      "diziid": "vampiri",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/4/bitki_belasi__mumya_kargasasi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Little Terror/Super Natural",
+      "diziid": "vampiri",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/5/kucuk_felaket__dogaustu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Vamping Trip/The Monster Snore",
+      "diziid": "vampiri",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/6/vampir_gezisi__canavar_horluyor"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Bone Appetit/Woodchuck Woodsies",
+      "diziid": "vampiri",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/7/afiyet_olsun__woodchuck_woodsies"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Hide & Shriek/The Little Witch",
+      "diziid": "vampiri",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/8/saklankac__kucuk_cadi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Vampire Weekend/The Bird Who Knew Too Much",
+      "diziid": "vampiri",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/9/vampir_hafta_sonu__sirri_ogrenen_kus"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Ghoul Girls/Game Night",
+      "diziid": "vampiri",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/10/hortlak_kizlar__oyun_gecesi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Oldie but a Ghouldie/Beast in Show",
+      "diziid": "vampiri",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/11/eski_ama_degerli_hortlak__gosterideki_canavar"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Critters!/Cuddle Monster",
+      "diziid": "vampiri",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/12/yaratiklar%21__kucaklama_canavari"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Batty Fever/Poetry Day",
+      "diziid": "vampiri",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/13/yarasa_hummasi__siir_gunu"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Nanpire the Great/Two Heads Are Better Than One",
+      "diziid": "vampiri",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/14/buyuk_nanpire__cift_basin_faydalari"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Vee Is For Valentine/Scarestitute Teacher",
+      "diziid": "vampiri",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/15/vee_sevgililer_gunune_hazirlaniyor__korkunc_ogretmen_is_basinda"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Look Who's Scared Now!/Dust Bunnies",
+      "diziid": "vampiri",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/16/simdi_kim_korkacak_bakalim%21__toz_tavsanlari"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Vampirina Ballerina/Treasure Haunters",
+      "diziid": "vampiri",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/17/vampirina_balerin_oluyor__hazine_avcilari"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Mummy's Day/Dance-lvania",
+      "diziid": "vampiri",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/18/anneler_gunu__dansilvanya"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Acrobat Boris/The Lemonade Stand",
+      "diziid": "vampiri",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/19/akrobat_boris__limonata_standi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Hiccupire/Uncle Bigfoot",
+      "diziid": "vampiri",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/20/hickirik_krizi__koca_ayak_amca"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Fangless/Transylvanian Tea",
+      "diziid": "vampiri",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/21/dissiz__transilvanya_cayi"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Home Scream Home",
+      "diziid": "vampiri",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/22/evim_evim_korku_evim"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Countess Vee/Frights Camera Action",
+      "diziid": "vampiri",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/23/kontes_vee__korku%2C_kamera%2C_oyun%21"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Hauntleyween/Frankenflower",
+      "diziid": "vampiri",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/24/cadilar_bayrami__hortlak_cicek"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Nanpire and Grandpop the Greats/There's Snow Place Like Home",
+      "diziid": "vampiri",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/25/buyuk_nanpire_ve_grandpop__kar_yaginca_ev_gibisi_yok"
+    },
+    {
+      "season": 1,
+      "episode": 26,
+      "title": "Vampire for President/Where's Wolfie?",
+      "diziid": "vampiri",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/26/baskan_adayi_vampir__wolfie_nerede"
+    },
+    {
+      "season": 2,
+      "episode": 27,
+      "title": "The Woodsie Way/TNN",
+      "diziid": "vampiri",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/27/orman_macerasi__tnn"
+    },
+    {
+      "season": 3,
+      "episode": 28,
+      "title": "Franken-Wedding/Bat Hair Day",
+      "diziid": "vampiri",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/28/franken-dugun__yarasa_sac_gunu"
+    },
+    {
+      "season": 4,
+      "episode": 29,
+      "title": "Baby Dragon/Gloomates",
+      "diziid": "vampiri",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/29/yavru_ejderha__korkunclu_oda_arkadaslari"
+    },
+    {
+      "season": 5,
+      "episode": 30,
+      "title": "The Ghoul Next Door/Scare B & Vee",
+      "diziid": "vampiri",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/30/yan_evdeki_canavar__korku_pansiyonu_ve_vee"
+    },
+    {
+      "season": 6,
+      "episode": 31,
+      "title": "The Birthday Broom/Vee Takes The Court",
+      "diziid": "vampiri",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/31/dogum_gunu_supurgesi__vee_baskete_basliyor"
+    },
+    {
+      "season": 7,
+      "episode": 32,
+      "title": "Scare-itage Day/The Great Egg Scramble",
+      "diziid": "vampiri",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/32/soy_agaci_gunu__muhtesem_cirpilmis_yumurta"
+    },
+    {
+      "season": 8,
+      "episode": 33,
+      "title": "Desserter Mystery/Mirror Mirror",
+      "diziid": "vampiri",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/33/tatli_gizem__ayna_ayna"
+    },
+    {
+      "season": 9,
+      "episode": 34,
+      "title": "Beach Night/Gregoria Takes Flight",
+      "diziid": "vampiri",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/34/sahilde_bir_gece__gregoria_ucmayi_ogreniyor"
+    },
+    {
+      "season": 10,
+      "episode": 35,
+      "title": "The Big Bite/Ghost Hosts",
+      "diziid": "vampiri",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/35/buyuk_isirik__hayalet_sunucu"
+    },
+    {
+      "season": 11,
+      "episode": 36,
+      "title": "The Boo Boys Are Back/Pixie Problem",
+      "diziid": "vampiri",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/36/boo_cocuklarin_donusu__peri_problemi"
+    },
+    {
+      "season": 12,
+      "episode": 37,
+      "title": "Face the Music/Fright at the Museum",
+      "diziid": "vampiri",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/37/muzikle_yuzles__muzede_dehset"
+    },
+    {
+      "season": 13,
+      "episode": 38,
+      "title": "Vamp-iversary/Wolf Boy",
+      "diziid": "vampiri",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/38/vampir-donumu__kurt_cocuk"
+    },
+    {
+      "season": 14,
+      "episode": 39,
+      "title": "Bat Got Your Tongue/Haunted Theater",
+      "diziid": "vampiri",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/39/dilini_yarasa_tuttu__perili_tiyatro"
+    },
+    {
+      "season": 15,
+      "episode": 40,
+      "title": "Trick or Treaters/Play It Again Vee",
+      "diziid": "vampiri",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/40/seker_mi%2C_saka_mi__bastan_al%2C_vee"
+    },
+    {
+      "season": 16,
+      "episode": 41,
+      "title": "Jumping Jack-o-Lanterns/Freeze Our Guest",
+      "diziid": "vampiri",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/41/ziplayan_kabaktan_fenerler__misafiri_dondurmak"
+    },
+    {
+      "season": 17,
+      "episode": 42,
+      "title": "The Vamp-Opera/This Haunted House Is Closed",
+      "diziid": "vampiri",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/42/vampir_operasi__bu_hayaletli_ev_kapalidir"
+    },
+    {
+      "season": 18,
+      "episode": 43,
+      "title": "Dia de los Muertos/As You Wish",
+      "diziid": "vampiri",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/43/oluler_gunu__sen_nasil_istersen"
+    },
+    {
+      "season": 19,
+      "episode": 44,
+      "title": "The Scare Council/Taking Scare of Business",
+      "diziid": "vampiri",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/44/korku_konseyi__yarim_kalan_isler"
+    },
+    {
+      "season": 20,
+      "episode": 45,
+      "title": "The Hauntley Girls/The Not So Haunted House",
+      "diziid": "vampiri",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/45/hauntli_kizlari__o_kadar_da_perili_olmayan_ev"
+    },
+    {
+      "season": 21,
+      "episode": 46,
+      "title": "A Gargoyle Carol/Deliver-eeek!",
+      "diziid": "vampiri",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/46/canavarin_noel_sarkisi__vampir_teslimati"
+    },
+    {
+      "season": 22,
+      "episode": 47,
+      "title": "The Great Esmeralda/Frog's Breath",
+      "diziid": "vampiri",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/47/meshur_esmeralda__kurbaga_nefesi"
+    },
+    {
+      "season": 23,
+      "episode": 48,
+      "title": "Oh Brother/The Search for Bigfoot",
+      "diziid": "vampiri",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/48/hay_aksi%21__kocaayakin_pesinde"
+    },
+    {
+      "season": 24,
+      "episode": 49,
+      "title": "Au Revoir Remy/The School Scare Fair",
+      "diziid": "vampiri",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/49/gule_gule%2C_remy%21__okul_korku_senligi"
+    },
+    {
+      "season": 25,
+      "episode": 50,
+      "title": "Ghoul Guides Save the Day!",
+      "diziid": "vampiri",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/50/hortlak_rehberler_gunu_kurtariyor%21"
+    },
+    {
+      "season": 1,
+      "episode": 51,
+      "title": "Weekly Normalness/Vampire's Luck",
+      "diziid": "vampiri",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/51/haftalik_normallikler__vampir_sansi"
+    },
+    {
+      "season": 2,
+      "episode": 52,
+      "title": "A Key for Vee/Art Galler-eek!",
+      "diziid": "vampiri",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/52/vee_icin_bir_anahtar__sanat_galerisi"
+    },
+    {
+      "season": 3,
+      "episode": 53,
+      "title": "A Ghoulish Tour/Training Wings",
+      "diziid": "vampiri",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/53/dehset_bir_turne__egitim_kanatlari"
+    },
+    {
+      "season": 4,
+      "episode": 54,
+      "title": "Nosy's Day In/Sincerely, Blobby",
+      "diziid": "vampiri",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/54/nosynin_ziyareti__sevgiler%2C_blobby"
+    },
+    {
+      "season": 5,
+      "episode": 55,
+      "title": "Double Double Halloween Trouble/The Creepover",
+      "diziid": "vampiri",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/55/cifte_cadilar_bayrami_sorunu__urku_partisi"
+    },
+    {
+      "season": 6,
+      "episode": 56,
+      "title": "Phantom of the Auditorium/Memoreek!",
+      "diziid": "vampiri",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/56/konser_salonundaki_hayalet__kayip_anilar%21"
+    },
+    {
+      "season": 7,
+      "episode": 57,
+      "title": "Weekend with Granpop/Haunted House Call",
+      "diziid": "vampiri",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/57/dedemle_hafta_sonu__perili_evin_doktoru"
+    },
+    {
+      "season": 8,
+      "episode": 58,
+      "title": "The Critter Fair/Mirror Monster",
+      "diziid": "vampiri",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/58/yaratik_fuari__ayna_canavari"
+    },
+    {
+      "season": 9,
+      "episode": 59,
+      "title": "Bust Friends/The Invisible Fan",
+      "diziid": "vampiri",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/59/bust_arkadaslar__gorunmez_hayran"
+    },
+    {
+      "season": 10,
+      "episode": 60,
+      "title": "Remy's Recipe/Vampire Chaperone",
+      "diziid": "vampiri",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/60/remynin_tarifi__vampir_gozcu"
+    },
+    {
+      "season": 11,
+      "episode": 61,
+      "title": "Fang Ten!/Science Rocks",
+      "diziid": "vampiri",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/61/sorf_hayvanlari__bilim_taslari"
+    },
+    {
+      "season": 12,
+      "episode": 62,
+      "title": "Aw, Shucks/Family Scareloom",
+      "diziid": "vampiri",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/62/imdat__aile_yadigari"
+    },
+    {
+      "season": 13,
+      "episode": 63,
+      "title": "Chrysalis Amiss/Bringing Down the House",
+      "diziid": "vampiri",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/63/kayip_koza__ortam_yikiliyor"
+    },
+    {
+      "season": 14,
+      "episode": 64,
+      "title": "Bat to the Future/Gregoria Gets Down!",
+      "diziid": "vampiri",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/64/gelecege_donus__gregoria_dans_ediyor"
+    },
+    {
+      "season": 15,
+      "episode": 65,
+      "title": "Vee and the Family Stone/Twin Trouble",
+      "diziid": "vampiri",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/65/vee_ve_aile_tasi__ikiz_sorunu"
+    },
+    {
+      "season": 16,
+      "episode": 66,
+      "title": "Bora the Banshee/A Tale of Two Hollows",
+      "diziid": "vampiri",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/66/ciglik_perisi_bora__iki_arkadasin_hikayesi"
+    },
+    {
+      "season": 17,
+      "episode": 67,
+      "title": "The Fright Before Christmas/Scared Snowman",
+      "diziid": "vampiri",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/67/noel_oncesi_korku__korkmus_kardan_adam"
+    },
+    {
+      "season": 18,
+      "episode": 68,
+      "title": "New Century's Eve/Bridget The Brave",
+      "diziid": "vampiri",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/68/yeni_asir_arifesi__cesur_bridget"
+    },
+    {
+      "season": 19,
+      "episode": 69,
+      "title": "Hauntley Home Movies/Little Drummer Girl",
+      "diziid": "vampiri",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/69/hauntley_ev_videolari__kucuk_davulcu_kiz"
+    },
+    {
+      "season": 20,
+      "episode": 70,
+      "title": "The Magic Howl/Edgar the Ghoul Girl",
+      "diziid": "vampiri",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/70/sihirli_uluma__hortlak_kiz_edgar"
+    },
+    {
+      "season": 21,
+      "episode": 71,
+      "title": "April Ghoul's Day/Monster's New Bed",
+      "diziid": "vampiri",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/71/dehset_nisan_gunu__canavarin_yeni_yatagi"
+    },
+    {
+      "season": 22,
+      "episode": 72,
+      "title": "Making a Splash/The Spelling Vee",
+      "diziid": "vampiri",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/72/sularla_eglence__vamp_sihir_yarismasinda"
+    },
+    {
+      "season": 23,
+      "episode": 73,
+      "title": "The Curious Case of the Giggles/International Treasure",
+      "diziid": "vampiri",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/73/ilginc_kahkaha_vakasi__uluslararasi_hazine"
+    },
+    {
+      "season": 24,
+      "episode": 74,
+      "title": "Daddy's Little Ghoul/Chef Remy's Green Thumb",
+      "diziid": "vampiri",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/74/babasinin_kucuk_canavari__sef_remynin_yesil_parmagi"
+    },
+    {
+      "season": 25,
+      "episode": 75,
+      "title": "Home is Where the Hauntleys Are",
+      "diziid": "vampiri",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/vampiri/vampirina/75/hauntleyler_neredeyse_yuva_orada"
+    }
+  ]
+}

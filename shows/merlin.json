@@ -1,0 +1,429 @@
+{
+  "id": "merlin",
+  "title": "merlin",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/MERLINPoster.avif",
+  "channel": "CNBC-e",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Dragon's Call",
+      "diziid": "merlin",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/1/ejderhanin_cagrisi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Valiant",
+      "diziid": "merlin",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/2/cesur"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Mark of Nimueh",
+      "diziid": "merlin",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/3/nimuehun_isareti"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Poisoned Chalice",
+      "diziid": "merlin",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/4/zehirli_kadeh"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Lancelot",
+      "diziid": "merlin",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/5/lancelot"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "A Remedy to Cure All Ills",
+      "diziid": "merlin",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/6/tum_hastaliklara_care"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Gates of Avalon",
+      "diziid": "merlin",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/7/avalonun_kapilari"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Beginning of the End",
+      "diziid": "merlin",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/8/sonun_baslangici"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Excalibur",
+      "diziid": "merlin",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/9/excalibur"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Moment of Truth",
+      "diziid": "merlin",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/10/hakikatin_ani"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Labyrinth of Gedref",
+      "diziid": "merlin",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/11/gedref_labirenti"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "To Kill the King",
+      "diziid": "merlin",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/12/krali_oldurmek"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Le Morte d'Arthur",
+      "diziid": "merlin",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/13/arthurun_olumu"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "The Curse of Cornelius Sigan",
+      "diziid": "merlin",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/14/kornelius_siganin_laneti"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "The Once and Future Queen",
+      "diziid": "merlin",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/15/bir_zamanlar_ve_gelecekteki_kralice"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "The Nightmare Begins",
+      "diziid": "merlin",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/16/kabus_basliyor"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Lancelot and Guinevere",
+      "diziid": "merlin",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/17/lancelot_ve_guinevere"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Beauty and the Beast: Part One",
+      "diziid": "merlin",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/18/guzellik_ve_yaratik_-_bolum_1"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Beauty and the Beast: Part Two",
+      "diziid": "merlin",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/19/guzellik_ve_yaratik_-_bolum_2"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "The Witchfinder",
+      "diziid": "merlin",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/20/buyu_avcisi"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "The Sins of the Father",
+      "diziid": "merlin",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/21/babanin_gunahlari"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "The Lady of the Lake",
+      "diziid": "merlin",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/22/golun_leydisi"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Sweet Dreams",
+      "diziid": "merlin",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/23/tatli_ruyalar"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "The Witch's Quickening",
+      "diziid": "merlin",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/24/buyucunun_hizlanmasi"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "The Fires of Idirsholas",
+      "diziid": "merlin",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/25/idirsholasin_alevleri"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "The Last Dragonlord",
+      "diziid": "merlin",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/26/son_ejderha_lordu"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "The Tears of Uther Pendragon: Part One",
+      "diziid": "merlin",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/27/uther_pendragonun_gozyaslari_-_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "The Tears of Uther Pendragon: Part Two",
+      "diziid": "merlin",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/28/uther_pendragonun_gozyaslari_-_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Goblin's Gold",
+      "diziid": "merlin",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/29/goblinin_altini"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Gwaine",
+      "diziid": "merlin",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/30/gwaine"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "The Crystal Cave",
+      "diziid": "merlin",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/31/kristal_magarasi"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "The Changeling",
+      "diziid": "merlin",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/32/degisim"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "The Castle of Fyrien",
+      "diziid": "merlin",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/33/fyrien_satosu"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "The Eye of the Phoenix",
+      "diziid": "merlin",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/34/phoenixin_gozu"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Love in the Time of Dragons",
+      "diziid": "merlin",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/35/ejderhalarin_zamaninda_ask"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Queen of Hearts",
+      "diziid": "merlin",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/36/kalplerin_kralicesi"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "The Sorcerer's Shadow",
+      "diziid": "merlin",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/37/sihirbazin_golgesi"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "The Coming of Arthur: Part One",
+      "diziid": "merlin",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/38/arthurun_gelisi_-_bolum_1"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "The Coming of Arthur: Part Two",
+      "diziid": "merlin",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/39/arthurun_gelisi_-_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "The Darkest Hour: Part One",
+      "diziid": "merlin",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/40/en_karanlik_saat_-_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "The Darkest Hour: Part Two",
+      "diziid": "merlin",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/41/en_karanlik_saat_-_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 42,
+      "title": "The Wicked Day",
+      "diziid": "merlin",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/42/kotu_gun"
+    },
+    {
+      "season": 4,
+      "episode": 43,
+      "title": "Aithusa",
+      "diziid": "merlin",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/43/aithusa"
+    },
+    {
+      "season": 5,
+      "episode": 44,
+      "title": "His Father's Son",
+      "diziid": "merlin",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/44/babanin_oglu"
+    },
+    {
+      "season": 6,
+      "episode": 45,
+      "title": "A Servant of Two Masters",
+      "diziid": "merlin",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/45/iki_efendinin_hizmetkari"
+    },
+    {
+      "season": 7,
+      "episode": 46,
+      "title": "The Secret Sharer",
+      "diziid": "merlin",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/46/gizli_ortak"
+    },
+    {
+      "season": 8,
+      "episode": 47,
+      "title": "Lamia",
+      "diziid": "merlin",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/47/lamia"
+    },
+    {
+      "season": 9,
+      "episode": 48,
+      "title": "Lancelot du Lac",
+      "diziid": "merlin",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/48/lancelot_du_lac"
+    },
+    {
+      "season": 10,
+      "episode": 49,
+      "title": "A Herald of the New Age",
+      "diziid": "merlin",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/49/yeni_cagin_habercisi"
+    },
+    {
+      "season": 11,
+      "episode": 50,
+      "title": "The Hunter's Heart",
+      "diziid": "merlin",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/50/avcinin_kalbi"
+    },
+    {
+      "season": 12,
+      "episode": 51,
+      "title": "The Sword in the Stone: Part One",
+      "diziid": "merlin",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/51/tastaki_kilic_-_bolum_1"
+    },
+    {
+      "season": 13,
+      "episode": 52,
+      "title": "The Sword in the Stone: Part Two",
+      "diziid": "merlin",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/merlin/merlin/52/tastaki_kilic_-_bolum_2"
+    }
+  ]
+}

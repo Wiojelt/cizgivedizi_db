@@ -1,0 +1,821 @@
+{
+  "id": "hamo",
+  "title": "hannah montana",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/HAMOPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "MÃ¼zik/MÃ¼zikal",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Lilly, Do You Want to Know a Secret?",
+      "diziid": "hamo",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/1/lilly%2C_bir_sir_bilmek_ister_misin"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Miley Get Your Gum",
+      "diziid": "hamo",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/2/ask_sakizi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "She's a Supersneak",
+      "diziid": "hamo",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/3/gizli_gorev_basinda"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "I Can't Make You Love Hannah If You Don't",
+      "diziid": "hamo",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/4/ya_seversin_ya_sevmezsin"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "It's My Party, and I'll Lie If I Want To",
+      "diziid": "hamo",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/5/parti_endisesi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Grandmas Don't Let Your Babies Grow Up to Play Favorites",
+      "diziid": "hamo",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/6/ilgisiz_kaldim"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "It's a Mannequin's World",
+      "diziid": "hamo",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/7/umdugunu_degil_buldugunu_giy"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Mascot Love",
+      "diziid": "hamo",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/8/mutevazi_maskot"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Ooo, Ooo, Itchy Woman",
+      "diziid": "hamo",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/9/aci_intikam"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "O Say, Can You Remember the Words?",
+      "diziid": "hamo",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/10/sahne_heyecani"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Oops! I Meddled Again",
+      "diziid": "hamo",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/11/karismayacaktim"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "On the Road Again",
+      "diziid": "hamo",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/12/ikinci_sans"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "You're So Vain, You Probably Think This Zit is About You",
+      "diziid": "hamo",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/13/insanin_ici_guzel_olsun"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "New Kid in School",
+      "diziid": "hamo",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/14/okulda_yeni_ogrenci"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "More Than a Zombie to Me",
+      "diziid": "hamo",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/15/zombiyi_opersen_olacagi_buydu"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Good Golly, Miss Dolly",
+      "diziid": "hamo",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/16/dolly_teyze%2C_hos_geldin"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Torn Between Two Hannahs",
+      "diziid": "hamo",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/17/iki_hannah_arasinda"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "People Who Use People",
+      "diziid": "hamo",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/18/ders_olsun"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Money for Nothing, Guilt for Free",
+      "diziid": "hamo",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/19/hayirseverler"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Debt It Be",
+      "diziid": "hamo",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/20/kartin_varsa_derdin_var"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "My Boyfriend's Jackson and There's Gonna Be Trouble",
+      "diziid": "hamo",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/21/garip_ciftler"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "We Are Family - Now Get Me Some Water!",
+      "diziid": "hamo",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/22/biz_bir_aileyiz"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Schooly Bully",
+      "diziid": "hamo",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/23/roxy_is_basinda"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Idol Side of Me",
+      "diziid": "hamo",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/24/haset"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Smells Like Teen Sellout",
+      "diziid": "hamo",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/25/gercek_seni_ozgur_kilar"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Bad Moose Rising",
+      "diziid": "hamo",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/26/bahse_var_misin"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Me and Rico Down by the School Yard",
+      "diziid": "hamo",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/27/santaj_ha"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Cuffs Will Keep Us Together",
+      "diziid": "hamo",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/28/kelepcelendik"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "You Are So Sue-able to Me",
+      "diziid": "hamo",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/29/adalet_acitir"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Get Down, Study-udy-udy",
+      "diziid": "hamo",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/30/bekle_beni_avrupa"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "I Am Hannah, Hear Me Croak",
+      "diziid": "hamo",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/31/sesim_gitmis"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "You Gotta Not Fight for Your Right to Party",
+      "diziid": "hamo",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/32/kardes_didismesi"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "My Best Friend's Boyfriend",
+      "diziid": "hamo",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/33/arkadasimi_ezdirmem"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Take This Job and Love It",
+      "diziid": "hamo",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/34/beni_senden_kurtar"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Achy Jakey Heart (Part 1)",
+      "diziid": "hamo",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/35/yalan_olmaz_1._bolum"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Achy Jakey Heart (Part 2)",
+      "diziid": "hamo",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/36/yalan_olmaz_2._bolum"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Sleepwalk This Way",
+      "diziid": "hamo",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/37/vicdan_uyutmaz"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "When You Wish You Were the Star",
+      "diziid": "hamo",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/38/keske_bir_yildiz_olsam"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "I Want You to Want Me... To Go to Florida",
+      "diziid": "hamo",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/39/yardim_konseri"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "Everybody Was Best Friend Fighting",
+      "diziid": "hamo",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/40/en_iyi_arkadaslarin_isi_zor"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "Song Sung Bad",
+      "diziid": "hamo",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/41/bir_yildiz_mi_doguyor"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Me and Mr. Jonas and Mr. Jonas and Mr. Jonas",
+      "diziid": "hamo",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/42/jonas_kardesler"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Don't Stop 'Til You Get the Phone",
+      "diziid": "hamo",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/43/asla_vazgecmem"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "That's What Friends Are For?",
+      "diziid": "hamo",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/44/arkadas_kalalim_mi"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "Lilly's Mom Has Got It Goin' On",
+      "diziid": "hamo",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/45/kardes_oluruz_belki"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "I Will Always Loathe You",
+      "diziid": "hamo",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/46/ezeli_dusman"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "Bye Bye Ball",
+      "diziid": "hamo",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/47/kana_kan_goze_goz"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "(We're So Sorry) Uncle Earl",
+      "diziid": "hamo",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/48/uzgunuz_earl_amca"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "The Way We Almost Weren't",
+      "diziid": "hamo",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/49/gecmise_yolculuk"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "You Didn't Say It Was Your Birthday",
+      "diziid": "hamo",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/50/surpriz_parti"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "Hannah in the Streets with Diamonds",
+      "diziid": "hamo",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/51/hannah_sohret_yolunda"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "Yet Another Side of Me",
+      "diziid": "hamo",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/52/yeni_ben"
+    },
+    {
+      "season": 27,
+      "episode": 53,
+      "title": "Joannie B. Goode",
+      "diziid": "hamo",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/53/kotu_joannie"
+    },
+    {
+      "season": 28,
+      "episode": 54,
+      "title": "The Test of My Love",
+      "diziid": "hamo",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/54/ask_sinavi"
+    },
+    {
+      "season": 29,
+      "episode": 55,
+      "title": "We're All on This Date Together",
+      "diziid": "hamo",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/55/hep_birlikte"
+    },
+    {
+      "season": 1,
+      "episode": 56,
+      "title": "He Ain't a Hottie, He's My Brother",
+      "diziid": "hamo",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/56/kabus"
+    },
+    {
+      "season": 2,
+      "episode": 57,
+      "title": "Ready, Set, Don't Drive",
+      "diziid": "hamo",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/57/ehliyet_sinavi"
+    },
+    {
+      "season": 3,
+      "episode": 58,
+      "title": "Don't Go Breaking My Tooth",
+      "diziid": "hamo",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/58/disci_korkusu"
+    },
+    {
+      "season": 4,
+      "episode": 59,
+      "title": "You Never Give Me My Money",
+      "diziid": "hamo",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/59/yuklu_para"
+    },
+    {
+      "season": 5,
+      "episode": 60,
+      "title": "Killing Me Softly with His Height",
+      "diziid": "hamo",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/60/yukaridan_bakma"
+    },
+    {
+      "season": 6,
+      "episode": 61,
+      "title": "Would I Lie to You, Lilly?",
+      "diziid": "hamo",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/61/sensiz_olmaz_lilly"
+    },
+    {
+      "season": 7,
+      "episode": 62,
+      "title": "You Gotta Lose That Job",
+      "diziid": "hamo",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/62/dostluk_ispati"
+    },
+    {
+      "season": 8,
+      "episode": 63,
+      "title": "Welcome to the Bungle",
+      "diziid": "hamo",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/63/kotu_ornek"
+    },
+    {
+      "season": 9,
+      "episode": 64,
+      "title": "Papa's Got a Brand New Friend",
+      "diziid": "hamo",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/64/babamin_yeni_dostu"
+    },
+    {
+      "season": 10,
+      "episode": 65,
+      "title": "Cheat It",
+      "diziid": "hamo",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/65/hile_yapmak_yok"
+    },
+    {
+      "season": 11,
+      "episode": 66,
+      "title": "Knock Knock Knockin' on Jackson's Head",
+      "diziid": "hamo",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/66/kafa_travmasi"
+    },
+    {
+      "season": 12,
+      "episode": 67,
+      "title": "You Give Lunch a Bad Name",
+      "diziid": "hamo",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/67/kisa_suren_sevinc"
+    },
+    {
+      "season": 13,
+      "episode": 68,
+      "title": "What I Don't Like About You",
+      "diziid": "hamo",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/68/bir_taraf_sec"
+    },
+    {
+      "season": 14,
+      "episode": 69,
+      "title": "Promma Mia",
+      "diziid": "hamo",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/69/balo"
+    },
+    {
+      "season": 15,
+      "episode": 70,
+      "title": "Once, Twice, Three Times Afraidy",
+      "diziid": "hamo",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/70/korkunc%2C_daha_korkunc%2C_en_korkunc"
+    },
+    {
+      "season": 16,
+      "episode": 71,
+      "title": "Jake... Another Little Piece of My Heart",
+      "diziid": "hamo",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/71/jakein_dugunu"
+    },
+    {
+      "season": 17,
+      "episode": 72,
+      "title": "Miley Hurt the Feelings of the Radio Star",
+      "diziid": "hamo",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/72/radyonun_yildizi"
+    },
+    {
+      "season": 18,
+      "episode": 73,
+      "title": "He Could Be the One (Part 1 of 2)",
+      "diziid": "hamo",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/73/jake_mi_jesse_mi_1._bolum"
+    },
+    {
+      "season": 19,
+      "episode": 74,
+      "title": "He Could Be the One (Part 2 of 2)",
+      "diziid": "hamo",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/74/jake_mi_jesse_mi_2._bolum"
+    },
+    {
+      "season": 20,
+      "episode": 75,
+      "title": "Super(stitious) Girl",
+      "diziid": "hamo",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/75/sanssizliklar_zinciri"
+    },
+    {
+      "season": 21,
+      "episode": 76,
+      "title": "I Honestly Love You (No, Not You)",
+      "diziid": "hamo",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/76/beyan-i_ask"
+    },
+    {
+      "season": 22,
+      "episode": 77,
+      "title": "For (Give) a Little Bit",
+      "diziid": "hamo",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/77/beni_affet"
+    },
+    {
+      "season": 23,
+      "episode": 78,
+      "title": "B-B-B-Bad to the Chrome",
+      "diziid": "hamo",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/78/her_seyin_yenisi_askin_eskisi"
+    },
+    {
+      "season": 24,
+      "episode": 79,
+      "title": "Uptight (Oliver's Alright)",
+      "diziid": "hamo",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/79/oliver_ve_hemsire"
+    },
+    {
+      "season": 25,
+      "episode": 80,
+      "title": "Judge Me Tender",
+      "diziid": "hamo",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/80/yetenek_oliverdir"
+    },
+    {
+      "season": 26,
+      "episode": 81,
+      "title": "Can't Get Home to You, Girl",
+      "diziid": "hamo",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/81/beni_arkadasima_goturun"
+    },
+    {
+      "season": 27,
+      "episode": 82,
+      "title": "Come Fail Away",
+      "diziid": "hamo",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/82/basarisizlik_acitir"
+    },
+    {
+      "season": 28,
+      "episode": 83,
+      "title": "Got to Get Her Out of My House",
+      "diziid": "hamo",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/83/temizlik_cadisi"
+    },
+    {
+      "season": 29,
+      "episode": 84,
+      "title": "The Wheel Near My Bed (Keeps on Turnin')",
+      "diziid": "hamo",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/84/uykusuz_gece"
+    },
+    {
+      "season": 30,
+      "episode": 85,
+      "title": "Miley Says Goodbye? (Part 1 of 2)",
+      "diziid": "hamo",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/85/gule_gule_mi%2C_miley_1._bolum"
+    },
+    {
+      "season": 31,
+      "episode": 86,
+      "title": "Miley Says Goodbye? (Part 2 of 2)",
+      "diziid": "hamo",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/86/gule_gule_mi%2C_miley_2._bolum"
+    },
+    {
+      "season": 1,
+      "episode": 87,
+      "title": "Sweet Home Hannah Montana",
+      "diziid": "hamo",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/87/yeni_ev%2C_eski_oda"
+    },
+    {
+      "season": 2,
+      "episode": 88,
+      "title": "Hannah Montana to the Principal's Office",
+      "diziid": "hamo",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/88/hannah_montana%2C_okul_muduru_seni_cagiriyor"
+    },
+    {
+      "season": 3,
+      "episode": 89,
+      "title": "California Screamin'",
+      "diziid": "hamo",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/89/copcatan_kizlar"
+    },
+    {
+      "season": 4,
+      "episode": 90,
+      "title": "De-Do-Do-Do, Da-Don't-Don't-Don't Tell My Secret!",
+      "diziid": "hamo",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/90/hannahnin_sirri"
+    },
+    {
+      "season": 5,
+      "episode": 91,
+      "title": "It's the End of the Jake as We Know It",
+      "diziid": "hamo",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/91/jake%2C_bittin_sen"
+    },
+    {
+      "season": 6,
+      "episode": 92,
+      "title": "Been Here All Along",
+      "diziid": "hamo",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/92/baba-kiz_gunu"
+    },
+    {
+      "season": 7,
+      "episode": 93,
+      "title": "Love That Let's Go",
+      "diziid": "hamo",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/93/korkusuz_olalim"
+    },
+    {
+      "season": 8,
+      "episode": 94,
+      "title": "Hannah's Gonna Get This",
+      "diziid": "hamo",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/94/bonus_parca"
+    },
+    {
+      "season": 9,
+      "episode": 95,
+      "title": "I'll Always Remember You (Part 1)",
+      "diziid": "hamo",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/95/seni_her_zaman_hatirlayacagim_1._bolum"
+    },
+    {
+      "season": 10,
+      "episode": 96,
+      "title": "I'll Always Remember You (Part 2)",
+      "diziid": "hamo",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/96/seni_her_zaman_hatirlayacagim_2._bolum"
+    },
+    {
+      "season": 11,
+      "episode": 97,
+      "title": "Can You See the Real Me?",
+      "diziid": "hamo",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/97/buyuk_itiraf"
+    },
+    {
+      "season": 12,
+      "episode": 98,
+      "title": "Kiss It All Goodbye",
+      "diziid": "hamo",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/98/superstar_miley"
+    },
+    {
+      "season": 13,
+      "episode": 99,
+      "title": "I Am Mamaw, Hear Me Roar!",
+      "diziid": "hamo",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/99/yeni_hayat%2C_yeni_sorunlar"
+    },
+    {
+      "season": 14,
+      "episode": 100,
+      "title": "Wherever I Go (Part 1 of 2)",
+      "diziid": "hamo",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/100/sen_hep_benimlesin_1._bolum"
+    },
+    {
+      "season": 15,
+      "episode": 101,
+      "title": "Wherever I Go (Part 2 of 2)",
+      "diziid": "hamo",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/hamo/hannah_montana/101/sen_hep_benimlesin_2._bolum"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "id": "topo",
+  "title": "topo gigio",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TOPOPoster.avif",
+  "channel": "Spacetoon",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Hiccup",
+      "diziid": "topo",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/1/aksilik"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Lucky Gigio",
+      "diziid": "topo",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/2/sansli_gigio"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Journey to Mars",
+      "diziid": "topo",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/3/mars%E2%80%99a_yolculuk"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Judo Lesson",
+      "diziid": "topo",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/4/judo_dersi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Bob the Bomb!",
+      "diziid": "topo",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/5/bomba_bob%21"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Ghost in the Night",
+      "diziid": "topo",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/6/gece_hayaleti"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Special Agent",
+      "diziid": "topo",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/7/ozel_ajan"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Super Attractive",
+      "diziid": "topo",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/8/super_duper"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Mr. Garden",
+      "diziid": "topo",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/9/bay_bahce"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Bling Bling",
+      "diziid": "topo",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/10/bling_bling%21"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Comet",
+      "diziid": "topo",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/11/kuyruklu_yildiz"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Zoe's Secret Diary",
+      "diziid": "topo",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/12/zoenin_gunlugu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Disaster Flavor Cookies",
+      "diziid": "topo",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/13/afet_aromali_kurabiyeler"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Great Escape",
+      "diziid": "topo",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/14/buyuk_kacis"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "The Big Race",
+      "diziid": "topo",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/16/buyuk_yaris"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "Oz the Magician",
+      "diziid": "topo",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/17/buyucu_oz"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "The Big Egg",
+      "diziid": "topo",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/18/buyuk_yumurta"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "The Hockey Rink",
+      "diziid": "topo",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/19/hokey_pisti"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "Whatever Happened to Abby Jane?",
+      "diziid": "topo",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/20/abby_janee_ne_oldu"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "S.O.S. Plant",
+      "diziid": "topo",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/21/acil_durum_bitkisi%21"
+    },
+    {
+      "season": 28,
+      "episode": 21,
+      "title": "Romeo, Bob and Juliet",
+      "diziid": "topo",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/28/mutlu_son"
+    },
+    {
+      "season": 29,
+      "episode": 22,
+      "title": "Ultra-Zoe",
+      "diziid": "topo",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/29/ultra_zoe"
+    },
+    {
+      "season": 30,
+      "episode": 23,
+      "title": "The Sound of Friendship",
+      "diziid": "topo",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/30/dostluk_melodisi"
+    },
+    {
+      "season": 31,
+      "episode": 24,
+      "title": "The Special Evening",
+      "diziid": "topo",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/31/film_gecesi"
+    },
+    {
+      "season": 32,
+      "episode": 25,
+      "title": "The Shooting",
+      "diziid": "topo",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/32/fotograf_cekimi"
+    },
+    {
+      "season": 33,
+      "episode": 26,
+      "title": "Biopark Mission",
+      "diziid": "topo",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/33/biopark"
+    },
+    {
+      "season": 34,
+      "episode": 27,
+      "title": "The Saving",
+      "diziid": "topo",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/34/kurtarma"
+    },
+    {
+      "season": 35,
+      "episode": 28,
+      "title": "The Professional Tidiers",
+      "diziid": "topo",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/35/profesyonel_toparlayici"
+    },
+    {
+      "season": 37,
+      "episode": 29,
+      "title": "Professor Cormorant",
+      "diziid": "topo",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/37/profesor_cornacchia"
+    },
+    {
+      "season": 38,
+      "episode": 30,
+      "title": "Please, Don't Go, Bob!",
+      "diziid": "topo",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/38/lutfen_gitme_bob"
+    },
+    {
+      "season": 40,
+      "episode": 31,
+      "title": "The Close Encounter",
+      "diziid": "topo",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/topo/topo_gigio/40/yaklasan_yuzlesme"
+    }
+  ]
+}

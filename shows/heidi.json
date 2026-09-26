@@ -1,0 +1,420 @@
+{
+  "id": "heidi",
+  "title": "heidi",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/HEIDIPoster.avif",
+  "channel": "TRT 1",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "To the Alm Mountains",
+      "diziid": "heidi",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/1/daga"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Grandpa's Mountain Cabin",
+      "diziid": "heidi",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/2/buyukbabamin_evinde"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "In the Meadow",
+      "diziid": "heidi",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/3/meralara"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Another Family Member",
+      "diziid": "heidi",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/4/ailede_biri_daha"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Burnt Letter",
+      "diziid": "heidi",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/5/yanmis_mektup"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Sound Out, Whistle",
+      "diziid": "heidi",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/6/daha_yuksek_islik_calin"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Sound of the Fir Tree",
+      "diziid": "heidi",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/7/koknarin_fisiltisi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Where Have You Gone, Picchi",
+      "diziid": "heidi",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/8/pichi_nereye_gitti"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Silver-White Alps",
+      "diziid": "heidi",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/9/karli_alpler"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "To Grandma's House",
+      "diziid": "heidi",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/10/buyukanneyi_ziyaret"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "One Day in a Snowstorm",
+      "diziid": "heidi",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/11/kar_firtinasi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Sound of Spring",
+      "diziid": "heidi",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/12/bahar_sesleri"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "And to the Meadow",
+      "diziid": "heidi",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/13/meadowsa_donus"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Sad News",
+      "diziid": "heidi",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/14/uzucu_haber"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Yuki-chan",
+      "diziid": "heidi",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/15/kar_tanesi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Town of DÃ¶rfli",
+      "diziid": "heidi",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/16/dorfli"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Two Guests",
+      "diziid": "heidi",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/17/beklenmeyen_ziyaretciler"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Separate Ways",
+      "diziid": "heidi",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/18/kalkis"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "To Frankfurt",
+      "diziid": "heidi",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/19/frankfurt_yolunda"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "A New Life",
+      "diziid": "heidi",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/20/yeni_bir_hayat"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "I Want to Fly Free",
+      "diziid": "heidi",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/21/ucmak_istiyorum"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "Big Commotion",
+      "diziid": "heidi",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/23/buyuk_kargasa"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "Mee-chan Thrown Away",
+      "diziid": "heidi",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/24/sokak_kedisi"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "White Bread",
+      "diziid": "heidi",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/25/beyaz_ekmekler"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "Sesemann's Return",
+      "diziid": "heidi",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/26/bay_sesemannin_donusu"
+    },
+    {
+      "season": 27,
+      "episode": 26,
+      "title": "Grandma",
+      "diziid": "heidi",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/27/baska_bir_buyukanne"
+    },
+    {
+      "season": 28,
+      "episode": 27,
+      "title": "Let's Go to the Forest",
+      "diziid": "heidi",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/28/ormana_tur"
+    },
+    {
+      "season": 29,
+      "episode": 28,
+      "title": "Two Hearts",
+      "diziid": "heidi",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/29/iki_kalp"
+    },
+    {
+      "season": 30,
+      "episode": 29,
+      "title": "I Want to Catch the Sun",
+      "diziid": "heidi",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/30/gunesi_yakalamak_istiyorum"
+    },
+    {
+      "season": 31,
+      "episode": 30,
+      "title": "Goodbye, Grandma",
+      "diziid": "heidi",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/31/hosca_kal_buyukanne"
+    },
+    {
+      "season": 32,
+      "episode": 31,
+      "title": "Night of the Storm",
+      "diziid": "heidi",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/32/zor_bir_gece"
+    },
+    {
+      "season": 33,
+      "episode": 32,
+      "title": "Ghost Commotion",
+      "diziid": "heidi",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/33/hayalet_kargasasi"
+    },
+    {
+      "season": 34,
+      "episode": 33,
+      "title": "To My Dear Alps",
+      "diziid": "heidi",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/34/sevgili_daglarima"
+    },
+    {
+      "season": 35,
+      "episode": 34,
+      "title": "Alps Starry Sky",
+      "diziid": "heidi",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/35/alplerin_yildizli_gokyuzu"
+    },
+    {
+      "season": 36,
+      "episode": 35,
+      "title": "Back to the Meadow",
+      "diziid": "heidi",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/36/ve_meralara"
+    },
+    {
+      "season": 37,
+      "episode": 36,
+      "title": "Goat's Baby",
+      "diziid": "heidi",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/37/kecinin_bebegi"
+    },
+    {
+      "season": 38,
+      "episode": 37,
+      "title": "In a New House",
+      "diziid": "heidi",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/38/yeni_evde"
+    },
+    {
+      "season": 39,
+      "episode": 38,
+      "title": "Don't Give Up, Peter",
+      "diziid": "heidi",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/39/pes_etme_peter"
+    },
+    {
+      "season": 40,
+      "episode": 39,
+      "title": "I Want to Go to the Alps",
+      "diziid": "heidi",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/40/alplere_gitmek_istiyorum"
+    },
+    {
+      "season": 41,
+      "episode": 40,
+      "title": "Doctor's Promise",
+      "diziid": "heidi",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/41/doktorun_sozu"
+    },
+    {
+      "season": 42,
+      "episode": 41,
+      "title": "Reunion with Clara",
+      "diziid": "heidi",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/42/tekrar_clara_ile"
+    },
+    {
+      "season": 43,
+      "episode": 42,
+      "title": "Clara's Wish",
+      "diziid": "heidi",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/43/claranin_dilegi"
+    },
+    {
+      "season": 44,
+      "episode": 43,
+      "title": "A Little Plan",
+      "diziid": "heidi",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/44/kucuk_bir_plan"
+    },
+    {
+      "season": 45,
+      "episode": 44,
+      "title": "Children of the Mountain",
+      "diziid": "heidi",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/45/dagin_cocuklari"
+    },
+    {
+      "season": 46,
+      "episode": 45,
+      "title": "Clara's Happiness",
+      "diziid": "heidi",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/46/claranin_mutlulugu"
+    },
+    {
+      "season": 47,
+      "episode": 46,
+      "title": "Hello, Grandma",
+      "diziid": "heidi",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/47/merhaba_buyukanne%21"
+    },
+    {
+      "season": 48,
+      "episode": 47,
+      "title": "A Little Hope",
+      "diziid": "heidi",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/48/kucuk_bir_umut"
+    },
+    {
+      "season": 49,
+      "episode": 48,
+      "title": "A Promise",
+      "diziid": "heidi",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/49/bir_soz"
+    },
+    {
+      "season": 50,
+      "episode": 49,
+      "title": "Try to Stand",
+      "diziid": "heidi",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/50/ayagi_kalkmayi_dene"
+    },
+    {
+      "season": 51,
+      "episode": 50,
+      "title": "Clara Walked",
+      "diziid": "heidi",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/51/claranin_yuruyusleri"
+    },
+    {
+      "season": 52,
+      "episode": 51,
+      "title": "Till We Meet Again",
+      "diziid": "heidi",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/heidi/heidi/52/tekrar_bulusana_kadar"
+    }
+  ]
+}

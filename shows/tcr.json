@@ -1,0 +1,413 @@
+{
+  "id": "tcr",
+  "title": "thundercats roar!",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TCRPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Aksiyon",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Exodus Part One",
+      "diziid": "tcr",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/1/goc_1.bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Exodus Part Two",
+      "diziid": "tcr",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/2/goc_2.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Legend of Boggy Ben",
+      "diziid": "tcr",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/3/boogy_ben_efsanesi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Prank Call",
+      "diziid": "tcr",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/4/telefon_sakasi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Driller",
+      "diziid": "tcr",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/5/matkap"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Secret of the Unicorn",
+      "diziid": "tcr",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/6/unicorn_sirri"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Panthro Plagiarized!",
+      "diziid": "tcr",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/7/panthronun_heyecanlari"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Warrior Maiden Invasion",
+      "diziid": "tcr",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/8/savasci_kadinlarin_istilasi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Lost Sword",
+      "diziid": "tcr",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/9/kayip_kilic"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Horror of Hook Mountain",
+      "diziid": "tcr",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/10/kanca_dagindaki_korku"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "ThunderSlobs",
+      "diziid": "tcr",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/11/pasakli_thundercats"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Working Grrrl",
+      "diziid": "tcr",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/12/is_hayati"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Mandora -- The Evil Chaser",
+      "diziid": "tcr",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/13/kotu_avcisi_mandora"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Dr. Dometome",
+      "diziid": "tcr",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/14/dr._dometome"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Study Time",
+      "diziid": "tcr",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/15/ders_zamani"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Mumm-Ra, the Ever-Living",
+      "diziid": "tcr",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/16/daima_kaybeden_mumm-ra"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Berserkers",
+      "diziid": "tcr",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/17/vahsi_savascilar"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Jaga History",
+      "diziid": "tcr",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/18/jaganin_tarih_dersi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Barbastella",
+      "diziid": "tcr",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/19/barbar_stella_yatagi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Adopt a Jackal",
+      "diziid": "tcr",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/20/jackalmane_sahip_cikmak"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Summer Fun Day!",
+      "diziid": "tcr",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/21/eglenceli_yaz_gunu"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Safari Joe",
+      "diziid": "tcr",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/22/safari_joe"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Ratar-O",
+      "diziid": "tcr",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/23/ratar-o"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Prince Starling's Quest",
+      "diziid": "tcr",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/24/prens_starlingin_arastirmasi"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Lion-S",
+      "diziid": "tcr",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/25/lion-s"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Snarf's Day Off",
+      "diziid": "tcr",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/26/snarfin_izin_gunu"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Mumm-Ra of Plun-Darr, Part 1",
+      "diziid": "tcr",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/27/plun-darr_kilici_mumm-rada_1.bolum"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Mumm-Ra of Plun-Darr, Part 2",
+      "diziid": "tcr",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/28/plun-darr_kilici_mumm-rada_2.bolum"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Mandora's Law",
+      "diziid": "tcr",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/29/mandora_yasalari"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Thunder Road",
+      "diziid": "tcr",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/30/thunder_yolu"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Corporate Buyout",
+      "diziid": "tcr",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/31/sirket_adami"
+    },
+    {
+      "season": 33,
+      "episode": 32,
+      "title": "Schnorp",
+      "diziid": "tcr",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/33/schnorp_ve_yaban_mersini_macerasi"
+    },
+    {
+      "season": 34,
+      "episode": 33,
+      "title": "Berb-cules",
+      "diziid": "tcr",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/34/berbil_herkul"
+    },
+    {
+      "season": 35,
+      "episode": 34,
+      "title": "Pumm-Ra",
+      "diziid": "tcr",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/35/pumm-ra"
+    },
+    {
+      "season": 36,
+      "episode": 35,
+      "title": "King of the Machines",
+      "diziid": "tcr",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/36/makineler_krali"
+    },
+    {
+      "season": 37,
+      "episode": 36,
+      "title": "Sword Heist",
+      "diziid": "tcr",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/37/intikam_kilici"
+    },
+    {
+      "season": 38,
+      "episode": 37,
+      "title": "Claudus",
+      "diziid": "tcr",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/38/claudus"
+    },
+    {
+      "season": 39,
+      "episode": 38,
+      "title": "Telethon",
+      "diziid": "tcr",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/39/bagis_programi"
+    },
+    {
+      "season": 40,
+      "episode": 39,
+      "title": "Mall-Ra",
+      "diziid": "tcr",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/40/avm-ra"
+    },
+    {
+      "season": 41,
+      "episode": 40,
+      "title": "Eclipsorr",
+      "diziid": "tcr",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/41/tutulma"
+    },
+    {
+      "season": 42,
+      "episode": 41,
+      "title": "Wizz-Ra",
+      "diziid": "tcr",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/42/wizz-ra"
+    },
+    {
+      "season": 43,
+      "episode": 42,
+      "title": "ThunderDogs",
+      "diziid": "tcr",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/43/cici_kopek"
+    },
+    {
+      "season": 44,
+      "episode": 43,
+      "title": "Mini Mongor",
+      "diziid": "tcr",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/44/mini_mongor"
+    },
+    {
+      "season": 45,
+      "episode": 44,
+      "title": "Swampy Johnny",
+      "diziid": "tcr",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/45/bataklik_johnny"
+    },
+    {
+      "season": 46,
+      "episode": 45,
+      "title": "Tygra's Garden",
+      "diziid": "tcr",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/46/tygranin_dugunu"
+    },
+    {
+      "season": 47,
+      "episode": 46,
+      "title": "The Spacebeam",
+      "diziid": "tcr",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/47/uzay_isini"
+    },
+    {
+      "season": 48,
+      "episode": 47,
+      "title": "Plundsmas",
+      "diziid": "tcr",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/48/plun-darr_bayrami"
+    },
+    {
+      "season": 49,
+      "episode": 48,
+      "title": "Killing Time",
+      "diziid": "tcr",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/49/zamanda_yolculuk"
+    },
+    {
+      "season": 50,
+      "episode": 49,
+      "title": "Grune",
+      "diziid": "tcr",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/50/grune"
+    },
+    {
+      "season": 51,
+      "episode": 50,
+      "title": "The First Thundsgiving",
+      "diziid": "tcr",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/tcr/thundercats_roar%21/51/ilk_thundera_gunu"
+    }
+  ]
+}

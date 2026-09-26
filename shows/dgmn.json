@@ -1,0 +1,526 @@
+{
+  "id": "dgmn",
+  "title": "digimon",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/DGMNPoster.avif",
+  "channel": "Kanal D",
+  "genres": [
+    "Aksiyon",
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 36,
+      "episode": 1,
+      "title": "City Under Siege",
+      "diziid": "dgmn",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/36/bariyeri_yok_et%21"
+    },
+    {
+      "season": 37,
+      "episode": 2,
+      "title": "Wizardmon's Gift",
+      "diziid": "dgmn",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/37/tum_gelismeler%21"
+    },
+    {
+      "season": 38,
+      "episode": 3,
+      "title": "Prophecy",
+      "diziid": "dgmn",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/38/canlan%21"
+    },
+    {
+      "season": 39,
+      "episode": 4,
+      "title": "The Battle for Earth",
+      "diziid": "dgmn",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/39/iki_muhtesem_son_seviye_gelisimi%21"
+    },
+    {
+      "season": 43,
+      "episode": 5,
+      "title": "Playing Games",
+      "diziid": "dgmn",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/43/tehlikeli_oyun%21"
+    },
+    {
+      "season": 45,
+      "episode": 6,
+      "title": "The Ultimate Clash",
+      "diziid": "dgmn",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/45/son_seviyelerin_carpismasi%21"
+    },
+    {
+      "season": 46,
+      "episode": 7,
+      "title": "Etemon's Comeback Tour",
+      "diziid": "dgmn",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/46/metaletemonun_karsi_saldirisi%21"
+    },
+    {
+      "season": 48,
+      "episode": 8,
+      "title": "My Sister's Keeper",
+      "diziid": "dgmn",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/48/bombalama_emri%21"
+    },
+    {
+      "season": 49,
+      "episode": 9,
+      "title": "The Crest of Light",
+      "diziid": "dgmn",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/49/hosca_kal%2C_numemon%21"
+    },
+    {
+      "season": 50,
+      "episode": 10,
+      "title": "Joe's Battle",
+      "diziid": "dgmn",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/50/bir_kadin_dovuscu%21"
+    },
+    {
+      "season": 51,
+      "episode": 11,
+      "title": "The Crest of Friendship",
+      "diziid": "dgmn",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/51/cehennemden_bir_palyaco%21"
+    },
+    {
+      "season": 52,
+      "episode": 12,
+      "title": "Piedmon's Last Jest",
+      "diziid": "dgmn",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/52/kutsal_silahsor%21"
+    },
+    {
+      "season": 53,
+      "episode": 13,
+      "title": "Now Apocalymon",
+      "diziid": "dgmn",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/53/son_kotu_digimon%21"
+    },
+    {
+      "season": 54,
+      "episode": 14,
+      "title": "The Fate of Two Worlds",
+      "diziid": "dgmn",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/54/yeni_bir_dunya%21"
+    },
+    {
+      "season": 1,
+      "episode": 15,
+      "title": "Enter Flamedramon",
+      "diziid": "dgmn",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/55/cesareti_devralacak_birisi%21"
+    },
+    {
+      "season": 2,
+      "episode": 16,
+      "title": "The Digiteam Complete",
+      "diziid": "dgmn",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/56/digital_kapi_acildi%21"
+    },
+    {
+      "season": 3,
+      "episode": 17,
+      "title": "A New Digitude",
+      "diziid": "dgmn",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/57/digimental_yukari%21"
+    },
+    {
+      "season": 4,
+      "episode": 18,
+      "title": "Iron Vegiemon",
+      "diziid": "dgmn",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/58/karanligin_krali%2C_digimon_imparatoru%21"
+    },
+    {
+      "season": 5,
+      "episode": 19,
+      "title": "Old Reliable",
+      "diziid": "dgmn",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/59/karanlik_kuleleri_yok_et%21"
+    },
+    {
+      "season": 6,
+      "episode": 20,
+      "title": "Family Picnic",
+      "diziid": "dgmn",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/60/tehlikeli_bir_piknik%21"
+    },
+    {
+      "season": 7,
+      "episode": 21,
+      "title": "Guardian Angel",
+      "diziid": "dgmn",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/61/hikarinin_anilari%21"
+    },
+    {
+      "season": 8,
+      "episode": 22,
+      "title": "Ken's Secret",
+      "diziid": "dgmn",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/62/digimon_imparatorlugunun_yalnizligi%21"
+    },
+    {
+      "season": 9,
+      "episode": 23,
+      "title": "The Emperor's New Home",
+      "diziid": "dgmn",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/63/kotu_halkanin_asiri_buyusu%21"
+    },
+    {
+      "season": 10,
+      "episode": 24,
+      "title": "The Captive Digimon",
+      "diziid": "dgmn",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/64/dusman_metalgreymon%21"
+    },
+    {
+      "season": 11,
+      "episode": 25,
+      "title": "Storm of Friendship",
+      "diziid": "dgmn",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/65/mavi_gok_gurultusu_lighdramon%21"
+    },
+    {
+      "season": 12,
+      "episode": 26,
+      "title": "The Good, the Bad, and the Digi",
+      "diziid": "dgmn",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/66/digimon_ciftliginde_bir_duello%21"
+    },
+    {
+      "season": 13,
+      "episode": 27,
+      "title": "His Master's Voice",
+      "diziid": "dgmn",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/67/dagomonun_cagrisi%21"
+    },
+    {
+      "season": 14,
+      "episode": 28,
+      "title": "The Samurai of Sincerity",
+      "diziid": "dgmn",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/68/ruzgarin_shurimonu%21"
+    },
+    {
+      "season": 15,
+      "episode": 29,
+      "title": "Big Trouble in Little Edo",
+      "diziid": "dgmn",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/69/shurimonun_savas_sanatlari%21"
+    },
+    {
+      "season": 16,
+      "episode": 30,
+      "title": "20,000 Digi-Leagues Under the Sea",
+      "diziid": "dgmn",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/70/submarimon%21"
+    },
+    {
+      "season": 17,
+      "episode": 31,
+      "title": "Ghost of a Chance",
+      "diziid": "dgmn",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/71/odaiba_anisi%21"
+    },
+    {
+      "season": 18,
+      "episode": 32,
+      "title": "Run Yolei Run",
+      "diziid": "dgmn",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/72/imparator_ussunun_izini_sur%21"
+    },
+    {
+      "season": 19,
+      "episode": 33,
+      "title": "An Old Enemy Returns",
+      "diziid": "dgmn",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/73/yapay_canavar_chimeramon%21"
+    },
+    {
+      "season": 20,
+      "episode": 34,
+      "title": "The Darkness Before Dawn",
+      "diziid": "dgmn",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/74/mucizevi_gelisim%21_altin_magnamon%21"
+    },
+    {
+      "season": 21,
+      "episode": 35,
+      "title": "The Crest of Kindness",
+      "diziid": "dgmn",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/75/hosca_kal%2C_ken-chan%21"
+    },
+    {
+      "season": 22,
+      "episode": 36,
+      "title": "Davis Cries Wolfmon",
+      "diziid": "dgmn",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/76/cesaret_gelisimi%21"
+    },
+    {
+      "season": 23,
+      "episode": 37,
+      "title": "Genesis of Evil",
+      "diziid": "dgmn",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/77/digivicein_karanlik_ile_bozuldugu_zaman%21"
+    },
+    {
+      "season": 24,
+      "episode": 38,
+      "title": "If I Had a Tail Hammer",
+      "diziid": "dgmn",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/78/topragin_zirhli_ankylomonu%21"
+    },
+    {
+      "season": 25,
+      "episode": 39,
+      "title": "Spirit Needle",
+      "diziid": "dgmn",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/79/gokyuzunun_sovalyesi%21"
+    },
+    {
+      "season": 26,
+      "episode": 40,
+      "title": "United We Stand",
+      "diziid": "dgmn",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/80/simdi_iki_kalp_bir_oluyor%21"
+    },
+    {
+      "season": 27,
+      "episode": 41,
+      "title": "Fusion Confusion",
+      "diziid": "dgmn",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/81/yenilmez_fuzyon%21"
+    },
+    {
+      "season": 28,
+      "episode": 42,
+      "title": "The Insect Master's Trap",
+      "diziid": "dgmn",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/82/buyulu_bocek_tuzagi%21"
+    },
+    {
+      "season": 29,
+      "episode": 43,
+      "title": "Arukenimon's Tangled Web",
+      "diziid": "dgmn",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/83/orumcek_kadinin_yanilgisi%21"
+    },
+    {
+      "season": 30,
+      "episode": 44,
+      "title": "Ultimate Anti-Hero",
+      "diziid": "dgmn",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/84/karanlik_son_seviye%21"
+    },
+    {
+      "season": 31,
+      "episode": 45,
+      "title": "Opposites Attract",
+      "diziid": "dgmn",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/85/sevgi_firtinasi%21"
+    },
+    {
+      "season": 32,
+      "episode": 46,
+      "title": "If I Only Had a Heart",
+      "diziid": "dgmn",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/86/gizemli_harabeler%21"
+    },
+    {
+      "season": 33,
+      "episode": 47,
+      "title": "A Chance Encounter",
+      "diziid": "dgmn",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/87/bugun_miyako_kyotoda%21"
+    },
+    {
+      "season": 34,
+      "episode": 48,
+      "title": "Destiny in Doubt",
+      "diziid": "dgmn",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/88/kutsal_noktalari_koruma%21"
+    },
+    {
+      "season": 35,
+      "episode": 49,
+      "title": "Cody Takes a Stand",
+      "diziid": "dgmn",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/89/baskin%21"
+    },
+    {
+      "season": 36,
+      "episode": 50,
+      "title": "Stone Soup",
+      "diziid": "dgmn",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/90/celik_melek%21"
+    },
+    {
+      "season": 37,
+      "episode": 51,
+      "title": "Kyoto Dragon",
+      "diziid": "dgmn",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/91/devasa_son_seviye%21"
+    },
+    {
+      "season": 38,
+      "episode": 52,
+      "title": "A Very Digi-Christmas",
+      "diziid": "dgmn",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/92/kutsal_gece%21"
+    },
+    {
+      "season": 39,
+      "episode": 53,
+      "title": "Dramon Power",
+      "diziid": "dgmn",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/93/genel_seferberlik%21"
+    },
+    {
+      "season": 40,
+      "episode": 54,
+      "title": "Digimon World Tour, Part 1",
+      "diziid": "dgmn",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/94/new_york_ve_hong_kongda_buyuk_muharebe%21"
+    },
+    {
+      "season": 41,
+      "episode": 55,
+      "title": "Digimon World Tour, Part 2",
+      "diziid": "dgmn",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/95/coral_ve_versaillestaki_buyuk_savas%21"
+    },
+    {
+      "season": 42,
+      "episode": 56,
+      "title": "Digimon World Tour, Part 3",
+      "diziid": "dgmn",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/96/sevgi_ve_borschtun_azgin_savasi%21"
+    },
+    {
+      "season": 43,
+      "episode": 57,
+      "title": "Invasion of the Daemon Corps",
+      "diziid": "dgmn",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/97/demon_ordusunun_saldirisi%21"
+    },
+    {
+      "season": 44,
+      "episode": 58,
+      "title": "Dark Sun, Dark Spore",
+      "diziid": "dgmn",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/98/karanlik_digimonlar_ile_olumcul_mucadele%21"
+    },
+    {
+      "season": 45,
+      "episode": 59,
+      "title": "The Dark Gate",
+      "diziid": "dgmn",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/99/karanlik_gecit%21"
+    },
+    {
+      "season": 46,
+      "episode": 60,
+      "title": "Duel of the WarGreymon",
+      "diziid": "dgmn",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/100/black_wargreymona_karsi_wargreymon%21"
+    },
+    {
+      "season": 47,
+      "episode": 61,
+      "title": "BlackWarGreymon's Destiny",
+      "diziid": "dgmn",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/101/black_wargreymonun_muhru%21"
+    },
+    {
+      "season": 48,
+      "episode": 62,
+      "title": "Oikawa's Shame",
+      "diziid": "dgmn",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/102/teror%21"
+    },
+    {
+      "season": 49,
+      "episode": 63,
+      "title": "The Last Temptation of the DigiDestined",
+      "diziid": "dgmn",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/103/son_zirh_gelisimi%21"
+    },
+    {
+      "season": 50,
+      "episode": 64,
+      "title": "A Million Points of Light",
+      "diziid": "dgmn",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/dgmn/digimon/104/dijital_dunyamiz%21"
+    }
+  ]
+}

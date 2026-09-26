@@ -1,0 +1,149 @@
+{
+  "id": "spif",
+  "title": "spirou ve fantasio",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SPFPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Macera",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Zorglub's Island (1)",
+      "diziid": "spif",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/spif/spirou_ve_fantasio/1/zorglubin_adasi_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Zorglub's Island (2)",
+      "diziid": "spif",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/spif/spirou_ve_fantasio/2/zorglubin_adasi_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Ice Legend",
+      "diziid": "spif",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/spif/spirou_ve_fantasio/3/buz_efsanesi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Zorglub's Ark",
+      "diziid": "spif",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/spif/spirou_ve_fantasio/4/zorglubin_gemisi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Samurai's Revenge",
+      "diziid": "spif",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/spif/spirou_ve_fantasio/5/samurayin_intikami"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Robert the Robot",
+      "diziid": "spif",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/spif/spirou_ve_fantasio/6/robot_robert"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The 3rd Component",
+      "diziid": "spif",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/spif/spirou_ve_fantasio/7/ucuncu_bilesen"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Round and Round",
+      "diziid": "spif",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/spif/spirou_ve_fantasio/8/yuvarlak"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Spip Disappears",
+      "diziid": "spif",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/spif/spirou_ve_fantasio/9/spip_kaybolur"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Greening Effect",
+      "diziid": "spif",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/spif/spirou_ve_fantasio/10/yesillestirme_efekti"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Love at First Fright",
+      "diziid": "spif",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/spif/spirou_ve_fantasio/11/ilk_korkuda_ask"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "A Beautiful Monster",
+      "diziid": "spif",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/spif/spirou_ve_fantasio/12/guzel_bir_canavar"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Zorglub's Revenge",
+      "diziid": "spif",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/spif/spirou_ve_fantasio/13/zorglubin_intikami"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Everything's Rosy",
+      "diziid": "spif",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/spif/spirou_ve_fantasio/14/her_sey_pembe"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Child's Play",
+      "diziid": "spif",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/spif/spirou_ve_fantasio/15/cocuk_oyunu"
+    },
+    {
+      "season": 18,
+      "episode": 16,
+      "title": "A Toast to Youth",
+      "diziid": "spif",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/spif/spirou_ve_fantasio/18/genclige_kadeh"
+    },
+    {
+      "season": 21,
+      "episode": 17,
+      "title": "True Blue",
+      "diziid": "spif",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/spif/spirou_ve_fantasio/21/gercek_mavi"
+    }
+  ]
+}

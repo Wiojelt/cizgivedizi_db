@@ -1,0 +1,61 @@
+{
+  "id": "swjh",
+  "title": "star wars: jedi hikÃ¢yeleri",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SWJHPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Bilim Kurgu",
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Life and Death",
+      "diziid": "swjh",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/swjh/star_wars%3A_jedi_hikayeleri/1/yasam_ve_olum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Justice",
+      "diziid": "swjh",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/swjh/star_wars%3A_jedi_hikayeleri/2/adalet"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Choices",
+      "diziid": "swjh",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/swjh/star_wars%3A_jedi_hikayeleri/3/secimler"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Sith Lord",
+      "diziid": "swjh",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/swjh/star_wars%3A_jedi_hikayeleri/4/sith_lordu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Practice Makes Perfect",
+      "diziid": "swjh",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/swjh/star_wars%3A_jedi_hikayeleri/5/pratik_mukemmellestirir"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Resolve",
+      "diziid": "swjh",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/swjh/star_wars%3A_jedi_hikayeleri/6/azim"
+    }
+  ]
+}

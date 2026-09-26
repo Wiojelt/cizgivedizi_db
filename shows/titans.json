@@ -1,0 +1,398 @@
+{
+  "id": "titans",
+  "title": "titans",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/TITANSPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Aksiyon",
+    "SuÃ§/Polisiye",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Titans",
+      "diziid": "titans",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/1/titanlar"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Hawk and Dove",
+      "diziid": "titans",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/2/hawk_ve_dove"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Origins",
+      "diziid": "titans",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/3/kokenler"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Doom Patrol",
+      "diziid": "titans",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/4/doom_patrol"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Together",
+      "diziid": "titans",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/5/birlikte"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Jason Todd",
+      "diziid": "titans",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/6/jason_todd"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Asylum",
+      "diziid": "titans",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/7/timarhane"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Donna Troy",
+      "diziid": "titans",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/8/donna_troy"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Hank and Dawn",
+      "diziid": "titans",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/9/hank_ve_dawn"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Koriand'r",
+      "diziid": "titans",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/10/koriandr"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Trigon",
+      "diziid": "titans",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/11/trigon"
+    },
+    {
+      "season": 1,
+      "episode": 12,
+      "title": "Rose",
+      "diziid": "titans",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/12/rose"
+    },
+    {
+      "season": 2,
+      "episode": 13,
+      "title": "Ghosts",
+      "diziid": "titans",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/13/hayaletler"
+    },
+    {
+      "season": 3,
+      "episode": 14,
+      "title": "Aqualad",
+      "diziid": "titans",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/14/aqualad"
+    },
+    {
+      "season": 4,
+      "episode": 15,
+      "title": "Deathstroke",
+      "diziid": "titans",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/15/deathstroke"
+    },
+    {
+      "season": 5,
+      "episode": 16,
+      "title": "Conner",
+      "diziid": "titans",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/16/conner"
+    },
+    {
+      "season": 6,
+      "episode": 17,
+      "title": "Bruce Wayne",
+      "diziid": "titans",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/17/bruce_wayne"
+    },
+    {
+      "season": 7,
+      "episode": 18,
+      "title": "Jericho",
+      "diziid": "titans",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/18/jericho"
+    },
+    {
+      "season": 8,
+      "episode": 19,
+      "title": "Atonement",
+      "diziid": "titans",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/19/kefaret"
+    },
+    {
+      "season": 9,
+      "episode": 20,
+      "title": "Fallen",
+      "diziid": "titans",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/20/gozden_dusen_kahraman"
+    },
+    {
+      "season": 10,
+      "episode": 21,
+      "title": "E.L._.O.",
+      "diziid": "titans",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/21/e.l._.o."
+    },
+    {
+      "season": 11,
+      "episode": 22,
+      "title": "Faux Hawk",
+      "diziid": "titans",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/22/sahte_hawk"
+    },
+    {
+      "season": 12,
+      "episode": 23,
+      "title": "Nightwing",
+      "diziid": "titans",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/23/nightwing"
+    },
+    {
+      "season": 13,
+      "episode": 24,
+      "title": "Barbara Gordon",
+      "diziid": "titans",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/24/barbara_gordon"
+    },
+    {
+      "season": 1,
+      "episode": 25,
+      "title": "Red Hood",
+      "diziid": "titans",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/25/red_hood"
+    },
+    {
+      "season": 2,
+      "episode": 26,
+      "title": "Hank & Dove",
+      "diziid": "titans",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/26/hank_ve_dove"
+    },
+    {
+      "season": 3,
+      "episode": 27,
+      "title": "Blackfire",
+      "diziid": "titans",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/27/blackfire"
+    },
+    {
+      "season": 4,
+      "episode": 28,
+      "title": "Lazarus",
+      "diziid": "titans",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/28/lazarus"
+    },
+    {
+      "season": 5,
+      "episode": 29,
+      "title": "Lady Vic",
+      "diziid": "titans",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/29/lady_vic"
+    },
+    {
+      "season": 6,
+      "episode": 30,
+      "title": "51%",
+      "diziid": "titans",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/30/%2551"
+    },
+    {
+      "season": 7,
+      "episode": 31,
+      "title": "Home",
+      "diziid": "titans",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/31/yuva"
+    },
+    {
+      "season": 8,
+      "episode": 32,
+      "title": "Souls",
+      "diziid": "titans",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/32/ruhlar"
+    },
+    {
+      "season": 9,
+      "episode": 33,
+      "title": "Troubled Water",
+      "diziid": "titans",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/33/tehlikeli_sular"
+    },
+    {
+      "season": 10,
+      "episode": 34,
+      "title": "The Call Is Coming from Inside the House",
+      "diziid": "titans",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/34/benim_sokagim%2C_benim_evim"
+    },
+    {
+      "season": 11,
+      "episode": 35,
+      "title": "Prodigal",
+      "diziid": "titans",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/35/dirilis"
+    },
+    {
+      "season": 12,
+      "episode": 36,
+      "title": "Purple Rain",
+      "diziid": "titans",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/36/mor_yagmur"
+    },
+    {
+      "season": 13,
+      "episode": 37,
+      "title": "Lex Luthor",
+      "diziid": "titans",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/37/lex_luthor"
+    },
+    {
+      "season": 1,
+      "episode": 38,
+      "title": "Mother Mayhem",
+      "diziid": "titans",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/38/mother_mayhem"
+    },
+    {
+      "season": 2,
+      "episode": 39,
+      "title": "Jinx",
+      "diziid": "titans",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/39/jinx"
+    },
+    {
+      "season": 3,
+      "episode": 40,
+      "title": "Super Super Mart",
+      "diziid": "titans",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/40/super_supermarket"
+    },
+    {
+      "season": 4,
+      "episode": 41,
+      "title": "Inside Man",
+      "diziid": "titans",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/41/icerideki_adam"
+    },
+    {
+      "season": 5,
+      "episode": 42,
+      "title": "Brother Blood",
+      "diziid": "titans",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/42/kardes_kan"
+    },
+    {
+      "season": 6,
+      "episode": 43,
+      "title": "Caul's Folly",
+      "diziid": "titans",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/43/caulun_cilginligi"
+    },
+    {
+      "season": 7,
+      "episode": 44,
+      "title": "Dick & Carol & Ted & Kory",
+      "diziid": "titans",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/44/dick%2C_carol%2C_ted_ve_kory"
+    },
+    {
+      "season": 8,
+      "episode": 45,
+      "title": "Dude, Where's My Gar?",
+      "diziid": "titans",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/45/dostum%2C_gar_nerede"
+    },
+    {
+      "season": 9,
+      "episode": 46,
+      "title": "Game Over",
+      "diziid": "titans",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/46/oyun_bitti"
+    },
+    {
+      "season": 10,
+      "episode": 47,
+      "title": "Project Starfire",
+      "diziid": "titans",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/47/starfire_projesi"
+    },
+    {
+      "season": 11,
+      "episode": 48,
+      "title": "Titans Forever",
+      "diziid": "titans",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/titans/titans/48/yasasin_titanlar"
+    }
+  ]
+}

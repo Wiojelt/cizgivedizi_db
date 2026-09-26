@@ -1,0 +1,357 @@
+{
+  "id": "lbx",
+  "title": "lbx",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/LBXPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Meeting With a Small Machine",
+      "diziid": "lbx",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/1/kucuk_makineyle_ilk_karsilasma"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Lost Achilles",
+      "diziid": "lbx",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/2/kacirilan_asil"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Hell's Destroyer",
+      "diziid": "lbx",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/3/ates_savascisini_ziyaret"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Cursed Golden Knights",
+      "diziid": "lbx",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/4/imparatorlugun_acimasiz_sovalyesi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Dark Assassin",
+      "diziid": "lbx",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/5/kara_sovalye%2C_saldir"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Showdown: Sniper vs. Sniper",
+      "diziid": "lbx",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/6/en_guclu_savascilarin_kapismasi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "My Name Is Innovator",
+      "diziid": "lbx",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/7/mucitler_ekibi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Great Labyrinth, Angel Star",
+      "diziid": "lbx",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/8/parlayan_yildiz_fabrikasinda_kaybolmak"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Steel Monster Ijiteus",
+      "diziid": "lbx",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/9/celik_savascisinin_son_darbesi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Mysterious Transfer Student, Jin Kaido",
+      "diziid": "lbx",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/10/iste_basliyor%2C_yeni_ogrenci"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Magician in a Box",
+      "diziid": "lbx",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/11/kutudaki_sihirbaz"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Dark Field: The Underground Viscidus",
+      "diziid": "lbx",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/12/buyuk_turnuva%2C_iste_basliyor"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Joker: The Attack of the Evil Clones",
+      "diziid": "lbx",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/13/coklu_saldiri_hamlesi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Play-Off: The Emperor",
+      "diziid": "lbx",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/14/imparatorla_sahte_mac"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Power to Save the World",
+      "diziid": "lbx",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/15/dunyayi_kurtaracak_guc"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Infiltrated Black Fortress",
+      "diziid": "lbx",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/16/kara_kaleye_sizmak"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Fated Reunion",
+      "diziid": "lbx",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/17/toplanti_zamani"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Artemis Opening",
+      "diziid": "lbx",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/18/artemis_sampiyonasi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Fierce Fight: Jin and Rex",
+      "diziid": "lbx",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/19/jen_ve_rexin_rekabeti"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Troublesome Tournament",
+      "diziid": "lbx",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/20/sampiyonluk_devam_ediyor"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Explosive: The Super Plasma Burst",
+      "diziid": "lbx",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/21/bir_plazma_saldirisi%21"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "The Mysterious Player: Yuuya Haibara",
+      "diziid": "lbx",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/22/nitelikli_kazananlar"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "The Face-Off: Battle Royal",
+      "diziid": "lbx",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/23/onemli_yarisma"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Shocking Last Battle",
+      "diziid": "lbx",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/24/son_tur"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "The Start of a New Battle",
+      "diziid": "lbx",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/25/yeni_bir_mucadele_bizi_bekliyor"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The Flash LBX, Pandora",
+      "diziid": "lbx",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/26/lbx_savascisi_-_pandora%21"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Awaken! A New Machine",
+      "diziid": "lbx",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/27/yeni_makine"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Odin's Sortie",
+      "diziid": "lbx",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/28/odinin_ilk_savasi"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "The Legend of the Super Hacker Otacross",
+      "diziid": "lbx",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/29/usta_otacross"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Break In, God Gate",
+      "diziid": "lbx",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/30/janus_kate_giris"
+    },
+    {
+      "season": 32,
+      "episode": 31,
+      "title": "The Opening of Akihabara Kingdom",
+      "diziid": "lbx",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/32/elektronika_kralligi"
+    },
+    {
+      "season": 33,
+      "episode": 32,
+      "title": "Gouda vs. Sendou",
+      "diziid": "lbx",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/33/gouda_sendouya_karsi"
+    },
+    {
+      "season": 34,
+      "episode": 33,
+      "title": "Clash! Ban vs. Jin",
+      "diziid": "lbx",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/34/ban_justine_karsi"
+    },
+    {
+      "season": 35,
+      "episode": 34,
+      "title": "Shock, the Sun God Apollo Kaiser",
+      "diziid": "lbx",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/35/gunes_tanrisi"
+    },
+    {
+      "season": 36,
+      "episode": 35,
+      "title": "Humanity's Hope, Eternal Cycler",
+      "diziid": "lbx",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/36/sonsuzluk_makinesi"
+    },
+    {
+      "season": 37,
+      "episode": 36,
+      "title": "Fort Tank Bardoma",
+      "diziid": "lbx",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/37/tank_basliyor"
+    },
+    {
+      "season": 38,
+      "episode": 37,
+      "title": "When the Seekers Revive",
+      "diziid": "lbx",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/38/cionun_donusu"
+    },
+    {
+      "season": 39,
+      "episode": 38,
+      "title": "Stand Up, Ban!",
+      "diziid": "lbx",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/39/ayaga_kalk%2C_ban%21"
+    },
+    {
+      "season": 40,
+      "episode": 39,
+      "title": "Exposed Ambition",
+      "diziid": "lbx",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/40/plan_ortaya_cikiyor"
+    },
+    {
+      "season": 41,
+      "episode": 40,
+      "title": "When the Devil Takes Flight",
+      "diziid": "lbx",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/41/kotuluk_yukselirken"
+    },
+    {
+      "season": 42,
+      "episode": 41,
+      "title": "The Final Mission With Everything on the Line",
+      "diziid": "lbx",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/42/son_gorev"
+    },
+    {
+      "season": 43,
+      "episode": 42,
+      "title": "The Great Battle in the Skies",
+      "diziid": "lbx",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/43/goklerde_hesaplasma"
+    },
+    {
+      "season": 44,
+      "episode": 43,
+      "title": "Those Who Change the World",
+      "diziid": "lbx",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/lbx/lbx/44/dunyayi_degistirmek"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "surfer",
+  "title": "gÃ¼mÃ¼ÅŸ sÃ¶rfÃ§Ã¼",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SURFERPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Origin of the Silver Surfer: Part 1",
+      "diziid": "surfer",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/surfer/gumus_sorfcu/1/gumus_sorfcunun_kokeni_1._kisim"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Origin of the Silver Surfer: Part 2",
+      "diziid": "surfer",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/surfer/gumus_sorfcu/2/gumus_sorfcunun_kokeni_2._kisim"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Origin of the Silver Surfer: Part 3",
+      "diziid": "surfer",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/surfer/gumus_sorfcu/3/gumus_sorfcunun_kokeni_3._kisim"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Planet of Dr. Moreau",
+      "diziid": "surfer",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/surfer/gumus_sorfcu/4/dr._moreaunun_gezegeni"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Learning Curve: Part 1",
+      "diziid": "surfer",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/surfer/gumus_sorfcu/5/ogrenme_egrisi_1._kisim"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Learning Curve: Part 2",
+      "diziid": "surfer",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/surfer/gumus_sorfcu/6/ogrenme_egrisi_2._kisim"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Innervisions",
+      "diziid": "surfer",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/surfer/gumus_sorfcu/7/icgoruler"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Antibody",
+      "diziid": "surfer",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/surfer/gumus_sorfcu/8/antikor"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Second Foundation",
+      "diziid": "surfer",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/surfer/gumus_sorfcu/9/ikinci_kurulus"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Radical Justice",
+      "diziid": "surfer",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/surfer/gumus_sorfcu/10/kesin_adalet"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Forever War",
+      "diziid": "surfer",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/surfer/gumus_sorfcu/11/sonsuz_savas"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Return to Zenn-La",
+      "diziid": "surfer",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/surfer/gumus_sorfcu/12/zenn-laya_donus"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The End of Eternity",
+      "diziid": "surfer",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/surfer/gumus_sorfcu/13/sonsuzlugun_sonu"
+    }
+  ]
+}

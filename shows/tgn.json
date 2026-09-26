@@ -1,0 +1,612 @@
+{
+  "id": "tgn",
+  "title": "great north",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TGNPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Sexi Moose Adventure",
+      "diziid": "tgn",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/1/seksi_geyik_macerasi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Feast of Not People Adventure",
+      "diziid": "tgn",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/2/baskalarinin_ziyafet_macerasi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Avocado Barter Adventure",
+      "diziid": "tgn",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/3/avokado_takasi_macerasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Romantic Meat-Based Adventure",
+      "diziid": "tgn",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/4/romantik_ve_et_konulu_macera"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Curl Interrupted Adventure",
+      "diziid": "tgn",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/5/surekli_kivircik_macerasi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Pride & Prejudance Adventure",
+      "diziid": "tgn",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/6/gurur_ve_onyargi_macerasi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Period Piece Adventure",
+      "diziid": "tgn",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/7/donem_parcasi_macerasi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Keep Beef-Lievin' Adventure",
+      "diziid": "tgn",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/8/beef%E2%80%99i_inandirma_macerasi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Tusk in the Wind Adventure",
+      "diziid": "tgn",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/9/ruzgarlarin_adami_tusk_macerasi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Game of Snownes Adventure",
+      "diziid": "tgn",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/10/kar_oyunu_macerasi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "My Fart Will Go on Adventure",
+      "diziid": "tgn",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/11/gazim_macera_yolunda"
+    },
+    {
+      "season": 1,
+      "episode": 12,
+      "title": "Brace/Off Adventure",
+      "diziid": "tgn",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/12/macerayi_destekle__kapat"
+    },
+    {
+      "season": 2,
+      "episode": 13,
+      "title": "The Great Punkin' Adventure",
+      "diziid": "tgn",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/13/muhtesem_punk_macerasi"
+    },
+    {
+      "season": 3,
+      "episode": 14,
+      "title": "The Yawn of the Dead Adventure",
+      "diziid": "tgn",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/14/olulerin_esnemesi_macerasi"
+    },
+    {
+      "season": 4,
+      "episode": 15,
+      "title": "Wanted: Delmer Alive Adventure",
+      "diziid": "tgn",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/15/araniyor%3A_delmer_canli_macerasi"
+    },
+    {
+      "season": 5,
+      "episode": 16,
+      "title": "Beef's Craig Beef Adventure",
+      "diziid": "tgn",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/16/beefin_craig_beef_macerasi"
+    },
+    {
+      "season": 6,
+      "episode": 17,
+      "title": "Skidmark Holmes Adventure",
+      "diziid": "tgn",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/17/skidmark_holmes_macerasi"
+    },
+    {
+      "season": 7,
+      "episode": 18,
+      "title": "Tasteful Noods Adventure",
+      "diziid": "tgn",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/18/zevkli_eriste_macerasi"
+    },
+    {
+      "season": 8,
+      "episode": 19,
+      "title": "Good Beef Hunting Adventure",
+      "diziid": "tgn",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/19/guzel_beef_avi_macerasi"
+    },
+    {
+      "season": 9,
+      "episode": 20,
+      "title": "From Tusk Till Dawn Adventure",
+      "diziid": "tgn",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/20/gunbatimindan_safaga_macerasi"
+    },
+    {
+      "season": 10,
+      "episode": 21,
+      "title": "Dip the Halls Adventure",
+      "diziid": "tgn",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/21/salonlara_dalma_macerasi"
+    },
+    {
+      "season": 11,
+      "episode": 22,
+      "title": "Dances with Wolfs Adventure",
+      "diziid": "tgn",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/22/kurtlarla_dans_macerasi"
+    },
+    {
+      "season": 12,
+      "episode": 23,
+      "title": "Beef Mommas House Adventure",
+      "diziid": "tgn",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/23/beef%E2%80%99in_anne_evi_macerasi"
+    },
+    {
+      "season": 13,
+      "episode": 24,
+      "title": "Saved by the Spells Adventure",
+      "diziid": "tgn",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/24/buyulerle_kurtulma_macerasi"
+    },
+    {
+      "season": 14,
+      "episode": 25,
+      "title": "Stools Rush in Adventure",
+      "diziid": "tgn",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/25/acele_edilen_tabureler_macerasi"
+    },
+    {
+      "season": 15,
+      "episode": 26,
+      "title": "You've Got Math Adventure",
+      "diziid": "tgn",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/26/matematigin_iyi_macerasi"
+    },
+    {
+      "season": 16,
+      "episode": 27,
+      "title": "As Goldie As It Gets",
+      "diziid": "tgn",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/27/olabildigince_goldie"
+    },
+    {
+      "season": 17,
+      "episode": 28,
+      "title": "Dead Moon Walking Adventure",
+      "diziid": "tgn",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/28/olu_ay_yuruyus_macerasi"
+    },
+    {
+      "season": 18,
+      "episode": 29,
+      "title": "Beef's in Toyland Adventure",
+      "diziid": "tgn",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/29/beefin_toylanddaki_macerasi"
+    },
+    {
+      "season": 19,
+      "episode": 30,
+      "title": "Poetry of the Penals Adventure",
+      "diziid": "tgn",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/30/ceza_macerasinin_siiri"
+    },
+    {
+      "season": 20,
+      "episode": 31,
+      "title": "Say It Again, Ham Adventure",
+      "diziid": "tgn",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/31/tekrar_soyle%2C_hamin_macerasi"
+    },
+    {
+      "season": 21,
+      "episode": 32,
+      "title": "Slide & Wet-judice Adventure",
+      "diziid": "tgn",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/32/kaygan_ve_islak_-_judicein_macerasi"
+    },
+    {
+      "season": 22,
+      "episode": 33,
+      "title": "Papa Don't Fiend Adventure",
+      "diziid": "tgn",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/33/babalar_gunu"
+    },
+    {
+      "season": 1,
+      "episode": 34,
+      "title": "A Knife to Remember Adventure",
+      "diziid": "tgn",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/34/unutulmayacak_bir_bicak_macerasi"
+    },
+    {
+      "season": 2,
+      "episode": 35,
+      "title": "Cillian Me Softly Adventure",
+      "diziid": "tgn",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/35/cillian_me_softly_macerasi"
+    },
+    {
+      "season": 3,
+      "episode": 36,
+      "title": "Autumn If You Got Em Adventure",
+      "diziid": "tgn",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/36/sonbahar_eger_maceraniz_varsa"
+    },
+    {
+      "season": 4,
+      "episode": 37,
+      "title": "Code Enough Said Adventure",
+      "diziid": "tgn",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/37/yeterince_soyledim_macerasini_kodla"
+    },
+    {
+      "season": 5,
+      "episode": 38,
+      "title": "Woodfellas Adventure",
+      "diziid": "tgn",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/38/woodfellas_macerasi"
+    },
+    {
+      "season": 6,
+      "episode": 39,
+      "title": "Blood Actually Adventure",
+      "diziid": "tgn",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/39/aslinda_kan_macerasi"
+    },
+    {
+      "season": 7,
+      "episode": 40,
+      "title": "Mall-mento Adventure",
+      "diziid": "tgn",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/40/mall-mento_macerasi"
+    },
+    {
+      "season": 8,
+      "episode": 41,
+      "title": "Dick, Rick, Groom Adventure",
+      "diziid": "tgn",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/41/dick%2C_rick%2C_damat_macerasi"
+    },
+    {
+      "season": 9,
+      "episode": 42,
+      "title": "Bee's All That Adventure",
+      "diziid": "tgn",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/42/beenin_tum_maceralari"
+    },
+    {
+      "season": 10,
+      "episode": 43,
+      "title": "Xmas With The Skanks Adventure",
+      "diziid": "tgn",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/43/surtuklerle_noel_macerasi"
+    },
+    {
+      "season": 11,
+      "episode": 44,
+      "title": "Arranger-ous Minds Adventure",
+      "diziid": "tgn",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/44/aranjor_zihinlerin_macerasi"
+    },
+    {
+      "season": 12,
+      "episode": 45,
+      "title": "Enough Bed Adventure",
+      "diziid": "tgn",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/45/yeterli_yatak_macerasi"
+    },
+    {
+      "season": 13,
+      "episode": 46,
+      "title": "Sister Pact Too Adventure",
+      "diziid": "tgn",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/46/kardes_pakti_fazla_macera"
+    },
+    {
+      "season": 14,
+      "episode": 47,
+      "title": "Boy Meats World Adventure",
+      "diziid": "tgn",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/47/cocuklarin_et_dunyasi_maceralari"
+    },
+    {
+      "season": 15,
+      "episode": 48,
+      "title": "Can't Hardly Date Adventure",
+      "diziid": "tgn",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/48/macerayla_cikmak_zor_degil"
+    },
+    {
+      "season": 16,
+      "episode": 49,
+      "title": "Great Bus of Choir Adventure",
+      "diziid": "tgn",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/49/koro_macerasinin_buyuk_otobusu"
+    },
+    {
+      "season": 17,
+      "episode": 50,
+      "title": "A Bear-tiful Find Adventure",
+      "diziid": "tgn",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/50/bir_ayi-guzel_bulma_macerasi"
+    },
+    {
+      "season": 18,
+      "episode": 51,
+      "title": "Pa-shank Redemption Adventure",
+      "diziid": "tgn",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/51/pa-shank_kefaret_macerasi"
+    },
+    {
+      "season": 19,
+      "episode": 52,
+      "title": "Rear Genius Adventure",
+      "diziid": "tgn",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/52/arka_dahi_macerasi"
+    },
+    {
+      "season": 20,
+      "episode": 53,
+      "title": "Barrel Be Blood Adventure",
+      "diziid": "tgn",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/53/fici_kan_icinde_macera"
+    },
+    {
+      "season": 21,
+      "episode": 54,
+      "title": "For Whom the Smell Tolls Adventure: Part One",
+      "diziid": "tgn",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/54/koku_kimin_icin_caliyor_birinci_kisim"
+    },
+    {
+      "season": 22,
+      "episode": 55,
+      "title": "For Whom the Smell Tolls Adventure: Part Two",
+      "diziid": "tgn",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/55/koku_kimin_icin_caliyor_ikinci_kisim"
+    },
+    {
+      "season": 1,
+      "episode": 56,
+      "title": "Bad Speecher Adventure",
+      "diziid": "tgn",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/56/kotu_konusmaci_macerasi"
+    },
+    {
+      "season": 2,
+      "episode": 57,
+      "title": "Risky Beefness Adventure",
+      "diziid": "tgn",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/57/tehlikeli_beeflik_macerasi"
+    },
+    {
+      "season": 3,
+      "episode": 58,
+      "title": "Aunt Misbehavin' Adventure",
+      "diziid": "tgn",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/58/yaramaz_teyzenin_macerasi"
+    },
+    {
+      "season": 4,
+      "episode": 59,
+      "title": "Ready Mayor Won Adventure",
+      "diziid": "tgn",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/59/uygun_belediye_baskani_macerayi_kazanir"
+    },
+    {
+      "season": 5,
+      "episode": 60,
+      "title": "Cheese All That Adventure",
+      "diziid": "tgn",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/60/cheese_maceraya_atilir"
+    },
+    {
+      "season": 6,
+      "episode": 61,
+      "title": "The Mighty Pucks Adventure",
+      "diziid": "tgn",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/61/mighty_pucks_macerasi"
+    },
+    {
+      "season": 7,
+      "episode": 62,
+      "title": "Judy Presents: The Staircake",
+      "diziid": "tgn",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/62/judy_sunar%3A_merdiven_pastasi"
+    },
+    {
+      "season": 8,
+      "episode": 63,
+      "title": "Bear of Beeftown Adventure",
+      "diziid": "tgn",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/63/beeftown_macerasi_ayisi"
+    },
+    {
+      "season": 9,
+      "episode": 64,
+      "title": "Idita-Ruth Adventure",
+      "diziid": "tgn",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/64/idita-ruth_macerasi"
+    },
+    {
+      "season": 10,
+      "episode": 65,
+      "title": "A Chug's Life Adventure",
+      "diziid": "tgn",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/65/bir_dikicinin_yasam_seruveni"
+    },
+    {
+      "season": 11,
+      "episode": 66,
+      "title": "High Expectations Adventure",
+      "diziid": "tgn",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/66/yuksek_beklentiler_macerasi"
+    },
+    {
+      "season": 12,
+      "episode": 67,
+      "title": "Any Court in a Storm Adventure",
+      "diziid": "tgn",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/67/firtina_macerasinda_saray_halki"
+    },
+    {
+      "season": 13,
+      "episode": 68,
+      "title": "You've Got Sail Adventure",
+      "diziid": "tgn",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/68/yelken_seruveniniz_var"
+    },
+    {
+      "season": 14,
+      "episode": 69,
+      "title": "Doctor? No! Adventure",
+      "diziid": "tgn",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/69/doktor_mu_hayir%21_macera"
+    },
+    {
+      "season": 15,
+      "episode": 70,
+      "title": "Fifty Worst Dates Adventure",
+      "diziid": "tgn",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/70/en_kotu_elli_bulusma_macerasi"
+    },
+    {
+      "season": 16,
+      "episode": 71,
+      "title": "Excess Cabbage Adventure",
+      "diziid": "tgn",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/71/gereginden_fazla_lahana_macerasi"
+    },
+    {
+      "season": 17,
+      "episode": 72,
+      "title": "Worst Drives Club Adventure",
+      "diziid": "tgn",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/72/en_kotu_sirlar_kulubu_macerasi"
+    },
+    {
+      "season": 18,
+      "episode": 73,
+      "title": "Welcome To Miami Adventure",
+      "diziid": "tgn",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/73/miami_macerasina_hos_geldiniz"
+    },
+    {
+      "season": 19,
+      "episode": 74,
+      "title": "Look Who's Squawking Adventure",
+      "diziid": "tgn",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/74/bakin_kim_viyakliyor_macerasi"
+    },
+    {
+      "season": 20,
+      "episode": 75,
+      "title": "Am I the Ice Hole? Adventure",
+      "diziid": "tgn",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/tgn/great_north/75/ben_buz_deligi_miyim_macerasi"
+    }
+  ]
+}

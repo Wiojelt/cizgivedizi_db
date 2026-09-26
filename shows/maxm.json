@@ -1,0 +1,380 @@
+{
+  "id": "maxm",
+  "title": "max ve maestro",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MAXMPoster.avif",
+  "channel": "TRT Ã‡ocuk",
+  "genres": [
+    "MÃ¼zik/MÃ¼zikal"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Supersonic Ear",
+      "diziid": "maxm",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/1/sesten_hizli_kulaklar"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The March Thang",
+      "diziid": "maxm",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/2/mars_meselesi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Surprise",
+      "diziid": "maxm",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/3/surpriz"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Lamia's Secret",
+      "diziid": "maxm",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/4/lamianin_sirri"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "His Master's Ear",
+      "diziid": "maxm",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/5/ustanin_kulagi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "May the Intensity be With You",
+      "diziid": "maxm",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/6/yogunluk_seninle_olsun"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Challenge",
+      "diziid": "maxm",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/7/meydan_okuma"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Edward and the Ninjas",
+      "diziid": "maxm",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/8/edward_ile_ninjalar"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Masked Pianist",
+      "diziid": "maxm",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/9/maskeli_piyanist"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Storm in an Aquarium",
+      "diziid": "maxm",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/10/akvaryumda_firtina"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "Carmen's Triangle",
+      "diziid": "maxm",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/12/ucgen_calgi"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "Family Challenge",
+      "diziid": "maxm",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/13/aile_yarismasi"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "Music Wars",
+      "diziid": "maxm",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/14/muzik_savaslari"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "A Matter of Honor",
+      "diziid": "maxm",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/15/onur_meselesi"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "The Piano Champion",
+      "diziid": "maxm",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/16/piyano_sampiyonu"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "Max, Mute & Maestro",
+      "diziid": "maxm",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/17/max%2C_sessizlik_ve_maestro"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "Bak's Bum Note",
+      "diziid": "maxm",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/18/bakarynin_catlak_sesi"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "Off-Side",
+      "diziid": "maxm",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/19/off-side"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "M for Mozart",
+      "diziid": "maxm",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/20/mozartin_msi"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "Lamia's Dance",
+      "diziid": "maxm",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/21/lamianin_dansi"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "Mission: Harmony",
+      "diziid": "maxm",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/22/gorevimiz_armoni"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "A Deaf Ear",
+      "diziid": "maxm",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/23/sagir_kulak"
+    },
+    {
+      "season": 26,
+      "episode": 23,
+      "title": "Max Goes Solo",
+      "diziid": "maxm",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/26/maxin_solosu"
+    },
+    {
+      "season": 28,
+      "episode": 24,
+      "title": "Max's Choice",
+      "diziid": "maxm",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/28/maxin_buyuk_secimi"
+    },
+    {
+      "season": 29,
+      "episode": 25,
+      "title": "Music Helps Those Who Help Themselves",
+      "diziid": "maxm",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/29/muzigin_iyilestirici_gucu"
+    },
+    {
+      "season": 30,
+      "episode": 26,
+      "title": "The Witch in the Park",
+      "diziid": "maxm",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/30/parktaki_yasli_kadin"
+    },
+    {
+      "season": 32,
+      "episode": 27,
+      "title": "May the Best Guy Win",
+      "diziid": "maxm",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/32/en_iyi_olan_kazansin"
+    },
+    {
+      "season": 34,
+      "episode": 28,
+      "title": "Leon's Audition",
+      "diziid": "maxm",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/34/oyuncu_secmeleri"
+    },
+    {
+      "season": 35,
+      "episode": 29,
+      "title": "Copy and Paste",
+      "diziid": "maxm",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/35/kopyala_yapistir"
+    },
+    {
+      "season": 36,
+      "episode": 30,
+      "title": "Impossible Harmony",
+      "diziid": "maxm",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/36/imkansiz_uyum"
+    },
+    {
+      "season": 37,
+      "episode": 31,
+      "title": "Not So Easy",
+      "diziid": "maxm",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/37/o_kadar_kolay_degil"
+    },
+    {
+      "season": 38,
+      "episode": 32,
+      "title": "Lamia's Leaving",
+      "diziid": "maxm",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/38/lamianin_gidisi"
+    },
+    {
+      "season": 39,
+      "episode": 33,
+      "title": "Max in Crescendo",
+      "diziid": "maxm",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/39/maxin_kresendosu"
+    },
+    {
+      "season": 40,
+      "episode": 34,
+      "title": "The Dragon in the Mansion",
+      "diziid": "maxm",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/40/konaktaki_ejderha"
+    },
+    {
+      "season": 41,
+      "episode": 35,
+      "title": "Penalty",
+      "diziid": "maxm",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/41/penalti"
+    },
+    {
+      "season": 42,
+      "episode": 36,
+      "title": "Mirror, Mirror on the Wall",
+      "diziid": "maxm",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/42/ayna_ayna_soyle_bana"
+    },
+    {
+      "season": 43,
+      "episode": 37,
+      "title": "Didier's Comeback",
+      "diziid": "maxm",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/43/didierin_donusu"
+    },
+    {
+      "season": 44,
+      "episode": 38,
+      "title": "Super Omar",
+      "diziid": "maxm",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/44/super_omar"
+    },
+    {
+      "season": 45,
+      "episode": 39,
+      "title": "The Childhood Friend",
+      "diziid": "maxm",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/45/cocukluk_arkadasi"
+    },
+    {
+      "season": 46,
+      "episode": 40,
+      "title": "Welcome to the Club",
+      "diziid": "maxm",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/46/aramiza_hos_geldin"
+    },
+    {
+      "season": 47,
+      "episode": 41,
+      "title": "Head in the Clouds",
+      "diziid": "maxm",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/47/basi_bulutlarda"
+    },
+    {
+      "season": 48,
+      "episode": 42,
+      "title": "Learning to Forget",
+      "diziid": "maxm",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/48/unutmayi_ogrenmek"
+    },
+    {
+      "season": 49,
+      "episode": 43,
+      "title": "Great Teamwork",
+      "diziid": "maxm",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/49/harika_bir_takim_calismasi"
+    },
+    {
+      "season": 50,
+      "episode": 44,
+      "title": "Malika's Moonlight",
+      "diziid": "maxm",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/50/malilkanin_ay_isigi"
+    },
+    {
+      "season": 51,
+      "episode": 45,
+      "title": "The Mystery Prodigy part 1",
+      "diziid": "maxm",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/51/gizemli_dahi_bolum_1"
+    },
+    {
+      "season": 52,
+      "episode": 46,
+      "title": "The Mystery Prodigy Part 2",
+      "diziid": "maxm",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/maxm/max_ve_maestro/52/gizemli_dahi_bolum_2"
+    }
+  ]
+}

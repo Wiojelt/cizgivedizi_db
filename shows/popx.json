@@ -1,0 +1,141 @@
+{
+  "id": "popx",
+  "title": "poppixie",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/POPXPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Green Attack",
+      "diziid": "popx",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/popx/poppixie/1/yesil_saldiri"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "A Pixie Fish",
+      "diziid": "popx",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/popx/poppixie/2/balik_pixie"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Crazy Weather",
+      "diziid": "popx",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/popx/poppixie/3/cilgin_hava"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Lockette's Secret",
+      "diziid": "popx",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/popx/poppixie/4/lockettein_sirri"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Flying Money",
+      "diziid": "popx",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/popx/poppixie/5/ucan_para"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Caramel's Ice Cream Tree",
+      "diziid": "popx",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/popx/poppixie/6/karamelin_dondurma_agaci"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Mirror Spell",
+      "diziid": "popx",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/popx/poppixie/7/ayna_sihri"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Big Interview",
+      "diziid": "popx",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/popx/poppixie/8/buyuk_roportaj"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "A Robot for Chatta",
+      "diziid": "popx",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/popx/poppixie/9/chattanin_robotu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Mystery of the Lost Magicpop",
+      "diziid": "popx",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/popx/poppixie/10/kayip_sihirli_kurenin_sirri"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Let's Go Camp Pixie",
+      "diziid": "popx",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/popx/poppixie/11/pixie_kampina_gidelim"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Save the Bumble Monkeys",
+      "diziid": "popx",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/popx/poppixie/12/acemi_maymunlari_korumak"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "My Best Friend",
+      "diziid": "popx",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/popx/poppixie/13/en_iyi_dostum"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Amore's Love Potion",
+      "diziid": "popx",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/popx/poppixie/14/amorenin_ask_iksiri"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Super Toy",
+      "diziid": "popx",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/popx/poppixie/15/super_oyuncak"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Techno Magicpop",
+      "diziid": "popx",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/popx/poppixie/16/tekno_sihir_topu"
+    }
+  ]
+}

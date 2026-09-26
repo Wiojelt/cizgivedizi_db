@@ -1,0 +1,220 @@
+{
+  "id": "telen",
+  "title": "teletabiler",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TELENPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Bubbles",
+      "diziid": "telen",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/1/baloncuklar"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Wait for It",
+      "diziid": "telen",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/2/bekle"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Music",
+      "diziid": "telen",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/3/muzik"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Making Friends",
+      "diziid": "telen",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/4/arkadas_edinmek"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Bouncy Ball",
+      "diziid": "telen",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/5/ziplayan_top"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Up and Down",
+      "diziid": "telen",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/6/yukari_ve_asagi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Running Race",
+      "diziid": "telen",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/7/kosu_yarisi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Follow the Leader",
+      "diziid": "telen",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/8/lideri_takip_et"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Waving",
+      "diziid": "telen",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/9/el_sallama"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Messy Fun",
+      "diziid": "telen",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/10/ortaligi_batiran_eglence"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Party",
+      "diziid": "telen",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/11/parti"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Silly Sausages",
+      "diziid": "telen",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/12/sapsal_sosisler"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Purple",
+      "diziid": "telen",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/13/mor"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Hiding",
+      "diziid": "telen",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/14/saklanmak"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Roundy Round",
+      "diziid": "telen",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/15/donup_durmak"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Tallest/Shortest",
+      "diziid": "telen",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/16/en_uzun__en_kisa"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Packing",
+      "diziid": "telen",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/17/canta_hazirlama"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Again, Again",
+      "diziid": "telen",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/18/tekrar%2C_tekrar"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Making Sounds",
+      "diziid": "telen",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/19/sesler_cikarmak"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Conga",
+      "diziid": "telen",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/20/tumba"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Number Four",
+      "diziid": "telen",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/21/dort"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Keep Fit",
+      "diziid": "telen",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/22/formda_kalmak"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Being Quiet",
+      "diziid": "telen",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/23/sessiz_olmak"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Red",
+      "diziid": "telen",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/24/kirmizi"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Reflections",
+      "diziid": "telen",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/25/yansimalar"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Big Dance",
+      "diziid": "telen",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/telen/teletabiler/26/buyuk_dans"
+    }
+  ]
+}

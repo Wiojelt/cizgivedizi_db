@@ -1,0 +1,108 @@
+{
+  "id": "levi",
+  "title": "leviathan",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/LEVIPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Into the Storm",
+      "diziid": "levi",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/levi/leviathan/1/firtinaya_dogru"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Prelude to War",
+      "diziid": "levi",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/levi/leviathan/2/savasa_giris"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Clankers and Darwinists",
+      "diziid": "levi",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/levi/leviathan/3/disliler_ve_darwinciler"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Weight of the Past",
+      "diziid": "levi",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/levi/leviathan/4/gecmisin_agirligi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Far to the East",
+      "diziid": "levi",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/levi/leviathan/5/doguya_dogru"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Shadows of Istanbul",
+      "diziid": "levi",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/levi/leviathan/6/istanbulun_golgeleri"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Stormy Seas",
+      "diziid": "levi",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/levi/leviathan/7/firtinali_denizler"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Behemoth",
+      "diziid": "levi",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/levi/leviathan/8/behemoth"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Tunguska",
+      "diziid": "levi",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/levi/leviathan/9/tunguska"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Truth and Lies",
+      "diziid": "levi",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/levi/leviathan/10/gercek_ve_yalanlar"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Goliath",
+      "diziid": "levi",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/levi/leviathan/11/goliath"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Under the Same Sky",
+      "diziid": "levi",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/levi/leviathan/12/ayni_gogun_altindayiz"
+    }
+  ]
+}

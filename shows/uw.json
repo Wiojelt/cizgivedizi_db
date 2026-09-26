@@ -1,0 +1,181 @@
+{
+  "id": "uw",
+  "title": "uzaylÄ± vander",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/UWPoster.avif",
+  "channel": "Disney Channel",
+  "genres": [
+    "Komedi",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Greatest/The Egg",
+      "diziid": "uw",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/1/en_buyuk__yumurta"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Picnic/The Fugitives",
+      "diziid": "uw",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/2/piknik__kacak"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Good Deed/The Prisoner",
+      "diziid": "uw",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/3/sevap__mahkum"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Pet",
+      "diziid": "uw",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/4/evcil_hayvan"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Bad Guy/The Troll",
+      "diziid": "uw",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/5/kotu_adam__trol"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Box/The Hat",
+      "diziid": "uw",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/6/kutu__sapka"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Little Guy",
+      "diziid": "uw",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/7/kucuk_adam"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Bounty/The Ball",
+      "diziid": "uw",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/8/odul__top"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Hero/The Birthday Boy",
+      "diziid": "uw",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/9/kahraman__dogum_gunu_cocugu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Nice Guy/The Timebomb",
+      "diziid": "uw",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/10/iyi_adam__saatli_bomba"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Fancy Party/The Tourist",
+      "diziid": "uw",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/11/suslu_parti__turist"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Day/The Night",
+      "diziid": "uw",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/12/gun__gece"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Lonely Planet/The Brainstorm",
+      "diziid": "uw",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/13/yalniz_gezegen__beyin_firtinasi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Party Animal/The Toddler",
+      "diziid": "uw",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/14/parti_hayvani__toddler"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Epic Quest of Unfathomable Difficulty/The Void",
+      "diziid": "uw",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/15/destansi_gorev__bosluk"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Date/The Buddies",
+      "diziid": "uw",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/16/randevu__dostlar"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Liar/The Stray",
+      "diziid": "uw",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/17/yalanci__aylak"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Funk/The Enemies",
+      "diziid": "uw",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/18/funk__dusmanlar"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Gift/The Gift II: The Giftening",
+      "diziid": "uw",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/19/hediye__hediye_2"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Big Job/The Helper",
+      "diziid": "uw",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/20/buyuk_is__yardimci"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Rider",
+      "diziid": "uw",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/uw/uzayli_vander/21/surucu"
+    }
+  ]
+}

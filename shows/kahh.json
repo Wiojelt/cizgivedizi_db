@@ -1,0 +1,397 @@
+{
+  "id": "kahh",
+  "title": "kahramanlar hastanesi",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/KAHHPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Saving the People Who Save People, Part 1",
+      "diziid": "kahh",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/1/insanlari_kurtaranlari_kurtarmak%2C_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Saving the People Who Save People, Part 2",
+      "diziid": "kahh",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/2/insanlari_kurtaranlari_kurtarmak%2C_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Frighty Med",
+      "diziid": "kahh",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/3/korkunc_hastane"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "I, Normo",
+      "diziid": "kahh",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/4/ben_normo"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Sm'oliver's Travels",
+      "diziid": "kahh",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/5/smoliverin_seyahatleri"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Pranks for Nothing",
+      "diziid": "kahh",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/6/bos_sakalar"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "It's Not the End of the World",
+      "diziid": "kahh",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/7/dunyanin_sonu_degil"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Evil Gus",
+      "diziid": "kahh",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/8/seytan_gus"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Alan's Reign of Terror",
+      "diziid": "kahh",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/9/alanin_teror_saltanati"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "So You Think You Can Be a Sidekick",
+      "diziid": "kahh",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/10/yani_yardimci_olabilecegi_dusunuyorsun"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Lockdown",
+      "diziid": "kahh",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/11/karantina"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "All That Kaz",
+      "diziid": "kahh",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/12/karsinizda_kaz"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Friend of My Friend Is My Enemy",
+      "diziid": "kahh",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/13/arkadasimin_dostu_dusmanimdir"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Atomic Blast from the Past",
+      "diziid": "kahh",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/14/gecmisten_atom_patlamasi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Growing Pains",
+      "diziid": "kahh",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/15/artan_agrilar"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Night of the Living Nightmare",
+      "diziid": "kahh",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/16/yasayan_kabusun_gecesi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Mighty Mad",
+      "diziid": "kahh",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/17/kahramanlar_hastanesi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Fantasy League of Heroes",
+      "diziid": "kahh",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/18/fantastik_kahramanlar_ligi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Copy Kaz",
+      "diziid": "kahh",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/19/kazi_kopyala"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Guitar Superhero",
+      "diziid": "kahh",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/20/gitar_kahramani"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Free Wi-Fi",
+      "diziid": "kahh",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/21/bedava_internet"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Two Writers Make a Wrong",
+      "diziid": "kahh",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/22/iki_yazar_bir_yanlis_yapar"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Are You Afraid of the Shark?",
+      "diziid": "kahh",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/23/kopekbaligindan_korkuyor_musun"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Pen Is Mighty Med-ier Than the Sword",
+      "diziid": "kahh",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/24/kalem_kilictan_keskindir"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "There's a Storm Coming (1)",
+      "diziid": "kahh",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/25/bir_firtina_yaklasiyor%2C_bolum_1"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "There's a Storm Coming (2)",
+      "diziid": "kahh",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/26/bir_firtina_yaklasiyor%2C_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "How The Mighty Med Has Fallen, Part 1 (Part 1 of 2)",
+      "diziid": "kahh",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/27/kahramanlar_hastanesi_nasil_dustu_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "How The Mighty Med Has Fallen, Part 2 (Part 2 of 2)",
+      "diziid": "kahh",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/28/kahramanlar_hastanesi_nasil_dustu_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Lair Lair",
+      "diziid": "kahh",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/29/siginak"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Mighty Mole",
+      "diziid": "kahh",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/30/guclu_kostebek"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "The Claw Prank Redemption",
+      "diziid": "kahh",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/31/pence_sakasi_kefareti"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Do You Want to Build a Lava-Man?",
+      "diziid": "kahh",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/32/bir_lav_adami_yapmak_ister_misiniz"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Storm's End",
+      "diziid": "kahh",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/33/firtinanin_sonu"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Future Tense",
+      "diziid": "kahh",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/34/gelecek_zaman"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Stop Bugging Me",
+      "diziid": "kahh",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/35/beni_rahatsiz_etmeyi_birak"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Less Than Hero!",
+      "diziid": "kahh",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/36/kahramandan_daha_az"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Oliver Hatches the Eggs",
+      "diziid": "kahh",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/37/oliver_yumurtalari_catlatir"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Sparks Fly",
+      "diziid": "kahh",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/38/kivilcimlar"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Wallace and Clyde: A Grand Day Out",
+      "diziid": "kahh",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/39/wallace_ve_clyde%3A_disarida_buyuk_bir_gun"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "The Key to Being a Hero",
+      "diziid": "kahh",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/40/kahraman_olmanin_anahtari"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "New Kids Are the Docs",
+      "diziid": "kahh",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/41/yeni_cocuklar_doktor"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "It's a Matter of Principal",
+      "diziid": "kahh",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/42/bu_bir_mudur_meselesi"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Living a Dream",
+      "diziid": "kahh",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/43/hayalini_yasamak"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "Lab Rats vs. Mighty Med: Part 2",
+      "diziid": "kahh",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/44/laboratuvar_fareleri_kahramanlar_hastanesine_karsi%2C_bolum_2"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "Thanks for the Memory Drives",
+      "diziid": "kahh",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/45/flash_bellek_icin_tesekkurler"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "The Dirt on Kaz & Skylar",
+      "diziid": "kahh",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/46/kaz_ve_skylarda_kir"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "The Mother of All Villains (1)",
+      "diziid": "kahh",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/47/tum_kotuluklerin_anasi%2C_bolum_1"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "The Mother of All Villains (2)",
+      "diziid": "kahh",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/kahh/kahramanlar_hastanesi/48/tum_kotuluklerin_anasi%2C_bolum_2"
+    }
+  ]
+}

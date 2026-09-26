@@ -1,0 +1,93 @@
+{
+  "id": "hitmonk",
+  "title": "marvel's hit-monkey",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/HITMONKPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Aksiyon",
+    "SuÃ§/Polisiye"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "hitmonk",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/hitmonk/marvels_hit-monkey/1/pilot_bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Bright Lights, Big City",
+      "diziid": "hitmonk",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/hitmonk/marvels_hit-monkey/2/parlak_isiklar%2C_buyuk_sehir"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Legend of the Drunken Monkey",
+      "diziid": "hitmonk",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/hitmonk/marvels_hit-monkey/3/sarhos_maymun_efsanesi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Code",
+      "diziid": "hitmonk",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/hitmonk/marvels_hit-monkey/4/sifre"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Run Monkey Run",
+      "diziid": "hitmonk",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/hitmonk/marvels_hit-monkey/5/kos_maymun_kos"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Long Goodbye",
+      "diziid": "hitmonk",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/hitmonk/marvels_hit-monkey/6/uzun_veda"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Sayonara Monkey",
+      "diziid": "hitmonk",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/hitmonk/marvels_hit-monkey/7/sayonara_maymun"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Home Sweet Home",
+      "diziid": "hitmonk",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/hitmonk/marvels_hit-monkey/8/evim_guzel_evim"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The End: Part One",
+      "diziid": "hitmonk",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/hitmonk/marvels_hit-monkey/9/son%3A_birinci_kisim"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The End: Part Two",
+      "diziid": "hitmonk",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/hitmonk/marvels_hit-monkey/10/son%3A_ikinci_kisim"
+    }
+  ]
+}

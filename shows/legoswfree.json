@@ -1,0 +1,222 @@
+{
+  "id": "legoswfree",
+  "title": "lego star wars: freemaker adventures",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/LEGOSWFREEPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "A Hero Discovered",
+      "diziid": "legoswfree",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/1/kahramanin_kesfi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Mines of Graballa",
+      "diziid": "legoswfree",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/2/graballa_madenleri"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Zander's Joyride",
+      "diziid": "legoswfree",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/3/zanderin_gezisi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Lost Treasure of Cloud City",
+      "diziid": "legoswfree",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/4/bulut_kentin_kayip_hazinesi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Peril on Kashyyyk",
+      "diziid": "legoswfree",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/5/kashyyykta_tehlike"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Crossing Paths",
+      "diziid": "legoswfree",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/6/kesisen_yollar"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Race on Tatooine",
+      "diziid": "legoswfree",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/7/tatooinede_yaris"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Test",
+      "diziid": "legoswfree",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/8/test"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Kyber Saber Crystal Chase",
+      "diziid": "legoswfree",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/9/kyber_saber_kristal_kovalamacasi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Maker of Zoh",
+      "diziid": "legoswfree",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/10/zohun_makeri"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Showdown on Hoth",
+      "diziid": "legoswfree",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/11/hothta_hesaplasma"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Duel of Destiny",
+      "diziid": "legoswfree",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/12/kader_duellosu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Return of the Kyber Saber",
+      "diziid": "legoswfree",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/13/kyber_saberin_donusu"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "A New Home",
+      "diziid": "legoswfree",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/14/yeni_bir_ev"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Trouble on Tibalt",
+      "diziid": "legoswfree",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/15/tibaltta_sorun"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "The Tower of Alistan Nor",
+      "diziid": "legoswfree",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/16/alistan_nor_kulesi"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "The Embersteel Blade",
+      "diziid": "legoswfree",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/17/kor_celikten_bicak"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "The Storms of Taul",
+      "diziid": "legoswfree",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/18/taulun_firtinalari"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Return to the Wheel",
+      "diziid": "legoswfree",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/19/wheela_donus"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "The Lost Crystals of Qalydon",
+      "diziid": "legoswfree",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/20/qalydonun_kayip_kristalleri"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "The Pit and the Pinnacle",
+      "diziid": "legoswfree",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/21/cukur_ve_tepe"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Flight of the Arrowhead",
+      "diziid": "legoswfree",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/22/arrowheadin_kacisi"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "A Perilous Rescue",
+      "diziid": "legoswfree",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/23/riskli_kurtarma"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "Escape from Coruscant",
+      "diziid": "legoswfree",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/24/coruscanttan_kacis"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Free Fall",
+      "diziid": "legoswfree",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/25/serbest_dusus"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "Return of the Return of the Jedi",
+      "diziid": "legoswfree",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/legoswfree/lego_star_wars%3A_freemaker_adventures/26/jedinin_donusunun_donusu"
+    }
+  ]
+}

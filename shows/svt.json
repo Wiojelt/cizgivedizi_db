@@ -1,0 +1,413 @@
+{
+  "id": "svt",
+  "title": "sylvester ve tweety",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SVTPoster.avif",
+  "channel": "Planet Ã‡ocuk",
+  "genres": [
+    "Gizem",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Cat Who Knew Too Much",
+      "diziid": "svt",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/1/cok_sey_bilen_kedi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Platinum Wheel of Fortune",
+      "diziid": "svt",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/2/platinum_sans_carki"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Double Take",
+      "diziid": "svt",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/3/suclu_buyukanne"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "A Chip Off the Old Castle",
+      "diziid": "svt",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/4/eski_kaleden_bir_cip"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Something Fishy Around Here",
+      "diziid": "svt",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/5/kayip_balik"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "B2 or Not B2",
+      "diziid": "svt",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/6/b2_veya_b2_degil"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Bull Running on Empty",
+      "diziid": "svt",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/7/bosta_calisan_boga"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "A Ticket to Crime",
+      "diziid": "svt",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/8/suc_bir_bilet"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Maltese Canary",
+      "diziid": "svt",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/9/malta_kanarya"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "It Happened One Night Before Christmas",
+      "diziid": "svt",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/10/noelden_bir_gece_once_oldu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Outback Down Under",
+      "diziid": "svt",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/11/kayip_koyunlar"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "It's a Plaid, Plaid, Plaid, Plaid World",
+      "diziid": "svt",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/12/bu_bir_ekose%2C_ekose%2C_ekose%2C_ekose_dunya"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Go Fig",
+      "diziid": "svt",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/13/incirler_kayip"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Spaced Out / Autumn's Leaving",
+      "diziid": "svt",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/14/uzayli_istilasi__sonbaharin_ayrilisi"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Catch as Catch Cannes / Yodel Recall",
+      "diziid": "svt",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/15/calinti_festival__kayip_muzisyenler"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Don't Polka Me / The Granny Vanishes",
+      "diziid": "svt",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/16/bana_polka_yapma__buyukanne_kayboluyor"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "The Scare Up There / If It's Wednesday, This Must Be Holland",
+      "diziid": "svt",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/17/yaramaz_cuceler__gunlerden_carsambaysa%2C_burasi_hollanda_olmali%21"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Curse of De Nile / Hawaii 33-1/3",
+      "diziid": "svt",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/18/nilin_laneti__hawaii_soyuluyor"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Keep Your Pantheon / London Broiled",
+      "diziid": "svt",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/19/pandoranin_kutusu__londra_turu"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "They Call Me Mister Lincoln / Froggone It",
+      "diziid": "svt",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/20/lincolnun_laneti__kurbaga_kordugum"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "One Froggy Throat / Mush Ado About Nothing",
+      "diziid": "svt",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/21/kurbaga_tenor__kizak_kedisi"
+    },
+    {
+      "season": 1,
+      "episode": 22,
+      "title": "The Star of Bombay / Happy Pranksgiving",
+      "diziid": "svt",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/22/bombay_yildizi__mutlu_saka_gunleri"
+    },
+    {
+      "season": 2,
+      "episode": 23,
+      "title": "Is Paris Stinking? / Fangs for the Memories",
+      "diziid": "svt",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/23/paris_kokusuyor_mu__vampir_ve_kale"
+    },
+    {
+      "season": 3,
+      "episode": 24,
+      "title": "Moscow Side Story / Fair's Fair",
+      "diziid": "svt",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/24/moskova_yakasi_hikayesi__turtayi_gozunden_vurmak"
+    },
+    {
+      "season": 4,
+      "episode": 25,
+      "title": "El Dia de los Pussygatos / 3 Days & 2 Nights of the Condor",
+      "diziid": "svt",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/25/pisi_pisi_gunu__akbabanin_3_gun_ve_2_gecesi"
+    },
+    {
+      "season": 5,
+      "episode": 26,
+      "title": "Jeepers Creepers / Yelp!",
+      "diziid": "svt",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/26/imdat__hirsiz_kedi"
+    },
+    {
+      "season": 6,
+      "episode": 27,
+      "title": "Fleas Release Me / Niagara's Fallen",
+      "diziid": "svt",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/27/ucusan_pireler__niagara_cagliyor"
+    },
+    {
+      "season": 7,
+      "episode": 28,
+      "title": "Spooker of the House / Furgo",
+      "diziid": "svt",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/28/sylvestera_musallat_olan_hayalet__portlek_ordek"
+    },
+    {
+      "season": 10,
+      "episode": 29,
+      "title": "Ice Cat-Pades / To Catch a Puddy",
+      "diziid": "svt",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/31/ince_buzdaki_kediler__kedi_avi"
+    },
+    {
+      "season": 11,
+      "episode": 30,
+      "title": "Family Circles / Sea You Later",
+      "diziid": "svt",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/32/ailevi_daireler__denizayilari_ve_hiyarlari"
+    },
+    {
+      "season": 12,
+      "episode": 31,
+      "title": "A Case of Red Herring / Roswell That Ends Well",
+      "diziid": "svt",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/33/kirmizi_ringa_davasi__mutlu_sonlu_uzayli_macera"
+    },
+    {
+      "season": 13,
+      "episode": 32,
+      "title": "A Good Nephew Is Hard to Find / Mirage Sale",
+      "diziid": "svt",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/34/iyi_bir_yegen_zor_bulunur__serap_tuzaklari"
+    },
+    {
+      "season": 1,
+      "episode": 33,
+      "title": "The Stilted Perch / A Game of Cat and Monster",
+      "diziid": "svt",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/35/tatil_tuzagi__kedi_canavar_oyunu"
+    },
+    {
+      "season": 2,
+      "episode": 34,
+      "title": "You're Thor?! / I Gopher You",
+      "diziid": "svt",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/36/viking_macerasi__gurultu_operasyonu"
+    },
+    {
+      "season": 3,
+      "episode": 35,
+      "title": "Hold the Lyin' King Please / Suite Mystery of Wife",
+      "diziid": "svt",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/37/yalanci_kral__karimin_tatli_sirri_-_sonunda_ogrendim..."
+    },
+    {
+      "season": 4,
+      "episode": 36,
+      "title": "The San Francisco Beat / The Triangle of Terror",
+      "diziid": "svt",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/38/san_fransisco_macerasi__teror_ucgeni"
+    },
+    {
+      "season": 5,
+      "episode": 37,
+      "title": "Casino Evil / Happy Bath Day to You",
+      "diziid": "svt",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/39/albino_maymun__banyo_gunun_kutlu_olsun"
+    },
+    {
+      "season": 6,
+      "episode": 38,
+      "title": "The Rotha Khan / Good Bird Hunting",
+      "diziid": "svt",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/40/rotha-khan__iyi_kus_avi"
+    },
+    {
+      "season": 7,
+      "episode": 39,
+      "title": "Feather Christmas / A Fist Full of Lutefisk",
+      "diziid": "svt",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/41/tuylu_noel__bir_avuc_morila"
+    },
+    {
+      "season": 8,
+      "episode": 40,
+      "title": "The Fifty Karat Furball / Venice, Anyone?",
+      "diziid": "svt",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/42/venedikte_gizem__elli_karat_kurk_topu"
+    },
+    {
+      "season": 9,
+      "episode": 41,
+      "title": "Son of Roswell That Ends Well / A Mynah Problem",
+      "diziid": "svt",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/43/roswellin_oglu__sigircik_sorunu"
+    },
+    {
+      "season": 10,
+      "episode": 42,
+      "title": "Whatever Happened to Shorty Twang? / A Big Knight Out",
+      "diziid": "svt",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/44/kayip_yildiz__biri_sakar_bir_sovalye"
+    },
+    {
+      "season": 11,
+      "episode": 43,
+      "title": "Brussels Sprouts / The Golden Bird of Shangri-Claw",
+      "diziid": "svt",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/45/bruksel_lahanasi__shangri-patinin_altin_kusu"
+    },
+    {
+      "season": 12,
+      "episode": 44,
+      "title": "When Granny Ruled the Earth / Dutch Tweet",
+      "diziid": "svt",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/46/buyukanne_dunyanin_hakimiyken__tweety_amsterdamda"
+    },
+    {
+      "season": 13,
+      "episode": 45,
+      "title": "Bayou on the Half Shell / Seeing Double",
+      "diziid": "svt",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/47/kabuk_ustu_kol__cift_gormek"
+    },
+    {
+      "season": 1,
+      "episode": 46,
+      "title": "This Is the Kitty / An Eye for an Aye Aye",
+      "diziid": "svt",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/48/bu_kedi__hazine_avi"
+    },
+    {
+      "season": 2,
+      "episode": 47,
+      "title": "When Harry Met Sallieri / Early Woim Gets the Boid",
+      "diziid": "svt",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/49/harry_salieri_ile_tanistiginda__kayip_solucanlar"
+    },
+    {
+      "season": 3,
+      "episode": 48,
+      "title": "The Blackboard Jumble / What's the Frequency Kitty?",
+      "diziid": "svt",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/50/kara_tahta_savasi__frekans"
+    },
+    {
+      "season": 4,
+      "episode": 49,
+      "title": "Dial V for Veterinarian / California's Crusty Bronze",
+      "diziid": "svt",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/51/veteriner__kaliforniyanin_huysuz_bronzu"
+    },
+    {
+      "season": 5,
+      "episode": 50,
+      "title": "The Tail End / This Is the End",
+      "diziid": "svt",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/svt/sylvester_ve_tweety/52/kuyruk_sonu__bu_son"
+    }
+  ]
+}

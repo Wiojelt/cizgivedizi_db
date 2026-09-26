@@ -1,0 +1,981 @@
+{
+  "id": "heman",
+  "title": "he-man",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/HEMANPoster.avif",
+  "channel": "Star TV",
+  "genres": [
+    "Aksiyon",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Diamond Ray of Disappearance",
+      "diziid": "heman",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/1/kaybolusun_elmas_isini"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Teela's Quest",
+      "diziid": "heman",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/2/teelanin_gorevi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Colossor Awakes",
+      "diziid": "heman",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/3/colossorun_uyanisi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Dragon Invasion",
+      "diziid": "heman",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/4/ejderha_istilasi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Curse of the Spellstone",
+      "diziid": "heman",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/5/buyu_tasinin_laneti"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Time Corridor",
+      "diziid": "heman",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/6/zaman_koridoru"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Creatures from the Tar Swamp",
+      "diziid": "heman",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/7/katran_batakliginin_yaratiklari"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Song of Celice",
+      "diziid": "heman",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/8/celicein_sarkisi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "She-Demon of Phantos",
+      "diziid": "heman",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/9/phantosun_kadin_seytani"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Reign of the Monster",
+      "diziid": "heman",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/10/canavarin_saltanati"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Like Father, Like Daughter",
+      "diziid": "heman",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/11/kizi_da_babasi_gibi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Disappearing Act",
+      "diziid": "heman",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/12/kaybolus_oyunu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Evil-Lyn's Plot",
+      "diziid": "heman",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/13/kotu_lynin_oyunu"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Dawn of Dragoon",
+      "diziid": "heman",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/14/ejderhanin_yikilisi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Prince Adam No More",
+      "diziid": "heman",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/15/artik_prens_adam_yok"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "A Friend in Need",
+      "diziid": "heman",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/16/ihtiyac_icindeki_dost"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Daimar the Demon",
+      "diziid": "heman",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/17/iblis_daimar"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Dragon's Gift",
+      "diziid": "heman",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/18/ejderhanin_yetenegi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Shaping Staff",
+      "diziid": "heman",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/19/yok_edici_asa"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Cosmic Comet",
+      "diziid": "heman",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/20/kozmik_kuyruklu_yildiz"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Taking of Grayskull",
+      "diziid": "heman",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/21/golgeler_satosunun_alinisi"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Double Edged Sword",
+      "diziid": "heman",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/22/iki_tarafli_kilic"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Quest for He-Man",
+      "diziid": "heman",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/23/he-man_icin_goreve"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Orko's Favorite Uncle",
+      "diziid": "heman",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/24/orkonun_en_sevdigi_amcasi"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Quest for the Sword",
+      "diziid": "heman",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/25/kilic_gorevi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "A Beastly Sideshow",
+      "diziid": "heman",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/26/hayvani_bir_gosteri"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "A Tale of Two Cities",
+      "diziid": "heman",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/27/iki_sehrin_hikayesi"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Valley of Power",
+      "diziid": "heman",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/28/guc_vadisi"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Game Plan",
+      "diziid": "heman",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/29/oyun_plani"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "The Return of Orko's Uncle",
+      "diziid": "heman",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/30/orkonun_amcasinin_donusu"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "The Mystery of Man-E-Faces",
+      "diziid": "heman",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/31/cok_suratli_adamin_esrari"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Keeper of the Ancient Ruins",
+      "diziid": "heman",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/32/eski_yikintilarin_koruyuculari"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "The Region of Ice",
+      "diziid": "heman",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/33/buzlar_ulkesi"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Masks of Power",
+      "diziid": "heman",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/34/guc_maskeleri"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Ordeal in the Darklands",
+      "diziid": "heman",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/35/karanlik_topraklarda_sikinti"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "City Beneath the Sea",
+      "diziid": "heman",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/36/denizin_altindaki_sehir"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "The Defection",
+      "diziid": "heman",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/37/cekilis"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Teela's Trial",
+      "diziid": "heman",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/38/teelanin_yolculugu"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "The Starchild",
+      "diziid": "heman",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/39/yildiz_cocuk"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Orko's Missing Magic",
+      "diziid": "heman",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/40/orkonun_kayip_sihri"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "The Search",
+      "diziid": "heman",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/41/arayis"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Eternal Darkness",
+      "diziid": "heman",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/42/sonsuz_karanlik"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "The Royal Cousin",
+      "diziid": "heman",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/43/kralin_kuzeni"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Return of Evil",
+      "diziid": "heman",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/44/kotulugun_donusu"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Eye of the Beholder",
+      "diziid": "heman",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/45/gozlemcinin_gozu"
+    },
+    {
+      "season": 47,
+      "episode": 46,
+      "title": "Trouble in Arcadia",
+      "diziid": "heman",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/47/arcadiadaki_sorun"
+    },
+    {
+      "season": 48,
+      "episode": 47,
+      "title": "Castle of Heroes",
+      "diziid": "heman",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/48/kahramanlar_kalesi"
+    },
+    {
+      "season": 49,
+      "episode": 48,
+      "title": "Temple of the Sun",
+      "diziid": "heman",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/49/gunes_tapinagi"
+    },
+    {
+      "season": 50,
+      "episode": 49,
+      "title": "Wizard of Stone Mountain",
+      "diziid": "heman",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/50/tas_daginin_sihirbazi"
+    },
+    {
+      "season": 51,
+      "episode": 50,
+      "title": "Dree Elle's Return",
+      "diziid": "heman",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/51/dree_ellein_donusu"
+    },
+    {
+      "season": 52,
+      "episode": 51,
+      "title": "The Sleepers Awaken",
+      "diziid": "heman",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/52/uyuyanlar_uyanirken"
+    },
+    {
+      "season": 53,
+      "episode": 52,
+      "title": "Return of the Gryphon",
+      "diziid": "heman",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/53/gryphonun_donusu"
+    },
+    {
+      "season": 54,
+      "episode": 53,
+      "title": "The Return of Granamyr",
+      "diziid": "heman",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/54/granamyrin_donusu"
+    },
+    {
+      "season": 55,
+      "episode": 54,
+      "title": "Pawns of the Game Master",
+      "diziid": "heman",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/55/oyun_ustasinin_rehini"
+    },
+    {
+      "season": 56,
+      "episode": 55,
+      "title": "The Huntsman",
+      "diziid": "heman",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/56/avci"
+    },
+    {
+      "season": 57,
+      "episode": 56,
+      "title": "The Remedy",
+      "diziid": "heman",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/57/care"
+    },
+    {
+      "season": 58,
+      "episode": 57,
+      "title": "The Witch and the Warrior",
+      "diziid": "heman",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/58/cadi_ve_savasci"
+    },
+    {
+      "season": 59,
+      "episode": 58,
+      "title": "Evilseed",
+      "diziid": "heman",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/59/kotuluk_tohumu"
+    },
+    {
+      "season": 60,
+      "episode": 59,
+      "title": "Search for the VHO",
+      "diziid": "heman",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/60/vhoyu_aramak"
+    },
+    {
+      "season": 61,
+      "episode": 60,
+      "title": "House of Shokoti Part 1",
+      "diziid": "heman",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/61/shokotinin_evi_bolum_1"
+    },
+    {
+      "season": 62,
+      "episode": 61,
+      "title": "House of Shokoti Part 2",
+      "diziid": "heman",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/62/shokotinin_evi_bolum_2"
+    },
+    {
+      "season": 63,
+      "episode": 62,
+      "title": "The Once and Future Duke",
+      "diziid": "heman",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/63/simdinin_ve_gelecegin_duku"
+    },
+    {
+      "season": 64,
+      "episode": 63,
+      "title": "Golden Disks of Knowledge",
+      "diziid": "heman",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/64/bilimin_altin_diskleri"
+    },
+    {
+      "season": 65,
+      "episode": 64,
+      "title": "The Heart of a Giant",
+      "diziid": "heman",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/65/bir_devin_atesi"
+    },
+    {
+      "season": 1,
+      "episode": 65,
+      "title": "The Shadow of Skeletor",
+      "diziid": "heman",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/66/iskeletorun_golgesi"
+    },
+    {
+      "season": 2,
+      "episode": 66,
+      "title": "The Energy Beast",
+      "diziid": "heman",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/67/enerji_canavari"
+    },
+    {
+      "season": 3,
+      "episode": 67,
+      "title": "Fisto's Forest",
+      "diziid": "heman",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/68/fistonun_ormani"
+    },
+    {
+      "season": 4,
+      "episode": 68,
+      "title": "The Gamesman",
+      "diziid": "heman",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/69/oyuncu"
+    },
+    {
+      "season": 5,
+      "episode": 69,
+      "title": "The Rarest Gift of All",
+      "diziid": "heman",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/70/en_guzel_hediye"
+    },
+    {
+      "season": 7,
+      "episode": 70,
+      "title": "The Good Shall Survive",
+      "diziid": "heman",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/72/iyiler_kazanir"
+    },
+    {
+      "season": 8,
+      "episode": 71,
+      "title": "Day of the Machines",
+      "diziid": "heman",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/73/makinelerin_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 72,
+      "title": "The Cat and the Spider",
+      "diziid": "heman",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/74/kedi_ve_orumcek"
+    },
+    {
+      "season": 10,
+      "episode": 73,
+      "title": "Trouble in Trolla",
+      "diziid": "heman",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/75/trollada_bela"
+    },
+    {
+      "season": 11,
+      "episode": 74,
+      "title": "The Great Books Mystery",
+      "diziid": "heman",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/76/kayip_kitaplarin_sirri"
+    },
+    {
+      "season": 12,
+      "episode": 75,
+      "title": "Origin of the Sorceress",
+      "diziid": "heman",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/77/buyucunun_hikayesi"
+    },
+    {
+      "season": 13,
+      "episode": 76,
+      "title": "Betrayal of Stratos",
+      "diziid": "heman",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/78/stratosun_ihaneti"
+    },
+    {
+      "season": 14,
+      "episode": 77,
+      "title": "The Ice Age Cometh",
+      "diziid": "heman",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/79/buzul_cagi"
+    },
+    {
+      "season": 15,
+      "episode": 78,
+      "title": "The Arena",
+      "diziid": "heman",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/80/arena"
+    },
+    {
+      "season": 16,
+      "episode": 79,
+      "title": "Disappearing Dragons",
+      "diziid": "heman",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/81/kaybolan_ejderhalar"
+    },
+    {
+      "season": 17,
+      "episode": 80,
+      "title": "Island of Fear",
+      "diziid": "heman",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/82/korku_adasi"
+    },
+    {
+      "season": 18,
+      "episode": 81,
+      "title": "Revenge is Never Sweet",
+      "diziid": "heman",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/83/intikamin_tadi_yoktur"
+    },
+    {
+      "season": 19,
+      "episode": 82,
+      "title": "The Littlest Giant",
+      "diziid": "heman",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/84/en_kucuk_dev"
+    },
+    {
+      "season": 20,
+      "episode": 83,
+      "title": "Attack from Below",
+      "diziid": "heman",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/85/asagidan_gelen_saldiri"
+    },
+    {
+      "season": 21,
+      "episode": 84,
+      "title": "Into the Abyss",
+      "diziid": "heman",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/86/ucurumda"
+    },
+    {
+      "season": 22,
+      "episode": 85,
+      "title": "Fraidy Cat",
+      "diziid": "heman",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/87/korkak_kedi"
+    },
+    {
+      "season": 23,
+      "episode": 86,
+      "title": "The Rainbow Warrior",
+      "diziid": "heman",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/88/gokkusagi_savascisi"
+    },
+    {
+      "season": 24,
+      "episode": 87,
+      "title": "A Trip to Morainia",
+      "diziid": "heman",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/89/morainiaya_yolculuk"
+    },
+    {
+      "season": 25,
+      "episode": 88,
+      "title": "Things That Go Bump in the Night",
+      "diziid": "heman",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/90/gece_ters_giden_isler"
+    },
+    {
+      "season": 26,
+      "episode": 89,
+      "title": "Three on a Dare",
+      "diziid": "heman",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/91/tehdit_altinda_uc_kisi"
+    },
+    {
+      "season": 27,
+      "episode": 90,
+      "title": "Just a Little Lie",
+      "diziid": "heman",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/92/ufacik_bir_yalan"
+    },
+    {
+      "season": 28,
+      "episode": 91,
+      "title": "One for All",
+      "diziid": "heman",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/93/hepimiz_birimiz_icin"
+    },
+    {
+      "season": 29,
+      "episode": 92,
+      "title": "Jacob and the Widgets",
+      "diziid": "heman",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/94/jacob_ve_widgetlar"
+    },
+    {
+      "season": 30,
+      "episode": 93,
+      "title": "Trouble's Middle Name",
+      "diziid": "heman",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/95/gobek_adi_bela"
+    },
+    {
+      "season": 31,
+      "episode": 94,
+      "title": "Journey to Stone City",
+      "diziid": "heman",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/96/tas_sehrine_yolculuk"
+    },
+    {
+      "season": 32,
+      "episode": 95,
+      "title": "A Bird in the Hand",
+      "diziid": "heman",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/97/eldeki_kus"
+    },
+    {
+      "season": 33,
+      "episode": 96,
+      "title": "Battlecat",
+      "diziid": "heman",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/98/atilgan"
+    },
+    {
+      "season": 34,
+      "episode": 97,
+      "title": "The Time Wheel",
+      "diziid": "heman",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/99/zaman_carki"
+    },
+    {
+      "season": 35,
+      "episode": 98,
+      "title": "Search for the Past",
+      "diziid": "heman",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/100/gecmisi_aramak"
+    },
+    {
+      "season": 36,
+      "episode": 99,
+      "title": "Hunt for He-Man",
+      "diziid": "heman",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/101/he-mani_avlamak"
+    },
+    {
+      "season": 37,
+      "episode": 100,
+      "title": "The Greatest Show on Eternia",
+      "diziid": "heman",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/102/eterniadaki_en_buyuk_gosteri"
+    },
+    {
+      "season": 38,
+      "episode": 101,
+      "title": "Not So Blind",
+      "diziid": "heman",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/103/o_kadar_da_kor_degil"
+    },
+    {
+      "season": 39,
+      "episode": 102,
+      "title": "The Secret of Grayskull",
+      "diziid": "heman",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/104/satonun_sirri"
+    },
+    {
+      "season": 40,
+      "episode": 103,
+      "title": "No Job Too Small",
+      "diziid": "heman",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/105/kucuk_is_yoktur"
+    },
+    {
+      "season": 41,
+      "episode": 104,
+      "title": "The Bitter Rose",
+      "diziid": "heman",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/106/aci_gul_efsanesi"
+    },
+    {
+      "season": 42,
+      "episode": 105,
+      "title": "The Gambler",
+      "diziid": "heman",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/107/kumarbaz"
+    },
+    {
+      "season": 43,
+      "episode": 106,
+      "title": "Teela's Triumph",
+      "diziid": "heman",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/108/teelanin_zaferi"
+    },
+    {
+      "season": 44,
+      "episode": 107,
+      "title": "Orko's New Friend",
+      "diziid": "heman",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/109/orkonun_yeni_arkadasi"
+    },
+    {
+      "season": 45,
+      "episode": 108,
+      "title": "The Problem with Power",
+      "diziid": "heman",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/110/guc_sorunu"
+    },
+    {
+      "season": 46,
+      "episode": 109,
+      "title": "Double Trouble",
+      "diziid": "heman",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/111/cifte_bela"
+    },
+    {
+      "season": 47,
+      "episode": 110,
+      "title": "The Eternia Flower",
+      "diziid": "heman",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/112/eternia_cicegi"
+    },
+    {
+      "season": 48,
+      "episode": 111,
+      "title": "Happy Birthday Roboto",
+      "diziid": "heman",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/113/iyi_ki_dogun_roboto"
+    },
+    {
+      "season": 49,
+      "episode": 112,
+      "title": "Battle of the Dragons",
+      "diziid": "heman",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/114/ejderhalarin_savasi"
+    },
+    {
+      "season": 50,
+      "episode": 113,
+      "title": "Time Doesn't Fly",
+      "diziid": "heman",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/115/zaman_durdugunda"
+    },
+    {
+      "season": 51,
+      "episode": 114,
+      "title": "Here, There, Skeletors Everywhere",
+      "diziid": "heman",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/116/orada%2C_burada_iskeletor_her_yerde"
+    },
+    {
+      "season": 52,
+      "episode": 115,
+      "title": "Beauty and the Beast",
+      "diziid": "heman",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/117/guzel_ve_cirkin"
+    },
+    {
+      "season": 53,
+      "episode": 116,
+      "title": "Orko's Return",
+      "diziid": "heman",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/118/orkonun_donusu"
+    },
+    {
+      "season": 54,
+      "episode": 117,
+      "title": "Visitors from Earth",
+      "diziid": "heman",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/119/dunyadan_ziyaretciler"
+    },
+    {
+      "season": 55,
+      "episode": 118,
+      "title": "Monster on the Mountain",
+      "diziid": "heman",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/120/dagdaki_canavar"
+    },
+    {
+      "season": 56,
+      "episode": 119,
+      "title": "The Magic Falls",
+      "diziid": "heman",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/121/sihirli_selale"
+    },
+    {
+      "season": 64,
+      "episode": 120,
+      "title": "To Save the Creatures",
+      "diziid": "heman",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/129/yaratiklari_kurtarmak_icin"
+    },
+    {
+      "season": 65,
+      "episode": 121,
+      "title": "The Cold Zone",
+      "diziid": "heman",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/heman/he-man/130/soguk_bolge"
+    }
+  ]
+}

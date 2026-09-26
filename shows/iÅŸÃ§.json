@@ -1,0 +1,821 @@
+{
+  "id": "iÅŸÃ§",
+  "title": "iyi ÅŸanslar charlie",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/I%C5%9E%C3%87Poster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Study Date",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/1/ders_bulusmasi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Baby Come Back",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/2/geri_gel_bebek"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Curious Case of Mr. Dabney",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/3/ilginc_bay_dabney_vakasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Double Whammy",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/4/cifte_dert"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Dance Off",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/5/dans_kapismasi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Charlie Did It!",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/6/charlie_yapti_yapacagini%21"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Butt Dialing Duncans",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/7/duncanlar_popolariyla_telefon_aciyor"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Charlie Is 1",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/8/charlie_1_yasinda"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Up a Tree",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/9/agacin_ustunde"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Take Mel Out to the Ball Game",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/10/meli_maca_gotur"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Boy Meet Girls",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/11/oglanlar_kizlarla_bulusuyor"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Kit and Kaboodle",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/12/kit_ve_kaboodle"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Teddy's Little Helper",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/13/teddynin_minik_yardimcisi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Blankie Go Bye-Bye",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/14/battaniye_attaya_gitti"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Charlie Goes Viral",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/15/charlie_meshur_oluyor"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Duncans Got Talent",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/16/yetenek_sizsiniz_duncanlar"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Kwikki Chick",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/17/bayan_cabuk_tavuk"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Charlie in Charge",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/18/yetki_charliede"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Sleepless in Denver",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/19/denverda_uykusuz_bir_gece"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Girl Bites Dog",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/20/kiz_kopegi_isirir"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Teddy's Broken Heart Club Band",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/21/teddynin_kirik_kalpler_grubu"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Teddy's New Beau",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/22/teddynin_yeni_sevgilisi_var"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Pushing Buttons",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/23/dugme_dusmani_charlie"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Snow Show: Part 1",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/24/kar_gosterisi_bolum_1"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Snow Show: Part 2",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/25/kar_gosterisi_bolum_2"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Driving Mrs. Dabney",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/26/bayan_dabney_ile_gezinti"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Charlie Is 2!",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/27/charlie_2_yasinda%21"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Something's Fishy",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/28/bityenigi"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Let's Potty",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/29/tuvalet_egitimi"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Appy Days",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/30/uygulama_dolu_gunler"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Duncan vs. Duncan",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/31/duncan%2C_duncana_karsi"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "A L.A.R.P. in the Park",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/32/parkta_rol_yapma_oyunu"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Battle of the Bands",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/33/grup_savasi"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "The Singin' Dancin' Duncans",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/34/duncanlar_gosteri_ekibi"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Teddy's Bear",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/35/teddynin_ayisi"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Meet the Parents",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/36/iste_ailem"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Gabe's 12-1/2 Birthday",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/37/gabein_12_-_1__2._dogum_gunu"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "The Break Up",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/38/ayrilik"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Charlie Shakes It Up",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/39/charlie_calkalar"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "Baby's New Shoes",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/40/bebegin_yeni_ayakkabilari"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "Bye Bye Video Diary",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/41/elveda_video_gunlugu"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Monkey Business",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/42/uckagit"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "PJ in the City",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/43/pj_buyuk_sehirde"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "Sun Show: Part 1",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/44/gunes_gosterisi_bolum_1"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "Sun Show: Part 2",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/45/gunes_gosterisi_bolum_2"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "Amazing Gracie",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/46/sahane_gracie"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "Termite Queen",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/47/kralice_termit"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "The Bob Duncan Experience",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/48/bob_duncan_deneyimi"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "Ditch Day",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/49/okulu_asma_gunu"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "Alley Oops",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/50/paslasmalar"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "Scary Had a Little Lamb",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/51/dandini_dandini_korkmaya"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "It's a Charlie Duncan Thanksgiving",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/52/bir_charlie_duncan_sukran_gunu"
+    },
+    {
+      "season": 27,
+      "episode": 53,
+      "title": "Return to Super Adventure Land",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/53/super_macera_diyarina_donus"
+    },
+    {
+      "season": 28,
+      "episode": 54,
+      "title": "Can You Keep a Secret?",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/54/sir_tutabilir_misin"
+    },
+    {
+      "season": 29,
+      "episode": 55,
+      "title": "Story Time",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/55/hikaye_zamani"
+    },
+    {
+      "season": 30,
+      "episode": 56,
+      "title": "Teddy on Ice",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/56/teddy_buz_ustunde"
+    },
+    {
+      "season": 1,
+      "episode": 57,
+      "title": "Make Room for Baby",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/57/bebege_yer_acin"
+    },
+    {
+      "season": 2,
+      "episode": 58,
+      "title": "Bad Luck Teddy",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/58/bahtsiz_teddy"
+    },
+    {
+      "season": 3,
+      "episode": 59,
+      "title": "Amy Needs a Shower",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/59/amyye_parti_gerek"
+    },
+    {
+      "season": 4,
+      "episode": 60,
+      "title": "Dress Mess",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/60/korkunc_dabney"
+    },
+    {
+      "season": 5,
+      "episode": 61,
+      "title": "Catch Me If You Can",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/61/yakala_yakalayabilirsen"
+    },
+    {
+      "season": 6,
+      "episode": 62,
+      "title": "Name That Baby!",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/62/bebege_isim_ver"
+    },
+    {
+      "season": 7,
+      "episode": 63,
+      "title": "Special Delivery (1)",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/63/ozel_teslimat_bolum_1"
+    },
+    {
+      "season": 8,
+      "episode": 64,
+      "title": "Special Delivery (2)",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/64/ozel_teslimat_bolum_2"
+    },
+    {
+      "season": 9,
+      "episode": 65,
+      "title": "Welcome Home",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/65/eve_hos_geldin"
+    },
+    {
+      "season": 10,
+      "episode": 66,
+      "title": "Baby's First Vacation",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/66/bebegin_ilk_tatili"
+    },
+    {
+      "season": 11,
+      "episode": 67,
+      "title": "Wentz's Weather Girls",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/67/wentzin_hava_durumu_kizlari"
+    },
+    {
+      "season": 12,
+      "episode": 68,
+      "title": "Baby Steps",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/68/bebek_adimlari"
+    },
+    {
+      "season": 13,
+      "episode": 69,
+      "title": "T. Wrecks",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/69/t._wrecks"
+    },
+    {
+      "season": 14,
+      "episode": 70,
+      "title": "Teddy and the Bambino",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/70/teddy_ve_bebek"
+    },
+    {
+      "season": 15,
+      "episode": 71,
+      "title": "Team Mom",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/71/takim_annesi"
+    },
+    {
+      "season": 16,
+      "episode": 72,
+      "title": "Le Halloween",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/72/lo_cadilar_bayrami"
+    },
+    {
+      "season": 17,
+      "episode": 73,
+      "title": "Guys & Dolls",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/73/beyler_ve_bebekler"
+    },
+    {
+      "season": 18,
+      "episode": 74,
+      "title": "Nurse Blankenhooper",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/74/hemsire_blankenhooper"
+    },
+    {
+      "season": 19,
+      "episode": 75,
+      "title": "Charlie Whisperer",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/75/charlie_terbiyecisi"
+    },
+    {
+      "season": 20,
+      "episode": 76,
+      "title": "Study Buddy",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/76/calisma_arkadasi"
+    },
+    {
+      "season": 21,
+      "episode": 77,
+      "title": "A Duncan Christmas",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/77/bir_duncan_yilbasisi"
+    },
+    {
+      "season": 22,
+      "episode": 78,
+      "title": "All Fall Down (1)",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/78/her_sey_kotuye_gider_bolum_1"
+    },
+    {
+      "season": 23,
+      "episode": 79,
+      "title": "All Fall Down (2)",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/79/her_sey_kotuye_gider_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 80,
+      "title": "Duncan Dream House",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/80/duncan_ruya_evi"
+    },
+    {
+      "season": 2,
+      "episode": 81,
+      "title": "Doppel Date",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/81/ikiz_randevu"
+    },
+    {
+      "season": 3,
+      "episode": 82,
+      "title": "Go Teddy!",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/82/haydi_teddy%21"
+    },
+    {
+      "season": 4,
+      "episode": 83,
+      "title": "Demolition Dabney",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/83/korkunc_dabney"
+    },
+    {
+      "season": 5,
+      "episode": 84,
+      "title": "Rock, Enroll",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/84/iyi_basvurular_teddy"
+    },
+    {
+      "season": 6,
+      "episode": 85,
+      "title": "The Unusual Suspects",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/85/olagandisi_supheliler"
+    },
+    {
+      "season": 7,
+      "episode": 86,
+      "title": "Rat-a-Teddy",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/86/fare_ve_teddy"
+    },
+    {
+      "season": 8,
+      "episode": 87,
+      "title": "Charlie 4, Toby 1",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/87/charlie_4%2C_toby_1"
+    },
+    {
+      "season": 9,
+      "episode": 88,
+      "title": "Futuredrama",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/88/gelecek_drama"
+    },
+    {
+      "season": 10,
+      "episode": 89,
+      "title": "Teddy's New Beau",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/89/teddynin_yeni_beausu"
+    },
+    {
+      "season": 11,
+      "episode": 90,
+      "title": "Teddy's Choice",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/90/teddynin_tercihi"
+    },
+    {
+      "season": 12,
+      "episode": 91,
+      "title": "Bug Prom",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/91/bocek_balosu"
+    },
+    {
+      "season": 13,
+      "episode": 92,
+      "title": "Weekend in Vegas",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/92/vegasta_hafta_sonu"
+    },
+    {
+      "season": 14,
+      "episode": 93,
+      "title": "Fright Knight",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/93/cadilar_bayrami_ruhu"
+    },
+    {
+      "season": 15,
+      "episode": 94,
+      "title": "Sister, Sister",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/94/abla%2C_kardes"
+    },
+    {
+      "season": 16,
+      "episode": 95,
+      "title": "Bob's Beau-Be-Gone",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/95/bobun_eski_elemani_beau"
+    },
+    {
+      "season": 17,
+      "episode": 96,
+      "title": "Good Luck Jessie: NYC Christmas, Part 1",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/96/iyi_sanslar_jessie%3A_yilbasi_ozel_bolum_1"
+    },
+    {
+      "season": 18,
+      "episode": 97,
+      "title": "Good Luck Jessie: NYC Christmas, Part 2",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/97/iyi_sanslar_jessie%3A_yilbasi_ozel_bolum_2"
+    },
+    {
+      "season": 19,
+      "episode": 98,
+      "title": "Accepted",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/98/kabul_edildi"
+    },
+    {
+      "season": 20,
+      "episode": 99,
+      "title": "Down a Tree",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/99/bir_agacin_golgesi"
+    },
+    {
+      "season": 21,
+      "episode": 100,
+      "title": "Good Luck Teddy (Part 1 of 2)",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/100/iyi_gunler_charlie_bolum_1"
+    },
+    {
+      "season": 22,
+      "episode": 101,
+      "title": "Good Luck Teddy (Part 2 of 2)",
+      "diziid": "i%C5%9F%C3%A7",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/i%C5%9F%C3%A7/iyi_sanslar_charlie/101/iyi_gunler_charlie_bolum_2"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "ivn",
+  "title": "cesur prens Ä±vandoe (kÄ±salar)",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/IVNPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Macera",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Prince and the Sassy Gnomes",
+      "diziid": "ivn",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ivn/cesur_prens_ivandoe_kisalar/1/prens_ve_arsiz_gnomelar"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Prince and the Hissy Swan",
+      "diziid": "ivn",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ivn/cesur_prens_ivandoe_kisalar/2/prens_ve_ofkeli_kugu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Prince and the Kissy Frog",
+      "diziid": "ivn",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ivn/cesur_prens_ivandoe_kisalar/3/prens_ve_sevgi_dolu_kurbaga"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Prince and the Thieftress",
+      "diziid": "ivn",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ivn/cesur_prens_ivandoe_kisalar/4/prens_ve_hirsiz"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Prince and the Pretty Poodle",
+      "diziid": "ivn",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ivn/cesur_prens_ivandoe_kisalar/5/prens_ve_sevimli_kanis"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Prince and the Raspberry Fairy",
+      "diziid": "ivn",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/ivn/cesur_prens_ivandoe_kisalar/6/prens_ve_ahududu_perisi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Prince and the Plucky Duck",
+      "diziid": "ivn",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/ivn/cesur_prens_ivandoe_kisalar/7/prens_ve_cesur_ordek"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Prince and the Talking Tree",
+      "diziid": "ivn",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/ivn/cesur_prens_ivandoe_kisalar/8/prens_ve_konusan_agac"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Prince and the Moany Mountain",
+      "diziid": "ivn",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/ivn/cesur_prens_ivandoe_kisalar/9/prens_ve_inleyen_dag"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Prince and the Prom-Date",
+      "diziid": "ivn",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/ivn/cesur_prens_ivandoe_kisalar/10/prens_ve_balo_esi"
+    }
+  ]
+}

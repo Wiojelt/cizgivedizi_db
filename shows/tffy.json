@@ -1,0 +1,780 @@
+{
+  "id": "tffy",
+  "title": "taffy",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TFFYPoster.avif",
+  "channel": "Boomerang",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Enter the Kitty",
+      "diziid": "tffy",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/1/kedilige_giris"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "A Minor Problem",
+      "diziid": "tffy",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/2/ufak_bir_sorun"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "No Strings Attached",
+      "diziid": "tffy",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/3/sartsiz_kosulsuz"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Highest Bidder",
+      "diziid": "tffy",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/4/en_yuksek_teklifi_veren"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "I Now Pronounce You Dog and Cat",
+      "diziid": "tffy",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/5/sizi_kopek_ve_kedi_ilan_ediyorum"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Bentley's Girlfriend",
+      "diziid": "tffy",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/6/bentleynin_kiz_arkadasi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "D.N.A. OK",
+      "diziid": "tffy",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/7/dna_tamam"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Staycation",
+      "diziid": "tffy",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/8/ev_tatili"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Mission Mish Mash",
+      "diziid": "tffy",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/9/mish_ve_mash_operasyonu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "A Bentley Carol",
+      "diziid": "tffy",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/10/bentleynin_noel_sarkisi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Switch",
+      "diziid": "tffy",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/11/yer_degistirmek"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Cute or Boot",
+      "diziid": "tffy",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/12/sirin_mi_degil_mi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "License to Kale",
+      "diziid": "tffy",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/13/lahana_yetkisi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Cat Burglar",
+      "diziid": "tffy",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/14/kedi_hirsizi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Raccoon Day",
+      "diziid": "tffy",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/15/rakun_gunu"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Logging Off",
+      "diziid": "tffy",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/16/oturumu_kapat"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Smell of the Chase",
+      "diziid": "tffy",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/17/kovalamacanin_kokusu"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Showtime",
+      "diziid": "tffy",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/18/yarisma_zamani"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Old Home Reek",
+      "diziid": "tffy",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/19/eski_evin_kokusu"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Factory Flaw",
+      "diziid": "tffy",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/20/fabrika_hatasi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Robo House",
+      "diziid": "tffy",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/21/robot_evi"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Whisperer to a Scream",
+      "diziid": "tffy",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/22/hayvan_terbiyecisinden_cigliga"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Bentley of the Jungle",
+      "diziid": "tffy",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/23/ormanlar_bentleysi"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Out of the Woods",
+      "diziid": "tffy",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/24/ormanin_disinda"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Reach Out and Touch Someone",
+      "diziid": "tffy",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/25/uzan_ve_birine_dokun"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The White Gloves",
+      "diziid": "tffy",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/26/beyaz_eldivenler"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Machine Dreams",
+      "diziid": "tffy",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/27/makine_hayalleri"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Taffyzilla",
+      "diziid": "tffy",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/28/taffyzilla"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Laughy Taffy",
+      "diziid": "tffy",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/29/gulec_taffy"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Pet Therapist",
+      "diziid": "tffy",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/30/hayvan_terapisti"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "There Kitty Kitty",
+      "diziid": "tffy",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/31/merhaba_tatli_kedicik"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "A Star is Born",
+      "diziid": "tffy",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/32/bir_yildiz_doguyor"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Makeover Fakeover",
+      "diziid": "tffy",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/33/makyaj_ustune_makyaj"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "The Eye of the Racoon",
+      "diziid": "tffy",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/34/rakunun_gozu"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "The Sweaters",
+      "diziid": "tffy",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/35/suveterler"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "School's Fools",
+      "diziid": "tffy",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/36/ahmak_ogrenciler"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Citizen Taffy",
+      "diziid": "tffy",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/37/vatandas_taffy"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Flowers for Bentley",
+      "diziid": "tffy",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/38/bentley_icin_cicekler"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Raccoon Moon",
+      "diziid": "tffy",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/39/rakun_ayi"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Love of Loaf",
+      "diziid": "tffy",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/40/ekmek_aski"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Climate Control Freaks",
+      "diziid": "tffy",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/41/iklim_kontrol_cilginligi"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Cone Heads",
+      "diziid": "tffy",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/42/koni_kafalar"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Time Out of Taffy",
+      "diziid": "tffy",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/43/zaman_doldu_taffy"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Racoon in a Guilted Cage",
+      "diziid": "tffy",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/44/rakunun_vicdan_azabi"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "The Flea Party",
+      "diziid": "tffy",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/45/pire_partisi"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "The Guard Dog",
+      "diziid": "tffy",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/46/bekci_kopegi"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "The Cat's Pajamas",
+      "diziid": "tffy",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/47/kedinin_pijamalari"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Happy Home",
+      "diziid": "tffy",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/48/mutlu_ev"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Buried Treasure",
+      "diziid": "tffy",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/49/gomulu_hazine"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "The Fortune 500",
+      "diziid": "tffy",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/50/sans_kurabiyesi"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Jitter Fever",
+      "diziid": "tffy",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/51/titreme_hastaligi"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "The Recall",
+      "diziid": "tffy",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/52/alarm"
+    },
+    {
+      "season": 53,
+      "episode": 53,
+      "title": "New Leaf Taffy",
+      "diziid": "tffy",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/53/taffynin_yeni_imtihani"
+    },
+    {
+      "season": 54,
+      "episode": 54,
+      "title": "The New Mrs Muchmore",
+      "diziid": "tffy",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/54/yeni_bir_bayan_muchmore"
+    },
+    {
+      "season": 55,
+      "episode": 55,
+      "title": "The Upgrade",
+      "diziid": "tffy",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/55/ust_model"
+    },
+    {
+      "season": 56,
+      "episode": 56,
+      "title": "Honey I Shrunk the Raccoon",
+      "diziid": "tffy",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/56/eyvah%2C_taffy_kuculdu"
+    },
+    {
+      "season": 57,
+      "episode": 57,
+      "title": "Caged",
+      "diziid": "tffy",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/57/kafesleme"
+    },
+    {
+      "season": 58,
+      "episode": 58,
+      "title": "Scare Tactics",
+      "diziid": "tffy",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/58/korkutma_taktikleri"
+    },
+    {
+      "season": 59,
+      "episode": 59,
+      "title": "Petty Shack",
+      "diziid": "tffy",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/59/yardimci_oyuncu"
+    },
+    {
+      "season": 60,
+      "episode": 60,
+      "title": "The Rival",
+      "diziid": "tffy",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/60/rakip"
+    },
+    {
+      "season": 61,
+      "episode": 61,
+      "title": "Mrs ZZZ",
+      "diziid": "tffy",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/61/bayan_uyku"
+    },
+    {
+      "season": 63,
+      "episode": 62,
+      "title": "My Fair Puppy",
+      "diziid": "tffy",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/63/benim_adaletli_kopegim"
+    },
+    {
+      "season": 64,
+      "episode": 63,
+      "title": "Rags to Ostriches",
+      "diziid": "tffy",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/64/deve_kuslarina_kiyafet"
+    },
+    {
+      "season": 65,
+      "episode": 64,
+      "title": "The Big Sneeze",
+      "diziid": "tffy",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/65/buyuk_hapsirik"
+    },
+    {
+      "season": 66,
+      "episode": 65,
+      "title": "Flying High",
+      "diziid": "tffy",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/66/yuksekte_ucmak"
+    },
+    {
+      "season": 67,
+      "episode": 66,
+      "title": "The Return of Scraggs",
+      "diziid": "tffy",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/67/scraggsin_geri_donusu"
+    },
+    {
+      "season": 68,
+      "episode": 67,
+      "title": "Twin or Lose",
+      "diziid": "tffy",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/68/hangisi_gercek"
+    },
+    {
+      "season": 69,
+      "episode": 68,
+      "title": "Little Monster",
+      "diziid": "tffy",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/69/kucuk_canavar"
+    },
+    {
+      "season": 70,
+      "episode": 69,
+      "title": "Boot Camp Manor",
+      "diziid": "tffy",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/70/koskte_acemi_kampi"
+    },
+    {
+      "season": 71,
+      "episode": 70,
+      "title": "Mirror Mansion",
+      "diziid": "tffy",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/71/ayna_kosk"
+    },
+    {
+      "season": 72,
+      "episode": 71,
+      "title": "Besties",
+      "diziid": "tffy",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/72/kankalar"
+    },
+    {
+      "season": 73,
+      "episode": 72,
+      "title": "I Love Lamp",
+      "diziid": "tffy",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/73/lambaya_bayilirim"
+    },
+    {
+      "season": 74,
+      "episode": 73,
+      "title": "A Mouse in the House",
+      "diziid": "tffy",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/74/evdeki_fare"
+    },
+    {
+      "season": 75,
+      "episode": 74,
+      "title": "Phony Pony",
+      "diziid": "tffy",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/75/sahte_midilli"
+    },
+    {
+      "season": 76,
+      "episode": 75,
+      "title": "Squeakophobia",
+      "diziid": "tffy",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/76/gicirti_fobisi"
+    },
+    {
+      "season": 77,
+      "episode": 76,
+      "title": "Clone Sweet Clone",
+      "diziid": "tffy",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/77/klon_tatli_klon"
+    },
+    {
+      "season": 78,
+      "episode": 77,
+      "title": "Silence of the Slams",
+      "diziid": "tffy",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/78/kuzularin_sessizligi"
+    },
+    {
+      "season": 1,
+      "episode": 78,
+      "title": "A Maze in and Out",
+      "diziid": "tffy",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/79/tam_bir_labirent"
+    },
+    {
+      "season": 2,
+      "episode": 79,
+      "title": "Mission Improbable",
+      "diziid": "tffy",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/80/gorevimiz_mumkun_degil"
+    },
+    {
+      "season": 3,
+      "episode": 80,
+      "title": "Bows'R'Us",
+      "diziid": "tffy",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/81/papyonlar_bizim"
+    },
+    {
+      "season": 4,
+      "episode": 81,
+      "title": "Framed",
+      "diziid": "tffy",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/82/hirsiz"
+    },
+    {
+      "season": 5,
+      "episode": 82,
+      "title": "Menace to Tennis",
+      "diziid": "tffy",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/83/tenis_tehlikesi"
+    },
+    {
+      "season": 6,
+      "episode": 83,
+      "title": "Family Fortunes",
+      "diziid": "tffy",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/84/aile_serveti"
+    },
+    {
+      "season": 7,
+      "episode": 84,
+      "title": "Sweet Charity",
+      "diziid": "tffy",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/85/guzel_hayir_isi"
+    },
+    {
+      "season": 8,
+      "episode": 85,
+      "title": "A Stench Most Foul",
+      "diziid": "tffy",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/86/kotu_kokular"
+    },
+    {
+      "season": 9,
+      "episode": 86,
+      "title": "Snapped",
+      "diziid": "tffy",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/87/cekim"
+    },
+    {
+      "season": 10,
+      "episode": 87,
+      "title": "Give a Little Whistle",
+      "diziid": "tffy",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/88/bir_islik_cal"
+    },
+    {
+      "season": 11,
+      "episode": 88,
+      "title": "Bentley's Mission to Mars",
+      "diziid": "tffy",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/89/bentleynin_mars_gorevi"
+    },
+    {
+      "season": 12,
+      "episode": 89,
+      "title": "Journey to the Centre of the Bear",
+      "diziid": "tffy",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/90/ayinin_merkezine_yolculuk"
+    },
+    {
+      "season": 13,
+      "episode": 90,
+      "title": "All You Don't Need Is Love",
+      "diziid": "tffy",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/91/bir_tek_sevgi_lazim_degil"
+    },
+    {
+      "season": 14,
+      "episode": 91,
+      "title": "The Mole",
+      "diziid": "tffy",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/92/kostebek"
+    },
+    {
+      "season": 15,
+      "episode": 92,
+      "title": "Ransom Raccoon",
+      "diziid": "tffy",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/93/rakunun_fidyesi"
+    },
+    {
+      "season": 16,
+      "episode": 93,
+      "title": "Snaggy Maggy",
+      "diziid": "tffy",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/94/kurnaz_maggy"
+    },
+    {
+      "season": 17,
+      "episode": 94,
+      "title": "Plaster Disaster",
+      "diziid": "tffy",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/95/alci_felaketi"
+    },
+    {
+      "season": 18,
+      "episode": 95,
+      "title": "Bow Tied",
+      "diziid": "tffy",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/96/papyonlu"
+    },
+    {
+      "season": 19,
+      "episode": 96,
+      "title": "Big Brain Bentley",
+      "diziid": "tffy",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/tffy/taffy/97/buyuk_beyin_bentley"
+    }
+  ]
+}

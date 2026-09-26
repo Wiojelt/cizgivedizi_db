@@ -1,0 +1,613 @@
+{
+  "id": "jtg",
+  "title": "jetgiller",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/JTGPoster.avif",
+  "channel": "Planet Ã‡ocuk",
+  "genres": [
+    "Komedi",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Rosey the Robot",
+      "diziid": "jtg",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/1/robot_rosey"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "A Date with Jet Screamer",
+      "diziid": "jtg",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/2/jet_ciglik_atar_ile_bir_randevu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Space Car",
+      "diziid": "jtg",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/3/uzay_arabasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Coming of Astro",
+      "diziid": "jtg",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/4/astronun_gelisi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Jetson's Nite Out",
+      "diziid": "jtg",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/5/disarida_bir_gece"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Good Little Scouts",
+      "diziid": "jtg",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/6/iyi_kucuk_izciler"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Flying Suit",
+      "diziid": "jtg",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/7/ucan_takim_elbise"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Rosey's Boyfriend",
+      "diziid": "jtg",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/8/roseynin_erkek_arkadasi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Elroy's TV Show",
+      "diziid": "jtg",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/9/elroyun_televizyon_gosterisi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Uniblab",
+      "diziid": "jtg",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/10/uniblab"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "A Visit from Grandpa",
+      "diziid": "jtg",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/11/buyukbabadan_bir_ziyaret"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Astro's Top Secret",
+      "diziid": "jtg",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/12/gizli_astro"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Las Venus",
+      "diziid": "jtg",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/13/las_venus"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Elroy's Pal",
+      "diziid": "jtg",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/14/elroyun_arkadasi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Test Pilot",
+      "diziid": "jtg",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/15/test_pilotu"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Millionaire Astro",
+      "diziid": "jtg",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/16/milyoner_astro"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Little Man",
+      "diziid": "jtg",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/17/kucuk_adam"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Jane's Driving Lesson",
+      "diziid": "jtg",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/18/janenin_surus_dersi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "G.I. Jetson",
+      "diziid": "jtg",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/19/asker_jetgil"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Miss Solar System",
+      "diziid": "jtg",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/20/bayan_gunes_sistemi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Private Property",
+      "diziid": "jtg",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/21/ozel_mulk"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Dude Planet",
+      "diziid": "jtg",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/22/dostum_gezegeni"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "TV or Not TV",
+      "diziid": "jtg",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/23/tv_ya_da_degil"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Elroy's Mob",
+      "diziid": "jtg",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/24/elroyun_cetesi"
+    },
+    {
+      "season": 1,
+      "episode": 25,
+      "title": "Elroy Meets Orbitty",
+      "diziid": "jtg",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/25/elroy_orbitty_ile_bulusuyor"
+    },
+    {
+      "season": 2,
+      "episode": 26,
+      "title": "Rosie Come Home",
+      "diziid": "jtg",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/26/eve_gel_rosie"
+    },
+    {
+      "season": 3,
+      "episode": 27,
+      "title": "Solar Snoops",
+      "diziid": "jtg",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/27/robot_kopek_sentro"
+    },
+    {
+      "season": 4,
+      "episode": 28,
+      "title": "Judy's Birthday Surprise",
+      "diziid": "jtg",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/28/judynin_dogum_gunu_surprizi"
+    },
+    {
+      "season": 5,
+      "episode": 29,
+      "title": "SuperGeorge",
+      "diziid": "jtg",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/29/supergeorge"
+    },
+    {
+      "season": 6,
+      "episode": 30,
+      "title": "Family Fallout",
+      "diziid": "jtg",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/30/aileler_yarisiyor"
+    },
+    {
+      "season": 7,
+      "episode": 31,
+      "title": "Instant Replay",
+      "diziid": "jtg",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/31/aninda_tekrar_oynat"
+    },
+    {
+      "season": 8,
+      "episode": 32,
+      "title": "Fugitive Fleas",
+      "diziid": "jtg",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/32/kacak_pireler"
+    },
+    {
+      "season": 9,
+      "episode": 33,
+      "title": "S.M.A.S.H.",
+      "diziid": "jtg",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/33/carpmak"
+    },
+    {
+      "season": 10,
+      "episode": 34,
+      "title": "One Strike, You're Out",
+      "diziid": "jtg",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/34/bir_vurus%2C_ve_disari%21"
+    },
+    {
+      "season": 11,
+      "episode": 35,
+      "title": "Mother's Day for Rosie",
+      "diziid": "jtg",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/35/rosie_icin_anneler_gunu"
+    },
+    {
+      "season": 12,
+      "episode": 36,
+      "title": "S'No Relative",
+      "diziid": "jtg",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/36/kayip"
+    },
+    {
+      "season": 13,
+      "episode": 37,
+      "title": "Dance Time",
+      "diziid": "jtg",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/37/dans_zamani"
+    },
+    {
+      "season": 14,
+      "episode": 38,
+      "title": "Judy Takes Off",
+      "diziid": "jtg",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/38/judy_gidiyor"
+    },
+    {
+      "season": 15,
+      "episode": 39,
+      "title": "Winner Takes All",
+      "diziid": "jtg",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/39/kazanan_tumunu_alir"
+    },
+    {
+      "season": 16,
+      "episode": 40,
+      "title": "The Mirrormorph",
+      "diziid": "jtg",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/40/aynamorph"
+    },
+    {
+      "season": 17,
+      "episode": 41,
+      "title": "The Cosmic Courtship of George and Jane",
+      "diziid": "jtg",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/41/george_ve_janein_kozmik_iliskisi"
+    },
+    {
+      "season": 18,
+      "episode": 42,
+      "title": "High Moon",
+      "diziid": "jtg",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/42/yuksek_ay"
+    },
+    {
+      "season": 19,
+      "episode": 43,
+      "title": "Hi-Tech Wreck",
+      "diziid": "jtg",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/43/yuksek_teknoloji_batmasi"
+    },
+    {
+      "season": 20,
+      "episode": 44,
+      "title": "Little Bundle of Trouble",
+      "diziid": "jtg",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/44/kucuk_bela_paketi"
+    },
+    {
+      "season": 21,
+      "episode": 45,
+      "title": "Elroy in Wonderland",
+      "diziid": "jtg",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/45/elroy_harikalar_diyarinda"
+    },
+    {
+      "season": 22,
+      "episode": 46,
+      "title": "The Swiss Family Jetson",
+      "diziid": "jtg",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/46/isvicreli_aile_jetgil"
+    },
+    {
+      "season": 23,
+      "episode": 47,
+      "title": "Rip-Off Rosie",
+      "diziid": "jtg",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/47/hirsiz_rosie"
+    },
+    {
+      "season": 24,
+      "episode": 48,
+      "title": "Fantasy Planet",
+      "diziid": "jtg",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/48/fantastik_gezegen"
+    },
+    {
+      "season": 25,
+      "episode": 49,
+      "title": "Space Bong",
+      "diziid": "jtg",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/49/uzay_bong"
+    },
+    {
+      "season": 26,
+      "episode": 50,
+      "title": "Haunted Halloween",
+      "diziid": "jtg",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/50/hayaletli_cadilar_bayrami"
+    },
+    {
+      "season": 27,
+      "episode": 51,
+      "title": "Astro's Big Moment",
+      "diziid": "jtg",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/51/kopek_yarismasi"
+    },
+    {
+      "season": 28,
+      "episode": 52,
+      "title": "Jetsons' Millions",
+      "diziid": "jtg",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/52/jetgillerin_milyonlari"
+    },
+    {
+      "season": 29,
+      "episode": 53,
+      "title": "The Wrong Stuff",
+      "diziid": "jtg",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/53/yanlis_seyler"
+    },
+    {
+      "season": 30,
+      "episode": 54,
+      "title": "The Vacation",
+      "diziid": "jtg",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/54/tatil"
+    },
+    {
+      "season": 31,
+      "episode": 55,
+      "title": "Team Spirit",
+      "diziid": "jtg",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/55/takim_ruhu"
+    },
+    {
+      "season": 32,
+      "episode": 56,
+      "title": "Future Tense",
+      "diziid": "jtg",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/56/gelecekten_haber"
+    },
+    {
+      "season": 33,
+      "episode": 57,
+      "title": "Far-Out Father",
+      "diziid": "jtg",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/57/baba"
+    },
+    {
+      "season": 34,
+      "episode": 58,
+      "title": "Dog Daze Afternoon",
+      "diziid": "jtg",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/58/kopek_saskinligi"
+    },
+    {
+      "season": 35,
+      "episode": 59,
+      "title": "Grandpa and the Galactic Goldigger",
+      "diziid": "jtg",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/59/buyukbaba_ve_galaktik_altin_arayici"
+    },
+    {
+      "season": 36,
+      "episode": 60,
+      "title": "Robot's Revenge",
+      "diziid": "jtg",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/60/robotun_intikami"
+    },
+    {
+      "season": 37,
+      "episode": 61,
+      "title": "To Tell the Truth",
+      "diziid": "jtg",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/61/gercegi_soylemek"
+    },
+    {
+      "season": 38,
+      "episode": 62,
+      "title": "Boy George",
+      "diziid": "jtg",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/62/cocuk_george"
+    },
+    {
+      "season": 39,
+      "episode": 63,
+      "title": "Judy's Elopement",
+      "diziid": "jtg",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/63/judynin_kacisi"
+    },
+    {
+      "season": 40,
+      "episode": 64,
+      "title": "The Century's Best",
+      "diziid": "jtg",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/64/yuzyilin_en_iyisi"
+    },
+    {
+      "season": 41,
+      "episode": 65,
+      "title": "A Jetson Christmas Carol",
+      "diziid": "jtg",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/65/bir_jetgil_noel_sarkisi"
+    },
+    {
+      "season": 1,
+      "episode": 66,
+      "title": "Crime Games",
+      "diziid": "jtg",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/66/suc_oyunlari"
+    },
+    {
+      "season": 2,
+      "episode": 67,
+      "title": "ASTROnomical I.Q.",
+      "diziid": "jtg",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/67/astronomik_iq"
+    },
+    {
+      "season": 3,
+      "episode": 68,
+      "title": "9 to 5 to 9",
+      "diziid": "jtg",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/68/9%2C_5%2C_9"
+    },
+    {
+      "season": 4,
+      "episode": 69,
+      "title": "Invisibly Yours, George",
+      "diziid": "jtg",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/69/gorunmez_george"
+    },
+    {
+      "season": 5,
+      "episode": 70,
+      "title": "Father/Daughter Dance",
+      "diziid": "jtg",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/70/baba__kiz_dansi"
+    },
+    {
+      "season": 6,
+      "episode": 71,
+      "title": "Clean as a Hound's Tooth",
+      "diziid": "jtg",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/71/dis_sorunu"
+    },
+    {
+      "season": 7,
+      "episode": 72,
+      "title": "Wedding Bells for Rosey",
+      "diziid": "jtg",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/72/rosie_icin_dugun_canlari"
+    },
+    {
+      "season": 8,
+      "episode": 73,
+      "title": "The Odd Pod",
+      "diziid": "jtg",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/73/tuhaf_bitki"
+    },
+    {
+      "season": 9,
+      "episode": 74,
+      "title": "Two Many Georges",
+      "diziid": "jtg",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/74/iki_tane_george"
+    },
+    {
+      "season": 10,
+      "episode": 75,
+      "title": "Spacely for a Day",
+      "diziid": "jtg",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/jtg/jetgiller/75/bir_gunluk_spacely"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "robott",
+  "title": "robot takÄ±mÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ROBOTTPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Bilim Kurgu",
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Underdogs",
+      "diziid": "robott",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/robott/robot_takimi/1/ezilenler"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Evolution",
+      "diziid": "robott",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/robott/robot_takimi/2/evrim"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Know Your Enemy",
+      "diziid": "robott",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/robott/robot_takimi/3/dusmanini_tani"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "For All Humanity",
+      "diziid": "robott",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/robott/robot_takimi/4/tum_insanlik_icin"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Ghosts",
+      "diziid": "robott",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/robott/robot_takimi/5/hayaletler"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Veritas",
+      "diziid": "robott",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/robott/robot_takimi/6/veritas"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "All For One",
+      "diziid": "robott",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/robott/robot_takimi/7/hepimiz_birimiz_icin"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Einstein-Rosen Bridge",
+      "diziid": "robott",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/robott/robot_takimi/8/einstein-rosen_koprusu"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Dark Matter",
+      "diziid": "robott",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/robott/robot_takimi/9/karanlik_madde"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Family",
+      "diziid": "robott",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/robott/robot_takimi/10/aile"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "truesa",
+  "title": "true: sihirli arkadaÅŸlar",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TRUESAPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Princess Grizbot",
+      "diziid": "truesa",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/truesa/true%3A_sihirli_arkadaslar/1/prenses_grizbot"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Hino Tari Hullabaloo",
+      "diziid": "truesa",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/truesa/true%3A_sihirli_arkadaslar/2/hadi_hop_yaygara"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Queens of the Day and Night",
+      "diziid": "truesa",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/truesa/true%3A_sihirli_arkadaslar/3/gece_ve_gunduzun_kraliceleri"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "True Switcheroo",
+      "diziid": "truesa",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/truesa/true%3A_sihirli_arkadaslar/4/true_degisiyoroo"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Fee Fi Fo Frookie",
+      "diziid": "truesa",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/truesa/true%3A_sihirli_arkadaslar/5/fi_fa_fo_frookie"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "prdc",
+  "title": "power rangers dino charge",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/PRDCPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Powers from the Past",
+      "diziid": "prdc",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/1/gecmisten_gelen_gucler"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Past, Present and Fusion",
+      "diziid": "prdc",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/2/gecmis%2C_bugun_ve_fuzyon"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "A Fool's Hour",
+      "diziid": "prdc",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/3/yaniltan_saat"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Return of the Caveman",
+      "diziid": "prdc",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/4/magara_adaminin_donusu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Breaking Black",
+      "diziid": "prdc",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/5/siyaha_donmek"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Tooth Hurts",
+      "diziid": "prdc",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/6/dis_agrisi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Let Sleeping Zords Lie",
+      "diziid": "prdc",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/7/uyuyan_zordlari_uyandirma"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Double Ranger, Double Danger",
+      "diziid": "prdc",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/8/cifte_ranger%2C_cifte_tehlike"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "When Logic Fails",
+      "diziid": "prdc",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/9/mantik_iflas_ettiginde"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Royal Rangers",
+      "diziid": "prdc",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/10/sadik_rangerlar"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Break Out",
+      "diziid": "prdc",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/11/buyuk_firtinalar"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Knight After Knights",
+      "diziid": "prdc",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/12/pek_cok_sovalye"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Sync or Swim",
+      "diziid": "prdc",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/13/uyum_saglamak"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "True Black",
+      "diziid": "prdc",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/14/gercek_siyah"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Rise of a Ranger",
+      "diziid": "prdc",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/15/rangerin_dogusu"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "No Matter How You Slice It",
+      "diziid": "prdc",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/16/ne_yaparsan_yap"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "World Famous! (In New Zealand)",
+      "diziid": "prdc",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/17/dunyaca_unlu_yeni_zelandada"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Deep Down Under",
+      "diziid": "prdc",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/18/yeni_zelanda_macerasi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Wishing for a Hero",
+      "diziid": "prdc",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/19/bir_kahraman_dilemek"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "One More Energem",
+      "diziid": "prdc",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/prdc/power_rangers_dino_charge/20/bir_energem_daha"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "orvil",
+  "title": "orville",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/ESKÄ°/dizi/resim/poster/ORVILPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Bilim Kurgu",
+    "Komedi",
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Electric Sheep",
+      "diziid": "orvil",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/orvil/orville/27/elektrikli_koyun"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Shadow Realms",
+      "diziid": "orvil",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/orvil/orville/28/golge_diyarlar"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Mortality Paradox",
+      "diziid": "orvil",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/orvil/orville/29/olumluluk_paradoksu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Gently Falling Rain",
+      "diziid": "orvil",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/orvil/orville/30/nazikce_yagan_yagmur"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "A Tale of Two Topas",
+      "diziid": "orvil",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/orvil/orville/31/iki_topanin_hikayesi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Twice in a Lifetime",
+      "diziid": "orvil",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/orvil/orville/32/hayatta_iki_kez"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "From Unknown Graves",
+      "diziid": "orvil",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/orvil/orville/33/bilinmeyen_mezarlardan"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Midnight Blue",
+      "diziid": "orvil",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/orvil/orville/34/gece_mavisi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Domino",
+      "diziid": "orvil",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/orvil/orville/35/domino"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Future Unknown",
+      "diziid": "orvil",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/orvil/orville/36/bilinmeyen_gelecek"
+    }
+  ]
+}

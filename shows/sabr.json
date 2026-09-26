@@ -1,0 +1,213 @@
+{
+  "id": "sabr",
+  "title": "sabrina",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SABRPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Fantastik",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Most Dangerous Witch",
+      "diziid": "sabr",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/1/en_tehlikeli_cadi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "You Said a Mouse-ful",
+      "diziid": "sabr",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/2/fare_sorunu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Boogie Shoes",
+      "diziid": "sabr",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/3/sihirli_ayakkabi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Tail of Two Kitties",
+      "diziid": "sabr",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/4/kediye_asik_olmak"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Senses-Shattering Adventures of Captain Harvtastic",
+      "diziid": "sabr",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/5/cizgi_romanin_icinde"
+    },
+    {
+      "season": 7,
+      "episode": 6,
+      "title": "Picture Perfect",
+      "diziid": "sabr",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/7/secim_yarisi"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "title": "Field Trippin'",
+      "diziid": "sabr",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/8/bakicilik"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "title": "No Time to Be a Hero",
+      "diziid": "sabr",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/9/yanlislikla_kahraman"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "Extreme Harvey",
+      "diziid": "sabr",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/10/kaykay"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "Shrink to Fit",
+      "diziid": "sabr",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/11/zayifla_ki_yakissin"
+    },
+    {
+      "season": 13,
+      "episode": 11,
+      "title": "Wag the Witch",
+      "diziid": "sabr",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/13/normal_gosteren_gozluk"
+    },
+    {
+      "season": 14,
+      "episode": 12,
+      "title": "Witchy Grrrls",
+      "diziid": "sabr",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/14/yeteneksiz_muzikciler"
+    },
+    {
+      "season": 15,
+      "episode": 13,
+      "title": "Paranormal Pi",
+      "diziid": "sabr",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/15/paranormal_pi"
+    },
+    {
+      "season": 16,
+      "episode": 14,
+      "title": "Anywhere But Here",
+      "diziid": "sabr",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/16/sabrinanin_gelecegi"
+    },
+    {
+      "season": 17,
+      "episode": 15,
+      "title": "Nothin' Says Lovin' Like Somethin' from a Coven",
+      "diziid": "sabr",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/17/cadilar_bayrami"
+    },
+    {
+      "season": 19,
+      "episode": 16,
+      "title": "Documagicary",
+      "diziid": "sabr",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/19/populer_sabrina"
+    },
+    {
+      "season": 20,
+      "episode": 17,
+      "title": "The Grandparent Trap",
+      "diziid": "sabr",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/20/buyukanne_ve_buyukbaba"
+    },
+    {
+      "season": 22,
+      "episode": 18,
+      "title": "Boy Meets Bike",
+      "diziid": "sabr",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/22/bisiklet_ve_cocugun_hiz"
+    },
+    {
+      "season": 23,
+      "episode": 19,
+      "title": "Upside Down Town",
+      "diziid": "sabr",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/23/sihirli_pasta"
+    },
+    {
+      "season": 25,
+      "episode": 20,
+      "title": "Stage Fright",
+      "diziid": "sabr",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/25/sahne_korkusu"
+    },
+    {
+      "season": 27,
+      "episode": 21,
+      "title": "My Stepmother the Babe",
+      "diziid": "sabr",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/27/sabrinanin_uvey_annesi"
+    },
+    {
+      "season": 29,
+      "episode": 22,
+      "title": "This is Your Nine Lives",
+      "diziid": "sabr",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/29/zamanda_yolculuk"
+    },
+    {
+      "season": 31,
+      "episode": 23,
+      "title": "Hex-Change Students",
+      "diziid": "sabr",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/31/peri_arkadaslarin_ziyareti"
+    },
+    {
+      "season": 32,
+      "episode": 24,
+      "title": "Saturday Night Furor",
+      "diziid": "sabr",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/32/cumartesi_gecesi"
+    },
+    {
+      "season": 34,
+      "episode": 25,
+      "title": "The Hex Files",
+      "diziid": "sabr",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/sabr/sabrina/34/uzaylilar"
+    }
+  ]
+}

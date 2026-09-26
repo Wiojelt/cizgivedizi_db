@@ -1,0 +1,142 @@
+{
+  "id": "wedn",
+  "title": "wednesday",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/WEDNPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Gizem",
+    "Korku",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Wednesday's Child Is Full of Woe",
+      "diziid": "wedn",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/wedn/wednesday/1/carsamba_gunu_doganlar_dertli_olurlar"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Woe Is the Loneliest Number",
+      "diziid": "wedn",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/wedn/wednesday/2/dert_en_yalniz_sayidir"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Friend or Woe",
+      "diziid": "wedn",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/wedn/wednesday/3/dost_mu%2C_dert_mi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Woe What a Night",
+      "diziid": "wedn",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/wedn/wednesday/4/ne_dertli_bir_gece%21"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "You Reap What You Woe",
+      "diziid": "wedn",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/wedn/wednesday/5/neye_dertlenirsen_onu_bicersin"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Quid Pro Woe",
+      "diziid": "wedn",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/wedn/wednesday/6/iyilige_karsi_dert"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "If You Don't Woe Me by Now",
+      "diziid": "wedn",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/wedn/wednesday/7/henuz_bana_dertlenmediysen"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "A Murder of Woes",
+      "diziid": "wedn",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/wedn/wednesday/8/dert_surusu"
+    },
+    {
+      "season": 1,
+      "episode": 9,
+      "title": "Here We Woe Again",
+      "diziid": "wedn",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/wedn/wednesday/9/dert_ustune_dert"
+    },
+    {
+      "season": 2,
+      "episode": 10,
+      "title": "The Devil You Woe",
+      "diziid": "wedn",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/wedn/wednesday/10/buyuk_basin_derdi"
+    },
+    {
+      "season": 3,
+      "episode": 11,
+      "title": "Call of the Woe",
+      "diziid": "wedn",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/wedn/wednesday/11/koyun_can_derdinde"
+    },
+    {
+      "season": 4,
+      "episode": 12,
+      "title": "If These Woes Could Talk",
+      "diziid": "wedn",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/wedn/wednesday/12/su_dertlerin_dili_olsa"
+    },
+    {
+      "season": 5,
+      "episode": 13,
+      "title": "Hyde and Woe Seek",
+      "diziid": "wedn",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/wedn/wednesday/13/hyde_pesimde%2C_dert_dosumde"
+    },
+    {
+      "season": 6,
+      "episode": 14,
+      "title": "Woe Thyself",
+      "diziid": "wedn",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/wedn/wednesday/14/derdini_bilen_kendini_bilir"
+    },
+    {
+      "season": 7,
+      "episode": 15,
+      "title": "Woe Me the Money",
+      "diziid": "wedn",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/wedn/wednesday/15/paran_mi_var_derdin_var"
+    },
+    {
+      "season": 8,
+      "episode": 16,
+      "title": "This Means Woe",
+      "diziid": "wedn",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/wedn/wednesday/16/dert_var%2C_deler_gecer"
+    }
+  ]
+}

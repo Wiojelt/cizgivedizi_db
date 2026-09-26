@@ -1,0 +1,42 @@
+{
+  "id": "dream",
+  "title": "ters yÃ¼z'Ã¼n yaratÄ±cÄ±larÄ±ndan: dream productions",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/DREAMPoster.avif",
+  "channel": "Disney+",
+  "genres": [],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Part 1: The Dream Team",
+      "diziid": "dream",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/dream/ters_yuzun_yaraticilarindan%3A_dream_productions/1/bolum_1%3A_ruya_takim"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Part 2: Out of Body",
+      "diziid": "dream",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/dream/ters_yuzun_yaraticilarindan%3A_dream_productions/2/bolum_2%3A_disaridan_bakmak"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Part 3: Romance!",
+      "diziid": "dream",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/dream/ters_yuzun_yaraticilarindan%3A_dream_productions/3/bolum_3%3A_romantizm"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Part 4: A Night to Remember",
+      "diziid": "dream",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/dream/ters_yuzun_yaraticilarindan%3A_dream_productions/4/bolum_4%3A_unutulmayacak_bir_gece"
+    }
+  ]
+}

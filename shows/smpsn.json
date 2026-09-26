@@ -1,0 +1,1268 @@
+{
+  "id": "smpsn",
+  "title": "simpsonlar",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SMPSNPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Simpsons Roasting on an Open Fire",
+      "diziid": "smpsn",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/1/simpsonlarin_noeli"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Bart the Genius",
+      "diziid": "smpsn",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/2/dahi_bart"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Homer's Odyssey",
+      "diziid": "smpsn",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/3/homerosun_destani"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "There's No Disgrace Like Home",
+      "diziid": "smpsn",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/4/ev_gibi_rezalet_yok"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Bart the General",
+      "diziid": "smpsn",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/5/general_bart"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Moaning Lisa",
+      "diziid": "smpsn",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/6/aglayan_lisa"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Call of the Simpsons",
+      "diziid": "smpsn",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/7/simpsonlarin_cagrisi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Telltale Head",
+      "diziid": "smpsn",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/8/bassiz_heykel"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Life on the Fast Lane",
+      "diziid": "smpsn",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/9/bowling"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Homer's Night Out",
+      "diziid": "smpsn",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/10/homerin_disariya_ciktigi_gece"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Crepes of Wrath",
+      "diziid": "smpsn",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/11/ofke_krepleri"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Krusty Gets Busted",
+      "diziid": "smpsn",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/12/yakalanan_krusty"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Some Enchanted Evening",
+      "diziid": "smpsn",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/13/bazi_buyulu_aksamlar"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Bart Gets an \"F\"",
+      "diziid": "smpsn",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/14/bart_f_alir"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Simpson and Delilah",
+      "diziid": "smpsn",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/15/simpson_ve_delilah"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Treehouse of Horror",
+      "diziid": "smpsn",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/16/korku_agac_evi"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Two Cars in Every Garage and Three Eyes on Every Fish",
+      "diziid": "smpsn",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/17/uc_gozlu_balik"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Dancin' Homer",
+      "diziid": "smpsn",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/18/dans_eden_homer"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Dead Putting Society",
+      "diziid": "smpsn",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/19/iddia"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Bart vs. Thanksgiving",
+      "diziid": "smpsn",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/20/bart_sukran_gunune_karsi"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Bart the Daredevil",
+      "diziid": "smpsn",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/21/cesur_bart"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Itchy & Scratchy & Marge",
+      "diziid": "smpsn",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/22/dizi_karsiti"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Bart Gets Hit by a Car",
+      "diziid": "smpsn",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/23/barta_araba_carpar"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "One Fish, Two Fish, Blowfish, Blue Fish",
+      "diziid": "smpsn",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/24/homerin_son_gunu"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "The Way We Was",
+      "diziid": "smpsn",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/25/baslangic"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "Homer vs. Lisa and the 8th Commandment",
+      "diziid": "smpsn",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/26/kacak_kablo"
+    },
+    {
+      "season": 14,
+      "episode": 27,
+      "title": "Principal Charming",
+      "diziid": "smpsn",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/27/mudurun_aski"
+    },
+    {
+      "season": 15,
+      "episode": 28,
+      "title": "Oh Brother, Where Art Thou?",
+      "diziid": "smpsn",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/28/homerin_uvey_erkek_kardesi"
+    },
+    {
+      "season": 16,
+      "episode": 29,
+      "title": "Bart's Dog Gets an \"F\"",
+      "diziid": "smpsn",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/29/bartin_kopegi_f_alir"
+    },
+    {
+      "season": 17,
+      "episode": 30,
+      "title": "Old Money",
+      "diziid": "smpsn",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/30/eski_para"
+    },
+    {
+      "season": 18,
+      "episode": 31,
+      "title": "Brush with Greatness",
+      "diziid": "smpsn",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/31/resim"
+    },
+    {
+      "season": 19,
+      "episode": 32,
+      "title": "Lisa's Substitute",
+      "diziid": "smpsn",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/32/yedek_ogretmen"
+    },
+    {
+      "season": 20,
+      "episode": 33,
+      "title": "The War of the Simpsons",
+      "diziid": "smpsn",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/33/simpsonlarin_savasi"
+    },
+    {
+      "season": 21,
+      "episode": 34,
+      "title": "Three Men and a Comic Book",
+      "diziid": "smpsn",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/34/cizgi_roman_paylasimi"
+    },
+    {
+      "season": 22,
+      "episode": 35,
+      "title": "Blood Feud",
+      "diziid": "smpsn",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/35/kan_davasi"
+    },
+    {
+      "season": 2,
+      "episode": 36,
+      "title": "Mr. Lisa Goes to Washington",
+      "diziid": "smpsn",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/37/washingtona_yolculuk"
+    },
+    {
+      "season": 3,
+      "episode": 37,
+      "title": "When Flanders Failed",
+      "diziid": "smpsn",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/38/flanders_basarisiz_oldugunda"
+    },
+    {
+      "season": 4,
+      "episode": 38,
+      "title": "Bart the Murderer",
+      "diziid": "smpsn",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/39/katil_bart"
+    },
+    {
+      "season": 5,
+      "episode": 39,
+      "title": "Homer Defined",
+      "diziid": "smpsn",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/40/kahraman_homer"
+    },
+    {
+      "season": 6,
+      "episode": 40,
+      "title": "Like Father, Like Clown",
+      "diziid": "smpsn",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/41/rahipin_baba_sorunu"
+    },
+    {
+      "season": 7,
+      "episode": 41,
+      "title": "Treehouse of Horror II",
+      "diziid": "smpsn",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/42/korku_agac_evi_2"
+    },
+    {
+      "season": 8,
+      "episode": 42,
+      "title": "Lisa's Pony",
+      "diziid": "smpsn",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/43/lisanin_midillisi"
+    },
+    {
+      "season": 9,
+      "episode": 43,
+      "title": "Saturdays of Thunder",
+      "diziid": "smpsn",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/44/babalik"
+    },
+    {
+      "season": 10,
+      "episode": 44,
+      "title": "Flaming Moe's",
+      "diziid": "smpsn",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/45/alevli_moelar"
+    },
+    {
+      "season": 11,
+      "episode": 45,
+      "title": "Burns Verkaufen der Kraftwerk",
+      "diziid": "smpsn",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/46/fabrika_satisi"
+    },
+    {
+      "season": 12,
+      "episode": 46,
+      "title": "I Married Marge",
+      "diziid": "smpsn",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/47/marge_ile_evlendim"
+    },
+    {
+      "season": 13,
+      "episode": 47,
+      "title": "Radio Bart",
+      "diziid": "smpsn",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/48/radyo_bart"
+    },
+    {
+      "season": 14,
+      "episode": 48,
+      "title": "Lisa the Greek",
+      "diziid": "smpsn",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/49/lisa_ve_bahis"
+    },
+    {
+      "season": 15,
+      "episode": 49,
+      "title": "Homer Alone",
+      "diziid": "smpsn",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/50/yalniz_homer"
+    },
+    {
+      "season": 16,
+      "episode": 50,
+      "title": "Bart the Lover",
+      "diziid": "smpsn",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/51/asik_bart"
+    },
+    {
+      "season": 17,
+      "episode": 51,
+      "title": "Homer at the Bat",
+      "diziid": "smpsn",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/52/beyzbol"
+    },
+    {
+      "season": 18,
+      "episode": 52,
+      "title": "Separate Vocations",
+      "diziid": "smpsn",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/53/meslek_testi"
+    },
+    {
+      "season": 19,
+      "episode": 53,
+      "title": "Dog of Death",
+      "diziid": "smpsn",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/54/noel_babanin_kucuk_yardimcisi"
+    },
+    {
+      "season": 20,
+      "episode": 54,
+      "title": "Colonel Homer",
+      "diziid": "smpsn",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/55/albay_homer"
+    },
+    {
+      "season": 21,
+      "episode": 55,
+      "title": "Black Widower",
+      "diziid": "smpsn",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/56/selmanin_hapishanedeki_mektup_arkadasi"
+    },
+    {
+      "season": 22,
+      "episode": 56,
+      "title": "The Otto Show",
+      "diziid": "smpsn",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/57/otto"
+    },
+    {
+      "season": 23,
+      "episode": 57,
+      "title": "Bart's Friend Falls in Love",
+      "diziid": "smpsn",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/58/bartin_arkadasi_asik_olur"
+    },
+    {
+      "season": 24,
+      "episode": 58,
+      "title": "Brother, Can You Spare Two Dimes?",
+      "diziid": "smpsn",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/59/2000_dolar"
+    },
+    {
+      "season": 1,
+      "episode": 59,
+      "title": "The Star of the Backstage",
+      "diziid": "smpsn",
+      "bolum": "707",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/707/sahne_arkasinin_yildizi"
+    },
+    {
+      "season": 2,
+      "episode": 60,
+      "title": "Bart's in Jail!",
+      "diziid": "smpsn",
+      "bolum": "708",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/708/bart_hapiste"
+    },
+    {
+      "season": 3,
+      "episode": 61,
+      "title": "Treehouse of Horror XXXII",
+      "diziid": "smpsn",
+      "bolum": "709",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/709/korku_agac_evi_xxxii"
+    },
+    {
+      "season": 4,
+      "episode": 62,
+      "title": "The Wayz We Were",
+      "diziid": "smpsn",
+      "bolum": "710",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/710/moe_ve_maya"
+    },
+    {
+      "season": 5,
+      "episode": 63,
+      "title": "Lisa's Belly",
+      "diziid": "smpsn",
+      "bolum": "711",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/711/lisanin_gobegi"
+    },
+    {
+      "season": 6,
+      "episode": 64,
+      "title": "A Serious Flanders (Part 1)",
+      "diziid": "smpsn",
+      "bolum": "712",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/712/ciddi_bir_flanders_bolum_1"
+    },
+    {
+      "season": 7,
+      "episode": 65,
+      "title": "A Serious Flanders (Part 2)",
+      "diziid": "smpsn",
+      "bolum": "713",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/713/ciddi_bir_flanders_bolum_2"
+    },
+    {
+      "season": 8,
+      "episode": 66,
+      "title": "Portrait of a Lackey on Fire",
+      "diziid": "smpsn",
+      "bolum": "714",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/714/yanan_bir_usak_portresi"
+    },
+    {
+      "season": 9,
+      "episode": 67,
+      "title": "Mothers and Other Strangers",
+      "diziid": "smpsn",
+      "bolum": "715",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/715/anneler_ve_diger_yabancilar"
+    },
+    {
+      "season": 10,
+      "episode": 68,
+      "title": "A Made Maggie",
+      "diziid": "smpsn",
+      "bolum": "716",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/716/ebeveyn_maggie"
+    },
+    {
+      "season": 11,
+      "episode": 69,
+      "title": "The Longest Marge",
+      "diziid": "smpsn",
+      "bolum": "717",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/717/en_uzun_marge"
+    },
+    {
+      "season": 12,
+      "episode": 70,
+      "title": "Pixelated and Afraid",
+      "diziid": "smpsn",
+      "bolum": "718",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/718/pikselli_ve_korkmus"
+    },
+    {
+      "season": 13,
+      "episode": 71,
+      "title": "Boyz N the Highlands",
+      "diziid": "smpsn",
+      "bolum": "719",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/719/cocuklar_ve_daglik_arazi"
+    },
+    {
+      "season": 14,
+      "episode": 72,
+      "title": "You Won't Believe What This Episode Is About â€“ Act Three Will Shock You!",
+      "diziid": "smpsn",
+      "bolum": "720",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/720/bu_bolumun_ne_hakkinda_olduguna_inanamayacaksiniz"
+    },
+    {
+      "season": 15,
+      "episode": 73,
+      "title": "Bart the Cool Kid",
+      "diziid": "smpsn",
+      "bolum": "721",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/721/havali_cocuk_bart"
+    },
+    {
+      "season": 16,
+      "episode": 74,
+      "title": "Pretty Whittle Liar",
+      "diziid": "smpsn",
+      "bolum": "722",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/722/tatli_yalanci"
+    },
+    {
+      "season": 17,
+      "episode": 75,
+      "title": "The Sound of Bleeding Gums",
+      "diziid": "smpsn",
+      "bolum": "723",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/723/muzik"
+    },
+    {
+      "season": 18,
+      "episode": 76,
+      "title": "My Octopus and a Teacher",
+      "diziid": "smpsn",
+      "bolum": "724",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/724/ahtapotum_ve_ogretmenim"
+    },
+    {
+      "season": 19,
+      "episode": 77,
+      "title": "Girls Just Shauna Have Fun",
+      "diziid": "smpsn",
+      "bolum": "725",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/725/shauna"
+    },
+    {
+      "season": 20,
+      "episode": 78,
+      "title": "Marge the Meanie",
+      "diziid": "smpsn",
+      "bolum": "726",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/726/kotu_kalpli_marge"
+    },
+    {
+      "season": 21,
+      "episode": 79,
+      "title": "Meat Is Murder",
+      "diziid": "smpsn",
+      "bolum": "727",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/727/et_cinayettir"
+    },
+    {
+      "season": 22,
+      "episode": 80,
+      "title": "Poorhouse Rock",
+      "diziid": "smpsn",
+      "bolum": "728",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/728/yoksullar_evi_rocki"
+    },
+    {
+      "season": 1,
+      "episode": 81,
+      "title": "Habeas Tortoise",
+      "diziid": "smpsn",
+      "bolum": "729",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/729/habeas_kaplumbaga"
+    },
+    {
+      "season": 2,
+      "episode": 82,
+      "title": "One Angry Lisa",
+      "diziid": "smpsn",
+      "bolum": "730",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/730/kizgin_bir_lisa"
+    },
+    {
+      "season": 3,
+      "episode": 83,
+      "title": "Lisa the Boy Scout",
+      "diziid": "smpsn",
+      "bolum": "731",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/731/izci_lisa"
+    },
+    {
+      "season": 4,
+      "episode": 84,
+      "title": "The King of Nice",
+      "diziid": "smpsn",
+      "bolum": "732",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/732/nice_krali"
+    },
+    {
+      "season": 5,
+      "episode": 85,
+      "title": "Not It",
+      "diziid": "smpsn",
+      "bolum": "733",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/733/o_degil"
+    },
+    {
+      "season": 6,
+      "episode": 86,
+      "title": "Treehouse of Horror XXXIII",
+      "diziid": "smpsn",
+      "bolum": "734",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/734/korku_agac_evi_xxxiii"
+    },
+    {
+      "season": 7,
+      "episode": 87,
+      "title": "From Beer to Paternity",
+      "diziid": "smpsn",
+      "bolum": "735",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/735/biradan_babaliga"
+    },
+    {
+      "season": 8,
+      "episode": 88,
+      "title": "Step Brother from the Same Planet",
+      "diziid": "smpsn",
+      "bolum": "736",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/736/ayni_gezegenden_uvey_kardes"
+    },
+    {
+      "season": 9,
+      "episode": 89,
+      "title": "When Nelson Met Lisa",
+      "diziid": "smpsn",
+      "bolum": "737",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/737/nelsonin_lisa_ile_tanistigi_gun"
+    },
+    {
+      "season": 10,
+      "episode": 90,
+      "title": "Game Done Changed",
+      "diziid": "smpsn",
+      "bolum": "738",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/738/oyun_degisti"
+    },
+    {
+      "season": 11,
+      "episode": 91,
+      "title": "Top Goon",
+      "diziid": "smpsn",
+      "bolum": "739",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/739/bas_yikici"
+    },
+    {
+      "season": 12,
+      "episode": 92,
+      "title": "My Life as a Vlog",
+      "diziid": "smpsn",
+      "bolum": "740",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/740/vlog_olarak_hayatim"
+    },
+    {
+      "season": 13,
+      "episode": 93,
+      "title": "The Many Saints of Springfield",
+      "diziid": "smpsn",
+      "bolum": "741",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/741/springfieldin_azizleri"
+    },
+    {
+      "season": 14,
+      "episode": 94,
+      "title": "Carl Carlson Rides Again",
+      "diziid": "smpsn",
+      "bolum": "742",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/742/carl_carlson_yine_at_ustunde"
+    },
+    {
+      "season": 15,
+      "episode": 95,
+      "title": "Bartless",
+      "diziid": "smpsn",
+      "bolum": "743",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/743/bartsizlik"
+    },
+    {
+      "season": 16,
+      "episode": 96,
+      "title": "Hostile Kirk Place",
+      "diziid": "smpsn",
+      "bolum": "744",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/744/kavgaci_kirkun_yeri"
+    },
+    {
+      "season": 17,
+      "episode": 97,
+      "title": "Pin Gal",
+      "diziid": "smpsn",
+      "bolum": "745",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/745/bowlingci_kiz"
+    },
+    {
+      "season": 18,
+      "episode": 98,
+      "title": "Fan-ily Feud",
+      "diziid": "smpsn",
+      "bolum": "746",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/746/fan_davasi"
+    },
+    {
+      "season": 19,
+      "episode": 99,
+      "title": "Write Off This Episode",
+      "diziid": "smpsn",
+      "bolum": "747",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/747/bu_bolumu_zarar_yazalim"
+    },
+    {
+      "season": 20,
+      "episode": 100,
+      "title": "The Very Hungry Caterpillars",
+      "diziid": "smpsn",
+      "bolum": "748",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/748/cok_acikmis_tirtillar"
+    },
+    {
+      "season": 21,
+      "episode": 101,
+      "title": "Clown V. Board of Education",
+      "diziid": "smpsn",
+      "bolum": "749",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/749/palyaco%2C_egitim_mudurlugune_karsi"
+    },
+    {
+      "season": 22,
+      "episode": 102,
+      "title": "Homer's Adventures Through the Windshield Glass",
+      "diziid": "smpsn",
+      "bolum": "750",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/750/homer_on_camin_otesindeki_diyarda"
+    },
+    {
+      "season": 1,
+      "episode": 103,
+      "title": "Homer's Crossing",
+      "diziid": "smpsn",
+      "bolum": "751",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/751/homerin_yaya_gecidi"
+    },
+    {
+      "season": 2,
+      "episode": 104,
+      "title": "A Mid-Childhood Night's Dream",
+      "diziid": "smpsn",
+      "bolum": "752",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/752/bir_orta_cocukluk_gecesi_ruyasi"
+    },
+    {
+      "season": 3,
+      "episode": 105,
+      "title": "McMansion & Wife",
+      "diziid": "smpsn",
+      "bolum": "753",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/753/mcmansion_ve_karisi"
+    },
+    {
+      "season": 4,
+      "episode": 106,
+      "title": "Thirst Trap: A Corporate Love Story",
+      "diziid": "smpsn",
+      "bolum": "754",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/754/bastan_cikarici_kurumsal_bir_ask_hikayesi"
+    },
+    {
+      "season": 5,
+      "episode": 107,
+      "title": "Treehouse of Horror XXXIV",
+      "diziid": "smpsn",
+      "bolum": "755",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/755/korku_agac_evi_xxxiv"
+    },
+    {
+      "season": 6,
+      "episode": 108,
+      "title": "Iron Marge",
+      "diziid": "smpsn",
+      "bolum": "756",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/756/demir_marge"
+    },
+    {
+      "season": 7,
+      "episode": 109,
+      "title": "It's a Blunderful Life",
+      "diziid": "smpsn",
+      "bolum": "757",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/757/falsolarla_dolu_bir_hayat"
+    },
+    {
+      "season": 8,
+      "episode": 110,
+      "title": "Ae Bonny Romance",
+      "diziid": "smpsn",
+      "bolum": "758",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/758/hos_bir_ask"
+    },
+    {
+      "season": 9,
+      "episode": 111,
+      "title": "Murder, She Boat",
+      "diziid": "smpsn",
+      "bolum": "759",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/759/gemide_cinayet"
+    },
+    {
+      "season": 10,
+      "episode": 112,
+      "title": "Do the Wrong Thing",
+      "diziid": "smpsn",
+      "bolum": "760",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/760/yanlis_olani_yap"
+    },
+    {
+      "season": 11,
+      "episode": 113,
+      "title": "Frinkenstein's Monster",
+      "diziid": "smpsn",
+      "bolum": "761",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/761/frinkensteinin_canavari"
+    },
+    {
+      "season": 12,
+      "episode": 114,
+      "title": "Lisa Gets an F1",
+      "diziid": "smpsn",
+      "bolum": "762",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/762/go-kart_lisa"
+    },
+    {
+      "season": 13,
+      "episode": 115,
+      "title": "Clan of the Cave Mom",
+      "diziid": "smpsn",
+      "bolum": "763",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/763/magara_annesinin_klani"
+    },
+    {
+      "season": 14,
+      "episode": 116,
+      "title": "Night of the Living Wage",
+      "diziid": "smpsn",
+      "bolum": "764",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/764/sendikaci_marge"
+    },
+    {
+      "season": 15,
+      "episode": 117,
+      "title": "Cremains of the Day",
+      "diziid": "smpsn",
+      "bolum": "765",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/765/kulden_kalanlar"
+    },
+    {
+      "season": 16,
+      "episode": 118,
+      "title": "The Tell-Tale Pants",
+      "diziid": "smpsn",
+      "bolum": "766",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/766/margein_sirri"
+    },
+    {
+      "season": 17,
+      "episode": 119,
+      "title": "The Tipping Point",
+      "diziid": "smpsn",
+      "bolum": "767",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/767/kivilcim_ani"
+    },
+    {
+      "season": 18,
+      "episode": 120,
+      "title": "Bart's Brain",
+      "diziid": "smpsn",
+      "bolum": "768",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/768/bartin_beyni"
+    },
+    {
+      "season": 1,
+      "episode": 121,
+      "title": "Bart's Birthday",
+      "diziid": "smpsn",
+      "bolum": "769",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/769/bartin_dogum_gunu"
+    },
+    {
+      "season": 2,
+      "episode": 122,
+      "title": "The Yellow Lotus",
+      "diziid": "smpsn",
+      "bolum": "770",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/770/sari_nilufer"
+    },
+    {
+      "season": 3,
+      "episode": 123,
+      "title": "Desperately Seeking Lisa",
+      "diziid": "smpsn",
+      "bolum": "771",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/771/lisayi_ararken"
+    },
+    {
+      "season": 4,
+      "episode": 124,
+      "title": "Shoddy Heat",
+      "diziid": "smpsn",
+      "bolum": "772",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/772/sahte_tutku"
+    },
+    {
+      "season": 5,
+      "episode": 125,
+      "title": "Treehouse of Horror XXXV",
+      "diziid": "smpsn",
+      "bolum": "773",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/773/korkunc_agac_ev_xxxv"
+    },
+    {
+      "season": 6,
+      "episode": 126,
+      "title": "Women in Shorts",
+      "diziid": "smpsn",
+      "bolum": "774",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/774/kisa_oykulerle_kadinlar"
+    },
+    {
+      "season": 7,
+      "episode": 127,
+      "title": "Treehouse of Horror Presents: Simpsons Wicked This Way Comes",
+      "diziid": "smpsn",
+      "bolum": "775",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/775/korku_agac_evi_sunar%3A_ugursuz_simpsonlar_geliyor_bu_yana"
+    },
+    {
+      "season": 8,
+      "episode": 128,
+      "title": "Convenience Airways",
+      "diziid": "smpsn",
+      "bolum": "776",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/776/rahat_ucuslar"
+    },
+    {
+      "season": 9,
+      "episode": 129,
+      "title": "Homer and Her Sisters",
+      "diziid": "smpsn",
+      "bolum": "777",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/777/homer_ve_baldizlari"
+    },
+    {
+      "season": 10,
+      "episode": 130,
+      "title": "The Man Who Flew Too Much",
+      "diziid": "smpsn",
+      "bolum": "778",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/778/cok_fazla_ucan_adam"
+    },
+    {
+      "season": 11,
+      "episode": 131,
+      "title": "Bottle Episode",
+      "diziid": "smpsn",
+      "bolum": "779",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/779/sise_bolumu"
+    },
+    {
+      "season": 12,
+      "episode": 132,
+      "title": "The Flandshees of Innersimpson",
+      "diziid": "smpsn",
+      "bolum": "780",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/780/simpsonlarin_ic_dunyasindaki_flanderslar"
+    },
+    {
+      "season": 13,
+      "episode": 133,
+      "title": "The Last Man Expanding",
+      "diziid": "smpsn",
+      "bolum": "781",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/781/genisleyen_son_adam"
+    },
+    {
+      "season": 14,
+      "episode": 134,
+      "title": "P.S. I Hate You",
+      "diziid": "smpsn",
+      "bolum": "782",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/782/not%3A_senden_nefret_ediyorum"
+    },
+    {
+      "season": 15,
+      "episode": 135,
+      "title": "Abe League of Their Moe",
+      "diziid": "smpsn",
+      "bolum": "783",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/783/abe_ile_moenun_ligi"
+    },
+    {
+      "season": 16,
+      "episode": 136,
+      "title": "Stew Lies",
+      "diziid": "smpsn",
+      "bolum": "784",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/784/yahni_yalanlari"
+    },
+    {
+      "season": 17,
+      "episode": 137,
+      "title": "Full Heart, Empty Pool",
+      "diziid": "smpsn",
+      "bolum": "785",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/785/dolu_kalp%2C_bos_havuz"
+    },
+    {
+      "season": 18,
+      "episode": 138,
+      "title": "Estranger Things",
+      "diziid": "smpsn",
+      "bolum": "786",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/786/daha_yabanci_seyler"
+    },
+    {
+      "season": 1,
+      "episode": 139,
+      "title": "Thrifty Ways to Thieve Your Mother",
+      "diziid": "smpsn",
+      "bolum": "787",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/787/annenizi_soymanin_tutumlu_yollari"
+    },
+    {
+      "season": 2,
+      "episode": 140,
+      "title": "Keep Chalm and Gary On",
+      "diziid": "smpsn",
+      "bolum": "788",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/788/chalm_ve_gary_ile_devam"
+    },
+    {
+      "season": 3,
+      "episode": 141,
+      "title": "Treehouse of Horror XXXVI",
+      "diziid": "smpsn",
+      "bolum": "789",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/789/korku_agac_evi_xxxvi"
+    },
+    {
+      "season": 4,
+      "episode": 142,
+      "title": "Men Behaving Manly",
+      "diziid": "smpsn",
+      "bolum": "790",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/790/erkek_gibi_erkekler"
+    },
+    {
+      "season": 5,
+      "episode": 143,
+      "title": "Bad Boys... For Life?",
+      "diziid": "smpsn",
+      "bolum": "791",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/791/kotu_huylar_omur_boyu_mu"
+    },
+    {
+      "season": 6,
+      "episode": 144,
+      "title": "Bart 'N' Frink",
+      "diziid": "smpsn",
+      "bolum": "792",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/792/bart_ve_frink"
+    },
+    {
+      "season": 7,
+      "episode": 145,
+      "title": "Sashes to Sashes",
+      "diziid": "smpsn",
+      "bolum": "793",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/793/kusaktan_kusaga"
+    },
+    {
+      "season": 8,
+      "episode": 146,
+      "title": "The Day of the Jack-up",
+      "diziid": "smpsn",
+      "bolum": "794",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/794/artis_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 147,
+      "title": "Aunt Misbehavin'",
+      "diziid": "smpsn",
+      "bolum": "795",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/795/yaramaz_teyze"
+    },
+    {
+      "season": 10,
+      "episode": 148,
+      "title": "Guess Who's Coming to Skinner",
+      "diziid": "smpsn",
+      "bolum": "796",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/796/bil_bakalim_skinnere_kim_geliyor"
+    },
+    {
+      "season": 11,
+      "episode": 149,
+      "title": "Parahormonal Activity",
+      "diziid": "smpsn",
+      "bolum": "797",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/797/parahormonal_aktivite"
+    },
+    {
+      "season": 12,
+      "episode": 150,
+      "title": "Â¡The Fall Guy-Yi-Yi!",
+      "diziid": "smpsn",
+      "bolum": "798",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/798/gunah_kecisi_yi-yi%21"
+    },
+    {
+      "season": 13,
+      "episode": 151,
+      "title": "Seperance",
+      "diziid": "smpsn",
+      "bolum": "799",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/799/ayrilik"
+    },
+    {
+      "season": 14,
+      "episode": 152,
+      "title": "Irrational Treasure",
+      "diziid": "smpsn",
+      "bolum": "800",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/800/asiri_buyuk_hazine"
+    },
+    {
+      "season": 15,
+      "episode": 153,
+      "title": "Homer? A Cracker Bro?",
+      "diziid": "smpsn",
+      "bolum": "801",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/801/homer_kraker_kardes_mi"
+    },
+    {
+      "season": 1,
+      "episode": 154,
+      "title": "O C'mon All Ye Faithful",
+      "diziid": "smpsn",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/0/o_cmon_all_ye_faithful"
+    },
+    {
+      "season": 1,
+      "episode": 155,
+      "title": "The Past and the Furious",
+      "diziid": "smpsn",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/0/gecmis_ve_ofkeli"
+    },
+    {
+      "season": 1,
+      "episode": 156,
+      "title": "Yellow Planet",
+      "diziid": "smpsn",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/0/sari_gezegen"
+    },
+    {
+      "season": 1,
+      "episode": 157,
+      "title": "Simpsley",
+      "diziid": "smpsn",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/smpsn/simpsonlar/0/simpsley"
+    }
+  ]
+}

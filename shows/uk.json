@@ -1,0 +1,829 @@
+{
+  "id": "uk",
+  "title": "unikitty!",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/UKPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Spoooooky Game",
+      "diziid": "uk",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/1/korku_oyunu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Sparkle Matter Matters",
+      "diziid": "uk",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/2/parlak_seyler"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "No Day Like Snow Day",
+      "diziid": "uk",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/3/karli_bir_gun_gibisi_yok"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Action Forest",
+      "diziid": "uk",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/4/aksiyon_ormani"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Kaiju Kitty",
+      "diziid": "uk",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/5/canavar_kedi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Fire & Nice",
+      "diziid": "uk",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/6/sevimli_ve_ofkeli"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "A Rock Friend, Indeed",
+      "diziid": "uk",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/7/kaya_dostum"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Kitchen Chaos",
+      "diziid": "uk",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/8/mutfakta_kargasa"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Crushing Defeat",
+      "diziid": "uk",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/9/sevgi_guzeldir"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Wishing Well",
+      "diziid": "uk",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/10/dilek_kuyusu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Hide N' Seek",
+      "diziid": "uk",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/11/saklambac"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Stuck Together",
+      "diziid": "uk",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/12/birbirine_yapisik"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Little Prince Puppycorn",
+      "diziid": "uk",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/13/kucuk_prens_puppycorn"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Pet Pet",
+      "diziid": "uk",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/14/pet_pet"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Kitty Court",
+      "diziid": "uk",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/15/kedi_mahkemesi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Birthday Blowout",
+      "diziid": "uk",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/16/dogum_gunu_eglencesi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Lab Cat",
+      "diziid": "uk",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/17/laboratuvar_kedisi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Zone",
+      "diziid": "uk",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/18/bolge"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Too Many Unikittys",
+      "diziid": "uk",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/19/bir_suru_unikitty"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Film Fest",
+      "diziid": "uk",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/20/film_festivali"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Unikitty News!",
+      "diziid": "uk",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/21/unikitty_haberleri"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Dinner Apart-y",
+      "diziid": "uk",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/22/aksam_yemegi_partisi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "R & Arr",
+      "diziid": "uk",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/23/r_ve_arr"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "License to Punch",
+      "diziid": "uk",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/24/yumruk_lisansi"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Buggin' Out",
+      "diziid": "uk",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/25/bocek_istilasi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Chair",
+      "diziid": "uk",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/26/koltuk"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Kickflip McPuppycorn",
+      "diziid": "uk",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/27/kaykayci_puppycorn"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Super Amazing Raft Adventure",
+      "diziid": "uk",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/28/super_eglenceli_sal_macerasi"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Tasty Heist",
+      "diziid": "uk",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/29/dondurma_operasyonu"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Brawl Bot",
+      "diziid": "uk",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/30/robotla_savas"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Beach Daze",
+      "diziid": "uk",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/31/plaj_keyfi"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Big Pup, Little Problem",
+      "diziid": "uk",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/32/buyuk_kopek%2C_kucuk_sorun"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Tragic Magic",
+      "diziid": "uk",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/33/trajik_sihir"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Dancer Danger",
+      "diziid": "uk",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/34/tehlikeli_dansci"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Landlord Lord",
+      "diziid": "uk",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/35/ev_sahibi_lord"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Scary Tales",
+      "diziid": "uk",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/36/urkuten_masallar"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Float On",
+      "diziid": "uk",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/37/fener_alayi"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Space Mission: Danger",
+      "diziid": "uk",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/38/uzay_gorevi%3A_tehlike"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Top of the Naughty List",
+      "diziid": "uk",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/39/yaramazlar_listesinin_en_basi"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Batkitty",
+      "diziid": "uk",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/40/yarasakitty"
+    },
+    {
+      "season": 1,
+      "episode": 41,
+      "title": "Pool Duel",
+      "diziid": "uk",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/41/havuz_duellosu"
+    },
+    {
+      "season": 2,
+      "episode": 42,
+      "title": "Tooth Trouble",
+      "diziid": "uk",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/42/dis_sorunu"
+    },
+    {
+      "season": 3,
+      "episode": 43,
+      "title": "This Spells Disaster",
+      "diziid": "uk",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/43/tam_bir_felaket"
+    },
+    {
+      "season": 4,
+      "episode": 44,
+      "title": "Roadtrip Rukus",
+      "diziid": "uk",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/44/yolculuk_kargasasi"
+    },
+    {
+      "season": 5,
+      "episode": 45,
+      "title": "Memory Amok",
+      "diziid": "uk",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/45/amok_hafiza"
+    },
+    {
+      "season": 7,
+      "episode": 46,
+      "title": "No Sleep Sleep Over",
+      "diziid": "uk",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/47/uykusuz_gecen_gece_yatisi"
+    },
+    {
+      "season": 8,
+      "episode": 47,
+      "title": "Unfairgrounds, Part 1",
+      "diziid": "uk",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/48/kotu_lunapark_bolum_1"
+    },
+    {
+      "season": 9,
+      "episode": 48,
+      "title": "Unfairgrounds (2)",
+      "diziid": "uk",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/49/kotu_lunapark_bolum_2"
+    },
+    {
+      "season": 10,
+      "episode": 49,
+      "title": "Kitty & Hawk",
+      "diziid": "uk",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/50/kitty_ve_hawk"
+    },
+    {
+      "season": 11,
+      "episode": 50,
+      "title": "Camp Unikitty",
+      "diziid": "uk",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/51/unikitty_kampi"
+    },
+    {
+      "season": 12,
+      "episode": 51,
+      "title": "Hawkodile Sensei",
+      "diziid": "uk",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/52/sensei_hawkodile"
+    },
+    {
+      "season": 14,
+      "episode": 52,
+      "title": "P.L.O.T. Device",
+      "diziid": "uk",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/54/p.l.o.t._aleti"
+    },
+    {
+      "season": 15,
+      "episode": 53,
+      "title": "Who Took Toast",
+      "diziid": "uk",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/55/tostu_kim_aldi"
+    },
+    {
+      "season": 16,
+      "episode": 54,
+      "title": "Rainbow Race",
+      "diziid": "uk",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/56/gokkusagi_yarisi"
+    },
+    {
+      "season": 17,
+      "episode": 55,
+      "title": "Beep",
+      "diziid": "uk",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/57/bip"
+    },
+    {
+      "season": 18,
+      "episode": 56,
+      "title": "Delivery Effect",
+      "diziid": "uk",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/58/teslimat_etkisi"
+    },
+    {
+      "season": 19,
+      "episode": 57,
+      "title": "Lazer Tag",
+      "diziid": "uk",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/59/lazer_oyunu"
+    },
+    {
+      "season": 20,
+      "episode": 58,
+      "title": "Trapped in Paradise",
+      "diziid": "uk",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/60/cennette_mahsur_kalmak"
+    },
+    {
+      "season": 21,
+      "episode": 59,
+      "title": "Prank War",
+      "diziid": "uk",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/61/saka_savasi"
+    },
+    {
+      "season": 22,
+      "episode": 60,
+      "title": "Safety First",
+      "diziid": "uk",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/62/once_guvenlik"
+    },
+    {
+      "season": 23,
+      "episode": 61,
+      "title": "Volcano",
+      "diziid": "uk",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/63/yanardag"
+    },
+    {
+      "season": 24,
+      "episode": 62,
+      "title": "First Flight",
+      "diziid": "uk",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/64/ilk_ucus"
+    },
+    {
+      "season": 25,
+      "episode": 63,
+      "title": "Cheerleading",
+      "diziid": "uk",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/65/amigoluk"
+    },
+    {
+      "season": 26,
+      "episode": 64,
+      "title": "Rag Tag",
+      "diziid": "uk",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/66/paspallar"
+    },
+    {
+      "season": 27,
+      "episode": 65,
+      "title": "Career Day",
+      "diziid": "uk",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/67/is_gunu"
+    },
+    {
+      "season": 28,
+      "episode": 66,
+      "title": "Asteroid Blues",
+      "diziid": "uk",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/68/huzunlu_meteor"
+    },
+    {
+      "season": 29,
+      "episode": 67,
+      "title": "The Big Trip",
+      "diziid": "uk",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/69/buyuk_seyahat"
+    },
+    {
+      "season": 30,
+      "episode": 68,
+      "title": "Late Night Talky Time",
+      "diziid": "uk",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/70/gece_vakti_sohbet_zamani"
+    },
+    {
+      "season": 31,
+      "episode": 69,
+      "title": "Welcome to the Unikingdom",
+      "diziid": "uk",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/71/unikralligina_hos_geldiniz"
+    },
+    {
+      "season": 32,
+      "episode": 70,
+      "title": "Time Capsule",
+      "diziid": "uk",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/72/zaman_kapsulu"
+    },
+    {
+      "season": 33,
+      "episode": 71,
+      "title": "Music Videos",
+      "diziid": "uk",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/73/muzik_videolari"
+    },
+    {
+      "season": 34,
+      "episode": 72,
+      "title": "Brock: Most Wanted",
+      "diziid": "uk",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/74/brock_en_iyisini_istiyor"
+    },
+    {
+      "season": 35,
+      "episode": 73,
+      "title": "Bedtime Stories",
+      "diziid": "uk",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/75/uyku_oncesi_masallari"
+    },
+    {
+      "season": 36,
+      "episode": 74,
+      "title": "Grown Up Stuff",
+      "diziid": "uk",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/76/yetiskin_isleri"
+    },
+    {
+      "season": 37,
+      "episode": 75,
+      "title": "Stop the Presses",
+      "diziid": "uk",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/77/baskiyi_durdur"
+    },
+    {
+      "season": 38,
+      "episode": 76,
+      "title": "Castles and Kitties",
+      "diziid": "uk",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/78/kaleler_ve_kediler"
+    },
+    {
+      "season": 39,
+      "episode": 77,
+      "title": "Brain Trust",
+      "diziid": "uk",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/79/beynine_guven"
+    },
+    {
+      "season": 40,
+      "episode": 78,
+      "title": "Dunklecorn",
+      "diziid": "uk",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/80/dunklecorn"
+    },
+    {
+      "season": 1,
+      "episode": 79,
+      "title": "Growing Pains",
+      "diziid": "uk",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/81/buyume_sancilari"
+    },
+    {
+      "season": 2,
+      "episode": 80,
+      "title": "Wiener Club",
+      "diziid": "uk",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/82/sosis_kulubu"
+    },
+    {
+      "season": 3,
+      "episode": 81,
+      "title": "Trapped in the Tower",
+      "diziid": "uk",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/83/kulede_kapali_kalmak"
+    },
+    {
+      "season": 4,
+      "episode": 82,
+      "title": "Special Delivery",
+      "diziid": "uk",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/84/ozel_teslimat"
+    },
+    {
+      "season": 5,
+      "episode": 83,
+      "title": "Scary Tales 2",
+      "diziid": "uk",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/85/urkuten_masallar_bolum_2"
+    },
+    {
+      "season": 6,
+      "episode": 84,
+      "title": "Old Lady Bodyguard",
+      "diziid": "uk",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/86/yasli_kadin_korumasi"
+    },
+    {
+      "season": 7,
+      "episode": 85,
+      "title": "Too Cool",
+      "diziid": "uk",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/87/cok_havali"
+    },
+    {
+      "season": 8,
+      "episode": 86,
+      "title": "Guardian of the Unikingdom",
+      "diziid": "uk",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/88/unikralligi_koruyucusu"
+    },
+    {
+      "season": 9,
+      "episode": 87,
+      "title": "Cast Aside the Truth",
+      "diziid": "uk",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/89/gercegi_bir_kenara_at"
+    },
+    {
+      "season": 10,
+      "episode": 88,
+      "title": "Unikitty and the Ice Pop Factory",
+      "diziid": "uk",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/90/unikitty_ve_dondurma_fabrikasi"
+    },
+    {
+      "season": 11,
+      "episode": 89,
+      "title": "Sunken Treasure",
+      "diziid": "uk",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/91/batik_hazine"
+    },
+    {
+      "season": 12,
+      "episode": 90,
+      "title": "Dawn of the Donut",
+      "diziid": "uk",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/92/donutin_safagi"
+    },
+    {
+      "season": 13,
+      "episode": 91,
+      "title": "P.L.O.T. Device 2: Beyond the Bored Dome",
+      "diziid": "uk",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/93/p.l.o.t._aleti_2%3A__otesinde"
+    },
+    {
+      "season": 14,
+      "episode": 92,
+      "title": "The New Nemesis",
+      "diziid": "uk",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/94/yeni_rakip"
+    },
+    {
+      "season": 15,
+      "episode": 93,
+      "title": "Baby Caterpillar",
+      "diziid": "uk",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/95/bebek_tirtil"
+    },
+    {
+      "season": 16,
+      "episode": 94,
+      "title": "Borrowed",
+      "diziid": "uk",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/96/odunc_almak"
+    },
+    {
+      "season": 17,
+      "episode": 95,
+      "title": "Sick Day",
+      "diziid": "uk",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/97/hastalik_izni"
+    },
+    {
+      "season": 18,
+      "episode": 96,
+      "title": "Best Best Friends",
+      "diziid": "uk",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/98/en_en_iyi_arkadaslar"
+    },
+    {
+      "season": 19,
+      "episode": 97,
+      "title": "Escape Room Of Doom",
+      "diziid": "uk",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/99/mahvolma_odasindan_kacis"
+    },
+    {
+      "season": 20,
+      "episode": 98,
+      "title": "Last One There",
+      "diziid": "uk",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/100/sona_kalan"
+    },
+    {
+      "season": 21,
+      "episode": 99,
+      "title": "The Very Best Candy",
+      "diziid": "uk",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/101/en_iyi_seker"
+    },
+    {
+      "season": 22,
+      "episode": 100,
+      "title": "The Unikingdom Awards",
+      "diziid": "uk",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/102/unikralligi_odulleri"
+    },
+    {
+      "season": 23,
+      "episode": 101,
+      "title": "The Birthday To End All Birthdays, Part 1",
+      "diziid": "uk",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/103/butun_dogum_gunlerini_bitirecek_dogum_gunu_bolum_1"
+    },
+    {
+      "season": 24,
+      "episode": 102,
+      "title": "The Birthday To End All Birthdays, Part 2",
+      "diziid": "uk",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/uk/unikitty%21/104/butun_dogum_gunlerini_bitirecek_dogum_gunu_bolum_2"
+    }
+  ]
+}

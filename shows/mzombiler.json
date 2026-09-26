@@ -1,0 +1,45 @@
+{
+  "id": "mzombiler",
+  "title": "marvel zombiler",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MZOMBIESPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Korku",
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Episode 1",
+      "diziid": "mzombiler",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/mzombiler/marvel_zombiler/1/1._bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Episode 2",
+      "diziid": "mzombiler",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/mzombiler/marvel_zombiler/2/2._bolum"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Episode 3",
+      "diziid": "mzombiler",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/mzombiler/marvel_zombiler/3/3._bolum"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Episode 4",
+      "diziid": "mzombiler",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/mzombiler/marvel_zombiler/4/4._bolum"
+    }
+  ]
+}

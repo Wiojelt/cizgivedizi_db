@@ -1,0 +1,381 @@
+{
+  "id": "rdk",
+  "title": "redakai",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/RDKPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Aksiyon",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Fist of the Colossus",
+      "diziid": "rdk",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/1/devin_yumrugu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Maya Goes Bad",
+      "diziid": "rdk",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/2/maya_kotu_oluyor"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Kairu Diary",
+      "diziid": "rdk",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/3/kairu_gunlugu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Cataclysm Stone",
+      "diziid": "rdk",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/4/felaket_tasi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Guardian of the Souls",
+      "diziid": "rdk",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/5/gardiyanin_ruhlari"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Valley of the Banyan",
+      "diziid": "rdk",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/6/incir_vadisi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Kairu That Time Forgot",
+      "diziid": "rdk",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/7/zamanin_unuttugu_kairu"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Mask of Fire",
+      "diziid": "rdk",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/8/ates_maskesi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Neptune's Reef",
+      "diziid": "rdk",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/9/neptunun_kayaligi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Chalice",
+      "diziid": "rdk",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/10/kale"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Black Kairu Gold Metanoid",
+      "diziid": "rdk",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/11/kara_kairu_altin_metanoid"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Tournament of Champions",
+      "diziid": "rdk",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/12/sampiyonlar_turnuvasi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Kairu Showdown",
+      "diziid": "rdk",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/13/kairu_guc_gosterisi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Battacor Blood",
+      "diziid": "rdk",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/14/battacor_kani"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Farm Boy Boomer",
+      "diziid": "rdk",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/15/ciftlik_cocugu_boomer"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Kairu Vessel",
+      "diziid": "rdk",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/16/kairu_gemisi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Return of Connor Stax",
+      "diziid": "rdk",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/17/connor_staxin_donusu"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Island",
+      "diziid": "rdk",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/18/ada"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Kairu Visions",
+      "diziid": "rdk",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/19/kairu_gorevi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Redakai",
+      "diziid": "rdk",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/20/redakai"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Gauntlet of Lokar",
+      "diziid": "rdk",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/21/lokarin_eldiveni"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Green with Infinita Envy",
+      "diziid": "rdk",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/22/yesil_infinita_kiskancligiyla_catlamak"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "The New Warrior",
+      "diziid": "rdk",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/23/yeni_savasci"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Dream Team E-Teens",
+      "diziid": "rdk",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/24/ruya_takim_e-teens"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Clash of the Kairu Warriors: Part I",
+      "diziid": "rdk",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/25/kairu_savascilarinin_carpismasi_1.bolum"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Clash of the Kairu Warriors: Part II",
+      "diziid": "rdk",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/26/kairu_savascilarinin_carpismasi_2.bolum"
+    },
+    {
+      "season": 2,
+      "episode": 27,
+      "title": "The Rise of Zane",
+      "diziid": "rdk",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/28/zanein_dogusu"
+    },
+    {
+      "season": 3,
+      "episode": 28,
+      "title": "Arrival of the Hiverax",
+      "diziid": "rdk",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/29/hiveraxin_gelisi"
+    },
+    {
+      "season": 4,
+      "episode": 29,
+      "title": "Shadow Ekayon",
+      "diziid": "rdk",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/30/golge_ekayon"
+    },
+    {
+      "season": 5,
+      "episode": 30,
+      "title": "The Escape of the Imperiaz",
+      "diziid": "rdk",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/31/imperiazin_kacisi"
+    },
+    {
+      "season": 6,
+      "episode": 31,
+      "title": "New Redakai, New Warriors",
+      "diziid": "rdk",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/32/yeni_redakai_yeni_savascilar"
+    },
+    {
+      "season": 7,
+      "episode": 32,
+      "title": "Discovery of the Kairu Cube",
+      "diziid": "rdk",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/33/kairu_kupunun_fethedilisi"
+    },
+    {
+      "season": 8,
+      "episode": 33,
+      "title": "Return to Kieran's Castle",
+      "diziid": "rdk",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/34/kieranin_kalesine_donus"
+    },
+    {
+      "season": 9,
+      "episode": 34,
+      "title": "Shadow of the Radikor",
+      "diziid": "rdk",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/35/radikorun_golgesi"
+    },
+    {
+      "season": 10,
+      "episode": 35,
+      "title": "Vision of Catastrophe",
+      "diziid": "rdk",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/36/felaketin_ongorusu"
+    },
+    {
+      "season": 11,
+      "episode": 36,
+      "title": "Shadow of the Shadow",
+      "diziid": "rdk",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/37/golgenin_golgesi"
+    },
+    {
+      "season": 12,
+      "episode": 37,
+      "title": "Boomer Goes Platinum",
+      "diziid": "rdk",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/38/boomer_platin_olur"
+    },
+    {
+      "season": 13,
+      "episode": 38,
+      "title": "Darkness Rises",
+      "diziid": "rdk",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/39/karanligin_yukselisi"
+    },
+    {
+      "season": 14,
+      "episode": 39,
+      "title": "Tournament of the Kairu Cube",
+      "diziid": "rdk",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/40/kairu_kupu_turnuvasi"
+    },
+    {
+      "season": 19,
+      "episode": 40,
+      "title": "Mookee's Mission",
+      "diziid": "rdk",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/45/mookeenin_gorevi"
+    },
+    {
+      "season": 20,
+      "episode": 41,
+      "title": "The Two Faces of Ky Stax",
+      "diziid": "rdk",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/46/iki_yuzlu_ky_stax"
+    },
+    {
+      "season": 21,
+      "episode": 42,
+      "title": "The Power of the Imperiaz",
+      "diziid": "rdk",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/47/imperiazin_gucu"
+    },
+    {
+      "season": 22,
+      "episode": 43,
+      "title": "Elimination Island",
+      "diziid": "rdk",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/48/eleme_adasi"
+    },
+    {
+      "season": 23,
+      "episode": 44,
+      "title": "Battle of the Hiverax",
+      "diziid": "rdk",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/49/hiveraxin_savasi"
+    },
+    {
+      "season": 25,
+      "episode": 45,
+      "title": "The End of the Shadow - Part 1",
+      "diziid": "rdk",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/51/golgenin_sonu_1.bolum"
+    },
+    {
+      "season": 26,
+      "episode": 46,
+      "title": "The End of the Shadow - Part 2",
+      "diziid": "rdk",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/rdk/redakai/52/golgenin_sonu_2.bolum"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "kddu",
+  "title": "kaptan dÃ¼ÅŸÃ¼kdon: destansÄ± hikÃ¢yeler uzayda",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KDDUPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Senseless Torment of the Space Toilet",
+      "diziid": "kddu",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kddu/kaptan_dusukdon%3A_destansi_hikayeler_uzayda/1/kaptan_dusukdon_ve_uzay_tuvaletinin_amansiz_zulmu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Abandoned Artifact of the Absentee Aliens",
+      "diziid": "kddu",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kddu/kaptan_dusukdon%3A_destansi_hikayeler_uzayda/2/kaptan_dusukdon_ve_zayi_uzaylilarin_ziyan_ziyneti"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Hazardous Hysteria of the Hangry Hypnosinger",
+      "diziid": "kddu",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kddu/kaptan_dusukdon%3A_destansi_hikayeler_uzayda/3/kaptan_dusukdon_ve_haris_hipno-sarkicinin_helak_eden_histerisi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Disturbing Dilemma of the Dysfunctional Doppelgangers",
+      "diziid": "kddu",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kddu/kaptan_dusukdon%3A_destansi_hikayeler_uzayda/4/kaptan_dusukdon_ve_islevsiz_ikizlerin_ikircikli_ikilemi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Confusing Crisis of the Conniving Captive",
+      "diziid": "kddu",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kddu/kaptan_dusukdon%3A_destansi_hikayeler_uzayda/5/kaptan_dusukdon_ve_is_birlikci_tutsagin_sasirtan_krizi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Aggravated Assault of the Alien Armada",
+      "diziid": "kddu",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kddu/kaptan_dusukdon%3A_destansi_hikayeler_uzayda/6/kaptan_dusukdon_ve_uzayli_filosunun_agir_saldirisi"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "hl",
+  "title": "hÄ±zlÄ± layne",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/HLPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Mile 1: The Voice in the Shed",
+      "diziid": "hl",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/hl/hizli_layne/1/1._kilometre%3A_kulubedeki_ses"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Mile 2: Paid to Drive",
+      "diziid": "hl",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/hl/hizli_layne/2/2._kilometre%3A_ucretli_surucu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Mile 3: VIN Goes Wild",
+      "diziid": "hl",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/hl/hizli_layne/3/3._kilometre%3A_vin_cildiriyor"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Mile 4: Changing Laynes",
+      "diziid": "hl",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/hl/hizli_layne/4/4._kilometre%3A_serit_degistirmek"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Mile 5: Road Trip",
+      "diziid": "hl",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/hl/hizli_layne/5/5._kilometre%3A_yolculuk"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Mile 6: Code Orange",
+      "diziid": "hl",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/hl/hizli_layne/6/6._kilometre%3A_turuncu_kod"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Mile 7: On the Run",
+      "diziid": "hl",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/hl/hizli_layne/7/7._kilometre%3A_kacis"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Mile 8: Helicopter Parents",
+      "diziid": "hl",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/hl/hizli_layne/8/8._kilometre%3A_helikopter_ebeveynler"
+    }
+  ]
+}

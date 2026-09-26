@@ -1,0 +1,78 @@
+{
+  "id": "twil",
+  "title": "tanrÄ±larÄ±n alacakaranlÄ±ÄŸÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TWILPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Aksiyon",
+    "Fantastik",
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Bride-Price",
+      "diziid": "twil",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/twil/tanrilarin_alacakaranligi/1/gelinin_bedeli"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Heretic Spear",
+      "diziid": "twil",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/twil/tanrilarin_alacakaranligi/2/kafir_mizrak"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "You Will Gladden His Ravens",
+      "diziid": "twil",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/twil/tanrilarin_alacakaranligi/3/kuzgunlari_sevindirmek"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Worm",
+      "diziid": "twil",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/twil/tanrilarin_alacakaranligi/4/solucan"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Scapegoat God",
+      "diziid": "twil",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/twil/tanrilarin_alacakaranligi/5/hem_tanri_hem_gunah_kecisi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Now Hear Of...",
+      "diziid": "twil",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/twil/tanrilarin_alacakaranligi/6/siradaki_hikayemiz..."
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "If I Had a Hammer",
+      "diziid": "twil",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/twil/tanrilarin_alacakaranligi/7/elimde_bir_cekic_olsaydi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Song of Sigrid",
+      "diziid": "twil",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/twil/tanrilarin_alacakaranligi/8/sigridin_sarkisi"
+    }
+  ]
+}

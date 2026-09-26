@@ -1,0 +1,404 @@
+{
+  "id": "pb",
+  "title": "patron bebek: yine iÅŸ baÅŸÄ±nda",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/PBPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Scooter Buskie",
+      "diziid": "pb",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/1/scooter_buskie"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Cat's in the Cradle",
+      "diziid": "pb",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/2/besikteki_kedi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Family Fun Night",
+      "diziid": "pb",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/3/aile_eglence_gecesi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Formula for Menace: A Dekker Moonboots Mystery",
+      "diziid": "pb",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/4/kotuluk_formulu%3A_bir_dekker_aybotlari_gizemi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Monster Machine",
+      "diziid": "pb",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/5/canavar_makinesi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Constipation Situation",
+      "diziid": "pb",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/6/kabizlik_durumu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Boss Babysitter",
+      "diziid": "pb",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/7/patron_bebek_bakicisi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Into the Belly of the Den of the House of the Nest of Cats",
+      "diziid": "pb",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/8/kedi_ini_olan_evin_gobegine_dogru"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Spirit Day",
+      "diziid": "pb",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/9/neseli_ofis_gunu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Par Avion",
+      "diziid": "pb",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/10/ucak_yolculugu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Cat Cop!",
+      "diziid": "pb",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/11/mirnav_polis%21"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Hang in There, Baby",
+      "diziid": "pb",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/12/dayan_bebek"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Six Well-Placed Kittens",
+      "diziid": "pb",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/13/alti_yerlestirme_kedi"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "As the Diaper Changes",
+      "diziid": "pb",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/14/bez_degistikce"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Super Cool Big Kids Inc.",
+      "diziid": "pb",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/15/bir_numara_buyuk_cocuklar_limited_sirketi"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "P.U.",
+      "diziid": "pb",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/16/a.t._alir_tasiriz"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Hush, Little Baby",
+      "diziid": "pb",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/17/sus_minik_bebek"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Night of the Frodarg",
+      "diziid": "pb",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/18/frodarg%E2%80%99in_gecesi"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Fugitive's Day Out",
+      "diziid": "pb",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/19/kacak_gezmesi"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "El Apasionado Negocio de la NiÃ±era",
+      "diziid": "pb",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/20/dadinin_karli_anlasmasi"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Plushythingy",
+      "diziid": "pb",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/21/pofuduk_sey"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Number One Problem",
+      "diziid": "pb",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/22/bir_numara_sorunu"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Picture Perfect",
+      "diziid": "pb",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/23/resim_gibi_guzel"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "Play It Again, Tim",
+      "diziid": "pb",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/24/tekrar_cal%2C_tim"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Research & Development",
+      "diziid": "pb",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/25/arastirma_gelistirme"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "Wrinkles & Stinkles",
+      "diziid": "pb",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/26/kirismis_ve_kokusmus"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Bossa Nova",
+      "diziid": "pb",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/27/yeni_patron"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "The Museum Job",
+      "diziid": "pb",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/28/muze_isi"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Ga Ba Goo Ba Ga (The Babblist)",
+      "diziid": "pb",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/29/agucukcu"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "The Coo Chi Coup",
+      "diziid": "pb",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/30/guk_guk_darbesi"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Lights, Camera, Org Chart!",
+      "diziid": "pb",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/31/isik%2C_kamera%2C_organizasyon_semasi%21"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "The Big Break",
+      "diziid": "pb",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/32/sans_meselesi"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Escape from Krinkle's",
+      "diziid": "pb",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/33/cetincevizlerden_kacis"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Puppy Party",
+      "diziid": "pb",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/34/yavru_kopek_eglencesi"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Mega Fat",
+      "diziid": "pb",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/35/super_sisko"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Halloween",
+      "diziid": "pb",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/36/cadilar_bayrami"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Who's a Good Baby?",
+      "diziid": "pb",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/37/hanimis_uslu_bebek"
+    },
+    {
+      "season": 1,
+      "episode": 38,
+      "title": "Yellow 100",
+      "diziid": "pb",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/38/sari_100"
+    },
+    {
+      "season": 2,
+      "episode": 39,
+      "title": "Pyg & Tam",
+      "diziid": "pb",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/39/pyg_ile_tam"
+    },
+    {
+      "season": 3,
+      "episode": 40,
+      "title": "Conference Room B",
+      "diziid": "pb",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/40/toplanti_odasi_b"
+    },
+    {
+      "season": 4,
+      "episode": 41,
+      "title": "Game Plan",
+      "diziid": "pb",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/41/oyun_plani"
+    },
+    {
+      "season": 5,
+      "episode": 42,
+      "title": "Night Owls",
+      "diziid": "pb",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/42/gece_baykuslari"
+    },
+    {
+      "season": 6,
+      "episode": 43,
+      "title": "OCB",
+      "diziid": "pb",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/43/danisman"
+    },
+    {
+      "season": 7,
+      "episode": 44,
+      "title": "Chicago",
+      "diziid": "pb",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/44/chicago"
+    },
+    {
+      "season": 8,
+      "episode": 45,
+      "title": "Baby Boss",
+      "diziid": "pb",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/45/bebek_patron"
+    },
+    {
+      "season": 9,
+      "episode": 46,
+      "title": "Boom Baby",
+      "diziid": "pb",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/46/bam_bebek"
+    },
+    {
+      "season": 10,
+      "episode": 47,
+      "title": "The Fumbling of Football Mike",
+      "diziid": "pb",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/47/beceriksiz_futbol_mike"
+    },
+    {
+      "season": 11,
+      "episode": 48,
+      "title": "Teambuilding",
+      "diziid": "pb",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/48/ekip_olusturma"
+    },
+    {
+      "season": 12,
+      "episode": 49,
+      "title": "Theo 100",
+      "diziid": "pb",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/pb/patron_bebek%3A_yine_is_basinda/49/theo_100"
+    }
+  ]
+}

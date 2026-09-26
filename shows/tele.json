@@ -1,0 +1,404 @@
+{
+  "id": "tele",
+  "title": "teletabiler",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TELEPoster.avif",
+  "channel": "YouTube",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Ned's Bicycle",
+      "diziid": "tele",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/1/nedin_bisikleti"
+    },
+    {
+      "season": 3,
+      "episode": 2,
+      "title": "The Grand Old Duke of York",
+      "diziid": "tele",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/3/yorkun_buyuk_yasli_duku"
+    },
+    {
+      "season": 4,
+      "episode": 3,
+      "title": "Naughty Sock",
+      "diziid": "tele",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/4/yaramaz_corap"
+    },
+    {
+      "season": 5,
+      "episode": 4,
+      "title": "Painting with our Hands and Feet",
+      "diziid": "tele",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/5/ellerimiz_ve_ayaklarimizla_boyama"
+    },
+    {
+      "season": 6,
+      "episode": 5,
+      "title": "Lambs",
+      "diziid": "tele",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/6/kuzular"
+    },
+    {
+      "season": 7,
+      "episode": 6,
+      "title": "Playing in the Rain",
+      "diziid": "tele",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/7/yagmurda_eglenmek"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "title": "Dad's Lorry",
+      "diziid": "tele",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/8/babamin_kamyonu"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "title": "Making Flowers",
+      "diziid": "tele",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/9/cicek_yapalim"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "Numbers: One",
+      "diziid": "tele",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/10/sayilar%3A_bir"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "Seesaw Margery Daw",
+      "diziid": "tele",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/11/seesaw_marjory_daw"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "Photo Faces",
+      "diziid": "tele",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/12/fotograf_yuzu"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "Owl Babies",
+      "diziid": "tele",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/13/baykus_baykuslari"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "Loretta Tap Dancing",
+      "diziid": "tele",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/14/loretta_step_dansi"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "Emily and Jester",
+      "diziid": "tele",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/15/emily_ve_jester"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Delilah Packing",
+      "diziid": "tele",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/16/delilah_paketleme_yapiyor"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "Humpty Dumpty",
+      "diziid": "tele",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/17/humpty_dumpty"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "Feeding the Chickens",
+      "diziid": "tele",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/18/tavuklari_beslemek"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "The Helicopter",
+      "diziid": "tele",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/19/helikopter"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "Balancing",
+      "diziid": "tele",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/20/dengeleme"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "Building a Barbecue",
+      "diziid": "tele",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/21/barbeku_yapmak"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "Jumping",
+      "diziid": "tele",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/22/atlama"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "Rockpool",
+      "diziid": "tele",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/23/tas_cizimi"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "Drawing Cacti",
+      "diziid": "tele",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/24/kaktus_cizimi"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "Washing the Bus",
+      "diziid": "tele",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/25/otobus_yikama"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "CafÃ© Chocolate",
+      "diziid": "tele",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/26/kafe_cikolata"
+    },
+    {
+      "season": 27,
+      "episode": 26,
+      "title": "Emily and the Trap",
+      "diziid": "tele",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/27/emily_ve_tuzak"
+    },
+    {
+      "season": 28,
+      "episode": 27,
+      "title": "The Beach",
+      "diziid": "tele",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/28/deniz"
+    },
+    {
+      "season": 29,
+      "episode": 28,
+      "title": "Rolling",
+      "diziid": "tele",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/29/yuvarlanma"
+    },
+    {
+      "season": 31,
+      "episode": 29,
+      "title": "Swimming With Stephanie",
+      "diziid": "tele",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/31/stephanie_ile_yuzmek"
+    },
+    {
+      "season": 32,
+      "episode": 30,
+      "title": "Naughty Lady, Yellow Cow",
+      "diziid": "tele",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/32/yaramaz_kadin%2C_sari_inek"
+    },
+    {
+      "season": 33,
+      "episode": 31,
+      "title": "Mum's Keyboard",
+      "diziid": "tele",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/33/annemin_klavyesi"
+    },
+    {
+      "season": 34,
+      "episode": 32,
+      "title": "Walking in the Woods",
+      "diziid": "tele",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/34/ormanda_yuruyus"
+    },
+    {
+      "season": 35,
+      "episode": 33,
+      "title": "Strawberry Picking",
+      "diziid": "tele",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/35/lezzetli_cilek"
+    },
+    {
+      "season": 36,
+      "episode": 34,
+      "title": "Shadows",
+      "diziid": "tele",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/36/golgeler"
+    },
+    {
+      "season": 38,
+      "episode": 35,
+      "title": "My Mum's a Doctor",
+      "diziid": "tele",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/38/annem_bir_doktor"
+    },
+    {
+      "season": 39,
+      "episode": 36,
+      "title": "Tweet Tweet",
+      "diziid": "tele",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/39/civildamak"
+    },
+    {
+      "season": 40,
+      "episode": 37,
+      "title": "Bubbles",
+      "diziid": "tele",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/40/hava_kabarcigi"
+    },
+    {
+      "season": 41,
+      "episode": 38,
+      "title": "Gospel Singing",
+      "diziid": "tele",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/41/incil_sarkilari"
+    },
+    {
+      "season": 42,
+      "episode": 39,
+      "title": "Mark and Zoe Cooking",
+      "diziid": "tele",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/42/mark_ve_zoe_yemek_yapar"
+    },
+    {
+      "season": 43,
+      "episode": 40,
+      "title": "Arthur Robot Story",
+      "diziid": "tele",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/43/arthur_robot_hikayesi"
+    },
+    {
+      "season": 44,
+      "episode": 41,
+      "title": "Hey Diddle Diddle",
+      "diziid": "tele",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/44/hey_diddle_diddle"
+    },
+    {
+      "season": 45,
+      "episode": 42,
+      "title": "Dirty Dog",
+      "diziid": "tele",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/45/kirli_kopek"
+    },
+    {
+      "season": 46,
+      "episode": 43,
+      "title": "Walking the Dog",
+      "diziid": "tele",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/46/yuruyuse_cikmak"
+    },
+    {
+      "season": 47,
+      "episode": 44,
+      "title": "Music with Debbie",
+      "diziid": "tele",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/47/debbie_ile_sarki_soylemek"
+    },
+    {
+      "season": 48,
+      "episode": 45,
+      "title": "Numbers: Three",
+      "diziid": "tele",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/48/sayilar%3A_uc"
+    },
+    {
+      "season": 49,
+      "episode": 46,
+      "title": "Haymaking",
+      "diziid": "tele",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/49/saman_yapimi"
+    },
+    {
+      "season": 50,
+      "episode": 47,
+      "title": "Naughty Cloud",
+      "diziid": "tele",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/50/yaramaz_bulut"
+    },
+    {
+      "season": 51,
+      "episode": 48,
+      "title": "I Want to Be a Vet",
+      "diziid": "tele",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/51/veteriner_olmak_istiyorum"
+    },
+    {
+      "season": 52,
+      "episode": 49,
+      "title": "Ned's Potatoes",
+      "diziid": "tele",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/tele/teletabiler/52/nedin_patatesleri"
+    }
+  ]
+}

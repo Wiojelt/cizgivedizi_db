@@ -1,0 +1,102 @@
+{
+  "id": "perihat",
+  "title": "perili hathawayler",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/PERIHATPoster.avif",
+  "channel": "Nickelodeon",
+  "genres": [
+    "Komedi",
+    "Fantastik",
+    "Korku"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "perihat",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/perihat/perili_hathawayler/1/pilot"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Haunted Sleepover",
+      "diziid": "perihat",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/perihat/perili_hathawayler/2/hayaletli_yatiya_kalma_partisi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Haunted Science Fair",
+      "diziid": "perihat",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/perihat/perili_hathawayler/3/perili_bilim_yarismasi"
+    },
+    {
+      "season": 5,
+      "episode": 4,
+      "title": "Haunted Volleyball",
+      "diziid": "perihat",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/perihat/perili_hathawayler/5/hayaletli_voleybol"
+    },
+    {
+      "season": 6,
+      "episode": 5,
+      "title": "Haunted Babysitter",
+      "diziid": "perihat",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/perihat/perili_hathawayler/6/hayaletli_bebek_bakicisi"
+    },
+    {
+      "season": 10,
+      "episode": 6,
+      "title": "Haunted Interview",
+      "diziid": "perihat",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/perihat/perili_hathawayler/10/hayaletli_roportaj"
+    },
+    {
+      "season": 11,
+      "episode": 7,
+      "title": "Haunted Halloween",
+      "diziid": "perihat",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/perihat/perili_hathawayler/11/hayaletli_cadilar_bayrami"
+    },
+    {
+      "season": 12,
+      "episode": 8,
+      "title": "Haunted Principal",
+      "diziid": "perihat",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/perihat/perili_hathawayler/12/perili_mudur"
+    },
+    {
+      "season": 13,
+      "episode": 9,
+      "title": "Haunted Cookie Jar",
+      "diziid": "perihat",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/perihat/perili_hathawayler/13/perili_kavanoz"
+    },
+    {
+      "season": 14,
+      "episode": 10,
+      "title": "Haunted Camping",
+      "diziid": "perihat",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/perihat/perili_hathawayler/14/hayaletli_kamp"
+    },
+    {
+      "season": 16,
+      "episode": 11,
+      "title": "Haunted Bakery",
+      "diziid": "perihat",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/perihat/perili_hathawayler/16/perili_firin"
+    }
+  ]
+}

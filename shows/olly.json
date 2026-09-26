@@ -1,0 +1,324 @@
+{
+  "id": "olly",
+  "title": "olly",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/OLLYPoster.avif",
+  "channel": "YouTube",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Roadside Cafe",
+      "diziid": "olly",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/1/minibus_kafe_aciliyor"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Driving School",
+      "diziid": "olly",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/2/surus_okulu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "My Favourite Flavour",
+      "diziid": "olly",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/3/en_sevdigim_lezzet"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Rock N Roll",
+      "diziid": "olly",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/4/konser_zamani"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Best in Show",
+      "diziid": "olly",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/5/kopekler_yarisiyor"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Olly Cleans Up",
+      "diziid": "olly",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/6/olly_temizlik_yapiyor"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Bird Watching",
+      "diziid": "olly",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/7/kus_gozlemi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Bumpton Rally",
+      "diziid": "olly",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/8/bumpton_rallisi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Olly the Cat",
+      "diziid": "olly",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/9/kedi_olly"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Grand Unveiling",
+      "diziid": "olly",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/10/muhtesem_aile"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Catch Me If You Can",
+      "diziid": "olly",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/11/yakala_yakalayabilirsen"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Zoo Hill",
+      "diziid": "olly",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/12/hayvanat_bahcesi_yokusu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "A Giant Leap for Vankind",
+      "diziid": "olly",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/13/uzay_gemisi_olly"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Ruby's Rescue",
+      "diziid": "olly",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/14/kurtarma_helikopteri_ruby"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Olly the Chauffeur",
+      "diziid": "olly",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/15/ozel_sofor_olly"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Dancing on Ice",
+      "diziid": "olly",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/16/buz_ustunde_dans"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Turbo Bertie",
+      "diziid": "olly",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/17/turbo_bertie"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Nothing to Worry About",
+      "diziid": "olly",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/18/endiselenecek_bir_sey_yok"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Wonderful Washer",
+      "diziid": "olly",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/19/muhtesem_yikama_araci"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Ivan and Mario: the Musical",
+      "diziid": "olly",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/20/ivan_ve_mario_muzikali"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Bumpton Cup",
+      "diziid": "olly",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/21/bumpton_kupasi"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Back to School",
+      "diziid": "olly",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/22/okula_donus"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Radio Olly",
+      "diziid": "olly",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/23/radyo_olly"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Bumpton in Bloom",
+      "diziid": "olly",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/24/cicek_acan_bumpton"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Olly the Artist",
+      "diziid": "olly",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/25/ressam_olly"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Olly's Treasure Hunt",
+      "diziid": "olly",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/26/ollynin_hazine_avi"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Tractor Trouble",
+      "diziid": "olly",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/27/traktor_sorunu"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Crazy Golf",
+      "diziid": "olly",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/28/cilgin_golf"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Olly the Magician",
+      "diziid": "olly",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/29/hokkabaz_olly"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Get Up and Dance",
+      "diziid": "olly",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/30/kalk_ve_dans_et"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "The Bumpton Incident",
+      "diziid": "olly",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/31/ucan_daire"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Olly Vanquish",
+      "diziid": "olly",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/32/film_yildizi_olly"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "To Catch a Thief",
+      "diziid": "olly",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/33/hirsizi_yakalamak"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Olly the Detective",
+      "diziid": "olly",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/34/dedektif_olly"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Laundryman and the Wheeled Wonder",
+      "diziid": "olly",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/35/camasirci_adam_ve_tekerlekli_firtina"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "What's in the Box",
+      "diziid": "olly",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/36/kutuda_ne_var"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Ivan Has the Hiccups",
+      "diziid": "olly",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/37/ivani_hickirik_tutuyor"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Olly the Inventor",
+      "diziid": "olly",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/38/mucit_olly"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Handle with Care",
+      "diziid": "olly",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/olly/olly/39/ozel_teslimat"
+    }
+  ]
+}

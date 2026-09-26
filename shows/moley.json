@@ -1,0 +1,429 @@
+{
+  "id": "moley",
+  "title": "moley",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MOLEYPoster.avif",
+  "channel": "Cartoonito",
+  "genres": [
+    "Komedi",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Magic Rectangle",
+      "diziid": "moley",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/1/sihirli_dikdortgen"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Guacamoley",
+      "diziid": "moley",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/2/guacamoley"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Three Gentlemen of Moletown",
+      "diziid": "moley",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/3/kostebek_kasabasinin_uc_centilmeni"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Who Arted",
+      "diziid": "moley",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/4/sanat_felaketi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Trash Trash Trash!",
+      "diziid": "moley",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/5/cop_cop_cop"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Groundmole Day",
+      "diziid": "moley",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/6/kostebek_gunu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Some Like It Cool",
+      "diziid": "moley",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/7/bazilari_serin_sever"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Molerskating Mayhem",
+      "diziid": "moley",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/8/paten_kargasasi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Duck Moley Duck!",
+      "diziid": "moley",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/9/ordek_ve_moley"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Squirm's Day Out",
+      "diziid": "moley",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/10/squirmin_izin_gunu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Wormalicious",
+      "diziid": "moley",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/11/solucansiz"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Keeper for a Day",
+      "diziid": "moley",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/12/bir_gunluk_muhafiz"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "For All Molekind",
+      "diziid": "moley",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/13/tum_kostebek_turu_icin"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Dogzilla",
+      "diziid": "moley",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/14/dogzilla"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "MoleTown's Got Talent",
+      "diziid": "moley",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/15/kostebek_kasabasi_yetenekleri"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Mr. Know It All",
+      "diziid": "moley",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/16/bay_cok_bilmis"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Science Fair",
+      "diziid": "moley",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/17/bilim_fuari"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Lockdown",
+      "diziid": "moley",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/18/tam_kapanma"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Hurley Burley",
+      "diziid": "moley",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/19/hurley_burley"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Old Coot's Secret",
+      "diziid": "moley",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/20/yasli_cilginin_sirri"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Moleder and Dotty",
+      "diziid": "moley",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/21/uzaylilar_ve_dotty"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Dotty's Disastrous Day",
+      "diziid": "moley",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/22/dottynin_korkunc_gunu"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "My Burrow is Your Burrow",
+      "diziid": "moley",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/23/benim_yuvam_senin_yuvandir"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "MoleCare Plan",
+      "diziid": "moley",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/24/kostebek_bakim_plani"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "A Book By Its Cover (Part 1)",
+      "diziid": "moley",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/25/sihirli_kitap_cildiriyor_bolum_1"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "A Book By Its Cover (Part 2)",
+      "diziid": "moley",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/26/sihirli_kitap_cildiriyor_bolum_2"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Rally Ho",
+      "diziid": "moley",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/27/araba_yarisi"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Paper Molche",
+      "diziid": "moley",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/28/kagit_kirpigi"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Mole in One",
+      "diziid": "moley",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/29/kostebek_golfu"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Little Lizzie",
+      "diziid": "moley",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/30/kucuk_lizzie"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Double Oh Moley",
+      "diziid": "moley",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/31/casus_moley"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Mona's Monstrous Makeover",
+      "diziid": "moley",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/32/monanin_buyuk_degisimi"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Gardener and Mole",
+      "diziid": "moley",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/33/bahcivan_ve_kostebek"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Moley's Wild Ride",
+      "diziid": "moley",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/34/moleynin_donme_dolabi"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "MoleTowns a Stage",
+      "diziid": "moley",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/35/kostebek_sehri_bir_sahne"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Sidekick Roadtrip",
+      "diziid": "moley",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/36/yolculuk"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Mrs Moleys Manic Movers",
+      "diziid": "moley",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/37/bayan_moleynin_nakliyecileri"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Camp Councelor",
+      "diziid": "moley",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/38/kamp_danismasi"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Mission Impossimole",
+      "diziid": "moley",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/39/gorevimiz_tehlike"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "The Beast of James Bay",
+      "diziid": "moley",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/40/james_korfezi_canavarlari"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "It's a Molevelous Life",
+      "diziid": "moley",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/41/muhtesem_bir_hayat"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Mud Molevelous Mud",
+      "diziid": "moley",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/42/camur_muhtesem_camur"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "The Ambassador",
+      "diziid": "moley",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/43/buyuk_elci"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "The Abominable Snowmole",
+      "diziid": "moley",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/44/fena_kar_kostebegi"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Beach Blanket Moley",
+      "diziid": "moley",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/45/plaj_battaniyesi_moley"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "The Hat Trick",
+      "diziid": "moley",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/46/sapka_numarasi"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "The Great Mole Detective",
+      "diziid": "moley",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/47/buyuk_kostebek_dedektif"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Moles of Future Past",
+      "diziid": "moley",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/48/gelecegin_gecmis_kostebekleri"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "The Big Below, Below The Big Below",
+      "diziid": "moley",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/49/buyuk_alt_diyarin_altindaki_buyuk_alt_diyar"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Molebert Brainstein",
+      "diziid": "moley",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/50/molbert_beyinstein"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "A Mole in Time part 1",
+      "diziid": "moley",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/51/zamanda_bir_kostebek_1.bolum"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "A Mole in Time part 2",
+      "diziid": "moley",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/moley/moley/52/zamanda_bir_kostebek_2.bolum"
+    }
+  ]
+}

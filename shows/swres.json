@@ -1,0 +1,333 @@
+{
+  "id": "swres",
+  "title": "star wars resistance",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SWRESPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Bilim Kurgu",
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Recruit: Part 1",
+      "diziid": "swres",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/1/acemi_asker%2C_1._kisim_kisim_1__2"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Recruit: Part 2",
+      "diziid": "swres",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/2/acemi_asker%2C_2._kisim_kisim_2__2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Triple Dark",
+      "diziid": "swres",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/3/uclu_karanlik"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Fuel for the Fire",
+      "diziid": "swres",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/4/yakit_krizi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The High Tower",
+      "diziid": "swres",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/5/yuksek_kule"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Children from Tehar",
+      "diziid": "swres",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/6/tehardan_gelen_cocuklar"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Signal from Sector Six",
+      "diziid": "swres",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/7/sektor_6nin_imdat_cagrisi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Synara's Score",
+      "diziid": "swres",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/8/synaranin_skoru"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Platform Classic",
+      "diziid": "swres",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/9/platform_klasik"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Secrets and Holograms",
+      "diziid": "swres",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/10/sirlar_ve_hologramlar"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Station Theta Black",
+      "diziid": "swres",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/11/theta_black_istasyonu"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Bibo",
+      "diziid": "swres",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/12/bibo"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Dangerous Business",
+      "diziid": "swres",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/13/tehlikeli_bir_is"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Doza Dilemma",
+      "diziid": "swres",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/14/doza_ikilemi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The First Order Occupation",
+      "diziid": "swres",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/15/ilk_duzen_isgali"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The New Trooper",
+      "diziid": "swres",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/16/yeni_trooper"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Core Problem",
+      "diziid": "swres",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/17/cekirdek_sorunu"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Disappeared",
+      "diziid": "swres",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/18/kayip"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Descent",
+      "diziid": "swres",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/19/cokus"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "No Escape: Part 1",
+      "diziid": "swres",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/20/kacis_yok%3A_bolum_1"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "No Escape: Part 2",
+      "diziid": "swres",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/21/kacis_yok%3A_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 22,
+      "title": "Into the Unknown",
+      "diziid": "swres",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/22/bilinmeze_dogru"
+    },
+    {
+      "season": 2,
+      "episode": 23,
+      "title": "A Quick Salvage Run",
+      "diziid": "swres",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/23/kurtarma_seferi"
+    },
+    {
+      "season": 3,
+      "episode": 24,
+      "title": "Live Fire",
+      "diziid": "swres",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/24/gercek_silahla"
+    },
+    {
+      "season": 4,
+      "episode": 25,
+      "title": "Hunt on Celsor 3",
+      "diziid": "swres",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/25/celsor_3de_av"
+    },
+    {
+      "season": 5,
+      "episode": 26,
+      "title": "The Engineer",
+      "diziid": "swres",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/26/muhendis"
+    },
+    {
+      "season": 6,
+      "episode": 27,
+      "title": "From Beneath",
+      "diziid": "swres",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/27/yer_altindan"
+    },
+    {
+      "season": 7,
+      "episode": 28,
+      "title": "The Relic Raiders",
+      "diziid": "swres",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/28/kalinti_yagmacilari"
+    },
+    {
+      "season": 8,
+      "episode": 29,
+      "title": "Rendezvous Point",
+      "diziid": "swres",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/29/bulusma_noktasi"
+    },
+    {
+      "season": 9,
+      "episode": 30,
+      "title": "The Voxx Vortex 5000",
+      "diziid": "swres",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/30/voxx_girdabi_5000"
+    },
+    {
+      "season": 10,
+      "episode": 31,
+      "title": "Kaz's Curse",
+      "diziid": "swres",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/31/kazin_laneti"
+    },
+    {
+      "season": 11,
+      "episode": 32,
+      "title": "Station to Station",
+      "diziid": "swres",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/32/istasyondan_istasyona"
+    },
+    {
+      "season": 12,
+      "episode": 33,
+      "title": "The Missing Agent",
+      "diziid": "swres",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/33/kayip_ajan"
+    },
+    {
+      "season": 13,
+      "episode": 34,
+      "title": "Breakout",
+      "diziid": "swres",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/34/firar"
+    },
+    {
+      "season": 14,
+      "episode": 35,
+      "title": "The Mutiny",
+      "diziid": "swres",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/35/isyan"
+    },
+    {
+      "season": 15,
+      "episode": 36,
+      "title": "The New World",
+      "diziid": "swres",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/36/yeni_dunya"
+    },
+    {
+      "season": 16,
+      "episode": 37,
+      "title": "No Place Safe",
+      "diziid": "swres",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/37/hicbir_yer_guvenli_degil"
+    },
+    {
+      "season": 17,
+      "episode": 38,
+      "title": "Rebuilding the Resistance",
+      "diziid": "swres",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/38/direnisi_yeniden_kurmak"
+    },
+    {
+      "season": 18,
+      "episode": 39,
+      "title": "The Escape: Part 1",
+      "diziid": "swres",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/39/kacis%3A_bolum_1"
+    },
+    {
+      "season": 19,
+      "episode": 40,
+      "title": "The Escape: Part 2",
+      "diziid": "swres",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/swres/star_wars_resistance/40/kacis%3A_2._bolum"
+    }
+  ]
+}

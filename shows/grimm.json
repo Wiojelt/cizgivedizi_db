@@ -1,0 +1,62 @@
+{
+  "id": "grimm",
+  "title": "grimm variations",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/GRIMMPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik",
+    "Korku",
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Cinderella",
+      "diziid": "grimm",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/grimm/grimm_variations/1/kulkedisi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Little Red Riding Hood",
+      "diziid": "grimm",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/grimm/grimm_variations/2/kirmizi_baslikli_kiz"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Hansel and Gretel",
+      "diziid": "grimm",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/grimm/grimm_variations/3/hansel_ve_gretel"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Elves and the Shoemaker",
+      "diziid": "grimm",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/grimm/grimm_variations/4/ayakkabici_ve_kucuk_cinler"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Town Musicians of Bremen",
+      "diziid": "grimm",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/grimm/grimm_variations/5/bremen_mizikacilari"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Pied Piper of Hamelin",
+      "diziid": "grimm",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/grimm/grimm_variations/6/fareli_koyun_kavalcisi"
+    }
+  ]
+}

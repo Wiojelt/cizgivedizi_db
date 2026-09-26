@@ -1,0 +1,853 @@
+{
+  "id": "ic",
+  "title": "icarly",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/ICPoster.avif",
+  "channel": "Nickelodeon",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "iPilot",
+      "diziid": "ic",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/1/ipilot_bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "iWant More Viewers",
+      "diziid": "ic",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/2/idaha_fazla_izleyici"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "iDream of Dance",
+      "diziid": "ic",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/3/ibir_dans_hayal_ediyorum"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "iLike Jake",
+      "diziid": "ic",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/4/ijack_hos_cocuk"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "iWanna Stay with Spencer",
+      "diziid": "ic",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/5/ispencer_ile_kalmak_istiyorum"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "iNevel",
+      "diziid": "ic",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/6/inevel"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "iScream on Halloween",
+      "diziid": "ic",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/7/icadilar_bayrami"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "iSpy a Mean Teacher",
+      "diziid": "ic",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/8/ikaba_bir_ogretmen_gordum"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "iWill Date Freddie",
+      "diziid": "ic",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/9/ifreddie_ile_cikacagim"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "iWant a World Record",
+      "diziid": "ic",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/10/idunya_rekoru_istiyorum"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "iRue the Day",
+      "diziid": "ic",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/11/ipisman_oluyorum"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "iPromise Not to Tell",
+      "diziid": "ic",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/12/ikimseye_soylemeyecegim"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "iAm Your Biggest Fan",
+      "diziid": "ic",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/13/ien_buyuk_hayraninizim"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "iHeart Art",
+      "diziid": "ic",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/14/ikalp_sanati"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "iHate Sam's Boyfriend",
+      "diziid": "ic",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/15/isamin_erkek_arkadasindan_nefret_ediyorum"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "iHatch Chicks",
+      "diziid": "ic",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/16/ikulucka"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "iDon't Want to Fight",
+      "diziid": "ic",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/17/ikavga_etmek_istemiyorum"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "iPromote Techfoots",
+      "diziid": "ic",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/18/iayakkabi_reklami"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "iGot Detention",
+      "diziid": "ic",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/19/iceza_aldim"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "iStakeout",
+      "diziid": "ic",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/20/igozetleme"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "iMight Switch Schools",
+      "diziid": "ic",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/21/iokul_degistirebilirim"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "iFence",
+      "diziid": "ic",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/22/ieskrim"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "iCarly Saves TV",
+      "diziid": "ic",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/23/icarly_televizyonu_kurtariyor"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "iWin a Date",
+      "diziid": "ic",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/24/irandevu_kazandim"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "iHave a Lovesick Teacher",
+      "diziid": "ic",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/25/iogretmenim_ask_acisi_cekiyor"
+    },
+    {
+      "season": 1,
+      "episode": 26,
+      "title": "iSaw Him First",
+      "diziid": "ic",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/26/iilk_ben_gordum"
+    },
+    {
+      "season": 2,
+      "episode": 27,
+      "title": "iStage an Intervention",
+      "diziid": "ic",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/27/imudahele_duzenliyorum"
+    },
+    {
+      "season": 3,
+      "episode": 28,
+      "title": "iOwe You",
+      "diziid": "ic",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/28/isana_borcluyum"
+    },
+    {
+      "season": 4,
+      "episode": 29,
+      "title": "iHurt Lewbert",
+      "diziid": "ic",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/29/ilewbertin_cadi_yandi"
+    },
+    {
+      "season": 5,
+      "episode": 30,
+      "title": "iGo To Japan: Part 1",
+      "diziid": "ic",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/30/ijaponyaya_gidiyorum%2C_1.bolum"
+    },
+    {
+      "season": 6,
+      "episode": 31,
+      "title": "iGo To Japan: Part 2",
+      "diziid": "ic",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/31/ijaponyaya_gidiyorum%2C_2.bolum"
+    },
+    {
+      "season": 7,
+      "episode": 32,
+      "title": "iGo To Japan: Part 3",
+      "diziid": "ic",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/32/ijaponyaya_gidiyorum%2C_3.bolum"
+    },
+    {
+      "season": 8,
+      "episode": 33,
+      "title": "iPie",
+      "diziid": "ic",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/33/iturta"
+    },
+    {
+      "season": 9,
+      "episode": 34,
+      "title": "iChristmas",
+      "diziid": "ic",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/34/inoel"
+    },
+    {
+      "season": 10,
+      "episode": 35,
+      "title": "iKiss",
+      "diziid": "ic",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/35/iopucuk"
+    },
+    {
+      "season": 11,
+      "episode": 36,
+      "title": "iGive Away a Car",
+      "diziid": "ic",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/36/iyarisma_odulu_araba"
+    },
+    {
+      "season": 12,
+      "episode": 37,
+      "title": "iRocked the Vote",
+      "diziid": "ic",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/37/ioy_boyle_verilir_iste"
+    },
+    {
+      "season": 13,
+      "episode": 38,
+      "title": "iMeet Fred",
+      "diziid": "ic",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/38/ifred_ile_tanisma"
+    },
+    {
+      "season": 14,
+      "episode": 39,
+      "title": "iLook Alike",
+      "diziid": "ic",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/39/ibenzerler"
+    },
+    {
+      "season": 15,
+      "episode": 40,
+      "title": "iWant My Website Back",
+      "diziid": "ic",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/40/iweb_sitemi_geri_istiyorum"
+    },
+    {
+      "season": 16,
+      "episode": 41,
+      "title": "iMake Sam Girlier",
+      "diziid": "ic",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/41/isami_kizlastirmak"
+    },
+    {
+      "season": 17,
+      "episode": 42,
+      "title": "iGo Nuclear",
+      "diziid": "ic",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/42/inukleer_guc"
+    },
+    {
+      "season": 18,
+      "episode": 43,
+      "title": "iDate a Bad Boy: Part 1",
+      "diziid": "ic",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/43/ikotu_bir_cocuk_ile_randevu%2C_bolum_1"
+    },
+    {
+      "season": 19,
+      "episode": 44,
+      "title": "iDate a Bad Boy: Part 2",
+      "diziid": "ic",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/44/ikotu_bir_cocuk_ile_randevu%2C_bolum_2"
+    },
+    {
+      "season": 20,
+      "episode": 45,
+      "title": "iReunite with Missy",
+      "diziid": "ic",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/45/imissy_ile_tekrar_bulusma"
+    },
+    {
+      "season": 21,
+      "episode": 46,
+      "title": "iTake on Dingo",
+      "diziid": "ic",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/46/idingoyla_karsi_karsiya"
+    },
+    {
+      "season": 22,
+      "episode": 47,
+      "title": "iMust Have Locker 239",
+      "diziid": "ic",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/47/i239_numarali_dolap_benim_olmali"
+    },
+    {
+      "season": 23,
+      "episode": 48,
+      "title": "iTwins",
+      "diziid": "ic",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/48/iikizler"
+    },
+    {
+      "season": 24,
+      "episode": 49,
+      "title": "iFight Shelby Marx: Part 1",
+      "diziid": "ic",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/49/ishelby_marx_ile_kavga%2C_bolum_1"
+    },
+    {
+      "season": 25,
+      "episode": 50,
+      "title": "iFight Shelby Marx: Part 2",
+      "diziid": "ic",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/50/ishelby_marx_ile_kavga%2C_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 51,
+      "title": "iThink They Kissed",
+      "diziid": "ic",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/51/isanirim_opustuler"
+    },
+    {
+      "season": 2,
+      "episode": 52,
+      "title": "iCook",
+      "diziid": "ic",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/52/iyemek_yapiyorum"
+    },
+    {
+      "season": 3,
+      "episode": 53,
+      "title": "iSpeed Date",
+      "diziid": "ic",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/53/ihizli_randevu"
+    },
+    {
+      "season": 4,
+      "episode": 54,
+      "title": "iCarly Awards",
+      "diziid": "ic",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/54/icarly_odulleri"
+    },
+    {
+      "season": 5,
+      "episode": 55,
+      "title": "iHave My Principals",
+      "diziid": "ic",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/55/iprensiplerim_var"
+    },
+    {
+      "season": 6,
+      "episode": 56,
+      "title": "iFind Lewbert's Lost Love",
+      "diziid": "ic",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/56/ilewbertin_kayip_aski_bulundu"
+    },
+    {
+      "season": 7,
+      "episode": 57,
+      "title": "iMove Out",
+      "diziid": "ic",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/57/ievden_tasiniyorum"
+    },
+    {
+      "season": 8,
+      "episode": 58,
+      "title": "iQuit iCarly: Part 1",
+      "diziid": "ic",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/58/icarlyden_ayriliyorum%2C_bolum_1"
+    },
+    {
+      "season": 9,
+      "episode": 59,
+      "title": "iQuit iCarly: Part 2",
+      "diziid": "ic",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/59/icarlyden_ayriliyorum%2C_bolum_2"
+    },
+    {
+      "season": 10,
+      "episode": 60,
+      "title": "iSaved Your Life",
+      "diziid": "ic",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/60/ihayatini_kurtardim"
+    },
+    {
+      "season": 11,
+      "episode": 61,
+      "title": "iWas a Pageant Girl",
+      "diziid": "ic",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/61/iguzellik_kralicesiydim"
+    },
+    {
+      "season": 12,
+      "episode": 62,
+      "title": "iEnrage Gibby",
+      "diziid": "ic",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/62/igibby_sinirlendi"
+    },
+    {
+      "season": 13,
+      "episode": 63,
+      "title": "iSpace Out",
+      "diziid": "ic",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/63/iuzaydayim"
+    },
+    {
+      "season": 14,
+      "episode": 64,
+      "title": "iFix a Pop Star",
+      "diziid": "ic",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/64/ibir_popstar_yildizi_tamirati"
+    },
+    {
+      "season": 15,
+      "episode": 65,
+      "title": "iBloop",
+      "diziid": "ic",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/65/ihata"
+    },
+    {
+      "season": 16,
+      "episode": 66,
+      "title": "iWon't Cancel the Show",
+      "diziid": "ic",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/66/isovu_iptal_etmeyecegim"
+    },
+    {
+      "season": 17,
+      "episode": 67,
+      "title": "iBelieve in Bigfoot",
+      "diziid": "ic",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/67/ikoca_ayaka_inanirim"
+    },
+    {
+      "season": 18,
+      "episode": 68,
+      "title": "iPsycho: Part 1",
+      "diziid": "ic",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/68/ipsikopat%2C_bolum_1"
+    },
+    {
+      "season": 19,
+      "episode": 69,
+      "title": "iPsycho: Part 2",
+      "diziid": "ic",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/69/ipsikopat%2C_bolum_2"
+    },
+    {
+      "season": 20,
+      "episode": 70,
+      "title": "iBeat the Heat",
+      "diziid": "ic",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/70/isicak_bir_oda"
+    },
+    {
+      "season": 1,
+      "episode": 71,
+      "title": "iGot a Hot Room",
+      "diziid": "ic",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/71/iyanmis_bir_odam_var"
+    },
+    {
+      "season": 2,
+      "episode": 72,
+      "title": "iSam's Mom",
+      "diziid": "ic",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/72/isamin_annesi"
+    },
+    {
+      "season": 3,
+      "episode": 73,
+      "title": "iGet Pranky",
+      "diziid": "ic",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/73/iesek_sakasi"
+    },
+    {
+      "season": 4,
+      "episode": 74,
+      "title": "iSell Penny Tees",
+      "diziid": "ic",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/74/ipara-tee_tisortleri"
+    },
+    {
+      "season": 5,
+      "episode": 75,
+      "title": "iDo",
+      "diziid": "ic",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/75/ievet"
+    },
+    {
+      "season": 6,
+      "episode": 76,
+      "title": "iStart a Fan War: Part 1",
+      "diziid": "ic",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/76/ibir_hayran_savasi_baslattim%2C_bolum_1"
+    },
+    {
+      "season": 7,
+      "episode": 77,
+      "title": "iStart a Fan War: Part 2",
+      "diziid": "ic",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/77/ibir_hayran_savasi_baslattim%2C_bolum_2"
+    },
+    {
+      "season": 8,
+      "episode": 78,
+      "title": "iHire an Idiot",
+      "diziid": "ic",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/78/iise_bir_aptal_almisiz"
+    },
+    {
+      "season": 9,
+      "episode": 79,
+      "title": "iPity the Nevel",
+      "diziid": "ic",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/79/inevela_yazik"
+    },
+    {
+      "season": 10,
+      "episode": 80,
+      "title": "iOMG",
+      "diziid": "ic",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/80/iaman_tanrim"
+    },
+    {
+      "season": 1,
+      "episode": 81,
+      "title": "iParty with Victorious",
+      "diziid": "ic",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/81/ivictorious_ile_parti"
+    },
+    {
+      "season": 1,
+      "episode": 82,
+      "title": "iLost My Mind",
+      "diziid": "ic",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/84/iaklimi_kaybettim"
+    },
+    {
+      "season": 2,
+      "episode": 83,
+      "title": "iDate Sam & Freddie",
+      "diziid": "ic",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/85/isam_ve_freddienin_randevusu"
+    },
+    {
+      "season": 3,
+      "episode": 84,
+      "title": "iCan't Take It",
+      "diziid": "ic",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/86/ikabul_etmiyorum"
+    },
+    {
+      "season": 4,
+      "episode": 85,
+      "title": "iLove You",
+      "diziid": "ic",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/87/iseni_seviyorum"
+    },
+    {
+      "season": 5,
+      "episode": 86,
+      "title": "iQ",
+      "diziid": "ic",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/88/iq"
+    },
+    {
+      "season": 6,
+      "episode": 87,
+      "title": "iBloop 2: Electric Bloopaloo",
+      "diziid": "ic",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/89/ihata_2%3A_cekim_hatalari"
+    },
+    {
+      "season": 7,
+      "episode": 88,
+      "title": "iStill Psycho: Part 1",
+      "diziid": "ic",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/90/itekrar_psikopat%2C_bolum_1"
+    },
+    {
+      "season": 8,
+      "episode": 89,
+      "title": "iStill Psycho: Part 2",
+      "diziid": "ic",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/91/itekrar_psikopat%2C_bolum_2"
+    },
+    {
+      "season": 9,
+      "episode": 90,
+      "title": "iBalls",
+      "diziid": "ic",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/92/igoz_bebegi"
+    },
+    {
+      "season": 10,
+      "episode": 91,
+      "title": "iMeet the First Lady",
+      "diziid": "ic",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/93/ibaskanin_esi_ile_tanisma"
+    },
+    {
+      "season": 11,
+      "episode": 92,
+      "title": "iToe Fat Cakes",
+      "diziid": "ic",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/94/isikismis_ayak_parmagi_ve_lopkek"
+    },
+    {
+      "season": 1,
+      "episode": 93,
+      "title": "iApril Fools",
+      "diziid": "ic",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/95/inisan_1_sakasi"
+    },
+    {
+      "season": 2,
+      "episode": 94,
+      "title": "iGo One Direction",
+      "diziid": "ic",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/96/ione_direction"
+    },
+    {
+      "season": 3,
+      "episode": 95,
+      "title": "iOpen a Restaurant",
+      "diziid": "ic",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/97/ibir_restoran_aciyorum"
+    },
+    {
+      "season": 4,
+      "episode": 96,
+      "title": "iHalfoween",
+      "diziid": "ic",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/98/iyarilar_bayrami"
+    },
+    {
+      "season": 5,
+      "episode": 97,
+      "title": "iPear Store",
+      "diziid": "ic",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/99/iarmut_magazasi"
+    },
+    {
+      "season": 6,
+      "episode": 98,
+      "title": "iBattle Chip",
+      "diziid": "ic",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/100/ichip_ile_mucadele"
+    },
+    {
+      "season": 1,
+      "episode": 99,
+      "title": "iShock America",
+      "diziid": "ic",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/101/iamerika_macerasi"
+    },
+    {
+      "season": 9,
+      "episode": 100,
+      "title": "iGet Banned",
+      "diziid": "ic",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/103/iyasaklandin"
+    },
+    {
+      "season": 10,
+      "episode": 101,
+      "title": "iFind Spencer Friends",
+      "diziid": "ic",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/104/ispencera_arkadaslar_bulalim"
+    },
+    {
+      "season": 11,
+      "episode": 102,
+      "title": "iRescue Carly",
+      "diziid": "ic",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/105/icarlyyi_kurtarma"
+    },
+    {
+      "season": 12,
+      "episode": 103,
+      "title": "iLost My Head in Vegas",
+      "diziid": "ic",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/106/ikafami_vegasda_kaybettim"
+    },
+    {
+      "season": 13,
+      "episode": 104,
+      "title": "iBust a Thief",
+      "diziid": "ic",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/107/ihirsiz"
+    },
+    {
+      "season": 1,
+      "episode": 105,
+      "title": "iGoodbye",
+      "diziid": "ic",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/ic/icarly/108/ielveda"
+    }
+  ]
+}

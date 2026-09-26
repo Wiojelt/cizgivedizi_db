@@ -1,0 +1,276 @@
+{
+  "id": "tc",
+  "title": "tazmanya canavarÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TCPoster.avif",
+  "channel": "Planet Ã‡ocuk",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Dog the Turtle Story",
+      "diziid": "tc",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/1/kopek_kaplumbaga_hikayesi"
+    },
+    {
+      "season": 3,
+      "episode": 2,
+      "title": "War & Pieces/Airbourne Airhead",
+      "diziid": "tc",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/3/savas_ve_baris__hava"
+    },
+    {
+      "season": 5,
+      "episode": 3,
+      "title": "A Devil of a Job",
+      "diziid": "tc",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/5/isin_seytani"
+    },
+    {
+      "season": 7,
+      "episode": 4,
+      "title": "Woeful Wolf",
+      "diziid": "tc",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/7/kederli_kurt"
+    },
+    {
+      "season": 9,
+      "episode": 5,
+      "title": "Mishap in the Mist/Toothache Taz",
+      "diziid": "tc",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/9/yanlislik__dis_agrisi"
+    },
+    {
+      "season": 12,
+      "episode": 6,
+      "title": "Instant Replay/Taz and the Pterodactyl",
+      "diziid": "tc",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/12/aninda_tekrar_oynatma__taz_ve_pterodaktil"
+    },
+    {
+      "season": 13,
+      "episode": 7,
+      "title": "Pup Goes the Wendal/I'm OK You're Taz",
+      "diziid": "tc",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/13/yavru_wendala_gidiyor__ben_iyiyim%2C_sen_tazsin"
+    },
+    {
+      "season": 1,
+      "episode": 8,
+      "title": "Comic Madness/Blunders Never Cease",
+      "diziid": "tc",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/14/cizgi_roman_cilginligi__hatalar_asla_bitmez"
+    },
+    {
+      "season": 2,
+      "episode": 9,
+      "title": "Amazing Shrinking Taz & Co",
+      "diziid": "tc",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/15/inanilmaz_kucuk_taz"
+    },
+    {
+      "season": 3,
+      "episode": 10,
+      "title": "Oh Brother/Taz Babies",
+      "diziid": "tc",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/16/oh_kardesim__taz_bebekler"
+    },
+    {
+      "season": 4,
+      "episode": 11,
+      "title": "Jake's Big Date/Taz Live",
+      "diziid": "tc",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/17/jakein_buyuk_bulusmasi__taz_canli"
+    },
+    {
+      "season": 6,
+      "episode": 12,
+      "title": "Tazmanian Lullaby/Deer Taz/A Bonus Taz Moment",
+      "diziid": "tc",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/19/tazmanya_ninni__geyik_taz__bir_tazmanya_ani"
+    },
+    {
+      "season": 7,
+      "episode": 13,
+      "title": "The Outer Taz-Manian Zone/Here Kitty, Kitty, Kitty Part II",
+      "diziid": "tc",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/20/dis_tazmanya_bolgesi__gel_pisi%2C_pisi_2.bolum"
+    },
+    {
+      "season": 9,
+      "episode": 14,
+      "title": "Hypno-Tazed/Mum's n' Taz",
+      "diziid": "tc",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/22/hipnotize_olmus__annem_ve_tazlar"
+    },
+    {
+      "season": 10,
+      "episode": 15,
+      "title": "Boys Just Wanna Have Fun/Unhappy Together",
+      "diziid": "tc",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/23/erkekler_sadece_eglenmek_ister__birlikte_mutsuz"
+    },
+    {
+      "season": 1,
+      "episode": 16,
+      "title": "Wacky Wombat/Molly's Folly",
+      "diziid": "tc",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/28/tuhaf_wombat__mollynin_cilginligi"
+    },
+    {
+      "season": 8,
+      "episode": 17,
+      "title": "The Thing That Ate the Outback!/Because It's There",
+      "diziid": "tc",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/35/tasrayi_yiyen_sey__cunku_orada"
+    },
+    {
+      "season": 9,
+      "episode": 18,
+      "title": "Antenna Dilemma/Autograph Pound",
+      "diziid": "tc",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/36/anten_ikilemi__imza"
+    },
+    {
+      "season": 1,
+      "episode": 19,
+      "title": "Road to Tazmania",
+      "diziid": "tc",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/41/tazmanyaya_giden_yol"
+    },
+    {
+      "season": 2,
+      "episode": 20,
+      "title": "Taz-Manian Theatre/The Bushrats Must Be Crazy",
+      "diziid": "tc",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/42/tazmanya_tiyatrosu__bushrats_cilgin_olmali"
+    },
+    {
+      "season": 3,
+      "episode": 21,
+      "title": "The Return of the Road to Taz-Mania Strikes Back",
+      "diziid": "tc",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/43/tazmanyaya_giden_yolun_saldirisinin_donusu"
+    },
+    {
+      "season": 4,
+      "episode": 22,
+      "title": "Taz Like Dingo",
+      "diziid": "tc",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/44/dingo_gibi_taz"
+    },
+    {
+      "season": 5,
+      "episode": 23,
+      "title": "The Pied Piper of Taz-Mania/The Treasure of the Burnt Sienna",
+      "diziid": "tc",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/45/tazmanyanin_fareli_koyun_kavalcisi__yanmis_siennanin_hazinesi"
+    },
+    {
+      "season": 9,
+      "episode": 24,
+      "title": "We'll Always Have Taz-Mania/Moments You've Missed",
+      "diziid": "tc",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/49/her_zaman_tazmanyaya_sahip_olacagiz__kacirdiginiz_anlar"
+    },
+    {
+      "season": 10,
+      "episode": 25,
+      "title": "Sidekicked/Gone with the Windbag",
+      "diziid": "tc",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/50/yardimci__ruzgar_torbasiyla_gecti"
+    },
+    {
+      "season": 12,
+      "episode": 26,
+      "title": "Ticket Taker Taz/TazÂ²",
+      "diziid": "tc",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/52/bilet_alici_taz__taz_kare"
+    },
+    {
+      "season": 13,
+      "episode": 27,
+      "title": "Mutton for Nothing/Dr. Wendal and Mr. Taz",
+      "diziid": "tc",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/53/hicbir_sey_icin_koyun__dr._wendal_ve_bay_taz"
+    },
+    {
+      "season": 16,
+      "episode": 28,
+      "title": "Retakes Not Included/Pledge Dredge",
+      "diziid": "tc",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/56/yeniden_cekimler_dahil_degildir__rehin_tarama"
+    },
+    {
+      "season": 17,
+      "episode": 29,
+      "title": "Bushlad's Lament/Tasmania Comedy Institute",
+      "diziid": "tc",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/57/bushladin_agidi__tazmanya_komedi_enstitusu"
+    },
+    {
+      "season": 19,
+      "episode": 30,
+      "title": "The Taz Story Primer/Ask Taz",
+      "diziid": "tc",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/59/taz_hikayesi_kapsulu__taza_sor"
+    },
+    {
+      "season": 21,
+      "episode": 31,
+      "title": "Taz in Keeweeland/Stuck for Bucks/A Philosophical Moment",
+      "diziid": "tc",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/61/taz_keeweelandde__paraya_sikismis__felsefik_bir_taz_ani"
+    },
+    {
+      "season": 22,
+      "episode": 32,
+      "title": "The Origin of the Beginning of the Incredible Taz-Man/Francis Takes a Stand",
+      "diziid": "tc",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/62/inanilmaz_tazmanyanin_dogusu__francisin_tezgahi"
+    },
+    {
+      "season": 25,
+      "episode": 33,
+      "title": "One Saturday in Taz-Mania/Platypi on Film",
+      "diziid": "tc",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/tc/tazmanya_canavari/65/tazmanyada_bir_cumartesi__filmdeki_ornitorenk"
+    }
+  ]
+}

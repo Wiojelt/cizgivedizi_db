@@ -1,0 +1,221 @@
+{
+  "id": "sonx",
+  "title": "sonic x",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/SONXPoster.avif",
+  "channel": "Jetix",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Chaos Control Freaks",
+      "diziid": "sonx",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/1/kaos_kontrol_ucubeleri"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Sonic to the Rescue",
+      "diziid": "sonx",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/2/sonicin_kurtarma_gorevi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Missile Wrist Rampage",
+      "diziid": "sonx",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/3/fuze_saldirisi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Chaos Emerald Chaos",
+      "diziid": "sonx",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/4/kaos_zumrudu_kaosu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Cracking Knuckles",
+      "diziid": "sonx",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/5/knucklesa_karsi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Techno Teacher",
+      "diziid": "sonx",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/6/tekno_ogretmen"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Party Hardly",
+      "diziid": "sonx",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/7/zorlu_parti"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Satellite Swindle",
+      "diziid": "sonx",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/8/dolandiricilik"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Last Resort",
+      "diziid": "sonx",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/9/son_ugrak"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Unfair Ball",
+      "diziid": "sonx",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/10/haksiz_top"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Fly Spy",
+      "diziid": "sonx",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/11/ucan_ajan"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Beating Eggman (1)",
+      "diziid": "sonx",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/12/eggmani_yenmek%2C_bolum_1"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Beating Eggman (2)",
+      "diziid": "sonx",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/13/eggmani_yenmek%2C_bolum_2"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "That's What Friends are For",
+      "diziid": "sonx",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/14/arkadaslar_bunun_icindir"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Skirmish in the Sky",
+      "diziid": "sonx",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/15/gokyuzundeki_skirmish"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Depths of Danger",
+      "diziid": "sonx",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/16/tehlikenin_derinlikleri"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Adventures of Knuckles and Hawk",
+      "diziid": "sonx",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/17/knuckles_ve_hawkin_macerasi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Dam Scam",
+      "diziid": "sonx",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/18/baraj_sorunu"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Sonic's Scream Test",
+      "diziid": "sonx",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/19/sonicin_ciglik_testi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Cruise Blues",
+      "diziid": "sonx",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/20/seyahat_huznu"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Fast Friends",
+      "diziid": "sonx",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/21/hizli_dostlar"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Little Chao Lost",
+      "diziid": "sonx",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/22/kucuk_chao_kayip"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Emerald Anniversary",
+      "diziid": "sonx",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/23/zumrut_yil_donumu"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "How to Catch a Hedgehog",
+      "diziid": "sonx",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/24/bir_kirpi_nasil_yakalanir"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "A Dastardly Deed",
+      "diziid": "sonx",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/25/alcakca"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Countdown to Chaos",
+      "diziid": "sonx",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/sonx/sonic_x/26/kaosa_geri_sayim"
+    }
+  ]
+}

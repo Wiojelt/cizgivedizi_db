@@ -1,0 +1,140 @@
+{
+  "id": "malcolm",
+  "title": "malcolm ortada",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/MALCOLMPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "malcolm",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/malcolm/malcolm_ortada/1/pilot"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Red Dress",
+      "diziid": "malcolm",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/malcolm/malcolm_ortada/2/kirmizi_elbise"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Home Alone 4",
+      "diziid": "malcolm",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/malcolm/malcolm_ortada/3/evde_tek_basina_4"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Shame",
+      "diziid": "malcolm",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/malcolm/malcolm_ortada/4/utanc"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Malcolm Babysits",
+      "diziid": "malcolm",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/malcolm/malcolm_ortada/5/malcolm_bakici_olur"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Sleepover",
+      "diziid": "malcolm",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/malcolm/malcolm_ortada/6/pijama_partisi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Francis Escapes",
+      "diziid": "malcolm",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/malcolm/malcolm_ortada/7/francis_kacar"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Krelboyne Picnic",
+      "diziid": "malcolm",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/malcolm/malcolm_ortada/8/krelboyne_piknigi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Lois vs. Evil",
+      "diziid": "malcolm",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/malcolm/malcolm_ortada/9/lois_vs._kotuluk"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Stock Car Races",
+      "diziid": "malcolm",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/malcolm/malcolm_ortada/10/stok_otomobil_yarislari"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Funeral",
+      "diziid": "malcolm",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/malcolm/malcolm_ortada/11/cenaze"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Cheerleader",
+      "diziid": "malcolm",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/malcolm/malcolm_ortada/12/amigo"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Rollerskates",
+      "diziid": "malcolm",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/malcolm/malcolm_ortada/13/tekerlekli_patenler"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Bots and the Bees",
+      "diziid": "malcolm",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/malcolm/malcolm_ortada/14/botlar_ve_arilar"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Smunday",
+      "diziid": "malcolm",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/malcolm/malcolm_ortada/15/pazar-tesi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Water Park",
+      "diziid": "malcolm",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/malcolm/malcolm_ortada/16/aqua_park"
+    }
+  ]
+}

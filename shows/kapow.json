@@ -1,0 +1,429 @@
+{
+  "id": "kapow",
+  "title": "kody kapow",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KAPOWPoster.avif",
+  "channel": "Ã‡ocuk Smart",
+  "genres": [
+    "Komedi",
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Birthday Kapow!",
+      "diziid": "kapow",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/1/dogum_gunu_kapow"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Sneeze Kapow!",
+      "diziid": "kapow",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/2/hapsu_kapow"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Itchy Kapow!",
+      "diziid": "kapow",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/3/kasinti_kapow"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Water Works Kapow!",
+      "diziid": "kapow",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/4/su_isleri_kapow"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Temple Kapow!",
+      "diziid": "kapow",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/5/tapinak_kapow"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Dance Kapow!",
+      "diziid": "kapow",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/6/dans_kapow"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Kite Kapow!",
+      "diziid": "kapow",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/7/ucurtma_kapow"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Tunnel Kapow!",
+      "diziid": "kapow",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/8/tunel_kapow"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Dumpling Kapow!",
+      "diziid": "kapow",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/9/manti_kapow"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Noise Kapow!",
+      "diziid": "kapow",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/10/gurultu_kapow"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Bunny Kapow!",
+      "diziid": "kapow",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/11/tavsan_kapow"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Robot Kapow!",
+      "diziid": "kapow",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/12/robot_kapow"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Lantern Kapow!",
+      "diziid": "kapow",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/13/fener_kapow"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Fireworks Kapow!",
+      "diziid": "kapow",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/14/havai_fisek_kapow"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Tuk Tuk Kapow!",
+      "diziid": "kapow",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/15/tuk_tuk_kapow"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Stinkbug Kapow!",
+      "diziid": "kapow",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/16/koku_bocegi_kapow"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Snowy Kapow!",
+      "diziid": "kapow",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/17/karli_kapow"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Dragon Egg Kapow!",
+      "diziid": "kapow",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/18/ejderha_yumurtasi_kapow"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Berry Kapow!",
+      "diziid": "kapow",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/19/meyve_kapow"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Goggles Kapow!",
+      "diziid": "kapow",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/20/gizlilik_kapow"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Mini Mogo Kapow!",
+      "diziid": "kapow",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/21/mini_mogo_kapow"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Treasure Map Kapow!",
+      "diziid": "kapow",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/22/hazine_haritasi_kapow"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Basketball Kapow!",
+      "diziid": "kapow",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/23/basketbol_kapow"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Music Kapow!",
+      "diziid": "kapow",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/24/muzik_kapow"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Ostrich Kapow!",
+      "diziid": "kapow",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/25/deve_kuyrugu_kapow"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Bigville Kapow!",
+      "diziid": "kapow",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/26/devler_ulkesi_kapow"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Tooth Fairy Kapow!",
+      "diziid": "kapow",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/27/dis_perisi_kapow"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Delivery Kapow!",
+      "diziid": "kapow",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/28/teslimat_kapow"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Tiger Prince Kapow!",
+      "diziid": "kapow",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/29/kaplan_prens_kapow"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Rocket Kapow!",
+      "diziid": "kapow",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/30/roket_kapow"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Robot Redo Kapow!",
+      "diziid": "kapow",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/31/yeni_robot_kapow"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Scavenger Hunt Kapow!",
+      "diziid": "kapow",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/32/hazine_avi_kapow"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Camping Kapow!",
+      "diziid": "kapow",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/33/kamp_kapow"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Ring Kapow!",
+      "diziid": "kapow",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/34/yuzuk_kapow"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Silly Kapow!",
+      "diziid": "kapow",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/35/komik_kapow"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Golden Bird Kapow!",
+      "diziid": "kapow",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/36/altin_kus_kapow"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Talent Kapow!",
+      "diziid": "kapow",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/37/yetenek_kapow"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Time Capsule Kapow!",
+      "diziid": "kapow",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/38/zaman_kapsulu_kapow"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "UFO Kapow!",
+      "diziid": "kapow",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/39/ufo_kapow"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Junior Kapow!",
+      "diziid": "kapow",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/40/genc_kapow"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Flower Kapow!",
+      "diziid": "kapow",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/41/cicek_kapow"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Magnet Kapow!",
+      "diziid": "kapow",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/42/miknatis_kapow"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Babysitter Kapow!",
+      "diziid": "kapow",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/43/bebek_bakicisi_kapow"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Cave Kapow!",
+      "diziid": "kapow",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/44/magara_kapow"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Great Race Kapow!",
+      "diziid": "kapow",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/45/buyuk_yaris_kapow"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Message Kapow!",
+      "diziid": "kapow",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/46/mesaj_kapow"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Mooncake Kapow!",
+      "diziid": "kapow",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/47/ay_coregi_kapow"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Dragon Boat Kapow!",
+      "diziid": "kapow",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/48/ejderha_kayigi_kapow"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Balloon Kapow!",
+      "diziid": "kapow",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/49/balon_kapow"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Sleepwalking Kapow!",
+      "diziid": "kapow",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/50/uyurgezer_kapow"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Stinky Kapow!",
+      "diziid": "kapow",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/51/kotu_koku_kapow"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Robot Showdown Kapow!",
+      "diziid": "kapow",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/kapow/kody_kapow/52/robot_kapismasi_kapow"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "truehd",
+  "title": "true: harika dilekler",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TRUEHDPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Living Sea",
+      "diziid": "truehd",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/truehd/true%3A_harika_dilekler/1/yasayan_deniz"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Cosmic Sneeze",
+      "diziid": "truehd",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/truehd/true%3A_harika_dilekler/2/kozmik_hapsirik"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Woo-Woo Sky Blubbs",
+      "diziid": "truehd",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/truehd/true%3A_harika_dilekler/3/vu_vu_gok_balonlari"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Wish Gone Wild",
+      "diziid": "truehd",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/truehd/true%3A_harika_dilekler/4/dilek_raydan_cikiyor"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Big Mossy Mess",
+      "diziid": "truehd",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/truehd/true%3A_harika_dilekler/5/buyuk_yosun_karisikligi"
+    }
+  ]
+}

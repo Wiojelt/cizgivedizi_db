@@ -1,0 +1,389 @@
+{
+  "id": "swbb",
+  "title": "star wars: kÃ¶tÃ¼ler timi",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SWBBPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Bilim Kurgu",
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Aftermath",
+      "diziid": "swbb",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/1/akibet"
+    },
+    {
+      "season": 3,
+      "episode": 2,
+      "title": "Cut and Run",
+      "diziid": "swbb",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/3/cut_ve_kacis"
+    },
+    {
+      "season": 4,
+      "episode": 3,
+      "title": "Replacements",
+      "diziid": "swbb",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/4/yenilenenler"
+    },
+    {
+      "season": 5,
+      "episode": 4,
+      "title": "Cornered",
+      "diziid": "swbb",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/5/koseye_sikismak"
+    },
+    {
+      "season": 6,
+      "episode": 5,
+      "title": "Rampage",
+      "diziid": "swbb",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/6/tantana"
+    },
+    {
+      "season": 7,
+      "episode": 6,
+      "title": "Decommissioned",
+      "diziid": "swbb",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/7/kullanilmayan"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "title": "Battle Scars",
+      "diziid": "swbb",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/8/savas_yaralari"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "title": "Reunion",
+      "diziid": "swbb",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/9/bulusma"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "Bounty Lost",
+      "diziid": "swbb",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/10/kaybedilen_odul"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "Common Ground",
+      "diziid": "swbb",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/11/ortak_nokta"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "Devil's Deal",
+      "diziid": "swbb",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/12/seytanin_anlasmasi"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "Rescue on Ryloth",
+      "diziid": "swbb",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/13/rylothta_kurtarma"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "Infested",
+      "diziid": "swbb",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/14/istila_edilmis"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "War-Mantle",
+      "diziid": "swbb",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/15/war-mantle"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Return to Kamino",
+      "diziid": "swbb",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/16/kaminoya_donus"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "Kamino Lost",
+      "diziid": "swbb",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/17/kamino_dustu"
+    },
+    {
+      "season": 1,
+      "episode": 17,
+      "title": "Spoils of War",
+      "diziid": "swbb",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/18/savas_ganimetleri"
+    },
+    {
+      "season": 2,
+      "episode": 18,
+      "title": "Ruins of War",
+      "diziid": "swbb",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/19/savas_harabeleri"
+    },
+    {
+      "season": 3,
+      "episode": 19,
+      "title": "The Solitary Clone",
+      "diziid": "swbb",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/20/yalniz_klon"
+    },
+    {
+      "season": 4,
+      "episode": 20,
+      "title": "Faster",
+      "diziid": "swbb",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/21/daha_hizli"
+    },
+    {
+      "season": 5,
+      "episode": 21,
+      "title": "Entombed",
+      "diziid": "swbb",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/22/gomulmus"
+    },
+    {
+      "season": 6,
+      "episode": 22,
+      "title": "Tribe",
+      "diziid": "swbb",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/23/kabileler"
+    },
+    {
+      "season": 7,
+      "episode": 23,
+      "title": "The Clone Conspiracy",
+      "diziid": "swbb",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/24/klon_kumpasi"
+    },
+    {
+      "season": 8,
+      "episode": 24,
+      "title": "Truth and Consequences",
+      "diziid": "swbb",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/25/gercek_ve_sonuclar"
+    },
+    {
+      "season": 9,
+      "episode": 25,
+      "title": "The Crossing",
+      "diziid": "swbb",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/26/yolculuk"
+    },
+    {
+      "season": 10,
+      "episode": 26,
+      "title": "Retrieval",
+      "diziid": "swbb",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/27/geri_alis"
+    },
+    {
+      "season": 11,
+      "episode": 27,
+      "title": "Metamorphosis",
+      "diziid": "swbb",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/28/metamorfoz"
+    },
+    {
+      "season": 12,
+      "episode": 28,
+      "title": "The Outpost",
+      "diziid": "swbb",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/29/karakol"
+    },
+    {
+      "season": 13,
+      "episode": 29,
+      "title": "Pabu",
+      "diziid": "swbb",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/30/pabu"
+    },
+    {
+      "season": 14,
+      "episode": 30,
+      "title": "Tipping Point",
+      "diziid": "swbb",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/31/tipping_point"
+    },
+    {
+      "season": 15,
+      "episode": 31,
+      "title": "The Summit",
+      "diziid": "swbb",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/32/zirve"
+    },
+    {
+      "season": 16,
+      "episode": 32,
+      "title": "Plan 99",
+      "diziid": "swbb",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/33/plan_99"
+    },
+    {
+      "season": 1,
+      "episode": 33,
+      "title": "Confined",
+      "diziid": "swbb",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/34/kisitli"
+    },
+    {
+      "season": 2,
+      "episode": 34,
+      "title": "Paths Unknown",
+      "diziid": "swbb",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/35/bilinmeyen_yollar"
+    },
+    {
+      "season": 3,
+      "episode": 35,
+      "title": "Shadows of Tantiss",
+      "diziid": "swbb",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/36/tantissin_golgesi"
+    },
+    {
+      "season": 4,
+      "episode": 36,
+      "title": "A Different Approach",
+      "diziid": "swbb",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/37/farkli_bir_yaklasim"
+    },
+    {
+      "season": 5,
+      "episode": 37,
+      "title": "The Return",
+      "diziid": "swbb",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/38/geri_donus"
+    },
+    {
+      "season": 6,
+      "episode": 38,
+      "title": "Infiltration",
+      "diziid": "swbb",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/39/sizma"
+    },
+    {
+      "season": 7,
+      "episode": 39,
+      "title": "Extraction",
+      "diziid": "swbb",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/40/tahliye"
+    },
+    {
+      "season": 8,
+      "episode": 40,
+      "title": "Bad Territory",
+      "diziid": "swbb",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/41/kotu_bolge"
+    },
+    {
+      "season": 9,
+      "episode": 41,
+      "title": "The Harbinger",
+      "diziid": "swbb",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/42/harbinger"
+    },
+    {
+      "season": 10,
+      "episode": 42,
+      "title": "Identity Crisis",
+      "diziid": "swbb",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/43/kimlik_krizi"
+    },
+    {
+      "season": 11,
+      "episode": 43,
+      "title": "Point of No Return",
+      "diziid": "swbb",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/44/donus_olmayan_nokta"
+    },
+    {
+      "season": 12,
+      "episode": 44,
+      "title": "Juggernaut",
+      "diziid": "swbb",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/45/ezici_guc"
+    },
+    {
+      "season": 13,
+      "episode": 45,
+      "title": "Into the Breach",
+      "diziid": "swbb",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/46/sona_dogru"
+    },
+    {
+      "season": 14,
+      "episode": 46,
+      "title": "Flash Strike",
+      "diziid": "swbb",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/47/hizli_saldiri"
+    },
+    {
+      "season": 1,
+      "episode": 47,
+      "title": "The Cavalry Has Arrived",
+      "diziid": "swbb",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/swbb/star_wars%3A_kotuler_timi/48/suvariler_geldi"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "lf",
+  "title": "lego: friends",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/LEGOFPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "GÃ¼nlÃ¼k Hayattan",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Drooling Detective",
+      "diziid": "lf",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/lf/lego%3A_friends/13/salyali_dedektif"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Rabbittouille",
+      "diziid": "lf",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/lf/lego%3A_friends/14/asci_tavsan"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Change of Address",
+      "diziid": "lf",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/lf/lego%3A_friends/15/adres_degisikligi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Dive In",
+      "diziid": "lf",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/lf/lego%3A_friends/16/dalis"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "I Told You So",
+      "diziid": "lf",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/lf/lego%3A_friends/17/ben_demistim"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Snow Way",
+      "diziid": "lf",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/lf/lego%3A_friends/18/snowboard_yarisi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Midwinter Night's Dream",
+      "diziid": "lf",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/lf/lego%3A_friends/19/bir_kis_gecesi_ruyasi"
+    }
+  ]
+}

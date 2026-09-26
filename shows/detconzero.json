@@ -1,0 +1,61 @@
+{
+  "id": "detconzero",
+  "title": "detective conan: zeroâ€™nun Ã§ay vakti",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/DETCONZEROPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Dedektif",
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "TIME.1",
+      "diziid": "detconzero",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/detconzero/detective_conan%3A_zero%E2%80%99nun_cay_vakti/1/saat.1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "TIME.2",
+      "diziid": "detconzero",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/detconzero/detective_conan%3A_zero%E2%80%99nun_cay_vakti/2/saat.2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "TIME.3",
+      "diziid": "detconzero",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/detconzero/detective_conan%3A_zero%E2%80%99nun_cay_vakti/3/saat.3"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "TIME.4",
+      "diziid": "detconzero",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/detconzero/detective_conan%3A_zero%E2%80%99nun_cay_vakti/4/saat.4"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "TIME.5",
+      "diziid": "detconzero",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/detconzero/detective_conan%3A_zero%E2%80%99nun_cay_vakti/5/saat.5"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "TIME.6",
+      "diziid": "detconzero",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/detconzero/detective_conan%3A_zero%E2%80%99nun_cay_vakti/6/saat.6"
+    }
+  ]
+}

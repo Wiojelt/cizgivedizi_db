@@ -1,0 +1,428 @@
+{
+  "id": "kidlucky",
+  "title": "kid lucky",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KIDLUCKYPoster.avif",
+  "channel": "Spacetoon",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Showdown at Nothing Gulch",
+      "diziid": "kidlucky",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/1/nothing_gulch%E2%80%99ta_karsilasma"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Calamity Jane's Treasure",
+      "diziid": "kidlucky",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/2/calamity_jane%E2%80%99in_hazinesi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "A Question of Honor",
+      "diziid": "kidlucky",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/3/onur_meselesi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Worrisome Sam",
+      "diziid": "kidlucky",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/4/kovboy_sam"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Bad Luck in Nothing Gulch",
+      "diziid": "kidlucky",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/5/kasabada_kotu_sans"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Chicken Lake",
+      "diziid": "kidlucky",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/6/tavuk_golu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Who Wants to Catch Jolly Jumper?",
+      "diziid": "kidlucky",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/7/duldulu_kim_yakalamak_ister"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Last Stop, Nothing Gulch",
+      "diziid": "kidlucky",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/8/son_durak%3A_nothing_gulch"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Full Scale",
+      "diziid": "kidlucky",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/9/matematik_problemi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Field Trip",
+      "diziid": "kidlucky",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/10/gezi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Law is the Law",
+      "diziid": "kidlucky",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/11/kural_kuraldir"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Thirsty Buffalo",
+      "diziid": "kidlucky",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/12/susamis_bufalo"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Stew of Freedom",
+      "diziid": "kidlucky",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/13/ozgurlugun_tadi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Ghost of the Saloon",
+      "diziid": "kidlucky",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/14/restorandaki_hayalet"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Stagecoach Carnage",
+      "diziid": "kidlucky",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/15/posta_arabasi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Make Yourself at Home",
+      "diziid": "kidlucky",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/16/evinde_gibi_hisset"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Teamwork",
+      "diziid": "kidlucky",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/17/ekip_isi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Apache Day",
+      "diziid": "kidlucky",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/18/yerliler_gunu"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Watch Out for the Grizzly",
+      "diziid": "kidlucky",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/19/boz_ayiya_dikkat%21"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Right Number",
+      "diziid": "kidlucky",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/20/dogru_rakam"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Expert Marksman",
+      "diziid": "kidlucky",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/21/keskin_avci"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "A Stroke of Stress in Nothing Gulch",
+      "diziid": "kidlucky",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/22/kasabada_stresli_anlar"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Wacky Wild West",
+      "diziid": "kidlucky",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/23/yaman_vahsi_bati"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Mothers on the bathpath",
+      "diziid": "kidlucky",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/24/banyo_ve_anneler"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Gold Fever",
+      "diziid": "kidlucky",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/25/altin_ruyasi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The Nothing Gulch Gentleman",
+      "diziid": "kidlucky",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/26/kasaba_misafiri"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Roll of the Dice at Chihuahua Hill",
+      "diziid": "kidlucky",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/27/seyyar_satici"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Let's Take a Walk in the Woods",
+      "diziid": "kidlucky",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/28/karanlik_golge_cetesi"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Scoop",
+      "diziid": "kidlucky",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/29/ozel_haber"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "The Feathers of Discord",
+      "diziid": "kidlucky",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/30/akbaba_yavrusu"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "The Price of Fame",
+      "diziid": "kidlucky",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/31/odul_avcisi"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Long Live the West",
+      "diziid": "kidlucky",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/32/yasasin_kaktus_vadisi"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "A Taste for Parties",
+      "diziid": "kidlucky",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/33/eski_guzel_gunler"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Jolly",
+      "diziid": "kidlucky",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/34/duldul"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Do You Want My Picture?",
+      "diziid": "kidlucky",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/35/grup_fotografi"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Trapped",
+      "diziid": "kidlucky",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/36/at_nali_atma_yarismasi"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "No Pictures for Coyotes",
+      "diziid": "kidlucky",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/37/altin_kartlar"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "One Joke Too Many",
+      "diziid": "kidlucky",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/38/sakayla_asiriya_kacirma"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Cactus Jack",
+      "diziid": "kidlucky",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/39/dogru_olani_yap%2C_gerisi_gelir"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "First Screening in Nothing Gulch",
+      "diziid": "kidlucky",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/40/bir_film"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "The Cactus Flower",
+      "diziid": "kidlucky",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/41/kaktus_cicegi"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Photo of the Century",
+      "diziid": "kidlucky",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/42/yilin_en_iyi_fotografi"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "The Rolling Texas",
+      "diziid": "kidlucky",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/43/topaclar"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "One Duel Too Many",
+      "diziid": "kidlucky",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/44/ahsap_kus"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Rodeo Cycling",
+      "diziid": "kidlucky",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/45/gelecegin_bisikleti"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "The Missing Star",
+      "diziid": "kidlucky",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/46/her_sey_kararinda_guzel"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "The Bickering Aunts",
+      "diziid": "kidlucky",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/47/gilda_ve_martha"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "At Full Steam",
+      "diziid": "kidlucky",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/48/kahve_sorunu"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Already Ten!",
+      "diziid": "kidlucky",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/49/kidin_dogum_gunu"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Jimbo Makes the Headlines!",
+      "diziid": "kidlucky",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/50/elmali_turta_ve_hakem_jimbo"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Secret Mission",
+      "diziid": "kidlucky",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/51/bit_salgini"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Not Quite a Vacation...",
+      "diziid": "kidlucky",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/kidlucky/kid_lucky/52/kovboy_tatili"
+    }
+  ]
+}

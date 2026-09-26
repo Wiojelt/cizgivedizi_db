@@ -1,0 +1,92 @@
+{
+  "id": "sparks",
+  "title": "spark kÄ±salarÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SPARKSPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Purl",
+      "diziid": "sparks",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/sparks/spark_kisalari/1/purl"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Smash and Grab",
+      "diziid": "sparks",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/sparks/spark_kisalari/2/smash_ile_grab"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Kitbull",
+      "diziid": "sparks",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/sparks/spark_kisalari/3/kitbull"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Float",
+      "diziid": "sparks",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/sparks/spark_kisalari/4/ucuyor%21"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Wind",
+      "diziid": "sparks",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/sparks/spark_kisalari/5/ruzgar"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Loop",
+      "diziid": "sparks",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/sparks/spark_kisalari/6/loop"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Out",
+      "diziid": "sparks",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/sparks/spark_kisalari/7/out"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Burrow",
+      "diziid": "sparks",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/sparks/spark_kisalari/8/tavsan_cukuru"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Twenty Something",
+      "diziid": "sparks",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/sparks/spark_kisalari/9/yirmili_yaslar"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Nona",
+      "diziid": "sparks",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/sparks/spark_kisalari/10/nona"
+    }
+  ]
+}

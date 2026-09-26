@@ -1,0 +1,428 @@
+{
+  "id": "rusr",
+  "title": "rusty rivets",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/RUSRPoster.avif",
+  "channel": "Nicktoons",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Rusty's Rex Rescue/Rusty's Park N' Fly",
+      "diziid": "rusr",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/1/rusty_rexi_kurtariyor__rustynin_ucan_parki"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Rusty Digs In/Rusty's Brave Cave Save",
+      "diziid": "rusr",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/2/rusty_kaziyor__rustynin_cesur_magara_kurtarmasi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Rusty Dives In/Rusty's Big Top Trouble",
+      "diziid": "rusr",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/3/rusty_daliyor__rustynin_sirk_sorunu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Rusty Marks the Spot/Rusty's Bits on the Fritz",
+      "diziid": "rusr",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/4/rusty_yeri_buluyor__rustynin_aletleri_arizali"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Rusty's Bit in the Woods/Rusty's Stuffy Toughy",
+      "diziid": "rusr",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/5/rustynin_aletleri_ormanda__rustynin_zorlu_isi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Rusty Goes Bananas/Rusty's Night Lights",
+      "diziid": "rusr",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/6/rusty_muz_yedirir__rustynin_gece_isiklari"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Rusty's Ski Trip Blip/Rusty and the Camp Bandit",
+      "diziid": "rusr",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/7/rustynin_kayak_yolculugu_carpismasi__rusty_ve_haydut_kampi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Rusty Rocks/Rusty's Balloon Blast",
+      "diziid": "rusr",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/8/rusty_harika__rustynin_balon_patlamasi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Rusty's Nest Friend Forever/Rusty's Flingbot",
+      "diziid": "rusr",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/9/rustynin_yuva_arkadasi_daima__rustynin_firlatan_robotu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Rusty's Penguin Problem/Rusty's Sand Castle Hassle",
+      "diziid": "rusr",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/10/rustynin_penguen_sorunu__rustynin_kum_kalesi_sorunu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Rusty's Space Bit/Rusty and the Sneezing Fish",
+      "diziid": "rusr",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/11/rustynin_uzay_aletleri__rusty_ve_hapsiran_balik"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Rusty's Water Works/Rusty's Rubbish Race",
+      "diziid": "rusr",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/12/rustynin_su_calismalari__rustynin_sacma_yarisi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Rusty in Liam Land/Rusty the Vacuum Kid",
+      "diziid": "rusr",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/13/rusty_liam_diyarinda__rusty_vakum_cocuk"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Rusty and Captain Scoops/Rusty's Creature Catcher",
+      "diziid": "rusr",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/14/rusty_ve_kaptan_kepce__rustynin_yaratik_yakalayicisi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Rusty Learns to Skate/Rusty's Rustic Adventure",
+      "diziid": "rusr",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/15/rusty_kaymayi_ogreniyor__rustynin_sade_macerasi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Rusty's Mechanical Animal/Rusty's Spaceship",
+      "diziid": "rusr",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/16/rusty_ve_mekanik_hayvan__rustynin_uzay_mekigi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Rusty and the Bit Police/Rusty's Jam at the Dam",
+      "diziid": "rusr",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/17/rusty_ve_alet_projesi__rustynin_barajda_sikismasi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Rusty's Bota-Fort/Rusty's Bull-Dozer",
+      "diziid": "rusr",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/18/rustynin_bota_kalesi__rustynin_boga_dozeri"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Rusty's Alien Invasion/Rusty's Running Car",
+      "diziid": "rusr",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/19/rustynin_uzayli_istilasi__rustynin_kosan_arabasi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Rusty Feels Peachy/Rusty's Monkey Mayhem",
+      "diziid": "rusr",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/20/rusty_seftali_hissediyor__rustynin_maymun_kargasasi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Rusty's Pet Project/Rusty Gets Stuck",
+      "diziid": "rusr",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/21/rustynin_evcil_hayvan_projesi__rusty_yapisiyor"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Rusty's Mysterious Mystery/Rusty's Yard-Cade Game",
+      "diziid": "rusr",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/22/rustynin_gizemli_gizemi__rustynin_oyun_bahcesi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Rusty's Spooky Adventure/Rusty Loses the Bits",
+      "diziid": "rusr",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/23/rustynin_urkutucu_macerasi__rusty_aletleri_kaybediyor"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Rusty's Dancing Suit/Rusty Bee Good",
+      "diziid": "rusr",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/24/rustynin_dans_takimi__rusty_ari_iyi"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Rusty's Plant Predicament/Rusty's Beach Day Delay",
+      "diziid": "rusr",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/25/rustynin_bitki_cikmazi__rustynin_plaj_gunu_gecikmesi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Robo Rusty/Rusty's Kitty Catastrophe",
+      "diziid": "rusr",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/26/robo_rusty__rustynin_kedicik_felaketi"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Ruby's Comet Adventure/Rusty's Messy Mishap",
+      "diziid": "rusr",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/27/rubynin_kuyruklu_yildiz_macerasi__rustynin_talihsizligi"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Rusty's Mobile Rivet Lab",
+      "diziid": "rusr",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/28/rustynin_mobil_rivet_laboratuvari"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Rusty's Piggy Bank Heist/Rusty's Whale of a Problem",
+      "diziid": "rusr",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/29/rustynin_kumbara_soygunu__rustynin_balina_soygunu"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Rusty's Monkey Business/Rusty's Snow Problem",
+      "diziid": "rusr",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/30/rustynin_maymun_isi__rustynin_kar_sorunu"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Frankie's Botasaur/Rusty's Mega Stacker",
+      "diziid": "rusr",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/31/frankienin_botazoru__rustynin_mega_istifcisi"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "The Fix It 500/Ice Ice Rusty",
+      "diziid": "rusr",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/32/tamir_et_500__buz_buz_rusty"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Rusty vs. the Robo-Squirrel/Rusty's Day of the Drones",
+      "diziid": "rusr",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/33/rusty_robo_sincapa_karsi__rustynin_drone_gunu"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Rusty and the Pirates of Sparkton Hills/Rusty and the Mouse Problem",
+      "diziid": "rusr",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/34/rusty_ve_sparkton_hillsin_korsanlari__rustynin_fare_sorunu"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Rusty and the Birthday Surprise/Rusty's Ninja Fish Rescue",
+      "diziid": "rusr",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/35/rusty_ve_surpriz_dogum_gunu__rusty_ninja_baligi_kurtariyor"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Rusty's Relaxing Recliner/Rusty and the Stinky Situation",
+      "diziid": "rusr",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/36/rustynin_rahatlama_koltugu__rustynin_kokarca_durumu"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Rusty's Runaway Sled/Rusty's Sky Pie Delivery",
+      "diziid": "rusr",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/37/rustynin_ucan_kizagi__rustynin_ucan_turta_teslimati"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Rusty's Show Must Go On/Rusty and the Smore Snatcher",
+      "diziid": "rusr",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/38/rustynin_gosterisi_devam_etmeli__rusty_ve_sekerleme_hirsizi"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Rusty's Sick Fix/Rusty's Journey to the Center of Sparkton Hills",
+      "diziid": "rusr",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/39/rustynin_boz_tedavisi__sparkton_tepelerinin_merkezine_yolculuk"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "Rusty's Walk on the Small Side/Liam Gets Birdnapped",
+      "diziid": "rusr",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/40/rustynin_minik_sahil_yuruyusu__kus_liami_kaciriyor"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "Super Rusty vs. Super Villain Bot/Rusty in Space",
+      "diziid": "rusr",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/41/super_rusty_super_bota_karsi__rusty_uzayda"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Rusty's Dino Coaster/Rusty's Teacher Appreciation Day",
+      "diziid": "rusr",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/42/rustynin_hiz_treni__rustynin_ogretmenler_gunu"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Rusty and the Heroic Helpers/Rusty's Monkey Rescue",
+      "diziid": "rusr",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/43/rusty_ve_kahraman_ciraklar__rusty_maymunlari_kurtariyor"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "Pet for Liam/Rusty's Dome Trouble",
+      "diziid": "rusr",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/44/liamin_yavru_robot_dersi__rustynin_kubbe_derdi"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "Rusty Saves Christmas",
+      "diziid": "rusr",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/45/rusty_noeli_kurtariyor"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "Rusty and the Temple of Boom",
+      "diziid": "rusr",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/46/rusty_ve_boom_tapinagi"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "Rusty's Bubble Trouble/Rusty's Runaway Sub",
+      "diziid": "rusr",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/47/rustynin_baloncuk_macerasi__rustynin_kacak_denizaltisi"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "Rusty's Roller Rescue/Knight Time for Rusty",
+      "diziid": "rusr",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/48/rusty_hiz_trenini_kurtariyor__rustynin_sovalyelik_vakti"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "Rusty's Elephant Escape/Rusty and the Flying Skunk",
+      "diziid": "rusr",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/49/rustynin_fil_kurtarisi__rusty_ve_ucan_kokaca"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "Rusty and the Floating School/Rusty vs. Mega Frankford",
+      "diziid": "rusr",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/50/rusty_ve_yuzen_okul__rusty_mega_frankforda_karsi"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "Rusty's Arctic Adventure/Super Liam",
+      "diziid": "rusr",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/51/rustynin_kutu_macerasi__super_liam"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "Secret Agent Rusty/Moon Walkin' Rusty",
+      "diziid": "rusr",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/rusr/rusty_rivets/52/gizli_ajan_rusty__ayda_yuruyen_rusty"
+    }
+  ]
+}

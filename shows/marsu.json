@@ -1,0 +1,901 @@
+{
+  "id": "marsu",
+  "title": "uzun kuyruk marsupilami",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MARSUPoster.avif",
+  "channel": "Yumurcak TV",
+  "genres": [
+    "Macera",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Marsupilami and Queen Cata",
+      "diziid": "marsu",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/1/marsupilami_ve_kralice_cata"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Marsupilami in the Circus",
+      "diziid": "marsu",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/2/marsupilami_sirke_gidiyor"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Father and Son",
+      "diziid": "marsu",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/3/marsupilami_ve_oglu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Marsupilami and the Curse of the Pyramid",
+      "diziid": "marsu",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/4/marsupilami_ve_lanetli_piramit"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Marsu Robot",
+      "diziid": "marsu",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/5/kopya_marsular"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Marsu Superstar",
+      "diziid": "marsu",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/6/yildiz_marsu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Rally of Palumbien",
+      "diziid": "marsu",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/7/marsu_yarisi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Marsu Model",
+      "diziid": "marsu",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/8/marsupilami_moda_kurbani"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Marsu Olympic Games",
+      "diziid": "marsu",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/9/marsupiyatlar"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Marsupilami at the Palace Hotel",
+      "diziid": "marsu",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/10/marsupilami_otelde"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Marsupilami and Mars",
+      "diziid": "marsu",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/11/mars_ve_marsupilami"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Marsupilami in Chiquitoland",
+      "diziid": "marsu",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/12/marsupilami_eglence_parkinda"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Marsupilami at the Zoo",
+      "diziid": "marsu",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/13/marsupilami_hayvanat_bahcesinde"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Marsupilami Highway",
+      "diziid": "marsu",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/14/marsupilami_yolu"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Marsupilami on Cruising",
+      "diziid": "marsu",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/15/marsupilami_gemi_gezisinde"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Marsupilami as a Toy",
+      "diziid": "marsu",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/16/marsupilaminin_yeni_arkadasi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Marsupilami in New York (1)",
+      "diziid": "marsu",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/17/marsupilami_new_york%E2%80%99ta_bolum_1"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Marsupilami in New York (2)",
+      "diziid": "marsu",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/18/marsupilami_new_yorkta_bolum_2"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Marsupilami in School",
+      "diziid": "marsu",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/19/marsupilami_okulda"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Marsupilami on Safari",
+      "diziid": "marsu",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/20/marsupilami_safaride"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "The Marsupilami in the Ring",
+      "diziid": "marsu",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/22/marsupilami_ringte"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "The Marsupilami on TV",
+      "diziid": "marsu",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/23/marsupilami_tv"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "The Marsupilami in the Store",
+      "diziid": "marsu",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/24/marsupilami_alisveris_merkezinde"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "The Marsupilami Palombada",
+      "diziid": "marsu",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/25/marsupilami_palombada"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "Small Marsupilami is Sick",
+      "diziid": "marsu",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/26/palu_palu_marsupilami"
+    },
+    {
+      "season": 1,
+      "episode": 26,
+      "title": "The First Meeting",
+      "diziid": "marsu",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/27/ilk_karsilasma"
+    },
+    {
+      "season": 2,
+      "episode": 27,
+      "title": "The CD",
+      "diziid": "marsu",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/28/disk"
+    },
+    {
+      "season": 3,
+      "episode": 28,
+      "title": "The Treasure of Santa Pioca",
+      "diziid": "marsu",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/29/santa_pioca_hazinesi"
+    },
+    {
+      "season": 4,
+      "episode": 29,
+      "title": "El Rollerblade Davido",
+      "diziid": "marsu",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/30/paten_dansi"
+    },
+    {
+      "season": 5,
+      "episode": 30,
+      "title": "The Floss Tree Cottage",
+      "diziid": "marsu",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/31/marsu_gibi_yasiyorum"
+    },
+    {
+      "season": 6,
+      "episode": 31,
+      "title": "The Mysterious Reyna",
+      "diziid": "marsu",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/32/marsu_hatirasi"
+    },
+    {
+      "season": 7,
+      "episode": 32,
+      "title": "The World Sensation",
+      "diziid": "marsu",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/33/bulus_gerginligi"
+    },
+    {
+      "season": 9,
+      "episode": 33,
+      "title": "Sardine and Dolphin",
+      "diziid": "marsu",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/35/sardalya_ve_yunuslar"
+    },
+    {
+      "season": 10,
+      "episode": 34,
+      "title": "Celebrated Artist",
+      "diziid": "marsu",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/36/unlu_ressam"
+    },
+    {
+      "season": 11,
+      "episode": 35,
+      "title": "The Primeval Marsu",
+      "diziid": "marsu",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/37/tarih_oncesi_marsu"
+    },
+    {
+      "season": 12,
+      "episode": 36,
+      "title": "The Flying Thief",
+      "diziid": "marsu",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/38/ucan_hirsiz"
+    },
+    {
+      "season": 13,
+      "episode": 37,
+      "title": "The Sky Stone",
+      "diziid": "marsu",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/39/marsupilami_koruyucusu"
+    },
+    {
+      "season": 14,
+      "episode": 38,
+      "title": "Looking for a Nanny",
+      "diziid": "marsu",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/40/bayan_backfire"
+    },
+    {
+      "season": 16,
+      "episode": 39,
+      "title": "Monster Plants",
+      "diziid": "marsu",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/42/ormanin_agzi"
+    },
+    {
+      "season": 17,
+      "episode": 40,
+      "title": "Bobo Takes Off",
+      "diziid": "marsu",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/43/bobo_evi_terk_ediyor"
+    },
+    {
+      "season": 18,
+      "episode": 41,
+      "title": "The Marsupilami Foundation",
+      "diziid": "marsu",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/44/marsupilami_dernegi"
+    },
+    {
+      "season": 19,
+      "episode": 42,
+      "title": "The Chiquito Grand Prix",
+      "diziid": "marsu",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/45/su_yarisi"
+    },
+    {
+      "season": 21,
+      "episode": 43,
+      "title": "Boards the Mean the World",
+      "diziid": "marsu",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/47/marsunun_gosterisi"
+    },
+    {
+      "season": 22,
+      "episode": 44,
+      "title": "The Sixth Marsu",
+      "diziid": "marsu",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/48/altinci_marsu"
+    },
+    {
+      "season": 23,
+      "episode": 45,
+      "title": "Grandmother Marsu",
+      "diziid": "marsu",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/49/buyukanne_marsu"
+    },
+    {
+      "season": 24,
+      "episode": 46,
+      "title": "Marsu, the Rescuer",
+      "diziid": "marsu",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/50/kurtarici_marsu"
+    },
+    {
+      "season": 25,
+      "episode": 47,
+      "title": "An Unforgettable Day",
+      "diziid": "marsu",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/51/hatirlanacak_bir_gun"
+    },
+    {
+      "season": 26,
+      "episode": 48,
+      "title": "The Apprentice",
+      "diziid": "marsu",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/52/cirak"
+    },
+    {
+      "season": 1,
+      "episode": 49,
+      "title": "Fort Marsupilami",
+      "diziid": "marsu",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/53/marsupilami_kalesi"
+    },
+    {
+      "season": 2,
+      "episode": 50,
+      "title": "The Distant Cousin",
+      "diziid": "marsu",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/54/uzak_kuzen"
+    },
+    {
+      "season": 3,
+      "episode": 51,
+      "title": "Hoobah Hector",
+      "diziid": "marsu",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/55/hectorun_hubalari"
+    },
+    {
+      "season": 4,
+      "episode": 52,
+      "title": "Marsu the Menace",
+      "diziid": "marsu",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/56/yaramaz_marsu"
+    },
+    {
+      "season": 5,
+      "episode": 53,
+      "title": "The Palombian Bell",
+      "diziid": "marsu",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/57/palombian_cani"
+    },
+    {
+      "season": 6,
+      "episode": 54,
+      "title": "Something Fishy",
+      "diziid": "marsu",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/58/balikli_bir_seyler"
+    },
+    {
+      "season": 7,
+      "episode": 55,
+      "title": "Dangerous Appetite",
+      "diziid": "marsu",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/59/tehlikeli_istah"
+    },
+    {
+      "season": 9,
+      "episode": 56,
+      "title": "Hide and Seek in Palombia",
+      "diziid": "marsu",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/61/palombiada_saklambac"
+    },
+    {
+      "season": 11,
+      "episode": 57,
+      "title": "A Plum in the Soupopoaro",
+      "diziid": "marsu",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/63/yeni_arkadas_plum"
+    },
+    {
+      "season": 12,
+      "episode": 58,
+      "title": "A Plum and a Nitwit",
+      "diziid": "marsu",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/64/plum_ve_kucuk_yaramaz"
+    },
+    {
+      "season": 13,
+      "episode": 59,
+      "title": "Green Fang",
+      "diziid": "marsu",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/65/kiler_hirsizi_marsu"
+    },
+    {
+      "season": 14,
+      "episode": 60,
+      "title": "Springtime for the Barbiantics",
+      "diziid": "marsu",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/66/elmaslarin_pesinde"
+    },
+    {
+      "season": 15,
+      "episode": 61,
+      "title": "The Hunt for the Yellow Marsu",
+      "diziid": "marsu",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/67/sari_marsu_avi"
+    },
+    {
+      "season": 16,
+      "episode": 62,
+      "title": "Let Sleeping Volcanos Lie!",
+      "diziid": "marsu",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/68/volkan"
+    },
+    {
+      "season": 17,
+      "episode": 63,
+      "title": "Palombian Games",
+      "diziid": "marsu",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/69/palombia_olimpiyat_oyunlari"
+    },
+    {
+      "season": 18,
+      "episode": 64,
+      "title": "Hector, the MarsuSitter",
+      "diziid": "marsu",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/70/marsu_bakicisi_hector"
+    },
+    {
+      "season": 19,
+      "episode": 65,
+      "title": "Daddy's Little Piafoosoo",
+      "diziid": "marsu",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/71/babasinin_kucuk_kusu"
+    },
+    {
+      "season": 21,
+      "episode": 66,
+      "title": "Grotox",
+      "diziid": "marsu",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/73/grotox"
+    },
+    {
+      "season": 22,
+      "episode": 67,
+      "title": "Double Vision",
+      "diziid": "marsu",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/74/gozluk_kaybolunca"
+    },
+    {
+      "season": 23,
+      "episode": 68,
+      "title": "The Palombisaurus Cemetery",
+      "diziid": "marsu",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/75/palombisorus_mezarligi"
+    },
+    {
+      "season": 24,
+      "episode": 69,
+      "title": "Some Like It Green",
+      "diziid": "marsu",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/76/bazilari_yesil_sever"
+    },
+    {
+      "season": 25,
+      "episode": 70,
+      "title": "A Whiff of Adventure",
+      "diziid": "marsu",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/77/macera_korkusu"
+    },
+    {
+      "season": 26,
+      "episode": 71,
+      "title": "The Big Sleep",
+      "diziid": "marsu",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/78/buyuk_uyku"
+    },
+    {
+      "season": 1,
+      "episode": 72,
+      "title": "Operation Empty Jungle",
+      "diziid": "marsu",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/79/ormani_bosaltma_operasyonu"
+    },
+    {
+      "season": 3,
+      "episode": 73,
+      "title": "The Amazing Discovery",
+      "diziid": "marsu",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/81/muthis_kesif"
+    },
+    {
+      "season": 4,
+      "episode": 74,
+      "title": "Toofurkey and Chickenlittle",
+      "diziid": "marsu",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/82/tofurkey_ve_kucuk_tavuk"
+    },
+    {
+      "season": 5,
+      "episode": 75,
+      "title": "It Came from Outer Space",
+      "diziid": "marsu",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/83/o_uzaydan_geldi"
+    },
+    {
+      "season": 8,
+      "episode": 76,
+      "title": "The Return of Calamity Jane",
+      "diziid": "marsu",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/86/efsane_janenin_donusu"
+    },
+    {
+      "season": 9,
+      "episode": 77,
+      "title": "Marsupilou",
+      "diziid": "marsu",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/87/marsupiloo"
+    },
+    {
+      "season": 10,
+      "episode": 78,
+      "title": "Operation Save Felicia!",
+      "diziid": "marsu",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/88/feliciayi_kurtarmak"
+    },
+    {
+      "season": 11,
+      "episode": 79,
+      "title": "Everyone's a Vegetable",
+      "diziid": "marsu",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/89/herkes_sebze"
+    },
+    {
+      "season": 12,
+      "episode": 80,
+      "title": "The Song of Marsupilami",
+      "diziid": "marsu",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/90/marsupilaminin_sarkisi"
+    },
+    {
+      "season": 13,
+      "episode": 81,
+      "title": "The Undo-it Gang",
+      "diziid": "marsu",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/91/yapilani_bozma_cetesi"
+    },
+    {
+      "season": 16,
+      "episode": 82,
+      "title": "S.O.S. Palombia",
+      "diziid": "marsu",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/94/palombia_tehlikede"
+    },
+    {
+      "season": 17,
+      "episode": 83,
+      "title": "Danger: Piranhamania!",
+      "diziid": "marsu",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/95/dikkat%21_pirana_cilginligi"
+    },
+    {
+      "season": 18,
+      "episode": 84,
+      "title": "Marsu, my Hero!",
+      "diziid": "marsu",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/96/kahramanim_marsu"
+    },
+    {
+      "season": 19,
+      "episode": 85,
+      "title": "Delicious Ursula",
+      "diziid": "marsu",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/97/lezzet_ustasi_ursula"
+    },
+    {
+      "season": 20,
+      "episode": 86,
+      "title": "The Leekisoopi's Jaws",
+      "diziid": "marsu",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/98/sazli_nehirde_dev_balik"
+    },
+    {
+      "season": 22,
+      "episode": 87,
+      "title": "Acute Roundophobia",
+      "diziid": "marsu",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/100/yuvarlak_sekil_fobisi"
+    },
+    {
+      "season": 23,
+      "episode": 88,
+      "title": "Leaving the Nest",
+      "diziid": "marsu",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/101/yuvadan_ayrilis"
+    },
+    {
+      "season": 24,
+      "episode": 89,
+      "title": "Sleeping Beauties",
+      "diziid": "marsu",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/102/uyuyan_guzeller"
+    },
+    {
+      "season": 25,
+      "episode": 90,
+      "title": "Marsu Strikes Back",
+      "diziid": "marsu",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/103/marsunun_karsi_atagi"
+    },
+    {
+      "season": 26,
+      "episode": 91,
+      "title": "Goodbye, Marsu!",
+      "diziid": "marsu",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/104/hoscakal_marsu"
+    },
+    {
+      "season": 1,
+      "episode": 92,
+      "title": "The sleight of hand",
+      "diziid": "marsu",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/105/gordun_mu_gormedin_mi"
+    },
+    {
+      "season": 2,
+      "episode": 93,
+      "title": "My Friend Kumbo",
+      "diziid": "marsu",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/106/arkadasim_kumbo"
+    },
+    {
+      "season": 3,
+      "episode": 94,
+      "title": "Piranha check",
+      "diziid": "marsu",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/107/piranalar_sah_ve_mat"
+    },
+    {
+      "season": 4,
+      "episode": 95,
+      "title": "Bobo's Dream",
+      "diziid": "marsu",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/108/bobonun_ruyasi"
+    },
+    {
+      "season": 5,
+      "episode": 96,
+      "title": "The New Nest of the Marsupilamis",
+      "diziid": "marsu",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/109/marsular_icin_yeni_bir_yuva"
+    },
+    {
+      "season": 6,
+      "episode": 97,
+      "title": "Splashes in Palombia",
+      "diziid": "marsu",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/110/palombiada_resim_sanati"
+    },
+    {
+      "season": 7,
+      "episode": 98,
+      "title": "Christmas in Palombia",
+      "diziid": "marsu",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/111/palombiada_hediyelesme"
+    },
+    {
+      "season": 8,
+      "episode": 99,
+      "title": "Give the paw, Marsu!",
+      "diziid": "marsu",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/112/bir_kopegin_hayati"
+    },
+    {
+      "season": 9,
+      "episode": 100,
+      "title": "The nose of the Marsupilami",
+      "diziid": "marsu",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/113/marsunun_burnu"
+    },
+    {
+      "season": 10,
+      "episode": 101,
+      "title": "Taming a marsupilami",
+      "diziid": "marsu",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/114/tembel_cocuklar"
+    },
+    {
+      "season": 11,
+      "episode": 102,
+      "title": "Serial junglophobias",
+      "diziid": "marsu",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/115/orman_korkusu"
+    },
+    {
+      "season": 14,
+      "episode": 103,
+      "title": "The invader",
+      "diziid": "marsu",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/118/istilacilar"
+    },
+    {
+      "season": 15,
+      "episode": 104,
+      "title": "The Wicked Winds",
+      "diziid": "marsu",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/119/goktasi_dusuyor"
+    },
+    {
+      "season": 19,
+      "episode": 105,
+      "title": "A poisoned gift",
+      "diziid": "marsu",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/123/zehirli_hediye"
+    },
+    {
+      "season": 20,
+      "episode": 106,
+      "title": "My best friend",
+      "diziid": "marsu",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/124/en_iyi_arkadas"
+    },
+    {
+      "season": 22,
+      "episode": 107,
+      "title": "Stolen Images",
+      "diziid": "marsu",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/126/calinan_goruntuler"
+    },
+    {
+      "season": 23,
+      "episode": 108,
+      "title": "Mom is coming (part 1)",
+      "diziid": "marsu",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/127/palombiaya_hos_geldin_anne_bolum_1"
+    },
+    {
+      "season": 24,
+      "episode": 109,
+      "title": "Mom is coming (part 2)",
+      "diziid": "marsu",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/128/palombiaya_hos_geldin_anne_bolum_2"
+    },
+    {
+      "season": 25,
+      "episode": 110,
+      "title": "Mom is coming (part 3)",
+      "diziid": "marsu",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/129/palombiaya_hos_geldin_anne_bolum_3"
+    },
+    {
+      "season": 26,
+      "episode": 111,
+      "title": "My son the genius",
+      "diziid": "marsu",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/marsu/uzun_kuyruk_marsupilami/130/benim_dahi_oglum"
+    }
+  ]
+}

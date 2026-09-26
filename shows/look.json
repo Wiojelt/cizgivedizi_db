@@ -1,0 +1,77 @@
+{
+  "id": "look",
+  "title": "lookism",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/LOOKPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Dram",
+    "SuÃ§/Polisiye"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Change",
+      "diziid": "look",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/look/lookism/1/degisim"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "New Life",
+      "diziid": "look",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/look/lookism/2/yeni_hayat"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Friends",
+      "diziid": "look",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/look/lookism/3/arkadaslar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Mom",
+      "diziid": "look",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/look/lookism/4/anne"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Kindness",
+      "diziid": "look",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/look/lookism/5/iyilik"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Recommendation",
+      "diziid": "look",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/look/lookism/6/tavsiye"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Special Training",
+      "diziid": "look",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/look/lookism/7/ozel_egitim"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Wall",
+      "diziid": "look",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/look/lookism/8/duvar"
+    }
+  ]
+}

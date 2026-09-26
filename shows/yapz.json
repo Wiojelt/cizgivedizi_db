@@ -1,0 +1,36 @@
+{
+  "id": "yapz",
+  "title": "yapay zeka",
+  "type": "other",
+  "poster": "https://cizgivedizi.com/resim/YAPZPoster.avif",
+  "channel": "Da Vinci",
+  "genres": [
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Birth Of The Human Machine",
+      "diziid": "yapz",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/yapz/yapay_zeka/1/insan_makinesinin_dogumu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Future Of Labour",
+      "diziid": "yapz",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/yapz/yapay_zeka/2/emegin_gelecegi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Future Of Homo Sapiens",
+      "diziid": "yapz",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/yapz/yapay_zeka/3/homo_sapiensin_gelecegi"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "sevcanib",
+  "title": "sevimli canavarlar iÅŸ baÅŸÄ±nda",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SEVCAÄ°BPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Welcome to Monsters, Incorporated",
+      "diziid": "sevcanib",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/sevcanib/sevimli_canavarlar_is_basinda/1/canavarlar_sirketine_hos_geldiniz"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Meet MIFT",
+      "diziid": "sevcanib",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/sevcanib/sevimli_canavarlar_is_basinda/2/miftle_tanisin"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Damaged Room",
+      "diziid": "sevcanib",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/sevcanib/sevimli_canavarlar_is_basinda/3/hasarli_oda"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Big Wazowskis",
+      "diziid": "sevcanib",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/sevcanib/sevimli_canavarlar_is_basinda/4/buyuk_wazowskiler"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Cover Up",
+      "diziid": "sevcanib",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/sevcanib/sevimli_canavarlar_is_basinda/5/ortbas"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Vending Machine",
+      "diziid": "sevcanib",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/sevcanib/sevimli_canavarlar_is_basinda/6/makine"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Adorable Returns",
+      "diziid": "sevcanib",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/sevcanib/sevimli_canavarlar_is_basinda/7/sevimli_donusler"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Little Monsters",
+      "diziid": "sevcanib",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/sevcanib/sevimli_canavarlar_is_basinda/8/minik_canavarlar"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Bad Hair Day",
+      "diziid": "sevcanib",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/sevcanib/sevimli_canavarlar_is_basinda/9/kotu_sac_gunu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "It's Laughter They're After",
+      "diziid": "sevcanib",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/sevcanib/sevimli_canavarlar_is_basinda/10/kahkaha_pesindeyiz"
+    }
+  ]
+}

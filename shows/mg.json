@@ -1,0 +1,245 @@
+{
+  "id": "mg",
+  "title": "mÃ¼fettiÅŸ gadget",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MGPoster.avif",
+  "channel": "Maxi TV",
+  "genres": [
+    "Macera",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 10,
+      "episode": 1,
+      "title": "A Star Is Lost",
+      "diziid": "mg",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/10/kayip_yildiz"
+    },
+    {
+      "season": 11,
+      "episode": 2,
+      "title": "All That Glitters",
+      "diziid": "mg",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/11/kayip_altin_sehir"
+    },
+    {
+      "season": 13,
+      "episode": 3,
+      "title": "Amusement Park",
+      "diziid": "mg",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/13/lunapark"
+    },
+    {
+      "season": 14,
+      "episode": 4,
+      "title": "Art Heist",
+      "diziid": "mg",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/14/sanat_soygunu"
+    },
+    {
+      "season": 17,
+      "episode": 5,
+      "title": "The Infiltration",
+      "diziid": "mg",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/17/sizmak"
+    },
+    {
+      "season": 18,
+      "episode": 6,
+      "title": "The Curse of the Pharaoh",
+      "diziid": "mg",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/18/firavunun_laneti"
+    },
+    {
+      "season": 19,
+      "episode": 7,
+      "title": "M.A.D. Trap",
+      "diziid": "mg",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/19/mad_tuzagi"
+    },
+    {
+      "season": 20,
+      "episode": 8,
+      "title": "Basic Training",
+      "diziid": "mg",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/20/basit_egitim"
+    },
+    {
+      "season": 21,
+      "episode": 9,
+      "title": "Sleeping Gas",
+      "diziid": "mg",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/21/uyku_gazi"
+    },
+    {
+      "season": 22,
+      "episode": 10,
+      "title": "Gadget's Replacement",
+      "diziid": "mg",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/22/baska_gadget"
+    },
+    {
+      "season": 23,
+      "episode": 11,
+      "title": "Greenfinger",
+      "diziid": "mg",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/23/greenfinger"
+    },
+    {
+      "season": 25,
+      "episode": 12,
+      "title": "Launch Time",
+      "diziid": "mg",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/25/firlatma"
+    },
+    {
+      "season": 26,
+      "episode": 13,
+      "title": "Photo Safari",
+      "diziid": "mg",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/26/safari"
+    },
+    {
+      "season": 27,
+      "episode": 14,
+      "title": "The Coo Coo Clock Caper",
+      "diziid": "mg",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/27/saatci"
+    },
+    {
+      "season": 28,
+      "episode": 15,
+      "title": "Bermuda Triangle",
+      "diziid": "mg",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/28/bermuda_seytan_ucgeni"
+    },
+    {
+      "season": 29,
+      "episode": 16,
+      "title": "The Japanese Connection",
+      "diziid": "mg",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/29/cip"
+    },
+    {
+      "season": 30,
+      "episode": 17,
+      "title": "Arabian Nights",
+      "diziid": "mg",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/30/arap_geceleri"
+    },
+    {
+      "season": 31,
+      "episode": 18,
+      "title": "A Clear Case",
+      "diziid": "mg",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/31/gorunmez_vaka"
+    },
+    {
+      "season": 32,
+      "episode": 19,
+      "title": "Dutch Treat",
+      "diziid": "mg",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/32/elmas_kacakciligi"
+    },
+    {
+      "season": 33,
+      "episode": 20,
+      "title": "The Great Divide",
+      "diziid": "mg",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/33/deprem"
+    },
+    {
+      "season": 34,
+      "episode": 21,
+      "title": "Eye of the Dragon",
+      "diziid": "mg",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/34/kolye"
+    },
+    {
+      "season": 35,
+      "episode": 22,
+      "title": "Doubled Agent",
+      "diziid": "mg",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/35/cift_ajan"
+    },
+    {
+      "season": 36,
+      "episode": 23,
+      "title": "Plantform of the Opera",
+      "diziid": "mg",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/36/opera"
+    },
+    {
+      "season": 37,
+      "episode": 24,
+      "title": "Don't Hold Your Breath",
+      "diziid": "mg",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/37/nefesini_tut"
+    },
+    {
+      "season": 38,
+      "episode": 25,
+      "title": "Gone Went the Wind",
+      "diziid": "mg",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/38/ruzgar"
+    },
+    {
+      "season": 39,
+      "episode": 26,
+      "title": "King Wrong",
+      "diziid": "mg",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/39/yanlis_kral"
+    },
+    {
+      "season": 42,
+      "episode": 27,
+      "title": "No Flies On Us",
+      "diziid": "mg",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/42/sinek"
+    },
+    {
+      "season": 43,
+      "episode": 28,
+      "title": "Luck of the Irish",
+      "diziid": "mg",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/43/irlandali_sansi"
+    },
+    {
+      "season": 44,
+      "episode": 29,
+      "title": "Prince Of The Gypsies",
+      "diziid": "mg",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/mg/mufettis_gadget/44/calinti_arma"
+    }
+  ]
+}

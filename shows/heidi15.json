@@ -1,0 +1,508 @@
+{
+  "id": "heidi15",
+  "title": "heidi (2015)",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/HEIDI15Poster.avif",
+  "channel": "TRT Ã‡ocuk",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Up to the Mountain",
+      "diziid": "heidi15",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/1/daglarin_zirvesinde"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "First Day in the Mountains",
+      "diziid": "heidi15",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/2/daglardaki_ilk_gun"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Challenge",
+      "diziid": "heidi15",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/3/yarisma"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Save Chippy",
+      "diziid": "heidi15",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/4/kucuk_kusu_kurtarmak"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Treehouse Oath",
+      "diziid": "heidi15",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/5/agac_evi_andi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "A Night Out",
+      "diziid": "heidi15",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/6/disarida_bir_gece"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "For a Loaf of Bread",
+      "diziid": "heidi15",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/7/bir_somun_ekmek_icin"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Trapped in the Manor",
+      "diziid": "heidi15",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/8/malikanede_hapis"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Beware of the Wolf",
+      "diziid": "heidi15",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/9/dikkat_et%2C_kurt"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Peter's Treasure",
+      "diziid": "heidi15",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/10/peterin_hazinesi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Attack the Treehouse",
+      "diziid": "heidi15",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/11/agac_evi_saldirisi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Save Sweetheart",
+      "diziid": "heidi15",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/12/tatli_seyi_kurtarmak"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The End of Spring",
+      "diziid": "heidi15",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/13/ilkbaharin_sonu"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Clara",
+      "diziid": "heidi15",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/14/clara"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Bell Tower",
+      "diziid": "heidi15",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/15/can_kulesi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Promise",
+      "diziid": "heidi15",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/16/soz"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Papa Returns",
+      "diziid": "heidi15",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/17/baba_geri_donuyor"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Home Schooled",
+      "diziid": "heidi15",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/18/ev_okulu"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Let's Make a Show",
+      "diziid": "heidi15",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/19/hadi_bir_gosteri_yapalim"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "At the Park",
+      "diziid": "heidi15",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/20/parkta"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Clara Stands",
+      "diziid": "heidi15",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/21/clara_ayaga_kalkiyor"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Goats in the City",
+      "diziid": "heidi15",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/22/sehirdeki_keciler"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "The Resignation",
+      "diziid": "heidi15",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/23/istifa_mektubu"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "A Tree for Shelter",
+      "diziid": "heidi15",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/24/siginacak_bir_agac"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "The Ghost",
+      "diziid": "heidi15",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/25/garip_sesler"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The Letter",
+      "diziid": "heidi15",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/26/mektup"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Back to Dorfli",
+      "diziid": "heidi15",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/27/dorfliye_donus"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "A New Goat in the Herd",
+      "diziid": "heidi15",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/28/surudeki_yeni_keci"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "The Broken Statue",
+      "diziid": "heidi15",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/29/kirik_heykel"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "The Brooch",
+      "diziid": "heidi15",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/30/bros"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "The School Test",
+      "diziid": "heidi15",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/31/okuldaki_sinav"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Scavenger Hunt",
+      "diziid": "heidi15",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/32/hazine_avi"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Goat's Hour",
+      "diziid": "heidi15",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/33/keci_saati"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "The Storm",
+      "diziid": "heidi15",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/34/firtina"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "The Devil's Bridge",
+      "diziid": "heidi15",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/35/yikik_kopru"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Friedrich",
+      "diziid": "heidi15",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/36/frederik"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "The Wheelchair",
+      "diziid": "heidi15",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/37/tekerlekli_sandalye"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Forgiven",
+      "diziid": "heidi15",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/38/affetmek"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "The Edelweiss",
+      "diziid": "heidi15",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/39/kardelen"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "Goodbye Little Swan",
+      "diziid": "heidi15",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/40/elveda_kucuk_kugu"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "Rico",
+      "diziid": "heidi15",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/41/rico"
+    },
+    {
+      "season": 3,
+      "episode": 42,
+      "title": "The Hike",
+      "diziid": "heidi15",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/42/tirmanis"
+    },
+    {
+      "season": 4,
+      "episode": 43,
+      "title": "The Competition",
+      "diziid": "heidi15",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/43/yarisma"
+    },
+    {
+      "season": 5,
+      "episode": 44,
+      "title": "Bridget's Secret",
+      "diziid": "heidi15",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/44/bridgetin_sirri"
+    },
+    {
+      "season": 6,
+      "episode": 45,
+      "title": "The Violin",
+      "diziid": "heidi15",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/45/keman"
+    },
+    {
+      "season": 7,
+      "episode": 46,
+      "title": "Francesco",
+      "diziid": "heidi15",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/46/francesco"
+    },
+    {
+      "season": 8,
+      "episode": 47,
+      "title": "The Watch",
+      "diziid": "heidi15",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/47/saat"
+    },
+    {
+      "season": 9,
+      "episode": 48,
+      "title": "The Resolution",
+      "diziid": "heidi15",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/48/cozum"
+    },
+    {
+      "season": 10,
+      "episode": 49,
+      "title": "The Choice",
+      "diziid": "heidi15",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/49/secim"
+    },
+    {
+      "season": 11,
+      "episode": 50,
+      "title": "The Operation",
+      "diziid": "heidi15",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/50/ameliyat"
+    },
+    {
+      "season": 12,
+      "episode": 51,
+      "title": "The Lady in Red",
+      "diziid": "heidi15",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/51/kirmizili_kadin"
+    },
+    {
+      "season": 14,
+      "episode": 52,
+      "title": "A Marriage Is Announced",
+      "diziid": "heidi15",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/53/evlilik"
+    },
+    {
+      "season": 15,
+      "episode": 53,
+      "title": "Reunited",
+      "diziid": "heidi15",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/54/yeniden_birlikte"
+    },
+    {
+      "season": 16,
+      "episode": 54,
+      "title": "A Question of Time",
+      "diziid": "heidi15",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/55/zaman_meselesi"
+    },
+    {
+      "season": 18,
+      "episode": 55,
+      "title": "The Cabin",
+      "diziid": "heidi15",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/57/kulube"
+    },
+    {
+      "season": 19,
+      "episode": 56,
+      "title": "The Endangered Mountain",
+      "diziid": "heidi15",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/58/tehlikeli_dag"
+    },
+    {
+      "season": 20,
+      "episode": 57,
+      "title": "The Accident",
+      "diziid": "heidi15",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/59/kaza"
+    },
+    {
+      "season": 21,
+      "episode": 58,
+      "title": "The Wolpertinger",
+      "diziid": "heidi15",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/60/wolpertinger"
+    },
+    {
+      "season": 22,
+      "episode": 59,
+      "title": "Anna",
+      "diziid": "heidi15",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/61/anna"
+    },
+    {
+      "season": 23,
+      "episode": 60,
+      "title": "The Beehives",
+      "diziid": "heidi15",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/62/ari_kovanlari"
+    },
+    {
+      "season": 24,
+      "episode": 61,
+      "title": "A Tough Break",
+      "diziid": "heidi15",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/63/talihsizlik"
+    },
+    {
+      "season": 25,
+      "episode": 62,
+      "title": "A Difficult Choice",
+      "diziid": "heidi15",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/heidi15/heidi_2015/64/zor_secim"
+    }
+  ]
+}

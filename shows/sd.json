@@ -1,0 +1,1973 @@
+{
+  "id": "sd",
+  "title": "sÃ¼rekli dizi",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SDPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi",
+    "AbsÃ¼rt"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Power",
+      "diziid": "sd",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/1/guc"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Just Set Up the Chairs",
+      "diziid": "sd",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/2/sandalyeleri_dizin_yeter"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Caffeinated Concert Tickets",
+      "diziid": "sd",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/3/kafeinli_konser_biletleri"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Death Punchies",
+      "diziid": "sd",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/4/olum_yumruklari"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Free Cake",
+      "diziid": "sd",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/5/bedava_pasta"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Meat Your Maker",
+      "diziid": "sd",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/6/yaraticinla_tanis"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Grilled Cheese Deluxe",
+      "diziid": "sd",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/7/kizarmis_sandvic_deluks"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Unicorns Have Got to Go",
+      "diziid": "sd",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/8/unicornlarin_gitmesi_sart"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Prank Callers",
+      "diziid": "sd",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/9/telefon_sakalari"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Don",
+      "diziid": "sd",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/10/don"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Rigby's Body",
+      "diziid": "sd",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/11/rigbynin_bedeni"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Mordecai and the Rigbys",
+      "diziid": "sd",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/12/mordecai_ve_rigbyler"
+    },
+    {
+      "season": 1,
+      "episode": 13,
+      "title": "Ello Gov'nor",
+      "diziid": "sd",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/13/naber_mudur"
+    },
+    {
+      "season": 2,
+      "episode": 14,
+      "title": "It's Time",
+      "diziid": "sd",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/14/tam_zamani"
+    },
+    {
+      "season": 3,
+      "episode": 15,
+      "title": "Appreciation Day",
+      "diziid": "sd",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/15/takdir_etme_gunu"
+    },
+    {
+      "season": 4,
+      "episode": 16,
+      "title": "Peeps",
+      "diziid": "sd",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/16/rontgen"
+    },
+    {
+      "season": 5,
+      "episode": 17,
+      "title": "Dizzy",
+      "diziid": "sd",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/17/donuyor"
+    },
+    {
+      "season": 6,
+      "episode": 18,
+      "title": "My Mom",
+      "diziid": "sd",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/18/annem"
+    },
+    {
+      "season": 7,
+      "episode": 19,
+      "title": "High Score",
+      "diziid": "sd",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/19/yuksek_skor"
+    },
+    {
+      "season": 8,
+      "episode": 20,
+      "title": "Rage Against the TV",
+      "diziid": "sd",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/20/televizyona_sinirlemek"
+    },
+    {
+      "season": 9,
+      "episode": 21,
+      "title": "Party Pete",
+      "diziid": "sd",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/21/parti_pete"
+    },
+    {
+      "season": 10,
+      "episode": 22,
+      "title": "Brain Eraser",
+      "diziid": "sd",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/22/beyin_silici"
+    },
+    {
+      "season": 11,
+      "episode": 23,
+      "title": "Benson Be Gone",
+      "diziid": "sd",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/23/kaybol_benson"
+    },
+    {
+      "season": 12,
+      "episode": 24,
+      "title": "But I Have a Receipt",
+      "diziid": "sd",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/24/ama_faturam_var"
+    },
+    {
+      "season": 13,
+      "episode": 25,
+      "title": "This Is My Jam",
+      "diziid": "sd",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/25/bu_benim_parcam"
+    },
+    {
+      "season": 14,
+      "episode": 26,
+      "title": "Muscle Woman",
+      "diziid": "sd",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/26/kas_kadin"
+    },
+    {
+      "season": 15,
+      "episode": 27,
+      "title": "Temp Check",
+      "diziid": "sd",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/27/gecici_isci"
+    },
+    {
+      "season": 16,
+      "episode": 28,
+      "title": "Jinx",
+      "diziid": "sd",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/28/buyu"
+    },
+    {
+      "season": 17,
+      "episode": 29,
+      "title": "See You There",
+      "diziid": "sd",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/29/orada_gorusuruz"
+    },
+    {
+      "season": 18,
+      "episode": 30,
+      "title": "Do Me a Solid",
+      "diziid": "sd",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/30/bana_bir_iyilik_yap"
+    },
+    {
+      "season": 19,
+      "episode": 31,
+      "title": "Grave Sights",
+      "diziid": "sd",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/31/mezarlik_manzarasi"
+    },
+    {
+      "season": 20,
+      "episode": 32,
+      "title": "Really Real Wrestling",
+      "diziid": "sd",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/32/sahiden_sahici_gures"
+    },
+    {
+      "season": 21,
+      "episode": 33,
+      "title": "Over the Top",
+      "diziid": "sd",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/33/alt_etmek"
+    },
+    {
+      "season": 22,
+      "episode": 34,
+      "title": "The Night Owl",
+      "diziid": "sd",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/34/gece_kusu"
+    },
+    {
+      "season": 23,
+      "episode": 35,
+      "title": "A Bunch of Baby Ducks",
+      "diziid": "sd",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/35/yavru_ordek"
+    },
+    {
+      "season": 24,
+      "episode": 36,
+      "title": "More Smarter",
+      "diziid": "sd",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/36/daha_akilli"
+    },
+    {
+      "season": 25,
+      "episode": 37,
+      "title": "First Day",
+      "diziid": "sd",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/37/ilk_gun"
+    },
+    {
+      "season": 26,
+      "episode": 38,
+      "title": "Go Viral",
+      "diziid": "sd",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/38/viruslu"
+    },
+    {
+      "season": 27,
+      "episode": 39,
+      "title": "Skunked",
+      "diziid": "sd",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/39/yenilgi"
+    },
+    {
+      "season": 28,
+      "episode": 40,
+      "title": "Karaoke Video",
+      "diziid": "sd",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/40/karaoke_videosu"
+    },
+    {
+      "season": 1,
+      "episode": 41,
+      "title": "Stick Hockey",
+      "diziid": "sd",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/41/masa_hokeyi"
+    },
+    {
+      "season": 2,
+      "episode": 42,
+      "title": "Bet to Be Blonde",
+      "diziid": "sd",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/42/sarisin_olma_iddiasi"
+    },
+    {
+      "season": 3,
+      "episode": 43,
+      "title": "Skips Strikes",
+      "diziid": "sd",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/43/skipsin_strikei"
+    },
+    {
+      "season": 4,
+      "episode": 44,
+      "title": "Terror Tales of the Park, Part 1",
+      "diziid": "sd",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/44/parkin_korku_hikayeleri%2C_bolum_1"
+    },
+    {
+      "season": 5,
+      "episode": 45,
+      "title": "Terror Tales of the Park, Part 2",
+      "diziid": "sd",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/45/parkin_korku_hikayeleri%2C_bolum_2"
+    },
+    {
+      "season": 6,
+      "episode": 46,
+      "title": "Camping Can Be Cool",
+      "diziid": "sd",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/46/kamp_yapmak_iyi_olabilir"
+    },
+    {
+      "season": 7,
+      "episode": 47,
+      "title": "Slam Dunk",
+      "diziid": "sd",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/47/smac"
+    },
+    {
+      "season": 8,
+      "episode": 48,
+      "title": "Cool Bikes",
+      "diziid": "sd",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/48/havali_bisikletler"
+    },
+    {
+      "season": 9,
+      "episode": 49,
+      "title": "House Rules",
+      "diziid": "sd",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/49/ev_kurallari"
+    },
+    {
+      "season": 10,
+      "episode": 50,
+      "title": "Rap It Up",
+      "diziid": "sd",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/50/rap_zamani"
+    },
+    {
+      "season": 11,
+      "episode": 51,
+      "title": "Cruisin'",
+      "diziid": "sd",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/51/gezinti"
+    },
+    {
+      "season": 12,
+      "episode": 52,
+      "title": "Under the Hood",
+      "diziid": "sd",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/52/mahallede"
+    },
+    {
+      "season": 13,
+      "episode": 53,
+      "title": "Weekend at Benson's",
+      "diziid": "sd",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/53/bensonin_evinde_hafta_sonu"
+    },
+    {
+      "season": 14,
+      "episode": 54,
+      "title": "Fortune Cookie",
+      "diziid": "sd",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/54/niyet_kurabiyesi"
+    },
+    {
+      "season": 15,
+      "episode": 55,
+      "title": "Think Positive",
+      "diziid": "sd",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/55/olumlu_dusun"
+    },
+    {
+      "season": 16,
+      "episode": 56,
+      "title": "Skips vs. Technology",
+      "diziid": "sd",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/56/skips_teknolojiye_karsi"
+    },
+    {
+      "season": 17,
+      "episode": 57,
+      "title": "Butt Dial",
+      "diziid": "sd",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/57/yanlis_arama"
+    },
+    {
+      "season": 18,
+      "episode": 58,
+      "title": "Eggscellent",
+      "diziid": "sd",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/58/mukemmel_yumurta"
+    },
+    {
+      "season": 19,
+      "episode": 59,
+      "title": "Gut Model",
+      "diziid": "sd",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/59/gobek_mankeni"
+    },
+    {
+      "season": 20,
+      "episode": 60,
+      "title": "Video Game Wizards",
+      "diziid": "sd",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/60/video_oyunu_sihirbazlari"
+    },
+    {
+      "season": 21,
+      "episode": 61,
+      "title": "Big Winner",
+      "diziid": "sd",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/61/sahte_bilet"
+    },
+    {
+      "season": 22,
+      "episode": 62,
+      "title": "The Best Burger in the World",
+      "diziid": "sd",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/62/dunyanin_en_iyi_hamburgeri"
+    },
+    {
+      "season": 23,
+      "episode": 63,
+      "title": "Replaced",
+      "diziid": "sd",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/63/kovulma"
+    },
+    {
+      "season": 24,
+      "episode": 64,
+      "title": "Trash Boat",
+      "diziid": "sd",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/64/cop_teknesi"
+    },
+    {
+      "season": 25,
+      "episode": 65,
+      "title": "Fists of Justice",
+      "diziid": "sd",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/65/adalet_yumruklari"
+    },
+    {
+      "season": 26,
+      "episode": 66,
+      "title": "Yes Dude Yes",
+      "diziid": "sd",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/66/evet_dostum_evet"
+    },
+    {
+      "season": 27,
+      "episode": 67,
+      "title": "Busted Cart",
+      "diziid": "sd",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/67/sigortaci"
+    },
+    {
+      "season": 28,
+      "episode": 68,
+      "title": "Dead at Eight",
+      "diziid": "sd",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/68/sekizde_olum"
+    },
+    {
+      "season": 29,
+      "episode": 69,
+      "title": "Access Denied",
+      "diziid": "sd",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/69/giris_yasak"
+    },
+    {
+      "season": 30,
+      "episode": 70,
+      "title": "Muscle Mentor",
+      "diziid": "sd",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/70/usta_kas_adam"
+    },
+    {
+      "season": 31,
+      "episode": 71,
+      "title": "Trucker Hall of Fame",
+      "diziid": "sd",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/71/kamyoncular_aniti"
+    },
+    {
+      "season": 32,
+      "episode": 72,
+      "title": "Out of Commission",
+      "diziid": "sd",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/72/son_arzu"
+    },
+    {
+      "season": 33,
+      "episode": 73,
+      "title": "Fancy Restaurant",
+      "diziid": "sd",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/73/luks_restoran"
+    },
+    {
+      "season": 34,
+      "episode": 74,
+      "title": "Diary",
+      "diziid": "sd",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/74/gunluk"
+    },
+    {
+      "season": 35,
+      "episode": 75,
+      "title": "The Best VHS in the World",
+      "diziid": "sd",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/75/dunyanin_en_iyi_kaseti"
+    },
+    {
+      "season": 36,
+      "episode": 76,
+      "title": "Prankless",
+      "diziid": "sd",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/76/saka_yok"
+    },
+    {
+      "season": 37,
+      "episode": 77,
+      "title": "Death Bear",
+      "diziid": "sd",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/77/olum_ayisi"
+    },
+    {
+      "season": 38,
+      "episode": 78,
+      "title": "Fuzzy Dice",
+      "diziid": "sd",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/78/pelus_zar"
+    },
+    {
+      "season": 39,
+      "episode": 79,
+      "title": "Sugar Rush",
+      "diziid": "sd",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/79/fazla_seker"
+    },
+    {
+      "season": 40,
+      "episode": 80,
+      "title": "Bad Kiss",
+      "diziid": "sd",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/80/agiz_kokusu"
+    },
+    {
+      "season": 1,
+      "episode": 81,
+      "title": "Exit 9B",
+      "diziid": "sd",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/81/cikis_9b"
+    },
+    {
+      "season": 3,
+      "episode": 82,
+      "title": "Starter Pack",
+      "diziid": "sd",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/83/baslangic_paketi"
+    },
+    {
+      "season": 1,
+      "episode": 83,
+      "title": "Terror Tales of the Park II",
+      "diziid": "sd",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/84/parkin_korku_hikayeleri_ii"
+    },
+    {
+      "season": 6,
+      "episode": 84,
+      "title": "Pie Contest",
+      "diziid": "sd",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/86/turta_yarismasi"
+    },
+    {
+      "season": 7,
+      "episode": 85,
+      "title": "150 Piece Kit",
+      "diziid": "sd",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/87/150_parcalik_set"
+    },
+    {
+      "season": 8,
+      "episode": 86,
+      "title": "Bald Spot",
+      "diziid": "sd",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/88/kel_nokta"
+    },
+    {
+      "season": 9,
+      "episode": 87,
+      "title": "Guys Night",
+      "diziid": "sd",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/89/erkek_gecesi"
+    },
+    {
+      "season": 10,
+      "episode": 88,
+      "title": "One Pull Up",
+      "diziid": "sd",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/90/tek_bir_barfiks"
+    },
+    {
+      "season": 1,
+      "episode": 89,
+      "title": "The Christmas Special",
+      "diziid": "sd",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/91/yilbasi_ozel_bolumu"
+    },
+    {
+      "season": 13,
+      "episode": 90,
+      "title": "T.G.I. Tuesday",
+      "diziid": "sd",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/93/tanriya_sukur_sali_oldu"
+    },
+    {
+      "season": 14,
+      "episode": 91,
+      "title": "Firework Run",
+      "diziid": "sd",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/94/havai_fisek"
+    },
+    {
+      "season": 15,
+      "episode": 92,
+      "title": "The Longest Weekend",
+      "diziid": "sd",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/95/en_uzun_hafta_sonu"
+    },
+    {
+      "season": 16,
+      "episode": 93,
+      "title": "Sandwich of Death",
+      "diziid": "sd",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/96/olum_sandvici"
+    },
+    {
+      "season": 17,
+      "episode": 94,
+      "title": "Ace Balthazar Lives",
+      "diziid": "sd",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/97/ace_balthazar_yasiyor"
+    },
+    {
+      "season": 18,
+      "episode": 95,
+      "title": "Do or Diaper",
+      "diziid": "sd",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/98/ya_op_ya_bez_tak"
+    },
+    {
+      "season": 19,
+      "episode": 96,
+      "title": "Quips",
+      "diziid": "sd",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/99/quips"
+    },
+    {
+      "season": 20,
+      "episode": 97,
+      "title": "Caveman",
+      "diziid": "sd",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/100/magara_adami"
+    },
+    {
+      "season": 21,
+      "episode": 98,
+      "title": "That's My Television",
+      "diziid": "sd",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/101/benim_televizyonum"
+    },
+    {
+      "season": 22,
+      "episode": 99,
+      "title": "A Bunch of Full Grown Geese",
+      "diziid": "sd",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/102/bir_suru_buyumus_kaz"
+    },
+    {
+      "season": 23,
+      "episode": 100,
+      "title": "Fool Me Twice",
+      "diziid": "sd",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/103/kandir_bakalim"
+    },
+    {
+      "season": 24,
+      "episode": 101,
+      "title": "Limousine Lunchtime",
+      "diziid": "sd",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/104/limuzinde_yemek"
+    },
+    {
+      "season": 25,
+      "episode": 102,
+      "title": "Picking Up Margaret",
+      "diziid": "sd",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/105/margareti_alirken"
+    },
+    {
+      "season": 26,
+      "episode": 103,
+      "title": "K.I.L.I.T. Radio",
+      "diziid": "sd",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/106/k.i.l.i.t._radyo"
+    },
+    {
+      "season": 27,
+      "episode": 104,
+      "title": "Carter and Briggs",
+      "diziid": "sd",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/107/carter_ve_briggs"
+    },
+    {
+      "season": 28,
+      "episode": 105,
+      "title": "Skips' Stress",
+      "diziid": "sd",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/108/skipsin_stresi"
+    },
+    {
+      "season": 30,
+      "episode": 106,
+      "title": "Trailer Trashed",
+      "diziid": "sd",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/110/hurda_karavan"
+    },
+    {
+      "season": 31,
+      "episode": 107,
+      "title": "Meteor Moves",
+      "diziid": "sd",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/111/meteor_yagmuru"
+    },
+    {
+      "season": 32,
+      "episode": 108,
+      "title": "Family BBQ",
+      "diziid": "sd",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/112/aile_yemegi"
+    },
+    {
+      "season": 33,
+      "episode": 109,
+      "title": "The Last LaserDisc Player",
+      "diziid": "sd",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/113/son_lazerdisk_oynatici"
+    },
+    {
+      "season": 34,
+      "episode": 110,
+      "title": "Country Club",
+      "diziid": "sd",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/114/golf_kulubu"
+    },
+    {
+      "season": 35,
+      "episode": 111,
+      "title": "Blind Trust",
+      "diziid": "sd",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/115/guven_sorunu"
+    },
+    {
+      "season": 36,
+      "episode": 112,
+      "title": "World's Best Boss",
+      "diziid": "sd",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/116/dunyanin_en_iyi_patronu"
+    },
+    {
+      "season": 37,
+      "episode": 113,
+      "title": "Last Meal",
+      "diziid": "sd",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/117/son_yemek"
+    },
+    {
+      "season": 38,
+      "episode": 114,
+      "title": "Sleep Fighter",
+      "diziid": "sd",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/118/uyku_savascisi"
+    },
+    {
+      "season": 39,
+      "episode": 115,
+      "title": "Party Re-Pete",
+      "diziid": "sd",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/119/parti_zamani"
+    },
+    {
+      "season": 40,
+      "episode": 116,
+      "title": "Steak Me Amadeus",
+      "diziid": "sd",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/120/amadeus_restorani"
+    },
+    {
+      "season": 1,
+      "episode": 117,
+      "title": "Laundry Woes",
+      "diziid": "sd",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/121/camasir_derdi"
+    },
+    {
+      "season": 2,
+      "episode": 118,
+      "title": "Silver Dude",
+      "diziid": "sd",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/122/gumus_adam"
+    },
+    {
+      "season": 3,
+      "episode": 119,
+      "title": "Benson's Car",
+      "diziid": "sd",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/123/bensonin_arabasi"
+    },
+    {
+      "season": 4,
+      "episode": 120,
+      "title": "Every Meat Burritos",
+      "diziid": "sd",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/124/cok_etli_gozleme"
+    },
+    {
+      "season": 5,
+      "episode": 121,
+      "title": "Wall Buddy",
+      "diziid": "sd",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/125/duvar_arkadasi"
+    },
+    {
+      "season": 6,
+      "episode": 122,
+      "title": "A Skips in Time",
+      "diziid": "sd",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/126/skipsin_zaman_yolculugu"
+    },
+    {
+      "season": 7,
+      "episode": 123,
+      "title": "Survival Skills",
+      "diziid": "sd",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/127/hayatta_kalma_sanati"
+    },
+    {
+      "season": 1,
+      "episode": 124,
+      "title": "Terror Tales of the Park III",
+      "diziid": "sd",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/128/parkta_teror_masallari_iii"
+    },
+    {
+      "season": 10,
+      "episode": 125,
+      "title": "Tants",
+      "diziid": "sd",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/130/pantolon_masa"
+    },
+    {
+      "season": 11,
+      "episode": 126,
+      "title": "Bank Shot",
+      "diziid": "sd",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/131/pota_atisi"
+    },
+    {
+      "season": 12,
+      "episode": 127,
+      "title": "Power Tower",
+      "diziid": "sd",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/132/guc_kulesi"
+    },
+    {
+      "season": 1,
+      "episode": 128,
+      "title": "The Thanksgiving Special",
+      "diziid": "sd",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/133/sukran_gunu_ozel"
+    },
+    {
+      "season": 15,
+      "episode": 129,
+      "title": "The Heart of a Stuntman",
+      "diziid": "sd",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/135/dublorun_kalbi"
+    },
+    {
+      "season": 16,
+      "episode": 130,
+      "title": "New Year's Kiss",
+      "diziid": "sd",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/136/yeni_yil_opucugu"
+    },
+    {
+      "season": 17,
+      "episode": 131,
+      "title": "Dodge This",
+      "diziid": "sd",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/137/yakartop"
+    },
+    {
+      "season": 18,
+      "episode": 132,
+      "title": "Portable Toilet",
+      "diziid": "sd",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/138/portatif_tuvalet"
+    },
+    {
+      "season": 19,
+      "episode": 133,
+      "title": "The Postcard",
+      "diziid": "sd",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/139/kartpostal"
+    },
+    {
+      "season": 20,
+      "episode": 134,
+      "title": "Rigby in the Sky with Burrito",
+      "diziid": "sd",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/140/rigbynin_gokyuzu_atlayisi"
+    },
+    {
+      "season": 21,
+      "episode": 135,
+      "title": "Journey to the Bottom of the Crash Pit",
+      "diziid": "sd",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/141/cukurun_dibine_seyahat"
+    },
+    {
+      "season": 22,
+      "episode": 136,
+      "title": "Saving Time",
+      "diziid": "sd",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/142/yaz_saati_uygulamasi"
+    },
+    {
+      "season": 23,
+      "episode": 137,
+      "title": "Guitar of Rock",
+      "diziid": "sd",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/143/rockin_gitari"
+    },
+    {
+      "season": 1,
+      "episode": 138,
+      "title": "Skips' Story",
+      "diziid": "sd",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/144/skipsin_hikayesi"
+    },
+    {
+      "season": 26,
+      "episode": 139,
+      "title": "Return of Mordecai and the Rigbys",
+      "diziid": "sd",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/146/mordecai_ve_rigbynin_donusu"
+    },
+    {
+      "season": 27,
+      "episode": 140,
+      "title": "Bad Portrait",
+      "diziid": "sd",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/147/kotu_portre"
+    },
+    {
+      "season": 28,
+      "episode": 141,
+      "title": "Video 101",
+      "diziid": "sd",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/148/video_101"
+    },
+    {
+      "season": 29,
+      "episode": 142,
+      "title": "I Like You Hi",
+      "diziid": "sd",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/149/merhaba_senden_hoslaniyorum"
+    },
+    {
+      "season": 30,
+      "episode": 143,
+      "title": "Play Date",
+      "diziid": "sd",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/150/randevu"
+    },
+    {
+      "season": 31,
+      "episode": 144,
+      "title": "Expert or Liar",
+      "diziid": "sd",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/151/uzman_misin_yalanci_mi"
+    },
+    {
+      "season": 32,
+      "episode": 145,
+      "title": "Catching the Wave",
+      "diziid": "sd",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/152/dalgayi_yakalamak"
+    },
+    {
+      "season": 33,
+      "episode": 146,
+      "title": "Gold Watch",
+      "diziid": "sd",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/153/altin_saat"
+    },
+    {
+      "season": 34,
+      "episode": 147,
+      "title": "Paint Job",
+      "diziid": "sd",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/154/boya_isi"
+    },
+    {
+      "season": 35,
+      "episode": 148,
+      "title": "Take the Cake",
+      "diziid": "sd",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/155/pastayi_al"
+    },
+    {
+      "season": 36,
+      "episode": 149,
+      "title": "Skips in the Saddle",
+      "diziid": "sd",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/156/skipsin_randevusu"
+    },
+    {
+      "season": 37,
+      "episode": 150,
+      "title": "Thomas Fights Back",
+      "diziid": "sd",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/157/thomasin_mucadelesi"
+    },
+    {
+      "season": 38,
+      "episode": 151,
+      "title": "Bachelor Party! Zingo!!",
+      "diziid": "sd",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/158/bekarliga_veda_partisi%21"
+    },
+    {
+      "season": 39,
+      "episode": 152,
+      "title": "Tent Trouble",
+      "diziid": "sd",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/159/cadir_sorunu"
+    },
+    {
+      "season": 40,
+      "episode": 153,
+      "title": "Real Date",
+      "diziid": "sd",
+      "bolum": "160",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/160/gercek_randevu"
+    },
+    {
+      "season": 1,
+      "episode": 154,
+      "title": "Maxin' and Relaxin'",
+      "diziid": "sd",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/161/yukselme_ve_rahatlama"
+    },
+    {
+      "season": 2,
+      "episode": 155,
+      "title": "New Bro on Campus",
+      "diziid": "sd",
+      "bolum": "162",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/162/kampusteki_yeni_kardes"
+    },
+    {
+      "season": 3,
+      "episode": 156,
+      "title": "Daddy Issues",
+      "diziid": "sd",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/163/baba_meselesi"
+    },
+    {
+      "season": 1,
+      "episode": 157,
+      "title": "The Hole / Unfinished Business",
+      "diziid": "sd",
+      "bolum": "164",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/164/delik__bitmemis_is"
+    },
+    {
+      "season": 6,
+      "episode": 158,
+      "title": "The End of Muscle Man",
+      "diziid": "sd",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/166/kas_adamin_sonu"
+    },
+    {
+      "season": 7,
+      "episode": 159,
+      "title": "Lift With Your Back",
+      "diziid": "sd",
+      "bolum": "167",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/167/sirtinla_kaldir"
+    },
+    {
+      "season": 8,
+      "episode": 160,
+      "title": "Eileen Flat Screen",
+      "diziid": "sd",
+      "bolum": "168",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/168/eileen_duz_ekran"
+    },
+    {
+      "season": 1,
+      "episode": 161,
+      "title": "The Real Thomas",
+      "diziid": "sd",
+      "bolum": "169",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/169/gercek_thomas"
+    },
+    {
+      "season": 11,
+      "episode": 162,
+      "title": "The White Elephant Gift Exchange",
+      "diziid": "sd",
+      "bolum": "171",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/171/beyaz_fil_hediye_degisimi"
+    },
+    {
+      "season": 12,
+      "episode": 163,
+      "title": "Merry Christmas Mordecai",
+      "diziid": "sd",
+      "bolum": "172",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/172/mutlu_noeller_mordecai"
+    },
+    {
+      "season": 13,
+      "episode": 164,
+      "title": "Sad Sax",
+      "diziid": "sd",
+      "bolum": "173",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/173/uzgun_saksafon"
+    },
+    {
+      "season": 14,
+      "episode": 165,
+      "title": "Park Managers' Lunch",
+      "diziid": "sd",
+      "bolum": "174",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/174/park_mudurleri_yemegi"
+    },
+    {
+      "season": 15,
+      "episode": 166,
+      "title": "Mordecai and Rigby Down Under",
+      "diziid": "sd",
+      "bolum": "175",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/175/mordecai_ve_rigby_avustralyada"
+    },
+    {
+      "season": 16,
+      "episode": 167,
+      "title": "Married and Broke",
+      "diziid": "sd",
+      "bolum": "176",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/176/evli_ve_bes_parasiz"
+    },
+    {
+      "season": 17,
+      "episode": 168,
+      "title": "I See Turtles",
+      "diziid": "sd",
+      "bolum": "177",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/177/kaplumbagalari_goruyorum"
+    },
+    {
+      "season": 18,
+      "episode": 169,
+      "title": "Format Wars II",
+      "diziid": "sd",
+      "bolum": "178",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/178/format_savaslari_ii"
+    },
+    {
+      "season": 19,
+      "episode": 170,
+      "title": "Happy Birthday Song Contest",
+      "diziid": "sd",
+      "bolum": "179",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/179/dogum_gunu_sarki_yarismasi"
+    },
+    {
+      "season": 20,
+      "episode": 171,
+      "title": "Benson's Suit",
+      "diziid": "sd",
+      "bolum": "180",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/180/bensonin_takimi"
+    },
+    {
+      "season": 21,
+      "episode": 172,
+      "title": "Gamers Never Say Die",
+      "diziid": "sd",
+      "bolum": "181",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/181/oyuncular_asla_pes_etmez"
+    },
+    {
+      "season": 22,
+      "episode": 173,
+      "title": "1000th Chopper Flight Party",
+      "diziid": "sd",
+      "bolum": "182",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/182/helikopterin_1000._ucus_partisi"
+    },
+    {
+      "season": 23,
+      "episode": 174,
+      "title": "Party Horse",
+      "diziid": "sd",
+      "bolum": "183",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/183/parti_ati"
+    },
+    {
+      "season": 24,
+      "episode": 175,
+      "title": "Men in Uniform",
+      "diziid": "sd",
+      "bolum": "184",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/184/uniformali_adamlar"
+    },
+    {
+      "season": 25,
+      "episode": 176,
+      "title": "Garage Door",
+      "diziid": "sd",
+      "bolum": "185",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/185/garaj_kapisi"
+    },
+    {
+      "season": 1,
+      "episode": 177,
+      "title": "Brilliant Century Duck Crisis Special",
+      "diziid": "sd",
+      "bolum": "186",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/186/parlak_yuzyil_ordek_krizi"
+    },
+    {
+      "season": 28,
+      "episode": 178,
+      "title": "Not Great Double Date",
+      "diziid": "sd",
+      "bolum": "188",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/188/hos_olmayan_ikili_bulusma"
+    },
+    {
+      "season": 30,
+      "episode": 179,
+      "title": "Lunch Break",
+      "diziid": "sd",
+      "bolum": "190",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/190/yemek_molasi"
+    },
+    {
+      "season": 31,
+      "episode": 180,
+      "title": "Dumped at the Altar",
+      "diziid": "sd",
+      "bolum": "191",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/191/mihrapta_terk"
+    },
+    {
+      "season": 1,
+      "episode": 181,
+      "title": "Dumptown U.S.A.",
+      "diziid": "sd",
+      "bolum": "192",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/192/terk_edilenler_sehri"
+    },
+    {
+      "season": 2,
+      "episode": 182,
+      "title": "The Parkie Awards",
+      "diziid": "sd",
+      "bolum": "193",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/193/park_odulleri"
+    },
+    {
+      "season": 3,
+      "episode": 183,
+      "title": "The Lunch Club",
+      "diziid": "sd",
+      "bolum": "194",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/194/yemek_kulubu"
+    },
+    {
+      "season": 4,
+      "episode": 184,
+      "title": "Local News Legends",
+      "diziid": "sd",
+      "bolum": "195",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/195/yerel_haber_efsaneleri"
+    },
+    {
+      "season": 1,
+      "episode": 185,
+      "title": "The Dome Experiment Special",
+      "diziid": "sd",
+      "bolum": "196",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/196/kubbe_deneyi_ozel_bolumu"
+    },
+    {
+      "season": 7,
+      "episode": 186,
+      "title": "Birthday Gift",
+      "diziid": "sd",
+      "bolum": "198",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/198/dogum_gunu_hediyesi"
+    },
+    {
+      "season": 8,
+      "episode": 187,
+      "title": "Cat Videos",
+      "diziid": "sd",
+      "bolum": "199",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/199/kedi_videolari"
+    },
+    {
+      "season": 9,
+      "episode": 188,
+      "title": "Struck by Lightning",
+      "diziid": "sd",
+      "bolum": "200",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/200/yildirim_carpmasi"
+    },
+    {
+      "season": 1,
+      "episode": 189,
+      "title": "Terror Tales of the Park V",
+      "diziid": "sd",
+      "bolum": "201",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/201/parkin_korku_hikayeleri_v"
+    },
+    {
+      "season": 12,
+      "episode": 190,
+      "title": "The Return of Party Horse",
+      "diziid": "sd",
+      "bolum": "203",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/203/parti_atinin_donusu"
+    },
+    {
+      "season": 13,
+      "episode": 191,
+      "title": "Sleep Cycle",
+      "diziid": "sd",
+      "bolum": "204",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/204/uyku_dongusu"
+    },
+    {
+      "season": 14,
+      "episode": 192,
+      "title": "Just Friends",
+      "diziid": "sd",
+      "bolum": "205",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/205/arkadaslik"
+    },
+    {
+      "season": 15,
+      "episode": 193,
+      "title": "Benson's Pig",
+      "diziid": "sd",
+      "bolum": "206",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/206/bensonin_domuzu"
+    },
+    {
+      "season": 16,
+      "episode": 194,
+      "title": "The Eileen Plan",
+      "diziid": "sd",
+      "bolum": "207",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/207/eileenin_plani"
+    },
+    {
+      "season": 17,
+      "episode": 195,
+      "title": "Hello China",
+      "diziid": "sd",
+      "bolum": "208",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/208/merhaba_cin"
+    },
+    {
+      "season": 18,
+      "episode": 196,
+      "title": "Crazy Fake Plan",
+      "diziid": "sd",
+      "bolum": "209",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/209/cilgin_sahte_plan"
+    },
+    {
+      "season": 19,
+      "episode": 197,
+      "title": "Win That Prize",
+      "diziid": "sd",
+      "bolum": "210",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/210/o_odulu_kazan"
+    },
+    {
+      "season": 20,
+      "episode": 198,
+      "title": "Snow Tubing",
+      "diziid": "sd",
+      "bolum": "211",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/211/bot_kayagi"
+    },
+    {
+      "season": 21,
+      "episode": 199,
+      "title": "Chili Cook Off",
+      "diziid": "sd",
+      "bolum": "212",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/212/acili_fasulye_yarismasi"
+    },
+    {
+      "season": 22,
+      "episode": 200,
+      "title": "Donut Factory Holiday",
+      "diziid": "sd",
+      "bolum": "213",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/213/corek_fabrikasi_tatili"
+    },
+    {
+      "season": 23,
+      "episode": 201,
+      "title": "Gymblonski",
+      "diziid": "sd",
+      "bolum": "214",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/214/gymblonski"
+    },
+    {
+      "season": 24,
+      "episode": 202,
+      "title": "Guys Night 2",
+      "diziid": "sd",
+      "bolum": "215",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/215/erkekler_gecesi_2"
+    },
+    {
+      "season": 25,
+      "episode": 203,
+      "title": "Gary's Synthesizer",
+      "diziid": "sd",
+      "bolum": "216",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/216/garynin_synthersizeri"
+    },
+    {
+      "season": 26,
+      "episode": 204,
+      "title": "California King",
+      "diziid": "sd",
+      "bolum": "217",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/217/kaliforniya_krali"
+    },
+    {
+      "season": 27,
+      "episode": 205,
+      "title": "Cube Bros",
+      "diziid": "sd",
+      "bolum": "218",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/218/kup_kardesler"
+    },
+    {
+      "season": 28,
+      "episode": 206,
+      "title": "Maellard's Package",
+      "diziid": "sd",
+      "bolum": "219",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/219/maellardin_paketi"
+    },
+    {
+      "season": 29,
+      "episode": 207,
+      "title": "Rigby Goes to the Prom",
+      "diziid": "sd",
+      "bolum": "220",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/220/rigby_mezuniyet_balosunda"
+    },
+    {
+      "season": 30,
+      "episode": 208,
+      "title": "The Button",
+      "diziid": "sd",
+      "bolum": "221",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/221/dugme"
+    },
+    {
+      "season": 31,
+      "episode": 209,
+      "title": "Favorite Shirt",
+      "diziid": "sd",
+      "bolum": "222",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/222/en_sevdigi_tisort"
+    },
+    {
+      "season": 32,
+      "episode": 210,
+      "title": "Marvolo the Wizard",
+      "diziid": "sd",
+      "bolum": "223",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/223/sihirbaz_marvolo"
+    },
+    {
+      "season": 33,
+      "episode": 211,
+      "title": "Pops' Favorite Planet",
+      "diziid": "sd",
+      "bolum": "224",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/224/popsin_en_sevdigi_gezegen"
+    },
+    {
+      "season": 34,
+      "episode": 212,
+      "title": "Pam I Am",
+      "diziid": "sd",
+      "bolum": "225",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/225/ben_pam"
+    },
+    {
+      "season": 35,
+      "episode": 213,
+      "title": "Lame Lockdown",
+      "diziid": "sd",
+      "bolum": "226",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/226/gereksiz_tecrit"
+    },
+    {
+      "season": 36,
+      "episode": 214,
+      "title": "VIP Members Only",
+      "diziid": "sd",
+      "bolum": "227",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/227/sadece_ozel_uyeler"
+    },
+    {
+      "season": 37,
+      "episode": 215,
+      "title": "Deez Keys",
+      "diziid": "sd",
+      "bolum": "228",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/228/o_anahtarlar"
+    },
+    {
+      "season": 1,
+      "episode": 216,
+      "title": "Rigby's Graduation Day Special",
+      "diziid": "sd",
+      "bolum": "229",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/229/rigbynin_mezuniyet_ozel_bolumu"
+    },
+    {
+      "season": 1,
+      "episode": 217,
+      "title": "One Space Day at a Time",
+      "diziid": "sd",
+      "bolum": "231",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/231/uzayda_bir_gun"
+    },
+    {
+      "season": 2,
+      "episode": 218,
+      "title": "Cool Bro Bots",
+      "diziid": "sd",
+      "bolum": "232",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/232/dost_robotlar"
+    },
+    {
+      "season": 3,
+      "episode": 219,
+      "title": "Welcome to Space",
+      "diziid": "sd",
+      "bolum": "233",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/233/uzaya_hos_geldin"
+    },
+    {
+      "season": 4,
+      "episode": 220,
+      "title": "Space Creds",
+      "diziid": "sd",
+      "bolum": "234",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/234/uzay_kredisi"
+    },
+    {
+      "season": 5,
+      "episode": 221,
+      "title": "Lost and Found",
+      "diziid": "sd",
+      "bolum": "235",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/235/kayip_esya"
+    },
+    {
+      "season": 6,
+      "episode": 222,
+      "title": "Ugly Moons",
+      "diziid": "sd",
+      "bolum": "236",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/236/esek_sakasi"
+    },
+    {
+      "season": 7,
+      "episode": 223,
+      "title": "The Dream Warrior",
+      "diziid": "sd",
+      "bolum": "237",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/237/ruya_savascisi"
+    },
+    {
+      "season": 8,
+      "episode": 224,
+      "title": "The Brain of Evil",
+      "diziid": "sd",
+      "bolum": "238",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/238/kotu_beyin"
+    },
+    {
+      "season": 9,
+      "episode": 225,
+      "title": "Fries Night",
+      "diziid": "sd",
+      "bolum": "239",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/239/patates_gecesi"
+    },
+    {
+      "season": 10,
+      "episode": 226,
+      "title": "Spacey McSpaceTree",
+      "diziid": "sd",
+      "bolum": "240",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/240/uzay_agaci_spacey"
+    },
+    {
+      "season": 11,
+      "episode": 227,
+      "title": "Can You Ear Me Now?",
+      "diziid": "sd",
+      "bolum": "241",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/241/beni_duyabiliyor_musunuz"
+    },
+    {
+      "season": 12,
+      "episode": 228,
+      "title": "Stuck in an Elevator",
+      "diziid": "sd",
+      "bolum": "242",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/242/asansor_arizasi"
+    },
+    {
+      "season": 13,
+      "episode": 229,
+      "title": "The Space Race",
+      "diziid": "sd",
+      "bolum": "243",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/243/uzay_yarisi"
+    },
+    {
+      "season": 14,
+      "episode": 230,
+      "title": "Operation: Hear No Evil",
+      "diziid": "sd",
+      "bolum": "244",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/244/operasyon_duymadim"
+    },
+    {
+      "season": 15,
+      "episode": 231,
+      "title": "Space Escape",
+      "diziid": "sd",
+      "bolum": "245",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/245/uzay_kacisi"
+    },
+    {
+      "season": 16,
+      "episode": 232,
+      "title": "New Beds",
+      "diziid": "sd",
+      "bolum": "246",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/246/yeni_yataklar"
+    },
+    {
+      "season": 17,
+      "episode": 233,
+      "title": "Mordeby and Rigbecai",
+      "diziid": "sd",
+      "bolum": "247",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/247/mordeby_ve_rigbecai"
+    },
+    {
+      "season": 18,
+      "episode": 234,
+      "title": "Alpha Dome",
+      "diziid": "sd",
+      "bolum": "248",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/248/alfa_kubbe"
+    },
+    {
+      "season": 1,
+      "episode": 235,
+      "title": "Terror Tales of the Park VI",
+      "diziid": "sd",
+      "bolum": "249",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/249/parkin_korku_hikayeleri_vi"
+    },
+    {
+      "season": 21,
+      "episode": 236,
+      "title": "The Ice Tape",
+      "diziid": "sd",
+      "bolum": "251",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/251/buz_kaset"
+    },
+    {
+      "season": 22,
+      "episode": 237,
+      "title": "The Key to the Universe",
+      "diziid": "sd",
+      "bolum": "252",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/252/evrenin_anahtari"
+    },
+    {
+      "season": 23,
+      "episode": 238,
+      "title": "No Train No Gain",
+      "diziid": "sd",
+      "bolum": "253",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/253/aci_yoksa_kazanc_da_yok"
+    },
+    {
+      "season": 1,
+      "episode": 239,
+      "title": "Christmas in Space",
+      "diziid": "sd",
+      "bolum": "254",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/254/uzayda_noel"
+    },
+    {
+      "season": 26,
+      "episode": 240,
+      "title": "Kill 'Em with Kindness",
+      "diziid": "sd",
+      "bolum": "256",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/256/onlari_kibarliginla_utandir"
+    },
+    {
+      "season": 27,
+      "episode": 241,
+      "title": "Meet the Seer",
+      "diziid": "sd",
+      "bolum": "257",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/257/kahinle_tanisma"
+    },
+    {
+      "season": 28,
+      "episode": 242,
+      "title": "Cheer Up Pops",
+      "diziid": "sd",
+      "bolum": "258",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/258/neselen_pops"
+    },
+    {
+      "season": 29,
+      "episode": 243,
+      "title": "A Regular Epic Final Battle, Part 1",
+      "diziid": "sd",
+      "bolum": "259",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/259/daimi_epik_son_savas_1.kisim"
+    },
+    {
+      "season": 30,
+      "episode": 244,
+      "title": "A Regular Epic Final Battle, Part 2",
+      "diziid": "sd",
+      "bolum": "260",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/260/daimi_epik_son_savas_2.kisim"
+    },
+    {
+      "season": 31,
+      "episode": 245,
+      "title": "The Power",
+      "diziid": "sd",
+      "bolum": "261",
+      "url": "https://cizgivedizi.com/dizi/sd/surekli_dizi/261/guc"
+    }
+  ]
+}

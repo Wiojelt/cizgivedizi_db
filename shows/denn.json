@@ -1,0 +1,828 @@
+{
+  "id": "denn",
+  "title": "afacan dennis",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/DENNPoster.avif",
+  "channel": "Yumurcak TV",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "So Long, Old Paint",
+      "diziid": "denn",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/1/cok_uzun_eski_boya"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Trembly Assembly",
+      "diziid": "denn",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/2/titreyen_montaj"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Private I",
+      "diziid": "denn",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/3/dedektif_dennis"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "A Visitor from Outer Space",
+      "diziid": "denn",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/4/uzayli_ziyaretci"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Train That Boy",
+      "diziid": "denn",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/5/tren_yolculugu"
+    },
+    {
+      "season": 10,
+      "episode": 6,
+      "title": "Shark Treatment",
+      "diziid": "denn",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/10/kopek_baligi"
+    },
+    {
+      "season": 16,
+      "episode": 7,
+      "title": "Fishing for Trouble",
+      "diziid": "denn",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/16/baliga_cikmak"
+    },
+    {
+      "season": 17,
+      "episode": 8,
+      "title": "Future Fortune",
+      "diziid": "denn",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/17/gelecek_sansi"
+    },
+    {
+      "season": 18,
+      "episode": 9,
+      "title": "Time Bomb",
+      "diziid": "denn",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/18/paket_teslimi"
+    },
+    {
+      "season": 19,
+      "episode": 10,
+      "title": "Spa Blahs",
+      "diziid": "denn",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/19/saglik_kulubu"
+    },
+    {
+      "season": 20,
+      "episode": 11,
+      "title": "Whale of a Tale",
+      "diziid": "denn",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/20/alaska"
+    },
+    {
+      "season": 21,
+      "episode": 12,
+      "title": "Disaster on the Green",
+      "diziid": "denn",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/21/golf"
+    },
+    {
+      "season": 25,
+      "episode": 13,
+      "title": "The Price of Stardom",
+      "diziid": "denn",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/25/tiyatro"
+    },
+    {
+      "season": 26,
+      "episode": 14,
+      "title": "Space Menace",
+      "diziid": "denn",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/26/uzay_tehdidi"
+    },
+    {
+      "season": 27,
+      "episode": 15,
+      "title": "The Magic Flute",
+      "diziid": "denn",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/27/sihirli_flut"
+    },
+    {
+      "season": 28,
+      "episode": 16,
+      "title": "Dennis' Yard Sale",
+      "diziid": "denn",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/28/dennisin_bahce_satisi"
+    },
+    {
+      "season": 29,
+      "episode": 17,
+      "title": "The Abominable Snow Menace",
+      "diziid": "denn",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/29/kar"
+    },
+    {
+      "season": 30,
+      "episode": 18,
+      "title": "It Came from the Planet Dennis",
+      "diziid": "denn",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/30/temizlik_robotu"
+    },
+    {
+      "season": 32,
+      "episode": 19,
+      "title": "A Moving Experience",
+      "diziid": "denn",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/32/hareketli_bir_deneyim"
+    },
+    {
+      "season": 33,
+      "episode": 20,
+      "title": "Lemon-Aid",
+      "diziid": "denn",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/33/limonata"
+    },
+    {
+      "season": 37,
+      "episode": 21,
+      "title": "The Supermarket",
+      "diziid": "denn",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/37/supermarket"
+    },
+    {
+      "season": 38,
+      "episode": 22,
+      "title": "The Big Candied Apple",
+      "diziid": "denn",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/38/new_york_ziyareti"
+    },
+    {
+      "season": 39,
+      "episode": 23,
+      "title": "The Defective Detector",
+      "diziid": "denn",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/39/dedektor"
+    },
+    {
+      "season": 40,
+      "episode": 24,
+      "title": "Henry the Menace",
+      "diziid": "denn",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/40/afacan_henry"
+    },
+    {
+      "season": 41,
+      "episode": 25,
+      "title": "Come Fly with Me",
+      "diziid": "denn",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/41/benimle_uc"
+    },
+    {
+      "season": 42,
+      "episode": 26,
+      "title": "Camping Out",
+      "diziid": "denn",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/42/kamp"
+    },
+    {
+      "season": 43,
+      "episode": 27,
+      "title": "Up Up and Away (From Here)",
+      "diziid": "denn",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/43/yukari_yukari"
+    },
+    {
+      "season": 49,
+      "episode": 28,
+      "title": "A Better Mousetrap",
+      "diziid": "denn",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/49/daha_iyi_bir_fare_kapani"
+    },
+    {
+      "season": 51,
+      "episode": 29,
+      "title": "Canine Car Wash",
+      "diziid": "denn",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/51/kopek_yikama"
+    },
+    {
+      "season": 52,
+      "episode": 30,
+      "title": "Ride 'Em Cowboy",
+      "diziid": "denn",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/52/kovboy"
+    },
+    {
+      "season": 53,
+      "episode": 31,
+      "title": "Tenting Tonight",
+      "diziid": "denn",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/53/cadir"
+    },
+    {
+      "season": 54,
+      "episode": 32,
+      "title": "A Hair Raising Tale",
+      "diziid": "denn",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/54/tuyler_urpertici"
+    },
+    {
+      "season": 55,
+      "episode": 33,
+      "title": "Snowman Madness",
+      "diziid": "denn",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/55/kardan_adam_cilginligi"
+    },
+    {
+      "season": 56,
+      "episode": 34,
+      "title": "The Invisible Kid",
+      "diziid": "denn",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/56/gorunmez_cocuk"
+    },
+    {
+      "season": 57,
+      "episode": 35,
+      "title": "Home Destruction",
+      "diziid": "denn",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/57/ev_yikimi"
+    },
+    {
+      "season": 61,
+      "episode": 36,
+      "title": "Strong Medicine",
+      "diziid": "denn",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/61/guclu_ilac"
+    },
+    {
+      "season": 62,
+      "episode": 37,
+      "title": "Gold Strike",
+      "diziid": "denn",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/62/altin_saldirisi"
+    },
+    {
+      "season": 63,
+      "episode": 38,
+      "title": "Lights! Camera! Mud!",
+      "diziid": "denn",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/63/isiklar%2C_kamera..._camur%21"
+    },
+    {
+      "season": 64,
+      "episode": 39,
+      "title": "Invasion of the Blob",
+      "diziid": "denn",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/64/damla"
+    },
+    {
+      "season": 65,
+      "episode": 40,
+      "title": "Wild West Show-Down",
+      "diziid": "denn",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/65/vahsi_bati"
+    },
+    {
+      "season": 66,
+      "episode": 41,
+      "title": "The Hen Party",
+      "diziid": "denn",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/66/cay_partisi"
+    },
+    {
+      "season": 73,
+      "episode": 42,
+      "title": "A Couple of Coo-Coos",
+      "diziid": "denn",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/73/guvercinler"
+    },
+    {
+      "season": 74,
+      "episode": 43,
+      "title": "The Cloneheads",
+      "diziid": "denn",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/74/klonlar"
+    },
+    {
+      "season": 75,
+      "episode": 44,
+      "title": "Nothing But the Tooth",
+      "diziid": "denn",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/75/dis"
+    },
+    {
+      "season": 79,
+      "episode": 45,
+      "title": "Dennis Predicts",
+      "diziid": "denn",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/79/tahminci_dennis"
+    },
+    {
+      "season": 80,
+      "episode": 46,
+      "title": "Dennis & the Kangaroo Cavalry",
+      "diziid": "denn",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/80/dennis_avustralyada"
+    },
+    {
+      "season": 81,
+      "episode": 47,
+      "title": "Meatball Mess",
+      "diziid": "denn",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/81/kofte_kargasasi"
+    },
+    {
+      "season": 94,
+      "episode": 48,
+      "title": "The Bicycle Thief",
+      "diziid": "denn",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/94/bisiklet_hirsizi"
+    },
+    {
+      "season": 95,
+      "episode": 49,
+      "title": "Menace of the Mine Shaft",
+      "diziid": "denn",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/95/maden_treni"
+    },
+    {
+      "season": 96,
+      "episode": 50,
+      "title": "Margaret's Birthday Party",
+      "diziid": "denn",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/96/margaretin_dogum_gunu_partisi"
+    },
+    {
+      "season": 97,
+      "episode": 51,
+      "title": "Medieval Evil",
+      "diziid": "denn",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/97/ortacag_kotulugu"
+    },
+    {
+      "season": 100,
+      "episode": 52,
+      "title": "Sounds in the Night",
+      "diziid": "denn",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/100/disarida_kalmak"
+    },
+    {
+      "season": 101,
+      "episode": 53,
+      "title": "Dennis Does Hollywood",
+      "diziid": "denn",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/101/film_seti_ziyareti"
+    },
+    {
+      "season": 102,
+      "episode": 54,
+      "title": "Ruff to the Rescue",
+      "diziid": "denn",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/102/ruff_suclu_mu"
+    },
+    {
+      "season": 109,
+      "episode": 55,
+      "title": "Ruff's Masterpiece",
+      "diziid": "denn",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/109/ruffun_bas_yapiti"
+    },
+    {
+      "season": 111,
+      "episode": 56,
+      "title": "Big Baby",
+      "diziid": "denn",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/111/buyuk_bebek"
+    },
+    {
+      "season": 125,
+      "episode": 57,
+      "title": "Shock Therapy",
+      "diziid": "denn",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/125/sok_terapisi"
+    },
+    {
+      "season": 126,
+      "episode": 58,
+      "title": "Yard Wars",
+      "diziid": "denn",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/126/bahce_savaslari"
+    },
+    {
+      "season": 130,
+      "episode": 59,
+      "title": "Bowling for Dennis",
+      "diziid": "denn",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/130/bowling"
+    },
+    {
+      "season": 131,
+      "episode": 60,
+      "title": "Dennis Conquers the Navy",
+      "diziid": "denn",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/131/dennis_donanmayi_fethediyor"
+    },
+    {
+      "season": 135,
+      "episode": 61,
+      "title": "Wilson for Mayor",
+      "diziid": "denn",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/135/baskan_adayi_bay_wilson"
+    },
+    {
+      "season": 142,
+      "episode": 62,
+      "title": "Dennis Destroys Dallas",
+      "diziid": "denn",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/142/dallas_macerasi"
+    },
+    {
+      "season": 143,
+      "episode": 63,
+      "title": "Black & Blue Hawaii",
+      "diziid": "denn",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/143/yanardag"
+    },
+    {
+      "season": 144,
+      "episode": 64,
+      "title": "Oil's Well That Ends Well",
+      "diziid": "denn",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/144/petrol"
+    },
+    {
+      "season": 149,
+      "episode": 65,
+      "title": "Yo Ho Ho",
+      "diziid": "denn",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/149/garaj_temizligi"
+    },
+    {
+      "season": 151,
+      "episode": 66,
+      "title": "Dennis and the Deep",
+      "diziid": "denn",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/151/dennis_ve_derin"
+    },
+    {
+      "season": 152,
+      "episode": 67,
+      "title": "K-9 Kollege",
+      "diziid": "denn",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/152/ruff_egitim_okuluna_gidiyor"
+    },
+    {
+      "season": 153,
+      "episode": 68,
+      "title": "Housepests",
+      "diziid": "denn",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/153/wilsonlarla_bir_gece"
+    },
+    {
+      "season": 157,
+      "episode": 69,
+      "title": "Quiet Riot",
+      "diziid": "denn",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/157/model_ucak"
+    },
+    {
+      "season": 159,
+      "episode": 70,
+      "title": "A Feeling for Stealing",
+      "diziid": "denn",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/159/dolandiricilar"
+    },
+    {
+      "season": 166,
+      "episode": 71,
+      "title": "Attack of the Giant Tomatoes",
+      "diziid": "denn",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/166/dev_domatesler"
+    },
+    {
+      "season": 167,
+      "episode": 72,
+      "title": "The Dinosaur Doozy",
+      "diziid": "denn",
+      "bolum": "167",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/167/dinozor_yumurtasi"
+    },
+    {
+      "season": 168,
+      "episode": 73,
+      "title": "Funhouse Grouch",
+      "diziid": "denn",
+      "bolum": "168",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/168/eglence_evi"
+    },
+    {
+      "season": 176,
+      "episode": 74,
+      "title": "Dennis in Microchipland",
+      "diziid": "denn",
+      "bolum": "176",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/176/bay_wilsonun_bilgisayari"
+    },
+    {
+      "season": 177,
+      "episode": 75,
+      "title": "Handy Dandy Dennis",
+      "diziid": "denn",
+      "bolum": "177",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/177/ev_isi_yardimcilari_magazasi"
+    },
+    {
+      "season": 181,
+      "episode": 76,
+      "title": "Dennis Rocks Out",
+      "diziid": "denn",
+      "bolum": "181",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/181/kaya"
+    },
+    {
+      "season": 182,
+      "episode": 77,
+      "title": "Deserted with Dennis",
+      "diziid": "denn",
+      "bolum": "182",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/182/issiz_adada"
+    },
+    {
+      "season": 183,
+      "episode": 78,
+      "title": "Fashionable Menace",
+      "diziid": "denn",
+      "bolum": "183",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/183/moda"
+    },
+    {
+      "season": 187,
+      "episode": 79,
+      "title": "Heroes Unwelcome",
+      "diziid": "denn",
+      "bolum": "187",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/187/kahraman_ruff"
+    },
+    {
+      "season": 188,
+      "episode": 80,
+      "title": "The Martians Are Coming",
+      "diziid": "denn",
+      "bolum": "188",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/188/radyo_istasyonu"
+    },
+    {
+      "season": 189,
+      "episode": 81,
+      "title": "Ancient Olympics",
+      "diziid": "denn",
+      "bolum": "189",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/189/antik_olimpiyatlar"
+    },
+    {
+      "season": 190,
+      "episode": 82,
+      "title": "Pool Haul",
+      "diziid": "denn",
+      "bolum": "190",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/190/havuz_tasimaciligi"
+    },
+    {
+      "season": 7,
+      "episode": 83,
+      "title": "Cheer Up",
+      "diziid": "denn",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/7/neselen"
+    },
+    {
+      "season": 8,
+      "episode": 84,
+      "title": "Ghost Blusters",
+      "diziid": "denn",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/8/hayaletlerin_ofkesi"
+    },
+    {
+      "season": 9,
+      "episode": 85,
+      "title": "The Life You Save",
+      "diziid": "denn",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/9/kurtardigin_hayat"
+    },
+    {
+      "season": 11,
+      "episode": 86,
+      "title": "Jungle Bungle",
+      "diziid": "denn",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/11/orman_kargasasi"
+    },
+    {
+      "season": 12,
+      "episode": 87,
+      "title": "Racetrack Menace",
+      "diziid": "denn",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/12/yaris_pisti_tehdidi"
+    },
+    {
+      "season": 3,
+      "episode": 88,
+      "title": "The Incredible Shrinking Dennis",
+      "diziid": "denn",
+      "bolum": "198",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/198/kuculen_dennis"
+    },
+    {
+      "season": 6,
+      "episode": 89,
+      "title": "Pie in the Eye",
+      "diziid": "denn",
+      "bolum": "201",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/201/gozler_ustundeki_pasta"
+    },
+    {
+      "season": 7,
+      "episode": 90,
+      "title": "Instant Replay",
+      "diziid": "denn",
+      "bolum": "202",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/202/aninda_tekrar"
+    },
+    {
+      "season": 13,
+      "episode": 91,
+      "title": "The Great Pie Swap",
+      "diziid": "denn",
+      "bolum": "208",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/208/buyuk_pasta_takasi"
+    },
+    {
+      "season": 14,
+      "episode": 92,
+      "title": "Climb of the Century",
+      "diziid": "denn",
+      "bolum": "209",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/209/yuzyilin_tirmanisi"
+    },
+    {
+      "season": 17,
+      "episode": 93,
+      "title": "Super Duper Dennis",
+      "diziid": "denn",
+      "bolum": "212",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/212/super_muper_dennis"
+    },
+    {
+      "season": 18,
+      "episode": 94,
+      "title": "Ice Show Show-Off",
+      "diziid": "denn",
+      "bolum": "213",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/213/buz_gosterisi"
+    },
+    {
+      "season": 21,
+      "episode": 95,
+      "title": "Dennis of the Jungle",
+      "diziid": "denn",
+      "bolum": "216",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/216/ormanin_dennisi"
+    },
+    {
+      "season": 29,
+      "episode": 96,
+      "title": "Dennis of the Yukon",
+      "diziid": "denn",
+      "bolum": "224",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/224/yukonlu_dennis"
+    },
+    {
+      "season": 31,
+      "episode": 97,
+      "title": "A Fox Tale",
+      "diziid": "denn",
+      "bolum": "226",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/226/tilki_avcilari"
+    },
+    {
+      "season": 33,
+      "episode": 98,
+      "title": "Shared Interest",
+      "diziid": "denn",
+      "bolum": "228",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/228/ilgi"
+    },
+    {
+      "season": 34,
+      "episode": 99,
+      "title": "Kooked Goose",
+      "diziid": "denn",
+      "bolum": "229",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/229/kaz"
+    },
+    {
+      "season": 35,
+      "episode": 100,
+      "title": "Pell Mell Hotel",
+      "diziid": "denn",
+      "bolum": "230",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/230/otel"
+    },
+    {
+      "season": 37,
+      "episode": 101,
+      "title": "The Wright Stuff",
+      "diziid": "denn",
+      "bolum": "232",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/232/gecmiste_ve_ucmak"
+    },
+    {
+      "season": 39,
+      "episode": 102,
+      "title": "Wilson's Night Out",
+      "diziid": "denn",
+      "bolum": "234",
+      "url": "https://cizgivedizi.com/dizi/denn/afacan_dennis/234/bay_wilson_gece_disarida_kaliyor"
+    }
+  ]
+}

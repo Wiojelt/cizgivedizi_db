@@ -1,0 +1,620 @@
+{
+  "id": "skh",
+  "title": "sevimli kahramanlar hikayeler",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SKHPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Curse of the Monkeybird / Harm Wrestling",
+      "diziid": "skh",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/1/maymun_kusun_gizemi__bilek_guresi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Big League Beast / Firehouse Frenzy",
+      "diziid": "skh",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/2/buyuk_lig_canavari__cilgin_itfaiyeciler"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Boo! Appetweet / Bubble Dum",
+      "diziid": "skh",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/3/boo%21_afiyet_olsun__sakiz_sorunu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Pain in the Ice/Tunnel Vision/Pool Bunny",
+      "diziid": "skh",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/4/buzdaki_sorun__tunel_gorseli__tavsan_havuzda"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Pest Coaster/Rhino Ya Don't!",
+      "diziid": "skh",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/5/cilgin_hiz_treni__gergedan_yapma%21"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Buzzard School / Wet Cement",
+      "diziid": "skh",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/6/akbaba_okulu__islak_beton"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Siberian Sam / Fleece & Desist",
+      "diziid": "skh",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/7/sibiryali_sam__al_ve_kac"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Grilled Rabbit / Cactus if You Can",
+      "diziid": "skh",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/8/kizarmis_tavsan__kaktus_bas_et_bas_edebilirsen"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Overdue Duck / Vincent Van Fudd",
+      "diziid": "skh",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/9/soz_dinlemeyen_ordek__vincent_van_fudd"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Hare Restoration/TNT Trouble/Plumber's Quack",
+      "diziid": "skh",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/10/tavsanin_tedavi_yontemi__patlayici_sorunu__tesisatci_ordek"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Bugs Bunny's 24-Carrot Holiday Special",
+      "diziid": "skh",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/11/bugs_bunnynin_24._havuc_tatil_ozel_bolumu"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Daffuccino / Kitty Livin'",
+      "diziid": "skh",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/12/daffucino__kedi_ev"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Chain Gangsters / Falling for It!",
+      "diziid": "skh",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/13/zincirli_suclular__dusuyoruz%21"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Taziator / Climate Control",
+      "diziid": "skh",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/14/tazmanya_canavari__hava_kontrol"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Lepre Conned / Brave New Home",
+      "diziid": "skh",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/15/irlanda_cucesi__cesur_yeni_ev"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Case of Porky's Pants/Fully Vetted",
+      "diziid": "skh",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/16/porkynin_kayip_pantolonu__tam_veteriner_kontrolu"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Erabbitcator / Salesduck",
+      "diziid": "skh",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/17/tavsan_yakalayici_robot__satisci_ordek"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Pitcher Porky / Duck Duck Boom!",
+      "diziid": "skh",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/18/top_atici_porky__patlayan_ordek"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Postalgeist / Fudds Bunny",
+      "diziid": "skh",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/19/posta_servisi_hizli%2C_acele__tavsan_fudd"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Shoe Shine-nanigans/Multiply and Conquer/Parky Pig",
+      "diziid": "skh",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/20/ayakkabi_boyacisi__cogal_ve_fethet__porkynin_park_sorunu"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Shell Shocked/The Daffy Dentist",
+      "diziid": "skh",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/21/sok_edici_durum__dis_hekimi_daffy"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Puma Problems / Duplicate Daffy",
+      "diziid": "skh",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/22/puma_sorunu__daffynin_fotokopileri"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Key-Tastrophe! / A Devil of a Drink",
+      "diziid": "skh",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/23/anahtar_sorunu%21__icecek_canavari"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Weaselin' In! / Time Out!",
+      "diziid": "skh",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/24/iceride_sansar_var%21__zaman_doldu%21"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Bounty Bunny / Vender Bender",
+      "diziid": "skh",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/25/odullu_tavsan__otomat"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Mallard Practice / Born to Be Wile E.",
+      "diziid": "skh",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/26/ordegin_savunmasi__wile_e._olmak_icin_dogmus"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Raging Granny / Spare Me!",
+      "diziid": "skh",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/27/kizgin_buyukanne__tekerlegi_degistirmeliyiz%21"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Marv Attacks!/A Wolf in Cheap Clothing",
+      "diziid": "skh",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/28/marsli_saldirisi%21__ucuz_kiyafet_icindeki_kurt"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "High Speed Hare / Nutty Devil",
+      "diziid": "skh",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/29/son_surat_giden_tavsan__hindistan_cevizi_canavari"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Pigture Perfect / Swoop De Doo!",
+      "diziid": "skh",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/30/mukemmel_fotograf__yakala_onu%21"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "A Pane to Wash / Saddle Sore!",
+      "diziid": "skh",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/31/temizlenmesi_gereken_bina__eyer_vurmak"
+    },
+    {
+      "season": 1,
+      "episode": 32,
+      "title": "Red White and Bruised / Jet Porkpelled",
+      "diziid": "skh",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/32/kirmizi_beyaz_ve_yarali__jet_gibi"
+    },
+    {
+      "season": 2,
+      "episode": 33,
+      "title": "In the Road Again!",
+      "diziid": "skh",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/33/yine_dustuk_yollara%21"
+    },
+    {
+      "season": 3,
+      "episode": 34,
+      "title": "Emotional Support Duck / Adopt Me!",
+      "diziid": "skh",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/34/duygusal_destek_ordegi__beni_sahiplen%21"
+    },
+    {
+      "season": 4,
+      "episode": 35,
+      "title": "Rage Rover / To Hive and to Hold / Battle Stations",
+      "diziid": "skh",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/35/ofkeli_uzay_araci__ari_kovanini_tutmak__radyo_savaslari"
+    },
+    {
+      "season": 5,
+      "episode": 36,
+      "title": "Bonehead",
+      "diziid": "skh",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/36/kemik_kafa"
+    },
+    {
+      "season": 6,
+      "episode": 37,
+      "title": "Rotund Rabbit / Hog Wash",
+      "diziid": "skh",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/37/agir_tavsan__domuz_yikama"
+    },
+    {
+      "season": 7,
+      "episode": 38,
+      "title": "Nip and Duck / Asphalt and Battery",
+      "diziid": "skh",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/38/terzi_ordek__asfalt_batarya"
+    },
+    {
+      "season": 8,
+      "episode": 39,
+      "title": "Battle of the Bunk / Hot Air Buffoon",
+      "diziid": "skh",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/39/ranza_savasi__sicak_hava_sakacisi"
+    },
+    {
+      "season": 9,
+      "episode": 40,
+      "title": "Basket Bugs / A Skate of Confusion!",
+      "diziid": "skh",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/40/basketci_bugs__kafa_karistiran_paten%21"
+    },
+    {
+      "season": 10,
+      "episode": 41,
+      "title": "Mt. Neverest / Fast & Steady",
+      "diziid": "skh",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/41/dag_zirvesi__hizli_ve_surekli"
+    },
+    {
+      "season": 11,
+      "episode": 42,
+      "title": "Looney Tunes Cartoons Back to School Special",
+      "diziid": "skh",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/42/okula_donus_ozel_bolum"
+    },
+    {
+      "season": 1,
+      "episode": 43,
+      "title": "Sam-merica / BBQ Bandit",
+      "diziid": "skh",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/43/sam-merica__barbeku_haydutlari"
+    },
+    {
+      "season": 2,
+      "episode": 44,
+      "title": "Happy Birdy to You",
+      "diziid": "skh",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/44/dogum_gunun_kutlu_olsun"
+    },
+    {
+      "season": 3,
+      "episode": 45,
+      "title": "Frame the Feline / Unlucky Strikes",
+      "diziid": "skh",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/45/kediyi_uzaklastir__sanssiz_vurus"
+    },
+    {
+      "season": 4,
+      "episode": 46,
+      "title": "Cro-Mag Numb Skulls / Trophy Hunter",
+      "diziid": "skh",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/46/tas_devri_tarifleri__odul_avcisi"
+    },
+    {
+      "season": 5,
+      "episode": 47,
+      "title": "Bathy Daffy",
+      "diziid": "skh",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/47/goz_kamastirici_daffy"
+    },
+    {
+      "season": 6,
+      "episode": 48,
+      "title": "Pardon the Garden / Downward Duck",
+      "diziid": "skh",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/48/bahcivan_petunia__bas_asagi_ordek"
+    },
+    {
+      "season": 7,
+      "episode": 49,
+      "title": "Lesson Plan 9 from Outer Space / Portal Kombat",
+      "diziid": "skh",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/49/dersin_konusu%3A_bu_dunyanin_disinda__portal_savasi"
+    },
+    {
+      "season": 8,
+      "episode": 50,
+      "title": "Virtual Mortality / Miner Threat",
+      "diziid": "skh",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/50/sanal_fanilik__madencilik_dayanismasi"
+    },
+    {
+      "season": 9,
+      "episode": 51,
+      "title": "Fowl Ploy / Sword Loser",
+      "diziid": "skh",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/51/kus_taktigi__kralin_kilici"
+    },
+    {
+      "season": 1,
+      "episode": 52,
+      "title": "Ring Master Disaster / The Pain Event",
+      "diziid": "skh",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/52/sirk_felaketi__zorlu_rakip"
+    },
+    {
+      "season": 2,
+      "episode": 53,
+      "title": "Drum Schtick! / Beast A-Birdin'",
+      "diziid": "skh",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/53/davul_sopalari__canavar_kuslar"
+    },
+    {
+      "season": 3,
+      "episode": 54,
+      "title": "Cymbal Minded",
+      "diziid": "skh",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/54/zil_fikirleri"
+    },
+    {
+      "season": 4,
+      "episode": 55,
+      "title": "Hook, Line and Stinker! / Don't Treadmill on Me",
+      "diziid": "skh",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/55/kopek_baligi_yemi%21__kosu_bandi"
+    },
+    {
+      "season": 5,
+      "episode": 56,
+      "title": "Stained by Me / Pilgwim's Pwogwess",
+      "diziid": "skh",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/56/lekeli_ceket__pilgrim_is_basinda"
+    },
+    {
+      "season": 7,
+      "episode": 57,
+      "title": "Booby Prize",
+      "diziid": "skh",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/58/kus_gozlemciligi"
+    },
+    {
+      "season": 8,
+      "episode": 58,
+      "title": "Grand Canyon Canary / Hole in Dumb",
+      "diziid": "skh",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/59/buyuk_kanyon_kanaryasi__golf_ustasi"
+    },
+    {
+      "season": 10,
+      "episode": 59,
+      "title": "Practical Jerk! / Bottoms Up",
+      "diziid": "skh",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/61/saka_gunu__kendine_yemek"
+    },
+    {
+      "season": 1,
+      "episode": 60,
+      "title": "Looney Tunes Cartoons Valentine's Extwavaganza!",
+      "diziid": "skh",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/62/sevimli_kahramanlar_sevgililer_gunu_ozel"
+    },
+    {
+      "season": 2,
+      "episode": 61,
+      "title": "Bugs Bunny's Howl-O-Skreem Spooktacula",
+      "diziid": "skh",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/63/bugs_bunnynin_tuyler_urpertici_cadilar_bayrami"
+    },
+    {
+      "season": 3,
+      "episode": 62,
+      "title": "Skyscraper Scrap / The Devil and the Deep Blue Sea",
+      "diziid": "skh",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/64/gokdelen_macerasi__taz_acik_denizlerde"
+    },
+    {
+      "season": 4,
+      "episode": 63,
+      "title": "Crumb and Get It / Construction Obstruction",
+      "diziid": "skh",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/65/kirintilari_toparla%21__insaati_engellemek"
+    },
+    {
+      "season": 5,
+      "episode": 64,
+      "title": "Yosemite Samurai / Dummies in the Dark",
+      "diziid": "skh",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/66/yosemite_samuray__karanliktaki_saskinlar"
+    },
+    {
+      "season": 6,
+      "episode": 65,
+      "title": "Pain Rent / Nest Effort",
+      "diziid": "skh",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/67/acili_kira__yuva_canagi"
+    },
+    {
+      "season": 7,
+      "episode": 66,
+      "title": "Feather of the Bride",
+      "diziid": "skh",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/68/gelinin_tuyu"
+    },
+    {
+      "season": 8,
+      "episode": 67,
+      "title": "Poolside Pest",
+      "diziid": "skh",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/69/havuz_kenari_ordegi"
+    },
+    {
+      "season": 10,
+      "episode": 68,
+      "title": "Livin' the Daydream / Fake It 'Til You Bake It",
+      "diziid": "skh",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/71/hayal_dunyasinda_yasamak__zahmetli_pasta"
+    },
+    {
+      "season": 11,
+      "episode": 69,
+      "title": "Funny Book Bunny / Kitty Krashers",
+      "diziid": "skh",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/72/cizgi_roman_tavsani__ev_kedileri"
+    },
+    {
+      "season": 1,
+      "episode": 70,
+      "title": "Birthday Grifts / Tub-o-War",
+      "diziid": "skh",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/73/dogum_gunu_hediyeleri__kuvet_savaslari"
+    },
+    {
+      "season": 2,
+      "episode": 71,
+      "title": "Oregon Fail / Life's a Beach",
+      "diziid": "skh",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/74/oregon_basarisizligi__plaj_hayati"
+    },
+    {
+      "season": 3,
+      "episode": 72,
+      "title": "Pearl of My Dreams / Mech-A-Mess",
+      "diziid": "skh",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/75/ruyalarimin_incisi__daginik_robot"
+    },
+    {
+      "season": 4,
+      "episode": 73,
+      "title": "Boarding Games / Winter Hungerland",
+      "diziid": "skh",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/76/otel_oyunlari__kis_acligi"
+    },
+    {
+      "season": 5,
+      "episode": 74,
+      "title": "Tweet Suite / Desert Menu",
+      "diziid": "skh",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/77/kus_suiti__col_menusu"
+    },
+    {
+      "season": 8,
+      "episode": 75,
+      "title": "Wrong with the Wind / Moody at the Movies",
+      "diziid": "skh",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/80/ruzgar_gibi_gecmedi__gurultulu_sinema"
+    },
+    {
+      "season": 9,
+      "episode": 76,
+      "title": "Boardwalk Bunny",
+      "diziid": "skh",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/skh/sevimli_kahramanlar_hikayeler/81/kaldirim_tavsani"
+    }
+  ]
+}

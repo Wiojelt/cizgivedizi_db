@@ -1,0 +1,92 @@
+{
+  "id": "sie",
+  "title": "smorph ile elektrik",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SIEPoster.avif",
+  "channel": "Da Vinci",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Circuit Basics",
+      "diziid": "sie",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/sie/smorph_ile_elektrik/1/devre_prensipleri"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Short Circuits",
+      "diziid": "sie",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/sie/smorph_ile_elektrik/2/kisa_devre"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Types of Circuits",
+      "diziid": "sie",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/sie/smorph_ile_elektrik/3/devre_tipleri"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Conductivity",
+      "diziid": "sie",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/sie/smorph_ile_elektrik/4/iletkenlik"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Sound Circuits",
+      "diziid": "sie",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/sie/smorph_ile_elektrik/5/ses_devreleri"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Ghost Story",
+      "diziid": "sie",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/sie/smorph_ile_elektrik/6/hayalet_hikayesi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Treasure Story",
+      "diziid": "sie",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/sie/smorph_ile_elektrik/7/hazine_hikayesi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Fairy Story",
+      "diziid": "sie",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/sie/smorph_ile_elektrik/8/peri_hikayesi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Making Electricity",
+      "diziid": "sie",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/sie/smorph_ile_elektrik/9/elektrik_uretmek"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "RGB Lights",
+      "diziid": "sie",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/sie/smorph_ile_elektrik/10/rgb_isiklari"
+    }
+  ]
+}

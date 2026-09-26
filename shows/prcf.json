@@ -1,0 +1,93 @@
+{
+  "id": "prcf",
+  "title": "power rangers: cosmic fury",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/PRCFPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Lightning Strikes",
+      "diziid": "prcf",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/prcf/power_rangers%3A_cosmic_fury/1/simsek_cakmasi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Beyond Repair",
+      "diziid": "prcf",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/prcf/power_rangers%3A_cosmic_fury/2/onarilmasi_imkansiz"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Off Grid",
+      "diziid": "prcf",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/prcf/power_rangers%3A_cosmic_fury/3/ag_disi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Team Work",
+      "diziid": "prcf",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/prcf/power_rangers%3A_cosmic_fury/4/takim_calismasi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Rock Out",
+      "diziid": "prcf",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/prcf/power_rangers%3A_cosmic_fury/5/rock_grubu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Take Off",
+      "diziid": "prcf",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/prcf/power_rangers%3A_cosmic_fury/6/kalkis"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Operation Seasoning",
+      "diziid": "prcf",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/prcf/power_rangers%3A_cosmic_fury/7/baharat_operasyonu"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Switching Sides",
+      "diziid": "prcf",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/prcf/power_rangers%3A_cosmic_fury/8/taraf_degisimi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Master Plan",
+      "diziid": "prcf",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/prcf/power_rangers%3A_cosmic_fury/9/buyuk_plan"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The End",
+      "diziid": "prcf",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/prcf/power_rangers%3A_cosmic_fury/10/son"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "sefil",
+  "title": "sefiller",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/SEFILPoster.avif",
+  "channel": "Spacetoon Go",
+  "genres": [
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Fantine and Cosette",
+      "diziid": "sefil",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/sefil/sefiller/1/anne_ve_kizin_vedasi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Jean Valjean's Secret",
+      "diziid": "sefil",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/sefil/sefiller/2/jean_valjeanin_sirri"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "A New Friend, Chou Chou",
+      "diziid": "sefil",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/sefil/sefiller/3/yeni_arkadas%2C_chou_chou"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Mother's Letter",
+      "diziid": "sefil",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/sefil/sefiller/4/anneden_mektup"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Javert's Suspicions",
+      "diziid": "sefil",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/sefil/sefiller/5/javertin_suphesi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Cosette's Birthday",
+      "diziid": "sefil",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/sefil/sefiller/6/cosettein_hediyesi"
+    }
+  ]
+}

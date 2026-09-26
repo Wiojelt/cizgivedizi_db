@@ -1,0 +1,108 @@
+{
+  "id": "santac",
+  "title": "santa clauses",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/SANTACPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Chapter One: Good to Ho",
+      "diziid": "santac",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/santac/santa_clauses/1/bolum_1%3A_ho-zir"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Chapter Two: The Secessus Clause",
+      "diziid": "santac",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/santac/santa_clauses/2/bolum_2%3A_cayma_sarti"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Chapter Three: Into the Wobbly Woods",
+      "diziid": "santac",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/santac/santa_clauses/3/bolum_3%3A_oynak_ormana_dogru"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Chapter Four: The Shoes Off the Bed Clause",
+      "diziid": "santac",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/santac/santa_clauses/4/bolum_4%3A_ayakkabisiz_yatan_noel_baba"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Chapter Five: Across the Yule-Verse",
+      "diziid": "santac",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/santac/santa_clauses/5/bolum_5%3A_yule-kent_boyunca"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Chapter Six: A Christmas to Remember",
+      "diziid": "santac",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/santac/santa_clauses/6/bolum_6%3A_unutulmayacak_bir_noel"
+    },
+    {
+      "season": 1,
+      "episode": 7,
+      "title": "The Kribble Krabble Clause",
+      "diziid": "santac",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/santac/santa_clauses/7/kribble_krabble_meselesi"
+    },
+    {
+      "season": 2,
+      "episode": 8,
+      "title": "Floofy",
+      "diziid": "santac",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/santac/santa_clauses/8/pofuduk"
+    },
+    {
+      "season": 3,
+      "episode": 9,
+      "title": "No Magic at the Dinner Table!",
+      "diziid": "santac",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/santac/santa_clauses/9/yemek_masasinda_sihir_yok%21"
+    },
+    {
+      "season": 4,
+      "episode": 10,
+      "title": "Miracle on Dead Creek Road",
+      "diziid": "santac",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/santac/santa_clauses/10/dead_creek_roaddaki_mucize"
+    },
+    {
+      "season": 5,
+      "episode": 11,
+      "title": "B-E-T-T-Y",
+      "diziid": "santac",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/santac/santa_clauses/11/b-e-t-t-y"
+    },
+    {
+      "season": 6,
+      "episode": 12,
+      "title": "Wanga Banga Langa!",
+      "diziid": "santac",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/santac/santa_clauses/12/wanga_banga_langa%21"
+    }
+  ]
+}

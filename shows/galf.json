@@ -1,0 +1,293 @@
+{
+  "id": "galf",
+  "title": "galaktik futbol",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/GALFPoster.avif",
+  "channel": "Jetix",
+  "genres": [
+    "Spor",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Comeback",
+      "diziid": "galf",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/1/geri_gelis"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "A New Hope",
+      "diziid": "galf",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/2/yeni_bir_umut"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Challenge",
+      "diziid": "galf",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/3/mucadele"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Team",
+      "diziid": "galf",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/4/takim"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Captain",
+      "diziid": "galf",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/5/kaptan"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Second Wind",
+      "diziid": "galf",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/6/ikinci_ruzgar"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Coach's Pet",
+      "diziid": "galf",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/7/kocun_hayvani"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Storm",
+      "diziid": "galf",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/8/firtina"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Revenge Match",
+      "diziid": "galf",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/9/intikam_maci"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Pirates",
+      "diziid": "galf",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/10/korsanlar"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Professor",
+      "diziid": "galf",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/11/profesor"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Escape",
+      "diziid": "galf",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/12/kacis"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Striker",
+      "diziid": "galf",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/13/forvet"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Black Hole",
+      "diziid": "galf",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/14/kara_delik"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Last Chance",
+      "diziid": "galf",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/15/son_sans"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Genesis Stadium",
+      "diziid": "galf",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/16/genesis_stadyumu"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Get Ready",
+      "diziid": "galf",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/17/hazir_ol"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Under Pressure",
+      "diziid": "galf",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/18/baski_altinda"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Star",
+      "diziid": "galf",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/19/yildiz"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Metaflux",
+      "diziid": "galf",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/20/metaflux"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Forfeit",
+      "diziid": "galf",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/21/ceza"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "The Missing Link",
+      "diziid": "galf",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/22/kayip_baglanti"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Blackmail",
+      "diziid": "galf",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/23/santaj"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Duel",
+      "diziid": "galf",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/24/duello"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "The Traitor",
+      "diziid": "galf",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/25/hain"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The Cup",
+      "diziid": "galf",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/26/kupa"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Return to Genesis",
+      "diziid": "galf",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/27/genesise_donus"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "The Suspension",
+      "diziid": "galf",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/28/suspansiyon"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "A Team Reinvented",
+      "diziid": "galf",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/29/yeni_takim"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "The New Captain",
+      "diziid": "galf",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/30/yeni_kaptan"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "The Homecoming",
+      "diziid": "galf",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/31/eve_donus"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Netherball Rules!",
+      "diziid": "galf",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/32/netherball_kurallari%21"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Doubts Within",
+      "diziid": "galf",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/33/derin_suphe"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Rocket's Descent",
+      "diziid": "galf",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/34/roketin_kaderi"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "The All-Stars",
+      "diziid": "galf",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/galf/galaktik_futbol/35/yildizlar_maci"
+    }
+  ]
+}

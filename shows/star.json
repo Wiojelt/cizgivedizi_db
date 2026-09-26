@@ -1,0 +1,629 @@
+{
+  "id": "star",
+  "title": "star kÃ¶tÃ¼ gÃ¼Ã§lere karÅŸÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/STARPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Fantastik",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Star Comes to Earth/Party with a Pony",
+      "diziid": "star",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/1/star_dunyaya_geliyor__midilli_ile_parti"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Match Maker/School Spirit",
+      "diziid": "star",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/2/copcatan__okul_ruhu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Monster Arm/The Other Exchange Student",
+      "diziid": "star",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/3/canavar_kol__diger_degisim_ogrencisi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Cheer Up Star/Quest Buy",
+      "diziid": "star",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/4/neselen_star__seruven_marketi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Diaz Family Vacation/Brittney's Party",
+      "diziid": "star",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/5/diaz_aile_tatili__brittneynin_partisi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Mewberty/Pixtopia",
+      "diziid": "star",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/6/mew_ergenligi__pixtopya"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Lobster Claws/Sleep Spells",
+      "diziid": "star",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/7/istakoz_kiskaclari__uyku_buyuleri"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Blood Moon Ball/Fortune Cookies",
+      "diziid": "star",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/8/kanli_ay_balosu__fal_kurabiyeleri"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Freeze Day/Royal Pain",
+      "diziid": "star",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/9/zaman_dondurma_gunu__bas_belasi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "St. Olga's Reform School for Wayward Princesses",
+      "diziid": "star",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/10/dikbasli_prensesler_icin_azize_olga_islahevi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Mewnipendence Day/The Banagic Incident",
+      "diziid": "star",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/11/mewninin_bagimsizlik_gunu__sihirli_muz"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Interdimensional Field Trip/Marco Grows A Beard",
+      "diziid": "star",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/12/boyutlararasi_okul_gezisi__marco_sakal_birakiyor"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Storm the Castle",
+      "diziid": "star",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/13/kale_baskini"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "My New Wand!/Ludo in the Wild",
+      "diziid": "star",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/14/yeni_degnegim%21__ludo_vahsi_dogada"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Mr. Candle Cares/Red Belt",
+      "diziid": "star",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/15/bay_mum_umursuyor__kirmizi_kusak"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Star on Wheels/Fetch",
+      "diziid": "star",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/16/gezici_star__getir%21"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Star vs. Echo Creek/Wand to Wand",
+      "diziid": "star",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/17/star%2C_yanki_deresine_karsi__degnek_degnege"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Starstruck/Camping Trip",
+      "diziid": "star",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/18/star_carpmasi__kamp_gezisi"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Starsitting/On the Job",
+      "diziid": "star",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/19/bebek_bakicisi_star__is_basinda"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Goblin Dogs/By the Book",
+      "diziid": "star",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/20/cin_kopekler__kitaba_gore"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Game of Flags/Girls' Day Out",
+      "diziid": "star",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/21/bayrak_oyunu__kiz_kiza_disarida"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Sleepover/Gift of the Card",
+      "diziid": "star",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/22/pijama_partisi__hediye_karti"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Friendenemies/Is Mystery",
+      "diziid": "star",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/23/dost_dusmanlar__gizem"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "Hungry Larry/Spider with a Top Hat",
+      "diziid": "star",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/24/ac_larry__silindir_sapkali_orumcek"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Into the Wand/Pizza Thing",
+      "diziid": "star",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/25/degnegin_icine__pizza_seyi"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "Page Turner/Naysaya",
+      "diziid": "star",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/26/page_turner__naysaya"
+    },
+    {
+      "season": 14,
+      "episode": 27,
+      "title": "Bon Bon the Birthday Clown",
+      "diziid": "star",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/27/dogum_gunu_palyacosu_bon_bon"
+    },
+    {
+      "season": 15,
+      "episode": 28,
+      "title": "Raid the Cave/Trickstar",
+      "diziid": "star",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/28/magaraya_baskin__hileci_star"
+    },
+    {
+      "season": 16,
+      "episode": 29,
+      "title": "Baby/Running with Scissors",
+      "diziid": "star",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/29/bebek__makasla_kosu"
+    },
+    {
+      "season": 17,
+      "episode": 30,
+      "title": "Mathmagic/The Bounce Lounge",
+      "diziid": "star",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/30/matematik_sihri__sicrama_salonu"
+    },
+    {
+      "season": 18,
+      "episode": 31,
+      "title": "Crystal Clear/The Hard Way",
+      "diziid": "star",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/31/kristal_berrakligi__zor_yol"
+    },
+    {
+      "season": 19,
+      "episode": 32,
+      "title": "Heinous/All Belts Are Off",
+      "diziid": "star",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/32/igrenc__tum_kusaklar_duser"
+    },
+    {
+      "season": 20,
+      "episode": 33,
+      "title": "Collateral Damage/Just Friends",
+      "diziid": "star",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/33/yan_hasar___sadece_arkadasiz"
+    },
+    {
+      "season": 21,
+      "episode": 34,
+      "title": "Face the Music",
+      "diziid": "star",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/34/muzikle_yuzles"
+    },
+    {
+      "season": 22,
+      "episode": 35,
+      "title": "Starcrushed",
+      "diziid": "star",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/35/ezen_star"
+    },
+    {
+      "season": 1,
+      "episode": 36,
+      "title": "Battle for Mewni: Return to Mewni/Battle for Mewni: Moon the Undaunted",
+      "diziid": "star",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/36/mewniye_donus__korkusuz_moon"
+    },
+    {
+      "season": 2,
+      "episode": 37,
+      "title": "Battle for Mewni: Book Be Gone/Battle for Mewni: Marco and the King",
+      "diziid": "star",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/37/defol_kitap__marco_ve_kral"
+    },
+    {
+      "season": 3,
+      "episode": 38,
+      "title": "Battle for Mewni: Puddle Defender/Battle for Mewni: King Ludo",
+      "diziid": "star",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/38/puddle_savunucusu__kral_ludo"
+    },
+    {
+      "season": 4,
+      "episode": 39,
+      "title": "Battle for Mewni: Toffee",
+      "diziid": "star",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/39/toffee"
+    },
+    {
+      "season": 5,
+      "episode": 40,
+      "title": "Scent of a Hoodie/Rest in Pudding",
+      "diziid": "star",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/40/kapusonlu_kokusu__pudingde_dinlenme"
+    },
+    {
+      "season": 6,
+      "episode": 41,
+      "title": "Club Snubbed/Stranger Danger",
+      "diziid": "star",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/41/kulupte_kucumseme__yabanci_tehlike"
+    },
+    {
+      "season": 7,
+      "episode": 42,
+      "title": "Demoncism/Sophomore Slump",
+      "diziid": "star",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/42/seytancilik__ikinci_sinif_gevsekligi"
+    },
+    {
+      "season": 8,
+      "episode": 43,
+      "title": "Lint Catcher/Trial by Squire",
+      "diziid": "star",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/43/tuy_toplayici__kavalye_gorevi"
+    },
+    {
+      "season": 9,
+      "episode": 44,
+      "title": "Princess Turdina/Starfari",
+      "diziid": "star",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/44/prenses_turdina__star_safarisi"
+    },
+    {
+      "season": 10,
+      "episode": 45,
+      "title": "Sweet Dreams/Lava Lake Beach",
+      "diziid": "star",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/45/tatli_ruyalar__lav_golu_plaji"
+    },
+    {
+      "season": 11,
+      "episode": 46,
+      "title": "Death Peck/Ponymonium",
+      "diziid": "star",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/46/olum_gagasi__midilli_cehennemi"
+    },
+    {
+      "season": 12,
+      "episode": 47,
+      "title": "Night Life/Deep Dive",
+      "diziid": "star",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/47/gece_hayati__derin_dalis"
+    },
+    {
+      "season": 13,
+      "episode": 48,
+      "title": "Monster Bash",
+      "diziid": "star",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/48/canavar_saldirisi"
+    },
+    {
+      "season": 14,
+      "episode": 49,
+      "title": "Stump Day/Holiday Spellcial",
+      "diziid": "star",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/49/kutuk_gunu__ozel_tatil_buyusu"
+    },
+    {
+      "season": 15,
+      "episode": 50,
+      "title": "The Bogbeast of Boggabah/Total Eclipsa the Moon",
+      "diziid": "star",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/50/boggabahnin_bataklik_canavari__eclipsa_tutulmasi"
+    },
+    {
+      "season": 16,
+      "episode": 51,
+      "title": "Butterfly Trap/Ludo, Where Art Thou?",
+      "diziid": "star",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/51/butterfly_tuzagi__neredesin_ludo"
+    },
+    {
+      "season": 17,
+      "episode": 52,
+      "title": "Is Another Mystery/Marco Jr.",
+      "diziid": "star",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/52/baska_bir_gizem_mi__kucuk_marco"
+    },
+    {
+      "season": 18,
+      "episode": 53,
+      "title": "Skooled!/Booth Buddies",
+      "diziid": "star",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/53/okul%21__kabin_arkadaslari"
+    },
+    {
+      "season": 19,
+      "episode": 54,
+      "title": "Bam Ui Pati!/Tough Love",
+      "diziid": "star",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/54/bam_ui_pati%21__zorlu_ask"
+    },
+    {
+      "season": 20,
+      "episode": 55,
+      "title": "Divide",
+      "diziid": "star",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/55/bolunme"
+    },
+    {
+      "season": 21,
+      "episode": 56,
+      "title": "Conquer",
+      "diziid": "star",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/56/fetih"
+    },
+    {
+      "season": 1,
+      "episode": 57,
+      "title": "Butterfly Follies",
+      "diziid": "star",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/57/butterflylarin_budalaligi"
+    },
+    {
+      "season": 2,
+      "episode": 58,
+      "title": "Escape from the Pie Folk",
+      "diziid": "star",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/58/turta_halkindan_kacis"
+    },
+    {
+      "season": 3,
+      "episode": 59,
+      "title": "Moon Remembers/Swim Suit",
+      "diziid": "star",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/59/moon_hatirlamaya_basliyor__mayo"
+    },
+    {
+      "season": 4,
+      "episode": 60,
+      "title": "Ransomgram/Lake House Fever",
+      "diziid": "star",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/60/fidye__gol_evinde_ortalik_kizisiyor"
+    },
+    {
+      "season": 5,
+      "episode": 61,
+      "title": "Yada Yada Berries/Down by the River",
+      "diziid": "star",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/61/falan_filan_meyveleri__nehrin_asagisinda"
+    },
+    {
+      "season": 6,
+      "episode": 62,
+      "title": "The Ponyhead Show!/Surviving the Spiderbites",
+      "diziid": "star",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/62/boynuz_kafa_sov__orumcek_isiriklarini_atlatmak"
+    },
+    {
+      "season": 7,
+      "episode": 63,
+      "title": "Out of Business/Kelly's World",
+      "diziid": "star",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/63/quest_buy_kapaniyor__kellynin_dunyasi"
+    },
+    {
+      "season": 8,
+      "episode": 64,
+      "title": "Curse of the Blood Moon",
+      "diziid": "star",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/64/kanli_ayin_laneti"
+    },
+    {
+      "season": 9,
+      "episode": 65,
+      "title": "Princess Quasar Caterpillar and the Magic Bell/Ghost of Butterfly Castle",
+      "diziid": "star",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/65/prenses_quasar_caterpillar_ve_sihirli_zil__butterfly_kalesi_hayaleti"
+    },
+    {
+      "season": 10,
+      "episode": 66,
+      "title": "Cornball!/Meteora's Lesson",
+      "diziid": "star",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/66/misirtopu%21__meteoranin_dersi"
+    },
+    {
+      "season": 11,
+      "episode": 67,
+      "title": "The Knight Shift/Queen-Napped",
+      "diziid": "star",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/67/sovalyenin_gorev_yeri__kralice_kaciriliyor"
+    },
+    {
+      "season": 12,
+      "episode": 68,
+      "title": "Junkin' Janna/A Spell with No Name",
+      "diziid": "star",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/68/jannayla_copluk_macerasi__isimsiz_bir_buyu"
+    },
+    {
+      "season": 13,
+      "episode": 69,
+      "title": "A Boy and His DC-700XE/The Monster and the Queen",
+      "diziid": "star",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/69/cocuk_ve_700xe_ejderhasikleti__canavar_ve_kralice"
+    },
+    {
+      "season": 14,
+      "episode": 70,
+      "title": "Cornonation",
+      "diziid": "star",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/70/tac_giyme_toreni"
+    },
+    {
+      "season": 15,
+      "episode": 71,
+      "title": "Doop-Doop/Britta's Tacos",
+      "diziid": "star",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/71/toto__brittanin_taco_bufesi"
+    },
+    {
+      "season": 16,
+      "episode": 72,
+      "title": "Beach Day/Gone Baby Gone",
+      "diziid": "star",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/72/plaj_gunu__kayip_bebek"
+    },
+    {
+      "season": 17,
+      "episode": 73,
+      "title": "Sad Teen Hotline/Jannanigans",
+      "diziid": "star",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/73/uzgun_ergen_yardim_hatti__jannayla_sacma_bir_macera"
+    },
+    {
+      "season": 18,
+      "episode": 74,
+      "title": "Mama Star/Ready, Aim, Fire",
+      "diziid": "star",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/74/anne_star__hazir%2C_hedef_al%2C_ates%21"
+    },
+    {
+      "season": 19,
+      "episode": 75,
+      "title": "The Right Way/Here to Help",
+      "diziid": "star",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/75/dogru_yol__yardim_eli"
+    },
+    {
+      "season": 20,
+      "episode": 76,
+      "title": "Pizza Party/The Tavern at the End of the Multiverse",
+      "diziid": "star",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/76/pizza_partisi__coklu-evrenin_sonundaki_taverna"
+    },
+    {
+      "season": 21,
+      "episode": 77,
+      "title": "Cleaved",
+      "diziid": "star",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/star/star_kotu_guclere_karsi/77/buyunun_sonu"
+    }
+  ]
+}

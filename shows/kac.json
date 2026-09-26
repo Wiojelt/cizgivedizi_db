@@ -1,0 +1,516 @@
+{
+  "id": "kac",
+  "title": "kafadar ayÄ±cÄ±klar",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KACPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Magical Box",
+      "diziid": "kac",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/1/sihirli_kutu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Bears and the Beanstalk",
+      "diziid": "kac",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/2/ayilar_ve_fasulye_sirigi"
+    },
+    {
+      "season": 4,
+      "episode": 3,
+      "title": "The Little Mer-Bear",
+      "diziid": "kac",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/4/kucuk_denizkizi"
+    },
+    {
+      "season": 5,
+      "episode": 4,
+      "title": "Modern-ish Stone Age Family",
+      "diziid": "kac",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/5/modernimsi_tas_devri_ailesi"
+    },
+    {
+      "season": 6,
+      "episode": 5,
+      "title": "Excalibear",
+      "diziid": "kac",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/6/ayi_kilici"
+    },
+    {
+      "season": 7,
+      "episode": 6,
+      "title": "Meat House",
+      "diziid": "kac",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/7/etten_ev"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "title": "The Pirate Parrot Polly",
+      "diziid": "kac",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/8/korsan_papagan_polly"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "title": "Baby Bear Genius",
+      "diziid": "kac",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/9/dahi_bebek_ayi"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "Bug City Sleuths",
+      "diziid": "kac",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/10/bocek_sehri_dedektifleri"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "Hashtag Number One Fan",
+      "diziid": "kac",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/11/1_numarali_hayran"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "Snow Place Like Home",
+      "diziid": "kac",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/12/kis_yuvamiz"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "Fiesta Day",
+      "diziid": "kac",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/13/senlik_gunu"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "Baba Yaga House",
+      "diziid": "kac",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/14/baba_yaganin_evi"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "Bears in the Dark",
+      "diziid": "kac",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/15/karanliktaki_ayilar"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Big Trouble Little Babies",
+      "diziid": "kac",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/16/buyuk_sorun_kucuk_bebekler"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "Triple T Tigers",
+      "diziid": "kac",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/17/uc_kaplanlar"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "Panda's Family",
+      "diziid": "kac",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/18/pandanin_ailesi"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "A Tale of Two Ice Bears",
+      "diziid": "kac",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/19/iki_kutup_ayisinin_hikayesi"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "Unica",
+      "diziid": "kac",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/20/unica"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "Sheep Bears",
+      "diziid": "kac",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/21/koyun_ayiciklar"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "Ice Bear's Pet",
+      "diziid": "kac",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/22/kutup_ayisinin_evcil_hayvani"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "Dragon Pests",
+      "diziid": "kac",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/23/yeni_boceklenen_ejderhalar"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "No Land, All Air!",
+      "diziid": "kac",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/24/yer_yok%2C_hep_havadayiz%21"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "Tooth Fairy Tech",
+      "diziid": "kac",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/25/dis_perisi_teknoloji"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "High Baby Fashion",
+      "diziid": "kac",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/26/yuksek_stil_bebek_modasi"
+    },
+    {
+      "season": 27,
+      "episode": 26,
+      "title": "Teddi Bear",
+      "diziid": "kac",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/27/ayi_teddi"
+    },
+    {
+      "season": 28,
+      "episode": 27,
+      "title": "A Gross Worm",
+      "diziid": "kac",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/28/igrenc_kurtcuk"
+    },
+    {
+      "season": 29,
+      "episode": 28,
+      "title": "A Real Crayon",
+      "diziid": "kac",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/29/gercek_pastel_boya"
+    },
+    {
+      "season": 30,
+      "episode": 29,
+      "title": "Witches",
+      "diziid": "kac",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/30/cadilar"
+    },
+    {
+      "season": 31,
+      "episode": 30,
+      "title": "Happy Bouncy Fun Town",
+      "diziid": "kac",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/31/mutlu_zipir_eglence_kasabasi"
+    },
+    {
+      "season": 32,
+      "episode": 31,
+      "title": "Back to Our Regular Time Period",
+      "diziid": "kac",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/32/bizim_zamana_donus"
+    },
+    {
+      "season": 33,
+      "episode": 32,
+      "title": "Bath on the Nile",
+      "diziid": "kac",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/33/nilde_banyo"
+    },
+    {
+      "season": 34,
+      "episode": 33,
+      "title": "Bubble Fields",
+      "diziid": "kac",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/34/baloncuk_tarlalari"
+    },
+    {
+      "season": 36,
+      "episode": 34,
+      "title": "Temple Bears",
+      "diziid": "kac",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/36/tapinak_ayiciklari"
+    },
+    {
+      "season": 37,
+      "episode": 35,
+      "title": "Lighthouse",
+      "diziid": "kac",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/37/deniz_feneri"
+    },
+    {
+      "season": 1,
+      "episode": 36,
+      "title": "Little Fallen Star",
+      "diziid": "kac",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/39/kucuk_kayan_yildiz"
+    },
+    {
+      "season": 1,
+      "episode": 37,
+      "title": "The Big Wish",
+      "diziid": "kac",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/41/buyuk_dilek"
+    },
+    {
+      "season": 3,
+      "episode": 38,
+      "title": "Polly's New Crew",
+      "diziid": "kac",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/43/pollynin_yeni_tayfasi"
+    },
+    {
+      "season": 1,
+      "episode": 39,
+      "title": "Bug City Frame Up",
+      "diziid": "kac",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/44/bocek_sehri_komplosu"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "The Great Veggie War",
+      "diziid": "kac",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/46/buyuk_sebze_savasi"
+    },
+    {
+      "season": 9,
+      "episode": 41,
+      "title": "Rexford's Nectar",
+      "diziid": "kac",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/49/rexfordun_nektari"
+    },
+    {
+      "season": 10,
+      "episode": 42,
+      "title": "Grizz's Doc",
+      "diziid": "kac",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/50/bozun_belgeseli"
+    },
+    {
+      "season": 11,
+      "episode": 43,
+      "title": "Triple T Tiger Lilies",
+      "diziid": "kac",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/51/uc_kaplanlarin_kaplan_zambagi"
+    },
+    {
+      "season": 12,
+      "episode": 44,
+      "title": "After Bedtime",
+      "diziid": "kac",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/52/yatak_zamani_sonrasi"
+    },
+    {
+      "season": 1,
+      "episode": 45,
+      "title": "The Big Bloom",
+      "diziid": "kac",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/54/ciceklenme_festivali"
+    },
+    {
+      "season": 16,
+      "episode": 46,
+      "title": "Return to the Sea",
+      "diziid": "kac",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/56/denize_donus"
+    },
+    {
+      "season": 17,
+      "episode": 47,
+      "title": "Shark!",
+      "diziid": "kac",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/57/kopek_baligi%21"
+    },
+    {
+      "season": 18,
+      "episode": 48,
+      "title": "Sunken Sub",
+      "diziid": "kac",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/58/batik_denizalti"
+    },
+    {
+      "season": 19,
+      "episode": 49,
+      "title": "Flounder Fam",
+      "diziid": "kac",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/59/pisi_baligi_ailesi"
+    },
+    {
+      "season": 20,
+      "episode": 50,
+      "title": "Land World",
+      "diziid": "kac",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/60/kara_dunyasi"
+    },
+    {
+      "season": 21,
+      "episode": 51,
+      "title": "Bermuda Baby Bears",
+      "diziid": "kac",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/61/kafadar_ayiciklar_bermudada"
+    },
+    {
+      "season": 1,
+      "episode": 52,
+      "title": "Welcome To Atlantis",
+      "diziid": "kac",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/62/atlantise_hos_geldiniz"
+    },
+    {
+      "season": 25,
+      "episode": 53,
+      "title": "Intermediate Photography",
+      "diziid": "kac",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/65/orta_duzey_fotografcilik"
+    },
+    {
+      "season": 26,
+      "episode": 54,
+      "title": "Independent Study: Mass Appeal",
+      "diziid": "kac",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/66/bagimsiz_calisma%3A_kitlesel_yorum"
+    },
+    {
+      "season": 27,
+      "episode": 55,
+      "title": "Advanced Ceramics",
+      "diziid": "kac",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/67/ileri_seramikler"
+    },
+    {
+      "season": 28,
+      "episode": 56,
+      "title": "Graduation Day",
+      "diziid": "kac",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/68/mezuniyet_gunu"
+    },
+    {
+      "season": 30,
+      "episode": 57,
+      "title": "Space Beach",
+      "diziid": "kac",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/70/uzay_plaji"
+    },
+    {
+      "season": 32,
+      "episode": 58,
+      "title": "Uncle Orion",
+      "diziid": "kac",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/72/orion_amca"
+    },
+    {
+      "season": 35,
+      "episode": 59,
+      "title": "Blarfenpleepo",
+      "diziid": "kac",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/75/blarfenpleepo"
+    },
+    {
+      "season": 36,
+      "episode": 60,
+      "title": "Grizz Island",
+      "diziid": "kac",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/76/boz_adasi"
+    },
+    {
+      "season": 37,
+      "episode": 61,
+      "title": "Panda Goes West",
+      "diziid": "kac",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/77/panda_batiya_gidiyor"
+    },
+    {
+      "season": 38,
+      "episode": 62,
+      "title": "Ice Bear vs. Cyber City",
+      "diziid": "kac",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/78/kutup_ayisi_siber_sehre_karsi"
+    },
+    {
+      "season": 1,
+      "episode": 63,
+      "title": "The Box and the Fox",
+      "diziid": "kac",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/kac/kafadar_ayiciklar/79/kutu_ve_tilki"
+    }
+  ]
+}

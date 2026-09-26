@@ -1,0 +1,493 @@
+{
+  "id": "jimmy",
+  "title": "jimmy neutron",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/JIMMYPoster.avif",
+  "channel": "CNBC-e",
+  "genres": [
+    "Bilim Kurgu",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "When Pants Attack",
+      "diziid": "jimmy",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/1/pantolonlar_saldirinca"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Normal Boy/Birth of a Salesman",
+      "diziid": "jimmy",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/2/normal_cocuk__saticinin_dogumu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Brobot/The Big Pinch",
+      "diziid": "jimmy",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/3/kardes_robot__buyuk_sicrama"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Granny Baby/Time Is Money",
+      "diziid": "jimmy",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/4/bebek_buyukanne__vakit_nakittir"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "I Dream of Jimmy/Raise the Oozy Scab",
+      "diziid": "jimmy",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/5/ruyamda_jimmyyi_gordum__denizaltinda_hazine_avi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Jimmy on Ice/Battle of the Bands",
+      "diziid": "jimmy",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/6/jimmynin_buzul_cagi__yetenek_yarismasi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "See Jimmy Run/Trading Faces",
+      "diziid": "jimmy",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/7/kos_jimmy_kos__degisen_yuzler"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Phantom of Retroland/My Son the Hamster",
+      "diziid": "jimmy",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/8/retrolandin_hayaleti__oglum_bir_fare"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Hall Monster/Hypno Birthday to You",
+      "diziid": "jimmy",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/9/koridor_canavari__mutlu_hipno_yillar"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Krunch Time/Substitute Creature",
+      "diziid": "jimmy",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/10/seker_zamani__zeki_yaratik"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Safety First/Crime Sheen Investigation",
+      "diziid": "jimmy",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/11/once_guvenlik__dedektif_sheen"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Journey to the Center of Carl/Aaugh! Wilderness",
+      "diziid": "jimmy",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/12/carlin_merkezine_seyahat__vahsi_doga"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Party at Neutron's / Ultra Sheen",
+      "diziid": "jimmy",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/13/neutronlarda_parti_var__ultra_sheen"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Broadcast Blues / Professor Calamitous, I Presume",
+      "diziid": "jimmy",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/14/sov_dunyasi__profesor_calamitous"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Egg-Pire Strikes Back Part 1",
+      "diziid": "jimmy",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/15/yumparatorluk_yeniden_saldiriyor_bolum_1"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Egg-Pire Strikes Back Part 2",
+      "diziid": "jimmy",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/16/yumparatorluk_yeniden_saldiriyor_bolum_2"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Maximum Hugh/Sleepless in Retroville",
+      "diziid": "jimmy",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/17/maksimum_hugh__retrovillede_uykusuz"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Make Room for Daddy-O",
+      "diziid": "jimmy",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/18/super_baba"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "A Beautiful Mine",
+      "diziid": "jimmy",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/19/uzay_madeni"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Sorry, Wrong Era",
+      "diziid": "jimmy",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/20/affedersin%2C_yanlis_cag"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "Beach Party Mummy",
+      "diziid": "jimmy",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/21/mumyali_kum_partisi"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "The Retroville 9/Grumpy Young Men",
+      "diziid": "jimmy",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/22/retroville_9__huysuz_gencler"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "Operation: Rescue Jet Fusion (1)",
+      "diziid": "jimmy",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/23/jet_fuzyon_kurtarma_operasyonu_bolum_1"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "Operation: Rescue Jet Fusion (2)",
+      "diziid": "jimmy",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/24/jet_fuzyon_kurtarma_operasyonu_bolum_2"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "Nightmare in Retroville",
+      "diziid": "jimmy",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/25/retrovillede_kabus"
+    },
+    {
+      "season": 6,
+      "episode": 26,
+      "title": "Monster Hunt/Jimmy for President",
+      "diziid": "jimmy",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/26/canavar_avi__baskan_adayi_jimmy"
+    },
+    {
+      "season": 7,
+      "episode": 27,
+      "title": "Return of the Nanobots",
+      "diziid": "jimmy",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/27/nanobotlarin_donusu"
+    },
+    {
+      "season": 8,
+      "episode": 28,
+      "title": "Holly Jolly Jimmy",
+      "diziid": "jimmy",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/28/mutlu_noeller_jimmy"
+    },
+    {
+      "season": 9,
+      "episode": 29,
+      "title": "Love Potion #976/J",
+      "diziid": "jimmy",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/29/ask_iksiri"
+    },
+    {
+      "season": 10,
+      "episode": 30,
+      "title": "Sheen's Brain",
+      "diziid": "jimmy",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/30/sheenin_beyni"
+    },
+    {
+      "season": 11,
+      "episode": 31,
+      "title": "MaternoTron Knows Best/Send in the Clones",
+      "diziid": "jimmy",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/31/annetron_en_iyisini_bilir__klonlari_gonderin"
+    },
+    {
+      "season": 12,
+      "episode": 32,
+      "title": "The Great Egg Heist / The Feud",
+      "diziid": "jimmy",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/32/buyuk_yumurta_soygunu__dusmanlik"
+    },
+    {
+      "season": 13,
+      "episode": 33,
+      "title": "Out, Darn Spotlight",
+      "diziid": "jimmy",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/33/spot_isiklari_disari"
+    },
+    {
+      "season": 14,
+      "episode": 34,
+      "title": "The Junkman Cometh",
+      "diziid": "jimmy",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/34/hurdaci_geliyor"
+    },
+    {
+      "season": 15,
+      "episode": 35,
+      "title": "Foul Bull / The Science Fair Affair",
+      "diziid": "jimmy",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/35/kumes_bogasi__bilim_festivali"
+    },
+    {
+      "season": 16,
+      "episode": 36,
+      "title": "Men at Work",
+      "diziid": "jimmy",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/36/erkekler_is_basinda"
+    },
+    {
+      "season": 17,
+      "episode": 37,
+      "title": "The Mighty Wheezers/Billion Dollar Boy",
+      "diziid": "jimmy",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/37/guclu_wheezerlar__milyar_dolarlik_cocuk"
+    },
+    {
+      "season": 18,
+      "episode": 38,
+      "title": "Win, Lose And Kaboom: Part 1",
+      "diziid": "jimmy",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/38/kazan_yoksa_yanarsin%21_bolum_1"
+    },
+    {
+      "season": 19,
+      "episode": 39,
+      "title": "Win, Lose and Kaboom! PART 2",
+      "diziid": "jimmy",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/39/kazan_yoksa_yanarsin%21_bolum_2"
+    },
+    {
+      "season": 20,
+      "episode": 40,
+      "title": "Win, Lose and Kaboom! part 3",
+      "diziid": "jimmy",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/40/kazan_yoksa_yanarsin%21_bolum_3"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "Attack of The Twonkies Part 2",
+      "diziid": "jimmy",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/42/twonkielerin_saldirisi_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 42,
+      "title": "The N-Men",
+      "diziid": "jimmy",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/43/n_erkekler"
+    },
+    {
+      "season": 4,
+      "episode": 43,
+      "title": "Lights! Camera! Danger!",
+      "diziid": "jimmy",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/44/isik%21_kamera%21_tehlike%21"
+    },
+    {
+      "season": 5,
+      "episode": 44,
+      "title": "The Tomorrow Boys",
+      "diziid": "jimmy",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/45/gelecegin_cocuklari"
+    },
+    {
+      "season": 6,
+      "episode": 45,
+      "title": "Fundemonium",
+      "diziid": "jimmy",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/46/oyuncak_sorunu"
+    },
+    {
+      "season": 7,
+      "episode": 46,
+      "title": "Stranded",
+      "diziid": "jimmy",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/47/mahsur_kalmak"
+    },
+    {
+      "season": 8,
+      "episode": 47,
+      "title": "Jimmy Goes to College",
+      "diziid": "jimmy",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/48/jimmy_koleje_gidiyor"
+    },
+    {
+      "season": 9,
+      "episode": 48,
+      "title": "The League of Villains (Part 1 of 2)",
+      "diziid": "jimmy",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/49/caniler_birligi_bolum_1"
+    },
+    {
+      "season": 10,
+      "episode": 49,
+      "title": "The League of Villains (Part 2 of 2)",
+      "diziid": "jimmy",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/50/caniler_birligi_bolum_2"
+    },
+    {
+      "season": 11,
+      "episode": 50,
+      "title": "Who's Your Mommy? / Clash of the Cousins",
+      "diziid": "jimmy",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/51/annen_kim_senin__kuzenler_savasi"
+    },
+    {
+      "season": 12,
+      "episode": 51,
+      "title": "My Big Fat Spy Wedding",
+      "diziid": "jimmy",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/52/casuslarin_gosterisli_dugunu"
+    },
+    {
+      "season": 13,
+      "episode": 52,
+      "title": "Crouching Jimmy, Hidden Sheen",
+      "diziid": "jimmy",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/53/kaplan_jimmy%2C_ejderha_sheen"
+    },
+    {
+      "season": 14,
+      "episode": 53,
+      "title": "The Incredible Shrinking Town",
+      "diziid": "jimmy",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/54/butun_sehir_kuculdu"
+    },
+    {
+      "season": 15,
+      "episode": 54,
+      "title": "One Of Us / Vanishing Act",
+      "diziid": "jimmy",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/55/bizden_biri__sihirbaz_jimmy"
+    },
+    {
+      "season": 16,
+      "episode": 55,
+      "title": "The Trouble with Clones",
+      "diziid": "jimmy",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/56/klon_jimmy"
+    },
+    {
+      "season": 17,
+      "episode": 56,
+      "title": "The Evil Beneath / Carl Wheezer, Boy Genius",
+      "diziid": "jimmy",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/57/deniz_altindaki_seytan__dahi_cocuk"
+    },
+    {
+      "season": 18,
+      "episode": 57,
+      "title": "Who Framed Jimmy? / Flippy",
+      "diziid": "jimmy",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/58/jimmyye_kim_tuzak_kurdu__flippy"
+    },
+    {
+      "season": 19,
+      "episode": 58,
+      "title": "How to Sink a Sub / Lady Sings the News",
+      "diziid": "jimmy",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/59/vekil_ogretmenler_nasil_batirilir__haber_sakiyan_hanim"
+    },
+    {
+      "season": 20,
+      "episode": 59,
+      "title": "King of Mars",
+      "diziid": "jimmy",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/60/mars_krali"
+    },
+    {
+      "season": 21,
+      "episode": 60,
+      "title": "El Magnifico / Best in Show",
+      "diziid": "jimmy",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/jimmy/jimmy_neutron/61/bay_muhtesem__gosterinin_en_iyisi"
+    }
+  ]
+}

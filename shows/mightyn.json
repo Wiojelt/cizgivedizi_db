@@ -1,0 +1,79 @@
+{
+  "id": "mightyn",
+  "title": "mighty nein",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MIGTYNPoster.avif",
+  "channel": "Prime Video",
+  "genres": [
+    "Macera",
+    "Komedi",
+    "Dram",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Mote of Possibility",
+      "diziid": "mightyn",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/mightyn/mighty_nein/1/olasilik_parcacigi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Who Will You Be?",
+      "diziid": "mightyn",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/mightyn/mighty_nein/2/kim_olacaksin"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Fletching & Moondrop Traveling Carnival of Curiosities",
+      "diziid": "mightyn",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/mightyn/mighty_nein/3/fletching_%26_moondrop_gezgin_harikalar_karnavali"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Mighty Nein",
+      "diziid": "mightyn",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/mightyn/mighty_nein/4/mighty_nein"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Little Spark",
+      "diziid": "mightyn",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/mightyn/mighty_nein/5/kucuk_kivilcim"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Many Gifts",
+      "diziid": "mightyn",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/mightyn/mighty_nein/6/bircok_hediye"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Belonging",
+      "diziid": "mightyn",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/mightyn/mighty_nein/7/aidiyet"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Zadash Job",
+      "diziid": "mightyn",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/mightyn/mighty_nein/8/zadash_isi"
+    }
+  ]
+}

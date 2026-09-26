@@ -1,0 +1,61 @@
+{
+  "id": "swuw",
+  "title": "star wars: yeraltÄ± hikayaleri",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/SWUWPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "A Way Forward",
+      "diziid": "swuw",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/swuw/star_wars%3A_yeralti_hikayaleri/1/ileriye_dogru"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Friends",
+      "diziid": "swuw",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/swuw/star_wars%3A_yeralti_hikayaleri/2/arkadaslar"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "One Warrior to Another",
+      "diziid": "swuw",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/swuw/star_wars%3A_yeralti_hikayaleri/3/bir_savascidan_digerine"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Good Life",
+      "diziid": "swuw",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/swuw/star_wars%3A_yeralti_hikayaleri/4/iyi_bir_hayat"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "A Good Turn",
+      "diziid": "swuw",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/swuw/star_wars%3A_yeralti_hikayaleri/5/iyilik_borcu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "One Good Deed",
+      "diziid": "swuw",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/swuw/star_wars%3A_yeralti_hikayaleri/6/son_bir_iyilik"
+    }
+  ]
+}

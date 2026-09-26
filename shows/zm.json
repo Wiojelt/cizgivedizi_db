@@ -1,0 +1,405 @@
+{
+  "id": "zm",
+  "title": "zoboomafoo",
+  "type": "other",
+  "poster": "https://cizgivedizi.com/resim/ZMPoster.avif",
+  "channel": "Yumurcak TV",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici",
+    "DoÄŸa ve Hayvanlar"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Nose Knows",
+      "diziid": "zm",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/1/burun_biliyor"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Eye Spy",
+      "diziid": "zm",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/2/gece_gozlugu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Dinosaurs",
+      "diziid": "zm",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/3/dinozorlar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Who's in the Hole?",
+      "diziid": "zm",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/4/delikte_kim_var"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Happy Lemur Day",
+      "diziid": "zm",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/5/mutlu_maymun_gunu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Swimming",
+      "diziid": "zm",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/6/yuzuculuk"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Slimy Buddies",
+      "diziid": "zm",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/7/kaygan_dostlar"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Snow Day",
+      "diziid": "zm",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/8/kar_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Night Time",
+      "diziid": "zm",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/9/gece_vakti"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Climbing",
+      "diziid": "zm",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/10/tirmanma"
+    },
+    {
+      "season": 23,
+      "episode": 11,
+      "title": "Bears",
+      "diziid": "zm",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/23/ayilar"
+    },
+    {
+      "season": 24,
+      "episode": 12,
+      "title": "Lids",
+      "diziid": "zm",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/24/boynuzlar"
+    },
+    {
+      "season": 25,
+      "episode": 13,
+      "title": "Great Singers",
+      "diziid": "zm",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/25/harika_otuculer"
+    },
+    {
+      "season": 26,
+      "episode": 14,
+      "title": "Playtime",
+      "diziid": "zm",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/26/oyun_zamani"
+    },
+    {
+      "season": 27,
+      "episode": 15,
+      "title": "Fast and Slow",
+      "diziid": "zm",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/27/hizli_ve_yavas"
+    },
+    {
+      "season": 28,
+      "episode": 16,
+      "title": "Horses",
+      "diziid": "zm",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/28/atlar"
+    },
+    {
+      "season": 30,
+      "episode": 17,
+      "title": "Jumpers",
+      "diziid": "zm",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/30/atlayicilar"
+    },
+    {
+      "season": 31,
+      "episode": 18,
+      "title": "Funny Faces",
+      "diziid": "zm",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/31/ilginc_suratlar"
+    },
+    {
+      "season": 32,
+      "episode": 19,
+      "title": "Spots and Stripes",
+      "diziid": "zm",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/32/benekler_ve_cizgiler"
+    },
+    {
+      "season": 33,
+      "episode": 20,
+      "title": "Sand Creatures",
+      "diziid": "zm",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/33/kum_hayvanlari"
+    },
+    {
+      "season": 34,
+      "episode": 21,
+      "title": "Water Creatures",
+      "diziid": "zm",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/34/su_hayvanlari"
+    },
+    {
+      "season": 35,
+      "episode": 22,
+      "title": "Who's in the Egg?",
+      "diziid": "zm",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/35/yumurtanin_icinde_ne_var"
+    },
+    {
+      "season": 37,
+      "episode": 23,
+      "title": "Cats",
+      "diziid": "zm",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/37/kediler"
+    },
+    {
+      "season": 38,
+      "episode": 24,
+      "title": "The Four F's",
+      "diziid": "zm",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/38/soguktan_korunma"
+    },
+    {
+      "season": 39,
+      "episode": 25,
+      "title": "Stinky",
+      "diziid": "zm",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/39/kokulu"
+    },
+    {
+      "season": 40,
+      "episode": 26,
+      "title": "Bzzz",
+      "diziid": "zm",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/40/bzzz"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Snakebellies",
+      "diziid": "zm",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/41/yilan_karinlari"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Hot and Cold",
+      "diziid": "zm",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/42/sicak_ve_soguk"
+    },
+    {
+      "season": 5,
+      "episode": 29,
+      "title": "Pop Goes the Tiger",
+      "diziid": "zm",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/45/pop_kaplana_gidiyor"
+    },
+    {
+      "season": 6,
+      "episode": 30,
+      "title": "Fearfest",
+      "diziid": "zm",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/46/korku_festivali"
+    },
+    {
+      "season": 7,
+      "episode": 31,
+      "title": "Humans",
+      "diziid": "zm",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/47/insanlar"
+    },
+    {
+      "season": 8,
+      "episode": 32,
+      "title": "Buddies",
+      "diziid": "zm",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/48/dostlar"
+    },
+    {
+      "season": 9,
+      "episode": 33,
+      "title": "H2O",
+      "diziid": "zm",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/49/h2o"
+    },
+    {
+      "season": 10,
+      "episode": 34,
+      "title": "Families",
+      "diziid": "zm",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/50/aileler"
+    },
+    {
+      "season": 11,
+      "episode": 35,
+      "title": "Green Creatures",
+      "diziid": "zm",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/51/yesil_yaratiklar"
+    },
+    {
+      "season": 12,
+      "episode": 36,
+      "title": "Super Lemur",
+      "diziid": "zm",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/52/super_maymun"
+    },
+    {
+      "season": 13,
+      "episode": 37,
+      "title": "Can You Feel It?",
+      "diziid": "zm",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/53/hissedebiliyor_musun"
+    },
+    {
+      "season": 14,
+      "episode": 38,
+      "title": "Bovine",
+      "diziid": "zm",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/54/buyukbaslar"
+    },
+    {
+      "season": 15,
+      "episode": 39,
+      "title": "Flying Buddies",
+      "diziid": "zm",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/55/ucan_dostlar"
+    },
+    {
+      "season": 16,
+      "episode": 40,
+      "title": "Don't Fence Me In",
+      "diziid": "zm",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/56/beni_sakin_hapsetme"
+    },
+    {
+      "season": 17,
+      "episode": 41,
+      "title": "Super Claw",
+      "diziid": "zm",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/57/super_pence"
+    },
+    {
+      "season": 18,
+      "episode": 42,
+      "title": "Crocodilian",
+      "diziid": "zm",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/58/timsah_turleri"
+    },
+    {
+      "season": 19,
+      "episode": 43,
+      "title": "Messy and Clean",
+      "diziid": "zm",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/59/daginik_ve_temiz"
+    },
+    {
+      "season": 20,
+      "episode": 44,
+      "title": "World of Legs",
+      "diziid": "zm",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/60/bacaklarin_dunyasi"
+    },
+    {
+      "season": 21,
+      "episode": 45,
+      "title": "Powerhouse",
+      "diziid": "zm",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/61/guc_evi"
+    },
+    {
+      "season": 22,
+      "episode": 46,
+      "title": "Armor",
+      "diziid": "zm",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/62/zirh"
+    },
+    {
+      "season": 23,
+      "episode": 47,
+      "title": "Grow, Zoboo, Grow",
+      "diziid": "zm",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/63/formul_zoboo%2C_formul"
+    },
+    {
+      "season": 24,
+      "episode": 48,
+      "title": "Ants and Eaters",
+      "diziid": "zm",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/64/karincalar_ve_yeyiciler"
+    },
+    {
+      "season": 25,
+      "episode": 49,
+      "title": "Brain Power",
+      "diziid": "zm",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/zm/zoboomafoo/65/beyin_gucu"
+    }
+  ]
+}

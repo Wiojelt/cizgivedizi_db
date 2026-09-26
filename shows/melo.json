@@ -1,0 +1,389 @@
+{
+  "id": "melo",
+  "title": "melekler okulu",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MELOPoster.avif",
+  "channel": "Star TV",
+  "genres": [
+    "Fantastik",
+    "Romantik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Fly With Your Own Wings",
+      "diziid": "melo",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/1/kendi_kanatlari_ile_ucmak"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Friends Forever",
+      "diziid": "melo",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/2/daima_arkadas"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Poor Devil",
+      "diziid": "melo",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/3/zavalli_seytan"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Real Beauty",
+      "diziid": "melo",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/4/gercek_guzellik"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Rules of the Game",
+      "diziid": "melo",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/5/oyunun_kurallari"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Protection",
+      "diziid": "melo",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/6/koruma"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Truth and Lies",
+      "diziid": "melo",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/7/dogru_yanlis"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Who Sows Wind, Reaps a Storm",
+      "diziid": "melo",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/8/ruzgar_eken_firtina_bicer"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "Divided",
+      "diziid": "melo",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/10/bolunmus"
+    },
+    {
+      "season": 13,
+      "episode": 10,
+      "title": "The Deadly Labyrinth",
+      "diziid": "melo",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/13/olumcul_labirent"
+    },
+    {
+      "season": 14,
+      "episode": 11,
+      "title": "Face to Face",
+      "diziid": "melo",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/14/yuz_yuze"
+    },
+    {
+      "season": 15,
+      "episode": 12,
+      "title": "Reina's Deception",
+      "diziid": "melo",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/15/reinanin_hilesi"
+    },
+    {
+      "season": 16,
+      "episode": 13,
+      "title": "Guardian Angel, Guardian Devil",
+      "diziid": "melo",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/16/koruyucu_melek%2C_koruyucu_seytan"
+    },
+    {
+      "season": 17,
+      "episode": 14,
+      "title": "Playing with Fire",
+      "diziid": "melo",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/17/ates_ile_oynamak"
+    },
+    {
+      "season": 18,
+      "episode": 15,
+      "title": "The Caves of Obscurity",
+      "diziid": "melo",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/18/bilinmezlik_magaralari"
+    },
+    {
+      "season": 19,
+      "episode": 16,
+      "title": "Life in Danger",
+      "diziid": "melo",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/19/tehlikedeki_hayat"
+    },
+    {
+      "season": 20,
+      "episode": 17,
+      "title": "From Sunset to Sunrise",
+      "diziid": "melo",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/20/gun_batimindan_gun_dogumuna"
+    },
+    {
+      "season": 21,
+      "episode": 18,
+      "title": "Threats on the Horizon",
+      "diziid": "melo",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/21/ufuktaki_tehlikeler"
+    },
+    {
+      "season": 22,
+      "episode": 19,
+      "title": "24 Hours",
+      "diziid": "melo",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/22/24_saat"
+    },
+    {
+      "season": 23,
+      "episode": 20,
+      "title": "On the Edge of the Abyss",
+      "diziid": "melo",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/23/ucurumun_kenarinda"
+    },
+    {
+      "season": 24,
+      "episode": 21,
+      "title": "Revenge of the Angels",
+      "diziid": "melo",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/24/meleklerin_intikami"
+    },
+    {
+      "season": 25,
+      "episode": 22,
+      "title": "The Trap of Time",
+      "diziid": "melo",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/25/zamanin_tuzagi"
+    },
+    {
+      "season": 26,
+      "episode": 23,
+      "title": "Two Couples, a Destiny",
+      "diziid": "melo",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/26/iki_cift%2C_bir_kader"
+    },
+    {
+      "season": 27,
+      "episode": 24,
+      "title": "Sacrilege",
+      "diziid": "melo",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/27/saygisizlik"
+    },
+    {
+      "season": 28,
+      "episode": 25,
+      "title": "Disciplinary Procedures",
+      "diziid": "melo",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/28/disiplin_isleri"
+    },
+    {
+      "season": 29,
+      "episode": 26,
+      "title": "Goodbye to the Golden School",
+      "diziid": "melo",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/29/altin_okula_elveda"
+    },
+    {
+      "season": 30,
+      "episode": 27,
+      "title": "The Last Chance",
+      "diziid": "melo",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/30/son_sans"
+    },
+    {
+      "season": 31,
+      "episode": 28,
+      "title": "Everlasting Detective",
+      "diziid": "melo",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/31/ebedi_dedektif"
+    },
+    {
+      "season": 32,
+      "episode": 29,
+      "title": "Dream or Reality?",
+      "diziid": "melo",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/32/ruya_mi_gercek_mi"
+    },
+    {
+      "season": 33,
+      "episode": 30,
+      "title": "Innocent",
+      "diziid": "melo",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/33/masum"
+    },
+    {
+      "season": 34,
+      "episode": 31,
+      "title": "The Legend of Reina",
+      "diziid": "melo",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/34/reinanin_efsanesi"
+    },
+    {
+      "season": 35,
+      "episode": 32,
+      "title": "Dangerous Shortcuts",
+      "diziid": "melo",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/35/tehlikeli_kestirmeler"
+    },
+    {
+      "season": 36,
+      "episode": 33,
+      "title": "Blow Under the Belt",
+      "diziid": "melo",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/36/kemerin_altindan_vurmak"
+    },
+    {
+      "season": 37,
+      "episode": 34,
+      "title": "To Regain Terrestrial",
+      "diziid": "melo",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/37/yeniden_kazanma"
+    },
+    {
+      "season": 38,
+      "episode": 35,
+      "title": "Mystery Party",
+      "diziid": "melo",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/38/gizem_partisi"
+    },
+    {
+      "season": 39,
+      "episode": 36,
+      "title": "Little Sweet... or Little Joke?",
+      "diziid": "melo",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/39/kucuk_tatli_mi_ya_da_kucuk_saka_mi"
+    },
+    {
+      "season": 40,
+      "episode": 37,
+      "title": "Forever Together",
+      "diziid": "melo",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/40/daima_birlikte"
+    },
+    {
+      "season": 41,
+      "episode": 38,
+      "title": "Face to Face with Reina",
+      "diziid": "melo",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/41/reina_ile_yuz_yuze"
+    },
+    {
+      "season": 42,
+      "episode": 39,
+      "title": "The Test",
+      "diziid": "melo",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/42/test"
+    },
+    {
+      "season": 43,
+      "episode": 40,
+      "title": "Someone to Trust",
+      "diziid": "melo",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/43/guvenilecek_biri"
+    },
+    {
+      "season": 44,
+      "episode": 41,
+      "title": "Duel and Temptation",
+      "diziid": "melo",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/44/duello_ve_igva"
+    },
+    {
+      "season": 47,
+      "episode": 42,
+      "title": "War Atmosphere",
+      "diziid": "melo",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/47/savas_atmosferi"
+    },
+    {
+      "season": 48,
+      "episode": 43,
+      "title": "Ultimatum to the Earth",
+      "diziid": "melo",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/48/dunyaya_ultimatom"
+    },
+    {
+      "season": 49,
+      "episode": 44,
+      "title": "At the Wolf's Den",
+      "diziid": "melo",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/49/kurt_ininde"
+    },
+    {
+      "season": 50,
+      "episode": 45,
+      "title": "Sacrifice",
+      "diziid": "melo",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/50/kurban"
+    },
+    {
+      "season": 51,
+      "episode": 46,
+      "title": "Final Clash",
+      "diziid": "melo",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/51/son_carpisma"
+    },
+    {
+      "season": 52,
+      "episode": 47,
+      "title": "Goodbye, Golden School",
+      "diziid": "melo",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/melo/melekler_okulu/52/altin_okula_elveda"
+    }
+  ]
+}

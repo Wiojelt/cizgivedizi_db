@@ -1,0 +1,221 @@
+{
+  "id": "mxlr",
+  "title": "megas xlr",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/MXLRPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Bilim Kurgu",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Test Drive",
+      "diziid": "mxlr",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/1/test_surusu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Fat and the Furious",
+      "diziid": "mxlr",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/2/sisman_ve_ofkeli"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Battle Royale",
+      "diziid": "mxlr",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/3/buyuk_savas"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "All I Wanted Was a Slushie...",
+      "diziid": "mxlr",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/4/butun_istedigim_bir_bardak_mega_slushieti"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Bad Guy",
+      "diziid": "mxlr",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/5/kotu_adam"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Buggin' the System",
+      "diziid": "mxlr",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/6/bocek_sistemi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Breakout",
+      "diziid": "mxlr",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/7/patlama_noktasi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "DMV: Department of Megas Violations",
+      "diziid": "mxlr",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/8/megas_arizalari_departmani"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Dude, Where's My Head?",
+      "diziid": "mxlr",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/9/dostum%2C_kafam_nerede"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Junk in the Trunk",
+      "diziid": "mxlr",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/10/garajdaki_dokuntuler"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "TV Dinner",
+      "diziid": "mxlr",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/11/televizyon_yemegi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Driver's Seat",
+      "diziid": "mxlr",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/12/surucu_koltugu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Coop D'Etat",
+      "diziid": "mxlr",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/13/taht_kavgasi"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Ultra Chicks",
+      "diziid": "mxlr",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/14/ultra_pilicler"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "The Return",
+      "diziid": "mxlr",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/15/iade"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Don't Tell Mom the Babysitter's Coop",
+      "diziid": "mxlr",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/16/annesine_coopun_dadi_oldugunu_soylemeyin"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Viva Las Megas",
+      "diziid": "mxlr",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/17/yasa_las_megas"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "S-Force S.O.S.",
+      "diziid": "mxlr",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/18/uzay_gucu_yardim_cagrisi"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Space Booty",
+      "diziid": "mxlr",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/19/uzay_ganimeti"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Thanksgiving Throwdown!",
+      "diziid": "mxlr",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/20/sukran_gunu_patlamasi%21"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Terminate Her",
+      "diziid": "mxlr",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/21/onu_yok_et"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Ice Ice Megas",
+      "diziid": "mxlr",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/22/megas_buzul_gezegeni"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "A Clockwork Megas",
+      "diziid": "mxlr",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/23/megasin_yeni_ses_sistemi"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "Universal Remote",
+      "diziid": "mxlr",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/24/evrensel_uzaktan_kumanda"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Rearview Mirror, Mirror (Part One)",
+      "diziid": "mxlr",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/25/arka_gorus_aynasi%2C_ayna_bolum_1"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "Rearview Mirror, Mirror (Part Two)",
+      "diziid": "mxlr",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/mxlr/megas_xlr/26/arka_gorus_aynasi%2C_ayna_bolum_2"
+    }
+  ]
+}

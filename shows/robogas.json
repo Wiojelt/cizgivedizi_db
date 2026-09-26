@@ -1,0 +1,61 @@
+{
+  "id": "robogas",
+  "title": "robogÃ¼cÃ¼: animasyon serisi",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ROBOGASPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Macera",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Rebooted, Rewired, and Ready to Go",
+      "diziid": "robogas",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/robogas/robogucu%3A_animasyon_serisi/1/calistirildi%2C_ayarlandi%2C_goreve_hazir"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Way Down Below",
+      "diziid": "robogas",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/robogas/robogucu%3A_animasyon_serisi/2/cok_asagilarda"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Search for S.O.T.A",
+      "diziid": "robogas",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/robogas/robogucu%3A_animasyon_serisi/3/s.o.t.ayi_arayis"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Journey to the Center of Maxx",
+      "diziid": "robogas",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/robogas/robogucu%3A_animasyon_serisi/4/maxxin_merkezine_seyahat"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "To Break These Earthly Bounds",
+      "diziid": "robogas",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/robogas/robogucu%3A_animasyon_serisi/5/dunya_baglantilarini_koparmak_icin"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Today Detroit, Tomorrow the World",
+      "diziid": "robogas",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/robogas/robogucu%3A_animasyon_serisi/6/bugun_detroit%2C_yarin_tum_dunya"
+    }
+  ]
+}

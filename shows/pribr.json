@@ -1,0 +1,734 @@
+{
+  "id": "pribr",
+  "title": "prison break",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/PRIBRPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "SuÃ§/Polisiye",
+    "Aksiyon",
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "pribr",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/1/ilk_bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Allen",
+      "diziid": "pribr",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/2/allen"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Cell Test",
+      "diziid": "pribr",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/3/hucre_testi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Cute Poison",
+      "diziid": "pribr",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/4/sirin_zehir"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "English, Fitz or Percy",
+      "diziid": "pribr",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/5/english%2C_fitz_ya_da_percy"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Riots, Drills and the Devil (1)",
+      "diziid": "pribr",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/6/isyanlar%2C_tatbikatlar_ve_seytan_bolum_1"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Riots, Drills and the Devil: Part 2",
+      "diziid": "pribr",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/7/isyanlar%2C_tatbikatlar_ve_seytan_bolum_2"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Old Head",
+      "diziid": "pribr",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/8/eski_kafa"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Tweener",
+      "diziid": "pribr",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/9/tweener"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Sleight of Hand",
+      "diziid": "pribr",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/10/el_cabuklugu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "And Then There Were 7",
+      "diziid": "pribr",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/11/sonra_7_kisi_kaldilar"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Odd Man Out",
+      "diziid": "pribr",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/12/dislanan"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "End of the Tunnel",
+      "diziid": "pribr",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/13/tunelin_sonu"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Rat",
+      "diziid": "pribr",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/14/sican"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "By the Skin and the Teeth",
+      "diziid": "pribr",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/15/kil_payi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Brother's Keeper",
+      "diziid": "pribr",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/16/kardes_bakicisi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "J-Cat",
+      "diziid": "pribr",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/17/psikiyatrilik_mahkum"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Bluff",
+      "diziid": "pribr",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/18/blof"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Key",
+      "diziid": "pribr",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/19/anahtar"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Tonight",
+      "diziid": "pribr",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/20/bu_gece"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Go",
+      "diziid": "pribr",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/21/git"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Flight",
+      "diziid": "pribr",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/22/kacis"
+    },
+    {
+      "season": 1,
+      "episode": 23,
+      "title": "Manhunt",
+      "diziid": "pribr",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/23/insan_avi"
+    },
+    {
+      "season": 2,
+      "episode": 24,
+      "title": "Otis",
+      "diziid": "pribr",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/24/otis"
+    },
+    {
+      "season": 3,
+      "episode": 25,
+      "title": "Scan",
+      "diziid": "pribr",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/25/tarama"
+    },
+    {
+      "season": 4,
+      "episode": 26,
+      "title": "First Down",
+      "diziid": "pribr",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/26/ilk_kayip"
+    },
+    {
+      "season": 5,
+      "episode": 27,
+      "title": "Map 1213",
+      "diziid": "pribr",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/27/harita_1213"
+    },
+    {
+      "season": 6,
+      "episode": 28,
+      "title": "Subdivision",
+      "diziid": "pribr",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/28/alt_bolum"
+    },
+    {
+      "season": 7,
+      "episode": 29,
+      "title": "Buried",
+      "diziid": "pribr",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/29/gomulu"
+    },
+    {
+      "season": 8,
+      "episode": 30,
+      "title": "Dead Fall",
+      "diziid": "pribr",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/30/olumcul_dusus"
+    },
+    {
+      "season": 9,
+      "episode": 31,
+      "title": "Unearthed",
+      "diziid": "pribr",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/31/topraktan_cikan"
+    },
+    {
+      "season": 10,
+      "episode": 32,
+      "title": "Rendezvous",
+      "diziid": "pribr",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/32/randevu"
+    },
+    {
+      "season": 11,
+      "episode": 33,
+      "title": "Bolshoi Booze",
+      "diziid": "pribr",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/33/bolshoi_ickisi"
+    },
+    {
+      "season": 12,
+      "episode": 34,
+      "title": "Disconnect",
+      "diziid": "pribr",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/34/baglanti_kesintisi"
+    },
+    {
+      "season": 13,
+      "episode": 35,
+      "title": "The Killing Box",
+      "diziid": "pribr",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/35/oldurme_kutusu"
+    },
+    {
+      "season": 14,
+      "episode": 36,
+      "title": "John Doe",
+      "diziid": "pribr",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/36/kimligi_belirsiz_adam"
+    },
+    {
+      "season": 15,
+      "episode": 37,
+      "title": "The Message",
+      "diziid": "pribr",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/37/mesaj"
+    },
+    {
+      "season": 16,
+      "episode": 38,
+      "title": "Chicago",
+      "diziid": "pribr",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/38/chicago"
+    },
+    {
+      "season": 17,
+      "episode": 39,
+      "title": "Bad Blood",
+      "diziid": "pribr",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/39/dusmanlik"
+    },
+    {
+      "season": 18,
+      "episode": 40,
+      "title": "Wash",
+      "diziid": "pribr",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/40/yikama"
+    },
+    {
+      "season": 19,
+      "episode": 41,
+      "title": "Sweet Caroline",
+      "diziid": "pribr",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/41/tatli_caroline"
+    },
+    {
+      "season": 20,
+      "episode": 42,
+      "title": "Panama",
+      "diziid": "pribr",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/42/panama"
+    },
+    {
+      "season": 21,
+      "episode": 43,
+      "title": "Fin Del Camino",
+      "diziid": "pribr",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/43/yolun_sonu"
+    },
+    {
+      "season": 22,
+      "episode": 44,
+      "title": "Sona",
+      "diziid": "pribr",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/44/sona"
+    },
+    {
+      "season": 1,
+      "episode": 45,
+      "title": "OrientaciÃ³n",
+      "diziid": "pribr",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/45/oryantasyon"
+    },
+    {
+      "season": 2,
+      "episode": 46,
+      "title": "Fire/Water",
+      "diziid": "pribr",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/46/ates__su"
+    },
+    {
+      "season": 3,
+      "episode": 47,
+      "title": "Call Waiting",
+      "diziid": "pribr",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/47/bekleyen_cagri"
+    },
+    {
+      "season": 4,
+      "episode": 48,
+      "title": "Good Fences",
+      "diziid": "pribr",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/48/sinirlar_belli"
+    },
+    {
+      "season": 5,
+      "episode": 49,
+      "title": "Interference",
+      "diziid": "pribr",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/49/mudahale"
+    },
+    {
+      "season": 6,
+      "episode": 50,
+      "title": "Photo Finish",
+      "diziid": "pribr",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/50/fotofinis"
+    },
+    {
+      "season": 7,
+      "episode": 51,
+      "title": "Vamonos",
+      "diziid": "pribr",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/51/gidelim"
+    },
+    {
+      "season": 8,
+      "episode": 52,
+      "title": "Bang and Burn",
+      "diziid": "pribr",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/52/vur_%26_yak"
+    },
+    {
+      "season": 9,
+      "episode": 53,
+      "title": "Boxed In",
+      "diziid": "pribr",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/53/kutulanmis"
+    },
+    {
+      "season": 10,
+      "episode": 54,
+      "title": "Go",
+      "diziid": "pribr",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/54/olup_gitmek"
+    },
+    {
+      "season": 11,
+      "episode": 55,
+      "title": "Under and Out",
+      "diziid": "pribr",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/55/anlasilmadi_tamam"
+    },
+    {
+      "season": 12,
+      "episode": 56,
+      "title": "Hell or High Water",
+      "diziid": "pribr",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/56/ne_olursa_olsun"
+    },
+    {
+      "season": 13,
+      "episode": 57,
+      "title": "The Art of the Deal",
+      "diziid": "pribr",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/57/anlasma_sanati"
+    },
+    {
+      "season": 1,
+      "episode": 58,
+      "title": "Scylla",
+      "diziid": "pribr",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/58/scylla"
+    },
+    {
+      "season": 2,
+      "episode": 59,
+      "title": "Breaking and Entering",
+      "diziid": "pribr",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/59/haneye_tecavuz"
+    },
+    {
+      "season": 3,
+      "episode": 60,
+      "title": "Shut Down",
+      "diziid": "pribr",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/60/kapanis"
+    },
+    {
+      "season": 4,
+      "episode": 61,
+      "title": "Eagles and Angels",
+      "diziid": "pribr",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/61/kartallar_ve_melekler"
+    },
+    {
+      "season": 5,
+      "episode": 62,
+      "title": "Safe and Sound",
+      "diziid": "pribr",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/62/sag_salim"
+    },
+    {
+      "season": 6,
+      "episode": 63,
+      "title": "Blow Out",
+      "diziid": "pribr",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/63/sonus"
+    },
+    {
+      "season": 7,
+      "episode": 64,
+      "title": "Five the Hard Way",
+      "diziid": "pribr",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/64/bes_zor_yol"
+    },
+    {
+      "season": 8,
+      "episode": 65,
+      "title": "The Price",
+      "diziid": "pribr",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/65/bedel"
+    },
+    {
+      "season": 9,
+      "episode": 66,
+      "title": "Greatness Achieved",
+      "diziid": "pribr",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/66/azamete_erisildi"
+    },
+    {
+      "season": 10,
+      "episode": 67,
+      "title": "The Legend",
+      "diziid": "pribr",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/67/efsane"
+    },
+    {
+      "season": 11,
+      "episode": 68,
+      "title": "Quiet Riot",
+      "diziid": "pribr",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/68/sessiz_isyan"
+    },
+    {
+      "season": 12,
+      "episode": 69,
+      "title": "Selfless",
+      "diziid": "pribr",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/69/ozgecil"
+    },
+    {
+      "season": 13,
+      "episode": 70,
+      "title": "Deal or No Deal",
+      "diziid": "pribr",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/70/anlastik_mi"
+    },
+    {
+      "season": 14,
+      "episode": 71,
+      "title": "Just Business",
+      "diziid": "pribr",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/71/sadece_is"
+    },
+    {
+      "season": 15,
+      "episode": 72,
+      "title": "Going Under",
+      "diziid": "pribr",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/72/bilinc_kaybi"
+    },
+    {
+      "season": 16,
+      "episode": 73,
+      "title": "The Sunshine State",
+      "diziid": "pribr",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/73/gun_isigi_eyaleti"
+    },
+    {
+      "season": 17,
+      "episode": 74,
+      "title": "The Mother Lode",
+      "diziid": "pribr",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/74/ana_damar"
+    },
+    {
+      "season": 18,
+      "episode": 75,
+      "title": "VS.",
+      "diziid": "pribr",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/75/kapisma"
+    },
+    {
+      "season": 19,
+      "episode": 76,
+      "title": "S.O.B.",
+      "diziid": "pribr",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/76/serefsiz"
+    },
+    {
+      "season": 20,
+      "episode": 77,
+      "title": "Cowboys and Indians",
+      "diziid": "pribr",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/77/kovboylar_ve_amerikan_yerlileri"
+    },
+    {
+      "season": 21,
+      "episode": 78,
+      "title": "Rate of Exchange",
+      "diziid": "pribr",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/78/kur_orani"
+    },
+    {
+      "season": 22,
+      "episode": 79,
+      "title": "Killing Your Number",
+      "diziid": "pribr",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/79/hapishane_sisteminden_cikmak"
+    },
+    {
+      "season": 23,
+      "episode": 80,
+      "title": "The Old Ball and Chain",
+      "diziid": "pribr",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/80/ozgurluk_kisitlamasi"
+    },
+    {
+      "season": 24,
+      "episode": 81,
+      "title": "Free",
+      "diziid": "pribr",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/81/ozgur"
+    },
+    {
+      "season": 1,
+      "episode": 82,
+      "title": "Ogygia",
+      "diziid": "pribr",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/82/ogygia"
+    },
+    {
+      "season": 2,
+      "episode": 83,
+      "title": "Kaniel Outis",
+      "diziid": "pribr",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/83/kaniel_outis"
+    },
+    {
+      "season": 3,
+      "episode": 84,
+      "title": "The Liar",
+      "diziid": "pribr",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/84/yalanci"
+    },
+    {
+      "season": 4,
+      "episode": 85,
+      "title": "The Prisoner's Dilemma",
+      "diziid": "pribr",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/85/mahkumun_ikilemi"
+    },
+    {
+      "season": 5,
+      "episode": 86,
+      "title": "Contingency",
+      "diziid": "pribr",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/86/tesaduf"
+    },
+    {
+      "season": 6,
+      "episode": 87,
+      "title": "Phaecia",
+      "diziid": "pribr",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/87/phaceia"
+    },
+    {
+      "season": 7,
+      "episode": 88,
+      "title": "Wine Dark Sea",
+      "diziid": "pribr",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/88/sarap_-_karanlik_deniz"
+    },
+    {
+      "season": 8,
+      "episode": 89,
+      "title": "Progeny",
+      "diziid": "pribr",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/89/nesil"
+    },
+    {
+      "season": 9,
+      "episode": 90,
+      "title": "Behind the Eyes",
+      "diziid": "pribr",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/pribr/prison_break/90/gozlerin_ardinda"
+    }
+  ]
+}

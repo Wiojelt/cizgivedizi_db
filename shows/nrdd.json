@@ -1,0 +1,685 @@
+{
+  "id": "nrdd",
+  "title": "nicky, ricky, dicky ve dawn",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/NRDDPoster.avif",
+  "channel": "Nickelodeon",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "nrdd",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/1/pilot_bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Dawn Moves Out",
+      "diziid": "nrdd",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/2/dawn_tasiniyor"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Get Sporty-er!",
+      "diziid": "nrdd",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/3/daha_sporcu_ol"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Field of Brains",
+      "diziid": "nrdd",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/4/beyin_sahasi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Scaredy Dance",
+      "diziid": "nrdd",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/5/korkunc_dans"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Remote Control Control",
+      "diziid": "nrdd",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/6/kumanda_kavgasi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "PooDunnit",
+      "diziid": "nrdd",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/7/kim_yapti"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "I Got Your Back",
+      "diziid": "nrdd",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/8/geri_aldim"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Sad Tail of Gary-Chip-Tiny-Elvis-Squishy-Paws",
+      "diziid": "nrdd",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/9/gary-chip-tiny-elvis-squishy-pawsin_kuyrugu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Santa's Little Harpers",
+      "diziid": "nrdd",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/10/noel_babanin_yardimcilari"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Quadfather",
+      "diziid": "nrdd",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/11/baba_dorduz"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Quad-Test",
+      "diziid": "nrdd",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/12/dorduzlerin_sinavi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Secret",
+      "diziid": "nrdd",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/13/sirlar"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Take the Money and Run",
+      "diziid": "nrdd",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/14/parayi_al_ve_kac"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Valentime's Day",
+      "diziid": "nrdd",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/15/sevgililer_gunu_zamani"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Piggy, Piggy, Piggy, & Dawn",
+      "diziid": "nrdd",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/16/domuzcuk%2C_domuzcuk%2C_domuzcuk_ve_dawn"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Quad-ventures in Babysitting",
+      "diziid": "nrdd",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/17/dorduzlerin_bakicisi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "M.D. Day",
+      "diziid": "nrdd",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/18/doktor_gunu"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Abraquadabra",
+      "diziid": "nrdd",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/19/abrakadabra"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Family Matters",
+      "diziid": "nrdd",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/20/aile_meseleleri"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "Wanted: The Sugar Beet Gang",
+      "diziid": "nrdd",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/21/seker_pancari_cetesi"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "No Ifs, Ands, or But-ers",
+      "diziid": "nrdd",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/22/keskeler_veler_veya_amalar_yok"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "Urban Legend Outfitters",
+      "diziid": "nrdd",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/23/sehir_efsanesi_dukkani"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "Do-It-All Dawn",
+      "diziid": "nrdd",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/24/hepsini_yap_dawn"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "Unhappy Campers",
+      "diziid": "nrdd",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/25/mutsuz_kampcilar"
+    },
+    {
+      "season": 6,
+      "episode": 26,
+      "title": "Mall in the Family",
+      "diziid": "nrdd",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/26/ailedeki_kostebek"
+    },
+    {
+      "season": 7,
+      "episode": 27,
+      "title": "I Want Candace",
+      "diziid": "nrdd",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/27/candacei_istiyorum"
+    },
+    {
+      "season": 8,
+      "episode": 28,
+      "title": "Sweet Foot Rides",
+      "diziid": "nrdd",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/28/tatli_yemek_yolculugu"
+    },
+    {
+      "season": 9,
+      "episode": 29,
+      "title": "The Mighty Quad Squad",
+      "diziid": "nrdd",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/29/efsanevi_dorduz_takimi"
+    },
+    {
+      "season": 10,
+      "episode": 30,
+      "title": "Quaddy-Shack",
+      "diziid": "nrdd",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/30/dorduzler_golfte"
+    },
+    {
+      "season": 11,
+      "episode": 31,
+      "title": "Go Hollywood, Part 1",
+      "diziid": "nrdd",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/31/hollywood_macerasi%2C_bolum_1"
+    },
+    {
+      "season": 12,
+      "episode": 32,
+      "title": "Go Hollywood, Part 2",
+      "diziid": "nrdd",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/32/hollywood_macerasi%2C_bolum_2"
+    },
+    {
+      "season": 13,
+      "episode": 33,
+      "title": "Rock 'n' Rules",
+      "diziid": "nrdd",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/33/rockn_kurallar"
+    },
+    {
+      "season": 14,
+      "episode": 34,
+      "title": "Ballet and the Beasts",
+      "diziid": "nrdd",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/34/bale_ve_cirkin"
+    },
+    {
+      "season": 15,
+      "episode": 35,
+      "title": "She Blinded Him with Science (Bob)",
+      "diziid": "nrdd",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/35/gozunu_bilim_ile_kor_etti"
+    },
+    {
+      "season": 16,
+      "episode": 36,
+      "title": "Harpers for President",
+      "diziid": "nrdd",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/36/baskanlik_icin_harpers"
+    },
+    {
+      "season": 17,
+      "episode": 37,
+      "title": "Doggy Door Afternoon",
+      "diziid": "nrdd",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/37/kopek_kapisi_gunu"
+    },
+    {
+      "season": 18,
+      "episode": 38,
+      "title": "Three Men and a Mae B.",
+      "diziid": "nrdd",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/38/adam_ve_mae_b."
+    },
+    {
+      "season": 19,
+      "episode": 39,
+      "title": "Diary of an Angry Quad",
+      "diziid": "nrdd",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/39/kizgin_bir_dorduzun_gunlugu"
+    },
+    {
+      "season": 20,
+      "episode": 40,
+      "title": "Quad Court",
+      "diziid": "nrdd",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/40/dorduz_sahasi"
+    },
+    {
+      "season": 21,
+      "episode": 41,
+      "title": "The Quad-Plex",
+      "diziid": "nrdd",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/41/sinemadan_kacmak"
+    },
+    {
+      "season": 22,
+      "episode": 42,
+      "title": "Nicky, Ricky, Dicky & Sicky",
+      "diziid": "nrdd",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/42/nicky%2C_ricky%2C_dicky_ve_hasta"
+    },
+    {
+      "season": 23,
+      "episode": 43,
+      "title": "Mission: Un-Quaddable",
+      "diziid": "nrdd",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/43/gorevimiz%3A_dorduzlememek"
+    },
+    {
+      "season": 24,
+      "episode": 44,
+      "title": "A Brief Case of Popularity",
+      "diziid": "nrdd",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/44/kisa_bir_populerlik_vakasi"
+    },
+    {
+      "season": 25,
+      "episode": 45,
+      "title": "New Kid on the Block",
+      "diziid": "nrdd",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/45/mahalledeki_yeni_cocuk"
+    },
+    {
+      "season": 26,
+      "episode": 46,
+      "title": "The Tell-Tale Art",
+      "diziid": "nrdd",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/46/yalandan_sanat"
+    },
+    {
+      "season": 1,
+      "episode": 47,
+      "title": "Quad with a Blog",
+      "diziid": "nrdd",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/47/dorduzler_ve_blog"
+    },
+    {
+      "season": 2,
+      "episode": 48,
+      "title": "Odd Quad Out",
+      "diziid": "nrdd",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/48/tuhaf_dorduzler"
+    },
+    {
+      "season": 3,
+      "episode": 49,
+      "title": "Keeping Up with the Quadashians",
+      "diziid": "nrdd",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/49/dorduzlerin_sovu"
+    },
+    {
+      "season": 4,
+      "episode": 50,
+      "title": "The Great Mullet Caper",
+      "diziid": "nrdd",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/50/kafe_planlari"
+    },
+    {
+      "season": 5,
+      "episode": 51,
+      "title": "Quadsled",
+      "diziid": "nrdd",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/51/dorduz_kizak"
+    },
+    {
+      "season": 6,
+      "episode": 52,
+      "title": "Ye Olde Hand Holde",
+      "diziid": "nrdd",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/52/buyuksen_elimi_tutabilirsin"
+    },
+    {
+      "season": 7,
+      "episode": 53,
+      "title": "What's the Worst That Quad Happen?",
+      "diziid": "nrdd",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/53/dorduzlerin_basina_en_kotu_ne_gelebilir"
+    },
+    {
+      "season": 8,
+      "episode": 54,
+      "title": "To Be Invited or Not to Be",
+      "diziid": "nrdd",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/54/davet_edilmek_ya_da_edilmemek"
+    },
+    {
+      "season": 9,
+      "episode": 55,
+      "title": "Ele-Funk in the Room",
+      "diziid": "nrdd",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/55/ele-funk_konseri"
+    },
+    {
+      "season": 10,
+      "episode": 56,
+      "title": "Tween Wolf",
+      "diziid": "nrdd",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/56/genc_kurt"
+    },
+    {
+      "season": 11,
+      "episode": 57,
+      "title": "This Little Piggy Went to the Harpers",
+      "diziid": "nrdd",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/57/bu_kucuk_domuzcuk_harpersa_gitmis"
+    },
+    {
+      "season": 12,
+      "episode": 58,
+      "title": "I Want My Mae B. Back",
+      "diziid": "nrdd",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/58/mae_byi_geri_istiyorum"
+    },
+    {
+      "season": 13,
+      "episode": 59,
+      "title": "The Buffa-Lowdown",
+      "diziid": "nrdd",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/59/isin_asli"
+    },
+    {
+      "season": 14,
+      "episode": 60,
+      "title": "The Quadshank Redemption",
+      "diziid": "nrdd",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/60/dorduzler_karnavalda"
+    },
+    {
+      "season": 15,
+      "episode": 61,
+      "title": "Not-So-Sweet Charity",
+      "diziid": "nrdd",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/61/tatli_olmayan_yardim"
+    },
+    {
+      "season": 16,
+      "episode": 62,
+      "title": "One Quadzy Summer",
+      "diziid": "nrdd",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/62/dorduzlerin_yazi"
+    },
+    {
+      "season": 17,
+      "episode": 63,
+      "title": "Quad for Teacher",
+      "diziid": "nrdd",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/63/dorduzler_ve_ogretmen"
+    },
+    {
+      "season": 18,
+      "episode": 64,
+      "title": "Quadpendence Day",
+      "diziid": "nrdd",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/64/dorduzlerin_bagimsizlik_gunu"
+    },
+    {
+      "season": 19,
+      "episode": 65,
+      "title": "Cementing the Quads' Legacy",
+      "diziid": "nrdd",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/65/dorduzler_itibarlarini_duzeltiyor"
+    },
+    {
+      "season": 20,
+      "episode": 66,
+      "title": "#QuadGoals",
+      "diziid": "nrdd",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/66/dorduz_hedefleri"
+    },
+    {
+      "season": 21,
+      "episode": 67,
+      "title": "A Space Quadyssey",
+      "diziid": "nrdd",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/67/uzay_dorduzleri"
+    },
+    {
+      "season": 22,
+      "episode": 68,
+      "title": "Yoco",
+      "diziid": "nrdd",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/68/yoco"
+    },
+    {
+      "season": 23,
+      "episode": 69,
+      "title": "The Wonderful Wizard of Quads: Part 1",
+      "diziid": "nrdd",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/69/mukemmel_buyucu_dorduzler%3A_bolum_1"
+    },
+    {
+      "season": 24,
+      "episode": 70,
+      "title": "The Wonderful Wizard of Quads: Part 2",
+      "diziid": "nrdd",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/70/mukemmel_buyucu_dorduzler%3A_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 71,
+      "title": "Dude, Where's My School?",
+      "diziid": "nrdd",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/71/dostum_okulum_nerede"
+    },
+    {
+      "season": 2,
+      "episode": 72,
+      "title": "Wrestle-Mae-nia",
+      "diziid": "nrdd",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/72/gures_cilginligi"
+    },
+    {
+      "season": 3,
+      "episode": 73,
+      "title": "Nicky, Ricky, Dicky & BeyDawncÃ©",
+      "diziid": "nrdd",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/73/nicky%2C_ricky%2C_dicky_ve_beydawnce"
+    },
+    {
+      "season": 4,
+      "episode": 74,
+      "title": "It's a Hard Knocks Life",
+      "diziid": "nrdd",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/74/sahtekarin_hayati_zor"
+    },
+    {
+      "season": 5,
+      "episode": 75,
+      "title": "Sympathy for the Squishy",
+      "diziid": "nrdd",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/75/squishy_icin_anlayis"
+    },
+    {
+      "season": 6,
+      "episode": 76,
+      "title": "The Harper Quad-Jobbers",
+      "diziid": "nrdd",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/76/harpers_dorduzleri_calisiyor"
+    },
+    {
+      "season": 7,
+      "episode": 77,
+      "title": "Leader of the Stack",
+      "diziid": "nrdd",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/77/kulenin_lideri"
+    },
+    {
+      "season": 8,
+      "episode": 78,
+      "title": "Quadentity Crisis",
+      "diziid": "nrdd",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/78/dorduz_kisilik_krizi"
+    },
+    {
+      "season": 9,
+      "episode": 79,
+      "title": "Quadbusters",
+      "diziid": "nrdd",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/79/dorduz_avcilar"
+    },
+    {
+      "season": 10,
+      "episode": 80,
+      "title": "Quadcodile Dundee",
+      "diziid": "nrdd",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/80/dorduz_timsah_dundee"
+    },
+    {
+      "season": 11,
+      "episode": 81,
+      "title": "House Crushing for Dummies",
+      "diziid": "nrdd",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/81/aptallar_icin_ev_hoslantilari"
+    },
+    {
+      "season": 12,
+      "episode": 82,
+      "title": "We'll Always Have Parasites",
+      "diziid": "nrdd",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/82/parazitler_hep_bizimle_olacak"
+    },
+    {
+      "season": 13,
+      "episode": 83,
+      "title": "Quadspiracy Theory",
+      "diziid": "nrdd",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/83/dorduz_komplo_teorisi"
+    },
+    {
+      "season": 14,
+      "episode": 84,
+      "title": "Lasties with Firsties",
+      "diziid": "nrdd",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/nrdd/nicky%2C_ricky%2C_dicky_ve_dawn/84/sonlarla_ilkler"
+    }
+  ]
+}

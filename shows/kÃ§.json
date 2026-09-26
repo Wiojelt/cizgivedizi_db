@@ -1,0 +1,692 @@
+{
+  "id": "kÃ§",
+  "title": "kabarcÄ±k Ã§ocuklar",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KÃ‡Poster.avif",
+  "channel": "Nick Jr.",
+  "genres": [
+    "MÃ¼zik/MÃ¼zikal"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Get Ready for School!",
+      "diziid": "k%C3%A7",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/41/okula_geri_donus%21"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Police Cop-etition!",
+      "diziid": "k%C3%A7",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/42/polis_yarismasi%21"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Elephant Trunk-A-Dunk!",
+      "diziid": "k%C3%A7",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/43/basketci_filler%21"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Super Ballet Bowl!",
+      "diziid": "k%C3%A7",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/44/super_bale_kupasi%21"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Wizard of Oz-tralia!",
+      "diziid": "k%C3%A7",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/45/avustralya_buyucusu%21"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Arctic Life!",
+      "diziid": "k%C3%A7",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/46/arktik_yasam%21"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Puppy Love!",
+      "diziid": "k%C3%A7",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/47/kopek_sevgisi%21"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Puppy and the Ring",
+      "diziid": "k%C3%A7",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/48/kopek_ve_yuzuk_1.bolum"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Puppy and the Ring Part 2",
+      "diziid": "k%C3%A7",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/49/kopek_ve_yuzuk_2.bolum"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Amusement Parking Lot!",
+      "diziid": "k%C3%A7",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/50/lun-otopark%21"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Good Morning, Mr. Grumpfish!",
+      "diziid": "k%C3%A7",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/51/gunaydin_bay_huysuz_balik%21"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Oyster Bunny!",
+      "diziid": "k%C3%A7",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/52/istiridye_tavsani%21"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Unidentified Flying Orchestra!",
+      "diziid": "k%C3%A7",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/53/tanimlanamayan_ucan_orkestra%21"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Come to Your Senses!",
+      "diziid": "k%C3%A7",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/54/hislerini_hisset%21"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Bubble Bee-athalon!",
+      "diziid": "k%C3%A7",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/55/kabarcik_ari-atlonu%21"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Party at Sea!",
+      "diziid": "k%C3%A7",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/56/denizde_parti%21"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Bubble Scrubbies!",
+      "diziid": "k%C3%A7",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/57/kabarcik_temizlikleri%21"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Swimtastic Check-Up!",
+      "diziid": "k%C3%A7",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/58/saglik_kontrolu%21"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Gobble Gobble Guppies!",
+      "diziid": "k%C3%A7",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/59/glu_glu_cocuklar%21"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "A Very Guppy Christmas!",
+      "diziid": "k%C3%A7",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/60/bir_guppy_noel%E2%80%99i%21"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Puddleball!",
+      "diziid": "k%C3%A7",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/61/camur_topu%21"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "The Running of the Bullfrogs!",
+      "diziid": "k%C3%A7",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/62/kurbagalarin_yarisi%21"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Bubble Kitty!",
+      "diziid": "k%C3%A7",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/63/kabarcik_kedicik%21"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Super Guppies!",
+      "diziid": "k%C3%A7",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/64/super_cocuklar%21"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "A Dolphin is a Guppy's Best Friend!",
+      "diziid": "k%C3%A7",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/65/bir_yunus_bir_cocugun_en_iyi_dostudur%21"
+    },
+    {
+      "season": 1,
+      "episode": 26,
+      "title": "The Glitter Games!",
+      "diziid": "k%C3%A7",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/66/parildama_oyunlari%21"
+    },
+    {
+      "season": 2,
+      "episode": 27,
+      "title": "Costume Boxing!",
+      "diziid": "k%C3%A7",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/67/kutudaki_kostumler%21"
+    },
+    {
+      "season": 3,
+      "episode": 28,
+      "title": "The New Doghouse!",
+      "diziid": "k%C3%A7",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/68/yeni_kopek_kulubesi%21"
+    },
+    {
+      "season": 4,
+      "episode": 29,
+      "title": "Fruit Camp!",
+      "diziid": "k%C3%A7",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/69/meyve_kampi%21"
+    },
+    {
+      "season": 5,
+      "episode": 30,
+      "title": "Guppy Movers!",
+      "diziid": "k%C3%A7",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/70/kabarcik_nakliyeciler%21"
+    },
+    {
+      "season": 6,
+      "episode": 31,
+      "title": "Batterball!",
+      "diziid": "k%C3%A7",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/71/hamur_topu%21"
+    },
+    {
+      "season": 7,
+      "episode": 32,
+      "title": "Temple of the Lost Puppy!",
+      "diziid": "k%C3%A7",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/72/kayip_kopek_yavrusunun_tapinagi%21"
+    },
+    {
+      "season": 8,
+      "episode": 33,
+      "title": "Space Guppies!",
+      "diziid": "k%C3%A7",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/73/uzay_cocuklari"
+    },
+    {
+      "season": 9,
+      "episode": 34,
+      "title": "The New Year's Dragon!",
+      "diziid": "k%C3%A7",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/74/yeni_yil_ejderi%21"
+    },
+    {
+      "season": 10,
+      "episode": 35,
+      "title": "Sheep Doggy!",
+      "diziid": "k%C3%A7",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/75/coban_kopekcigi%21"
+    },
+    {
+      "season": 11,
+      "episode": 36,
+      "title": "Bubble Baby!",
+      "diziid": "k%C3%A7",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/76/kabarcik_bebek%21"
+    },
+    {
+      "season": 12,
+      "episode": 37,
+      "title": "Guppy Style!",
+      "diziid": "k%C3%A7",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/77/kabarcik_tarzi%21"
+    },
+    {
+      "season": 13,
+      "episode": 38,
+      "title": "Guppy Style! Part 2",
+      "diziid": "k%C3%A7",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/78/kabarcik_tarzi%21_2.kisim"
+    },
+    {
+      "season": 14,
+      "episode": 39,
+      "title": "The Summer Camp Games!",
+      "diziid": "k%C3%A7",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/79/yaz_kampi_oyunlari%21"
+    },
+    {
+      "season": 15,
+      "episode": 40,
+      "title": "Trick or Treat, Mr. Grumpfish!",
+      "diziid": "k%C3%A7",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/80/saka_ya_da_seker%2C_bay_aksi_huysuz%21"
+    },
+    {
+      "season": 1,
+      "episode": 41,
+      "title": "The New Guppy!",
+      "diziid": "k%C3%A7",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/81/yeni_cocuk%21"
+    },
+    {
+      "season": 2,
+      "episode": 42,
+      "title": "Secret Agent Nonny!",
+      "diziid": "k%C3%A7",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/82/gizli_ajan_nonny%21"
+    },
+    {
+      "season": 3,
+      "episode": 43,
+      "title": "Kingdom of Clean!",
+      "diziid": "k%C3%A7",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/83/temizlik_kralligi%21"
+    },
+    {
+      "season": 4,
+      "episode": 44,
+      "title": "The Good, The Sad, And The Grumpy!",
+      "diziid": "k%C3%A7",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/84/iyi%2C_uzgun_ve_huysuz%21"
+    },
+    {
+      "season": 5,
+      "episode": 45,
+      "title": "Ocean Patrol!",
+      "diziid": "k%C3%A7",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/85/okyanus_devriyesi%21"
+    },
+    {
+      "season": 6,
+      "episode": 46,
+      "title": "Rockin' Out",
+      "diziid": "k%C3%A7",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/86/taslama_zamani%21"
+    },
+    {
+      "season": 7,
+      "episode": 47,
+      "title": "Genie In A Bubble!",
+      "diziid": "k%C3%A7",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/87/baloncuktaki_peri%21"
+    },
+    {
+      "season": 8,
+      "episode": 48,
+      "title": "A Furry Tale!",
+      "diziid": "k%C3%A7",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/88/tuylu_masal%21"
+    },
+    {
+      "season": 9,
+      "episode": 49,
+      "title": "Super Baby!",
+      "diziid": "k%C3%A7",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/89/super_bebek%21"
+    },
+    {
+      "season": 10,
+      "episode": 50,
+      "title": "Dragons N' Roses!",
+      "diziid": "k%C3%A7",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/90/ejderhalar_ve_guller%21"
+    },
+    {
+      "season": 11,
+      "episode": 51,
+      "title": "Ninja Season!",
+      "diziid": "k%C3%A7",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/91/ninja_mevsimi%21"
+    },
+    {
+      "season": 12,
+      "episode": 52,
+      "title": "Snow Squad To The Rescue!",
+      "diziid": "k%C3%A7",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/92/kar_devriyesi_kurtarisa%21"
+    },
+    {
+      "season": 13,
+      "episode": 53,
+      "title": "Too Bright For Movie Night!",
+      "diziid": "k%C3%A7",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/93/film_gecesi_icin_cok_aydinlik%21"
+    },
+    {
+      "season": 14,
+      "episode": 54,
+      "title": "The Guppies Save Christmas!",
+      "diziid": "k%C3%A7",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/94/kabarcik_cocuklar_noeli_kurtariyor%21"
+    },
+    {
+      "season": 15,
+      "episode": 55,
+      "title": "The Mighty, Untidy Titans!",
+      "diziid": "k%C3%A7",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/95/guclu_pasakli_titanlar%21"
+    },
+    {
+      "season": 16,
+      "episode": 56,
+      "title": "Alison In Wonderland!",
+      "diziid": "k%C3%A7",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/96/alison_harikalar_diyarinda%21"
+    },
+    {
+      "season": 17,
+      "episode": 57,
+      "title": "It's A Lizard!",
+      "diziid": "k%C3%A7",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/97/kertenkele%21"
+    },
+    {
+      "season": 18,
+      "episode": 58,
+      "title": "Swinging In The Rainforest!",
+      "diziid": "k%C3%A7",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/98/yagmur_ormanlarinda_sallanmak%21"
+    },
+    {
+      "season": 1,
+      "episode": 59,
+      "title": "Werewolves of Bubbledon!",
+      "diziid": "k%C3%A7",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/99/kabarcik_yoncanin_kurt_adamlari%21"
+    },
+    {
+      "season": 2,
+      "episode": 60,
+      "title": "Fogzilla!",
+      "diziid": "k%C3%A7",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/100/siszilla%21"
+    },
+    {
+      "season": 3,
+      "episode": 61,
+      "title": "Bigfoot Crossing!",
+      "diziid": "k%C3%A7",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/101/koca_ayak_gecidi%21"
+    },
+    {
+      "season": 4,
+      "episode": 62,
+      "title": "A Load of Litterbugs!",
+      "diziid": "k%C3%A7",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/102/bir_suru_cevreyi_kirleten%21"
+    },
+    {
+      "season": 5,
+      "episode": 63,
+      "title": "A Giant Harvest Day!",
+      "diziid": "k%C3%A7",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/103/dev_bir_hasat_gunu%21"
+    },
+    {
+      "season": 6,
+      "episode": 64,
+      "title": "Christmas is Coming!",
+      "diziid": "k%C3%A7",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/104/noel_geliyor%21"
+    },
+    {
+      "season": 7,
+      "episode": 65,
+      "title": "The Holiday Pirates!",
+      "diziid": "k%C3%A7",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/105/bayram_korsanlari%21"
+    },
+    {
+      "season": 8,
+      "episode": 66,
+      "title": "Bubble Puppysaurus!",
+      "diziid": "k%C3%A7",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/106/kabarcik_kopekzorus%21"
+    },
+    {
+      "season": 9,
+      "episode": 67,
+      "title": "Winter Sports Chompetition!",
+      "diziid": "k%C3%A7",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/107/kis_sporlari_ham_yarismasi%21"
+    },
+    {
+      "season": 10,
+      "episode": 68,
+      "title": "The SS Friendship!",
+      "diziid": "k%C3%A7",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/108/ss_dostluk%21"
+    },
+    {
+      "season": 11,
+      "episode": 69,
+      "title": "Something Fishy Going On!",
+      "diziid": "k%C3%A7",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/109/supheli_bir_seyler_oluyor%21"
+    },
+    {
+      "season": 12,
+      "episode": 70,
+      "title": "Robo Puppy!",
+      "diziid": "k%C3%A7",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/110/robot_kopekcik%21"
+    },
+    {
+      "season": 14,
+      "episode": 71,
+      "title": "Escape from Volcano Island!",
+      "diziid": "k%C3%A7",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/112/yanardag_adasindan_kacis%21"
+    },
+    {
+      "season": 16,
+      "episode": 72,
+      "title": "The Jaw-some Sharkventure!",
+      "diziid": "k%C3%A7",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/114/muhtesem_kopek_baligi_macerasi%21"
+    },
+    {
+      "season": 17,
+      "episode": 73,
+      "title": "Taste Buddies!",
+      "diziid": "k%C3%A7",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/115/lezzet_dostlari%21"
+    },
+    {
+      "season": 18,
+      "episode": 74,
+      "title": "The Kingdom of Sleepwell!",
+      "diziid": "k%C3%A7",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/116/iyi_uykular_kralligi%21"
+    },
+    {
+      "season": 20,
+      "episode": 75,
+      "title": "Bubble Medics to the Rescue!",
+      "diziid": "k%C3%A7",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/118/kabarcik_doktorlar_kurtarmaya%21"
+    },
+    {
+      "season": 21,
+      "episode": 76,
+      "title": "Search for the Great Gorilla!",
+      "diziid": "k%C3%A7",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/119/buyuk_gorili_arayis%21"
+    },
+    {
+      "season": 23,
+      "episode": 77,
+      "title": "Mystery On The Guppy Express!",
+      "diziid": "k%C3%A7",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/121/kabarcik_ekspresinde_gizem%21"
+    },
+    {
+      "season": 24,
+      "episode": 78,
+      "title": "Puppy Girl and Super Pup!",
+      "diziid": "k%C3%A7",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/122/kopekcik_kiz_ve_super_kopek%21"
+    },
+    {
+      "season": 25,
+      "episode": 79,
+      "title": "The Fastest Feather in the Race!",
+      "diziid": "k%C3%A7",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/123/yaristaki_en_hizli_tuy%21"
+    },
+    {
+      "season": 26,
+      "episode": 80,
+      "title": "The Solar Light Spectacular!",
+      "diziid": "k%C3%A7",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/124/gunes_isigi_muhtesem%21"
+    },
+    {
+      "season": 27,
+      "episode": 81,
+      "title": "The Kingdom of Laughs-A-Lot!",
+      "diziid": "k%C3%A7",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/125/cokca_gulmek_kralligi%21"
+    },
+    {
+      "season": 28,
+      "episode": 82,
+      "title": "The Big Rig Bandit!",
+      "diziid": "k%C3%A7",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/126/buyuk_tir_haydutu%21"
+    },
+    {
+      "season": 30,
+      "episode": 83,
+      "title": "Zooli's New Pet!",
+      "diziid": "k%C3%A7",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/128/zoolinin_yeni_evcil_hayvani%21"
+    },
+    {
+      "season": 31,
+      "episode": 84,
+      "title": "Trouble in Harmony Valley!",
+      "diziid": "k%C3%A7",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/129/armoni_vadisinde_sorun%21"
+    },
+    {
+      "season": 33,
+      "episode": 85,
+      "title": "A Slow Day in Zippy City!",
+      "diziid": "k%C3%A7",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/k%C3%A7/kabarcik_cocuklar/131/hizli_sehirde_yavas_bir_gun%21"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "wamor",
+  "title": "waffles ve mochi: restoran",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/WAMORPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Yemek",
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Honey",
+      "diziid": "wamor",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/wamor/waffles_ve_mochi%3A_restoran/1/bal"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Bread",
+      "diziid": "wamor",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/wamor/waffles_ve_mochi%3A_restoran/2/ekmek"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Chocolate vs. Vanilla",
+      "diziid": "wamor",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/wamor/waffles_ve_mochi%3A_restoran/3/cikolatali_mi%2C_vanilyali_mi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Bananas",
+      "diziid": "wamor",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/wamor/waffles_ve_mochi%3A_restoran/4/muz"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Cheese",
+      "diziid": "wamor",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/wamor/waffles_ve_mochi%3A_restoran/5/peynir"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Spicy",
+      "diziid": "wamor",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/wamor/waffles_ve_mochi%3A_restoran/6/acili_yemekler"
+    }
+  ]
+}

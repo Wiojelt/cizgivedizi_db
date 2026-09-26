@@ -1,0 +1,1077 @@
+{
+  "id": "swkÅŸ",
+  "title": "star wars klon savaÅŸlarÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SWK%C5%9EPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Bilim Kurgu",
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Ambush",
+      "diziid": "swk%C5%9F",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/1/pusu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Rising Malevolence",
+      "diziid": "swk%C5%9F",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/2/malevolencein_yukselisi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Shadow of Malevolence",
+      "diziid": "swk%C5%9F",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/3/malevolencein_golgesi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Destroy Malevolence",
+      "diziid": "swk%C5%9F",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/4/malevolencei_yok_et"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Rookies",
+      "diziid": "swk%C5%9F",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/5/caylaklar"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Downfall of a Droid",
+      "diziid": "swk%C5%9F",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/6/droidin_dususu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Duel of the Droids",
+      "diziid": "swk%C5%9F",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/7/droidlerin_duellosu"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Bombad Jedi",
+      "diziid": "swk%C5%9F",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/8/bombad_jedi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Cloak of Darkness",
+      "diziid": "swk%C5%9F",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/9/karanligin_pelerini"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Lair of Grievous",
+      "diziid": "swk%C5%9F",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/10/grievousun_ini"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Dooku Captured",
+      "diziid": "swk%C5%9F",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/11/dooku_yakalandi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Gungan General",
+      "diziid": "swk%C5%9F",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/12/gunganli_general"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Jedi Crash",
+      "diziid": "swk%C5%9F",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/13/jedi_kazasi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Defenders of Peace",
+      "diziid": "swk%C5%9F",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/14/barisin_koruyuculari"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Trespass",
+      "diziid": "swk%C5%9F",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/15/izinsiz_giris"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Hidden Enemy",
+      "diziid": "swk%C5%9F",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/16/gizli_dusman"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Blue Shadow Virus",
+      "diziid": "swk%C5%9F",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/17/mavi_golge_virusu"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Mystery of a Thousand Moons",
+      "diziid": "swk%C5%9F",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/18/bin_aylarin_gizemi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Storm Over Ryloth",
+      "diziid": "swk%C5%9F",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/19/rylothu_saran_firtina"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Innocents of Ryloth",
+      "diziid": "swk%C5%9F",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/20/rylothun_masumlari"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Liberty on Ryloth",
+      "diziid": "swk%C5%9F",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/21/rylothda_ozgurluk"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Hostage Crisis",
+      "diziid": "swk%C5%9F",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/22/rehine_krizi"
+    },
+    {
+      "season": 1,
+      "episode": 23,
+      "title": "Holocron Heist",
+      "diziid": "swk%C5%9F",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/23/holocronlarin_soygunu"
+    },
+    {
+      "season": 2,
+      "episode": 24,
+      "title": "Cargo of Doom",
+      "diziid": "swk%C5%9F",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/24/kiyamet_kargosu"
+    },
+    {
+      "season": 3,
+      "episode": 25,
+      "title": "Children of the Force",
+      "diziid": "swk%C5%9F",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/25/gucun_cocuklari"
+    },
+    {
+      "season": 4,
+      "episode": 26,
+      "title": "Senate Spy",
+      "diziid": "swk%C5%9F",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/26/senate_ajani"
+    },
+    {
+      "season": 5,
+      "episode": 27,
+      "title": "Landing at Point Rain",
+      "diziid": "swk%C5%9F",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/27/point_raine_inis"
+    },
+    {
+      "season": 6,
+      "episode": 28,
+      "title": "Weapons Factory",
+      "diziid": "swk%C5%9F",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/28/silah_fabrikasi"
+    },
+    {
+      "season": 7,
+      "episode": 29,
+      "title": "Legacy of Terror",
+      "diziid": "swk%C5%9F",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/29/teror_mirasi"
+    },
+    {
+      "season": 8,
+      "episode": 30,
+      "title": "Brain Invaders",
+      "diziid": "swk%C5%9F",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/30/beyin_istilacilari"
+    },
+    {
+      "season": 9,
+      "episode": 31,
+      "title": "Grievous Intrigue",
+      "diziid": "swk%C5%9F",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/31/grievousun_entrikasi"
+    },
+    {
+      "season": 10,
+      "episode": 32,
+      "title": "The Deserter",
+      "diziid": "swk%C5%9F",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/32/firari"
+    },
+    {
+      "season": 11,
+      "episode": 33,
+      "title": "Lightsaber Lost",
+      "diziid": "swk%C5%9F",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/33/kayip_isin_kilici"
+    },
+    {
+      "season": 12,
+      "episode": 34,
+      "title": "The Mandalore Plot",
+      "diziid": "swk%C5%9F",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/34/mandaloreun_komplosu"
+    },
+    {
+      "season": 13,
+      "episode": 35,
+      "title": "Voyage of Temptation",
+      "diziid": "swk%C5%9F",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/35/gunaha_yolculuk"
+    },
+    {
+      "season": 14,
+      "episode": 36,
+      "title": "Duchess of Mandalore",
+      "diziid": "swk%C5%9F",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/36/mandaloreun_dusesi"
+    },
+    {
+      "season": 15,
+      "episode": 37,
+      "title": "Senate Murders",
+      "diziid": "swk%C5%9F",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/37/senatein_cinayetleri"
+    },
+    {
+      "season": 16,
+      "episode": 38,
+      "title": "Cat and Mouse",
+      "diziid": "swk%C5%9F",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/38/kedi_ve_fare"
+    },
+    {
+      "season": 17,
+      "episode": 39,
+      "title": "Bounty Hunters",
+      "diziid": "swk%C5%9F",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/39/odul_avcilari"
+    },
+    {
+      "season": 18,
+      "episode": 40,
+      "title": "The Zillo Beast",
+      "diziid": "swk%C5%9F",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/40/zillo_canavari"
+    },
+    {
+      "season": 19,
+      "episode": 41,
+      "title": "The Zillo Beast Strikes Back",
+      "diziid": "swk%C5%9F",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/41/zillo_canavari_geri_donuyor"
+    },
+    {
+      "season": 20,
+      "episode": 42,
+      "title": "Death Trap",
+      "diziid": "swk%C5%9F",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/42/olum_tuzagi"
+    },
+    {
+      "season": 21,
+      "episode": 43,
+      "title": "R2 Come Home",
+      "diziid": "swk%C5%9F",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/43/r2_eve_gel"
+    },
+    {
+      "season": 22,
+      "episode": 44,
+      "title": "Lethal Trackdown",
+      "diziid": "swk%C5%9F",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/44/olumcul_izleme"
+    },
+    {
+      "season": 1,
+      "episode": 45,
+      "title": "Clone Cadets",
+      "diziid": "swk%C5%9F",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/45/klon_ogrenciler"
+    },
+    {
+      "season": 2,
+      "episode": 46,
+      "title": "ARC Troopers",
+      "diziid": "swk%C5%9F",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/46/arc_birlikleri"
+    },
+    {
+      "season": 3,
+      "episode": 47,
+      "title": "Supply Lines",
+      "diziid": "swk%C5%9F",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/47/yardim_hatlari"
+    },
+    {
+      "season": 4,
+      "episode": 48,
+      "title": "Sphere of Influence",
+      "diziid": "swk%C5%9F",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/48/etki_alani"
+    },
+    {
+      "season": 5,
+      "episode": 49,
+      "title": "Corruption",
+      "diziid": "swk%C5%9F",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/49/yolsuzluk"
+    },
+    {
+      "season": 6,
+      "episode": 50,
+      "title": "The Academy",
+      "diziid": "swk%C5%9F",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/50/akademi"
+    },
+    {
+      "season": 7,
+      "episode": 51,
+      "title": "Assassin",
+      "diziid": "swk%C5%9F",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/51/suikastci"
+    },
+    {
+      "season": 8,
+      "episode": 52,
+      "title": "Evil Plans",
+      "diziid": "swk%C5%9F",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/52/kotu_planlar"
+    },
+    {
+      "season": 9,
+      "episode": 53,
+      "title": "Hunt for Ziro",
+      "diziid": "swk%C5%9F",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/53/ziro_avi"
+    },
+    {
+      "season": 10,
+      "episode": 54,
+      "title": "Heroes on Both Sides",
+      "diziid": "swk%C5%9F",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/54/her_iki_taraftaki_kahramanlar"
+    },
+    {
+      "season": 11,
+      "episode": 55,
+      "title": "Pursuit of Peace",
+      "diziid": "swk%C5%9F",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/55/baris_pesinde"
+    },
+    {
+      "season": 12,
+      "episode": 56,
+      "title": "Nightsisters",
+      "diziid": "swk%C5%9F",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/56/gece_kiz_kardesler"
+    },
+    {
+      "season": 13,
+      "episode": 57,
+      "title": "Monster",
+      "diziid": "swk%C5%9F",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/57/canavar"
+    },
+    {
+      "season": 14,
+      "episode": 58,
+      "title": "Witches of the Mist",
+      "diziid": "swk%C5%9F",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/58/sisin_cadilari"
+    },
+    {
+      "season": 15,
+      "episode": 59,
+      "title": "Overlords",
+      "diziid": "swk%C5%9F",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/59/secilmis_kisiler"
+    },
+    {
+      "season": 16,
+      "episode": 60,
+      "title": "Altar of Mortis",
+      "diziid": "swk%C5%9F",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/60/mortis_sunagi"
+    },
+    {
+      "season": 17,
+      "episode": 61,
+      "title": "Ghosts of Mortis",
+      "diziid": "swk%C5%9F",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/61/mortisin_hayaletleri"
+    },
+    {
+      "season": 18,
+      "episode": 62,
+      "title": "The Citadel",
+      "diziid": "swk%C5%9F",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/62/kale"
+    },
+    {
+      "season": 19,
+      "episode": 63,
+      "title": "Counter Attack",
+      "diziid": "swk%C5%9F",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/63/karsi_atak"
+    },
+    {
+      "season": 20,
+      "episode": 64,
+      "title": "Citadel Rescue",
+      "diziid": "swk%C5%9F",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/64/kale_kurtarma"
+    },
+    {
+      "season": 21,
+      "episode": 65,
+      "title": "Padawan Lost",
+      "diziid": "swk%C5%9F",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/65/kayip_padawan"
+    },
+    {
+      "season": 22,
+      "episode": 66,
+      "title": "Wookiee Hunt",
+      "diziid": "swk%C5%9F",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/66/wookiee_avi"
+    },
+    {
+      "season": 1,
+      "episode": 67,
+      "title": "Water War",
+      "diziid": "swk%C5%9F",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/67/su_savasi"
+    },
+    {
+      "season": 2,
+      "episode": 68,
+      "title": "Gungan Attack",
+      "diziid": "swk%C5%9F",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/68/gungan_saldirisi"
+    },
+    {
+      "season": 3,
+      "episode": 69,
+      "title": "Prisoners",
+      "diziid": "swk%C5%9F",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/69/mahkumlar"
+    },
+    {
+      "season": 4,
+      "episode": 70,
+      "title": "Shadow Warrior",
+      "diziid": "swk%C5%9F",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/70/golge_savascisi"
+    },
+    {
+      "season": 5,
+      "episode": 71,
+      "title": "Mercy Mission",
+      "diziid": "swk%C5%9F",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/71/merhamet_gorevi"
+    },
+    {
+      "season": 6,
+      "episode": 72,
+      "title": "Nomad Droids",
+      "diziid": "swk%C5%9F",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/72/olumcul_izlenme"
+    },
+    {
+      "season": 7,
+      "episode": 73,
+      "title": "Darkness on Umbara",
+      "diziid": "swk%C5%9F",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/73/umbarada_karanlik"
+    },
+    {
+      "season": 8,
+      "episode": 74,
+      "title": "The General",
+      "diziid": "swk%C5%9F",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/74/genel"
+    },
+    {
+      "season": 9,
+      "episode": 75,
+      "title": "Plan of Dissent",
+      "diziid": "swk%C5%9F",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/75/muhalefet_plani"
+    },
+    {
+      "season": 10,
+      "episode": 76,
+      "title": "Carnage of Krell",
+      "diziid": "swk%C5%9F",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/76/krell_katliami"
+    },
+    {
+      "season": 11,
+      "episode": 77,
+      "title": "Kidnapped",
+      "diziid": "swk%C5%9F",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/77/kacirildi"
+    },
+    {
+      "season": 12,
+      "episode": 78,
+      "title": "Slaves of the Republic",
+      "diziid": "swk%C5%9F",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/78/cumhuriyetin_koleleri"
+    },
+    {
+      "season": 13,
+      "episode": 79,
+      "title": "Escape from Kadavo",
+      "diziid": "swk%C5%9F",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/79/kadavodan_kacis"
+    },
+    {
+      "season": 14,
+      "episode": 80,
+      "title": "A Friend in Need",
+      "diziid": "swk%C5%9F",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/80/ihtiyaci_olan_bir_arkadas"
+    },
+    {
+      "season": 15,
+      "episode": 81,
+      "title": "Deception",
+      "diziid": "swk%C5%9F",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/81/aldatma"
+    },
+    {
+      "season": 16,
+      "episode": 82,
+      "title": "Friends and Enemies",
+      "diziid": "swk%C5%9F",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/82/arkadaslar_ve_dusmanlar"
+    },
+    {
+      "season": 17,
+      "episode": 83,
+      "title": "The Box",
+      "diziid": "swk%C5%9F",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/83/kutu"
+    },
+    {
+      "season": 18,
+      "episode": 84,
+      "title": "Crisis on Naboo",
+      "diziid": "swk%C5%9F",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/84/nabooda_kriz"
+    },
+    {
+      "season": 19,
+      "episode": 85,
+      "title": "Massacre",
+      "diziid": "swk%C5%9F",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/85/katliam"
+    },
+    {
+      "season": 20,
+      "episode": 86,
+      "title": "Bounty",
+      "diziid": "swk%C5%9F",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/86/odul"
+    },
+    {
+      "season": 21,
+      "episode": 87,
+      "title": "Brothers",
+      "diziid": "swk%C5%9F",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/87/kardesler"
+    },
+    {
+      "season": 22,
+      "episode": 88,
+      "title": "Revenge",
+      "diziid": "swk%C5%9F",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/88/intikam"
+    },
+    {
+      "season": 1,
+      "episode": 89,
+      "title": "Revival",
+      "diziid": "swk%C5%9F",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/89/canlanma"
+    },
+    {
+      "season": 2,
+      "episode": 90,
+      "title": "A War on Two Fronts",
+      "diziid": "swk%C5%9F",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/90/iki_cephede_bir_savas"
+    },
+    {
+      "season": 3,
+      "episode": 91,
+      "title": "Front Runners",
+      "diziid": "swk%C5%9F",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/91/on_kosucular"
+    },
+    {
+      "season": 4,
+      "episode": 92,
+      "title": "The Soft War",
+      "diziid": "swk%C5%9F",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/92/yumusak_savas"
+    },
+    {
+      "season": 5,
+      "episode": 93,
+      "title": "Tipping Points",
+      "diziid": "swk%C5%9F",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/93/devrilme_noktalari"
+    },
+    {
+      "season": 6,
+      "episode": 94,
+      "title": "The Gathering",
+      "diziid": "swk%C5%9F",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/94/bulusma"
+    },
+    {
+      "season": 7,
+      "episode": 95,
+      "title": "A Test of Strength",
+      "diziid": "swk%C5%9F",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/95/bir_guc_testi"
+    },
+    {
+      "season": 8,
+      "episode": 96,
+      "title": "Bound for Rescue",
+      "diziid": "swk%C5%9F",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/96/kurtarmaya_bagli"
+    },
+    {
+      "season": 9,
+      "episode": 97,
+      "title": "A Necessary Bond",
+      "diziid": "swk%C5%9F",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/97/gerekli_bir_tahvil"
+    },
+    {
+      "season": 10,
+      "episode": 98,
+      "title": "Secret Weapons",
+      "diziid": "swk%C5%9F",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/98/gizli_silahlar"
+    },
+    {
+      "season": 11,
+      "episode": 99,
+      "title": "A Sunny Day in the Void",
+      "diziid": "swk%C5%9F",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/99/boslukta_gunesli_bir_gun"
+    },
+    {
+      "season": 12,
+      "episode": 100,
+      "title": "Missing in Action",
+      "diziid": "swk%C5%9F",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/100/eksik_eylem"
+    },
+    {
+      "season": 13,
+      "episode": 101,
+      "title": "Point of No Return",
+      "diziid": "swk%C5%9F",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/101/donusu_olmayan_nokta"
+    },
+    {
+      "season": 14,
+      "episode": 102,
+      "title": "Eminence",
+      "diziid": "swk%C5%9F",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/102/ustunluk"
+    },
+    {
+      "season": 15,
+      "episode": 103,
+      "title": "Shades of Reason",
+      "diziid": "swk%C5%9F",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/103/aklin_tonlari"
+    },
+    {
+      "season": 16,
+      "episode": 104,
+      "title": "The Lawless",
+      "diziid": "swk%C5%9F",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/104/kanunsuz"
+    },
+    {
+      "season": 17,
+      "episode": 105,
+      "title": "Sabotage",
+      "diziid": "swk%C5%9F",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/105/sabotaj"
+    },
+    {
+      "season": 18,
+      "episode": 106,
+      "title": "The Jedi Who Knew Too Much",
+      "diziid": "swk%C5%9F",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/106/cok_sey_bilen_jedi"
+    },
+    {
+      "season": 19,
+      "episode": 107,
+      "title": "To Catch a Jedi",
+      "diziid": "swk%C5%9F",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/107/bir_jedi_yakalamak"
+    },
+    {
+      "season": 20,
+      "episode": 108,
+      "title": "The Wrong Jedi",
+      "diziid": "swk%C5%9F",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/108/yanlis_jedi"
+    },
+    {
+      "season": 1,
+      "episode": 109,
+      "title": "The Unknown",
+      "diziid": "swk%C5%9F",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/109/bilinmeyen"
+    },
+    {
+      "season": 2,
+      "episode": 110,
+      "title": "Conspiracy",
+      "diziid": "swk%C5%9F",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/110/komplo"
+    },
+    {
+      "season": 3,
+      "episode": 111,
+      "title": "Fugitive",
+      "diziid": "swk%C5%9F",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/111/kacak"
+    },
+    {
+      "season": 4,
+      "episode": 112,
+      "title": "Orders",
+      "diziid": "swk%C5%9F",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/112/emirler"
+    },
+    {
+      "season": 5,
+      "episode": 113,
+      "title": "An Old Friend",
+      "diziid": "swk%C5%9F",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/113/eski_bir_dost"
+    },
+    {
+      "season": 6,
+      "episode": 114,
+      "title": "The Rise of Clovis",
+      "diziid": "swk%C5%9F",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/114/clovisin_yukselisi"
+    },
+    {
+      "season": 7,
+      "episode": 115,
+      "title": "Crisis at the Heart",
+      "diziid": "swk%C5%9F",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/115/merkezdeki_kriz"
+    },
+    {
+      "season": 8,
+      "episode": 116,
+      "title": "The Disappeared: Pt. 1",
+      "diziid": "swk%C5%9F",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/116/kaybolanlar%3A_1.bolum"
+    },
+    {
+      "season": 9,
+      "episode": 117,
+      "title": "The Disappeared: Pt. 2",
+      "diziid": "swk%C5%9F",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/117/kaybolanlar%3A_2.bolum"
+    },
+    {
+      "season": 10,
+      "episode": 118,
+      "title": "The Lost One",
+      "diziid": "swk%C5%9F",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/118/kayiplar"
+    },
+    {
+      "season": 11,
+      "episode": 119,
+      "title": "Voices",
+      "diziid": "swk%C5%9F",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/119/sesler"
+    },
+    {
+      "season": 12,
+      "episode": 120,
+      "title": "Destiny",
+      "diziid": "swk%C5%9F",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/120/kader"
+    },
+    {
+      "season": 13,
+      "episode": 121,
+      "title": "Sacrifice",
+      "diziid": "swk%C5%9F",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/121/fedakarlik"
+    },
+    {
+      "season": 1,
+      "episode": 122,
+      "title": "The Bad Batch",
+      "diziid": "swk%C5%9F",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/122/kotuler_timi"
+    },
+    {
+      "season": 2,
+      "episode": 123,
+      "title": "A Distant Echo",
+      "diziid": "swk%C5%9F",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/123/uzaklardaki_ses"
+    },
+    {
+      "season": 3,
+      "episode": 124,
+      "title": "On the Wings of Keeradaks",
+      "diziid": "swk%C5%9F",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/124/keeradaklarin_kanatlarinda"
+    },
+    {
+      "season": 4,
+      "episode": 125,
+      "title": "Unfinished Business",
+      "diziid": "swk%C5%9F",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/125/yarim_kalan_bir_is"
+    },
+    {
+      "season": 5,
+      "episode": 126,
+      "title": "Gone with a Trace",
+      "diziid": "swk%C5%9F",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/126/trace_ile_birlikte"
+    },
+    {
+      "season": 6,
+      "episode": 127,
+      "title": "Deal No Deal",
+      "diziid": "swk%C5%9F",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/127/belirsiz_anlasma"
+    },
+    {
+      "season": 7,
+      "episode": 128,
+      "title": "Dangerous Debt",
+      "diziid": "swk%C5%9F",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/128/tehlikeli_borc"
+    },
+    {
+      "season": 8,
+      "episode": 129,
+      "title": "Together Again",
+      "diziid": "swk%C5%9F",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/129/yeniden_birlikte"
+    },
+    {
+      "season": 9,
+      "episode": 130,
+      "title": "Old Friends Not Forgotten",
+      "diziid": "swk%C5%9F",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/130/unutulmayan_eski_dostlar"
+    },
+    {
+      "season": 10,
+      "episode": 131,
+      "title": "The Phantom Apprentice",
+      "diziid": "swk%C5%9F",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/131/gizli_cirak"
+    },
+    {
+      "season": 11,
+      "episode": 132,
+      "title": "Shattered",
+      "diziid": "swk%C5%9F",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/132/yoldan_cikmis"
+    },
+    {
+      "season": 12,
+      "episode": 133,
+      "title": "Victory and Death",
+      "diziid": "swk%C5%9F",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/swk%C5%9F/star_wars_klon_savaslari/133/zafer_ve_olum"
+    }
+  ]
+}

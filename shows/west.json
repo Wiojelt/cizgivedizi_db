@@ -1,0 +1,36 @@
+{
+  "id": "west",
+  "title": "vahÅŸi batÄ±",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/WESTPoster.avif",
+  "channel": "Nickelodeon",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Part 1 of 3",
+      "diziid": "west",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/west/vahsi_bati/1/bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Part 2 of 3",
+      "diziid": "west",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/west/vahsi_bati/2/bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Part 3 of 3",
+      "diziid": "west",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/west/vahsi_bati/3/bolum_3"
+    }
+  ]
+}

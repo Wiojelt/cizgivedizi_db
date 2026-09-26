@@ -1,0 +1,220 @@
+{
+  "id": "tvjm",
+  "title": "tom ve jerry masallarÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TVJMPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Tiger Cat/Feeding Time/Polar Peril",
+      "diziid": "tvjm",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/1/kaplan_kedi__beslenme_zamani__kutup_ayisi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Joy Riding Jokers/Cat Got Your Luggage?/City Dump Chumps",
+      "diziid": "tvjm",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/2/tehlikeli_surus__bavul_tasiyan_kedi__sehir_coplugu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Way Off Broadway/Egg Beats/Cry Uncle",
+      "diziid": "tvjm",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/3/broadwayde_bir_kose__yumurta_yemek__aglayan_amca"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Bats What I Like About the South/Fraidy Cat Scat/Tomb It May Concern",
+      "diziid": "tvjm",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/4/benim_yarasa_kahramanim__urkek_kedicik__kayip_mezar_kesfi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Dino-Sores/Freaky Tiki/Prehisterics",
+      "diziid": "tvjm",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/5/dinozor_cagi__korkunc_tanrica__ilk_caglar"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Digital Dilemma/Hi, Robot/Tomcat Jetpack",
+      "diziid": "tvjm",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/6/dijital_cikmaz__selam%2C_robot__hava_pilotu_tom"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Fire Breathing Tom Cat/Medieval Menace/The Itch",
+      "diziid": "tvjm",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/7/ates_nefesli_tom__tehlikeli_orta_cag__kasinti"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Ho Ho Horrors/Doggone Hill Hog/Northern Light Fish Fight",
+      "diziid": "tvjm",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/8/noel_korkusu__kayak_yapma_hirsi__kuzeyde_balik_kavgasi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Cat Nebula/Martian Mice/Spaced Out Cat",
+      "diziid": "tvjm",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/9/yapiskan_kedi__marsli_fare__kedi_uzay_yolunda"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Octo Suave/Beach Bully Bingo/Treasure Map Scrap",
+      "diziid": "tvjm",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/10/romantik_ahtapot__sahil_macerasi__degerli_hazine_haritasi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Destruction Junction/Battle of the Power Tools/Jackhammered Cat",
+      "diziid": "tvjm",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/11/bina_insaati__paranin_gucu__insaat_alani"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Tin Cat of Tomorrow/Beefcake Tom/Tomcat Superstar",
+      "diziid": "tvjm",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/12/gelecegin_kedisi__kasli_tom__super_star_tom"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Piranha Be Loved by You/Spook House Mouse/Abracadumb",
+      "diziid": "tvjm",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/13/pirana_sana_asik_olacak__fareli_hayaletli_ev__abracadabra"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "More Powers to You/Catch Me Though You Can't/Power Tom",
+      "diziid": "tvjm",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/14/jerrynin_gucu_yerinde__sikiysa_yakala__super_tom"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Zent Out of Shape/I Dream of Meanie/Which Witch",
+      "diziid": "tvjm",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/15/tomun_basi_belada__kotu_kedi_geanie__hangi_cadi"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Don't Bring Your Pet to School Day/Cat Show Catastrophe/The Cat Whisperer",
+      "diziid": "tvjm",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/16/evcil_hayvanlarinizi_okula_getirmeyin__kedi_gosterisi_kabusu__kedi_terbiyecisi"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Adventures in Penguin Sitting/Cat of Prey/Jungle Love",
+      "diziid": "tvjm",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/17/sevimli_penguenin_maceralari__avlanan_kedi__orman_sevgisi"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Invasion of the Body Slammers/Monster Con/Over the River and Boo the Woods",
+      "diziid": "tvjm",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/18/uzaylilarin_istilasi__canavar_toplantisi__nehir_kenarindaki_korkunc_orman"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Xtreme Trouble/A Life Less Guarded/Sasquashed",
+      "diziid": "tvjm",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/19/inanilmaz_bela__can_kurtaransiz_bir_hayat__koca_ayak"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Summer Squashing/League of Cats/Little Big Mouse",
+      "diziid": "tvjm",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/20/yaz_macerasi__kediler_takimi__kucuk_dev_fare"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Bend It Like Thomas/Endless Bummer/Game, Set, Match",
+      "diziid": "tvjm",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/21/ayni_tom_gibi_vur__bitmeyen_talihsizlik__oyun_set_mac"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "The Declaration of Independunce/Kitty Hawked/24 Karat Kat",
+      "diziid": "tvjm",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/22/ozgurluk_bildirgesi__ucan_kedi__24_karatli_kedi"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Hockey Schtick/Snow Brawl/Snow Mouse",
+      "diziid": "tvjm",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/23/hokey_tunuvasi__kar_savasi__kar_faresi"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "DJ Jerry/Kitty Kat Blues/Flamenco Fiasco",
+      "diziid": "tvjm",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/24/dj_jerry__cazci_kedi__flamenko_fiyaskosu"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "You're Lion/Kangadoofus/Monkey Chow",
+      "diziid": "tvjm",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/25/sen_bir_aslansin__kangurular__maymun_yemini"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "Game of Mouse & Cat/Babysitting Blues/Catfish Follies",
+      "diziid": "tvjm",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/tvjm/tom_ve_jerry_masallari/26/kedi_fare_oyunu__cocuk_bakiciligi___kedi_baligi_gosterisi"
+    }
+  ]
+}

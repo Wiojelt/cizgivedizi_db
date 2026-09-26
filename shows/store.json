@@ -1,0 +1,916 @@
+{
+  "id": "store",
+  "title": "superstore",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/STOREPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "store",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/1/pilot"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Magazine Profile",
+      "diziid": "store",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/2/dergi_icin_biyografi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Shots and Salsa",
+      "diziid": "store",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/3/asi_ve_salsa"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Mannequin",
+      "diziid": "store",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/4/manken"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Shoplifter",
+      "diziid": "store",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/5/magaza_hirsizi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Secret Shopper",
+      "diziid": "store",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/6/gizli_musteri"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Color Wars",
+      "diziid": "store",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/7/renk_savaslari"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Wedding Day Sale",
+      "diziid": "store",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/8/dugun_indirimi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "All-Nighter",
+      "diziid": "store",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/9/gececiler"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Demotion",
+      "diziid": "store",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/10/ask_ugruna"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Labor",
+      "diziid": "store",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/11/dogum"
+    },
+    {
+      "season": 1,
+      "episode": 12,
+      "title": "Olympics",
+      "diziid": "store",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/12/olimpiyatlar"
+    },
+    {
+      "season": 2,
+      "episode": 13,
+      "title": "Strike",
+      "diziid": "store",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/13/grev"
+    },
+    {
+      "season": 3,
+      "episode": 14,
+      "title": "Back to Work",
+      "diziid": "store",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/14/ise_donus"
+    },
+    {
+      "season": 4,
+      "episode": 15,
+      "title": "Guns, Pills and Birds",
+      "diziid": "store",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/15/silahlar%2C_haplar_ve_kuslar"
+    },
+    {
+      "season": 5,
+      "episode": 16,
+      "title": "Spokesman Scandal",
+      "diziid": "store",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/16/sozcu_skandali"
+    },
+    {
+      "season": 6,
+      "episode": 17,
+      "title": "Dog Adoption Day",
+      "diziid": "store",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/17/kopek_sahiplenme_gunu"
+    },
+    {
+      "season": 7,
+      "episode": 18,
+      "title": "Halloween Theft",
+      "diziid": "store",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/18/cadilar_bayrami_hirsizligi"
+    },
+    {
+      "season": 8,
+      "episode": 19,
+      "title": "Election Day",
+      "diziid": "store",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/19/secim_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 20,
+      "title": "Seasonal Help",
+      "diziid": "store",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/20/sezonluk_eleman"
+    },
+    {
+      "season": 10,
+      "episode": 21,
+      "title": "Black Friday",
+      "diziid": "store",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/21/black_friday"
+    },
+    {
+      "season": 11,
+      "episode": 22,
+      "title": "Lost and Found",
+      "diziid": "store",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/22/kayip_esya"
+    },
+    {
+      "season": 12,
+      "episode": 23,
+      "title": "Rebranding",
+      "diziid": "store",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/23/yeni_bir_marka"
+    },
+    {
+      "season": 13,
+      "episode": 24,
+      "title": "Ladies' Lunch",
+      "diziid": "store",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/24/kizlar_yemekte"
+    },
+    {
+      "season": 14,
+      "episode": 25,
+      "title": "Valentine's Day",
+      "diziid": "store",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/25/sevgililer_gunu"
+    },
+    {
+      "season": 15,
+      "episode": 26,
+      "title": "Super Hot Store",
+      "diziid": "store",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/26/cok_sicak_bir_magaza"
+    },
+    {
+      "season": 16,
+      "episode": 27,
+      "title": "Wellness Fair",
+      "diziid": "store",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/27/saglik_kermesi"
+    },
+    {
+      "season": 17,
+      "episode": 28,
+      "title": "Mateo's Last Day",
+      "diziid": "store",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/28/mateonun_son_gunu"
+    },
+    {
+      "season": 18,
+      "episode": 29,
+      "title": "Integrity Award",
+      "diziid": "store",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/29/durustluk_odulleri"
+    },
+    {
+      "season": 19,
+      "episode": 30,
+      "title": "Glenn's Kids",
+      "diziid": "store",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/30/glennin_cocuklari"
+    },
+    {
+      "season": 20,
+      "episode": 31,
+      "title": "Spring Cleaning",
+      "diziid": "store",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/31/bahar_temizligi"
+    },
+    {
+      "season": 21,
+      "episode": 32,
+      "title": "Cheyenne's Wedding",
+      "diziid": "store",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/32/cheyennein_dugunu"
+    },
+    {
+      "season": 22,
+      "episode": 33,
+      "title": "Tornado",
+      "diziid": "store",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/33/kasirga"
+    },
+    {
+      "season": 1,
+      "episode": 34,
+      "title": "Grand Re-Opening",
+      "diziid": "store",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/34/buyuk_acilis%3A_yeniden"
+    },
+    {
+      "season": 2,
+      "episode": 35,
+      "title": "Brett's Dead",
+      "diziid": "store",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/35/brett_oldu"
+    },
+    {
+      "season": 3,
+      "episode": 36,
+      "title": "Part-Time Hires",
+      "diziid": "store",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/36/part-time_elemanlar"
+    },
+    {
+      "season": 4,
+      "episode": 37,
+      "title": "Workplace Bullying",
+      "diziid": "store",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/37/is_yerinde_tehdit"
+    },
+    {
+      "season": 5,
+      "episode": 38,
+      "title": "Sal's Dead",
+      "diziid": "store",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/38/sal_oldu"
+    },
+    {
+      "season": 6,
+      "episode": 39,
+      "title": "Health Fund",
+      "diziid": "store",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/39/saglik_fonu"
+    },
+    {
+      "season": 7,
+      "episode": 40,
+      "title": "Christmas Eve",
+      "diziid": "store",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/40/noel_arifesi"
+    },
+    {
+      "season": 8,
+      "episode": 41,
+      "title": "Viral Video",
+      "diziid": "store",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/41/viral_video"
+    },
+    {
+      "season": 9,
+      "episode": 42,
+      "title": "Golden Globes Party",
+      "diziid": "store",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/42/altin_kure_partisi"
+    },
+    {
+      "season": 10,
+      "episode": 43,
+      "title": "High Volume Store",
+      "diziid": "store",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/43/yuksek_hacimli_magaza"
+    },
+    {
+      "season": 11,
+      "episode": 44,
+      "title": "Angels and Mermaids",
+      "diziid": "store",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/44/melekler_ve_denizkizlari"
+    },
+    {
+      "season": 12,
+      "episode": 45,
+      "title": "Groundhog Day",
+      "diziid": "store",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/45/kunduz_gunu"
+    },
+    {
+      "season": 13,
+      "episode": 46,
+      "title": "Video Game Release",
+      "diziid": "store",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/46/video_oyunu"
+    },
+    {
+      "season": 14,
+      "episode": 47,
+      "title": "Safety Training",
+      "diziid": "store",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/47/guvenlik_egitimi"
+    },
+    {
+      "season": 15,
+      "episode": 48,
+      "title": "Amnesty",
+      "diziid": "store",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/48/genel_af"
+    },
+    {
+      "season": 16,
+      "episode": 49,
+      "title": "Target",
+      "diziid": "store",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/49/target"
+    },
+    {
+      "season": 17,
+      "episode": 50,
+      "title": "District Manager",
+      "diziid": "store",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/50/bolge_muduru"
+    },
+    {
+      "season": 18,
+      "episode": 51,
+      "title": "Local Vendors Day",
+      "diziid": "store",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/51/yerel_bayiler_gunu"
+    },
+    {
+      "season": 19,
+      "episode": 52,
+      "title": "Lottery",
+      "diziid": "store",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/52/loto"
+    },
+    {
+      "season": 20,
+      "episode": 53,
+      "title": "Gender Reveal",
+      "diziid": "store",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/53/cinsiyet_aciklama"
+    },
+    {
+      "season": 21,
+      "episode": 54,
+      "title": "Aftermath",
+      "diziid": "store",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/54/akibet"
+    },
+    {
+      "season": 22,
+      "episode": 55,
+      "title": "Town Hall",
+      "diziid": "store",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/55/toplanti"
+    },
+    {
+      "season": 1,
+      "episode": 56,
+      "title": "Back to School",
+      "diziid": "store",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/56/okula_donus"
+    },
+    {
+      "season": 2,
+      "episode": 57,
+      "title": "Baby Shower",
+      "diziid": "store",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/57/baby_shower"
+    },
+    {
+      "season": 3,
+      "episode": 58,
+      "title": "Toxic Workplace",
+      "diziid": "store",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/58/toksik_is_yeri"
+    },
+    {
+      "season": 4,
+      "episode": 59,
+      "title": "Costume Competition",
+      "diziid": "store",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/59/kostum_yarismasi"
+    },
+    {
+      "season": 5,
+      "episode": 60,
+      "title": "Delivery Day",
+      "diziid": "store",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/60/bebekler_geliyor"
+    },
+    {
+      "season": 6,
+      "episode": 61,
+      "title": "Maternity Leave",
+      "diziid": "store",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/61/dogum_izni"
+    },
+    {
+      "season": 7,
+      "episode": 62,
+      "title": "New Initiative",
+      "diziid": "store",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/62/yeni_politika"
+    },
+    {
+      "season": 8,
+      "episode": 63,
+      "title": "Managers' Conference",
+      "diziid": "store",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/63/yoneticiler_konferansi"
+    },
+    {
+      "season": 9,
+      "episode": 64,
+      "title": "Shadowing Glenn",
+      "diziid": "store",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/64/glennin_golgesinde"
+    },
+    {
+      "season": 10,
+      "episode": 65,
+      "title": "Cloud 9 Academy",
+      "diziid": "store",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/65/cloud_9_akademisi"
+    },
+    {
+      "season": 11,
+      "episode": 66,
+      "title": "Steps Challenge",
+      "diziid": "store",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/66/adim_yarismasi"
+    },
+    {
+      "season": 12,
+      "episode": 67,
+      "title": "Blizzard",
+      "diziid": "store",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/67/kar_firtinasi"
+    },
+    {
+      "season": 13,
+      "episode": 68,
+      "title": "Lovebirds",
+      "diziid": "store",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/68/muhabbet_kuslari"
+    },
+    {
+      "season": 14,
+      "episode": 69,
+      "title": "Minor Crimes",
+      "diziid": "store",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/69/kucuk_suclar"
+    },
+    {
+      "season": 15,
+      "episode": 70,
+      "title": "Salary",
+      "diziid": "store",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/70/maas"
+    },
+    {
+      "season": 16,
+      "episode": 71,
+      "title": "Easter",
+      "diziid": "store",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/71/paskalya"
+    },
+    {
+      "season": 17,
+      "episode": 72,
+      "title": "QuinceaÃ±era",
+      "diziid": "store",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/72/15._dogum_gunu"
+    },
+    {
+      "season": 18,
+      "episode": 73,
+      "title": "Cloud Green",
+      "diziid": "store",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/73/yesil_politika"
+    },
+    {
+      "season": 19,
+      "episode": 74,
+      "title": "Scanners",
+      "diziid": "store",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/74/tarayicilar"
+    },
+    {
+      "season": 20,
+      "episode": 75,
+      "title": "#cloud9fail",
+      "diziid": "store",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/75/cloud9siniftakaldi"
+    },
+    {
+      "season": 21,
+      "episode": 76,
+      "title": "Sandra's Fight",
+      "diziid": "store",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/76/sandranin_kavgasi"
+    },
+    {
+      "season": 22,
+      "episode": 77,
+      "title": "Employee Appreciation Day",
+      "diziid": "store",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/77/personel_gunu"
+    },
+    {
+      "season": 1,
+      "episode": 78,
+      "title": "Cloud 9.0",
+      "diziid": "store",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/78/cloud_9.0"
+    },
+    {
+      "season": 2,
+      "episode": 79,
+      "title": "Testimonials",
+      "diziid": "store",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/79/takdirler"
+    },
+    {
+      "season": 3,
+      "episode": 80,
+      "title": "Forced Hire",
+      "diziid": "store",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/80/zorla_istihdam"
+    },
+    {
+      "season": 4,
+      "episode": 81,
+      "title": "Mall Closing",
+      "diziid": "store",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/81/alisveris_merkezi"
+    },
+    {
+      "season": 5,
+      "episode": 82,
+      "title": "Self-Care",
+      "diziid": "store",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/82/oz_bakim"
+    },
+    {
+      "season": 6,
+      "episode": 83,
+      "title": "Trick-or-Treat",
+      "diziid": "store",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/83/seker_mi_saka_mi"
+    },
+    {
+      "season": 7,
+      "episode": 84,
+      "title": "Shoplifter Rehab",
+      "diziid": "store",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/84/hirsiz"
+    },
+    {
+      "season": 8,
+      "episode": 85,
+      "title": "Toy Drive",
+      "diziid": "store",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/85/oyuncak_bagisi"
+    },
+    {
+      "season": 9,
+      "episode": 86,
+      "title": "Curbside Pickup",
+      "diziid": "store",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/86/kaldirim_kenari"
+    },
+    {
+      "season": 10,
+      "episode": 87,
+      "title": "Negotiations",
+      "diziid": "store",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/87/pazarliklar"
+    },
+    {
+      "season": 11,
+      "episode": 88,
+      "title": "Lady Boss",
+      "diziid": "store",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/88/kadin_amir"
+    },
+    {
+      "season": 12,
+      "episode": 89,
+      "title": "Myrtle",
+      "diziid": "store",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/89/myrtle"
+    },
+    {
+      "season": 13,
+      "episode": 90,
+      "title": "Favoritism",
+      "diziid": "store",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/90/adam_kayirma"
+    },
+    {
+      "season": 14,
+      "episode": 91,
+      "title": "Sandra's Wedding",
+      "diziid": "store",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/91/sandranin_dugunu"
+    },
+    {
+      "season": 15,
+      "episode": 92,
+      "title": "Cereal Bar",
+      "diziid": "store",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/92/gevrek_bufesi"
+    },
+    {
+      "season": 16,
+      "episode": 93,
+      "title": "Employee App",
+      "diziid": "store",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/93/personel_uygulamasi"
+    },
+    {
+      "season": 17,
+      "episode": 94,
+      "title": "Zephra Cares",
+      "diziid": "store",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/94/zephra_onemsiyor"
+    },
+    {
+      "season": 18,
+      "episode": 95,
+      "title": "Playdate",
+      "diziid": "store",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/95/oyun_randevusu"
+    },
+    {
+      "season": 19,
+      "episode": 96,
+      "title": "Carol's Back",
+      "diziid": "store",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/96/carol_geri_dondu"
+    },
+    {
+      "season": 20,
+      "episode": 97,
+      "title": "Customer Safari",
+      "diziid": "store",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/97/musteri_safarisi"
+    },
+    {
+      "season": 21,
+      "episode": 98,
+      "title": "California Part 1",
+      "diziid": "store",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/98/california%2C_1._bolum"
+    },
+    {
+      "season": 1,
+      "episode": 99,
+      "title": "Essential",
+      "diziid": "store",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/99/zaruri"
+    },
+    {
+      "season": 2,
+      "episode": 100,
+      "title": "California Part 2",
+      "diziid": "store",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/100/california%2C_2._kisim"
+    },
+    {
+      "season": 3,
+      "episode": 101,
+      "title": "Floor Supervisor",
+      "diziid": "store",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/101/kat_sorumlusu"
+    },
+    {
+      "season": 4,
+      "episode": 102,
+      "title": "Prize Wheel",
+      "diziid": "store",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/102/odul_carki"
+    },
+    {
+      "season": 5,
+      "episode": 103,
+      "title": "Hair Care Products",
+      "diziid": "store",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/103/sac_bakim_urunleri"
+    },
+    {
+      "season": 6,
+      "episode": 104,
+      "title": "Biscuit",
+      "diziid": "store",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/104/gevrek"
+    },
+    {
+      "season": 7,
+      "episode": 105,
+      "title": "The Trough",
+      "diziid": "store",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/105/yalak"
+    },
+    {
+      "season": 8,
+      "episode": 106,
+      "title": "Ground Rules",
+      "diziid": "store",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/106/temel_kurallar"
+    },
+    {
+      "season": 9,
+      "episode": 107,
+      "title": "Conspiracy",
+      "diziid": "store",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/107/komplo"
+    },
+    {
+      "season": 10,
+      "episode": 108,
+      "title": "Depositions",
+      "diziid": "store",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/108/yeminli_ifadeler"
+    },
+    {
+      "season": 11,
+      "episode": 109,
+      "title": "Deep Cleaning",
+      "diziid": "store",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/109/derinlemesine_temizlik"
+    },
+    {
+      "season": 12,
+      "episode": 110,
+      "title": "Customer Satisfaction",
+      "diziid": "store",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/110/musteri_memnuniyeti"
+    },
+    {
+      "season": 13,
+      "episode": 111,
+      "title": "Lowell Anderson",
+      "diziid": "store",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/111/lowell_anderson"
+    },
+    {
+      "season": 14,
+      "episode": 112,
+      "title": "Perfect Store",
+      "diziid": "store",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/112/kusursuz_magaza"
+    },
+    {
+      "season": 15,
+      "episode": 113,
+      "title": "All Sales Final",
+      "diziid": "store",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/store/superstore/113/her_sey_bitiyor"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "id": "kibklas",
+  "title": "kibaoh klashers",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/KIBKLASPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Aksiyon",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Klash in Kronkers",
+      "diziid": "kibklas",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/1/kronkersta_klash"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Trouble at Tabletop",
+      "diziid": "kibklas",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/2/masa_tepede_sorun"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Triple Smash",
+      "diziid": "kibklas",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/3/uclu_carpisma"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Tornado Talon",
+      "diziid": "kibklas",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/4/kasirga_pencesi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Race to the Top",
+      "diziid": "kibklas",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/5/zirveye_yaris"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Black Burnstone",
+      "diziid": "kibklas",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/6/kara_yanartas"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Phoenix Blade",
+      "diziid": "kibklas",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/7/anka_bicagi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Back to Blackburn",
+      "diziid": "kibklas",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/8/karayanika_geri_donus"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Welcome to Steel City",
+      "diziid": "kibklas",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/9/steel_cityye_hos_geldiniz"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Battle Begins",
+      "diziid": "kibklas",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/10/savas_basliyor"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Master of Disaster!",
+      "diziid": "kibklas",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/11/felaket_ustasi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Ollie's Last Stand",
+      "diziid": "kibklas",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/12/ollienin_son_savunmasi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Putting on the Brakes",
+      "diziid": "kibklas",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/13/frene_basmak"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Team Overdrive",
+      "diziid": "kibklas",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/14/yuksek_hiz_takimi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "New and Improved",
+      "diziid": "kibklas",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/15/yeni_ve_gelismis"
+    },
+    {
+      "season": 1,
+      "episode": 16,
+      "title": "Hi-Tech Trouble",
+      "diziid": "kibklas",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/16/ileri_teknoloji_sorunu"
+    },
+    {
+      "season": 2,
+      "episode": 17,
+      "title": "Phantom Fake Out!",
+      "diziid": "kibklas",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/17/hayalet_kandirmaca%21"
+    },
+    {
+      "season": 3,
+      "episode": 18,
+      "title": "Khaos in Kronkers!",
+      "diziid": "kibklas",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/18/kronkersta_kaos%21"
+    },
+    {
+      "season": 4,
+      "episode": 19,
+      "title": "Vandal's Challenge",
+      "diziid": "kibklas",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/19/vandalin_meydan_okumasi"
+    },
+    {
+      "season": 5,
+      "episode": 20,
+      "title": "Tea is for Training",
+      "diziid": "kibklas",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/20/cay_egitim_icindir"
+    },
+    {
+      "season": 6,
+      "episode": 21,
+      "title": "Double Trouble at Level Two",
+      "diziid": "kibklas",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/21/ikinci_seviye_cifte_sorun"
+    },
+    {
+      "season": 7,
+      "episode": 22,
+      "title": "Sabotage",
+      "diziid": "kibklas",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/22/sabotaj"
+    },
+    {
+      "season": 8,
+      "episode": 23,
+      "title": "Second Round Chances",
+      "diziid": "kibklas",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/23/ikinci_tur_sanslari"
+    },
+    {
+      "season": 9,
+      "episode": 24,
+      "title": "A Klash for the King!",
+      "diziid": "kibklas",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/24/kral_icin_klash%21"
+    },
+    {
+      "season": 10,
+      "episode": 25,
+      "title": "Dirty Deeds!",
+      "diziid": "kibklas",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/25/kotu_belgeler%21"
+    },
+    {
+      "season": 11,
+      "episode": 26,
+      "title": "Trouble Trouble!",
+      "diziid": "kibklas",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/26/uclu_sorun%21"
+    },
+    {
+      "season": 12,
+      "episode": 27,
+      "title": "Back to Blackburn Mountain",
+      "diziid": "kibklas",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/27/karayanika_geri_donus"
+    },
+    {
+      "season": 13,
+      "episode": 28,
+      "title": "Menace on the Mountain!",
+      "diziid": "kibklas",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/28/dagda_tehlike%21"
+    },
+    {
+      "season": 14,
+      "episode": 29,
+      "title": "Mutiny on the Mountain!",
+      "diziid": "kibklas",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/29/dagda_isyan%21"
+    },
+    {
+      "season": 15,
+      "episode": 30,
+      "title": "Final Klash!",
+      "diziid": "kibklas",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/kibklas/kibaoh_klashers/30/son_klash%21"
+    }
+  ]
+}

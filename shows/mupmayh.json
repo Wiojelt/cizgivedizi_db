@@ -1,0 +1,93 @@
+{
+  "id": "mupmayh",
+  "title": "muppets mayhem",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/MPPMPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "MÃ¼zik/MÃ¼zikal"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Track 1: Can You Picture That?",
+      "diziid": "mupmayh",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/mupmayh/muppets_mayhem/1/1.sarki%3A_hayal_edebiliyor_musun"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Track 2: True Colors",
+      "diziid": "mupmayh",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/mupmayh/muppets_mayhem/2/2.sarki%3A_kisinin_gercek_yuzu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Track 3: Exile on Main Street",
+      "diziid": "mupmayh",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/mupmayh/muppets_mayhem/3/3.sarki%3A_ana_caddede_surun"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Track 4: The Times They Are A-Changin'",
+      "diziid": "mupmayh",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/mupmayh/muppets_mayhem/4/4.sarki%3A_zaman_degisiyor"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Track 5: Break on Through",
+      "diziid": "mupmayh",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/mupmayh/muppets_mayhem/5/5.sarki%3A_kirip_gec"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Track 6: Fortunate Son",
+      "diziid": "mupmayh",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/mupmayh/muppets_mayhem/6/6.sarki%3A_sansli_ogul"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Track 7: Eight Days a Week",
+      "diziid": "mupmayh",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/mupmayh/muppets_mayhem/7/7.sarki%3A_haftada_sekiz_gun"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Track 8: Virtual Insanity",
+      "diziid": "mupmayh",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/mupmayh/muppets_mayhem/8/8.sarki%3A_sanal_delilik"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Track 9: Drift Away",
+      "diziid": "mupmayh",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/mupmayh/muppets_mayhem/9/9.sarki%3A_uzaklara_suruklenmek"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Track 10: We Will Rock You",
+      "diziid": "mupmayh",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/mupmayh/muppets_mayhem/10/10.sarki%3A_sizi_sallayacagiz"
+    }
+  ]
+}

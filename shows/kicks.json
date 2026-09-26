@@ -1,0 +1,93 @@
+{
+  "id": "kicks",
+  "title": "kicks",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/KICKSPoster.avif",
+  "channel": "Prime Video",
+  "genres": [
+    "Spor",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "kicks",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/kicks/kicks/1/pilot__giris_bolumu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "There's No I in Team",
+      "diziid": "kicks",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/kicks/kicks/2/takimda_%E2%80%9Cben%E2%80%9D_olmaz"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "You Win Some, You Lose Some",
+      "diziid": "kicks",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/kicks/kicks/3/kazanmak_da_var_kaybetmek_de"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Choosing Sides",
+      "diziid": "kicks",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/kicks/kicks/4/tarafini_sec"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Take the Field",
+      "diziid": "kicks",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/kicks/kicks/5/sahaya_cik"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Head Games",
+      "diziid": "kicks",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/kicks/kicks/6/onemli_maclar"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Go Big or Go Home",
+      "diziid": "kicks",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/kicks/kicks/7/ya_hep_ya_hic"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Break Away",
+      "diziid": "kicks",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/kicks/kicks/8/ani_atak"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Best Defense Is a Good Offense",
+      "diziid": "kicks",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/kicks/kicks/9/en_iyi_savunma_saldiridir"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "No Pain, No Gain",
+      "diziid": "kicks",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/kicks/kicks/10/aci_yoksa_zafer_de_yok"
+    }
+  ]
+}

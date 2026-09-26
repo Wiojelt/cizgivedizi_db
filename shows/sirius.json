@@ -1,0 +1,109 @@
+{
+  "id": "sirius",
+  "title": "avcÄ± sirius",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/SIRIUSPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Aksiyon",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Revenant Howls in Darkness",
+      "diziid": "sirius",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/sirius/avci_sirius/1/hayalet_karanlikta_uluyor"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Deprived Talent",
+      "diziid": "sirius",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/sirius/avci_sirius/2/yoksun_birakilan_yetenek"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Indelible Memories",
+      "diziid": "sirius",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/sirius/avci_sirius/3/kalici_anilar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Beginning of Trickery",
+      "diziid": "sirius",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/sirius/avci_sirius/4/kandirmacanin_baslangici"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Frankenstein",
+      "diziid": "sirius",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/sirius/avci_sirius/5/frankenstein"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Mockingbird's Song",
+      "diziid": "sirius",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/sirius/avci_sirius/6/alayci_kusun_sarkisi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "True Confession",
+      "diziid": "sirius",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/sirius/avci_sirius/7/gercek_itiraf"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Sanctuary of Sirius",
+      "diziid": "sirius",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/sirius/avci_sirius/8/siriusun_siginagi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Father's Shadow",
+      "diziid": "sirius",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/sirius/avci_sirius/9/babanin_golgesi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Memories of the Abyss",
+      "diziid": "sirius",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/sirius/avci_sirius/10/dipteki_anilar"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Calling in Blood",
+      "diziid": "sirius",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/sirius/avci_sirius/11/kan_cagrisi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Ark of Sirius",
+      "diziid": "sirius",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/sirius/avci_sirius/12/siriusun_arki"
+    }
+  ]
+}

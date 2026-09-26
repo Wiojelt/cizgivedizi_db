@@ -1,0 +1,117 @@
+{
+  "id": "lq",
+  "title": "legend quest",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/LQPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Prophecy",
+      "diziid": "lq",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/lq/legend_quest/1/kehanet"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Jersey Devil",
+      "diziid": "lq",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/lq/legend_quest/2/jersey_devil"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Mart",
+      "diziid": "lq",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/lq/legend_quest/3/mart"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Ghost of Medusa",
+      "diziid": "lq",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/lq/legend_quest/4/medusanin_hayaleti"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Vodnik",
+      "diziid": "lq",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/lq/legend_quest/5/vodnik"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Fenrir",
+      "diziid": "lq",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/lq/legend_quest/6/fenrir"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Tooth Fairy",
+      "diziid": "lq",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/lq/legend_quest/7/dis_perisi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Kaiju",
+      "diziid": "lq",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/lq/legend_quest/8/kaiju"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Nu Gui",
+      "diziid": "lq",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/lq/legend_quest/9/nu_gui"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Mister Madera",
+      "diziid": "lq",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/lq/legend_quest/10/bay_madera"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Chilan",
+      "diziid": "lq",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/lq/legend_quest/11/chilan"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Golem",
+      "diziid": "lq",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/lq/legend_quest/12/golem"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Serpent and the Egg",
+      "diziid": "lq",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/lq/legend_quest/13/yilan_ve_yumurta"
+    }
+  ]
+}

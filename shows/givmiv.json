@@ -1,0 +1,52 @@
+{
+  "id": "givmiv",
+  "title": "mÃ¼thiÅŸ insan vÃ¼cudu",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/GIVMIVPoster.avif",
+  "channel": "Da Vinci",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Skeleton",
+      "diziid": "givmiv",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/givmiv/muthis_insan_vucudu/1/iskelet"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Digestion",
+      "diziid": "givmiv",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/givmiv/muthis_insan_vucudu/2/sindirim"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Ears",
+      "diziid": "givmiv",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/givmiv/muthis_insan_vucudu/3/kulaklar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Eyes",
+      "diziid": "givmiv",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/givmiv/muthis_insan_vucudu/4/gozler"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Teeth",
+      "diziid": "givmiv",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/givmiv/muthis_insan_vucudu/5/disler"
+    }
+  ]
+}

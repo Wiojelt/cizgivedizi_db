@@ -1,0 +1,558 @@
+{
+  "id": "dwho",
+  "title": "doctor who",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/DWHOPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Bilim Kurgu",
+    "Macera",
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Eleventh Hour",
+      "diziid": "dwho",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/53/on_birinci_saat"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Beast Below",
+      "diziid": "dwho",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/54/alttaki_canavar"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Victory of the Daleks",
+      "diziid": "dwho",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/55/daleklerin_zaferi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Time of Angels",
+      "diziid": "dwho",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/56/meleklerin_zamani"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Flesh and Stone",
+      "diziid": "dwho",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/57/etten_ve_tastan"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Vampires of Venice",
+      "diziid": "dwho",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/58/venedik_vampirleri"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Amy's Choice",
+      "diziid": "dwho",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/59/amynin_secimi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Hungry Earth",
+      "diziid": "dwho",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/60/ac_dunya"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Cold Blood",
+      "diziid": "dwho",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/61/soguk_kan"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Vincent and the Doctor",
+      "diziid": "dwho",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/62/vincent_ve_doktor"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Lodger",
+      "diziid": "dwho",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/63/kiraci"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Pandorica Opens",
+      "diziid": "dwho",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/64/pandorica_aciliyor"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Big Bang",
+      "diziid": "dwho",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/65/buyuk_patlama"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "The Impossible Astronaut",
+      "diziid": "dwho",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/66/imkansiz_astronot"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Day of the Moon",
+      "diziid": "dwho",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/67/ayin_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "The Curse of the Black Spot",
+      "diziid": "dwho",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/68/kara_lekenin_laneti"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "The Doctor's Wife",
+      "diziid": "dwho",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/69/doktorun_karisi"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "The Rebel Flesh",
+      "diziid": "dwho",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/70/baskaldiran_et"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "The Almost People",
+      "diziid": "dwho",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/71/sanki_insanlar"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "A Good Man Goes to War",
+      "diziid": "dwho",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/72/iyi_bir_adam_savasa_gidiyor"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Let's Kill Hitler",
+      "diziid": "dwho",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/73/hitleri_oldurelim"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Night Terrors",
+      "diziid": "dwho",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/74/gece_korkulari"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "The Girl Who Waited",
+      "diziid": "dwho",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/75/bekleyen_kiz"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "The God Complex",
+      "diziid": "dwho",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/76/tanri_kompleksi"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Closing Time",
+      "diziid": "dwho",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/77/kapanis_zamani"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "The Wedding of River Song",
+      "diziid": "dwho",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/78/river_songun_dugunu"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Asylum of the Daleks",
+      "diziid": "dwho",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/79/daleklerin_timarhanesi"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Dinosaurs on a Spaceship",
+      "diziid": "dwho",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/80/uzay_gemisindeki_dinozorlar"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "A Town Called Mercy",
+      "diziid": "dwho",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/81/merhamet_adinda_bir_kasaba"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "The Power of Three",
+      "diziid": "dwho",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/82/ucun_gucu"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "The Angels Take Manhattan",
+      "diziid": "dwho",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/83/melekler_manhattani_aliyor"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "The Snowmen",
+      "diziid": "dwho",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/84/kardan_adamlar"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "The Bells of Saint John",
+      "diziid": "dwho",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/85/saint_johnun_canlari"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "The Rings of Akhaten",
+      "diziid": "dwho",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/86/akhatenin_halkalari"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Cold War",
+      "diziid": "dwho",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/87/soguk_savas"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Hide",
+      "diziid": "dwho",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/88/saklan"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Journey to the Centre of the TARDIS",
+      "diziid": "dwho",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/89/tardisin_merkezine_yolculuk"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "The Crimson Horror",
+      "diziid": "dwho",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/90/kizil_dehset"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Nightmare in Silver",
+      "diziid": "dwho",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/91/gumus_kabus"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "The Name of the Doctor",
+      "diziid": "dwho",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/92/doktorun_adi"
+    },
+    {
+      "season": 1,
+      "episode": 41,
+      "title": "Deep Breath",
+      "diziid": "dwho",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/93/derin_nefes"
+    },
+    {
+      "season": 2,
+      "episode": 42,
+      "title": "Into the Dalek",
+      "diziid": "dwho",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/94/dalekin_icinde"
+    },
+    {
+      "season": 3,
+      "episode": 43,
+      "title": "Robot of Sherwood",
+      "diziid": "dwho",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/95/sherwood_robotu"
+    },
+    {
+      "season": 4,
+      "episode": 44,
+      "title": "Listen",
+      "diziid": "dwho",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/96/dinle"
+    },
+    {
+      "season": 5,
+      "episode": 45,
+      "title": "Time Heist",
+      "diziid": "dwho",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/97/zaman_soygunu"
+    },
+    {
+      "season": 6,
+      "episode": 46,
+      "title": "The Caretaker",
+      "diziid": "dwho",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/98/hademe"
+    },
+    {
+      "season": 7,
+      "episode": 47,
+      "title": "Kill the Moon",
+      "diziid": "dwho",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/99/ayi_oldurmek"
+    },
+    {
+      "season": 8,
+      "episode": 48,
+      "title": "Mummy on the Orient Express",
+      "diziid": "dwho",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/100/dogu_ekspresi%E2%80%99ndeki_mumya"
+    },
+    {
+      "season": 9,
+      "episode": 49,
+      "title": "Flatline",
+      "diziid": "dwho",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/101/duz_cizgi"
+    },
+    {
+      "season": 10,
+      "episode": 50,
+      "title": "In the Forest of the Night",
+      "diziid": "dwho",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/102/gecenin_ormaninda"
+    },
+    {
+      "season": 11,
+      "episode": 51,
+      "title": "Dark Water",
+      "diziid": "dwho",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/103/karanlik_su"
+    },
+    {
+      "season": 12,
+      "episode": 52,
+      "title": "Death in Heaven",
+      "diziid": "dwho",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/104/cennette_olum"
+    },
+    {
+      "season": 1,
+      "episode": 53,
+      "title": "The Magician's Apprentice",
+      "diziid": "dwho",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/105/buyucunun_ciragi"
+    },
+    {
+      "season": 2,
+      "episode": 54,
+      "title": "The Witch's Familiar",
+      "diziid": "dwho",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/106/cadinin_dostu"
+    },
+    {
+      "season": 3,
+      "episode": 55,
+      "title": "Under the Lake",
+      "diziid": "dwho",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/107/golun_altinda"
+    },
+    {
+      "season": 4,
+      "episode": 56,
+      "title": "Before the Flood",
+      "diziid": "dwho",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/108/selden_once"
+    },
+    {
+      "season": 5,
+      "episode": 57,
+      "title": "The Girl Who Died",
+      "diziid": "dwho",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/109/olen_kiz"
+    },
+    {
+      "season": 6,
+      "episode": 58,
+      "title": "The Woman Who Lived",
+      "diziid": "dwho",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/110/yasayan_kadin"
+    },
+    {
+      "season": 7,
+      "episode": 59,
+      "title": "The Zygon Invasion",
+      "diziid": "dwho",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/111/zygon_istilasi"
+    },
+    {
+      "season": 8,
+      "episode": 60,
+      "title": "The Zygon Inversion",
+      "diziid": "dwho",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/112/zygon_evirtimi"
+    },
+    {
+      "season": 9,
+      "episode": 61,
+      "title": "Sleep No More",
+      "diziid": "dwho",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/113/bir_daha_uyuma"
+    },
+    {
+      "season": 10,
+      "episode": 62,
+      "title": "Face the Raven",
+      "diziid": "dwho",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/114/kuzgunla_yuzlesme"
+    },
+    {
+      "season": 11,
+      "episode": 63,
+      "title": "Heaven Sent",
+      "diziid": "dwho",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/115/gokten_gelen"
+    },
+    {
+      "season": 12,
+      "episode": 64,
+      "title": "Hell Bent",
+      "diziid": "dwho",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/116/kararli"
+    },
+    {
+      "season": 1,
+      "episode": 65,
+      "title": "A Christmas Carol",
+      "diziid": "dwho",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/0/noel_sarkisi"
+    },
+    {
+      "season": 1,
+      "episode": 66,
+      "title": "The Doctor, the Widow and the Wardrobe",
+      "diziid": "dwho",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/0/doktor%2C_dul_ve_dolap"
+    },
+    {
+      "season": 1,
+      "episode": 67,
+      "title": "The Day of the Doctor",
+      "diziid": "dwho",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/0/doktorun_gunu"
+    },
+    {
+      "season": 1,
+      "episode": 68,
+      "title": "The Time of the Doctor",
+      "diziid": "dwho",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/dwho/doctor_who/0/doktorun_zamani"
+    }
+  ]
+}

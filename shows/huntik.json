@@ -1,0 +1,429 @@
+{
+  "id": "huntik",
+  "title": "huntik",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/HUNTIKPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "A Seeker Is Born",
+      "diziid": "huntik",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/1/bir_arayan_dogdu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Casterwill Client",
+      "diziid": "huntik",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/2/casterwill_muvekkili"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Words of Truth, Heart of Lies",
+      "diziid": "huntik",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/3/dogrular_ve_yalanlar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Into the River of Secrets",
+      "diziid": "huntik",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/4/sirlar_irmaginda"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Crawling the Catacombs",
+      "diziid": "huntik",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/5/yer_alti_mezarlarina_yolculuk"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Divide and Conquer",
+      "diziid": "huntik",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/6/bol_ve_ele_gecir"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Legacy of Thor",
+      "diziid": "huntik",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/7/thorun_mirasi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Two Powers Become One",
+      "diziid": "huntik",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/8/iki_guc_bir_olur"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Absent Heroes",
+      "diziid": "huntik",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/9/kayip_kahramanlar"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Treasures of the Argonauts",
+      "diziid": "huntik",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/10/hazineler"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Beautiful Trap",
+      "diziid": "huntik",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/11/guzel_tuzak"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Like Father, Unlike Son",
+      "diziid": "huntik",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/12/babasindan_farkli"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Home Turf",
+      "diziid": "huntik",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/13/eve_don"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "All Work and No Pay",
+      "diziid": "huntik",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/14/parasiz_calisma"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Sceptre Deception",
+      "diziid": "huntik",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/15/asanin_sirri"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Bookshop Hunter",
+      "diziid": "huntik",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/16/kitaptaki_avci"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Vampire Loses Its Fangs",
+      "diziid": "huntik",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/17/vampir_dislerin_kaybi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Memory Lane",
+      "diziid": "huntik",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/18/gecmise_yolculuk"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Ladies' Choice",
+      "diziid": "huntik",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/19/bayanlarin_tercihi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Unseen Guide",
+      "diziid": "huntik",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/20/gizli_rehber"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Coming of Age",
+      "diziid": "huntik",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/21/buyumek"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Golden Asp",
+      "diziid": "huntik",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/22/altin_engerek"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "To Be Together",
+      "diziid": "huntik",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/23/birlikte_olmak"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Secret of Two Generations",
+      "diziid": "huntik",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/24/iki_neslin_sirri"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Divine Comedy",
+      "diziid": "huntik",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/25/harika_komedi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Mission",
+      "diziid": "huntik",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/26/gorev"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Doorway to Huntik",
+      "diziid": "huntik",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/27/huntike_giden_yol"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "The Tower of Nostradamus",
+      "diziid": "huntik",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/28/nostradamus_kulesi"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Cave of the Casterwills",
+      "diziid": "huntik",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/29/casterwill_magarasi"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "The Knight of Willblade",
+      "diziid": "huntik",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/30/willblade_sovalyesi"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Chasing Void",
+      "diziid": "huntik",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/31/boslugu_kovalamak"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Blood Spiral",
+      "diziid": "huntik",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/32/kan_spirali"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Den vs. Harrison",
+      "diziid": "huntik",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/33/dan_harrisona_karsi"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "The Legendary Titan of Fate",
+      "diziid": "huntik",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/34/efsanevi_kader_titani"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Zhalia's Mission",
+      "diziid": "huntik",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/35/zhalianin_gorevi"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Boys Will Be Seekers",
+      "diziid": "huntik",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/36/arayici_dedigin_yaramaz_olur"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "The Casterwill Connection",
+      "diziid": "huntik",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/37/casterwill_baglantisi"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "The Titan in the Temple of Sun",
+      "diziid": "huntik",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/38/gunes_tapinagindaki_titan"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Sophie on Trial",
+      "diziid": "huntik",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/39/sophienin_sinavi"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "The Spiral War",
+      "diziid": "huntik",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/40/kan_spirali_savasi"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "Gremlow Infestation!",
+      "diziid": "huntik",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/41/gremlow_istilasi"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "The Power of Umbra",
+      "diziid": "huntik",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/42/umbranin_gucu"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Lok's Leadership",
+      "diziid": "huntik",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/43/lokun_liderligi"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "The Dead Magic Island",
+      "diziid": "huntik",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/44/olu_buyu_adasi"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "The Phoenix's Ashes",
+      "diziid": "huntik",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/45/phoenixin_kuleleri"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "An Ally from the Organization",
+      "diziid": "huntik",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/46/organizasyondan_bir_muttefik"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "Rassimov's Secret",
+      "diziid": "huntik",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/47/rassimovun_sirri"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "Home Is Where the Titans Are",
+      "diziid": "huntik",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/48/eve_donus"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "Words from Eathon",
+      "diziid": "huntik",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/49/eathonin_sozleri"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "The Spiral Mark",
+      "diziid": "huntik",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/50/spiral_isareti"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "Lok and the Betrayer",
+      "diziid": "huntik",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/51/lok_ve_hain"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "Dante's Return",
+      "diziid": "huntik",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/huntik/huntik/52/dantenin_donusu"
+    }
+  ]
+}

@@ -1,0 +1,669 @@
+{
+  "id": "lcm",
+  "title": "lego city maceralarÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/LCMPoster.avif",
+  "channel": "Nickelodeon",
+  "genres": [
+    "Komedi",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Cubs and Robbers",
+      "diziid": "lcm",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/1/yavru_aslanlar_ve_hirsizlar"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Billy the Bug",
+      "diziid": "lcm",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/2/bocek_billy"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Sky Police",
+      "diziid": "lcm",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/3/gok_polisi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Father's Day Parade",
+      "diziid": "lcm",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/4/babalar_gunu_gecit_toreni"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Race to the Top",
+      "diziid": "lcm",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/5/zirveye_cikma_yarisi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Meet Harl Hubbs",
+      "diziid": "lcm",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/6/harl_hubbsla_tanisin"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Doorman of the City",
+      "diziid": "lcm",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/7/sehrin_kapi_gorevlisi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Fendrich in the Wild",
+      "diziid": "lcm",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/8/fendrich_vahsi_yasamda"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Poppy Starr",
+      "diziid": "lcm",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/9/poppy_starr"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Spooky One",
+      "diziid": "lcm",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/10/perili_ev"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Small Carol",
+      "diziid": "lcm",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/11/kucuk_carol"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Last Man Floating",
+      "diziid": "lcm",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/12/marsa_bir_bilet"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Evil Layers",
+      "diziid": "lcm",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/13/haydut_yatagi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Buster",
+      "diziid": "lcm",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/14/buster"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Shirley Keeper",
+      "diziid": "lcm",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/15/cop_toplayicisi_shirley"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "3, 2, 1",
+      "diziid": "lcm",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/16/3%2C2%2C1"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Police Navidad",
+      "diziid": "lcm",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/17/noelde_gece_nobeti"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Paradoors",
+      "diziid": "lcm",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/18/otekapilar"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Slam the Door",
+      "diziid": "lcm",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/19/kapiyi_kapat"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "JAILBREAK!",
+      "diziid": "lcm",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/20/firar"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "Buster Moves",
+      "diziid": "lcm",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/21/buster_hareketleri"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "To Cop or Not to Cop",
+      "diziid": "lcm",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/22/polis_olmak_ya_da_olmamak"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "Handle with Car",
+      "diziid": "lcm",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/23/arabayi_idare_et"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "The Silver Blur",
+      "diziid": "lcm",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/24/gumus_kararti"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "Harl Hubbs Day",
+      "diziid": "lcm",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/25/harl_hubbs_gunu"
+    },
+    {
+      "season": 6,
+      "episode": 26,
+      "title": "Ann They're Off",
+      "diziid": "lcm",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/26/ann_yarisiyor"
+    },
+    {
+      "season": 7,
+      "episode": 27,
+      "title": "Bob and Clemmons' Excellent Adventure",
+      "diziid": "lcm",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/27/bob_ve_clemmonsin_mukemmel_macerasi"
+    },
+    {
+      "season": 8,
+      "episode": 28,
+      "title": "The Man With No Name With A Name",
+      "diziid": "lcm",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/28/isimli_ama_isimsiz_adam"
+    },
+    {
+      "season": 9,
+      "episode": 29,
+      "title": "Daisy Chain Gang",
+      "diziid": "lcm",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/29/daisynin_cetesi"
+    },
+    {
+      "season": 10,
+      "episode": 30,
+      "title": "Backdraft to School",
+      "diziid": "lcm",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/30/okula_donus"
+    },
+    {
+      "season": 11,
+      "episode": 31,
+      "title": "Running Mates",
+      "diziid": "lcm",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/31/aday_kafadarlar"
+    },
+    {
+      "season": 12,
+      "episode": 32,
+      "title": "Dirty Duke",
+      "diziid": "lcm",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/32/kotu_duk"
+    },
+    {
+      "season": 13,
+      "episode": 33,
+      "title": "For Wheeler",
+      "diziid": "lcm",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/33/wheeler_icin"
+    },
+    {
+      "season": 14,
+      "episode": 34,
+      "title": "Brickmuda Heptagon",
+      "diziid": "lcm",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/34/tuglamuda_yedigen"
+    },
+    {
+      "season": 15,
+      "episode": 35,
+      "title": "The Quacken",
+      "diziid": "lcm",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/35/quacken"
+    },
+    {
+      "season": 16,
+      "episode": 36,
+      "title": "The Treasure of Nosepatch",
+      "diziid": "lcm",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/36/nosepatchin_hazinesi"
+    },
+    {
+      "season": 17,
+      "episode": 37,
+      "title": "Midden Fleasure",
+      "diziid": "lcm",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/37/gizli_hazine"
+    },
+    {
+      "season": 18,
+      "episode": 38,
+      "title": "Tread or Alive",
+      "diziid": "lcm",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/38/treadin_zor_karari"
+    },
+    {
+      "season": 19,
+      "episode": 39,
+      "title": "Arrest Ye Merry Gentlemen",
+      "diziid": "lcm",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/39/tutuklusunuz_mutlu_beyefendi"
+    },
+    {
+      "season": 20,
+      "episode": 40,
+      "title": "Ride Along Kid",
+      "diziid": "lcm",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/40/gozlemci_cocuk"
+    },
+    {
+      "season": 1,
+      "episode": 41,
+      "title": "Thank Hank",
+      "diziid": "lcm",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/41/tesekkurler_hank"
+    },
+    {
+      "season": 2,
+      "episode": 42,
+      "title": "Are the Kids Watching?",
+      "diziid": "lcm",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/42/cocuklar_izliyor_mu"
+    },
+    {
+      "season": 3,
+      "episode": 43,
+      "title": "Shirley P.I.",
+      "diziid": "lcm",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/43/shirley"
+    },
+    {
+      "season": 4,
+      "episode": 44,
+      "title": "Please and Fang You",
+      "diziid": "lcm",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/44/dis"
+    },
+    {
+      "season": 5,
+      "episode": 45,
+      "title": "Class Act",
+      "diziid": "lcm",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/45/sinif_kurallari"
+    },
+    {
+      "season": 6,
+      "episode": 46,
+      "title": "We're #1",
+      "diziid": "lcm",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/46/1_numarayiz"
+    },
+    {
+      "season": 7,
+      "episode": 47,
+      "title": "Wylde Wex",
+      "diziid": "lcm",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/47/wylde_wex"
+    },
+    {
+      "season": 8,
+      "episode": 48,
+      "title": "Business Is Booming",
+      "diziid": "lcm",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/48/is_patliyor"
+    },
+    {
+      "season": 9,
+      "episode": 49,
+      "title": "Makeover and Over",
+      "diziid": "lcm",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/49/opera_binasi"
+    },
+    {
+      "season": 10,
+      "episode": 50,
+      "title": "Lights!, Camera!, Grizzled!",
+      "diziid": "lcm",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/50/isiklar%21%2C_kamera%21%2C_grizzled%21"
+    },
+    {
+      "season": 11,
+      "episode": 51,
+      "title": "Duke Time",
+      "diziid": "lcm",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/51/duk_zamani"
+    },
+    {
+      "season": 12,
+      "episode": 52,
+      "title": "Harpy Stubbs",
+      "diziid": "lcm",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/52/harl_ve_poppy"
+    },
+    {
+      "season": 13,
+      "episode": 53,
+      "title": "Quantifying Intrepidness",
+      "diziid": "lcm",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/53/cesurlugu_olcmek"
+    },
+    {
+      "season": 14,
+      "episode": 54,
+      "title": "Green Light",
+      "diziid": "lcm",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/54/yesil_isik"
+    },
+    {
+      "season": 15,
+      "episode": 55,
+      "title": "My Cool Aunt Freya",
+      "diziid": "lcm",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/55/havali_teyzem_freya"
+    },
+    {
+      "season": 16,
+      "episode": 56,
+      "title": "The Cow Jumped Over the Spoon",
+      "diziid": "lcm",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/56/inek_arayisi"
+    },
+    {
+      "season": 17,
+      "episode": 57,
+      "title": "Stunt City",
+      "diziid": "lcm",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/57/dublor_sehri"
+    },
+    {
+      "season": 18,
+      "episode": 58,
+      "title": "Of Dads and Dudes",
+      "diziid": "lcm",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/58/babalar_ve_dostlar"
+    },
+    {
+      "season": 19,
+      "episode": 59,
+      "title": "Fool on Fleck",
+      "diziid": "lcm",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/59/belediye_baskanina_saka"
+    },
+    {
+      "season": 20,
+      "episode": 60,
+      "title": "Ramping Up",
+      "diziid": "lcm",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/60/arttirmak"
+    },
+    {
+      "season": 21,
+      "episode": 61,
+      "title": "Give 'Em a Hand",
+      "diziid": "lcm",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/61/onlara_yardim_edin"
+    },
+    {
+      "season": 22,
+      "episode": 62,
+      "title": "Natural Habitat",
+      "diziid": "lcm",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/62/dogal_yasam_alani"
+    },
+    {
+      "season": 1,
+      "episode": 63,
+      "title": "The Brawl in City Hall",
+      "diziid": "lcm",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/63/belediye_binasinda_arbede"
+    },
+    {
+      "season": 2,
+      "episode": 64,
+      "title": "Who is Ludmilla Ersatz?",
+      "diziid": "lcm",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/64/ludmilla_ersatz_kim"
+    },
+    {
+      "season": 3,
+      "episode": 65,
+      "title": "Crisis on Moonbase: Momentous!",
+      "diziid": "lcm",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/65/ay_ussunde_kriz%3A_momentous%21"
+    },
+    {
+      "season": 4,
+      "episode": 66,
+      "title": "Wreckless Driving",
+      "diziid": "lcm",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/66/dikkatsiz_sofor"
+    },
+    {
+      "season": 5,
+      "episode": 67,
+      "title": "A House Divided",
+      "diziid": "lcm",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/67/departmanlar_bolunuyor"
+    },
+    {
+      "season": 6,
+      "episode": 68,
+      "title": "The Trojan Slooshie",
+      "diziid": "lcm",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/68/truva_buzlas"
+    },
+    {
+      "season": 7,
+      "episode": 69,
+      "title": "Born to Direct",
+      "diziid": "lcm",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/69/yonetmek_icin_dogmus"
+    },
+    {
+      "season": 8,
+      "episode": 70,
+      "title": "The Wexler Deflector Conjecture",
+      "diziid": "lcm",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/70/wexler_saptirma_varsayimi"
+    },
+    {
+      "season": 9,
+      "episode": 71,
+      "title": "Billy to the Maxx",
+      "diziid": "lcm",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/71/sonuna_kadar_billy"
+    },
+    {
+      "season": 10,
+      "episode": 72,
+      "title": "The Good, the Bad... and the Turtles",
+      "diziid": "lcm",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/72/iyi%2C_kotu..._ve_kaplumbagalar"
+    },
+    {
+      "season": 11,
+      "episode": 73,
+      "title": "Day of the Dread",
+      "diziid": "lcm",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/73/dreadin_gunu"
+    },
+    {
+      "season": 12,
+      "episode": 74,
+      "title": "Mr. Produce Buys the Farm",
+      "diziid": "lcm",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/74/bay_uretici_ciftlik_alir"
+    },
+    {
+      "season": 13,
+      "episode": 75,
+      "title": "This Land is Harl's Land",
+      "diziid": "lcm",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/75/harlin_arazisi"
+    },
+    {
+      "season": 14,
+      "episode": 76,
+      "title": "Shirley Overdrive",
+      "diziid": "lcm",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/76/shirley_ile_asiri_hiz"
+    },
+    {
+      "season": 15,
+      "episode": 77,
+      "title": "Yes, No, Maybe So?",
+      "diziid": "lcm",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/77/evet%2C_hayir%2C_olabilir"
+    },
+    {
+      "season": 16,
+      "episode": 78,
+      "title": "Grizzled and Grizzled-er",
+      "diziid": "lcm",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/78/daha_fazla_grizzled"
+    },
+    {
+      "season": 17,
+      "episode": 79,
+      "title": "Freya, Basically",
+      "diziid": "lcm",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/79/freyanin_temeli"
+    },
+    {
+      "season": 18,
+      "episode": 80,
+      "title": "Where in the World is Sheep Wheeler?",
+      "diziid": "lcm",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/80/koyun_wheeler_nerede"
+    },
+    {
+      "season": 19,
+      "episode": 81,
+      "title": "King Fendrich I",
+      "diziid": "lcm",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/81/kral_fendrich_i"
+    },
+    {
+      "season": 20,
+      "episode": 82,
+      "title": "King Fendrich II",
+      "diziid": "lcm",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/lcm/lego_city_maceralari/82/kral_fendrich_ii"
+    }
+  ]
+}

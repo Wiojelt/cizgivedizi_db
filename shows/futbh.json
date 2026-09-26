@@ -1,0 +1,180 @@
+{
+  "id": "futbh",
+  "title": "futbol hikÃ¢yeleri",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/FUTBHPoster.avif",
+  "channel": "BRTV",
+  "genres": [
+    "Spor"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Prehistory: The Playing Field",
+      "diziid": "futbh",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/1/tarih_oncesi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Egypt: The Duration of the Game",
+      "diziid": "futbh",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/2/misir"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Crete: Free Kicks",
+      "diziid": "futbh",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/3/girit"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Greece: Assistant Referees",
+      "diziid": "futbh",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/4/yunanistan"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Rome: The Ball",
+      "diziid": "futbh",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/5/roma"
+    },
+    {
+      "season": 8,
+      "episode": 6,
+      "title": "Middle East: The Number of Players",
+      "diziid": "futbh",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/8/orta_dogu"
+    },
+    {
+      "season": 11,
+      "episode": 7,
+      "title": "Byzantium: The Referee",
+      "diziid": "futbh",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/11/bizans"
+    },
+    {
+      "season": 12,
+      "episode": 8,
+      "title": "The Crusades: Injuries And Substitutions",
+      "diziid": "futbh",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/12/hacli_seferleri"
+    },
+    {
+      "season": 13,
+      "episode": 9,
+      "title": "The Renaissance: The Throw-In",
+      "diziid": "futbh",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/13/ronesans"
+    },
+    {
+      "season": 14,
+      "episode": 10,
+      "title": "The Great Navigators: Loss of Time",
+      "diziid": "futbh",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/14/buyuk_denizciler"
+    },
+    {
+      "season": 15,
+      "episode": 11,
+      "title": "The Pre-Columbian Era: Building a Stadium",
+      "diziid": "futbh",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/15/kolomb_oncesi_amerika"
+    },
+    {
+      "season": 16,
+      "episode": 12,
+      "title": "The Conquistadors: Obstructions",
+      "diziid": "futbh",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/16/fatihler"
+    },
+    {
+      "season": 17,
+      "episode": 13,
+      "title": "Australia: The Ball In Play",
+      "diziid": "futbh",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/17/avustralya"
+    },
+    {
+      "season": 18,
+      "episode": 14,
+      "title": "Africa: Fouls Relating To The Goalkeeper",
+      "diziid": "futbh",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/18/afrika"
+    },
+    {
+      "season": 19,
+      "episode": 15,
+      "title": "India: The Goal Kick",
+      "diziid": "futbh",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/19/hindistan"
+    },
+    {
+      "season": 20,
+      "episode": 16,
+      "title": "The French Revolution: Dangerous Play",
+      "diziid": "futbh",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/20/fransiz_ihtilali"
+    },
+    {
+      "season": 21,
+      "episode": 17,
+      "title": "The Wild West: Sanctions",
+      "diziid": "futbh",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/21/vahsi_bati"
+    },
+    {
+      "season": 22,
+      "episode": 18,
+      "title": "The Eskimos: Offside",
+      "diziid": "futbh",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/22/eskimo_halki"
+    },
+    {
+      "season": 23,
+      "episode": 19,
+      "title": "The Industrial Revolution: The Penalty Kick",
+      "diziid": "futbh",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/23/sanayi_devrimi"
+    },
+    {
+      "season": 24,
+      "episode": 20,
+      "title": "The Sixties: Player's Equipment",
+      "diziid": "futbh",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/24/altmisli_yillar"
+    },
+    {
+      "season": 25,
+      "episode": 21,
+      "title": "The Cold War: Techniques and Tactics",
+      "diziid": "futbh",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/futbh/futbol_hikayeleri/25/soguk_savas"
+    }
+  ]
+}

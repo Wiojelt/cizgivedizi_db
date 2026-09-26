@@ -1,0 +1,172 @@
+{
+  "id": "zeni",
+  "title": "zenimation",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ZENIPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "DoÄŸa ve Hayvanlar"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Water",
+      "diziid": "zeni",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/1/su"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Cityscapes",
+      "diziid": "zeni",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/2/sehir_manzarasi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Discovery",
+      "diziid": "zeni",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/3/kesif"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Flight",
+      "diziid": "zeni",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/4/ucus"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Explore",
+      "diziid": "zeni",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/5/arastirma"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Night",
+      "diziid": "zeni",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/6/gece"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Nature",
+      "diziid": "zeni",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/7/doga"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Serenity",
+      "diziid": "zeni",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/8/huzur"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Water Realms",
+      "diziid": "zeni",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/9/su_yollari"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Levity",
+      "diziid": "zeni",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/10/hafif"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Extended Edition",
+      "diziid": "zeni",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/11/uzun_versiyon"
+    },
+    {
+      "season": 1,
+      "episode": 12,
+      "title": "Rain",
+      "diziid": "zeni",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/12/yagmur"
+    },
+    {
+      "season": 2,
+      "episode": 13,
+      "title": "Everyday Comforts",
+      "diziid": "zeni",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/13/gunun_guzellikleri"
+    },
+    {
+      "season": 3,
+      "episode": 14,
+      "title": "Natural Wonders",
+      "diziid": "zeni",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/14/doganin_harikalari"
+    },
+    {
+      "season": 4,
+      "episode": 15,
+      "title": "Transformation",
+      "diziid": "zeni",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/15/donusum"
+    },
+    {
+      "season": 5,
+      "episode": 16,
+      "title": "Waterways",
+      "diziid": "zeni",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/16/su_yollari"
+    },
+    {
+      "season": 6,
+      "episode": 17,
+      "title": "Kindness",
+      "diziid": "zeni",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/17/nezaket"
+    },
+    {
+      "season": 7,
+      "episode": 18,
+      "title": "Snowscapes",
+      "diziid": "zeni",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/18/kar_manzaralari"
+    },
+    {
+      "season": 8,
+      "episode": 19,
+      "title": "Locales",
+      "diziid": "zeni",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/19/yoreler"
+    },
+    {
+      "season": 9,
+      "episode": 20,
+      "title": "Full Journey - All Episodes",
+      "diziid": "zeni",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/zeni/zenimation/20/tum_yolculuk_-_tum_bolumler"
+    }
+  ]
+}

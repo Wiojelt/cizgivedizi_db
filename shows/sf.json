@@ -1,0 +1,245 @@
+{
+  "id": "sf",
+  "title": "skunk fu!",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/SFPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Aksiyon",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Art of Stickiness",
+      "diziid": "sf",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/1/yapiskanlik_sanati"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Art of Rivalry",
+      "diziid": "sf",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/2/rekabet_sanati"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Art of Leaving Them Laughing",
+      "diziid": "sf",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/3/komedi_sanati"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Art of Monkey Launching",
+      "diziid": "sf",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/4/maymun_firlatma_sanati"
+    },
+    {
+      "season": 6,
+      "episode": 5,
+      "title": "The Art of Revenge",
+      "diziid": "sf",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/6/intikam_sanati"
+    },
+    {
+      "season": 7,
+      "episode": 6,
+      "title": "The Art of Tunneling",
+      "diziid": "sf",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/7/tunel_acma_sanati"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "title": "The Art of Conkering",
+      "diziid": "sf",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/8/kestane_sanati"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "title": "The Art of No Mind",
+      "diziid": "sf",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/9/dusuncesizlik_sanati"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "The Art of Kung Fruit",
+      "diziid": "sf",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/10/kung_fruit_sanati"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "The Art of Darkness",
+      "diziid": "sf",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/11/karanliklarin_sanati"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "The Art of Dream Control",
+      "diziid": "sf",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/12/ruyalari_kontrol_etme_sanati"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "The Art of Responsibility",
+      "diziid": "sf",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/13/sorumluluk_sanati"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "The Art of Stealing",
+      "diziid": "sf",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/14/calma_sanati"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "The Art of Brain Washing",
+      "diziid": "sf",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/15/beyin_yikama_sanati"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "The Art of Turtle Watching",
+      "diziid": "sf",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/16/kaplumbaga_koruma_sanati"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "The Art of Truffling",
+      "diziid": "sf",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/17/yer_mantari_yetistirme_sanati"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "The Art of Patience",
+      "diziid": "sf",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/18/sabirli_olma_sanati"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "The Art of Being a Pebble",
+      "diziid": "sf",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/19/cakil_tasi_olma_sanati"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "The Art of Passing the Buck",
+      "diziid": "sf",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/20/mazeret_sanati"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "The Art of Giggling",
+      "diziid": "sf",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/21/kikirdeme_sanati"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "The Art of Getting Stuck",
+      "diziid": "sf",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/22/sikisma_sanati"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "The Art of the Touch",
+      "diziid": "sf",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/23/dokunma_sanati"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "The Art of Hospitality",
+      "diziid": "sf",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/24/konukseverlik_sanati"
+    },
+    {
+      "season": 26,
+      "episode": 24,
+      "title": "The Art of Endurance",
+      "diziid": "sf",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/26/dayaniklik_sanati"
+    },
+    {
+      "season": 27,
+      "episode": 25,
+      "title": "The Art of Lightning",
+      "diziid": "sf",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/27/simsek_caktirma_sanati"
+    },
+    {
+      "season": 28,
+      "episode": 26,
+      "title": "The Art of Double Cross",
+      "diziid": "sf",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/28/uckagitcilik_sanati"
+    },
+    {
+      "season": 33,
+      "episode": 27,
+      "title": "The Art of Kiting",
+      "diziid": "sf",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/33/ucurtma_sanati"
+    },
+    {
+      "season": 43,
+      "episode": 28,
+      "title": "The Art of Initiation",
+      "diziid": "sf",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/43/kabul_edilme_sanati"
+    },
+    {
+      "season": 49,
+      "episode": 29,
+      "title": "The Art of No Lung Fu",
+      "diziid": "sf",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/sf/skunk_fu%21/49/su_alti_kung_fu_sanati"
+    }
+  ]
+}

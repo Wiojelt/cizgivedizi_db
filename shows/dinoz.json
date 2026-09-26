@@ -1,0 +1,525 @@
+{
+  "id": "dinoz",
+  "title": "dinozorlar",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/DINOZPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Mighty Megalosaurus",
+      "diziid": "dinoz",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/1/kudretli_megalosaurus"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Mating Dance",
+      "diziid": "dinoz",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/2/ciftlesme_dansi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Hurling Day",
+      "diziid": "dinoz",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/3/firlatma_gunu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "High Noon",
+      "diziid": "dinoz",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/4/ogle_vakti"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Howling",
+      "diziid": "dinoz",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/5/uluma"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Golden Child",
+      "diziid": "dinoz",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/6/altin_cocuk"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Family Challenge",
+      "diziid": "dinoz",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/7/aile_mucadelesi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "I Never Ate for My Father",
+      "diziid": "dinoz",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/8/babam_icin_hic_yemek_yemedim"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Charlene's Tale",
+      "diziid": "dinoz",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/9/charlenein_hikayesi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Endangered Species",
+      "diziid": "dinoz",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/10/nesli_tehlike_altinda_olan_turler"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Employee of the Month",
+      "diziid": "dinoz",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/11/ayin_elemani"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "When Food Goes Bad",
+      "diziid": "dinoz",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/12/yemek_kotuye_gittiginde"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Clip Show",
+      "diziid": "dinoz",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/13/klip_gosterisi"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Career Opportunities",
+      "diziid": "dinoz",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/14/kariyer_firsatlari"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Unmarried... with Children",
+      "diziid": "dinoz",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/15/bekar..._ve_cocuklu"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "How to Pick Up Girls",
+      "diziid": "dinoz",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/16/kizlar_nasil_tavlanir"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Switched at Birth",
+      "diziid": "dinoz",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/17/dogumda_degistirme"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Happy Refrigerator Day",
+      "diziid": "dinoz",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/18/buzdolabi_gunu"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "What 'Sexual' Harris Meant",
+      "diziid": "dinoz",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/19/cinsel_harris_ne_demek_istedi"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Fran Live",
+      "diziid": "dinoz",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/20/fran_canli"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Power Erupts",
+      "diziid": "dinoz",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/21/guc_patlamalari"
+    },
+    {
+      "season": 10,
+      "episode": 22,
+      "title": "The Last Temptation of Ethyl",
+      "diziid": "dinoz",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/23/ethlyin_son_cekiciligi"
+    },
+    {
+      "season": 11,
+      "episode": 23,
+      "title": "Nuts to War: Part 1",
+      "diziid": "dinoz",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/24/cerez_savaslari_bolum_i"
+    },
+    {
+      "season": 12,
+      "episode": 24,
+      "title": "Nuts to War: Part 2",
+      "diziid": "dinoz",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/25/cerez_savaslari_bolum_ii"
+    },
+    {
+      "season": 13,
+      "episode": 25,
+      "title": "Slave to Fashion",
+      "diziid": "dinoz",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/26/modanin_kolesi"
+    },
+    {
+      "season": 14,
+      "episode": 26,
+      "title": "And the Winner Is...",
+      "diziid": "dinoz",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/27/ve_sampiyon..."
+    },
+    {
+      "season": 15,
+      "episode": 27,
+      "title": "Leader of the Pack",
+      "diziid": "dinoz",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/28/suru_lideri"
+    },
+    {
+      "season": 16,
+      "episode": 28,
+      "title": "WESAYSO Knows Best",
+      "diziid": "dinoz",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/29/wesayso_en_iyisini_bilir"
+    },
+    {
+      "season": 1,
+      "episode": 29,
+      "title": "Nature Calls",
+      "diziid": "dinoz",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/30/doga_cagiriyor"
+    },
+    {
+      "season": 2,
+      "episode": 30,
+      "title": "Baby Talk",
+      "diziid": "dinoz",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/31/bebek_konusmasi"
+    },
+    {
+      "season": 3,
+      "episode": 31,
+      "title": "Network Genius",
+      "diziid": "dinoz",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/32/ag_dehasi"
+    },
+    {
+      "season": 4,
+      "episode": 32,
+      "title": "The Discovery",
+      "diziid": "dinoz",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/33/kesif"
+    },
+    {
+      "season": 5,
+      "episode": 33,
+      "title": "Little Boy Boo",
+      "diziid": "dinoz",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/34/ufaklik_boo"
+    },
+    {
+      "season": 6,
+      "episode": 34,
+      "title": "Germ Warfare",
+      "diziid": "dinoz",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/35/mikrop_savasi"
+    },
+    {
+      "season": 7,
+      "episode": 35,
+      "title": "Hungry for Love",
+      "diziid": "dinoz",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/36/aska_ac"
+    },
+    {
+      "season": 8,
+      "episode": 36,
+      "title": "License to Parent",
+      "diziid": "dinoz",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/37/ebeveynlik_lisansi"
+    },
+    {
+      "season": 9,
+      "episode": 37,
+      "title": "Charlene's Flat World",
+      "diziid": "dinoz",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/38/charlenein_duz_dunyasi"
+    },
+    {
+      "season": 10,
+      "episode": 38,
+      "title": "Wilderness Weekend",
+      "diziid": "dinoz",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/39/vahsi_hafta_sonu"
+    },
+    {
+      "season": 11,
+      "episode": 39,
+      "title": "The Son Also Rises",
+      "diziid": "dinoz",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/40/ogul_da_yukselir"
+    },
+    {
+      "season": 12,
+      "episode": 40,
+      "title": "Getting to Know You",
+      "diziid": "dinoz",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/41/seni_tanimaya_basliyorum"
+    },
+    {
+      "season": 13,
+      "episode": 41,
+      "title": "Green Card",
+      "diziid": "dinoz",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/42/yesil_kart"
+    },
+    {
+      "season": 14,
+      "episode": 42,
+      "title": "Out of the Frying Pan",
+      "diziid": "dinoz",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/43/kizartma_tavasindan_kacis"
+    },
+    {
+      "season": 15,
+      "episode": 43,
+      "title": "Steroids to Heaven",
+      "diziid": "dinoz",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/44/steroidler_cennete"
+    },
+    {
+      "season": 16,
+      "episode": 44,
+      "title": "Honey, I Miss the Kids",
+      "diziid": "dinoz",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/45/tatlim%2C_cocuklari_ozledim"
+    },
+    {
+      "season": 17,
+      "episode": 45,
+      "title": "Swamp Music",
+      "diziid": "dinoz",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/46/bataklik_muzigi"
+    },
+    {
+      "season": 18,
+      "episode": 46,
+      "title": "Dirty Dancin'",
+      "diziid": "dinoz",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/47/kirli_dans"
+    },
+    {
+      "season": 19,
+      "episode": 47,
+      "title": "If I Were a Tree",
+      "diziid": "dinoz",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/48/keske_agac_olsaydin"
+    },
+    {
+      "season": 20,
+      "episode": 48,
+      "title": "We Are Not Alone",
+      "diziid": "dinoz",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/49/yalniz_degiliz"
+    },
+    {
+      "season": 21,
+      "episode": 49,
+      "title": "Charlene and Her Amazing Humans",
+      "diziid": "dinoz",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/50/charlene_ve_muhtesem_insanlari"
+    },
+    {
+      "season": 22,
+      "episode": 50,
+      "title": "The Clip Show II",
+      "diziid": "dinoz",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/51/klip_gosterisi_-_bolum_ii"
+    },
+    {
+      "season": 1,
+      "episode": 51,
+      "title": "Monster Under the Bed",
+      "diziid": "dinoz",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/52/yatagin_altindaki_canavar"
+    },
+    {
+      "season": 2,
+      "episode": 52,
+      "title": "Earl, Don't Be a Hero",
+      "diziid": "dinoz",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/53/earl%2C_kahraman_olma"
+    },
+    {
+      "season": 3,
+      "episode": 53,
+      "title": "The Greatest Story Ever Sold",
+      "diziid": "dinoz",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/54/simdiye_kadar_satilan_en_buyuk_hikaye"
+    },
+    {
+      "season": 4,
+      "episode": 54,
+      "title": "Driving Miss Ethyl",
+      "diziid": "dinoz",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/55/arac_kullanan_bayan_ethyl"
+    },
+    {
+      "season": 5,
+      "episode": 55,
+      "title": "Earl's Big Jackpot",
+      "diziid": "dinoz",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/56/earlun_buyuk_ikramiyesi"
+    },
+    {
+      "season": 6,
+      "episode": 56,
+      "title": "The Terrible Twos",
+      "diziid": "dinoz",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/57/korkunc_ikili"
+    },
+    {
+      "season": 7,
+      "episode": 57,
+      "title": "Into the Woods",
+      "diziid": "dinoz",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/58/ormana_dogru"
+    },
+    {
+      "season": 8,
+      "episode": 58,
+      "title": "Scent of a Reptile",
+      "diziid": "dinoz",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/59/surungen_kokusu"
+    },
+    {
+      "season": 9,
+      "episode": 59,
+      "title": "Working Girl",
+      "diziid": "dinoz",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/60/calisan_kiz"
+    },
+    {
+      "season": 10,
+      "episode": 60,
+      "title": "Variations on a Theme Park",
+      "diziid": "dinoz",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/61/tema_parkinda_varyasyonlar"
+    },
+    {
+      "season": 11,
+      "episode": 61,
+      "title": "Life in the Faust Lane",
+      "diziid": "dinoz",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/62/faust_lanede_yasam"
+    },
+    {
+      "season": 12,
+      "episode": 62,
+      "title": "Earl and Pearl",
+      "diziid": "dinoz",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/63/earl_ve_inci"
+    },
+    {
+      "season": 13,
+      "episode": 63,
+      "title": "Georgie Must Die!",
+      "diziid": "dinoz",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/64/georgie_olmeli"
+    },
+    {
+      "season": 14,
+      "episode": 64,
+      "title": "Changing Nature",
+      "diziid": "dinoz",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/dinoz/dinozorlar/65/degisen_doga"
+    }
+  ]
+}

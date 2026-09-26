@@ -1,0 +1,428 @@
+{
+  "id": "luobb",
+  "title": "luo bao bei",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/LUOBBPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Staycation",
+      "diziid": "luobb",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/1/ev_tatili"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Timmy and Roger",
+      "diziid": "luobb",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/2/timmy_ve_roger"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Grandma's Canary",
+      "diziid": "luobb",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/3/buyukannemin_kanaryasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Grandpa's Radio",
+      "diziid": "luobb",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/4/dedemin_radyosu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Moving",
+      "diziid": "luobb",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/5/tasinmak"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Waiting for Grandpa",
+      "diziid": "luobb",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/6/dedeyi_beklemek"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Grown Up Girl",
+      "diziid": "luobb",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/7/yetiskin_kiz"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Mount Mess",
+      "diziid": "luobb",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/8/daginik_dag"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "On the Ball",
+      "diziid": "luobb",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/9/becerikli"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "LBB Finds Her Rhythm",
+      "diziid": "luobb",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/10/lbb_ritmini_buluyor"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Replaced",
+      "diziid": "luobb",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/11/yerini_almak"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Go Away Faye",
+      "diziid": "luobb",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/12/uzak_dur_faye"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Footsteps of Others",
+      "diziid": "luobb",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/13/baskalarinin_adimlari"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Faye's Special Thing",
+      "diziid": "luobb",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/14/fayein_kopegi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Faye's Diary",
+      "diziid": "luobb",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/15/fayein_gunlugu"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Sleepover",
+      "diziid": "luobb",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/16/pijama_partisi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Waddle Squad",
+      "diziid": "luobb",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/17/paytak_takimi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Lightning Bat",
+      "diziid": "luobb",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/18/simsek_yarasa"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "LBB the Brave",
+      "diziid": "luobb",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/19/cesur_lbb"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Super Scooters",
+      "diziid": "luobb",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/20/super_scooterlar"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "It's Not Rubbish",
+      "diziid": "luobb",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/21/onlar_cop_degil"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Ping",
+      "diziid": "luobb",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/22/ping"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Fish Cat 4",
+      "diziid": "luobb",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/23/balik_kedi_4"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Climb",
+      "diziid": "luobb",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/24/tirmanis"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "The Impossible Flute",
+      "diziid": "luobb",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/25/imkansiz_flut"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The Art of Kindness",
+      "diziid": "luobb",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/26/iyilik_sanati"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Mao Mao Goes Viral",
+      "diziid": "luobb",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/27/mao_mao_unlu_oluyor"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Me and Mao Mao",
+      "diziid": "luobb",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/28/ben_ve_mao_mao"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "The Lion Dance",
+      "diziid": "luobb",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/29/aslan_dansi"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Timmy and the Big Boys",
+      "diziid": "luobb",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/30/timmy_ve_buyuk_cocuklar"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Pink Dress Blues",
+      "diziid": "luobb",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/31/pembe_elbise_bunalimi"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Mother and Daughter Day",
+      "diziid": "luobb",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/32/anne-kiz_gunu"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "The Little Boss",
+      "diziid": "luobb",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/33/kucuk_patron"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Kiosk Chaos",
+      "diziid": "luobb",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/34/dukkanda_kaos"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Fair Friends",
+      "diziid": "luobb",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/35/adil_arkadaslar"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Space Rescue",
+      "diziid": "luobb",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/36/uzay_kurtarisi"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Cold Feet",
+      "diziid": "luobb",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/37/soguk_ayaklar"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "My Way",
+      "diziid": "luobb",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/38/benim_yontemim"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Uncle Ray's Kiosk",
+      "diziid": "luobb",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/39/ray_amcanin_dukkani"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "The Old Tree",
+      "diziid": "luobb",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/40/yasli_agac"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Luo Bao Bei Super Sleuth",
+      "diziid": "luobb",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/41/super_hafiye_lbb"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "The Rocket",
+      "diziid": "luobb",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/42/roket"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Supporting Role",
+      "diziid": "luobb",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/43/yardimci_oyuncu"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Fresh Thinking",
+      "diziid": "luobb",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/44/guzel_dusunce"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Best in Show",
+      "diziid": "luobb",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/45/gosterinin_en_iyisi"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Diabolo Boy",
+      "diziid": "luobb",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/46/diabolo_cocuk"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Treasure Hunt",
+      "diziid": "luobb",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/47/hazine_avi"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Thank You Uncle Ray",
+      "diziid": "luobb",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/48/tesekkurler_ray_amca"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "The Perfect Picture",
+      "diziid": "luobb",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/49/mukemmel_resim"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Stuck in the Middle",
+      "diziid": "luobb",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/50/arada_kalmak"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Luo Bao Bei Ace Reporter",
+      "diziid": "luobb",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/51/lbb_usta_haberci"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Crossing the Line",
+      "diziid": "luobb",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/luobb/luo_bao_bei/52/cizginin_otesinde"
+    }
+  ]
+}

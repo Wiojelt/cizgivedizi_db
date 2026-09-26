@@ -1,0 +1,3389 @@
+{
+  "id": "ttg",
+  "title": "teen titans go!",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/TTGPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi",
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Legendary Sandwich",
+      "diziid": "ttg",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/1/efsanevi_sandvic"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Pie Bros",
+      "diziid": "ttg",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/2/turta_kardesligi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Driver's Ed",
+      "diziid": "ttg",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/3/surucu_ed"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Dog Hand",
+      "diziid": "ttg",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/4/kopek_eli"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Double Trouble",
+      "diziid": "ttg",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/5/cifte_bela"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Date",
+      "diziid": "ttg",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/6/randevu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Dude, Relax",
+      "diziid": "ttg",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/7/rahatla_dostum"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Laundry Day",
+      "diziid": "ttg",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/8/camasir_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Ghostboy",
+      "diziid": "ttg",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/9/hayalet_cocuk"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "La Larva de Amor",
+      "diziid": "ttg",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/10/sevgili_larva"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Hey Pizza!",
+      "diziid": "ttg",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/11/hey_pizza%21"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Gorilla",
+      "diziid": "ttg",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/12/goril"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Girl's Night Out",
+      "diziid": "ttg",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/13/kizlar_gecesi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "You're Fired!",
+      "diziid": "ttg",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/14/kovuldun%21"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Super Robin",
+      "diziid": "ttg",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/15/super_robin"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Tower Power",
+      "diziid": "ttg",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/16/kule_gucu"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Parasite",
+      "diziid": "ttg",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/17/parazit"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Starliar",
+      "diziid": "ttg",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/18/palavraci"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Meatball Party",
+      "diziid": "ttg",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/19/kofte_partisi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Staff Meeting",
+      "diziid": "ttg",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/20/personel_toplantisi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Terra-ized",
+      "diziid": "ttg",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/21/terra_dehseti"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Artful Dodgers",
+      "diziid": "ttg",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/22/sanat_hirsizlari"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Burger vs. Burrito",
+      "diziid": "ttg",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/23/hamburger_burritoya_karsi"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Matched",
+      "diziid": "ttg",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/24/eslestirme"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Colors of Raven",
+      "diziid": "ttg",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/25/ravenin_renkleri"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The Left Leg",
+      "diziid": "ttg",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/26/sol_bacak"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Books",
+      "diziid": "ttg",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/27/kitaplar"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Lazy Sunday",
+      "diziid": "ttg",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/28/tembel_pazar"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Starfire the Terrible",
+      "diziid": "ttg",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/29/korkunc_starfire"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Power Moves",
+      "diziid": "ttg",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/30/guc_hareketleri"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Staring at the Future",
+      "diziid": "ttg",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/31/gelecege_bir_bakis"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "No Power",
+      "diziid": "ttg",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/32/guc_kullanmak_yok"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Sidekick",
+      "diziid": "ttg",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/33/yardimci"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Caged Tiger",
+      "diziid": "ttg",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/34/kafesteki_kaplan"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Second Christmas",
+      "diziid": "ttg",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/35/ikinci_noel"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Nose Mouth",
+      "diziid": "ttg",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/36/burun_agiz"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Legs",
+      "diziid": "ttg",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/37/bacaklar"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Breakfast Cheese",
+      "diziid": "ttg",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/38/kahvalti_peynir"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Waffles",
+      "diziid": "ttg",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/39/krep"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Be Mine",
+      "diziid": "ttg",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/40/benim_ol"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Opposites",
+      "diziid": "ttg",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/41/zitlar"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Birds",
+      "diziid": "ttg",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/42/kuslar"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Brain Food",
+      "diziid": "ttg",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/43/beyin_yemegi"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "In and Out",
+      "diziid": "ttg",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/44/gir_ve_cik"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Little Buddies",
+      "diziid": "ttg",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/45/kucuk_dostlar"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Missing",
+      "diziid": "ttg",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/46/kayip"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Uncle Jokes",
+      "diziid": "ttg",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/47/amca_sakalar"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "MÃ¡s y Menos",
+      "diziid": "ttg",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/48/daha_az"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Dreams",
+      "diziid": "ttg",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/49/ruyalar"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Grandma Voice",
+      "diziid": "ttg",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/50/buyukanne_sesi"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Real Magic",
+      "diziid": "ttg",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/51/gercek_sihir"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Puppets, Whaaaaat?",
+      "diziid": "ttg",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/52/kuklalar%2C_neeeee"
+    },
+    {
+      "season": 1,
+      "episode": 53,
+      "title": "Mr. Butt",
+      "diziid": "ttg",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/53/bay_butt"
+    },
+    {
+      "season": 2,
+      "episode": 54,
+      "title": "Man Person",
+      "diziid": "ttg",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/54/erkek_adam"
+    },
+    {
+      "season": 3,
+      "episode": 55,
+      "title": "Pirates",
+      "diziid": "ttg",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/55/korsanlar"
+    },
+    {
+      "season": 4,
+      "episode": 56,
+      "title": "Money Grandma",
+      "diziid": "ttg",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/56/para_buyukanne"
+    },
+    {
+      "season": 5,
+      "episode": 57,
+      "title": "I See You",
+      "diziid": "ttg",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/57/seni_goruyorum"
+    },
+    {
+      "season": 6,
+      "episode": 58,
+      "title": "Brian",
+      "diziid": "ttg",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/58/brain"
+    },
+    {
+      "season": 7,
+      "episode": 59,
+      "title": "Nature",
+      "diziid": "ttg",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/59/doga"
+    },
+    {
+      "season": 8,
+      "episode": 60,
+      "title": "Salty Codgers",
+      "diziid": "ttg",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/60/uslanmaz_ihtiyarlar"
+    },
+    {
+      "season": 9,
+      "episode": 61,
+      "title": "Knowledge",
+      "diziid": "ttg",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/61/bilgi"
+    },
+    {
+      "season": 10,
+      "episode": 62,
+      "title": "Slumber Party",
+      "diziid": "ttg",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/62/pijama_partisi"
+    },
+    {
+      "season": 11,
+      "episode": 63,
+      "title": "Love Monsters",
+      "diziid": "ttg",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/63/sevgi_canavarlari"
+    },
+    {
+      "season": 12,
+      "episode": 64,
+      "title": "Baby Hands",
+      "diziid": "ttg",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/64/bebek_eller"
+    },
+    {
+      "season": 13,
+      "episode": 65,
+      "title": "Caramel Apples",
+      "diziid": "ttg",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/65/karamel_elmalar"
+    },
+    {
+      "season": 14,
+      "episode": 66,
+      "title": "Sandwich Thief",
+      "diziid": "ttg",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/66/sandvic_hirsizi"
+    },
+    {
+      "season": 15,
+      "episode": 67,
+      "title": "Friendship",
+      "diziid": "ttg",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/67/arkadaslik"
+    },
+    {
+      "season": 16,
+      "episode": 68,
+      "title": "Vegetables",
+      "diziid": "ttg",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/68/sebzeler"
+    },
+    {
+      "season": 17,
+      "episode": 69,
+      "title": "The Mask",
+      "diziid": "ttg",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/69/maske"
+    },
+    {
+      "season": 18,
+      "episode": 70,
+      "title": "Serious Business",
+      "diziid": "ttg",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/70/ciddi_isler"
+    },
+    {
+      "season": 19,
+      "episode": 71,
+      "title": "Halloween",
+      "diziid": "ttg",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/71/cadilar_bayrami"
+    },
+    {
+      "season": 20,
+      "episode": 72,
+      "title": "Boys vs. Girls",
+      "diziid": "ttg",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/72/kizlar_erkeklere_karsi"
+    },
+    {
+      "season": 21,
+      "episode": 73,
+      "title": "Body Adventure",
+      "diziid": "ttg",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/73/vucut_macerasi"
+    },
+    {
+      "season": 22,
+      "episode": 74,
+      "title": "Road Trip",
+      "diziid": "ttg",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/74/yolculuk"
+    },
+    {
+      "season": 23,
+      "episode": 75,
+      "title": "Thanksgiving",
+      "diziid": "ttg",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/75/sukran_gunu"
+    },
+    {
+      "season": 24,
+      "episode": 76,
+      "title": "The Best Robin",
+      "diziid": "ttg",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/76/en_iyi_robin"
+    },
+    {
+      "season": 25,
+      "episode": 77,
+      "title": "Mouth Hole",
+      "diziid": "ttg",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/77/agiz_deligi"
+    },
+    {
+      "season": 26,
+      "episode": 78,
+      "title": "Hot Garbage",
+      "diziid": "ttg",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/78/sicak_cop"
+    },
+    {
+      "season": 27,
+      "episode": 79,
+      "title": "Robin Backwards",
+      "diziid": "ttg",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/79/robinin_tersi"
+    },
+    {
+      "season": 28,
+      "episode": 80,
+      "title": "Crazy Day",
+      "diziid": "ttg",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/80/cilginlik_gunu"
+    },
+    {
+      "season": 29,
+      "episode": 81,
+      "title": "Smile Bones",
+      "diziid": "ttg",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/81/gulec_kemikler"
+    },
+    {
+      "season": 30,
+      "episode": 82,
+      "title": "Real Boy Adventures",
+      "diziid": "ttg",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/82/gercek_cocuk_maceralari"
+    },
+    {
+      "season": 31,
+      "episode": 83,
+      "title": "Hose Water",
+      "diziid": "ttg",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/83/sicak_su"
+    },
+    {
+      "season": 32,
+      "episode": 84,
+      "title": "Let's Get Serious",
+      "diziid": "ttg",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/84/ciddi_olalim"
+    },
+    {
+      "season": 33,
+      "episode": 85,
+      "title": "Tamaranian Vacation",
+      "diziid": "ttg",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/85/tamaran_yolculugu"
+    },
+    {
+      "season": 34,
+      "episode": 86,
+      "title": "Rocks and Water",
+      "diziid": "ttg",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/86/taslar_ve_su"
+    },
+    {
+      "season": 35,
+      "episode": 87,
+      "title": "Multiple Trick Pony",
+      "diziid": "ttg",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/87/coklu_hile_middilisi"
+    },
+    {
+      "season": 36,
+      "episode": 88,
+      "title": "Truth, Justice, and What?",
+      "diziid": "ttg",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/88/gercek%2C_adalet_ve_ne"
+    },
+    {
+      "season": 37,
+      "episode": 89,
+      "title": "Two Bumble Bees and a Wasp",
+      "diziid": "ttg",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/89/iki_ari_ve_bir_yaban_arisi"
+    },
+    {
+      "season": 38,
+      "episode": 90,
+      "title": "Oil Drums",
+      "diziid": "ttg",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/90/yag_davullari"
+    },
+    {
+      "season": 39,
+      "episode": 91,
+      "title": "Video Game References",
+      "diziid": "ttg",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/91/video_oyunu_gondermeleri"
+    },
+    {
+      "season": 40,
+      "episode": 92,
+      "title": "Cool School",
+      "diziid": "ttg",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/92/havali_okul"
+    },
+    {
+      "season": 41,
+      "episode": 93,
+      "title": "Kicking a Ball and Pretending to Be Hurt",
+      "diziid": "ttg",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/93/spor_gunu"
+    },
+    {
+      "season": 42,
+      "episode": 94,
+      "title": "Head Fruit",
+      "diziid": "ttg",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/94/kafa_meyvesi"
+    },
+    {
+      "season": 43,
+      "episode": 95,
+      "title": "Yearbook Madness",
+      "diziid": "ttg",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/95/yillik_deliligi"
+    },
+    {
+      "season": 44,
+      "episode": 96,
+      "title": "Beast Man",
+      "diziid": "ttg",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/96/canavar_adam"
+    },
+    {
+      "season": 45,
+      "episode": 97,
+      "title": "Operation Tin Man",
+      "diziid": "ttg",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/97/teneke_adam_operasyonu"
+    },
+    {
+      "season": 46,
+      "episode": 98,
+      "title": "Nean",
+      "diziid": "ttg",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/98/gercekci"
+    },
+    {
+      "season": 47,
+      "episode": 99,
+      "title": "Campfire Stories",
+      "diziid": "ttg",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/99/kamp_hikayeleri"
+    },
+    {
+      "season": 48,
+      "episode": 100,
+      "title": "And the Award for Sound Design Goes to Rob",
+      "diziid": "ttg",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/100/ve_ses_tasarimi_odulu_roba_gidiyor"
+    },
+    {
+      "season": 49,
+      "episode": 101,
+      "title": "The HIVE Five",
+      "diziid": "ttg",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/101/cak_bir_arilik"
+    },
+    {
+      "season": 50,
+      "episode": 102,
+      "title": "The Return of Slade",
+      "diziid": "ttg",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/102/vadinin_donusu"
+    },
+    {
+      "season": 51,
+      "episode": 103,
+      "title": "More of the Same",
+      "diziid": "ttg",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/103/aynisinin_fazlasi"
+    },
+    {
+      "season": 52,
+      "episode": 104,
+      "title": "Some of Their Parts",
+      "diziid": "ttg",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/104/ayni_parcalar"
+    },
+    {
+      "season": 1,
+      "episode": 105,
+      "title": "Cat's Fancy",
+      "diziid": "ttg",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/105/bir_kedinin_ruyasi"
+    },
+    {
+      "season": 2,
+      "episode": 106,
+      "title": "Leg Day",
+      "diziid": "ttg",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/106/bacak_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 107,
+      "title": "Dignity of Teeth",
+      "diziid": "ttg",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/107/dislerin_itibari"
+    },
+    {
+      "season": 4,
+      "episode": 108,
+      "title": "Croissant",
+      "diziid": "ttg",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/108/kruvasan"
+    },
+    {
+      "season": 5,
+      "episode": 109,
+      "title": "Spice Game",
+      "diziid": "ttg",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/109/baharat_oyunu"
+    },
+    {
+      "season": 6,
+      "episode": 110,
+      "title": "I'm the Sauce",
+      "diziid": "ttg",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/110/ben_sosum"
+    },
+    {
+      "season": 7,
+      "episode": 111,
+      "title": "Hey You, Don't Forget About Me in Your Memory",
+      "diziid": "ttg",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/111/hey%2C_anilarinda_beni_unutma"
+    },
+    {
+      "season": 8,
+      "episode": 112,
+      "title": "Accept the Next Proposition You Hear",
+      "diziid": "ttg",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/112/duydugunuz_edati_teklifi_kabul_et"
+    },
+    {
+      "season": 9,
+      "episode": 113,
+      "title": "The Fourth Wall",
+      "diziid": "ttg",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/113/dorduncu_duvar"
+    },
+    {
+      "season": 10,
+      "episode": 114,
+      "title": "40%, 40%, 20%",
+      "diziid": "ttg",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/114/%2540%2C_%2540%2C_%2520"
+    },
+    {
+      "season": 11,
+      "episode": 115,
+      "title": "Grube's Fairytales",
+      "diziid": "ttg",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/115/grubenin_masallari"
+    },
+    {
+      "season": 12,
+      "episode": 116,
+      "title": "A Farce",
+      "diziid": "ttg",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/116/gulduru"
+    },
+    {
+      "season": 13,
+      "episode": 117,
+      "title": "Scary Figure Dance",
+      "diziid": "ttg",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/117/korkutucu_figur_dansi"
+    },
+    {
+      "season": 14,
+      "episode": 118,
+      "title": "Animals, It's Just a Word!",
+      "diziid": "ttg",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/118/hayvanlar%3A_sadece_bir_kelime%21"
+    },
+    {
+      "season": 15,
+      "episode": 119,
+      "title": "BBBDAY!",
+      "diziid": "ttg",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/119/bbb_gunu%21"
+    },
+    {
+      "season": 16,
+      "episode": 120,
+      "title": "Black Friday",
+      "diziid": "ttg",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/120/black_friday"
+    },
+    {
+      "season": 17,
+      "episode": 121,
+      "title": "Two Parter: Part One",
+      "diziid": "ttg",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/121/2_bolumlu_bolum_1"
+    },
+    {
+      "season": 18,
+      "episode": 122,
+      "title": "Two Parter: Part Two",
+      "diziid": "ttg",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/122/2_bolumlu_bolum_2"
+    },
+    {
+      "season": 19,
+      "episode": 123,
+      "title": "The True Meaning of Christmas",
+      "diziid": "ttg",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/123/noelin_gercek_anlami"
+    },
+    {
+      "season": 20,
+      "episode": 124,
+      "title": "Squash & Stretch",
+      "diziid": "ttg",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/124/ezmek_ve_uzatmak"
+    },
+    {
+      "season": 21,
+      "episode": 125,
+      "title": "Garage Sale",
+      "diziid": "ttg",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/125/garaj_satisi"
+    },
+    {
+      "season": 22,
+      "episode": 126,
+      "title": "Secret Garden",
+      "diziid": "ttg",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/126/gizli_bahce"
+    },
+    {
+      "season": 23,
+      "episode": 127,
+      "title": "The Cruel Giggling Ghoul",
+      "diziid": "ttg",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/127/zalimce_kikirdayan_gulyabani"
+    },
+    {
+      "season": 24,
+      "episode": 128,
+      "title": "How 'Bout Some Effort",
+      "diziid": "ttg",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/128/biraz_gayret_goster"
+    },
+    {
+      "season": 25,
+      "episode": 129,
+      "title": "Pyramid Scheme",
+      "diziid": "ttg",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/129/saadet_zinciri"
+    },
+    {
+      "season": 26,
+      "episode": 130,
+      "title": "Beast Boy's St. Patrick's Day Luck, and It's Bad",
+      "diziid": "ttg",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/130/beast_boyun_aziz_patrick_gunu_sansi_ve_kotu"
+    },
+    {
+      "season": 27,
+      "episode": 131,
+      "title": "The Teen Titans Go! Easter Holiday Classic",
+      "diziid": "ttg",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/131/paskalya_tatili_klasigi"
+    },
+    {
+      "season": 28,
+      "episode": 132,
+      "title": "Batman v Teen Titans: Dark Injustice",
+      "diziid": "ttg",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/132/batmana_karsi_teen_titans%3A_karanlik_adaletsizlik"
+    },
+    {
+      "season": 29,
+      "episode": 133,
+      "title": "Bottle Episode",
+      "diziid": "ttg",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/133/sise_bolumu"
+    },
+    {
+      "season": 30,
+      "episode": 134,
+      "title": "Finally a Lesson",
+      "diziid": "ttg",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/134/son_olarak_bir_ders"
+    },
+    {
+      "season": 31,
+      "episode": 135,
+      "title": "Arms Race with Legs",
+      "diziid": "ttg",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/135/bacaklarla_silah_yarisi"
+    },
+    {
+      "season": 32,
+      "episode": 136,
+      "title": "Obinray",
+      "diziid": "ttg",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/136/rogobin"
+    },
+    {
+      "season": 33,
+      "episode": 137,
+      "title": "Wally T",
+      "diziid": "ttg",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/137/wally_t"
+    },
+    {
+      "season": 34,
+      "episode": 138,
+      "title": "Rad Dudes with Bad Tudes",
+      "diziid": "ttg",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/138/kotu_tavirli_kiyak_adam"
+    },
+    {
+      "season": 35,
+      "episode": 139,
+      "title": "Operation Dude Rescue - Part 1",
+      "diziid": "ttg",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/139/adam_kurtarma_operasyonu_1.bolum"
+    },
+    {
+      "season": 36,
+      "episode": 140,
+      "title": "Operation Dude Rescue - Part 2",
+      "diziid": "ttg",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/140/erkek_kurtarma_operasyonu_2.bolum"
+    },
+    {
+      "season": 37,
+      "episode": 141,
+      "title": "History Lesson",
+      "diziid": "ttg",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/141/tarih_dersi"
+    },
+    {
+      "season": 38,
+      "episode": 142,
+      "title": "The Art of Ninjutsu",
+      "diziid": "ttg",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/142/ninja_sanati"
+    },
+    {
+      "season": 39,
+      "episode": 143,
+      "title": "Think About Your Future",
+      "diziid": "ttg",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/143/gelecegi_dusun"
+    },
+    {
+      "season": 40,
+      "episode": 144,
+      "title": "TTG v PPG",
+      "diziid": "ttg",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/144/titanlar_powerpuffa_karsi"
+    },
+    {
+      "season": 41,
+      "episode": 145,
+      "title": "Coconut Cream Pie",
+      "diziid": "ttg",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/145/hindistan_cevizli_kremali_turta"
+    },
+    {
+      "season": 42,
+      "episode": 146,
+      "title": "Pure Protein",
+      "diziid": "ttg",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/146/saf_protein"
+    },
+    {
+      "season": 43,
+      "episode": 147,
+      "title": "Open Door Policy",
+      "diziid": "ttg",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/147/acik_kapi_politikasi"
+    },
+    {
+      "season": 44,
+      "episode": 148,
+      "title": "Crazy Desire Island",
+      "diziid": "ttg",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/148/cilgin_istek_adasi"
+    },
+    {
+      "season": 45,
+      "episode": 149,
+      "title": "The Titans Show",
+      "diziid": "ttg",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/149/titanlar_gosterisi"
+    },
+    {
+      "season": 46,
+      "episode": 150,
+      "title": "Booty Scooty",
+      "diziid": "ttg",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/150/salla_salla"
+    },
+    {
+      "season": 47,
+      "episode": 151,
+      "title": "Who's Laughing Now",
+      "diziid": "ttg",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/151/simdi_kim_guluyor"
+    },
+    {
+      "season": 48,
+      "episode": 152,
+      "title": "Oregon Trail",
+      "diziid": "ttg",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/152/oregon_yolu"
+    },
+    {
+      "season": 49,
+      "episode": 153,
+      "title": "Snuggle Time",
+      "diziid": "ttg",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/153/kivrilma_zamani"
+    },
+    {
+      "season": 50,
+      "episode": 154,
+      "title": "Oh Yeah!",
+      "diziid": "ttg",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/154/oh_evet%21"
+    },
+    {
+      "season": 51,
+      "episode": 155,
+      "title": "Riding the Dragon",
+      "diziid": "ttg",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/155/ejderha_surmek"
+    },
+    {
+      "season": 52,
+      "episode": 156,
+      "title": "The Overbite",
+      "diziid": "ttg",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/156/dudak_isirma"
+    },
+    {
+      "season": 53,
+      "episode": 157,
+      "title": "The Cape",
+      "diziid": "ttg",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/157/pelerin"
+    },
+    {
+      "season": 1,
+      "episode": 158,
+      "title": "Shrimps and Prime Rib",
+      "diziid": "ttg",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/158/karides_ve_pirzola"
+    },
+    {
+      "season": 2,
+      "episode": 159,
+      "title": "Halloween v Christmas",
+      "diziid": "ttg",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/159/cadilar_bayrami_noele_karsi"
+    },
+    {
+      "season": 3,
+      "episode": 160,
+      "title": "Booby Trap House",
+      "diziid": "ttg",
+      "bolum": "160",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/160/tuzakli_ev"
+    },
+    {
+      "season": 4,
+      "episode": 161,
+      "title": "Fish Water",
+      "diziid": "ttg",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/161/balik_suyu"
+    },
+    {
+      "season": 5,
+      "episode": 162,
+      "title": "TV Knight",
+      "diziid": "ttg",
+      "bolum": "162",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/162/televizyon_sovalyesi"
+    },
+    {
+      "season": 6,
+      "episode": 163,
+      "title": "Teen Titans Save Christmas",
+      "diziid": "ttg",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/163/teen_titans_noeli_kurtariyor"
+    },
+    {
+      "season": 7,
+      "episode": 164,
+      "title": "BBSFBDAY!",
+      "diziid": "ttg",
+      "bolum": "164",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/164/acayip_dogum_gunu%21"
+    },
+    {
+      "season": 8,
+      "episode": 165,
+      "title": "The Streak (1)",
+      "diziid": "ttg",
+      "bolum": "165",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/165/galibiyet_serisi_bolum_1"
+    },
+    {
+      "season": 9,
+      "episode": 166,
+      "title": "The Streak - Part 2",
+      "diziid": "ttg",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/166/galibiyet_serisi_2.bolum"
+    },
+    {
+      "season": 10,
+      "episode": 167,
+      "title": "The Inner Beauty of a Cactus",
+      "diziid": "ttg",
+      "bolum": "167",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/167/bir_kaktusun_ic_guzelligi"
+    },
+    {
+      "season": 11,
+      "episode": 168,
+      "title": "Movie Night",
+      "diziid": "ttg",
+      "bolum": "168",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/168/sinema_gecesi"
+    },
+    {
+      "season": 12,
+      "episode": 169,
+      "title": "BBRAE - Part 1",
+      "diziid": "ttg",
+      "bolum": "169",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/169/beast_boy_ve_raven_bolum_1"
+    },
+    {
+      "season": 13,
+      "episode": 170,
+      "title": "BBRAE - Part 2",
+      "diziid": "ttg",
+      "bolum": "170",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/170/beast_boy_ve_raven_bolum_2"
+    },
+    {
+      "season": 14,
+      "episode": 171,
+      "title": "Permanent Record",
+      "diziid": "ttg",
+      "bolum": "171",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/171/sicil"
+    },
+    {
+      "season": 15,
+      "episode": 172,
+      "title": "Titan Saving Time",
+      "diziid": "ttg",
+      "bolum": "172",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/172/titan_saati_uygulamasi"
+    },
+    {
+      "season": 16,
+      "episode": 173,
+      "title": "The Gold Standard",
+      "diziid": "ttg",
+      "bolum": "173",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/173/altin_standardi"
+    },
+    {
+      "season": 17,
+      "episode": 174,
+      "title": "Master Detective",
+      "diziid": "ttg",
+      "bolum": "174",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/174/uzman_dedektif"
+    },
+    {
+      "season": 18,
+      "episode": 175,
+      "title": "Easter Creeps",
+      "diziid": "ttg",
+      "bolum": "175",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/175/paskalya_ucubeleri"
+    },
+    {
+      "season": 19,
+      "episode": 176,
+      "title": "Hand Zombie",
+      "diziid": "ttg",
+      "bolum": "176",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/176/zombi_el"
+    },
+    {
+      "season": 20,
+      "episode": 177,
+      "title": "Employee of the Month: Redux",
+      "diziid": "ttg",
+      "bolum": "177",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/177/ayin_elemani%3A_yeniden"
+    },
+    {
+      "season": 21,
+      "episode": 178,
+      "title": "The Avogodo",
+      "diziid": "ttg",
+      "bolum": "178",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/178/tanvokado"
+    },
+    {
+      "season": 22,
+      "episode": 179,
+      "title": "Orangins",
+      "diziid": "ttg",
+      "bolum": "179",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/179/baslangic"
+    },
+    {
+      "season": 23,
+      "episode": 180,
+      "title": "Jinxed",
+      "diziid": "ttg",
+      "bolum": "180",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/180/kilit"
+    },
+    {
+      "season": 24,
+      "episode": 181,
+      "title": "Brain Percentages",
+      "diziid": "ttg",
+      "bolum": "181",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/181/beyin_yuzdeleri"
+    },
+    {
+      "season": 25,
+      "episode": 182,
+      "title": "BL4Z3",
+      "diziid": "ttg",
+      "bolum": "182",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/182/ates"
+    },
+    {
+      "season": 26,
+      "episode": 183,
+      "title": "Hot Salad Water",
+      "diziid": "ttg",
+      "bolum": "183",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/183/sicak_salata_suyu"
+    },
+    {
+      "season": 27,
+      "episode": 184,
+      "title": "The Day the Night Stopped Beginning to Shine and Became Dark Even Though It Was the Day - Chapter One: I Saw You Dance",
+      "diziid": "ttg",
+      "bolum": "184",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/184/gunduz_olmasina_karsin_gecenin_parlamayi_birakip_havanin_karardigi_gun_bolum_1%3A_seni_dans_ederken_gordum"
+    },
+    {
+      "season": 28,
+      "episode": 185,
+      "title": "The Day the Night Stopped Beginning to Shine and Became Dark Even Though It Was the Day - Chapter Two: The Story in Your Eyes",
+      "diziid": "ttg",
+      "bolum": "185",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/185/2.bolum%3A_gozlerindeki_hikaye"
+    },
+    {
+      "season": 29,
+      "episode": 186,
+      "title": "The Day the Night Stopped Beginning to Shine and Became Dark Even Though It Was the Day - Chapter Three: Playing Hard to Get",
+      "diziid": "ttg",
+      "bolum": "186",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/186/bolum_3%3A_zoru_oynuyorsun"
+    },
+    {
+      "season": 30,
+      "episode": 187,
+      "title": "The Day the Night Stopped Beginning to Shine and Became Dark Even Though It Was the Day - Chapter Four: The Night Begins to Shine",
+      "diziid": "ttg",
+      "bolum": "187",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/187/4.bolum%3A_gece_parliyor"
+    },
+    {
+      "season": 31,
+      "episode": 188,
+      "title": "Lication",
+      "diziid": "ttg",
+      "bolum": "188",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/188/likasyon"
+    },
+    {
+      "season": 32,
+      "episode": 189,
+      "title": "Labor Day",
+      "diziid": "ttg",
+      "bolum": "189",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/189/isci_bayrami"
+    },
+    {
+      "season": 33,
+      "episode": 190,
+      "title": "Classic Titans",
+      "diziid": "ttg",
+      "bolum": "190",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/190/klasik_titanlar"
+    },
+    {
+      "season": 34,
+      "episode": 191,
+      "title": "Ones and Zeroes",
+      "diziid": "ttg",
+      "bolum": "191",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/191/birler_ve_sifirlar"
+    },
+    {
+      "season": 35,
+      "episode": 192,
+      "title": "Career Day",
+      "diziid": "ttg",
+      "bolum": "192",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/192/kariyer_gunu"
+    },
+    {
+      "season": 36,
+      "episode": 193,
+      "title": "TV Knight 2",
+      "diziid": "ttg",
+      "bolum": "193",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/193/tv_gecesi_2"
+    },
+    {
+      "season": 37,
+      "episode": 194,
+      "title": "Justice League's Next Top Talent Idol Star (1)",
+      "diziid": "ttg",
+      "bolum": "194",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/194/adalet_birligi_yildizini_ariyor_1.bolum"
+    },
+    {
+      "season": 38,
+      "episode": 195,
+      "title": "Justice League's Next Top Talent Idol Star (2)",
+      "diziid": "ttg",
+      "bolum": "195",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/195/adalet_birligi_yildizini_ariyor_2.bolum"
+    },
+    {
+      "season": 39,
+      "episode": 196,
+      "title": "The Academy",
+      "diziid": "ttg",
+      "bolum": "196",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/196/akademi"
+    },
+    {
+      "season": 40,
+      "episode": 197,
+      "title": "Costume Contest",
+      "diziid": "ttg",
+      "bolum": "197",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/197/kostum_yarismasi"
+    },
+    {
+      "season": 41,
+      "episode": 198,
+      "title": "Throne of Bones",
+      "diziid": "ttg",
+      "bolum": "198",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/198/kemikten_taht"
+    },
+    {
+      "season": 42,
+      "episode": 199,
+      "title": "Demon Prom",
+      "diziid": "ttg",
+      "bolum": "199",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/199/kotuler_balosu"
+    },
+    {
+      "season": 43,
+      "episode": 200,
+      "title": "Thanksgetting",
+      "diziid": "ttg",
+      "bolum": "200",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/200/nankorluk_gunu"
+    },
+    {
+      "season": 44,
+      "episode": 201,
+      "title": "The Self-Indulgent 200th Episode Spectacular! (1)",
+      "diziid": "ttg",
+      "bolum": "201",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/201/rahatina_duskun_200.bolum_muhtesem%21_1.kisim"
+    },
+    {
+      "season": 45,
+      "episode": 202,
+      "title": "The Self-Indulgent 200th Episode Spectacular! (2)",
+      "diziid": "ttg",
+      "bolum": "202",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/202/rahatina_duskun_200.bolum_muhtesem%21_2.kisim"
+    },
+    {
+      "season": 46,
+      "episode": 203,
+      "title": "BBCYFSHIPBDAY",
+      "diziid": "ttg",
+      "bolum": "203",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/203/dogum_gunu"
+    },
+    {
+      "season": 47,
+      "episode": 204,
+      "title": "Beast Girl",
+      "diziid": "ttg",
+      "bolum": "204",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/204/beast_girl"
+    },
+    {
+      "season": 48,
+      "episode": 205,
+      "title": "Flashback - Part 1",
+      "diziid": "ttg",
+      "bolum": "205",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/205/hatiralar_bolum_1"
+    },
+    {
+      "season": 49,
+      "episode": 206,
+      "title": "Flashback - Part 2",
+      "diziid": "ttg",
+      "bolum": "206",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/206/hatiralar_bolum_2"
+    },
+    {
+      "season": 50,
+      "episode": 207,
+      "title": "Bro-Pocalypse",
+      "diziid": "ttg",
+      "bolum": "207",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/207/dost-kankaligin_sonu"
+    },
+    {
+      "season": 51,
+      "episode": 208,
+      "title": "Mo' Money Mo' Problems",
+      "diziid": "ttg",
+      "bolum": "208",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/208/ne_kadar_para_o_kadar_sorun"
+    },
+    {
+      "season": 52,
+      "episode": 209,
+      "title": "TV Knight 3",
+      "diziid": "ttg",
+      "bolum": "209",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/209/televizyon_sovalyesi_3"
+    },
+    {
+      "season": 1,
+      "episode": 210,
+      "title": "The Scoop!",
+      "diziid": "ttg",
+      "bolum": "210",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/210/kepce%21"
+    },
+    {
+      "season": 2,
+      "episode": 211,
+      "title": "Chicken in the Cradle",
+      "diziid": "ttg",
+      "bolum": "211",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/211/besikteki_civciv"
+    },
+    {
+      "season": 3,
+      "episode": 212,
+      "title": "Kabooms - Part 1",
+      "diziid": "ttg",
+      "bolum": "212",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/212/patlama_bolum_1"
+    },
+    {
+      "season": 4,
+      "episode": 213,
+      "title": "Kabooms - Part 2",
+      "diziid": "ttg",
+      "bolum": "213",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/213/patlamalar_bolum_2"
+    },
+    {
+      "season": 5,
+      "episode": 214,
+      "title": "Tower Renovation",
+      "diziid": "ttg",
+      "bolum": "214",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/214/kule_yenilemesi"
+    },
+    {
+      "season": 6,
+      "episode": 215,
+      "title": "My Name is Jose",
+      "diziid": "ttg",
+      "bolum": "215",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/215/benim_adim_rosa"
+    },
+    {
+      "season": 7,
+      "episode": 216,
+      "title": "The Power of Shrimps",
+      "diziid": "ttg",
+      "bolum": "216",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/216/karideslerin_gucu"
+    },
+    {
+      "season": 8,
+      "episode": 217,
+      "title": "Monster Squad!",
+      "diziid": "ttg",
+      "bolum": "217",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/217/canavar_takimi"
+    },
+    {
+      "season": 9,
+      "episode": 218,
+      "title": "The Real Orangins",
+      "diziid": "ttg",
+      "bolum": "218",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/218/gercek_baslangic"
+    },
+    {
+      "season": 10,
+      "episode": 219,
+      "title": "Quantum Fun",
+      "diziid": "ttg",
+      "bolum": "219",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/219/kuantum_eglencesi"
+    },
+    {
+      "season": 11,
+      "episode": 220,
+      "title": "The Fight",
+      "diziid": "ttg",
+      "bolum": "220",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/220/dovus"
+    },
+    {
+      "season": 12,
+      "episode": 221,
+      "title": "The Groover",
+      "diziid": "ttg",
+      "bolum": "221",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/221/tuvalet"
+    },
+    {
+      "season": 13,
+      "episode": 222,
+      "title": "Justice League's Next Top Talent Idol Star: Second Greatest Team Edition - Part 1",
+      "diziid": "ttg",
+      "bolum": "222",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/222/adalet_ligi_yetenek_ve_yildiz_yarismasi%3A_ikinci_en_buyuk_takim_1.bolum"
+    },
+    {
+      "season": 14,
+      "episode": 223,
+      "title": "Justice League's Next Top Talent Idol Star: Second Greatest Team Edition - Part 2",
+      "diziid": "ttg",
+      "bolum": "223",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/223/adalet_ligi_yetenek_ve_yildiz_yarismasi%3A_ikinci_en_buyuk_takim_bolum_2"
+    },
+    {
+      "season": 15,
+      "episode": 224,
+      "title": "How's This for a Special? Spaaaace (1)",
+      "diziid": "ttg",
+      "bolum": "224",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/224/bu_uzayin_nesi_ilginc_1.bolum"
+    },
+    {
+      "season": 16,
+      "episode": 225,
+      "title": "How's This For a Special? Spaaaace - Part 2",
+      "diziid": "ttg",
+      "bolum": "225",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/225/bu_nasil_ozel_bir_sey_uzaaaay_2.bolum"
+    },
+    {
+      "season": 17,
+      "episode": 226,
+      "title": "BBRBDAY",
+      "diziid": "ttg",
+      "bolum": "226",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/226/dogum_gunu"
+    },
+    {
+      "season": 18,
+      "episode": 227,
+      "title": "Slapping Butts and Celebrating for No Reason",
+      "diziid": "ttg",
+      "bolum": "227",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/227/birlikte_sallanmak_ve_sebepsiz_kutlama_yapmak"
+    },
+    {
+      "season": 19,
+      "episode": 228,
+      "title": "Nostalgia is Not A Substitute For An Actual Story",
+      "diziid": "ttg",
+      "bolum": "228",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/228/nostalji_gercek_bir_hikayenin_yerine_gecmez"
+    },
+    {
+      "season": 20,
+      "episode": 229,
+      "title": "Business Ethics Wink Wink",
+      "diziid": "ttg",
+      "bolum": "229",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/229/is_ahlaki_goz_kirpiyor"
+    },
+    {
+      "season": 21,
+      "episode": 230,
+      "title": "Genie President",
+      "diziid": "ttg",
+      "bolum": "230",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/230/cin_baskan"
+    },
+    {
+      "season": 22,
+      "episode": 231,
+      "title": "Tall Titan Tales",
+      "diziid": "ttg",
+      "bolum": "231",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/231/uydurma_titan_masallari"
+    },
+    {
+      "season": 23,
+      "episode": 232,
+      "title": "I Used to Be a Peoples",
+      "diziid": "ttg",
+      "bolum": "232",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/232/ben_bir_insandim"
+    },
+    {
+      "season": 24,
+      "episode": 233,
+      "title": "The Metric System vs. Freedom",
+      "diziid": "ttg",
+      "bolum": "233",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/233/metrik_sistem_ozgurluge_karsi"
+    },
+    {
+      "season": 25,
+      "episode": 234,
+      "title": "The Chaff",
+      "diziid": "ttg",
+      "bolum": "234",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/234/saman"
+    },
+    {
+      "season": 26,
+      "episode": 235,
+      "title": "Them Soviet Boys",
+      "diziid": "ttg",
+      "bolum": "235",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/235/sovyet_cocuklar"
+    },
+    {
+      "season": 27,
+      "episode": 236,
+      "title": "Little Elvis",
+      "diziid": "ttg",
+      "bolum": "236",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/236/kucuk_elvis"
+    },
+    {
+      "season": 28,
+      "episode": 237,
+      "title": "Booty Eggs",
+      "diziid": "ttg",
+      "bolum": "237",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/237/ganimet_yumurtalar"
+    },
+    {
+      "season": 29,
+      "episode": 238,
+      "title": "TV Knight 4",
+      "diziid": "ttg",
+      "bolum": "238",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/238/televizyon_sovalyesi_4"
+    },
+    {
+      "season": 30,
+      "episode": 239,
+      "title": "Lil' Dimples",
+      "diziid": "ttg",
+      "bolum": "239",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/239/little_dimples"
+    },
+    {
+      "season": 31,
+      "episode": 240,
+      "title": "Don't Be An Icarus",
+      "diziid": "ttg",
+      "bolum": "240",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/240/icarusluk_yapma"
+    },
+    {
+      "season": 32,
+      "episode": 241,
+      "title": "Stockton, CA!",
+      "diziid": "ttg",
+      "bolum": "241",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/241/stockton%2C_kaliforniya%21"
+    },
+    {
+      "season": 33,
+      "episode": 242,
+      "title": "What's Opera, Titans?",
+      "diziid": "ttg",
+      "bolum": "242",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/242/opera_nedir%2C_titanlar"
+    },
+    {
+      "season": 34,
+      "episode": 243,
+      "title": "Forest Pirates",
+      "diziid": "ttg",
+      "bolum": "243",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/243/orman_korsanlari"
+    },
+    {
+      "season": 35,
+      "episode": 244,
+      "title": "The Bergerac",
+      "diziid": "ttg",
+      "bolum": "244",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/244/bergerac"
+    },
+    {
+      "season": 36,
+      "episode": 245,
+      "title": "Super Summer Hero Camp (3): Snot and Tears",
+      "diziid": "ttg",
+      "bolum": "245",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/245/salgi_ve_gozyaslari"
+    },
+    {
+      "season": 37,
+      "episode": 246,
+      "title": "Campfire!",
+      "diziid": "ttg",
+      "bolum": "246",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/246/kamp_atesi%21"
+    },
+    {
+      "season": 38,
+      "episode": 247,
+      "title": "What We Learned at Camp",
+      "diziid": "ttg",
+      "bolum": "247",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/247/kampta_neler_ogrendik"
+    },
+    {
+      "season": 39,
+      "episode": 248,
+      "title": "Communicate Openly",
+      "diziid": "ttg",
+      "bolum": "248",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/248/acik_iletisim_kur"
+    },
+    {
+      "season": 40,
+      "episode": 249,
+      "title": "Royal Jelly",
+      "diziid": "ttg",
+      "bolum": "249",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/249/ari_sutu"
+    },
+    {
+      "season": 41,
+      "episode": 250,
+      "title": "Strength of a Grown Man",
+      "diziid": "ttg",
+      "bolum": "250",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/250/yetiskin_bir_adamin_gucu"
+    },
+    {
+      "season": 42,
+      "episode": 251,
+      "title": "Had to Be There",
+      "diziid": "ttg",
+      "bolum": "251",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/251/orada_olmaliydin"
+    },
+    {
+      "season": 43,
+      "episode": 252,
+      "title": "Girls Night In - Part 1",
+      "diziid": "ttg",
+      "bolum": "252",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/252/evde_kizlar_gecesi"
+    },
+    {
+      "season": 44,
+      "episode": 253,
+      "title": "Girls Night In - Part 2",
+      "diziid": "ttg",
+      "bolum": "253",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/253/evde_kizlar_gecesi_bolum_2"
+    },
+    {
+      "season": 45,
+      "episode": 254,
+      "title": "The Great Disaster",
+      "diziid": "ttg",
+      "bolum": "254",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/254/buyuk_felaket"
+    },
+    {
+      "season": 46,
+      "episode": 255,
+      "title": "The Viewers Decide",
+      "diziid": "ttg",
+      "bolum": "255",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/255/seyircinin_secimi"
+    },
+    {
+      "season": 47,
+      "episode": 256,
+      "title": "Cartoon Feud",
+      "diziid": "ttg",
+      "bolum": "256",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/256/aile_kavgasi"
+    },
+    {
+      "season": 48,
+      "episode": 257,
+      "title": "Curse of the Booty Scooty",
+      "diziid": "ttg",
+      "bolum": "257",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/257/durmadan_dans_edelim"
+    },
+    {
+      "season": 49,
+      "episode": 258,
+      "title": "Collect Them All!",
+      "diziid": "ttg",
+      "bolum": "258",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/258/hepsini_topla%21"
+    },
+    {
+      "season": 50,
+      "episode": 259,
+      "title": "Teen Titans Vroom (1)",
+      "diziid": "ttg",
+      "bolum": "259",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/259/genc_titanlar_vin_vin_bolum_1"
+    },
+    {
+      "season": 51,
+      "episode": 260,
+      "title": "Teen Titans Vroom (2)",
+      "diziid": "ttg",
+      "bolum": "260",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/260/genc_titanlar_vin_vin_bolum_2"
+    },
+    {
+      "season": 52,
+      "episode": 261,
+      "title": "Teen Titans Roar!",
+      "diziid": "ttg",
+      "bolum": "261",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/261/genc_titanlar_kukre"
+    },
+    {
+      "season": 2,
+      "episode": 262,
+      "title": "TV Knight 5",
+      "diziid": "ttg",
+      "bolum": "263",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/263/televizyon_sovalyesi_5"
+    },
+    {
+      "season": 3,
+      "episode": 263,
+      "title": "Halloween",
+      "diziid": "ttg",
+      "bolum": "264",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/264/cadilar_bayrami"
+    },
+    {
+      "season": 4,
+      "episode": 264,
+      "title": "That's What's Up!",
+      "diziid": "ttg",
+      "bolum": "265",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/265/bu_harika%21"
+    },
+    {
+      "season": 5,
+      "episode": 265,
+      "title": "Crab Shenanigans",
+      "diziid": "ttg",
+      "bolum": "266",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/266/yengeclerin_yaramazliklari"
+    },
+    {
+      "season": 6,
+      "episode": 266,
+      "title": "Brobots",
+      "diziid": "ttg",
+      "bolum": "267",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/267/dost_robotlar"
+    },
+    {
+      "season": 7,
+      "episode": 267,
+      "title": "Brain Flip",
+      "diziid": "ttg",
+      "bolum": "268",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/268/beyni_ters_duz_etmek"
+    },
+    {
+      "season": 8,
+      "episode": 268,
+      "title": "Beast Boy on a Shelf",
+      "diziid": "ttg",
+      "bolum": "269",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/269/beast_boy_gizli_gorevde"
+    },
+    {
+      "season": 9,
+      "episode": 269,
+      "title": "Christmas Crusaders",
+      "diziid": "ttg",
+      "bolum": "270",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/270/milyarder_kris_ve_yardimcisi_grayson"
+    },
+    {
+      "season": 10,
+      "episode": 270,
+      "title": "We're Off to Get Awards",
+      "diziid": "ttg",
+      "bolum": "271",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/271/odul_almaya_gidiyoruz"
+    },
+    {
+      "season": 11,
+      "episode": 271,
+      "title": "Bat Scouts",
+      "diziid": "ttg",
+      "bolum": "272",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/272/yarasa_izciler"
+    },
+    {
+      "season": 12,
+      "episode": 272,
+      "title": "Walk Away",
+      "diziid": "ttg",
+      "bolum": "273",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/273/yuruyup_gitmek"
+    },
+    {
+      "season": 13,
+      "episode": 273,
+      "title": "Record Book",
+      "diziid": "ttg",
+      "bolum": "274",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/274/rekorlar_kitabi"
+    },
+    {
+      "season": 14,
+      "episode": 274,
+      "title": "Magic Man",
+      "diziid": "ttg",
+      "bolum": "275",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/275/sihir_adam"
+    },
+    {
+      "season": 16,
+      "episode": 275,
+      "title": "Rain on Your Wedding Day",
+      "diziid": "ttg",
+      "bolum": "277",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/277/ironi_dersi"
+    },
+    {
+      "season": 17,
+      "episode": 276,
+      "title": "Egg Hunt",
+      "diziid": "ttg",
+      "bolum": "278",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/278/yumurta_avi"
+    },
+    {
+      "season": 18,
+      "episode": 277,
+      "title": "Justice League's Next Top Talent Idol Star: Justice League Edition (1)",
+      "diziid": "ttg",
+      "bolum": "279",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/279/adalet_birligi_yildizini_ariyor_adalet_birligi_ozel_1.bolum"
+    },
+    {
+      "season": 19,
+      "episode": 278,
+      "title": "Justice League's Next Top Talent Idol Star: Justice League Edition (2)",
+      "diziid": "ttg",
+      "bolum": "280",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/280/adalet_birligi_yildizini_ariyor_adalet_birligi_ozel_2.bolum"
+    },
+    {
+      "season": 20,
+      "episode": 279,
+      "title": "The Night Begins To Shine Two: Chapter One: Mission to Find the Lost Stems",
+      "diziid": "ttg",
+      "bolum": "281",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/281/gece_parliyor_bolum_1%3A_kayip_kokleri_bulma_gorevi"
+    },
+    {
+      "season": 21,
+      "episode": 280,
+      "title": "The Night Begins To Shine Two: Chapter Two: Drums",
+      "diziid": "ttg",
+      "bolum": "282",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/282/gece_parliyor_bolum_2%3A_bateri"
+    },
+    {
+      "season": 22,
+      "episode": 281,
+      "title": "The Night Begins To Shine Two: Chapter Three: Guitar",
+      "diziid": "ttg",
+      "bolum": "283",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/283/gece_parliyor_bolum_3%3A_gitar"
+    },
+    {
+      "season": 23,
+      "episode": 282,
+      "title": "The Night Begins To Shine Two: Chapter Four: Bass",
+      "diziid": "ttg",
+      "bolum": "284",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/284/gece_parliyor_bolum_4%3A_bas"
+    },
+    {
+      "season": 24,
+      "episode": 283,
+      "title": "The Night Begins To Shine Two: Chapter Five: You're the One",
+      "diziid": "ttg",
+      "bolum": "285",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/285/gece_parliyor_bolum_5%3A_o_sensin"
+    },
+    {
+      "season": 25,
+      "episode": 284,
+      "title": "Where Exactly on the Globe is Carl Sanpedro? - Part 1",
+      "diziid": "ttg",
+      "bolum": "286",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/286/carl_sanpedro_dunya_uzerinde_tam_olarak_nerede_bolum_1"
+    },
+    {
+      "season": 26,
+      "episode": 285,
+      "title": "Where Exactly on the Globe is Carl Sanpedro? - Part 2",
+      "diziid": "ttg",
+      "bolum": "287",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/287/carl_sanpedro_dunya_uzerinde_tam_olarak_nerede_bolum_2"
+    },
+    {
+      "season": 27,
+      "episode": 286,
+      "title": "Where Exactly on the Globe is Carl SanPedro (3)",
+      "diziid": "ttg",
+      "bolum": "288",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/288/carl_sanpedro_dunya_uzerinde_tam_olarak_nerede_bolum_3"
+    },
+    {
+      "season": 28,
+      "episode": 287,
+      "title": "Where Exactly on the Globe is Carl SanPedro (4)",
+      "diziid": "ttg",
+      "bolum": "289",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/289/carl_sanpedro_dunya_uzerinde_tam_olarak_nerede_bolum_4"
+    },
+    {
+      "season": 29,
+      "episode": 288,
+      "title": "Ghost with the Most",
+      "diziid": "ttg",
+      "bolum": "290",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/290/en_bilgili_hayalet"
+    },
+    {
+      "season": 30,
+      "episode": 289,
+      "title": "Bucket List",
+      "diziid": "ttg",
+      "bolum": "291",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/291/yapilacaklar_listesi"
+    },
+    {
+      "season": 31,
+      "episode": 290,
+      "title": "TV Knight 6",
+      "diziid": "ttg",
+      "bolum": "292",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/292/televizyon_sovalyesi_6"
+    },
+    {
+      "season": 32,
+      "episode": 291,
+      "title": "Kryptonite",
+      "diziid": "ttg",
+      "bolum": "293",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/293/kriptonit"
+    },
+    {
+      "season": 33,
+      "episode": 292,
+      "title": "Thumb War",
+      "diziid": "ttg",
+      "bolum": "294",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/294/parmak_guresi"
+    },
+    {
+      "season": 34,
+      "episode": 293,
+      "title": "Toddler Titans... Yay!",
+      "diziid": "ttg",
+      "bolum": "295",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/295/bebek_titanlar..._yasasin%21"
+    },
+    {
+      "season": 35,
+      "episode": 294,
+      "title": "Huggbees",
+      "diziid": "ttg",
+      "bolum": "296",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/296/huggbees"
+    },
+    {
+      "season": 36,
+      "episode": 295,
+      "title": "Baby Mouth",
+      "diziid": "ttg",
+      "bolum": "297",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/297/bebek_agizli"
+    },
+    {
+      "season": 37,
+      "episode": 296,
+      "title": "The Cast",
+      "diziid": "ttg",
+      "bolum": "298",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/298/yeni_avci"
+    },
+    {
+      "season": 38,
+      "episode": 297,
+      "title": "Superhero Feud",
+      "diziid": "ttg",
+      "bolum": "299",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/299/super_kahramanlar_yarisiyor"
+    },
+    {
+      "season": 39,
+      "episode": 298,
+      "title": "Lucky Stars",
+      "diziid": "ttg",
+      "bolum": "300",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/300/sans_yildizlari"
+    },
+    {
+      "season": 40,
+      "episode": 299,
+      "title": "Various Modes of Transportation",
+      "diziid": "ttg",
+      "bolum": "301",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/301/yolculugun_cesitli_yollari"
+    },
+    {
+      "season": 41,
+      "episode": 300,
+      "title": "Cool Uncles",
+      "diziid": "ttg",
+      "bolum": "302",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/302/havali_amcalar"
+    },
+    {
+      "season": 42,
+      "episode": 301,
+      "title": "Butter Wall",
+      "diziid": "ttg",
+      "bolum": "303",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/303/yagdan_duvar"
+    },
+    {
+      "season": 43,
+      "episode": 302,
+      "title": "BBRAEBDAY",
+      "diziid": "ttg",
+      "bolum": "304",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/304/dogum_gunu_partisi"
+    },
+    {
+      "season": 44,
+      "episode": 303,
+      "title": "Don't Press Play",
+      "diziid": "ttg",
+      "bolum": "305",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/305/sakin_baslata_basma"
+    },
+    {
+      "season": 45,
+      "episode": 304,
+      "title": "Real Art",
+      "diziid": "ttg",
+      "bolum": "306",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/306/gercek_sanat"
+    },
+    {
+      "season": 46,
+      "episode": 305,
+      "title": "Just a Little Patience...Yeah...Yeah",
+      "diziid": "ttg",
+      "bolum": "307",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/307/sadece_birazcik_sabir..._evet..._evet"
+    },
+    {
+      "season": 47,
+      "episode": 306,
+      "title": "Villains in a Van Getting Gelato",
+      "diziid": "ttg",
+      "bolum": "308",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/308/kotu_adamlar_dondurma_yiyor"
+    },
+    {
+      "season": 48,
+      "episode": 307,
+      "title": "I Am Chair",
+      "diziid": "ttg",
+      "bolum": "309",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/309/ben_koltugum"
+    },
+    {
+      "season": 49,
+      "episode": 308,
+      "title": "Bumgorf",
+      "diziid": "ttg",
+      "bolum": "310",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/310/benim_kucuk_arkadasim"
+    },
+    {
+      "season": 50,
+      "episode": 309,
+      "title": "The Mug",
+      "diziid": "ttg",
+      "bolum": "311",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/311/kupa"
+    },
+    {
+      "season": 51,
+      "episode": 310,
+      "title": "Zimdings",
+      "diziid": "ttg",
+      "bolum": "312",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/312/zimdings"
+    },
+    {
+      "season": 52,
+      "episode": 311,
+      "title": "Hafo Safo",
+      "diziid": "ttg",
+      "bolum": "313",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/313/mut_ay_uz_ay"
+    },
+    {
+      "season": 1,
+      "episode": 312,
+      "title": "Justice League's Next Top Talent Idol Star: Dance Crew Edition (1)",
+      "diziid": "ttg",
+      "bolum": "314",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/314/adalet_birligi_yildizini_ariyor_dans_ekibi_yayini_1.kisim"
+    },
+    {
+      "season": 2,
+      "episode": 313,
+      "title": "Justice League's Next Top Talent Idol Star: Dance Crew Edition (2)",
+      "diziid": "ttg",
+      "bolum": "315",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/315/adalet_birligi_yildizini_ariyor_dans_ekibi_yayini_2.kisim"
+    },
+    {
+      "season": 3,
+      "episode": 314,
+      "title": "Feed Me",
+      "diziid": "ttg",
+      "bolum": "316",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/316/besle_beni"
+    },
+    {
+      "season": 4,
+      "episode": 315,
+      "title": "Pig in a Poke",
+      "diziid": "ttg",
+      "bolum": "317",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/317/kandirilmak"
+    },
+    {
+      "season": 5,
+      "episode": 316,
+      "title": "P.P.",
+      "diziid": "ttg",
+      "bolum": "318",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/318/p.p."
+    },
+    {
+      "season": 6,
+      "episode": 317,
+      "title": "A Little Help Please",
+      "diziid": "ttg",
+      "bolum": "319",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/319/birazcik_yardim_lutfen"
+    },
+    {
+      "season": 7,
+      "episode": 318,
+      "title": "Marv Wolfman and George PÃ©rez",
+      "diziid": "ttg",
+      "bolum": "320",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/320/marv_wolfman_ve_george"
+    },
+    {
+      "season": 8,
+      "episode": 319,
+      "title": "Space House - Part 1",
+      "diziid": "ttg",
+      "bolum": "321",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/321/uzay_evi_-_bolum_1"
+    },
+    {
+      "season": 9,
+      "episode": 320,
+      "title": "Space House - Part 2",
+      "diziid": "ttg",
+      "bolum": "322",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/322/uzay_evi_-_2.bolum"
+    },
+    {
+      "season": 10,
+      "episode": 321,
+      "title": "Space House - Part 3",
+      "diziid": "ttg",
+      "bolum": "323",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/323/uzay_evi_-_bolum_3"
+    },
+    {
+      "season": 11,
+      "episode": 322,
+      "title": "Space House - Part 4",
+      "diziid": "ttg",
+      "bolum": "324",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/324/uzay_evi_-_bolum_4"
+    },
+    {
+      "season": 12,
+      "episode": 323,
+      "title": "Cy & Beasty",
+      "diziid": "ttg",
+      "bolum": "325",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/325/cy_ve_beasty"
+    },
+    {
+      "season": 13,
+      "episode": 324,
+      "title": "T is for Titans",
+      "diziid": "ttg",
+      "bolum": "326",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/326/t_titanlar_icin"
+    },
+    {
+      "season": 14,
+      "episode": 325,
+      "title": "Creative Geniuses",
+      "diziid": "ttg",
+      "bolum": "327",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/327/yaratici_dahiler"
+    },
+    {
+      "season": 15,
+      "episode": 326,
+      "title": "Manor and Mannerisms",
+      "diziid": "ttg",
+      "bolum": "328",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/328/malikane_ve_gorgu"
+    },
+    {
+      "season": 16,
+      "episode": 327,
+      "title": "Trans Oceanic Magical Cruise",
+      "diziid": "ttg",
+      "bolum": "329",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/329/okyanus_otesine_sihirli_yolculuk"
+    },
+    {
+      "season": 17,
+      "episode": 328,
+      "title": "Polly Ethylene and Tara Phthalate",
+      "diziid": "ttg",
+      "bolum": "330",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/330/polly_etilen_ve_tara_phthalate"
+    },
+    {
+      "season": 18,
+      "episode": 329,
+      "title": "EEbows",
+      "diziid": "ttg",
+      "bolum": "331",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/331/eebowlar"
+    },
+    {
+      "season": 19,
+      "episode": 330,
+      "title": "Batman's Birthday Gift",
+      "diziid": "ttg",
+      "bolum": "332",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/332/batmanin_dogum_gunu_hediyesi"
+    },
+    {
+      "season": 21,
+      "episode": 331,
+      "title": "Doomsday Preppers",
+      "diziid": "ttg",
+      "bolum": "334",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/334/felaket_gunu_hazirliklari"
+    },
+    {
+      "season": 22,
+      "episode": 332,
+      "title": "Fat Cats",
+      "diziid": "ttg",
+      "bolum": "335",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/335/zenginler"
+    },
+    {
+      "season": 23,
+      "episode": 333,
+      "title": "Jam",
+      "diziid": "ttg",
+      "bolum": "336",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/336/hucum"
+    },
+    {
+      "season": 24,
+      "episode": 334,
+      "title": "DC",
+      "diziid": "ttg",
+      "bolum": "337",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/337/dc"
+    },
+    {
+      "season": 25,
+      "episode": 335,
+      "title": "Pepo the Pumpkinman",
+      "diziid": "ttg",
+      "bolum": "338",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/338/balkabagi_adam_pepo"
+    },
+    {
+      "season": 26,
+      "episode": 336,
+      "title": "Breakfast",
+      "diziid": "ttg",
+      "bolum": "339",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/339/kahvalti"
+    },
+    {
+      "season": 27,
+      "episode": 337,
+      "title": "Captain Cool",
+      "diziid": "ttg",
+      "bolum": "340",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/340/kaptan_havali"
+    },
+    {
+      "season": 28,
+      "episode": 338,
+      "title": "A Doom Patrol Thanksgiving",
+      "diziid": "ttg",
+      "bolum": "341",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/341/doom_patrol_sukran_gunu_bolum_1"
+    },
+    {
+      "season": 29,
+      "episode": 339,
+      "title": "A Doom Patrol Thanksgiving",
+      "diziid": "ttg",
+      "bolum": "342",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/342/doom_patrol_sukran_gunu_bolum_2"
+    },
+    {
+      "season": 30,
+      "episode": 340,
+      "title": "Glunkakakakah",
+      "diziid": "ttg",
+      "bolum": "343",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/343/glunkakakakah"
+    },
+    {
+      "season": 31,
+      "episode": 341,
+      "title": "Control Freak",
+      "diziid": "ttg",
+      "bolum": "344",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/344/kontrol_hastasi"
+    },
+    {
+      "season": 32,
+      "episode": 342,
+      "title": "A Holiday Story",
+      "diziid": "ttg",
+      "bolum": "345",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/345/bir_tatil_hikayesi"
+    },
+    {
+      "season": 33,
+      "episode": 343,
+      "title": "The Drip",
+      "diziid": "ttg",
+      "bolum": "346",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/346/karizma"
+    },
+    {
+      "season": 34,
+      "episode": 344,
+      "title": "S&P",
+      "diziid": "ttg",
+      "bolum": "347",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/347/s_ve_u"
+    },
+    {
+      "season": 35,
+      "episode": 345,
+      "title": "Belly Math",
+      "diziid": "ttg",
+      "bolum": "348",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/348/karin_matematigi"
+    },
+    {
+      "season": 36,
+      "episode": 346,
+      "title": "Free Perk",
+      "diziid": "ttg",
+      "bolum": "349",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/349/ikramiye"
+    },
+    {
+      "season": 39,
+      "episode": 347,
+      "title": "Whodundidit?",
+      "diziid": "ttg",
+      "bolum": "352",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/352/kim_yapti"
+    },
+    {
+      "season": 40,
+      "episode": 348,
+      "title": "Sweet Revenge",
+      "diziid": "ttg",
+      "bolum": "353",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/353/tatli_oc"
+    },
+    {
+      "season": 41,
+      "episode": 349,
+      "title": "Porch Pirates",
+      "diziid": "ttg",
+      "bolum": "354",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/354/kargo_korsanlari"
+    },
+    {
+      "season": 42,
+      "episode": 350,
+      "title": "A Sticky Situation",
+      "diziid": "ttg",
+      "bolum": "355",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/355/yapiskan_bir_durum"
+    },
+    {
+      "season": 43,
+      "episode": 351,
+      "title": "The Perfect Pitch?",
+      "diziid": "ttg",
+      "bolum": "356",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/356/mukemmel_sunum"
+    },
+    {
+      "season": 44,
+      "episode": 352,
+      "title": "Pool Season",
+      "diziid": "ttg",
+      "bolum": "357",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/357/havuz_mevsimi"
+    },
+    {
+      "season": 45,
+      "episode": 353,
+      "title": "Kyle",
+      "diziid": "ttg",
+      "bolum": "358",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/358/kyle"
+    },
+    {
+      "season": 46,
+      "episode": 354,
+      "title": "TV Knight 7",
+      "diziid": "ttg",
+      "bolum": "359",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/359/televizyon_sovalyesi_7"
+    },
+    {
+      "season": 47,
+      "episode": 355,
+      "title": "We'll Be Right Back",
+      "diziid": "ttg",
+      "bolum": "360",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/360/hemen_donecegiz"
+    },
+    {
+      "season": 48,
+      "episode": 356,
+      "title": "Jump City Rock",
+      "diziid": "ttg",
+      "bolum": "361",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/361/jump_city_sarkisi"
+    },
+    {
+      "season": 49,
+      "episode": 357,
+      "title": "Natural Gas",
+      "diziid": "ttg",
+      "bolum": "362",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/362/dogal_gaz"
+    },
+    {
+      "season": 52,
+      "episode": 358,
+      "title": "365!",
+      "diziid": "ttg",
+      "bolum": "365",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/365/365%21"
+    },
+    {
+      "season": 1,
+      "episode": 359,
+      "title": "Welcome to Halloween",
+      "diziid": "ttg",
+      "bolum": "366",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/366/cadilar_bayramina_hos_geldiniz"
+    },
+    {
+      "season": 2,
+      "episode": 360,
+      "title": "The Great Holiday Escape",
+      "diziid": "ttg",
+      "bolum": "367",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/367/buyuk_tatil_kacisi"
+    },
+    {
+      "season": 4,
+      "episode": 361,
+      "title": "Teen Titans Action",
+      "diziid": "ttg",
+      "bolum": "369",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/369/teen_titans_aksiyon_figurleri_bolum_1"
+    },
+    {
+      "season": 5,
+      "episode": 362,
+      "title": "Teen Titans Action Part 2",
+      "diziid": "ttg",
+      "bolum": "370",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/370/teen_titans_aksiyon_figurleri_bolum_2"
+    },
+    {
+      "season": 7,
+      "episode": 363,
+      "title": "A Stickier Situation",
+      "diziid": "ttg",
+      "bolum": "372",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/372/daha_yapiskan_bir_durum"
+    },
+    {
+      "season": 8,
+      "episode": 364,
+      "title": "Winning a Golf Tournament Is the Solution to All of Life's Money Problems",
+      "diziid": "ttg",
+      "bolum": "373",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/373/golf_turnuvasi_kazanmak_parayla_ilgili_sorunlari_bitirir"
+    },
+    {
+      "season": 9,
+      "episode": 365,
+      "title": "Always Be Crimefighting",
+      "diziid": "ttg",
+      "bolum": "374",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/374/surekli_sucla_savasin"
+    },
+    {
+      "season": 10,
+      "episode": 366,
+      "title": "Easter Annihilation",
+      "diziid": "ttg",
+      "bolum": "375",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/375/paskalya_yok_olusu"
+    },
+    {
+      "season": 11,
+      "episode": 367,
+      "title": "The Brain of the Family Part 1",
+      "diziid": "ttg",
+      "bolum": "376",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/376/ailenin_beyni_bolum_1"
+    },
+    {
+      "season": 12,
+      "episode": 368,
+      "title": "The Brain of the Family",
+      "diziid": "ttg",
+      "bolum": "377",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/377/ailenin_beyni_bolum_2"
+    },
+    {
+      "season": 13,
+      "episode": 369,
+      "title": "Arthur",
+      "diziid": "ttg",
+      "bolum": "378",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/378/arthur"
+    },
+    {
+      "season": 15,
+      "episode": 370,
+      "title": "Plot Holes",
+      "diziid": "ttg",
+      "bolum": "380",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/380/senaryo_bosluklari"
+    },
+    {
+      "season": 16,
+      "episode": 371,
+      "title": "Utility Belt",
+      "diziid": "ttg",
+      "bolum": "381",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/381/alet_kemeri"
+    },
+    {
+      "season": 17,
+      "episode": 372,
+      "title": "Our House",
+      "diziid": "ttg",
+      "bolum": "382",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/382/bizim_evimiz"
+    },
+    {
+      "season": 18,
+      "episode": 373,
+      "title": "Beard Hunter",
+      "diziid": "ttg",
+      "bolum": "383",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/383/sakal_avcisi"
+    },
+    {
+      "season": 19,
+      "episode": 374,
+      "title": "Elasti-Bot",
+      "diziid": "ttg",
+      "bolum": "384",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/384/elastik_robot"
+    },
+    {
+      "season": 20,
+      "episode": 375,
+      "title": "Negative Feels",
+      "diziid": "ttg",
+      "bolum": "385",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/385/negatif_hisler"
+    },
+    {
+      "season": 21,
+      "episode": 376,
+      "title": "New Chum",
+      "diziid": "ttg",
+      "bolum": "386",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/386/yeni_eleman"
+    },
+    {
+      "season": 22,
+      "episode": 377,
+      "title": "Intro",
+      "diziid": "ttg",
+      "bolum": "387",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/387/intro"
+    },
+    {
+      "season": 1,
+      "episode": 378,
+      "title": "Warner Bros. 100th Anniversary",
+      "diziid": "ttg",
+      "bolum": "388",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/388/warner_brothersin_yuzuncu_yili"
+    },
+    {
+      "season": 26,
+      "episode": 379,
+      "title": "Wishbone",
+      "diziid": "ttg",
+      "bolum": "391",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/391/lades_kemigi"
+    },
+    {
+      "season": 27,
+      "episode": 380,
+      "title": "Christmas Magic",
+      "diziid": "ttg",
+      "bolum": "392",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/392/yilbasi_sihri"
+    },
+    {
+      "season": 34,
+      "episode": 381,
+      "title": "The Great Azarathian Face Off",
+      "diziid": "ttg",
+      "bolum": "399",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/399/buyuk_azarath_kapismasi"
+    },
+    {
+      "season": 36,
+      "episode": 382,
+      "title": "Unleashed",
+      "diziid": "ttg",
+      "bolum": "401",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/401/zincirsiz"
+    },
+    {
+      "season": 37,
+      "episode": 383,
+      "title": "Original Idea",
+      "diziid": "ttg",
+      "bolum": "402",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/402/orijinal_fikir"
+    },
+    {
+      "season": 38,
+      "episode": 384,
+      "title": "Attention to Detail",
+      "diziid": "ttg",
+      "bolum": "403",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/403/detaylara_dikkat"
+    },
+    {
+      "season": 39,
+      "episode": 385,
+      "title": "The Ranch",
+      "diziid": "ttg",
+      "bolum": "404",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/404/ranch"
+    },
+    {
+      "season": 40,
+      "episode": 386,
+      "title": "TV Knight 9",
+      "diziid": "ttg",
+      "bolum": "405",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/405/televizyon_sovalyesi_9"
+    },
+    {
+      "season": 1,
+      "episode": 387,
+      "title": "Four Hundred",
+      "diziid": "ttg",
+      "bolum": "406",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/406/dort_yuz"
+    },
+    {
+      "season": 1,
+      "episode": 388,
+      "title": "Stickiest Situation",
+      "diziid": "ttg",
+      "bolum": "408",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/408/en_yapiskan_durum"
+    },
+    {
+      "season": 2,
+      "episode": 389,
+      "title": "O.S.H.A.",
+      "diziid": "ttg",
+      "bolum": "409",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/409/o.s.h.a."
+    },
+    {
+      "season": 3,
+      "episode": 390,
+      "title": "Teen? Titans",
+      "diziid": "ttg",
+      "bolum": "410",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/410/genc_titanlar"
+    },
+    {
+      "season": 4,
+      "episode": 391,
+      "title": "Moonlighting",
+      "diziid": "ttg",
+      "bolum": "411",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/411/ay_isigi"
+    },
+    {
+      "season": 5,
+      "episode": 392,
+      "title": "Freak Show",
+      "diziid": "ttg",
+      "bolum": "412",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/412/cilgin_sov"
+    },
+    {
+      "season": 6,
+      "episode": 393,
+      "title": "Diner Means Breakfast",
+      "diziid": "ttg",
+      "bolum": "413",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/413/restoranda_kahvalti"
+    },
+    {
+      "season": 7,
+      "episode": 394,
+      "title": "High Five",
+      "diziid": "ttg",
+      "bolum": "414",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/414/cak_bir_beslik"
+    },
+    {
+      "season": 8,
+      "episode": 395,
+      "title": "Teen Titans and the Easter Factory",
+      "diziid": "ttg",
+      "bolum": "415",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/415/genc_titanlar_ve_paskalya_fabrikasi"
+    },
+    {
+      "season": 9,
+      "episode": 396,
+      "title": "Passive Income",
+      "diziid": "ttg",
+      "bolum": "416",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/416/pasif_gelir"
+    },
+    {
+      "season": 10,
+      "episode": 397,
+      "title": "Winged Warriors",
+      "diziid": "ttg",
+      "bolum": "417",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/417/kanatli_savascilar"
+    },
+    {
+      "season": 12,
+      "episode": 398,
+      "title": "Best Mom Ever",
+      "diziid": "ttg",
+      "bolum": "419",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/419/gelmis_gecmis_en_iyi_anne"
+    },
+    {
+      "season": 13,
+      "episode": 399,
+      "title": "DC Comic Book Club",
+      "diziid": "ttg",
+      "bolum": "420",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/420/dc_cizgi_roman_kulubu"
+    },
+    {
+      "season": 14,
+      "episode": 400,
+      "title": "Favorite Animated Show Nominee",
+      "diziid": "ttg",
+      "bolum": "421",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/421/en_sevilen_animasyon_adayi"
+    },
+    {
+      "season": 15,
+      "episode": 401,
+      "title": "Them Jaws",
+      "diziid": "ttg",
+      "bolum": "422",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/422/kopek_baliklari"
+    },
+    {
+      "season": 16,
+      "episode": 402,
+      "title": "Pool Shark",
+      "diziid": "ttg",
+      "bolum": "423",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/423/bilardocu_kopek_baliklari"
+    },
+    {
+      "season": 17,
+      "episode": 403,
+      "title": "Shark Tank",
+      "diziid": "ttg",
+      "bolum": "424",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/424/atletik_kopek_baligi"
+    },
+    {
+      "season": 19,
+      "episode": 404,
+      "title": "Megalodon Jackson",
+      "diziid": "ttg",
+      "bolum": "426",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/426/megalodon_jackson"
+    },
+    {
+      "season": 20,
+      "episode": 405,
+      "title": "DC Leader Swap",
+      "diziid": "ttg",
+      "bolum": "427",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/427/dc_lider_takasi"
+    },
+    {
+      "season": 21,
+      "episode": 406,
+      "title": "Shhhh",
+      "diziid": "ttg",
+      "bolum": "428",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/428/shhhhh"
+    },
+    {
+      "season": 22,
+      "episode": 407,
+      "title": "Crime Alert",
+      "diziid": "ttg",
+      "bolum": "429",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/429/suc_alarmi"
+    },
+    {
+      "season": 24,
+      "episode": 408,
+      "title": "Not a Halloween Special",
+      "diziid": "ttg",
+      "bolum": "431",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/431/cadilar_bayramina_ozel_degil"
+    },
+    {
+      "season": 25,
+      "episode": 409,
+      "title": "Chowda",
+      "diziid": "ttg",
+      "bolum": "432",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/432/midye_corbasi"
+    },
+    {
+      "season": 26,
+      "episode": 410,
+      "title": "Activate",
+      "diziid": "ttg",
+      "bolum": "433",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/433/aktif"
+    },
+    {
+      "season": 27,
+      "episode": 411,
+      "title": "Ice Cold",
+      "diziid": "ttg",
+      "bolum": "434",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/434/buz_gibi"
+    },
+    {
+      "season": 28,
+      "episode": 412,
+      "title": "Cake!",
+      "diziid": "ttg",
+      "bolum": "435",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/435/pasta"
+    },
+    {
+      "season": 29,
+      "episode": 413,
+      "title": "Unmasking - The Teen Titans Story",
+      "diziid": "ttg",
+      "bolum": "436",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/436/genc_titanlarin_maskesi_dusuyor"
+    },
+    {
+      "season": 30,
+      "episode": 414,
+      "title": "Helmet of Doom",
+      "diziid": "ttg",
+      "bolum": "437",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/437/felaket_kaski"
+    },
+    {
+      "season": 31,
+      "episode": 415,
+      "title": "Bro, Where's the Batmobile?",
+      "diziid": "ttg",
+      "bolum": "438",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/438/dostum%2C_batmobil_nerede"
+    },
+    {
+      "season": 32,
+      "episode": 416,
+      "title": "White Elephant",
+      "diziid": "ttg",
+      "bolum": "439",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/439/beyaz_fil"
+    },
+    {
+      "season": 33,
+      "episode": 417,
+      "title": "Rulers Rule",
+      "diziid": "ttg",
+      "bolum": "440",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/440/cetvel_gibisi_yok"
+    },
+    {
+      "season": 34,
+      "episode": 418,
+      "title": "Hero Hotline",
+      "diziid": "ttg",
+      "bolum": "441",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/441/kahraman_yardim_hatti"
+    },
+    {
+      "season": 35,
+      "episode": 419,
+      "title": "Elseworlds",
+      "diziid": "ttg",
+      "bolum": "442",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/442/baska_dunyalar"
+    },
+    {
+      "season": 40,
+      "episode": 420,
+      "title": "Select Your Trek",
+      "diziid": "ttg",
+      "bolum": "447",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/447/secimini_yap"
+    },
+    {
+      "season": 41,
+      "episode": 421,
+      "title": "Huzzah For The Turkey Leg",
+      "diziid": "ttg",
+      "bolum": "448",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/448/yasasin_hindi_budu"
+    },
+    {
+      "season": 42,
+      "episode": 422,
+      "title": "The Joker's On You",
+      "diziid": "ttg",
+      "bolum": "449",
+      "url": "https://cizgivedizi.com/dizi/ttg/teen_titans_go%21/449/saka_yaparken_sakalanmak"
+    }
+  ]
+}
