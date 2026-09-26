@@ -1,0 +1,12 @@
+{
+  "id": "corgi",
+  "title": "corgi",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/CORGIFilmPoster.avif",
+  "channel": "Sinema",
+  "genres": [
+    "Komedi",
+    "Macera"
+  ],
+  "episodes": []
+}

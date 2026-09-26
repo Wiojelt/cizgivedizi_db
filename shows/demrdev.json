@@ -1,0 +1,12 @@
+{
+  "id": "demrdev",
+  "title": "demir dev",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/DMRDEVPoster.avif",
+  "channel": "Sinema",
+  "genres": [
+    "Bilim Kurgu",
+    "Dram"
+  ],
+  "episodes": []
+}

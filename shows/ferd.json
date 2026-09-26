@@ -1,0 +1,12 @@
+{
+  "id": "ferd",
+  "title": "ferdinand",
+  "type": "film",
+  "poster": "http://cizgivedizi.com/resim/FERDFilmPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "Macera"
+  ],
+  "episodes": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "igor",
+  "title": "Ä±gor",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/IGORFilmPoster.avif",
+  "channel": "Sinema",
+  "genres": [
+    "Komedi",
+    "Korku"
+  ],
+  "episodes": []
+}
