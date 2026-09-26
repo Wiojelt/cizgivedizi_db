@@ -1,0 +1,148 @@
+{
+  "id": "akst",
+  "title": "aksiyon takÄ±mÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/AKSTPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Fright at the Museum / Catching Cold",
+      "diziid": "akst",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/akst/aksiyon_takimi/1/muzede_korku__soguk_bir_macera"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Mason Impossible / Hero of the Day",
+      "diziid": "akst",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/akst/aksiyon_takimi/2/masonin_zorlu_gorevi__gunun_kahramani"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Awesome Possum / Frozen Fiasco",
+      "diziid": "akst",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/akst/aksiyon_takimi/3/elektrikli_priscilla__buz_gibi_bir_fiyasko"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Sky's the Limit / All That Llama Drama",
+      "diziid": "akst",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/akst/aksiyon_takimi/4/skyin_basi_goge_erdiginde__lama_kurtarma_operasyonu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "A Good Day to Dino",
+      "diziid": "akst",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/akst/aksiyon_takimi/5/dinozor_bollugu_1._kisim__dinozor_bollugu_2._kisim"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Trophy Trouble / Meet Mr. Villainman",
+      "diziid": "akst",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/akst/aksiyon_takimi/6/odul_pesinde__kotu_adamla_tanisma_zamani"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Power Nap / The Crimson Cape Returns",
+      "diziid": "akst",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/akst/aksiyon_takimi/7/kikirdatan_bir_yan_etki__eski_bir_tanidik%2C_yeni_bir_macera"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Action-Packed Party / Dog Daze",
+      "diziid": "akst",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/akst/aksiyon_takimi/8/dogum_gunu_partisi__saskin_kopek"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Picture Perfect / Cookie Chaos",
+      "diziid": "akst",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/akst/aksiyon_takimi/9/kusursuz_bir_fotograf__kurabiye_kaosu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "A Half-Baked Scheme / Heroism Is a Piece of Cake",
+      "diziid": "akst",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/akst/aksiyon_takimi/10/kotu_bir_plan__kahramanlik_cocuk_isidir"
+    },
+    {
+      "season": 1,
+      "episode": 11,
+      "title": "Super Meowzers / Story Crime",
+      "diziid": "akst",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/akst/aksiyon_takimi/11/super_guclu_kedi__kitap_hirsizi"
+    },
+    {
+      "season": 2,
+      "episode": 12,
+      "title": "The Importance of Being Ernesto / The Cool Kid",
+      "diziid": "akst",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/akst/aksiyon_takimi/12/gercek_ernesto_kim__buz_gibi_gucler"
+    },
+    {
+      "season": 3,
+      "episode": 13,
+      "title": "Pterodactyl Troubles / Super Tiny MegaPlane",
+      "diziid": "akst",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/akst/aksiyon_takimi/13/terrance_kayboldugunda__kuculen_ucak"
+    },
+    {
+      "season": 4,
+      "episode": 14,
+      "title": "Chores Galore / Play Time",
+      "diziid": "akst",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/akst/aksiyon_takimi/14/gundelik_isler__oyun_zamani"
+    },
+    {
+      "season": 5,
+      "episode": 15,
+      "title": "The Rakhi Rundown / Gaming the System",
+      "diziid": "akst",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/akst/aksiyon_takimi/15/hediye_kovalamaca__sisteme_oyun_oynamak"
+    },
+    {
+      "season": 6,
+      "episode": 16,
+      "title": "Once in a Blue Noon",
+      "diziid": "akst",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/akst/aksiyon_takimi/16/kirk_yilda_bir_1._kisim__kirk_yilda_bir_2._kisim"
+    },
+    {
+      "season": 1,
+      "episode": 17,
+      "title": "The Action Pack Saves Christmas",
+      "diziid": "akst",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/akst/aksiyon_takimi/0/noel_gorevinde"
+    }
+  ]
+}

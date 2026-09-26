@@ -1,0 +1,349 @@
+{
+  "id": "btr",
+  "title": "big time rush",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/BTRPoster.avif",
+  "channel": "Nickelodeon",
+  "genres": [
+    "MÃ¼zik/MÃ¼zikal",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 4,
+      "episode": 1,
+      "title": "Big Time Crib",
+      "diziid": "btr",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/4/yeni_yer"
+    },
+    {
+      "season": 5,
+      "episode": 2,
+      "title": "Big Time Bad Boy",
+      "diziid": "btr",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/5/kotu_cocuk"
+    },
+    {
+      "season": 6,
+      "episode": 3,
+      "title": "Big Time Love Song",
+      "diziid": "btr",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/6/ask_sarkisi"
+    },
+    {
+      "season": 8,
+      "episode": 4,
+      "title": "Big Time Photo Shoot",
+      "diziid": "btr",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/8/fotograf_cekimi"
+    },
+    {
+      "season": 9,
+      "episode": 5,
+      "title": "Big Time Break",
+      "diziid": "btr",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/9/tatil_gunu"
+    },
+    {
+      "season": 10,
+      "episode": 6,
+      "title": "Big Time Demos",
+      "diziid": "btr",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/10/demolar"
+    },
+    {
+      "season": 11,
+      "episode": 7,
+      "title": "Big Time Party",
+      "diziid": "btr",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/11/parti"
+    },
+    {
+      "season": 13,
+      "episode": 8,
+      "title": "Big Time Blogger",
+      "diziid": "btr",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/13/blogcu"
+    },
+    {
+      "season": 15,
+      "episode": 9,
+      "title": "Big Time Dance",
+      "diziid": "btr",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/15/okul_dansi"
+    },
+    {
+      "season": 16,
+      "episode": 10,
+      "title": "Big Time Fever",
+      "diziid": "btr",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/16/sans"
+    },
+    {
+      "season": 3,
+      "episode": 11,
+      "title": "Big Time Girlfriends",
+      "diziid": "btr",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/23/kiz_arkadaslar"
+    },
+    {
+      "season": 7,
+      "episode": 12,
+      "title": "Big Time Pranks",
+      "diziid": "btr",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/27/saka"
+    },
+    {
+      "season": 11,
+      "episode": 13,
+      "title": "Big Time Crush",
+      "diziid": "btr",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/31/ask"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "Big Time Reality",
+      "diziid": "btr",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/35/reality_show"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Big Time Girl Group",
+      "diziid": "btr",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/36/kiz_grubu"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "Green Time Rush",
+      "diziid": "btr",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/37/dunya_gunu"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "Big Time Moms",
+      "diziid": "btr",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/38/anneler"
+    },
+    {
+      "season": 22,
+      "episode": 18,
+      "title": "Big Time Wedding",
+      "diziid": "btr",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/42/evlilik"
+    },
+    {
+      "season": 23,
+      "episode": 19,
+      "title": "Big Time Rocker",
+      "diziid": "btr",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/43/rock"
+    },
+    {
+      "season": 24,
+      "episode": 20,
+      "title": "Big Time Strike",
+      "diziid": "btr",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/44/grev"
+    },
+    {
+      "season": 25,
+      "episode": 21,
+      "title": "Big Time Contest",
+      "diziid": "btr",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/45/yarisma"
+    },
+    {
+      "season": 27,
+      "episode": 22,
+      "title": "Big Time Secret",
+      "diziid": "btr",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/47/sir"
+    },
+    {
+      "season": 28,
+      "episode": 23,
+      "title": "Big Time Interview",
+      "diziid": "btr",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/48/roportaj"
+    },
+    {
+      "season": 29,
+      "episode": 24,
+      "title": "Big Time Move",
+      "diziid": "btr",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/49/tanisma"
+    },
+    {
+      "season": 1,
+      "episode": 25,
+      "title": "Backstage Rush",
+      "diziid": "btr",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/50/sahne_arkasi"
+    },
+    {
+      "season": 2,
+      "episode": 26,
+      "title": "Big Time Returns",
+      "diziid": "btr",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/51/big_time_rush_geri_dondu"
+    },
+    {
+      "season": 4,
+      "episode": 27,
+      "title": "Big Time Double Date",
+      "diziid": "btr",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/53/cifte_randevu"
+    },
+    {
+      "season": 5,
+      "episode": 28,
+      "title": "Big Time Merchandise",
+      "diziid": "btr",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/54/mal"
+    },
+    {
+      "season": 6,
+      "episode": 29,
+      "title": "Big Time Surprise",
+      "diziid": "btr",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/55/surpriz"
+    },
+    {
+      "season": 7,
+      "episode": 30,
+      "title": "Big Time Decision",
+      "diziid": "btr",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/56/karar"
+    },
+    {
+      "season": 8,
+      "episode": 31,
+      "title": "Big Time Babysitting",
+      "diziid": "btr",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/57/bebek_bakiciligi"
+    },
+    {
+      "season": 9,
+      "episode": 32,
+      "title": "Big Time Gold",
+      "diziid": "btr",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/58/altin"
+    },
+    {
+      "season": 12,
+      "episode": 33,
+      "title": "Big Time Bloopers",
+      "diziid": "btr",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/61/cekim_hatalari"
+    },
+    {
+      "season": 1,
+      "episode": 34,
+      "title": "Big Time Invasion",
+      "diziid": "btr",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/62/istila"
+    },
+    {
+      "season": 2,
+      "episode": 35,
+      "title": "Big Time Scandal",
+      "diziid": "btr",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/63/skandal"
+    },
+    {
+      "season": 3,
+      "episode": 36,
+      "title": "Big Time Lies",
+      "diziid": "btr",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/64/yalanlar"
+    },
+    {
+      "season": 4,
+      "episode": 37,
+      "title": "Big Time Bonus",
+      "diziid": "btr",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/65/ikramiye"
+    },
+    {
+      "season": 5,
+      "episode": 38,
+      "title": "Big Time Cameo",
+      "diziid": "btr",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/66/ufak_rol"
+    },
+    {
+      "season": 7,
+      "episode": 39,
+      "title": "Big Time Pranks II",
+      "diziid": "btr",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/68/saka_2"
+    },
+    {
+      "season": 8,
+      "episode": 40,
+      "title": "Big Time Rides",
+      "diziid": "btr",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/69/sir"
+    },
+    {
+      "season": 9,
+      "episode": 41,
+      "title": "Big Time Tests",
+      "diziid": "btr",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/70/sinav"
+    },
+    {
+      "season": 10,
+      "episode": 42,
+      "title": "Big Time Cartoon",
+      "diziid": "btr",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/btr/big_time_rush/71/cizgi_film"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "arcane",
+  "title": "arcane",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ARCANEPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Aksiyon",
+    "Fantastik",
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Welcome to the Playground",
+      "diziid": "arcane",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/arcane/arcane/1/zitliklarla_dolu_bir_dunyaya_hos_geldin"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Some Mysteries Are Better Left Unsolved",
+      "diziid": "arcane",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/arcane/arcane/2/bazi_gizemler_gizli_kalmali"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Base Violence Necessary for Change",
+      "diziid": "arcane",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/arcane/arcane/3/degisim_icin_siddet_uygulamak"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Happy Progress Day!",
+      "diziid": "arcane",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/arcane/arcane/4/gelisme_gunu_kutlu_olsun%21"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Everybody Wants to Be My Enemy",
+      "diziid": "arcane",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/arcane/arcane/5/herkes_dusmanim_olmak_istiyor"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "When These Walls Come Tumbling Down",
+      "diziid": "arcane",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/arcane/arcane/6/bu_duvarlar_yikildiginda"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Boy Savior",
+      "diziid": "arcane",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/arcane/arcane/7/kahraman_cocuk"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Oil and Water",
+      "diziid": "arcane",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/arcane/arcane/8/yag_ve_su"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Monster You Created",
+      "diziid": "arcane",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/arcane/arcane/9/yarattigin_canavar"
+    },
+    {
+      "season": 1,
+      "episode": 10,
+      "title": "Heavy Is the Crown",
+      "diziid": "arcane",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/arcane/arcane/10/liderin_yuku_agirdir"
+    },
+    {
+      "season": 2,
+      "episode": 11,
+      "title": "Watch It All Burn",
+      "diziid": "arcane",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/arcane/arcane/11/hepsinin_yanmasini_izleyecegiz"
+    },
+    {
+      "season": 3,
+      "episode": 12,
+      "title": "Finally Got the Name Right",
+      "diziid": "arcane",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/arcane/arcane/12/sonunda_ismi_dogru_soyledin"
+    },
+    {
+      "season": 4,
+      "episode": 13,
+      "title": "Paint the Town Blue",
+      "diziid": "arcane",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/arcane/arcane/13/sehri_maviye_boyamak"
+    },
+    {
+      "season": 5,
+      "episode": 14,
+      "title": "Blisters and Bedrock",
+      "diziid": "arcane",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/arcane/arcane/14/kabarciklar_ve_ana_kaya"
+    },
+    {
+      "season": 6,
+      "episode": 15,
+      "title": "The Message Hidden Within the Pattern",
+      "diziid": "arcane",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/arcane/arcane/15/duzenin_icinde_sakli_olan_mesaj"
+    },
+    {
+      "season": 7,
+      "episode": 16,
+      "title": "Pretend Like It's the First Time",
+      "diziid": "arcane",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/arcane/arcane/16/ilk_sefermis_gibi_davran"
+    },
+    {
+      "season": 8,
+      "episode": 17,
+      "title": "Killing Is a Cycle",
+      "diziid": "arcane",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/arcane/arcane/17/oldurmek_bir_dongudur"
+    },
+    {
+      "season": 9,
+      "episode": 18,
+      "title": "The Dirt Under Your Nails",
+      "diziid": "arcane",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/arcane/arcane/18/tirnaklarinin_altindaki_toprak"
+    }
+  ]
+}

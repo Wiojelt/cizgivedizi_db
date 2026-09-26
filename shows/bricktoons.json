@@ -1,0 +1,53 @@
+{
+  "id": "bricktoons",
+  "title": "lego pixar: bricktoons",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BRICKPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Trust Yer Ol' Pal, Mater",
+      "diziid": "bricktoons",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bricktoons/lego_pixar%3A_bricktoons/1/eski_dostun_matere_guven"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Patience Is a Bear",
+      "diziid": "bricktoons",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bricktoons/lego_pixar%3A_bricktoons/2/sabir_bir_erdemdir"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Pizza Night",
+      "diziid": "bricktoons",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bricktoons/lego_pixar%3A_bricktoons/3/pizza_gecesi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Field Trip",
+      "diziid": "bricktoons",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bricktoons/lego_pixar%3A_bricktoons/4/okul_gezisi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Family Bands Together",
+      "diziid": "bricktoons",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bricktoons/lego_pixar%3A_bricktoons/5/aile_gruplari_bir_arada"
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "id": "cille",
+  "title": "cille",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/CÄ°LLEPoster.avif",
+  "channel": "TRT Ã‡ocuk",
+  "genres": [
+    "Macera",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "MÃ¼drik'in DÃ¶nÃ¼ÅŸÃ¼",
+      "diziid": "cille",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/1/mudrikin_donusu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Su KitabÄ±",
+      "diziid": "cille",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/2/su_kitabi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "KayÄ±p YÃ¼zÃ¼k",
+      "diziid": "cille",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/3/kayip_yuzuk"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "KÃ¶yden AyrÄ±lÄ±ÅŸ",
+      "diziid": "cille",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/4/koyden_ayrilis"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Kayra Cille UstasÄ±",
+      "diziid": "cille",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/5/kayra_cille_ustasi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Alehimist",
+      "diziid": "cille",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/6/alehimist"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Tuz KÃ¶yÃ¼",
+      "diziid": "cille",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/7/tuz_koyu"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "SoÄŸuk Alevin Semenderi",
+      "diziid": "cille",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/8/soguk_alevin_semenderi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Sahte Kral",
+      "diziid": "cille",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/9/sahte_kral"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Anka'nÄ±n Alevi",
+      "diziid": "cille",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/10/ankanin_alevi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Harkas",
+      "diziid": "cille",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/11/harkas"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Demirci Vadisi",
+      "diziid": "cille",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/12/demirci_vadisi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Behmud",
+      "diziid": "cille",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/13/behmud"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Akabat",
+      "diziid": "cille",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/14/akabat"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Ã–deÅŸme ZamanÄ±",
+      "diziid": "cille",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/15/odesme_zamani"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "MuhafÄ±zlar",
+      "diziid": "cille",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/16/muhafizlar"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Ada KÃ¶yÃ¼",
+      "diziid": "cille",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/17/ada_koyu"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Senmurv",
+      "diziid": "cille",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/18/senmurv"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Ä°kiz Ustalar",
+      "diziid": "cille",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/19/ikiz_ustalar"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Ã‡ifte MÃ¼sabaka",
+      "diziid": "cille",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/20/cifte_musabaka"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Ã‡ifte Zafer",
+      "diziid": "cille",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/21/cifte_zafer"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Antik KÃ¶y",
+      "diziid": "cille",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/22/antik_koy"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Aydakar",
+      "diziid": "cille",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/23/aydakar"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "Ä°lk Zafer",
+      "diziid": "cille",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/24/ilk_zafer"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Ä°lk KayÄ±p",
+      "diziid": "cille",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/25/ilk_kayip"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "Emanet",
+      "diziid": "cille",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/26/emanet"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Veliaht",
+      "diziid": "cille",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/27/veliaht"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Sahte Kral",
+      "diziid": "cille",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/28/sahte_kral"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "AteÅŸ KÃ¶yÃ¼",
+      "diziid": "cille",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/29/ates_koyu"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Sebenta",
+      "diziid": "cille",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/30/sebenta"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "PanayÄ±r",
+      "diziid": "cille",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/31/panayir"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Cahan",
+      "diziid": "cille",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/32/cahan"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Kabkaba",
+      "diziid": "cille",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/33/kabkaba"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Birlik",
+      "diziid": "cille",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/34/birlik"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Kabkaba'nÄ±n SÄ±rrÄ±",
+      "diziid": "cille",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/35/kabkabanin_sirri"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "GerÃ§ekler",
+      "diziid": "cille",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/36/gercekler"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "DÃ¶nÃ¼ÅŸÃ¼m",
+      "diziid": "cille",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/37/donusum"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "SavaÅŸa DoÄŸru",
+      "diziid": "cille",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/38/savasa_dogru"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "SavaÅŸ SanatÄ±",
+      "diziid": "cille",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/39/savas_sanati"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "SavaÅŸ",
+      "diziid": "cille",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/40/savas"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "Yeni Bir Dost",
+      "diziid": "cille",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/41/yeni_bir_dost"
+    },
+    {
+      "season": 3,
+      "episode": 42,
+      "title": "ÃœÃ§lÃ¼ Arena",
+      "diziid": "cille",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/42/uclu_arena"
+    },
+    {
+      "season": 4,
+      "episode": 43,
+      "title": "Hayal KÄ±rÄ±klÄ±ÄŸÄ±",
+      "diziid": "cille",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/43/hayal_kirikligi"
+    },
+    {
+      "season": 5,
+      "episode": 44,
+      "title": "Sahte Dessas",
+      "diziid": "cille",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/44/sahte_dessas"
+    },
+    {
+      "season": 6,
+      "episode": 45,
+      "title": "BÃ¶lÃ¼nme",
+      "diziid": "cille",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/45/bolunme"
+    },
+    {
+      "season": 7,
+      "episode": 46,
+      "title": "Dostluk",
+      "diziid": "cille",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/46/dostluk"
+    },
+    {
+      "season": 8,
+      "episode": 47,
+      "title": "Kayra'nÄ±n PlanÄ±",
+      "diziid": "cille",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/47/kayranin_plani"
+    },
+    {
+      "season": 9,
+      "episode": 48,
+      "title": "KardeÅŸlik",
+      "diziid": "cille",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/48/kardeslik"
+    },
+    {
+      "season": 10,
+      "episode": 49,
+      "title": "Dostluklar",
+      "diziid": "cille",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/49/dostluklar"
+    },
+    {
+      "season": 11,
+      "episode": 50,
+      "title": "DÃ¶nÃ¼ÅŸÃ¼m",
+      "diziid": "cille",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/50/donusum"
+    },
+    {
+      "season": 12,
+      "episode": 51,
+      "title": "Suban",
+      "diziid": "cille",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/51/suban"
+    },
+    {
+      "season": 13,
+      "episode": 52,
+      "title": "AyrÄ±lÄ±k",
+      "diziid": "cille",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/52/ayrilik"
+    },
+    {
+      "season": 1,
+      "episode": 53,
+      "title": "Yeni Bir Macera",
+      "diziid": "cille",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/53/yeni_bir_macera"
+    },
+    {
+      "season": 2,
+      "episode": 54,
+      "title": "KÃ¼Ã§Ã¼k Vadi",
+      "diziid": "cille",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/54/kucuk_vadi"
+    },
+    {
+      "season": 3,
+      "episode": 55,
+      "title": "Yeni Oyun",
+      "diziid": "cille",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/55/yeni_oyun"
+    },
+    {
+      "season": 4,
+      "episode": 56,
+      "title": "Yeni Bir Dost",
+      "diziid": "cille",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/56/yeni_bir_dost"
+    },
+    {
+      "season": 5,
+      "episode": 57,
+      "title": "KralÄ±n DÃ¶nÃ¼ÅŸÃ¼",
+      "diziid": "cille",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/57/kralin_donusu"
+    },
+    {
+      "season": 6,
+      "episode": 58,
+      "title": "Raz",
+      "diziid": "cille",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/58/raz"
+    },
+    {
+      "season": 7,
+      "episode": 59,
+      "title": "Bedlika",
+      "diziid": "cille",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/59/bedlika"
+    },
+    {
+      "season": 8,
+      "episode": 60,
+      "title": "Bazu Etkisi",
+      "diziid": "cille",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/60/bazu_etkisi"
+    },
+    {
+      "season": 9,
+      "episode": 61,
+      "title": "HaksÄ±z Rekabet",
+      "diziid": "cille",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/61/haksiz_rekabet"
+    },
+    {
+      "season": 10,
+      "episode": 62,
+      "title": "Betra",
+      "diziid": "cille",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/62/betra"
+    },
+    {
+      "season": 11,
+      "episode": 63,
+      "title": "Talu",
+      "diziid": "cille",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/63/talu"
+    },
+    {
+      "season": 12,
+      "episode": 64,
+      "title": "Betra'nÄ±n Oyunu",
+      "diziid": "cille",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/64/betranin_oyunu"
+    },
+    {
+      "season": 13,
+      "episode": 65,
+      "title": "GÃ¼Ã§, Bilgelik ve Cesaret 1.KÄ±sÄ±m",
+      "diziid": "cille",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/65/guc%2C_bilgelik_ve_cesaret_1.kisim"
+    },
+    {
+      "season": 14,
+      "episode": 66,
+      "title": "GÃ¼Ã§, Bilgelik ve Cesaret 2.KÄ±sÄ±m",
+      "diziid": "cille",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/cille/cille/66/guc%2C_bilgelik_ve_cesaret_2.kisim"
+    }
+  ]
+}

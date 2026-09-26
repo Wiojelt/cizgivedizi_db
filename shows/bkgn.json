@@ -1,0 +1,429 @@
+{
+  "id": "bkgn",
+  "title": "bakugan",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/BKGNPoster.avif",
+  "channel": "TNT",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "BAKUGAN THE BATTLE BEGINS",
+      "diziid": "bkgn",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/1/mucadele_basliyor"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Masquerade Ball",
+      "diziid": "bkgn",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/2/masquerade_topu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "A Feud Between Friends",
+      "diziid": "bkgn",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/3/arkadaslar_arasinda_anlasmazlik"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Dan and Drago",
+      "diziid": "bkgn",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/4/dan_ve_drago"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Runo Rules",
+      "diziid": "bkgn",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/5/runonun_kurallari"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "A Combination Battle",
+      "diziid": "bkgn",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/6/ikili_mac"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Bakugan Idol",
+      "diziid": "bkgn",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/7/bakugan_idolu"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Girls Just Wanna Have Fun",
+      "diziid": "bkgn",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/8/kizlar_sadece_eglenmek_ister"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Fight or Flight",
+      "diziid": "bkgn",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/9/mac_mi_ucus_mu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "A Perfect Match",
+      "diziid": "bkgn",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/10/mukemmel_bir_mac"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Grandpa's Got a Brand New Bakugan",
+      "diziid": "bkgn",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/11/buyukbaba_yeni_bir_bakugan_aldi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Bakugan Stall",
+      "diziid": "bkgn",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/12/bakugan_durusu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Just For The Shun Of It",
+      "diziid": "bkgn",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/13/sadece_shun_icin"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Story of Vestroia",
+      "diziid": "bkgn",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/14/vestroianin_hikayesi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Duel in the Desert",
+      "diziid": "bkgn",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/15/colde_mac"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "No Guts No Glory",
+      "diziid": "bkgn",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/16/cesaret_yoksa_zafer_de_yok"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "BFF Best Friends Forever",
+      "diziid": "bkgn",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/17/sonsuza_dek_en_iyi_arkadas"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Evolution Revolution",
+      "diziid": "bkgn",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/18/evrim_devrim"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Julie Plays \"Hard Brawl\"",
+      "diziid": "bkgn",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/19/julie_mac_yapiyor"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "A Little Help from my Friends",
+      "diziid": "bkgn",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/20/dostlarimin_yardimiyla"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "My Good Friend",
+      "diziid": "bkgn",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/21/iyi_dostum"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Drago's On Fire",
+      "diziid": "bkgn",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/22/drago_ates_gibi_yakiyor"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Say It Ain't So Joe",
+      "diziid": "bkgn",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/23/oyle_olmadigini_soyle_joe"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Secret of Success",
+      "diziid": "bkgn",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/24/basarinin_sirri"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Trust Me",
+      "diziid": "bkgn",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/25/bana_guven"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Doom Dimension or Bust",
+      "diziid": "bkgn",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/26/kader_boyutu_mu_degil_mi"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Show Down",
+      "diziid": "bkgn",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/27/hesaplasma"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "The Brawler's Last Stand",
+      "diziid": "bkgn",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/28/savascilarin_son_durusu"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Nightmare in Doomsville",
+      "diziid": "bkgn",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/29/kader_boyutunda_kabus"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "I am Marucho, Hear Me Roar",
+      "diziid": "bkgn",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/30/ben_marucho%2C_kukrememi_duyun"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "A Place Far From Home",
+      "diziid": "bkgn",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/31/evden_cok_uzakta"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Play Nice Runo",
+      "diziid": "bkgn",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/32/iyi_oyna_runo"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "You're Going Down Clown",
+      "diziid": "bkgn",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/33/isin_bitti_palyaco"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Home Sweet Home",
+      "diziid": "bkgn",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/34/evim_guzel_evim"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Dan's Last Stand",
+      "diziid": "bkgn",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/35/danin_son_durusu"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Show Me What You've Got",
+      "diziid": "bkgn",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/36/ne_kadar_iyi_oldugunu_goster"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "You Say You Want An Evolution",
+      "diziid": "bkgn",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/37/donusmek_mi_istiyorsun"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Behind the Mask of Masquerade",
+      "diziid": "bkgn",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/38/masqueradein_maskesi_dusuyor"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Masquerade Unmasked",
+      "diziid": "bkgn",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/39/maskesiz_masquerade"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Alice Gets Schooled",
+      "diziid": "bkgn",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/40/alice_egitim_aliyor"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "A Fish Called Tayghen",
+      "diziid": "bkgn",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/41/tayghen_adinda_bir_balik"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Next Stop Naga-Ville",
+      "diziid": "bkgn",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/42/bir_sonraki_durak_naganin_dunyasi"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "The Race to Vestroia",
+      "diziid": "bkgn",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/43/vestroiaya_yaris"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "It's A Long Shot",
+      "diziid": "bkgn",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/44/uzun_bir_yol"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Ground Control to Major Dan",
+      "diziid": "bkgn",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/45/dunyadan_dana"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "The One Hit Wonders",
+      "diziid": "bkgn",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/46/tek_vurusluk_mucizeler"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Here's Mud In Your Eye",
+      "diziid": "bkgn",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/47/gozune_camur_mu_kacti"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "R Is For Revenge",
+      "diziid": "bkgn",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/48/intikam_zamani"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Showdown in Wardington",
+      "diziid": "bkgn",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/49/wardingtonda_gosteri"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "The Good, The Bad & The Bakugan",
+      "diziid": "bkgn",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/50/iyi%2C_kotu_ve_bakugan"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "The Final Brawl",
+      "diziid": "bkgn",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/51/son_savas"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "GAME OVER",
+      "diziid": "bkgn",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/bkgn/bakugan/52/oyun_bitti"
+    }
+  ]
+}

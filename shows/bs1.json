@@ -1,0 +1,421 @@
+{
+  "id": "bs1",
+  "title": "beyblade",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/BS1Poster.avif",
+  "channel": "Star TV",
+  "genres": [
+    "Aksiyon",
+    "Spor"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Blade Raider",
+      "diziid": "bs1",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/1/3%2C2%2C1_ates%21"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Day of the Dragoon",
+      "diziid": "bs1",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/2/dragoonun_dogusu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Take It to the Max!",
+      "diziid": "bs1",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/3/max_ile_tanisma"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Qualifier Begins",
+      "diziid": "bs1",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/4/buyuk_turnuva_basliyor%21"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Draciel of Approval",
+      "diziid": "bs1",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/5/buyuk_karsilasma%21_max_kaia_karsi%21"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Dragoon Storm",
+      "diziid": "bs1",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/6/dragoonun_firtinasi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Thirteen Candles",
+      "diziid": "bs1",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/7/beklenen_karsilasma%21_takao%2C_kaie_karsi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Bladin' in the Streets",
+      "diziid": "bs1",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/8/sokaklardaki_beybladeler"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Showdown in Hong Kong",
+      "diziid": "bs1",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/9/hong_kongdaki_guc_gosterisi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Battle in the Sky",
+      "diziid": "bs1",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/10/asya_turnuvasi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Bye Bye Bit Beast",
+      "diziid": "bs1",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/11/rei_beyaz_kaplani_kaybeder"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Adios Bladebreakers",
+      "diziid": "bs1",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/12/hosca_kal%2C_japon_takimi%21"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Crouching Lion, Hidden Tiger",
+      "diziid": "bs1",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/13/kukre%21_beyaz_kaplan%21"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Race Is On!",
+      "diziid": "bs1",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/14/japon_takimi_bolunuyor"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Going for the Gold",
+      "diziid": "bs1",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/15/asya_zirvesi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "My Enemy, My Friend",
+      "diziid": "bs1",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/16/beyaz_kaplan_yaban_kedisine_karsi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "A Score to Settle",
+      "diziid": "bs1",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/17/final_maci%21_kara_simsek%21"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "A Star Is Born",
+      "diziid": "bs1",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/18/kucuk_beyblade_oyuncusu"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Under the Microscope",
+      "diziid": "bs1",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/19/yeni_yarisma_yeri"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "It's All Relative",
+      "diziid": "bs1",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/20/guclu_amerikan_takimi%21"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Practice Makes Perfect",
+      "diziid": "bs1",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/21/gizemli_gucun_pesinde"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Blading with the Stars!",
+      "diziid": "bs1",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/22/amerikan_takimi_dunya_takimlarina_karsi%21"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Showdown in Vegas",
+      "diziid": "bs1",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/23/amerika_turnuvasi"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Viva Las Vegas",
+      "diziid": "bs1",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/24/amerikanin_kahramani_michealin_gucu%21"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "My Way or the Highway",
+      "diziid": "bs1",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/25/yari_final"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Catch a Shooting All-Star",
+      "diziid": "bs1",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/26/final_kosusu"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "The Battle of America",
+      "diziid": "bs1",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/27/alev_sacan_akrep%21%21"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Bottom of the Ninth",
+      "diziid": "bs1",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/28/son_carpisma"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Play It Again, Dizzi!",
+      "diziid": "bs1",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/29/bba_karsilasma_kayitlari"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Cruising for a Bruising",
+      "diziid": "bs1",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/30/kutsal_canavarli_kisi"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "London Calling",
+      "diziid": "bs1",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/31/avrupa_ruzgari"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Darkness at the End of the Tunnel...",
+      "diziid": "bs1",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/32/kara_golge_grubu%21"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Last Tangle in Paris",
+      "diziid": "bs1",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/33/who_takimi"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Art Attack",
+      "diziid": "bs1",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/34/muhtesem_kutsal_canavar_elcisi"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "When in Rome... Beyblade!",
+      "diziid": "bs1",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/35/karsilasma%21"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "DÃ©jÃ  Vu All Over Again",
+      "diziid": "bs1",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/36/kolezyumda_karsilasma"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "A Knight to Remember!",
+      "diziid": "bs1",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/37/kralicenin_beybladei"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Olympia Challenge",
+      "diziid": "bs1",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/38/en_guclu_avrupa_takimi"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "A Majestic Battle... A Majestic Victory?",
+      "diziid": "bs1",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/39/antik_sehirdeki_karar_maci"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Hot Battle in a Cold Town",
+      "diziid": "bs1",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/40/rusya%2C_karar_macinin_yeri"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Out of the Past",
+      "diziid": "bs1",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/41/ugursuz_hatirlanan_kapi"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Drawn to the Darkness",
+      "diziid": "bs1",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/42/savasci_olmak_isteyen_cocuk"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Live and Let Kai!",
+      "diziid": "bs1",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/43/kabus_gibi_toren_maci"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Losing Kai",
+      "diziid": "bs1",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/44/hosca_kal_kai%21"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Breaking the Ice",
+      "diziid": "bs1",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/45/baykal_golu_maci"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "First Strike",
+      "diziid": "bs1",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/46/rus_takiminin_saldirisi%21"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "A Lesson for Tyson",
+      "diziid": "bs1",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/47/buzda_karsilasma"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Victory in Defeat",
+      "diziid": "bs1",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/48/kainin_secimi"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "A Wicked Wind Blows",
+      "diziid": "bs1",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/49/beyaz_kaplan_byakkonun_kukremesi"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "New and Cyber-Improved...",
+      "diziid": "bs1",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/50/karda_kiyamet"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Final Showdown!",
+      "diziid": "bs1",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/bs1/beyblade/51/sonsuza_dek_beyblade%21"
+    }
+  ]
+}

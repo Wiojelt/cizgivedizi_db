@@ -1,0 +1,821 @@
+{
+  "id": "bunn",
+  "title": "bunnicula",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BUNNPoster.avif",
+  "channel": "[HBO] Max",
+  "genres": [
+    "Komedi",
+    "Korku"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Mumkey Business",
+      "diziid": "bunn",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/1/maymun_sorunu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Walking Fish",
+      "diziid": "bunn",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/2/yuruyen_balik"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Spider Lamb",
+      "diziid": "bunn",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/3/orumcek_kuzu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Alligator Tears",
+      "diziid": "bunn",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/4/timsah_gozyaslari"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Muddy Harry",
+      "diziid": "bunn",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/5/camurlu_harry"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Garlicked",
+      "diziid": "bunn",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/6/sarimsaklanmak"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Whooo Is... The Knight Owl",
+      "diziid": "bunn",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/7/kimmis_sovalye_baykus"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "title": "Son of Bunnicula",
+      "diziid": "bunn",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/9/bunniculanin_oglu"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "Evil Cat Videos",
+      "diziid": "bunn",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/10/kotu_kedi_videolari"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "Chester's Shop of Horrors",
+      "diziid": "bunn",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/11/chesterin_korku_dukkani"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "Curse of the Weredude",
+      "diziid": "bunn",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/12/kurt_adamin_kotulugu"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "Bride of Bunnicula",
+      "diziid": "bunn",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/13/bunniculanin_gelini"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "Nevermoar",
+      "diziid": "bunn",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/14/bir_daha_asla"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "Vampire Rabbit Season",
+      "diziid": "bunn",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/15/vampir_tavsan_mevsimi"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Hole of the Unworthy",
+      "diziid": "bunn",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/16/degersizler_cukuru"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "Adopt a Vampire",
+      "diziid": "bunn",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/17/bir_vampir_sahiplen"
+    },
+    {
+      "season": 19,
+      "episode": 17,
+      "title": "Lucky Vampire's Foot",
+      "diziid": "bunn",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/19/vampirin_sansli_ayagi"
+    },
+    {
+      "season": 20,
+      "episode": 18,
+      "title": "Ghost Chef",
+      "diziid": "bunn",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/20/hayalet_sef"
+    },
+    {
+      "season": 21,
+      "episode": 19,
+      "title": "Catula",
+      "diziid": "bunn",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/21/catula"
+    },
+    {
+      "season": 22,
+      "episode": 20,
+      "title": "Dreamcatcher",
+      "diziid": "bunn",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/22/ruya_kapani"
+    },
+    {
+      "season": 23,
+      "episode": 21,
+      "title": "Ghost Pepper",
+      "diziid": "bunn",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/23/hayalet_biber"
+    },
+    {
+      "season": 24,
+      "episode": 22,
+      "title": "Dating for Dummies",
+      "diziid": "bunn",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/24/kuklalar_icin_bulusma"
+    },
+    {
+      "season": 25,
+      "episode": 23,
+      "title": "Sunday Bunday",
+      "diziid": "bunn",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/25/pazar_gunu_tavsan_gunu"
+    },
+    {
+      "season": 26,
+      "episode": 24,
+      "title": "Scaraoke",
+      "diziid": "bunn",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/26/korkunc_karaoke"
+    },
+    {
+      "season": 27,
+      "episode": 25,
+      "title": "Bearshee",
+      "diziid": "bunn",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/27/bearshee"
+    },
+    {
+      "season": 28,
+      "episode": 26,
+      "title": "Beware Apartment 13!",
+      "diziid": "bunn",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/28/13_numarali_daireden_uzak_durun"
+    },
+    {
+      "season": 29,
+      "episode": 27,
+      "title": "Puzzle Madness",
+      "diziid": "bunn",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/29/bulmaca_cilginligi"
+    },
+    {
+      "season": 30,
+      "episode": 28,
+      "title": "Return of the Curse of the Weredude",
+      "diziid": "bunn",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/30/kurt_adamin_kotulugunun_donusu"
+    },
+    {
+      "season": 31,
+      "episode": 29,
+      "title": "Collar Me Crazy",
+      "diziid": "bunn",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/31/tasmala_beni"
+    },
+    {
+      "season": 32,
+      "episode": 30,
+      "title": "Calendar Boys",
+      "diziid": "bunn",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/32/takvim_cocuklari"
+    },
+    {
+      "season": 33,
+      "episode": 31,
+      "title": "Brussel Boy",
+      "diziid": "bunn",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/33/bruksel_cocuk"
+    },
+    {
+      "season": 34,
+      "episode": 32,
+      "title": "Vampire Tick",
+      "diziid": "bunn",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/34/vampir_kene"
+    },
+    {
+      "season": 35,
+      "episode": 33,
+      "title": "Chestaroldcula",
+      "diziid": "bunn",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/35/chestroldcula"
+    },
+    {
+      "season": 36,
+      "episode": 34,
+      "title": "Never Been Scared",
+      "diziid": "bunn",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/36/hic_korkmadim"
+    },
+    {
+      "season": 37,
+      "episode": 35,
+      "title": "Family Portrait",
+      "diziid": "bunn",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/37/aile_portresi"
+    },
+    {
+      "season": 38,
+      "episode": 36,
+      "title": "My Imaginary Fiend",
+      "diziid": "bunn",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/38/hayali_arkadasim"
+    },
+    {
+      "season": 39,
+      "episode": 37,
+      "title": "The Juicy Problem",
+      "diziid": "bunn",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/39/sulu_sorun"
+    },
+    {
+      "season": 1,
+      "episode": 38,
+      "title": "The Invisible Yam",
+      "diziid": "bunn",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/41/gorunmez_olmus"
+    },
+    {
+      "season": 2,
+      "episode": 39,
+      "title": "Indistinguishable from magic",
+      "diziid": "bunn",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/42/sihirden_farksiz"
+    },
+    {
+      "season": 3,
+      "episode": 40,
+      "title": "Pranks for the Memories",
+      "diziid": "bunn",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/43/unutulmaz_sakalar"
+    },
+    {
+      "season": 4,
+      "episode": 41,
+      "title": "Revenge of the Return of the Curse of the Weredude",
+      "diziid": "bunn",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/44/kedi_adamin_kotulugunun_donusunun_intikami"
+    },
+    {
+      "season": 5,
+      "episode": 42,
+      "title": "On Mina's Secret Service",
+      "diziid": "bunn",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/45/minanin_gizli_rehber_kopegi"
+    },
+    {
+      "season": 6,
+      "episode": 43,
+      "title": "Cellarmander",
+      "diziid": "bunn",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/46/kiler_baligi"
+    },
+    {
+      "season": 7,
+      "episode": 44,
+      "title": "The Eyes Have It",
+      "diziid": "bunn",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/47/gozler_her_seyi_gorur"
+    },
+    {
+      "season": 8,
+      "episode": 45,
+      "title": "Chips and Salsa",
+      "diziid": "bunn",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/48/cips_ve_salsa"
+    },
+    {
+      "season": 9,
+      "episode": 46,
+      "title": "Mark of the Mandrake",
+      "diziid": "bunn",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/49/adam_kotuluk_gucu"
+    },
+    {
+      "season": 10,
+      "episode": 47,
+      "title": "Down the Rabbit Hole",
+      "diziid": "bunn",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/50/tavsan_deliginde"
+    },
+    {
+      "season": 11,
+      "episode": 48,
+      "title": "Cat Burgled",
+      "diziid": "bunn",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/51/kayip_kediler"
+    },
+    {
+      "season": 12,
+      "episode": 49,
+      "title": "Goat Story",
+      "diziid": "bunn",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/52/keci_hikayesi"
+    },
+    {
+      "season": 13,
+      "episode": 50,
+      "title": "Three Heads Are Better Than One",
+      "diziid": "bunn",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/53/uc_kafa_bir_kafadan_iyidir"
+    },
+    {
+      "season": 14,
+      "episode": 51,
+      "title": "Scott Free",
+      "diziid": "bunn",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/54/ucuz_atlattik"
+    },
+    {
+      "season": 15,
+      "episode": 52,
+      "title": "Area 50 Bunn",
+      "diziid": "bunn",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/55/ajan_bunnicula"
+    },
+    {
+      "season": 16,
+      "episode": 53,
+      "title": "Legend of the Lucky Locket",
+      "diziid": "bunn",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/56/sansli_madalyon_efsanesi"
+    },
+    {
+      "season": 17,
+      "episode": 54,
+      "title": "Lord of the Lucky Locket",
+      "diziid": "bunn",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/57/sansli_madalyon_lordu"
+    },
+    {
+      "season": 18,
+      "episode": 55,
+      "title": "Cat-aclysm",
+      "diziid": "bunn",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/58/zencefil_adam"
+    },
+    {
+      "season": 19,
+      "episode": 56,
+      "title": "Harold the Vampire Pointer",
+      "diziid": "bunn",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/59/vampir_fluffy"
+    },
+    {
+      "season": 20,
+      "episode": 57,
+      "title": "Bunn on a Plane",
+      "diziid": "bunn",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/60/tavsan_ucakta"
+    },
+    {
+      "season": 21,
+      "episode": 58,
+      "title": "Jurassicnicula",
+      "diziid": "bunn",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/61/jurassicnicula"
+    },
+    {
+      "season": 22,
+      "episode": 59,
+      "title": "The Chocolate Vampire Bunny",
+      "diziid": "bunn",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/62/cikolata_vampir_tavsan"
+    },
+    {
+      "season": 23,
+      "episode": 60,
+      "title": "Blueberry Blues",
+      "diziid": "bunn",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/63/kedi_felaketi"
+    },
+    {
+      "season": 24,
+      "episode": 61,
+      "title": "Bunn Vs.",
+      "diziid": "bunn",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/64/bunnicula%E2%80%99ya_karsi"
+    },
+    {
+      "season": 25,
+      "episode": 62,
+      "title": "Bunzilla",
+      "diziid": "bunn",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/65/bunnzilla"
+    },
+    {
+      "season": 26,
+      "episode": 63,
+      "title": "Bunnicumoji",
+      "diziid": "bunn",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/66/bunnicumoji"
+    },
+    {
+      "season": 27,
+      "episode": 64,
+      "title": "The Curiosity Shop Killed the Cat",
+      "diziid": "bunn",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/67/merak_kediyi_oldurdu"
+    },
+    {
+      "season": 28,
+      "episode": 65,
+      "title": "Beach Blanket Bunn",
+      "diziid": "bunn",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/68/sahil_battaniyesi"
+    },
+    {
+      "season": 29,
+      "episode": 66,
+      "title": "Bunderworld",
+      "diziid": "bunn",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/69/bunderworld"
+    },
+    {
+      "season": 30,
+      "episode": 67,
+      "title": "Bunn in Space",
+      "diziid": "bunn",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/70/uzaydaki_tavsan"
+    },
+    {
+      "season": 31,
+      "episode": 68,
+      "title": "Orlockdown",
+      "diziid": "bunn",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/71/orlockdown"
+    },
+    {
+      "season": 32,
+      "episode": 69,
+      "title": "Prism Prison",
+      "diziid": "bunn",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/72/prizma_hapishanesi"
+    },
+    {
+      "season": 33,
+      "episode": 70,
+      "title": "The Fruit Fly",
+      "diziid": "bunn",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/73/ucan_meyve"
+    },
+    {
+      "season": 34,
+      "episode": 71,
+      "title": "Lafitteâ€™s Lucky Locket",
+      "diziid": "bunn",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/74/lafitte_sansli_madalyon"
+    },
+    {
+      "season": 35,
+      "episode": 72,
+      "title": "Queen Wicked, the Wicked Queen",
+      "diziid": "bunn",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/75/kotu_kralice%2C_kotu_cadi"
+    },
+    {
+      "season": 36,
+      "episode": 73,
+      "title": "Yellow Bellied Sound Sucker",
+      "diziid": "bunn",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/76/sari_gobekli_ses_emici"
+    },
+    {
+      "season": 37,
+      "episode": 74,
+      "title": "How The West Was Bunn",
+      "diziid": "bunn",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/77/bati_nasildi_bunn"
+    },
+    {
+      "season": 38,
+      "episode": 75,
+      "title": "A Dark and Stormy Night",
+      "diziid": "bunn",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/78/karanlik_ve_firtinali_gece"
+    },
+    {
+      "season": 39,
+      "episode": 76,
+      "title": "Blueberry Blues",
+      "diziid": "bunn",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/79/uzgun_mavi_bunnicula"
+    },
+    {
+      "season": 40,
+      "episode": 77,
+      "title": "Iron Bunn",
+      "diziid": "bunn",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/80/demir_tavsan"
+    },
+    {
+      "season": 1,
+      "episode": 78,
+      "title": "Mastering the Genie",
+      "diziid": "bunn",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/81/sihirde_ustalasmak"
+    },
+    {
+      "season": 2,
+      "episode": 79,
+      "title": "Hare Club",
+      "diziid": "bunn",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/82/sac_kulubu"
+    },
+    {
+      "season": 3,
+      "episode": 80,
+      "title": "The Maltese Bunny",
+      "diziid": "bunn",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/83/malta_tavsani"
+    },
+    {
+      "season": 4,
+      "episode": 81,
+      "title": "Termites!",
+      "diziid": "bunn",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/84/termitler%21"
+    },
+    {
+      "season": 5,
+      "episode": 82,
+      "title": "Clone-icula",
+      "diziid": "bunn",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/85/klon-ikula"
+    },
+    {
+      "season": 6,
+      "episode": 83,
+      "title": "Hiccup in Smoke",
+      "diziid": "bunn",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/86/hickirik"
+    },
+    {
+      "season": 7,
+      "episode": 84,
+      "title": "Purr-gatory",
+      "diziid": "bunn",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/87/eziyet"
+    },
+    {
+      "season": 8,
+      "episode": 85,
+      "title": "Take the Bunny and Run",
+      "diziid": "bunn",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/88/tavsani_al_ve_kac"
+    },
+    {
+      "season": 9,
+      "episode": 86,
+      "title": "Any Witch Way",
+      "diziid": "bunn",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/89/bir_tur_cadi"
+    },
+    {
+      "season": 10,
+      "episode": 87,
+      "title": "Up to Our Ears",
+      "diziid": "bunn",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/90/kayip_kulaklar"
+    },
+    {
+      "season": 11,
+      "episode": 88,
+      "title": "Flunicula",
+      "diziid": "bunn",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/91/bunnicula_hasta"
+    },
+    {
+      "season": 12,
+      "episode": 89,
+      "title": "So Campy",
+      "diziid": "bunn",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/92/kamp_havasi"
+    },
+    {
+      "season": 13,
+      "episode": 90,
+      "title": "Wag the Dog",
+      "diziid": "bunn",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/93/akilli_kuyruk"
+    },
+    {
+      "season": 14,
+      "episode": 91,
+      "title": "Back in Thyme",
+      "diziid": "bunn",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/94/sanssiz_gun"
+    },
+    {
+      "season": 15,
+      "episode": 92,
+      "title": "Hat-Cat",
+      "diziid": "bunn",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/95/sapkali_kedi"
+    },
+    {
+      "season": 16,
+      "episode": 93,
+      "title": "Popper Master",
+      "diziid": "bunn",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/96/sihirli_kuklalar"
+    },
+    {
+      "season": 17,
+      "episode": 94,
+      "title": "The Party Animal",
+      "diziid": "bunn",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/97/parti_hayvani"
+    },
+    {
+      "season": 18,
+      "episode": 95,
+      "title": "Good Luck Cricket",
+      "diziid": "bunn",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/98/sansli_cekirge"
+    },
+    {
+      "season": 19,
+      "episode": 96,
+      "title": "Monster-Con",
+      "diziid": "bunn",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/99/canavar-con"
+    },
+    {
+      "season": 20,
+      "episode": 97,
+      "title": "Skin Deep",
+      "diziid": "bunn",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/100/derin_deri"
+    },
+    {
+      "season": 21,
+      "episode": 98,
+      "title": "The Thingy",
+      "diziid": "bunn",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/101/o_sey"
+    },
+    {
+      "season": 22,
+      "episode": 99,
+      "title": "A Vampire at the Vet",
+      "diziid": "bunn",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/102/veterinerde_bir_vampir"
+    },
+    {
+      "season": 23,
+      "episode": 100,
+      "title": "Road Tripped",
+      "diziid": "bunn",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/103/yolculuk"
+    },
+    {
+      "season": 24,
+      "episode": 101,
+      "title": "Oh Brother!",
+      "diziid": "bunn",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/bunn/bunnicula/104/kardesim"
+    }
+  ]
+}

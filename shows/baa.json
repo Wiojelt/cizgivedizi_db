@@ -1,0 +1,429 @@
+{
+  "id": "baa",
+  "title": "bakugan: armored alliance",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/BAAPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Mysterious Boy / A New Power",
+      "diziid": "baa",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/1/esrarengiz_cocuk__yeni_bir_guc"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Baku-Gear / Bakugan Rock!",
+      "diziid": "baa",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/2/baku-kostumu__bakugan_ve_rock%21"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Brawler Headhunting / Lightning's Entrance Exam",
+      "diziid": "baa",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/3/savasci_avi__simsekin_giris_sinavi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Trouble Busters! / French Fry Wars",
+      "diziid": "baa",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/4/sorun_avcilari%21__kizarmis_patates_savaslari"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Phantom Thief Comes to Call / Phantom Thief Ajit",
+      "diziid": "baa",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/5/hayalet_soyguncusunun_cagrisi__hayalet_soyguncu_ajit"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Lady and the Queen / The AB's Silver Screen Debut",
+      "diziid": "baa",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/6/leydi_ve_kralice__muthis_savascilarin_beyaz_perdeye_cikisi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Nice to Meet You, Bakugan! / Magnus",
+      "diziid": "baa",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/7/memnun_oldum%2C_bakugan%21__magnus"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Bakugan Battle League / The Ancient Elder",
+      "diziid": "baa",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/8/bakugan_savasi_ligi__antik_yasli"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Bakugan Wynton / The Boy from Brazil",
+      "diziid": "baa",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/9/bakugan_wynton__brezilyali_cocuk"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Haunted House / Two of a Kind",
+      "diziid": "baa",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/10/perili_ev__turunun_iki_ornegi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Magnus P.I., Part 1 / Magnus P.I., Part 2",
+      "diziid": "baa",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/11/dedektif_magnus"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Awesome Brawlers Training Camp Part 1 / Awesome Brawlers Training Camp Part 2",
+      "diziid": "baa",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/12/muthis_savascilar_egitim_kampinda"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Bakugan Battle League Begins / Riot vs. Ajit",
+      "diziid": "baa",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/13/bakugan_savas_ligi_basliyor__riot_ajite_karsi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Kung Fu Master / A Battle of Popularity",
+      "diziid": "baa",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/14/kung_fu_ustasi__populerlik_savasi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Mysterious Revenger / Wynton Vs. Lia",
+      "diziid": "baa",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/15/esrarengiz_revenger__wynton_liaya_karsi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Best Friend / Thief and Brawler",
+      "diziid": "baa",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/16/en_iyi_dost__soyguncu_ve_savasci"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Final Battle! Dan Vs. Ajit / Secrets Exposed",
+      "diziid": "baa",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/17/son_savas%21_dan_ajite_karsi__ortaya_dokulen_sirlar"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Here Comes Haavik / The Fusion Bakugan Arrive",
+      "diziid": "baa",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/18/haavik_geliyor__bakugan_birlesmesi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Director / Queen Ebony",
+      "diziid": "baa",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/19/yonetmen__kralice_ebony"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Sophie, the Bakuganist / Midnight Train Battle!",
+      "diziid": "baa",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/20/bakuganci_sophie__gece_yarisi_treni_savasi%21"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Dangerous Dealings / The Hunter Returns",
+      "diziid": "baa",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/21/tehlikeli_anlasmalar__avcinin_donusu"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Farewell, Phantom Thief, Part 1 / Farewell, Phantom Thief, Part 2",
+      "diziid": "baa",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/22/elveda%2C_hayalet_hirsiz"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "The Awesome Brawlers and Haavik / First Fusion! Drago and Tretorous",
+      "diziid": "baa",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/23/muthis_savascilar_ve_haavik__ilk_birlesme%21_drago_ve_tretorous"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Puppet Awesome Brawlers / The Return of Sophie",
+      "diziid": "baa",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/24/muthis_kukla_savascilar__sophienin_donusu"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Wynton's Reality Show / Bakugan Soccer",
+      "diziid": "baa",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/25/wyntonin_realite_sovu__bakugan_futbolu"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Shun and Lightning / Premonition of A Storm",
+      "diziid": "baa",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/26/shun_ve_simsek__firtina_sezgisi"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Superstar Dan / Awesome Brawlers on Vacation",
+      "diziid": "baa",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/27/superstar_dan__muthis_savascilar_tatilde"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Bakugan Battle League, Tokyo Edition / Battle Royal",
+      "diziid": "baa",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/28/bakugan_savas_ligi%2C_tokyo_ayagi__buyuk_savas"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "The Second Stage Begins / Mechanoids Attack!",
+      "diziid": "baa",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/29/ikinci_tur_basliyor__mekanoidler_saldiriyor%21"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "The Other Fight, Part 1 / The Other Fight, Part 2",
+      "diziid": "baa",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/30/diger_savas"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "The Bakugan Battle League Dash / The Final Stage",
+      "diziid": "baa",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/31/bakugan_savas_liginde_darbe__final_turu"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "The Tokyo Catastrophe / Bakugan Battle League Finale",
+      "diziid": "baa",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/32/tokyo_felaketi__bakugan_savas_ligi_finali"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Champion of the Universe, Dan! / Operation Babysitter",
+      "diziid": "baa",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/33/evrenin_sampiyonu%2C_dan%21__bebek_bakiciligi_operasyonu"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Bestie Team Battle / Ajit and Lia",
+      "diziid": "baa",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/34/en_iyi_arkadaslar_savasta__ajit_ve_lia"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Once More into the Maze / Grandpas in the Wild",
+      "diziid": "baa",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/35/labirente_donus__buyukbabalar_yabanda"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "The Past Revealed / Run! A Storm's on the Way",
+      "diziid": "baa",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/36/gecmis_ortaya_cikiyor__kacin%21_storm_geliyor"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Golden Bakugan Encounter / Ties of Gold",
+      "diziid": "baa",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/37/altin_bakugan__altin_baglar"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Nightmare / Bad Dan",
+      "diziid": "baa",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/38/kabus__kotu_dan"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Dusk Industries Under Attack / Taking Dan Back",
+      "diziid": "baa",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/39/dusk_endustri_saldiri_altinda__dani_geri_alma"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Who's the Fake?! / Trouble Busters! 2",
+      "diziid": "baa",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/40/kimmis_sahte%21__bela_avcilari_2%21"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Bakugan Battle Circus / Ebony Manor",
+      "diziid": "baa",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/41/bakugan_savas_sirki__ebony_manor"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Everett's Trap / Kazami Vs. Mc Q",
+      "diziid": "baa",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/42/everettin_tuzagi__kazami_mc_qya_karsi"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "The Awesome Burger Brawl / Master and Apprentice",
+      "diziid": "baa",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/43/muthis_bakugan_burger_savasi__usta_ve_cirak"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Bakugan Uproar / The Fusion Bakugan Sabrus",
+      "diziid": "baa",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/44/bakugan_isyani__birlesme_bakugani_sabrus"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Ancient Golden Bakugan Garillion / The Name of Infinity",
+      "diziid": "baa",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/45/kadim_altin_bakugan_garillion__sonsuzlugun_ismi"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "In the Darkness / Indecisive Emily",
+      "diziid": "baa",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/46/karanliga_dogru__kararsiz_emily"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "The Eclipse / Follow Haavik!",
+      "diziid": "baa",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/47/gunes_tutulmasi__haaviki_takip_et%21"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Tiko's Back?! / Arise, Ultimate Infinity!",
+      "diziid": "baa",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/48/tiko_dondu_mu%21__drago_sonsuzlukun_yukselisi"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "The AB Bakugan Battle League! Part 1 / The AB Bakugan Battle League! Part 2",
+      "diziid": "baa",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/49/ms_bakugan_savas_ligi%21"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Haavik's Challenge / Storm Haavik's Tower!",
+      "diziid": "baa",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/50/haavikin_duellosu__haavik_kulesi_istilasi"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Awesome Brawlers vs. Haavik / Their Fights",
+      "diziid": "baa",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/51/muthis_savascilar_haavike_karsi__onlarin_savasi"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Haavik's Final Show / Miracle Planet",
+      "diziid": "baa",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/baa/bakugan%3A_armored_alliance/52/haavikin_son_gosterisi__mucize_gezegen"
+    }
+  ]
+}

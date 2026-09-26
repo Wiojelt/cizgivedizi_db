@@ -1,0 +1,644 @@
+{
+  "id": "bossy",
+  "title": "ayÄ± bossy",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BOSSYPoster.avif",
+  "channel": "Nick Jr.",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Ultimate Hype Bear",
+      "diziid": "bossy",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/1/nihai_enerji_ayicigi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Chrysalis Crew",
+      "diziid": "bossy",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/2/koza_ekibi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Just Say No",
+      "diziid": "bossy",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/3/sadece_hayir_de"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Missing Falcon",
+      "diziid": "bossy",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/4/kayip_sahin"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Happy Bestie-Versary",
+      "diziid": "bossy",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/5/arkadaslik_yil_donumu_kutlu_olsun"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Tumminator",
+      "diziid": "bossy",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/6/tumminator"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Turtle Tour",
+      "diziid": "bossy",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/7/kaplumbaga_turu"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Honey Bear",
+      "diziid": "bossy",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/8/tatli_ayi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Science Pair",
+      "diziid": "bossy",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/9/bilim_cifti"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "Center of a Tension",
+      "diziid": "bossy",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/11/gerginlik_merkezi"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "Cart-tastrophe",
+      "diziid": "bossy",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/12/araba_felaketi"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "Turtle's Shell Day",
+      "diziid": "bossy",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/13/kaplumbaganin_kabuk_gunu"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "The Way of the Gran Gran",
+      "diziid": "bossy",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/14/buyukannenin_yolu"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "The Spring Kick-Off Games",
+      "diziid": "bossy",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/15/bahar_baslangic_oyunlari"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Show and Smell",
+      "diziid": "bossy",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/16/goster_ve_kokla"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "Don't Look Now",
+      "diziid": "bossy",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/17/simdi_bakma"
+    },
+    {
+      "season": 19,
+      "episode": 17,
+      "title": "Ultra Shell and Wonder Bear",
+      "diziid": "bossy",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/19/ultra_kabuk_ve_harika_ayi"
+    },
+    {
+      "season": 20,
+      "episode": 18,
+      "title": "You Ain't Seen Nothing Yeti",
+      "diziid": "bossy",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/20/bir_sey_gormedin_yeti"
+    },
+    {
+      "season": 21,
+      "episode": 19,
+      "title": "Powerless",
+      "diziid": "bossy",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/21/gucsuz"
+    },
+    {
+      "season": 22,
+      "episode": 20,
+      "title": "Spectacular Skating Spectacular",
+      "diziid": "bossy",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/22/muhtesem_muhtesem_paten_kayma"
+    },
+    {
+      "season": 23,
+      "episode": 21,
+      "title": "Gran-Gran Dreams of Japchae",
+      "diziid": "bossy",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/23/buyukanne_japchae_hayal_ediyor"
+    },
+    {
+      "season": 24,
+      "episode": 22,
+      "title": "Snow Party",
+      "diziid": "bossy",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/24/kar_partisi"
+    },
+    {
+      "season": 25,
+      "episode": 23,
+      "title": "New Squid On The Block",
+      "diziid": "bossy",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/25/mahalledeki_yeni_kalamar"
+    },
+    {
+      "season": 26,
+      "episode": 24,
+      "title": "Boss Bissy",
+      "diziid": "bossy",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/26/ayi_bissy"
+    },
+    {
+      "season": 27,
+      "episode": 25,
+      "title": "To BFF or Not to BFF",
+      "diziid": "bossy",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/27/en_iyi_arkadas_olmak_ya_da_olmamak"
+    },
+    {
+      "season": 28,
+      "episode": 26,
+      "title": "A New New Year",
+      "diziid": "bossy",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/28/yeni_bir_yil"
+    },
+    {
+      "season": 29,
+      "episode": 27,
+      "title": "Finders Keepers",
+      "diziid": "bossy",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/29/kim_bulduysa_onundur"
+    },
+    {
+      "season": 30,
+      "episode": 28,
+      "title": "Busy Buddies",
+      "diziid": "bossy",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/30/mesgul_arkadaslar"
+    },
+    {
+      "season": 32,
+      "episode": 29,
+      "title": "Roll With It",
+      "diziid": "bossy",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/32/ona_katlan"
+    },
+    {
+      "season": 33,
+      "episode": 30,
+      "title": "A Day Behind",
+      "diziid": "bossy",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/33/bir_gun_geride_kaldi"
+    },
+    {
+      "season": 34,
+      "episode": 31,
+      "title": "Space Invader",
+      "diziid": "bossy",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/34/uzay_istilacisi"
+    },
+    {
+      "season": 35,
+      "episode": 32,
+      "title": "Reindeer's Game",
+      "diziid": "bossy",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/35/ren_geyigi_oyunu"
+    },
+    {
+      "season": 36,
+      "episode": 33,
+      "title": "Short Kites",
+      "diziid": "bossy",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/36/kisa_ucurtmalar"
+    },
+    {
+      "season": 37,
+      "episode": 34,
+      "title": "Jelly Juggernaut",
+      "diziid": "bossy",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/37/marmelat_ezici"
+    },
+    {
+      "season": 38,
+      "episode": 35,
+      "title": "One Bear Show",
+      "diziid": "bossy",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/38/tek_ayilik_gosteri"
+    },
+    {
+      "season": 40,
+      "episode": 36,
+      "title": "Dad's Big Surprise",
+      "diziid": "bossy",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/40/babanin_buyuk_surprizi"
+    },
+    {
+      "season": 41,
+      "episode": 37,
+      "title": "Scout's Honor",
+      "diziid": "bossy",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/41/izci_onuru"
+    },
+    {
+      "season": 42,
+      "episode": 38,
+      "title": "The Magic Word",
+      "diziid": "bossy",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/42/sihirli_kelime"
+    },
+    {
+      "season": 44,
+      "episode": 39,
+      "title": "Game Plan",
+      "diziid": "bossy",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/44/oyun_plani"
+    },
+    {
+      "season": 45,
+      "episode": 40,
+      "title": "Hand Me Downer",
+      "diziid": "bossy",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/45/elden_dusme"
+    },
+    {
+      "season": 46,
+      "episode": 41,
+      "title": "Lil' Kimchi King and Kween",
+      "diziid": "bossy",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/46/kucuk_kimchi_krali_ve_kralicesi"
+    },
+    {
+      "season": 47,
+      "episode": 42,
+      "title": "Don't Go Miss Elky",
+      "diziid": "bossy",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/47/gitmeyin_bayan_elky"
+    },
+    {
+      "season": 48,
+      "episode": 43,
+      "title": "Doctor Chipper",
+      "diziid": "bossy",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/48/doktor_chipper"
+    },
+    {
+      "season": 49,
+      "episode": 44,
+      "title": "Birthdaze",
+      "diziid": "bossy",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/49/dogum_gunu_saskinligi"
+    },
+    {
+      "season": 50,
+      "episode": 45,
+      "title": "Monster Mess",
+      "diziid": "bossy",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/50/kalamar_oyunda"
+    },
+    {
+      "season": 51,
+      "episode": 46,
+      "title": "Fall Bestival",
+      "diziid": "bossy",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/51/sikintidan_patlamak"
+    },
+    {
+      "season": 52,
+      "episode": 47,
+      "title": "Nightmare on Sweet Street",
+      "diziid": "bossy",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/52/tatli_sokakta_kabus"
+    },
+    {
+      "season": 53,
+      "episode": 48,
+      "title": "Happy FroofenfroÂ¨oÂ¨gle!",
+      "diziid": "bossy",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/53/canavar_karmasasi"
+    },
+    {
+      "season": 54,
+      "episode": 49,
+      "title": "The Winter Gift Swap",
+      "diziid": "bossy",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/54/guz_en_iyi_festivali"
+    },
+    {
+      "season": 57,
+      "episode": 50,
+      "title": "Board to Tears",
+      "diziid": "bossy",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/57/kis_hediyesi_degis_tokusu"
+    },
+    {
+      "season": 58,
+      "episode": 51,
+      "title": "Pick and Chew",
+      "diziid": "bossy",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/58/sec_ve_cigne"
+    },
+    {
+      "season": 59,
+      "episode": 52,
+      "title": "Mr. Bossy & Mr. Turtle",
+      "diziid": "bossy",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/59/bay_bossy_ve_bay_kaplumbaga"
+    },
+    {
+      "season": 60,
+      "episode": 53,
+      "title": "Dance Like Everyone's Watching",
+      "diziid": "bossy",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/60/herkes_izliyormus_gibi_dans_et"
+    },
+    {
+      "season": 61,
+      "episode": 54,
+      "title": "A Card Days Night",
+      "diziid": "bossy",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/61/bir_kart_gununun_gecesi"
+    },
+    {
+      "season": 62,
+      "episode": 55,
+      "title": "Boom Boom Super Regret",
+      "diziid": "bossy",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/62/gum_gum_super_pismanlik"
+    },
+    {
+      "season": 63,
+      "episode": 56,
+      "title": "A Tight Squeeze",
+      "diziid": "bossy",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/63/sikica_sikmak"
+    },
+    {
+      "season": 64,
+      "episode": 57,
+      "title": "Battle of the Besties",
+      "diziid": "bossy",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/64/kankalarin_savasi"
+    },
+    {
+      "season": 65,
+      "episode": 58,
+      "title": "When Lemons Give You a Mess",
+      "diziid": "bossy",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/65/limonlar_ortaligi_karistirdiginda"
+    },
+    {
+      "season": 66,
+      "episode": 59,
+      "title": "Do the Kite Thing",
+      "diziid": "bossy",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/66/ucurtma_isini_yap"
+    },
+    {
+      "season": 70,
+      "episode": 60,
+      "title": "By the Book",
+      "diziid": "bossy",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/70/kitabina_gore"
+    },
+    {
+      "season": 71,
+      "episode": 61,
+      "title": "Antlerless",
+      "diziid": "bossy",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/71/boynuzsuz"
+    },
+    {
+      "season": 72,
+      "episode": 62,
+      "title": "If the Boot Doesn't Fit",
+      "diziid": "bossy",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/72/eger_boot_uyumuyorsa"
+    },
+    {
+      "season": 73,
+      "episode": 63,
+      "title": "The Clean Team",
+      "diziid": "bossy",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/73/temizlik_takimi"
+    },
+    {
+      "season": 74,
+      "episode": 64,
+      "title": "The Thinkybubble Boxen",
+      "diziid": "bossy",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/74/donme_kabarcigi_kutusu"
+    },
+    {
+      "season": 75,
+      "episode": 65,
+      "title": "Bubble Bubble Bossy and Trouble",
+      "diziid": "bossy",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/75/baloncuk_baloncuk_bossy_ve_sorun"
+    },
+    {
+      "season": 76,
+      "episode": 66,
+      "title": "Save the Planet",
+      "diziid": "bossy",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/76/gezegeni_kurtarmak"
+    },
+    {
+      "season": 77,
+      "episode": 67,
+      "title": "Keytar All-Star",
+      "diziid": "bossy",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/77/keytar_yildizi"
+    },
+    {
+      "season": 78,
+      "episode": 68,
+      "title": "The Adventures of Randy Rock",
+      "diziid": "bossy",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/78/rendy_tasin_maceralari"
+    },
+    {
+      "season": 79,
+      "episode": 69,
+      "title": "Ultra Shell Returns",
+      "diziid": "bossy",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/79/ultra_kabuk_donuyor"
+    },
+    {
+      "season": 80,
+      "episode": 70,
+      "title": "Cham Cham Champion",
+      "diziid": "bossy",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/80/sam_sam_sampiyon"
+    },
+    {
+      "season": 81,
+      "episode": 71,
+      "title": "Sing Your Voice Out",
+      "diziid": "bossy",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/81/sarkini_soyle"
+    },
+    {
+      "season": 82,
+      "episode": 72,
+      "title": "The Shiniest Shell",
+      "diziid": "bossy",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/82/en_parlak_kabuk"
+    },
+    {
+      "season": 83,
+      "episode": 73,
+      "title": "Match Set",
+      "diziid": "bossy",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/83/mac_set"
+    },
+    {
+      "season": 84,
+      "episode": 74,
+      "title": "Dad's Day Off",
+      "diziid": "bossy",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/84/babamin_izin_gununun"
+    },
+    {
+      "season": 85,
+      "episode": 75,
+      "title": "Bee Very Careful",
+      "diziid": "bossy",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/85/ari_cok_dikkatli_ol"
+    },
+    {
+      "season": 86,
+      "episode": 76,
+      "title": "Time Flies When You're Having No Fun",
+      "diziid": "bossy",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/86/eglenmedigin_zaman%2C_zaman_ucar_gider"
+    },
+    {
+      "season": 87,
+      "episode": 77,
+      "title": "Toy Vs. Toy",
+      "diziid": "bossy",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/87/oyuncak_oyuncaga_karistirdiginda"
+    },
+    {
+      "season": 89,
+      "episode": 78,
+      "title": "Chef Cindy's Kitchen",
+      "diziid": "bossy",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/89/sef_cindynin_mutfagi"
+    },
+    {
+      "season": 90,
+      "episode": 79,
+      "title": "Deer Pressure",
+      "diziid": "bossy",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/bossy/ayi_bossy/90/geyik_baskisi"
+    }
+  ]
+}

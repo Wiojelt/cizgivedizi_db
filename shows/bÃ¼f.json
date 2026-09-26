@@ -1,0 +1,76 @@
+{
+  "id": "bÃ¼f",
+  "title": "bÃ¼yÃ¼k fikir",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/B%C3%9CFPoster.avif",
+  "channel": "Da Vinci",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "My Robot, My Friend",
+      "diziid": "b%C3%BCf",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/b%C3%BCf/buyuk_fikir/1/benim_robotum%2C_benim_arkadasim"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "AcÄ±yÄ± Azaltmak",
+      "diziid": "b%C3%BCf",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/b%C3%BCf/buyuk_fikir/2/aciyi_azaltmak"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Beni DeÄŸiÅŸtir",
+      "diziid": "b%C3%BCf",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/b%C3%BCf/buyuk_fikir/3/beni_degistir"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Becoming Superhuman",
+      "diziid": "b%C3%BCf",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/b%C3%BCf/buyuk_fikir/4/super_insan_olmak"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Size Matters",
+      "diziid": "b%C3%BCf",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/b%C3%BCf/buyuk_fikir/5/boyut_onemlidir"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "DuyularÄ±n AnlamÄ±",
+      "diziid": "b%C3%BCf",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/b%C3%BCf/buyuk_fikir/6/duyularin_anlami"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "How Safe Is Your Car? (PART1)",
+      "diziid": "b%C3%BCf",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/b%C3%BCf/buyuk_fikir/7/arabanizi_nasil_guvende_tutarsiniz_bolum_1"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "How Safe Is Your Car? (PART2)",
+      "diziid": "b%C3%BCf",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/b%C3%BCf/buyuk_fikir/8/arabanizi_nasil_guvende_tutarsiniz_bolum_2"
+    }
+  ]
+}

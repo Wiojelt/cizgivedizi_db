@@ -1,0 +1,85 @@
+{
+  "id": "arabyol",
+  "title": "arabalar yollarda",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ARAYOLPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Macera",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Dino Park",
+      "diziid": "arabyol",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/arabyol/arabalar_yollarda/1/dinozor_parki"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Lights Out",
+      "diziid": "arabyol",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/arabyol/arabalar_yollarda/2/isiklar_gitti"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Salt Fever",
+      "diziid": "arabyol",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/arabyol/arabalar_yollarda/3/tuz_duzlugunde_hiz"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Legend",
+      "diziid": "arabyol",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/arabyol/arabalar_yollarda/4/efsane"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Show Time",
+      "diziid": "arabyol",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/arabyol/arabalar_yollarda/5/gosteri_zamani"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Trucks",
+      "diziid": "arabyol",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/arabyol/arabalar_yollarda/6/kamyonlar"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "B-Movie",
+      "diziid": "arabyol",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/arabyol/arabalar_yollarda/7/b_filmi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Road Rumblers",
+      "diziid": "arabyol",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/arabyol/arabalar_yollarda/8/yol_kargasasi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Gettin' Hitched",
+      "diziid": "arabyol",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/arabyol/arabalar_yollarda/9/evleniyoruz"
+    }
+  ]
+}

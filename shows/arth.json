@@ -1,0 +1,1636 @@
+{
+  "id": "arth",
+  "title": "arthur",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ARTHPoster.avif",
+  "channel": "Yumurcak TV",
+  "genres": [
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Arthur's Eyes",
+      "diziid": "arth",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/1/arthurun_gozlugu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Francine's Bad Hair Day",
+      "diziid": "arth",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/2/francinenin_yapilmis_saclari"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Arthur and the Real Mr. Ratburn",
+      "diziid": "arth",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/3/arthur_ve_gercek_bay_ratburn"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Arthur's Spelling Trubble",
+      "diziid": "arth",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/4/arthurun_heceleme_dersi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "D.W. All Wet",
+      "diziid": "arth",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/5/taklitci_dw_islak_dw"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Buster's Dino Dilemma",
+      "diziid": "arth",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/6/busterin_dinozor_meselesi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "D.W.'s Imaginary Friend",
+      "diziid": "arth",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/7/dwnin_hayali_arkadasi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Arthur's Lost Library Book",
+      "diziid": "arth",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/8/arthurun_kayip_kutuphane_kitabi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Arthur's Pet Business",
+      "diziid": "arth",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/9/arthurun_evcil_hayvani"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "D.W. the Copycat",
+      "diziid": "arth",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/10/taklitci_dw"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Locked in the Library!",
+      "diziid": "arth",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/11/kutuphanede_kilitli"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Arthur Accused!",
+      "diziid": "arth",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/12/arthur_suclanir%21"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Arthur Goes to Camp",
+      "diziid": "arth",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/13/arthur_kampa_gidiyor"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Buster Makes the Grade",
+      "diziid": "arth",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/14/buster_derece_yapiyor"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Arthur's New Puppy",
+      "diziid": "arth",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/15/arthurun_yeni_kopegi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Arthur Bounces Back",
+      "diziid": "arth",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/16/tekrar_basariyor"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Arthur Babysits",
+      "diziid": "arth",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/17/arthur_cocuk_bakiciligi_yapiyor"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Arthur's Cousin Catastrophe",
+      "diziid": "arth",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/18/arthurun_kuzen_korkusu"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Arthur's Birthday",
+      "diziid": "arth",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/19/arthurun_dogum_gunu"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Francine Frensky, Superstar",
+      "diziid": "arth",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/20/francine_frensky%2C_superstar"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Arthur's Baby",
+      "diziid": "arth",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/21/arthurun_bebegi"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "D.W.'s Baby",
+      "diziid": "arth",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/22/dwnin_bebegi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Arthur Writes a Story",
+      "diziid": "arth",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/23/arthur_hikaye_yaziyor"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Arthur's Lost Dog",
+      "diziid": "arth",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/24/arthurun_kayip_kopegi"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "So Long, Spanky",
+      "diziid": "arth",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/25/hosca_kal_spanky"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Buster's New Friend",
+      "diziid": "arth",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/26/busterin_arkadasi"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Arthur the Wrecker",
+      "diziid": "arth",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/27/yaramaz_arthur"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Arthur and the True Francine",
+      "diziid": "arth",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/28/arthur_ve_durust_francine"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Arthur's Family Vacation",
+      "diziid": "arth",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/29/arthurun_aile_tatili"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Grandpa Dave's Old Country Farm",
+      "diziid": "arth",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/30/buyukbaba_davein_eski_kir_ciftligi"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Arthur and the Crunch Cereal Contest",
+      "diziid": "arth",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/31/arthurun_misir_gevregi_yarismasi"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "D.W. Flips",
+      "diziid": "arth",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/32/dwnin_saltosu"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Meek for a Week",
+      "diziid": "arth",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/33/bir_haftalik_sabir"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Arthur, World's Greatest Gleeper",
+      "diziid": "arth",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/34/arthur_dunyanin_en_buyuk_asiricisi"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Arthur's Chicken Pox",
+      "diziid": "arth",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/35/arthur_sucicegi_cikariyor"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Sick as a Dog",
+      "diziid": "arth",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/36/kopek_hasta"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "D.W. Rides Again",
+      "diziid": "arth",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/37/dw_tekrar_bisiklete_biniyor"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Arthur Makes the Team",
+      "diziid": "arth",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/38/arthur_takim_kuruyor"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Arthur's Almost Boring Day",
+      "diziid": "arth",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/39/arthurun_en_sikici_gunu"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "The Half-Baked Sale",
+      "diziid": "arth",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/40/kurabiye_satisi"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Sue Ellen Moves In",
+      "diziid": "arth",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/41/sue_ellen_tasiniyor"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "The Perfect Brother",
+      "diziid": "arth",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/42/mukemmel_kardes"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "D.W.'s Snow Mystery",
+      "diziid": "arth",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/43/karin_sirri"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Team Trouble",
+      "diziid": "arth",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/44/ekip_sorunu"
+    },
+    {
+      "season": 47,
+      "episode": 45,
+      "title": "Arthur's Tooth",
+      "diziid": "arth",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/47/arthurun_disi"
+    },
+    {
+      "season": 48,
+      "episode": 46,
+      "title": "D.W. Gets Lost",
+      "diziid": "arth",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/48/dw_kayboldu"
+    },
+    {
+      "season": 50,
+      "episode": 47,
+      "title": "Arthur Cleans Up",
+      "diziid": "arth",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/50/arthurun_temizligi"
+    },
+    {
+      "season": 51,
+      "episode": 48,
+      "title": "My Dad, the Garbage Man",
+      "diziid": "arth",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/51/babam_copcu"
+    },
+    {
+      "season": 52,
+      "episode": 49,
+      "title": "Poor Muffy",
+      "diziid": "arth",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/52/zavalli_muffy"
+    },
+    {
+      "season": 53,
+      "episode": 50,
+      "title": "D.W.'s Blankie",
+      "diziid": "arth",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/53/dwnin_battaniyesi"
+    },
+    {
+      "season": 54,
+      "episode": 51,
+      "title": "Arthur's Substitute Teacher Trouble",
+      "diziid": "arth",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/54/arthurun_vekil_ogretmen_sorunu"
+    },
+    {
+      "season": 55,
+      "episode": 52,
+      "title": "I'm a Poet",
+      "diziid": "arth",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/55/ben_bir_sairim"
+    },
+    {
+      "season": 56,
+      "episode": 53,
+      "title": "The Scare-Your-Pants-Off Club!",
+      "diziid": "arth",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/56/nefeslerinizi_korkutun_kulubu"
+    },
+    {
+      "season": 57,
+      "episode": 54,
+      "title": "My Club Rules!",
+      "diziid": "arth",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/57/kulup_kurallari"
+    },
+    {
+      "season": 58,
+      "episode": 55,
+      "title": "Stolen Bike",
+      "diziid": "arth",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/58/calinan_bisiklet"
+    },
+    {
+      "season": 1,
+      "episode": 56,
+      "title": "Arthur Meets Mister Rogers",
+      "diziid": "arth",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/61/arthur_bay_rogers_ile_karsilasiyor"
+    },
+    {
+      "season": 2,
+      "episode": 57,
+      "title": "Draw!",
+      "diziid": "arth",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/62/cizmek%21"
+    },
+    {
+      "season": 3,
+      "episode": 58,
+      "title": "Binky Barnes, Art Expert",
+      "diziid": "arth",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/63/binky_barnes_sanat_danismani"
+    },
+    {
+      "season": 4,
+      "episode": 59,
+      "title": "Arthur's Lucky Pencil",
+      "diziid": "arth",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/64/arthurun_sansli_kalemi"
+    },
+    {
+      "season": 5,
+      "episode": 60,
+      "title": "D.W., the Picky Eater",
+      "diziid": "arth",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/65/yemek_secen_dw"
+    },
+    {
+      "season": 6,
+      "episode": 61,
+      "title": "Buster and the Daredevils",
+      "diziid": "arth",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/66/buster_ve_gozu_pek_kardesler"
+    },
+    {
+      "season": 7,
+      "episode": 62,
+      "title": "Arthur Makes a Movie",
+      "diziid": "arth",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/67/arthur_film_cekiyor"
+    },
+    {
+      "season": 8,
+      "episode": 63,
+      "title": "Go to Your Room, D.W.",
+      "diziid": "arth",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/68/dwnin_oda_hapsi"
+    },
+    {
+      "season": 11,
+      "episode": 64,
+      "title": "Buster Baxter, Cat Saver",
+      "diziid": "arth",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/71/buster_baxter%2C_kedi_kurtaricisi"
+    },
+    {
+      "season": 12,
+      "episode": 65,
+      "title": "Play It Again, D.W.",
+      "diziid": "arth",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/72/yine_dinle_dw"
+    },
+    {
+      "season": 13,
+      "episode": 66,
+      "title": "Arthur's TV-Free Week",
+      "diziid": "arth",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/73/arthurun_televizyonsuz_haftasi"
+    },
+    {
+      "season": 14,
+      "episode": 67,
+      "title": "Night Fright",
+      "diziid": "arth",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/74/gece_korkusu"
+    },
+    {
+      "season": 15,
+      "episode": 68,
+      "title": "Arthur vs. the Piano",
+      "diziid": "arth",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/75/arthur_piyanoya_karsi"
+    },
+    {
+      "season": 16,
+      "episode": 69,
+      "title": "The Big Blow-Up",
+      "diziid": "arth",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/76/buyuk_ofke"
+    },
+    {
+      "season": 17,
+      "episode": 70,
+      "title": "Lost!",
+      "diziid": "arth",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/77/kaybolus"
+    },
+    {
+      "season": 18,
+      "episode": 71,
+      "title": "The Short, Quick Summer",
+      "diziid": "arth",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/78/kisa_hizli_yaz_mevsimi"
+    },
+    {
+      "season": 19,
+      "episode": 72,
+      "title": "D.W. Goes to Washington",
+      "diziid": "arth",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/79/dw_washingtona_gider"
+    },
+    {
+      "season": 20,
+      "episode": 73,
+      "title": "Arthur's Mystery Envelope",
+      "diziid": "arth",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/80/arthurun_gizemli_zarfi"
+    },
+    {
+      "season": 21,
+      "episode": 74,
+      "title": "D.W.'s Deer Friend",
+      "diziid": "arth",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/81/dwnin_geyik_arkadasi"
+    },
+    {
+      "season": 22,
+      "episode": 75,
+      "title": "Buster Hits the Books",
+      "diziid": "arth",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/82/busterin_favori_kitabi"
+    },
+    {
+      "season": 25,
+      "episode": 76,
+      "title": "Water and the Brain",
+      "diziid": "arth",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/85/su_ve_brain"
+    },
+    {
+      "season": 26,
+      "episode": 77,
+      "title": "Arthur the Unfunny",
+      "diziid": "arth",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/86/arthur_hic_komik_degil"
+    },
+    {
+      "season": 27,
+      "episode": 78,
+      "title": "Sue Ellen's Lost Diary",
+      "diziid": "arth",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/87/sue_ellenin_kayip_gunlugu"
+    },
+    {
+      "season": 28,
+      "episode": 79,
+      "title": "Arthur's Knee",
+      "diziid": "arth",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/88/arthurun_fizigi"
+    },
+    {
+      "season": 29,
+      "episode": 80,
+      "title": "Grandma Thora Appreciation Day",
+      "diziid": "arth",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/89/buykanne_thoranin_ozel_gunu"
+    },
+    {
+      "season": 30,
+      "episode": 81,
+      "title": "Fern's Slumber Party",
+      "diziid": "arth",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/90/fernun_pijama_partisi"
+    },
+    {
+      "season": 31,
+      "episode": 82,
+      "title": "Love Notes for Muffy",
+      "diziid": "arth",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/91/muffynin_ozel_notlari"
+    },
+    {
+      "season": 32,
+      "episode": 83,
+      "title": "D.W. Blows the Whistle",
+      "diziid": "arth",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/92/dw_duduk_calar"
+    },
+    {
+      "season": 33,
+      "episode": 84,
+      "title": "Francine Redecorates",
+      "diziid": "arth",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/93/francinenin_yeni_dekoru"
+    },
+    {
+      "season": 34,
+      "episode": 85,
+      "title": "Arthur the Loser",
+      "diziid": "arth",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/94/arthur_kaybeder"
+    },
+    {
+      "season": 35,
+      "episode": 86,
+      "title": "Arthur vs. the Very Mean Crossing Guard",
+      "diziid": "arth",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/95/arthur_acimasiz_yaya_gorevlisine_karsi"
+    },
+    {
+      "season": 36,
+      "episode": 87,
+      "title": "D.W.'s Very Bad Mood",
+      "diziid": "arth",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/96/dwnin_huysuzlugu"
+    },
+    {
+      "season": 37,
+      "episode": 88,
+      "title": "D.W.'s Name Game",
+      "diziid": "arth",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/97/dwnin_isim_oyunu"
+    },
+    {
+      "season": 38,
+      "episode": 89,
+      "title": "Finders Key-pers",
+      "diziid": "arth",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/98/anahtari_kim_buldu"
+    },
+    {
+      "season": 39,
+      "episode": 90,
+      "title": "How the Cookie Crumbles",
+      "diziid": "arth",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/99/kurabiye_nasil_yenir"
+    },
+    {
+      "season": 40,
+      "episode": 91,
+      "title": "Sue Ellen's Little Sister",
+      "diziid": "arth",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/100/sue_ellenin_kucuk_dwsi"
+    },
+    {
+      "season": 3,
+      "episode": 92,
+      "title": "D.W. All Fired Up",
+      "diziid": "arth",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/103/dwnin_yangin_tatbikati"
+    },
+    {
+      "season": 4,
+      "episode": 93,
+      "title": "I'd Rather Read It Myself",
+      "diziid": "arth",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/104/kendim_okumayi_tercih_ederim"
+    },
+    {
+      "season": 5,
+      "episode": 94,
+      "title": "Arthur Goes Crosswire",
+      "diziid": "arth",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/105/arthur_crosswire_olur"
+    },
+    {
+      "season": 6,
+      "episode": 95,
+      "title": "Sue Ellen and the Brainasaurous",
+      "diziid": "arth",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/106/sue_ellen_ve_brainozorus"
+    },
+    {
+      "season": 7,
+      "episode": 96,
+      "title": "Background Blues",
+      "diziid": "arth",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/107/gecmise_donus"
+    },
+    {
+      "season": 8,
+      "episode": 97,
+      "title": "And Now Let's Talk to Some Kids",
+      "diziid": "arth",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/108/ve_simdi_cocuklarla_konusalim"
+    },
+    {
+      "season": 9,
+      "episode": 98,
+      "title": "The Chips Are Down",
+      "diziid": "arth",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/109/yesil_patates_cipsi"
+    },
+    {
+      "season": 10,
+      "episode": 99,
+      "title": "Revenge of the Chip",
+      "diziid": "arth",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/110/cipsin_intikami"
+    },
+    {
+      "season": 11,
+      "episode": 100,
+      "title": "Binky Rules",
+      "diziid": "arth",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/111/binky_hukmeder"
+    },
+    {
+      "season": 12,
+      "episode": 101,
+      "title": "Meet Binky",
+      "diziid": "arth",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/112/binky_ile_tanisma"
+    },
+    {
+      "season": 13,
+      "episode": 102,
+      "title": "Arthur Rides the Bandwagon",
+      "diziid": "arth",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/113/arthur_modayla_ugrasiyor"
+    },
+    {
+      "season": 14,
+      "episode": 103,
+      "title": "Dad's Dessert Dilemma",
+      "diziid": "arth",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/114/babanin_tatli_cikmazi"
+    },
+    {
+      "season": 15,
+      "episode": 104,
+      "title": "Popular Girls",
+      "diziid": "arth",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/115/meshur_gencler"
+    },
+    {
+      "season": 16,
+      "episode": 105,
+      "title": "Buster's Growing Grudge",
+      "diziid": "arth",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/116/busterin_buyuyen_kini"
+    },
+    {
+      "season": 17,
+      "episode": 106,
+      "title": "Arthur's Treasure Hunt",
+      "diziid": "arth",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/117/arthurun_hazine_arayisi"
+    },
+    {
+      "season": 18,
+      "episode": 107,
+      "title": "The Return of the King",
+      "diziid": "arth",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/118/kralin_donusu"
+    },
+    {
+      "season": 19,
+      "episode": 108,
+      "title": "Attack of the Turbo Tibbles",
+      "diziid": "arth",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/119/turbo_tibblelarin_saldirisi"
+    },
+    {
+      "season": 21,
+      "episode": 109,
+      "title": "Double Tibble Trouble",
+      "diziid": "arth",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/121/cifte_tibble_meselesi"
+    },
+    {
+      "season": 22,
+      "episode": 110,
+      "title": "Arthur's Almost Live Not Real Music Festival",
+      "diziid": "arth",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/122/arthurun_gercek_olmayan_muzik_festivali"
+    },
+    {
+      "season": 24,
+      "episode": 111,
+      "title": "Clarissa Is Cracked",
+      "diziid": "arth",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/124/clarissa_kirilir"
+    },
+    {
+      "season": 25,
+      "episode": 112,
+      "title": "Arthur's Dummy Disaster",
+      "diziid": "arth",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/125/arthurun_kukla_talihsizligi"
+    },
+    {
+      "season": 26,
+      "episode": 113,
+      "title": "Francine and the Feline",
+      "diziid": "arth",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/126/francine_ve_kedisi"
+    },
+    {
+      "season": 27,
+      "episode": 114,
+      "title": "Mom and Dad Have a Great Big Fight",
+      "diziid": "arth",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/127/anne_ve_babanin_buyuk_kavgasi"
+    },
+    {
+      "season": 28,
+      "episode": 115,
+      "title": "D.W.'s Perfect Wish",
+      "diziid": "arth",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/128/dwnin_mukemmel_dilegi"
+    },
+    {
+      "season": 29,
+      "episode": 116,
+      "title": "Arthur and D.W. Clean Up",
+      "diziid": "arth",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/129/arthur_ve_dw_temizlik_yapar"
+    },
+    {
+      "season": 30,
+      "episode": 117,
+      "title": "The Long, Dull Winter",
+      "diziid": "arth",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/130/uzun%2C_sikici_yaz"
+    },
+    {
+      "season": 3,
+      "episode": 118,
+      "title": "Hide and Snake",
+      "diziid": "arth",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/133/saklambac_ve_yilan"
+    },
+    {
+      "season": 4,
+      "episode": 119,
+      "title": "Muffy's New Best Friend",
+      "diziid": "arth",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/134/muffynin_yeni_dostu"
+    },
+    {
+      "season": 5,
+      "episode": 120,
+      "title": "Buster's Breathless",
+      "diziid": "arth",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/135/buster_nefes_nefese"
+    },
+    {
+      "season": 9,
+      "episode": 121,
+      "title": "The Blizzard",
+      "diziid": "arth",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/139/tipi"
+    },
+    {
+      "season": 10,
+      "episode": 122,
+      "title": "The Rat Who Came to Dinner",
+      "diziid": "arth",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/140/evimizdeki_misafir"
+    },
+    {
+      "season": 13,
+      "episode": 123,
+      "title": "Binky Barnes, Wingman!",
+      "diziid": "arth",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/143/binky_barnes_ve_kelebekler"
+    },
+    {
+      "season": 14,
+      "episode": 124,
+      "title": "To Beat or Not to Beat",
+      "diziid": "arth",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/144/calmak_ya_da_calmamak"
+    },
+    {
+      "season": 15,
+      "episode": 125,
+      "title": "1001 Dads",
+      "diziid": "arth",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/145/1001_baba"
+    },
+    {
+      "season": 17,
+      "episode": 126,
+      "title": "What Is That Thing?",
+      "diziid": "arth",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/147/bu_sey_de_ne"
+    },
+    {
+      "season": 18,
+      "episode": 127,
+      "title": "Buster's Best Behavior",
+      "diziid": "arth",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/148/busterin_en_iyi_davranis_dersi"
+    },
+    {
+      "season": 19,
+      "episode": 128,
+      "title": "My Music Rules",
+      "diziid": "arth",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/149/muzik_kurallarim"
+    },
+    {
+      "season": 20,
+      "episode": 129,
+      "title": "That's a Baby Show!",
+      "diziid": "arth",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/150/bu_bir_bebek_programi%21"
+    },
+    {
+      "season": 1,
+      "episode": 130,
+      "title": "Arthur and the Big Riddle",
+      "diziid": "arth",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/151/arthur_ve_buyuk_bilmece"
+    },
+    {
+      "season": 2,
+      "episode": 131,
+      "title": "Double Dare",
+      "diziid": "arth",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/152/karsilikli_meydan_okuma"
+    },
+    {
+      "season": 3,
+      "episode": 132,
+      "title": "Kids Are from Earth, Parents Are from Pluto",
+      "diziid": "arth",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/153/cocuklar_dunyadan%2C_ebeveynler_plutondan"
+    },
+    {
+      "season": 4,
+      "episode": 133,
+      "title": "Nerves of Steal",
+      "diziid": "arth",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/154/celik_gibi_sinirler"
+    },
+    {
+      "season": 5,
+      "episode": 134,
+      "title": "It's a No-Brainer",
+      "diziid": "arth",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/155/anormal_beyin"
+    },
+    {
+      "season": 6,
+      "episode": 135,
+      "title": "The Shore Thing",
+      "diziid": "arth",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/156/sudaki_sey"
+    },
+    {
+      "season": 7,
+      "episode": 136,
+      "title": "The World Record",
+      "diziid": "arth",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/157/dunya_rekoru"
+    },
+    {
+      "season": 8,
+      "episode": 137,
+      "title": "The Cave",
+      "diziid": "arth",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/158/magara"
+    },
+    {
+      "season": 13,
+      "episode": 138,
+      "title": "Sleep No More",
+      "diziid": "arth",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/163/artik_uyuma"
+    },
+    {
+      "season": 14,
+      "episode": 139,
+      "title": "Pet Peeved",
+      "diziid": "arth",
+      "bolum": "164",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/164/yaramaz_kedi"
+    },
+    {
+      "season": 15,
+      "episode": 140,
+      "title": "The Last of Mary Moo Cow",
+      "diziid": "arth",
+      "bolum": "165",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/165/sonuncu_mary_moo_inek"
+    },
+    {
+      "season": 18,
+      "episode": 141,
+      "title": "The Big Dig",
+      "diziid": "arth",
+      "bolum": "168",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/168/buyuk_kaz"
+    },
+    {
+      "season": 1,
+      "episode": 142,
+      "title": "Sue Ellen Gets Her Goose Cooked",
+      "diziid": "arth",
+      "bolum": "171",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/171/bilgisayar_oyunu"
+    },
+    {
+      "season": 2,
+      "episode": 143,
+      "title": "Best of the Nest",
+      "diziid": "arth",
+      "bolum": "172",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/172/en_iyi_yuva"
+    },
+    {
+      "season": 3,
+      "episode": 144,
+      "title": "Arthur Plays the Blues",
+      "diziid": "arth",
+      "bolum": "173",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/173/arthur_blues_calar"
+    },
+    {
+      "season": 4,
+      "episode": 145,
+      "title": "Buster's Sweet Success",
+      "diziid": "arth",
+      "bolum": "174",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/174/busterin_tatli_basarisi"
+    },
+    {
+      "season": 7,
+      "episode": 146,
+      "title": "Muffy's Soccer Shocker",
+      "diziid": "arth",
+      "bolum": "177",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/177/muffynin_futbol_hikayesi"
+    },
+    {
+      "season": 8,
+      "episode": 147,
+      "title": "Brother, Can You Spare a Clarinet?",
+      "diziid": "arth",
+      "bolum": "178",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/178/bir_klarnet_verir_misin"
+    },
+    {
+      "season": 9,
+      "episode": 148,
+      "title": "The Boy Who Cried Comet!",
+      "diziid": "arth",
+      "bolum": "179",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/179/kuyruklu_yildizi_kesfeden_cocuk"
+    },
+    {
+      "season": 10,
+      "episode": 149,
+      "title": "Arthur and Los Vecinos",
+      "diziid": "arth",
+      "bolum": "180",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/180/arthur_ve_komsulari"
+    },
+    {
+      "season": 14,
+      "episode": 150,
+      "title": "More!",
+      "diziid": "arth",
+      "bolum": "184",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/184/fazla%21"
+    },
+    {
+      "season": 1,
+      "episode": 151,
+      "title": "Cast Away",
+      "diziid": "arth",
+      "bolum": "191",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/191/balik_avi"
+    },
+    {
+      "season": 5,
+      "episode": 152,
+      "title": "Ants in Arthur's Pants",
+      "diziid": "arth",
+      "bolum": "195",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/195/arthurun_pantolonunda_karincalar"
+    },
+    {
+      "season": 6,
+      "episode": 153,
+      "title": "Don't Ask Muffy",
+      "diziid": "arth",
+      "bolum": "196",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/196/muffyye_sorma"
+    },
+    {
+      "season": 1,
+      "episode": 154,
+      "title": "Elwood City Turns 100!",
+      "diziid": "arth",
+      "bolum": "199",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/199/elwood_sehri_degisiyor%21"
+    },
+    {
+      "season": 11,
+      "episode": 155,
+      "title": "Pick a Car, Any Car",
+      "diziid": "arth",
+      "bolum": "201",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/201/bir_araba_sec%2C_hangisini_istersen"
+    },
+    {
+      "season": 12,
+      "episode": 156,
+      "title": "Jenna's Bedtime Blues",
+      "diziid": "arth",
+      "bolum": "202",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/202/jennanin_uyuma_sarkilari"
+    },
+    {
+      "season": 15,
+      "episode": 157,
+      "title": "The World of Tomorrow",
+      "diziid": "arth",
+      "bolum": "205",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/205/yarinin_dunyasi"
+    },
+    {
+      "season": 16,
+      "episode": 158,
+      "title": "Is There a Doctor in the House?",
+      "diziid": "arth",
+      "bolum": "206",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/206/doktor_var_mi"
+    },
+    {
+      "season": 18,
+      "episode": 159,
+      "title": "Return of the Snowball",
+      "diziid": "arth",
+      "bolum": "208",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/208/kar_topunun_donusu"
+    },
+    {
+      "season": 1,
+      "episode": 160,
+      "title": "April 9th",
+      "diziid": "arth",
+      "bolum": "209",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/209/9_nisan"
+    },
+    {
+      "season": 1,
+      "episode": 161,
+      "title": "Dear Adil",
+      "diziid": "arth",
+      "bolum": "211",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/211/sevgili_adil"
+    },
+    {
+      "season": 8,
+      "episode": 162,
+      "title": "D.W., Dancing Queen",
+      "diziid": "arth",
+      "bolum": "218",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/218/dans_kralicesi_dw"
+    },
+    {
+      "season": 1,
+      "episode": 163,
+      "title": "Postcards from Buster!",
+      "diziid": "arth",
+      "bolum": "221",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/221/busterin_posta_kartlari"
+    },
+    {
+      "season": 13,
+      "episode": 164,
+      "title": "Desk Wars",
+      "diziid": "arth",
+      "bolum": "223",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/223/sira_savaslari"
+    },
+    {
+      "season": 14,
+      "episode": 165,
+      "title": "Desperately Seeking Stanley",
+      "diziid": "arth",
+      "bolum": "224",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/224/umitsizce_stanleyyi_aramak"
+    },
+    {
+      "season": 16,
+      "episode": 166,
+      "title": "Tales from the Crib",
+      "diziid": "arth",
+      "bolum": "226",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/226/bebek_yataklari"
+    },
+    {
+      "season": 17,
+      "episode": 167,
+      "title": "Flea to Be You and Me",
+      "diziid": "arth",
+      "bolum": "227",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/227/pire"
+    },
+    {
+      "season": 18,
+      "episode": 168,
+      "title": "Kiss and Tell",
+      "diziid": "arth",
+      "bolum": "228",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/228/op_ve_anlat"
+    },
+    {
+      "season": 19,
+      "episode": 169,
+      "title": "Big Horns George",
+      "diziid": "arth",
+      "bolum": "229",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/229/iri_boynuz_george"
+    },
+    {
+      "season": 20,
+      "episode": 170,
+      "title": "*Bleep*",
+      "diziid": "arth",
+      "bolum": "230",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/230/sinyal"
+    },
+    {
+      "season": 1,
+      "episode": 171,
+      "title": "Castles in the Sky",
+      "diziid": "arth",
+      "bolum": "231",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/231/gokyuzundeki_kale"
+    },
+    {
+      "season": 2,
+      "episode": 172,
+      "title": "Tipping the Scales",
+      "diziid": "arth",
+      "bolum": "232",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/232/bartleby_hall_sarkisi"
+    },
+    {
+      "season": 5,
+      "episode": 173,
+      "title": "Arthur Weighs In",
+      "diziid": "arth",
+      "bolum": "235",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/235/arthur_kilo_aliyor"
+    },
+    {
+      "season": 6,
+      "episode": 174,
+      "title": "The Law of the Jungle Gym",
+      "diziid": "arth",
+      "bolum": "236",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/236/tirmanma_demiri_yasasi"
+    },
+    {
+      "season": 7,
+      "episode": 175,
+      "title": "Buster's Green Thumb",
+      "diziid": "arth",
+      "bolum": "237",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/237/bahcivan_buster"
+    },
+    {
+      "season": 8,
+      "episode": 176,
+      "title": "My Fair Tommy",
+      "diziid": "arth",
+      "bolum": "238",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/238/tommynin_iyi_davranisi"
+    },
+    {
+      "season": 9,
+      "episode": 177,
+      "title": "Lights, Camera... Opera!",
+      "diziid": "arth",
+      "bolum": "239",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/239/opera"
+    },
+    {
+      "season": 10,
+      "episode": 178,
+      "title": "All Worked Up!",
+      "diziid": "arth",
+      "bolum": "240",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/240/her_sey_yolunda"
+    },
+    {
+      "season": 11,
+      "episode": 179,
+      "title": "Arthur Makes Waves",
+      "diziid": "arth",
+      "bolum": "241",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/241/arthur_duzeni_bozar"
+    },
+    {
+      "season": 12,
+      "episode": 180,
+      "title": "It Came from Beyond",
+      "diziid": "arth",
+      "bolum": "242",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/242/davetsiz_misafir"
+    },
+    {
+      "season": 14,
+      "episode": 181,
+      "title": "A Is for Angry",
+      "diziid": "arth",
+      "bolum": "244",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/244/sinirlinin_ssi"
+    },
+    {
+      "season": 15,
+      "episode": 182,
+      "title": "The \"A\" Team",
+      "diziid": "arth",
+      "bolum": "245",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/245/en_iyi_takim"
+    },
+    {
+      "season": 16,
+      "episode": 183,
+      "title": "Emily Swallows a Horse",
+      "diziid": "arth",
+      "bolum": "246",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/246/emily_at_yutar"
+    },
+    {
+      "season": 17,
+      "episode": 184,
+      "title": "D.W. Beats All",
+      "diziid": "arth",
+      "bolum": "247",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/247/dw_her_seyi_calar"
+    },
+    {
+      "season": 18,
+      "episode": 185,
+      "title": "Buster the Myth Maker",
+      "diziid": "arth",
+      "bolum": "248",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/248/buster_ve_hikaye"
+    },
+    {
+      "season": 19,
+      "episode": 186,
+      "title": "Binky Goes Nuts",
+      "diziid": "arth",
+      "bolum": "249",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/249/binkynin_fistik_alerjisi"
+    },
+    {
+      "season": 20,
+      "episode": 187,
+      "title": "Breezy Listening Blues",
+      "diziid": "arth",
+      "bolum": "250",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/250/tuketim_muzigi_sorunu"
+    },
+    {
+      "season": 1,
+      "episode": 188,
+      "title": "Happy Anniversary",
+      "diziid": "arth",
+      "bolum": "251",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/251/mutlu_yil_donumu"
+    },
+    {
+      "season": 3,
+      "episode": 189,
+      "title": "The Squirrels",
+      "diziid": "arth",
+      "bolum": "253",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/253/sincaplar"
+    },
+    {
+      "season": 4,
+      "episode": 190,
+      "title": "Fern & Persimmony Glitchet",
+      "diziid": "arth",
+      "bolum": "254",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/254/fernun_yazarlik_istegi"
+    },
+    {
+      "season": 5,
+      "episode": 191,
+      "title": "Desert Island Dish",
+      "diziid": "arth",
+      "bolum": "255",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/255/issiz_adada_yiyecek"
+    },
+    {
+      "season": 6,
+      "episode": 192,
+      "title": "The Secret About Secrets",
+      "diziid": "arth",
+      "bolum": "256",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/256/sirlarin_sirri"
+    },
+    {
+      "season": 7,
+      "episode": 193,
+      "title": "Feeling Flush",
+      "diziid": "arth",
+      "bolum": "257",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/257/su_tasarrufu"
+    },
+    {
+      "season": 8,
+      "episode": 194,
+      "title": "Family Fortune",
+      "diziid": "arth",
+      "bolum": "258",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/258/aile_serveti"
+    },
+    {
+      "season": 11,
+      "episode": 195,
+      "title": "The Curse of the Grebes",
+      "diziid": "arth",
+      "bolum": "261",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/261/grebesin_ofkesi"
+    },
+    {
+      "season": 12,
+      "episode": 196,
+      "title": "Arthur Changes Gears",
+      "diziid": "arth",
+      "bolum": "262",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/262/arthur_bisikletini_degistiriyor"
+    },
+    {
+      "season": 13,
+      "episode": 197,
+      "title": "Unfinished",
+      "diziid": "arth",
+      "bolum": "263",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/263/tamamlanmamis"
+    },
+    {
+      "season": 14,
+      "episode": 198,
+      "title": "D.W., Bossy Boots",
+      "diziid": "arth",
+      "bolum": "264",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/264/patron_dw"
+    },
+    {
+      "season": 15,
+      "episode": 199,
+      "title": "Binky vs. Binky",
+      "diziid": "arth",
+      "bolum": "265",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/265/binky_binkyye_karsi"
+    },
+    {
+      "season": 16,
+      "episode": 200,
+      "title": "Operation: D.W.!",
+      "diziid": "arth",
+      "bolum": "266",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/266/dwnin_ameliyati"
+    },
+    {
+      "season": 17,
+      "episode": 201,
+      "title": "Do You Speak George?",
+      "diziid": "arth",
+      "bolum": "267",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/267/yeni_dil_turetmek"
+    },
+    {
+      "season": 18,
+      "episode": 202,
+      "title": "World Girls",
+      "diziid": "arth",
+      "bolum": "268",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/268/dunya_kizi"
+    },
+    {
+      "season": 19,
+      "episode": 203,
+      "title": "What's Cooking?",
+      "diziid": "arth",
+      "bolum": "269",
+      "url": "https://cizgivedizi.com/dizi/arth/arthur/269/yemekte_ne_var"
+    }
+  ]
+}

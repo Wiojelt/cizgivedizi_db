@@ -1,0 +1,549 @@
+{
+  "id": "aua",
+  "title": "austin ve ally",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/AUAPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "MÃ¼zik/MÃ¼zikal"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Rockers & Writers",
+      "diziid": "aua",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/1/rockcilar_ve_yazarlar"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Kangaroos & Chaos",
+      "diziid": "aua",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/2/kangurular_ve_kaos"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Secrets & Songbooks",
+      "diziid": "aua",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/3/sirlar_ve_sarki_kitaplari"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Zaliens & Cloud Watchers",
+      "diziid": "aua",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/4/zalienler_ve_bulut_yazarlari"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Bloggers & Butterflies",
+      "diziid": "aua",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/5/blog_yazarlari_ve_kelebekler"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Tickets & Trashbags",
+      "diziid": "aua",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/6/biletler_ve_cop_posetleri"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Managers & Meatballs",
+      "diziid": "aua",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/7/menajerler_ve_kofteler"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Club Owners & QuinceaÃ±eras",
+      "diziid": "aua",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/8/kulup_partileri_ve_ergenlik_partileri"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Deejays & Demos",
+      "diziid": "aua",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/9/djler_ve_demolar"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "World Records & Work Wreckers",
+      "diziid": "aua",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/10/dunya_rekorlari_ve_is_batiranlar"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Songwriting & Starfish",
+      "diziid": "aua",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/11/soz_yazarligi_ve_denizyildizi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Soups & Stars",
+      "diziid": "aua",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/12/corbalar_ve_yildizlar"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Burglaries & Boobytraps",
+      "diziid": "aua",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/13/soygunlar_ve_bubi_tuzaklari"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "MyTAB & My Pet",
+      "diziid": "aua",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/14/mytab_ve_evcil_hayvanim"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Filmmaking & Fear Breaking",
+      "diziid": "aua",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/15/film_yapimciligi_ve_korkularla_yuzlesme"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Diners & Daters",
+      "diziid": "aua",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/16/lokantalar_ve_ciftler"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Everglades & Allygators",
+      "diziid": "aua",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/17/batakliklar_ve_timsah_ally"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Successes & Setbacks",
+      "diziid": "aua",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/18/basarilar_ve_aksakliklar"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Albums & Auditions",
+      "diziid": "aua",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/19/albumler_ve_secmeler"
+    },
+    {
+      "season": 1,
+      "episode": 20,
+      "title": "Costumes & Courage",
+      "diziid": "aua",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/20/kostumler_ve_cesaret"
+    },
+    {
+      "season": 2,
+      "episode": 21,
+      "title": "Backups & Breakups",
+      "diziid": "aua",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/21/yardimcilar_ve_ayriliklar"
+    },
+    {
+      "season": 3,
+      "episode": 22,
+      "title": "Magazines & Made-Up Stuff",
+      "diziid": "aua",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/22/dergiler_ve_uydurma_haberler"
+    },
+    {
+      "season": 4,
+      "episode": 23,
+      "title": "Parents & Punishments",
+      "diziid": "aua",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/23/ebeveynler_ve_cezalar"
+    },
+    {
+      "season": 5,
+      "episode": 24,
+      "title": "Crybabies & Cologne",
+      "diziid": "aua",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/24/mizmizlar_ve_parfum"
+    },
+    {
+      "season": 6,
+      "episode": 25,
+      "title": "Austin & Jessie & Ally All Star New Year",
+      "diziid": "aua",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/25/austin_ve_jessie_ve_ally_yildizlar_ekibi_yeni_yili"
+    },
+    {
+      "season": 7,
+      "episode": 26,
+      "title": "Ferris Wheels & Funky Breath",
+      "diziid": "aua",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/26/donme_dolap_ve_agiz_kokusu"
+    },
+    {
+      "season": 8,
+      "episode": 27,
+      "title": "Girlfriends & Girl Friends",
+      "diziid": "aua",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/27/kiz_arkadaslar_ve_kiz_arkadaslar"
+    },
+    {
+      "season": 9,
+      "episode": 28,
+      "title": "Campers & Complications",
+      "diziid": "aua",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/28/kampcilar_ve_sorunlar"
+    },
+    {
+      "season": 10,
+      "episode": 29,
+      "title": "Chapters & Choices",
+      "diziid": "aua",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/29/bolumler_ve_secimler"
+    },
+    {
+      "season": 11,
+      "episode": 30,
+      "title": "Partners & Parachutes",
+      "diziid": "aua",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/30/partnerler_ve_parasutler"
+    },
+    {
+      "season": 12,
+      "episode": 31,
+      "title": "Freaky Friends & Fan Fiction",
+      "diziid": "aua",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/31/kacik_arkadaslar_ve_hayran_kurgusu"
+    },
+    {
+      "season": 13,
+      "episode": 32,
+      "title": "Couples & Careers",
+      "diziid": "aua",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/32/ciftler_ve_kariyerler"
+    },
+    {
+      "season": 14,
+      "episode": 33,
+      "title": "Spas & Spices",
+      "diziid": "aua",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/33/spa_ve_baharatlar"
+    },
+    {
+      "season": 15,
+      "episode": 34,
+      "title": "Solos & Stray Kitties",
+      "diziid": "aua",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/34/solo_performanslar_ve_stray_kitties"
+    },
+    {
+      "season": 16,
+      "episode": 35,
+      "title": "Boy Songs & Badges",
+      "diziid": "aua",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/35/erkek_sarkilari_ve_rozetler"
+    },
+    {
+      "season": 17,
+      "episode": 36,
+      "title": "Tracks & Troubles",
+      "diziid": "aua",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/36/parcalar_ve_sorunlar"
+    },
+    {
+      "season": 18,
+      "episode": 37,
+      "title": "Viral Videos & Very Bad Dancing",
+      "diziid": "aua",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/37/populer_videolar_ve_berbat_bir_dans"
+    },
+    {
+      "season": 19,
+      "episode": 38,
+      "title": "Tunes & Trials",
+      "diziid": "aua",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/38/melodiler_ve_durusmalar"
+    },
+    {
+      "season": 20,
+      "episode": 39,
+      "title": "Future Sounds & Festival Songs",
+      "diziid": "aua",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/39/gelecegin_muzikleri_ve_festival_sarkilari"
+    },
+    {
+      "season": 21,
+      "episode": 40,
+      "title": "Sports & Sprains",
+      "diziid": "aua",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/40/spor_ve_sakatliklar"
+    },
+    {
+      "season": 22,
+      "episode": 41,
+      "title": "Beach Bums & Bling",
+      "diziid": "aua",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/41/plaj_serserileri_ve_gosteris"
+    },
+    {
+      "season": 23,
+      "episode": 42,
+      "title": "Family & Feuds",
+      "diziid": "aua",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/42/aile_ve_kavgalar"
+    },
+    {
+      "season": 24,
+      "episode": 43,
+      "title": "Moon Week & Mentors",
+      "diziid": "aua",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/43/moon_haftasi_ve_danismanlar"
+    },
+    {
+      "season": 25,
+      "episode": 44,
+      "title": "Real Life & Reel Life",
+      "diziid": "aua",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/44/gercek_dunya_ve_sinema_dunyasi"
+    },
+    {
+      "season": 26,
+      "episode": 45,
+      "title": "Fresh Starts & Farewells",
+      "diziid": "aua",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/45/yeni_baslangiclar_ve_vedalar"
+    },
+    {
+      "season": 1,
+      "episode": 46,
+      "title": "Road Trips & Reunions",
+      "diziid": "aua",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/46/yol_seyahatleri_ve_yeniden_bulusmalar"
+    },
+    {
+      "season": 2,
+      "episode": 47,
+      "title": "What Ifs & Where's Austin?",
+      "diziid": "aua",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/47/varsayimlar_ve_sahi%2C_austin_nerede"
+    },
+    {
+      "season": 3,
+      "episode": 48,
+      "title": "Presidents & Problems",
+      "diziid": "aua",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/48/baskanlar_ve_sorunlar"
+    },
+    {
+      "season": 4,
+      "episode": 49,
+      "title": "Beach Clubs & BFFs",
+      "diziid": "aua",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/49/plaj_kulupleri_ve_hayat_boyu_kankalar"
+    },
+    {
+      "season": 5,
+      "episode": 50,
+      "title": "Mix-Ups & Mistletoes",
+      "diziid": "aua",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/50/karisiklik_ve_okse_otu"
+    },
+    {
+      "season": 6,
+      "episode": 51,
+      "title": "Glee Clubs & Glory",
+      "diziid": "aua",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/51/korolar_ve_zafer"
+    },
+    {
+      "season": 7,
+      "episode": 52,
+      "title": "Austin & Alias",
+      "diziid": "aua",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/52/austin_ve_takma_ad"
+    },
+    {
+      "season": 8,
+      "episode": 53,
+      "title": "Princesses & Prizes",
+      "diziid": "aua",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/53/prensesler_ve_oduller"
+    },
+    {
+      "season": 9,
+      "episode": 54,
+      "title": "Cupids & Cuties",
+      "diziid": "aua",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/54/ask_tanrilari_ve_sevimlilik_abideleri"
+    },
+    {
+      "season": 10,
+      "episode": 55,
+      "title": "Critics & Confidence",
+      "diziid": "aua",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/55/elestirmenler_ve_oz_guven"
+    },
+    {
+      "season": 11,
+      "episode": 56,
+      "title": "Directors & Divas",
+      "diziid": "aua",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/56/yonetmenler_ve_divalar"
+    },
+    {
+      "season": 12,
+      "episode": 57,
+      "title": "Ally's New Crush",
+      "diziid": "aua",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/57/allynin_yeni_gizli_asigi"
+    },
+    {
+      "season": 13,
+      "episode": 58,
+      "title": "Austin's New Crush",
+      "diziid": "aua",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/58/austinin_yeni_gizli_aski"
+    },
+    {
+      "season": 14,
+      "episode": 59,
+      "title": "Fanatics & Favors",
+      "diziid": "aua",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/59/hayranlar_ve_kiyaklar"
+    },
+    {
+      "season": 15,
+      "episode": 60,
+      "title": "Eggs & Extraterrestrials",
+      "diziid": "aua",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/60/yumurtalar_ve_uzaylilar"
+    },
+    {
+      "season": 16,
+      "episode": 61,
+      "title": "Proms & Promises",
+      "diziid": "aua",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/61/balolar_ve_verilen_sozler"
+    },
+    {
+      "season": 17,
+      "episode": 62,
+      "title": "Last Dances & Last Chances",
+      "diziid": "aua",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/62/son_danslar_ve_son_sanslar"
+    },
+    {
+      "season": 18,
+      "episode": 63,
+      "title": "Videos & Villains",
+      "diziid": "aua",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/63/videolar_ve_zalimler"
+    },
+    {
+      "season": 19,
+      "episode": 64,
+      "title": "Beauties & Bullies",
+      "diziid": "aua",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/64/guzeller_ve_zorbalar"
+    },
+    {
+      "season": 20,
+      "episode": 65,
+      "title": "Horror Stories and Halloween Scares",
+      "diziid": "aua",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/65/korku_hikayeleri_ve_cadilar_bayrami_korkulari"
+    },
+    {
+      "season": 21,
+      "episode": 66,
+      "title": "Records & Wrecking Balls",
+      "diziid": "aua",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/66/kayitlar_ve_yikim_calismalari"
+    },
+    {
+      "season": 22,
+      "episode": 67,
+      "title": "Relationships & Red Carpets",
+      "diziid": "aua",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/aua/austin_ve_ally/67/iliskiler_ve_kirmizi_halilar"
+    }
+  ]
+}

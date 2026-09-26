@@ -1,0 +1,140 @@
+{
+  "id": "act",
+  "title": "action man",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/ACMANPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 3,
+      "episode": 1,
+      "title": "Cybersoldier",
+      "diziid": "act",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/act/action_man/3/siber_asker"
+    },
+    {
+      "season": 4,
+      "episode": 2,
+      "title": "You Can't Go Home Again",
+      "diziid": "act",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/act/action_man/4/yeniden_eve_gidemezsin"
+    },
+    {
+      "season": 5,
+      "episode": 3,
+      "title": "Ancient History",
+      "diziid": "act",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/act/action_man/5/antik_tarih"
+    },
+    {
+      "season": 8,
+      "episode": 4,
+      "title": "Rogue Moons",
+      "diziid": "act",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/act/action_man/8/asi_uydular"
+    },
+    {
+      "season": 9,
+      "episode": 5,
+      "title": "Hands Down",
+      "diziid": "act",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/act/action_man/9/eller_yukari"
+    },
+    {
+      "season": 10,
+      "episode": 6,
+      "title": "We Come in Peace",
+      "diziid": "act",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/act/action_man/10/baris_icin_geldik"
+    },
+    {
+      "season": 11,
+      "episode": 7,
+      "title": "R.A.I.D.",
+      "diziid": "act",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/act/action_man/11/r.a.i.d."
+    },
+    {
+      "season": 14,
+      "episode": 8,
+      "title": "The X Factor",
+      "diziid": "act",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/act/action_man/14/x_faktoru"
+    },
+    {
+      "season": 15,
+      "episode": 9,
+      "title": "Ice Age",
+      "diziid": "act",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/act/action_man/15/buz_cagi"
+    },
+    {
+      "season": 16,
+      "episode": 10,
+      "title": "Soul of Evil",
+      "diziid": "act",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/act/action_man/16/kotulugun_ruhu"
+    },
+    {
+      "season": 18,
+      "episode": 11,
+      "title": "Satellite Down",
+      "diziid": "act",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/act/action_man/18/dusen_uydu"
+    },
+    {
+      "season": 19,
+      "episode": 12,
+      "title": "Space Walk",
+      "diziid": "act",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/act/action_man/19/uzay_yuruyusu"
+    },
+    {
+      "season": 23,
+      "episode": 13,
+      "title": "Space Wars",
+      "diziid": "act",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/act/action_man/23/uzay_savaslari"
+    },
+    {
+      "season": 24,
+      "episode": 14,
+      "title": "Past Performance",
+      "diziid": "act",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/act/action_man/24/gecmis_performans"
+    },
+    {
+      "season": 25,
+      "episode": 15,
+      "title": "A Time for Action: Part 1",
+      "diziid": "act",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/act/action_man/25/aksiyon_zamani%3A_1.bolum"
+    },
+    {
+      "season": 26,
+      "episode": 16,
+      "title": "A Time for Action: Part 2",
+      "diziid": "act",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/act/action_man/26/aksiyon_zamani%3A_2.bolum"
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "id": "anne",
+  "title": "yeÅŸilin kÄ±zÄ± anne",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/ANNEPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Dram",
+    "Romantik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Matthew Cuthbert Is Surprised",
+      "diziid": "anne",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/1/buyuk_bir_surpriz"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Marilla Cuthbert Is Surprised",
+      "diziid": "anne",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/2/bir_belirleyici_karsilasma"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Morning of Green Gables",
+      "diziid": "anne",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/3/green_gablesa_veda"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Anne's History",
+      "diziid": "anne",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/4/anne_hayatini_anlatiyor"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Marilla Makes Up Her Mind",
+      "diziid": "anne",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/5/marilla_karari"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Anne of Green Gables",
+      "diziid": "anne",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/6/bir_ruya_gercek_oluyor"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Mrs. Rachel Lynde Is Properly Horrified",
+      "diziid": "anne",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/7/ozur_dilemek_zor"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Anne's Impressions of Sunday School",
+      "diziid": "anne",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/8/pazar_okulu"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "A Solemn Vow",
+      "diziid": "anne",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/9/uygun_bir_kiz"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Anne Plays with a Best Friend",
+      "diziid": "anne",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/10/buyuk_bir_dostluk"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Anne Loses the Amethyst Brooch",
+      "diziid": "anne",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/11/kayip_bros"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "Anne Goes to School",
+      "diziid": "anne",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/13/okulun_ilk_gunu"
+    },
+    {
+      "season": 14,
+      "episode": 13,
+      "title": "A Tempest in Class",
+      "diziid": "anne",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/14/okulda_sorun"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "Fall Is Coming",
+      "diziid": "anne",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/15/puding_fare"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Diana Is Invited to Tea",
+      "diziid": "anne",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/16/cay_daveti"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "Anne Returns to School",
+      "diziid": "anne",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/17/onemli_bir_mektup"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "Anne Rescues Minnie May",
+      "diziid": "anne",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/18/kilik_lutfu"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "Diana's Birthday",
+      "diziid": "anne",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/19/dogum_gunu"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "Spring Once Again",
+      "diziid": "anne",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/20/bir_yil_once_oldu"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "The New Minister's Wife",
+      "diziid": "anne",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/21/veda_gozyaslari"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "The Wrong Ingredient",
+      "diziid": "anne",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/22/felaket"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "Anne Is Invited to Tea",
+      "diziid": "anne",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/23/papazin_daveti"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "An Affair of Honour",
+      "diziid": "anne",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/24/cesaret_testi"
+    },
+    {
+      "season": 26,
+      "episode": 24,
+      "title": "The Concert Plan",
+      "diziid": "anne",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/26/buyuk_planlar"
+    },
+    {
+      "season": 27,
+      "episode": 25,
+      "title": "Matthew and the Clothes Shop",
+      "diziid": "anne",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/27/hediye"
+    },
+    {
+      "season": 28,
+      "episode": 26,
+      "title": "The Christmas Concert",
+      "diziid": "anne",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/28/bircok_surpriz"
+    },
+    {
+      "season": 29,
+      "episode": 27,
+      "title": "Anne Starts the Story-Telling Club",
+      "diziid": "anne",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/29/oyku_kulubu"
+    },
+    {
+      "season": 30,
+      "episode": 28,
+      "title": "Vanity and Vexation of Spirit",
+      "diziid": "anne",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/30/aci_bir_deneyim"
+    },
+    {
+      "season": 31,
+      "episode": 29,
+      "title": "An Unfortunate Lily Maid",
+      "diziid": "anne",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/31/cankurtaran"
+    },
+    {
+      "season": 32,
+      "episode": 30,
+      "title": "An Epoch in Anne's Life",
+      "diziid": "anne",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/32/heyecan_verici_bir_yolculuk"
+    },
+    {
+      "season": 34,
+      "episode": 31,
+      "title": "Diana and the Students at Queen's",
+      "diziid": "anne",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/34/ayrilan_yollar"
+    },
+    {
+      "season": 35,
+      "episode": 32,
+      "title": "Longing for the Summer Holidays",
+      "diziid": "anne",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/35/gizli_endiseler"
+    },
+    {
+      "season": 36,
+      "episode": 33,
+      "title": "The Future of the Story Club",
+      "diziid": "anne",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/36/gecen_yaz_tatili"
+    },
+    {
+      "season": 37,
+      "episode": 34,
+      "title": "A 15-Year-Old's Spring",
+      "diziid": "anne",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/37/carmody_icin_buyuk_bir_gun"
+    },
+    {
+      "season": 38,
+      "episode": 35,
+      "title": "My Number Is 13",
+      "diziid": "anne",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/38/ironik_bir_sekilde%2C_no_13"
+    },
+    {
+      "season": 39,
+      "episode": 36,
+      "title": "The Results",
+      "diziid": "anne",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/39/sonsuza_kadar_bekle"
+    },
+    {
+      "season": 40,
+      "episode": 37,
+      "title": "The Concert Hotel",
+      "diziid": "anne",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/40/bir_buyuk_basari"
+    },
+    {
+      "season": 41,
+      "episode": 38,
+      "title": "Off to Queen's College",
+      "diziid": "anne",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/41/sasirtici_bir_teklif"
+    },
+    {
+      "season": 42,
+      "episode": 39,
+      "title": "Life on a New Campus",
+      "diziid": "anne",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/42/ogrenci_yasami"
+    },
+    {
+      "season": 43,
+      "episode": 40,
+      "title": "Home for the Weekends",
+      "diziid": "anne",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/43/burs_hayali"
+    },
+    {
+      "season": 44,
+      "episode": 41,
+      "title": "The Winter at Queen's",
+      "diziid": "anne",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/44/gurbet_ve_sinav_kaygisi"
+    },
+    {
+      "season": 45,
+      "episode": 42,
+      "title": "The Glory and the Dream",
+      "diziid": "anne",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/45/gilbert_ve_altin_madalya"
+    },
+    {
+      "season": 46,
+      "episode": 43,
+      "title": "Matthew's Love",
+      "diziid": "anne",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/46/supheler_ve_endiseler"
+    },
+    {
+      "season": 47,
+      "episode": 44,
+      "title": "The Reaper Whose Name Is Death",
+      "diziid": "anne",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/47/buyuk_bir_kayip"
+    },
+    {
+      "season": 48,
+      "episode": 45,
+      "title": "Matthew's Farewell",
+      "diziid": "anne",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/48/veda"
+    },
+    {
+      "season": 49,
+      "episode": 46,
+      "title": "The Bend in the Road",
+      "diziid": "anne",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/49/gelecek_planlari"
+    },
+    {
+      "season": 50,
+      "episode": 47,
+      "title": "God's in His Heaven, All Is Well on Earth",
+      "diziid": "anne",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/anne/yesilin_kizi_anne/50/annee_veda"
+    }
+  ]
+}

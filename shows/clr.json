@@ -1,0 +1,1005 @@
+{
+  "id": "clr",
+  "title": "clarence",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/CLRPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Fun Dungeon Face Off",
+      "diziid": "clr",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/1/eglence_zindaninda_yuzlesme"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Pretty Great Day with a Girl",
+      "diziid": "clr",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/2/guzel_bir_kiz_ile_harika_bir_gun"
+    },
+    {
+      "season": 4,
+      "episode": 3,
+      "title": "Lost in the Supermarket",
+      "diziid": "clr",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/4/super_markette_kaybolmak"
+    },
+    {
+      "season": 5,
+      "episode": 4,
+      "title": "Clarence's Millions",
+      "diziid": "clr",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/5/clarencein_milyonlari"
+    },
+    {
+      "season": 7,
+      "episode": 5,
+      "title": "Jeff's New Toy",
+      "diziid": "clr",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/7/jeffin_yeni_oyuncagi"
+    },
+    {
+      "season": 8,
+      "episode": 6,
+      "title": "Dinner Party",
+      "diziid": "clr",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/8/yemek_daveti"
+    },
+    {
+      "season": 9,
+      "episode": 7,
+      "title": "Honk",
+      "diziid": "clr",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/9/korna"
+    },
+    {
+      "season": 10,
+      "episode": 8,
+      "title": "Dollar Hunt",
+      "diziid": "clr",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/10/para_avi"
+    },
+    {
+      "season": 11,
+      "episode": 9,
+      "title": "Zoo",
+      "diziid": "clr",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/11/hayvanat_bahcesi"
+    },
+    {
+      "season": 12,
+      "episode": 10,
+      "title": "Rise 'n' Shine",
+      "diziid": "clr",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/12/hadi_uyan"
+    },
+    {
+      "season": 13,
+      "episode": 11,
+      "title": "Man of the House",
+      "diziid": "clr",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/13/evin_erkegi"
+    },
+    {
+      "season": 14,
+      "episode": 12,
+      "title": "Puddle Eyes",
+      "diziid": "clr",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/14/camur_gozler"
+    },
+    {
+      "season": 15,
+      "episode": 13,
+      "title": "Dream Boat",
+      "diziid": "clr",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/15/ruya_teknesi"
+    },
+    {
+      "season": 16,
+      "episode": 14,
+      "title": "Slumber Party",
+      "diziid": "clr",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/16/kizlar_partisi"
+    },
+    {
+      "season": 17,
+      "episode": 15,
+      "title": "Nature Clarence",
+      "diziid": "clr",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/17/clarence_dogada"
+    },
+    {
+      "season": 18,
+      "episode": 16,
+      "title": "Average Jeff",
+      "diziid": "clr",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/18/siradan_jeff"
+    },
+    {
+      "season": 19,
+      "episode": 17,
+      "title": "Lizard Day Afternoon",
+      "diziid": "clr",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/19/kertenkele_gunu"
+    },
+    {
+      "season": 20,
+      "episode": 18,
+      "title": "The Forgotten",
+      "diziid": "clr",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/20/unutulan"
+    },
+    {
+      "season": 21,
+      "episode": 19,
+      "title": "Neighborhood Grill",
+      "diziid": "clr",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/21/mahalledeki_izgara"
+    },
+    {
+      "season": 22,
+      "episode": 20,
+      "title": "Belson's Sleepover",
+      "diziid": "clr",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/22/belsonin_pijama_partisi"
+    },
+    {
+      "season": 23,
+      "episode": 21,
+      "title": "Too Gross for Comfort",
+      "diziid": "clr",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/23/ilginc_hikayeler"
+    },
+    {
+      "season": 24,
+      "episode": 22,
+      "title": "Pilot Expansion",
+      "diziid": "clr",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/24/ilk_tanisma"
+    },
+    {
+      "season": 25,
+      "episode": 23,
+      "title": "Patients",
+      "diziid": "clr",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/25/hastalar"
+    },
+    {
+      "season": 26,
+      "episode": 24,
+      "title": "Rough Riders Elementary",
+      "diziid": "clr",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/26/rough_riders_ilk_okulu"
+    },
+    {
+      "season": 27,
+      "episode": 25,
+      "title": "Nothing Ventured",
+      "diziid": "clr",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/27/tehlikeli_is"
+    },
+    {
+      "season": 28,
+      "episode": 26,
+      "title": "Bedside Manners",
+      "diziid": "clr",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/28/hastane_odasi"
+    },
+    {
+      "season": 30,
+      "episode": 27,
+      "title": "Suspended",
+      "diziid": "clr",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/30/uzaklastirma"
+    },
+    {
+      "season": 31,
+      "episode": 28,
+      "title": "Turtle Hats",
+      "diziid": "clr",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/31/kaplumbaga_sapkasi"
+    },
+    {
+      "season": 32,
+      "episode": 29,
+      "title": "Goose Chase",
+      "diziid": "clr",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/32/kazin_takibi"
+    },
+    {
+      "season": 33,
+      "episode": 30,
+      "title": "Goldfish Follies",
+      "diziid": "clr",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/33/japon_baligi"
+    },
+    {
+      "season": 34,
+      "episode": 31,
+      "title": "Chimney",
+      "diziid": "clr",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/34/chimney"
+    },
+    {
+      "season": 35,
+      "episode": 32,
+      "title": "Straight Illin",
+      "diziid": "clr",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/35/salgin"
+    },
+    {
+      "season": 36,
+      "episode": 33,
+      "title": "Dust Buddies",
+      "diziid": "clr",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/36/toz_kardesligi"
+    },
+    {
+      "season": 37,
+      "episode": 34,
+      "title": "Hurricane Dilliss",
+      "diziid": "clr",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/37/firtina_dilliss"
+    },
+    {
+      "season": 38,
+      "episode": 35,
+      "title": "Hoofin' It",
+      "diziid": "clr",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/38/domuz_yarisi"
+    },
+    {
+      "season": 39,
+      "episode": 36,
+      "title": "Detention",
+      "diziid": "clr",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/39/disiplin_cezasi"
+    },
+    {
+      "season": 40,
+      "episode": 37,
+      "title": "Hairence",
+      "diziid": "clr",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/40/sac_adam"
+    },
+    {
+      "season": 41,
+      "episode": 38,
+      "title": "Lil' Buddy",
+      "diziid": "clr",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/41/kucuk_dostum"
+    },
+    {
+      "season": 42,
+      "episode": 39,
+      "title": "Chalmers Santiago",
+      "diziid": "clr",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/42/chalmers_santiago"
+    },
+    {
+      "season": 43,
+      "episode": 40,
+      "title": "Tuckered Boys",
+      "diziid": "clr",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/43/uykusuzluk"
+    },
+    {
+      "season": 44,
+      "episode": 41,
+      "title": "Water Park!",
+      "diziid": "clr",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/44/su_parki"
+    },
+    {
+      "season": 45,
+      "episode": 42,
+      "title": "Where the Wild Chads Are",
+      "diziid": "clr",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/45/arkadasim_yabani_chad"
+    },
+    {
+      "season": 46,
+      "episode": 43,
+      "title": "Breehn Ho!",
+      "diziid": "clr",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/46/kaptan_breehn%21"
+    },
+    {
+      "season": 47,
+      "episode": 44,
+      "title": "The Big Petey Pizza Problem",
+      "diziid": "clr",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/47/buyuk_pizza_sorunu"
+    },
+    {
+      "season": 48,
+      "episode": 45,
+      "title": "The Break Up",
+      "diziid": "clr",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/48/ayrilik"
+    },
+    {
+      "season": 49,
+      "episode": 46,
+      "title": "In Dreams",
+      "diziid": "clr",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/49/ruyalarda"
+    },
+    {
+      "season": 50,
+      "episode": 47,
+      "title": "Balance",
+      "diziid": "clr",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/50/balance"
+    },
+    {
+      "season": 51,
+      "episode": 48,
+      "title": "Spooky Boo",
+      "diziid": "clr",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/51/perili_ev"
+    },
+    {
+      "season": 1,
+      "episode": 49,
+      "title": "The Interrogation",
+      "diziid": "clr",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/52/sorgulama"
+    },
+    {
+      "season": 3,
+      "episode": 50,
+      "title": "Bird Boy Man",
+      "diziid": "clr",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/54/kus_cocuk_adam"
+    },
+    {
+      "season": 4,
+      "episode": 51,
+      "title": "Freedom Cactus",
+      "diziid": "clr",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/55/kaktuse_ozgurluk"
+    },
+    {
+      "season": 5,
+      "episode": 52,
+      "title": "Plane Excited",
+      "diziid": "clr",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/56/ucakta_heyecan"
+    },
+    {
+      "season": 6,
+      "episode": 53,
+      "title": "Escape from Beyond the Cosmic",
+      "diziid": "clr",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/57/uzay_canavarindan_kacis"
+    },
+    {
+      "season": 7,
+      "episode": 54,
+      "title": "Ren Faire",
+      "diziid": "clr",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/58/panayir"
+    },
+    {
+      "season": 8,
+      "episode": 55,
+      "title": "Time Crimes",
+      "diziid": "clr",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/59/gelecege_donus"
+    },
+    {
+      "season": 9,
+      "episode": 56,
+      "title": "Saturday School",
+      "diziid": "clr",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/60/cumartesi_okulu"
+    },
+    {
+      "season": 10,
+      "episode": 57,
+      "title": "Attack the Block Party",
+      "diziid": "clr",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/61/partideki_uzaylilar"
+    },
+    {
+      "season": 11,
+      "episode": 58,
+      "title": "Field Trippin'",
+      "diziid": "clr",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/62/okul_gezisi"
+    },
+    {
+      "season": 12,
+      "episode": 59,
+      "title": "Ice Cream Hunt",
+      "diziid": "clr",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/63/dondurma_avi"
+    },
+    {
+      "season": 13,
+      "episode": 60,
+      "title": "Company Man",
+      "diziid": "clr",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/64/is_adami"
+    },
+    {
+      "season": 14,
+      "episode": 61,
+      "title": "Stump Brothers",
+      "diziid": "clr",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/65/kutuk_kardesler"
+    },
+    {
+      "season": 15,
+      "episode": 62,
+      "title": "The Tails of Mardrynia",
+      "diziid": "clr",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/66/percynin_hayvanlari"
+    },
+    {
+      "season": 16,
+      "episode": 63,
+      "title": "Clarence Wendle and the Eye of Coogan",
+      "diziid": "clr",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/67/cooganin_gozu"
+    },
+    {
+      "season": 17,
+      "episode": 64,
+      "title": "Sneaky Peeky",
+      "diziid": "clr",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/68/yonetmenlik_denemesi"
+    },
+    {
+      "season": 18,
+      "episode": 65,
+      "title": "Game Show",
+      "diziid": "clr",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/69/yarisma"
+    },
+    {
+      "season": 19,
+      "episode": 66,
+      "title": "Skater Sumo",
+      "diziid": "clr",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/70/kaykayci_sumo"
+    },
+    {
+      "season": 20,
+      "episode": 67,
+      "title": "Mystery Girl",
+      "diziid": "clr",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/71/gizemli_kiz"
+    },
+    {
+      "season": 21,
+      "episode": 68,
+      "title": "The Substitute",
+      "diziid": "clr",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/72/yeni_ogretmen"
+    },
+    {
+      "season": 22,
+      "episode": 69,
+      "title": "Classroom",
+      "diziid": "clr",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/73/sinif"
+    },
+    {
+      "season": 23,
+      "episode": 70,
+      "title": "Dullance",
+      "diziid": "clr",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/74/yalnizlik"
+    },
+    {
+      "season": 24,
+      "episode": 71,
+      "title": "Jeff's Secret",
+      "diziid": "clr",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/75/jeffin_sirri"
+    },
+    {
+      "season": 25,
+      "episode": 72,
+      "title": "Space Race",
+      "diziid": "clr",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/76/uzay_yarisi"
+    },
+    {
+      "season": 26,
+      "episode": 73,
+      "title": "Plant Daddies",
+      "diziid": "clr",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/77/bitki_buyutmek"
+    },
+    {
+      "season": 27,
+      "episode": 74,
+      "title": "Bucky and the Howl",
+      "diziid": "clr",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/78/bucky_ve_cakal"
+    },
+    {
+      "season": 28,
+      "episode": 75,
+      "title": "Worm Bin",
+      "diziid": "clr",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/79/solucan_kutusu"
+    },
+    {
+      "season": 29,
+      "episode": 76,
+      "title": "Clarence and Sumo's Rexcellent Adventure",
+      "diziid": "clr",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/80/clarence_ve_sumonun_mukemmel_macerasi"
+    },
+    {
+      "season": 30,
+      "episode": 77,
+      "title": "Birthday",
+      "diziid": "clr",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/81/dogum_gunu"
+    },
+    {
+      "season": 31,
+      "episode": 78,
+      "title": "Tree of Life",
+      "diziid": "clr",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/82/yasam_agaci"
+    },
+    {
+      "season": 1,
+      "episode": 79,
+      "title": "Capture the Flag",
+      "diziid": "clr",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/83/bayrak_kapmaca"
+    },
+    {
+      "season": 34,
+      "episode": 80,
+      "title": "Cloris",
+      "diziid": "clr",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/85/cloris"
+    },
+    {
+      "season": 35,
+      "episode": 81,
+      "title": "Fishing Trip",
+      "diziid": "clr",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/86/balik_avi"
+    },
+    {
+      "season": 36,
+      "episode": 82,
+      "title": "Belson's Backpack",
+      "diziid": "clr",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/87/belsonin_sirt_cantasi"
+    },
+    {
+      "season": 37,
+      "episode": 83,
+      "title": "Motel",
+      "diziid": "clr",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/88/motel"
+    },
+    {
+      "season": 38,
+      "episode": 84,
+      "title": "Merry Moochmas",
+      "diziid": "clr",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/89/belson_ve_kuzeni"
+    },
+    {
+      "season": 39,
+      "episode": 85,
+      "title": "Pizza Hero",
+      "diziid": "clr",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/90/pizza_kahramani"
+    },
+    {
+      "season": 1,
+      "episode": 86,
+      "title": "Sumo Goes West",
+      "diziid": "clr",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/91/sumo_batiya_gidiyor"
+    },
+    {
+      "season": 3,
+      "episode": 87,
+      "title": "Clarence for President",
+      "diziid": "clr",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/93/clarence_baskan_olsun"
+    },
+    {
+      "season": 4,
+      "episode": 88,
+      "title": "Rock Show",
+      "diziid": "clr",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/94/rock_konseri"
+    },
+    {
+      "season": 5,
+      "episode": 89,
+      "title": "The Phantom Clarence",
+      "diziid": "clr",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/95/firtinada_sabahlamak_1.bolum%3A_hayalet_clarence"
+    },
+    {
+      "season": 6,
+      "episode": 90,
+      "title": "Jeffery Wendle",
+      "diziid": "clr",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/96/firtinada_sabahlamak_2.bolum%3A_jeffrey_wendle"
+    },
+    {
+      "season": 7,
+      "episode": 91,
+      "title": "Badgers & Bunkers",
+      "diziid": "clr",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/97/firtinada_sabahlamak_3.bolum%3A_porsuklar_ve_siginaklar"
+    },
+    {
+      "season": 8,
+      "episode": 92,
+      "title": "Dingus & McNobrain",
+      "diziid": "clr",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/98/firtinada_sabahlamak_4.bolum%3A_dingus_ve_mcnobrain"
+    },
+    {
+      "season": 9,
+      "episode": 93,
+      "title": "Bye Bye Baker",
+      "diziid": "clr",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/99/firtinada_sabahlamak_5.bolum%3A_gule_gule_baker"
+    },
+    {
+      "season": 10,
+      "episode": 94,
+      "title": "Flood Brothers",
+      "diziid": "clr",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/100/firtinada_sabahlamak_6.bolum%3A_sel_kardesligi"
+    },
+    {
+      "season": 11,
+      "episode": 95,
+      "title": "Pool's Out for Summer",
+      "diziid": "clr",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/101/bu_yaz_havuz_kapali"
+    },
+    {
+      "season": 12,
+      "episode": 96,
+      "title": "Big Game",
+      "diziid": "clr",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/102/buyuk_oyun"
+    },
+    {
+      "season": 13,
+      "episode": 97,
+      "title": "The Boxcurse Children",
+      "diziid": "clr",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/103/cocuklarin_ugursuz_kutusu"
+    },
+    {
+      "season": 14,
+      "episode": 98,
+      "title": "Karate Mom",
+      "diziid": "clr",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/104/karateci_anne"
+    },
+    {
+      "season": 15,
+      "episode": 99,
+      "title": "Clarence Loves Shoopy",
+      "diziid": "clr",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/105/clarence_shoopyyi_seviyor"
+    },
+    {
+      "season": 16,
+      "episode": 100,
+      "title": "Public Radio",
+      "diziid": "clr",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/106/halk_radyosu"
+    },
+    {
+      "season": 17,
+      "episode": 101,
+      "title": "Chad and the Marathon",
+      "diziid": "clr",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/107/chad_ve_marathon"
+    },
+    {
+      "season": 18,
+      "episode": 102,
+      "title": "Officer Moody",
+      "diziid": "clr",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/108/memur_moody"
+    },
+    {
+      "season": 19,
+      "episode": 103,
+      "title": "Gilben's Different",
+      "diziid": "clr",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/109/gilben_farkli"
+    },
+    {
+      "season": 20,
+      "episode": 104,
+      "title": "Cool Guy Clarence",
+      "diziid": "clr",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/110/havali_cocuk_clarence"
+    },
+    {
+      "season": 21,
+      "episode": 105,
+      "title": "Just Wait in the Car",
+      "diziid": "clr",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/111/sen_arabada_bekle"
+    },
+    {
+      "season": 22,
+      "episode": 106,
+      "title": "Missing Cat",
+      "diziid": "clr",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/112/kayip_kedi"
+    },
+    {
+      "season": 23,
+      "episode": 107,
+      "title": "Big Trouble in Little Aberdale",
+      "diziid": "clr",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/113/kucuk_aberdalede_buyuk_sorun"
+    },
+    {
+      "season": 24,
+      "episode": 108,
+      "title": "The Dare Day",
+      "diziid": "clr",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/114/cesaret_gunu"
+    },
+    {
+      "season": 25,
+      "episode": 109,
+      "title": "The Trade",
+      "diziid": "clr",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/115/takas"
+    },
+    {
+      "season": 26,
+      "episode": 110,
+      "title": "A Nightmare on Aberdale Street: Balance's Revenge",
+      "diziid": "clr",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/116/aberdale_sokagi_kabusu%3A_balancein_intikami"
+    },
+    {
+      "season": 27,
+      "episode": 111,
+      "title": "Chadsgiving",
+      "diziid": "clr",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/117/sukran_gunu"
+    },
+    {
+      "season": 28,
+      "episode": 112,
+      "title": "A Sumoful Mind",
+      "diziid": "clr",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/118/sumoyu_dusunmek"
+    },
+    {
+      "season": 29,
+      "episode": 113,
+      "title": "Animal Day",
+      "diziid": "clr",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/119/hayvan_gunu"
+    },
+    {
+      "season": 30,
+      "episode": 114,
+      "title": "The Tunnel",
+      "diziid": "clr",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/120/tunel"
+    },
+    {
+      "season": 31,
+      "episode": 115,
+      "title": "Talent Show",
+      "diziid": "clr",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/121/yetenek_gosterisi"
+    },
+    {
+      "season": 32,
+      "episode": 116,
+      "title": "Rc Car",
+      "diziid": "clr",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/122/kumandali_araba"
+    },
+    {
+      "season": 33,
+      "episode": 117,
+      "title": "Dog King Clarence",
+      "diziid": "clr",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/123/kopek_krali_clarence"
+    },
+    {
+      "season": 34,
+      "episode": 118,
+      "title": "Trampoline",
+      "diziid": "clr",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/124/trambolin"
+    },
+    {
+      "season": 35,
+      "episode": 119,
+      "title": "Clarence the Movie",
+      "diziid": "clr",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/125/clarence_filmi"
+    },
+    {
+      "season": 36,
+      "episode": 120,
+      "title": "Belson Gets a Girlfriend",
+      "diziid": "clr",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/126/belson_ve_kiz_arkadasi"
+    },
+    {
+      "season": 37,
+      "episode": 121,
+      "title": "Brain TV",
+      "diziid": "clr",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/127/beyin_tv"
+    },
+    {
+      "season": 38,
+      "episode": 122,
+      "title": "Etiquette Clarence",
+      "diziid": "clr",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/128/gorgu_kurallari"
+    },
+    {
+      "season": 39,
+      "episode": 123,
+      "title": "Video Store",
+      "diziid": "clr",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/129/video_dukkani"
+    },
+    {
+      "season": 40,
+      "episode": 124,
+      "title": "Anywhere but Sumo",
+      "diziid": "clr",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/clr/clarence/130/sumoyu_kiskanmak"
+    }
+  ]
+}

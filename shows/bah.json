@@ -1,0 +1,93 @@
+{
+  "id": "bah",
+  "title": "bÃ¼yÃ¼cÃ¼ler: arcadia hikÃ¢yeleri",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BAHPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Spellbound",
+      "diziid": "bah",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bah/buyuculer%3A_arcadia_hikayeleri/1/sihir_mahkumu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "History in the Making",
+      "diziid": "bah",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bah/buyuculer%3A_arcadia_hikayeleri/2/tarih_yaziliyor"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Witch Hunt",
+      "diziid": "bah",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bah/buyuculer%3A_arcadia_hikayeleri/3/cadi_avi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Lady of the Lake",
+      "diziid": "bah",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bah/buyuculer%3A_arcadia_hikayeleri/4/goldeki_kadin"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Battle Royal",
+      "diziid": "bah",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bah/buyuculer%3A_arcadia_hikayeleri/5/buyuk_kavga"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Killahead, Part One",
+      "diziid": "bah",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bah/buyuculer%3A_arcadia_hikayeleri/6/olum_koprusu%2C_1._bolum"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Killahead, Part Two",
+      "diziid": "bah",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bah/buyuculer%3A_arcadia_hikayeleri/7/olum_koprusu%2C_2._bolum"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Wizard Underground",
+      "diziid": "bah",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bah/buyuculer%3A_arcadia_hikayeleri/8/yer_alti_buyucusu"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Dragon's Den",
+      "diziid": "bah",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bah/buyuculer%3A_arcadia_hikayeleri/9/ejderha_ini"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Our Final Act",
+      "diziid": "bah",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bah/buyuculer%3A_arcadia_hikayeleri/10/son_perde"
+    }
+  ]
+}

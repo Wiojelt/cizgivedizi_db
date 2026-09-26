@@ -1,0 +1,21 @@
+{
+  "id": "atud",
+  "title": "adventure time: uzak diyarlar",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ATUDPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "BMO",
+      "diziid": "atud",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/atud/adventure_time%3A_uzak_diyarlar/1/bmo"
+    }
+  ]
+}

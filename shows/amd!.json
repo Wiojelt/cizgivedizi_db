@@ -1,0 +1,964 @@
+{
+  "id": "amd!",
+  "title": "american dad!",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/AMERDPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "amd%21",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/1/pilot_bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Threat Levels",
+      "diziid": "amd%21",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/2/tehdit_seviyeleri"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Stan Knows Best",
+      "diziid": "amd%21",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/3/stan_en_iyisini_bilir"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Francine's Flashback",
+      "diziid": "amd%21",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/4/francinein_anilari"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Roger Codger",
+      "diziid": "amd%21",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/5/roger_codger"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Homeland Insecurity",
+      "diziid": "amd%21",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/6/vatan_elden_gidiyor"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Deacon Stan, Jesus Man",
+      "diziid": "amd%21",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/7/papaz_stan"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Bullocks to Stan",
+      "diziid": "amd%21",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/8/bullockstan_stane"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "A Smith in Hand",
+      "diziid": "amd%21",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/9/eldeki_smith"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "All About Steve",
+      "diziid": "amd%21",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/10/steve_hakkinda"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Con Heir",
+      "diziid": "amd%21",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/11/dolandirici_varis"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Stan of Arabia: Part 1",
+      "diziid": "amd%21",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/12/arabistanli_stan_-_bolum_i"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Stan of Arabia: Part 2",
+      "diziid": "amd%21",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/13/arabistanli_stan_-_bolum_ii"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Stannie Get Your Gun",
+      "diziid": "amd%21",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/14/silahini_al_stannie"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Star Trek",
+      "diziid": "amd%21",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/15/star_trek"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Not Particularly Desperate Housewives",
+      "diziid": "amd%21",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/16/pek_umutsuz_olmayan_ev_kadinlari"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Rough Trade",
+      "diziid": "amd%21",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/17/zorlu_degis_tokus"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Finances with Wolves",
+      "diziid": "amd%21",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/18/kurtlarla_finans"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "It's Good to Be Queen",
+      "diziid": "amd%21",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/19/kralice_olmak_iyidir"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Roger 'n Me",
+      "diziid": "amd%21",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/20/roger_ve_ben"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Helping Handis",
+      "diziid": "amd%21",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/21/engelli_yardimi"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "With Friends Like Steve's",
+      "diziid": "amd%21",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/22/steveinki_gibi_arkadaslarla"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Tears of a Clooney",
+      "diziid": "amd%21",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/23/bir_clooneynin_gozyaslari"
+    },
+    {
+      "season": 1,
+      "episode": 24,
+      "title": "Who Smarted?",
+      "diziid": "amd%21",
+      "bolum": "301",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/301/kim_akillandi"
+    },
+    {
+      "season": 2,
+      "episode": 25,
+      "title": "Russian Doll",
+      "diziid": "amd%21",
+      "bolum": "302",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/302/matruska"
+    },
+    {
+      "season": 3,
+      "episode": 26,
+      "title": "Stan Moves to Chicago",
+      "diziid": "amd%21",
+      "bolum": "303",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/303/stan%2C_chicagoya_tasiniyor"
+    },
+    {
+      "season": 4,
+      "episode": 27,
+      "title": "Shakedown Steve",
+      "diziid": "amd%21",
+      "bolum": "304",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/304/santaj_steve"
+    },
+    {
+      "season": 5,
+      "episode": 28,
+      "title": "Klaus and Rogu in \"Thank God for Loose Rocks\": An American Dad! Adventure",
+      "diziid": "amd%21",
+      "bolum": "305",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/305/klaus_ve_rogu%2C_gevsek_kayalar_icin_sukurler_olsunda%3A_bir_american_dad%21_macerasi"
+    },
+    {
+      "season": 6,
+      "episode": 29,
+      "title": "The Wondercabinet",
+      "diziid": "amd%21",
+      "bolum": "306",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/306/mucize_dolabi"
+    },
+    {
+      "season": 7,
+      "episode": 30,
+      "title": "Little Bonnie Ramirez",
+      "diziid": "amd%21",
+      "bolum": "307",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/307/minik_bonnie_ramirez"
+    },
+    {
+      "season": 8,
+      "episode": 31,
+      "title": "Dancin' A-With My Cell",
+      "diziid": "amd%21",
+      "bolum": "308",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/308/hucrelerimle_dans"
+    },
+    {
+      "season": 9,
+      "episode": 32,
+      "title": "Mused and Abused",
+      "diziid": "amd%21",
+      "bolum": "309",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/309/dalgin_ve_istismar_edilmis"
+    },
+    {
+      "season": 10,
+      "episode": 33,
+      "title": "Henderson",
+      "diziid": "amd%21",
+      "bolum": "310",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/310/henderson"
+    },
+    {
+      "season": 11,
+      "episode": 34,
+      "title": "Hot Scoomp",
+      "diziid": "amd%21",
+      "bolum": "311",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/311/seksi_kalcalar"
+    },
+    {
+      "season": 12,
+      "episode": 35,
+      "title": "Lumberjerk",
+      "diziid": "amd%21",
+      "bolum": "312",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/312/serefsiz_oduncu"
+    },
+    {
+      "season": 13,
+      "episode": 36,
+      "title": "Stan & Francine & Stan & Francine & Radika",
+      "diziid": "amd%21",
+      "bolum": "313",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/313/stan_%26_francine_%26_stan_%26_francine_%26_radika"
+    },
+    {
+      "season": 14,
+      "episode": 37,
+      "title": "Flush After Reading",
+      "diziid": "amd%21",
+      "bolum": "314",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/314/okuduktan_sonra_sifonu_cek"
+    },
+    {
+      "season": 15,
+      "episode": 38,
+      "title": "Comb Over: A Hair Piece",
+      "diziid": "amd%21",
+      "bolum": "315",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/315/didik_didik%3A_sac_teli"
+    },
+    {
+      "season": 16,
+      "episode": 39,
+      "title": "Plot Heavy",
+      "diziid": "amd%21",
+      "bolum": "316",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/316/arsa_agirligi"
+    },
+    {
+      "season": 17,
+      "episode": 40,
+      "title": "The Sinister Fate!!",
+      "diziid": "amd%21",
+      "bolum": "317",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/317/kotu_kader"
+    },
+    {
+      "season": 18,
+      "episode": 41,
+      "title": "Dr. Sunderson's SunSuckers",
+      "diziid": "amd%21",
+      "bolum": "318",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/318/dr._sundersonin_gunes_emicileri"
+    },
+    {
+      "season": 19,
+      "episode": 42,
+      "title": "Family Time",
+      "diziid": "amd%21",
+      "bolum": "319",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/319/aile_zamani"
+    },
+    {
+      "season": 20,
+      "episode": 43,
+      "title": "Cry Baby",
+      "diziid": "amd%21",
+      "bolum": "320",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/320/mizmiz_bebek"
+    },
+    {
+      "season": 21,
+      "episode": 44,
+      "title": "Crystal Clear",
+      "diziid": "amd%21",
+      "bolum": "321",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/321/apacik"
+    },
+    {
+      "season": 22,
+      "episode": 45,
+      "title": "Steve's Franken Out",
+      "diziid": "amd%21",
+      "bolum": "322",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/322/stevein_genetigi_degisti"
+    },
+    {
+      "season": 1,
+      "episode": 46,
+      "title": "Langley Dollar Listings",
+      "diziid": "amd%21",
+      "bolum": "323",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/323/langley_dolar_portfoyleri"
+    },
+    {
+      "season": 2,
+      "episode": 47,
+      "title": "Dressed Down",
+      "diziid": "amd%21",
+      "bolum": "324",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/324/gundelik_giyim"
+    },
+    {
+      "season": 3,
+      "episode": 48,
+      "title": "The Book of Fischer",
+      "diziid": "amd%21",
+      "bolum": "325",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/325/fischerin_kitabi"
+    },
+    {
+      "season": 4,
+      "episode": 49,
+      "title": "A Roger Story",
+      "diziid": "amd%21",
+      "bolum": "326",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/326/bir_roger_hikayesi"
+    },
+    {
+      "season": 5,
+      "episode": 50,
+      "title": "Epic Powder Dump",
+      "diziid": "amd%21",
+      "bolum": "327",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/327/destansi_toz_coplugu"
+    },
+    {
+      "season": 6,
+      "episode": 51,
+      "title": "American Dad Graffito",
+      "diziid": "amd%21",
+      "bolum": "328",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/328/amerikan_duvar_yazisi"
+    },
+    {
+      "season": 7,
+      "episode": 52,
+      "title": "Beyond the Alcove or: How I Learned to Stop Worrying and Love Klaus",
+      "diziid": "amd%21",
+      "bolum": "329",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/329/duvarin_arkasi_veya_endiselenmeyi_birakip_klausu_sevmeyi_nasil_ogrendim"
+    },
+    {
+      "season": 8,
+      "episode": 53,
+      "title": "A Song of Knives and Fire",
+      "diziid": "amd%21",
+      "bolum": "330",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/330/bicaklar_ve_atesin_sarkisi"
+    },
+    {
+      "season": 9,
+      "episode": 54,
+      "title": "The Curious Case of the Old Hole",
+      "diziid": "amd%21",
+      "bolum": "331",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/331/eski_cukurun_tuhaf_vakasi"
+    },
+    {
+      "season": 10,
+      "episode": 55,
+      "title": "Gold Top Nuts",
+      "diziid": "amd%21",
+      "bolum": "332",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/332/film_seridi"
+    },
+    {
+      "season": 11,
+      "episode": 56,
+      "title": "The Three Fs",
+      "diziid": "amd%21",
+      "bolum": "333",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/333/uc_f"
+    },
+    {
+      "season": 12,
+      "episode": 57,
+      "title": "Smooshed: A Love Story",
+      "diziid": "amd%21",
+      "bolum": "334",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/334/ezilmis%3A_bir_ask_hikayesi"
+    },
+    {
+      "season": 13,
+      "episode": 58,
+      "title": "The Fast and the Spurious",
+      "diziid": "amd%21",
+      "bolum": "335",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/335/hizli_ve_sahte"
+    },
+    {
+      "season": 14,
+      "episode": 59,
+      "title": "A League of His Own",
+      "diziid": "amd%21",
+      "bolum": "336",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/336/ona_ait_bir_lig"
+    },
+    {
+      "season": 15,
+      "episode": 60,
+      "title": "You Are Here",
+      "diziid": "amd%21",
+      "bolum": "337",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/337/buradasin"
+    },
+    {
+      "season": 16,
+      "episode": 61,
+      "title": "I Heard You Wanna Buy Some Speakers",
+      "diziid": "amd%21",
+      "bolum": "338",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/338/hoparlor_almak_istediginizi_duydum"
+    },
+    {
+      "season": 17,
+      "episode": 62,
+      "title": "Hayley Was a Girl Scout?",
+      "diziid": "amd%21",
+      "bolum": "339",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/339/hayley_izci_kiz_miydi"
+    },
+    {
+      "season": 18,
+      "episode": 63,
+      "title": "Please Please Jeff",
+      "diziid": "amd%21",
+      "bolum": "340",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/340/lutfen%2C_lutfen_jeff."
+    },
+    {
+      "season": 19,
+      "episode": 64,
+      "title": "Jambalaya",
+      "diziid": "amd%21",
+      "bolum": "341",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/341/jambalaya"
+    },
+    {
+      "season": 20,
+      "episode": 65,
+      "title": "Gernot and Strudel",
+      "diziid": "amd%21",
+      "bolum": "342",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/342/gernot_%26_strudel"
+    },
+    {
+      "season": 21,
+      "episode": 66,
+      "title": "Echoes",
+      "diziid": "amd%21",
+      "bolum": "343",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/343/yankilar"
+    },
+    {
+      "season": 22,
+      "episode": 67,
+      "title": "The Grounch",
+      "diziid": "amd%21",
+      "bolum": "344",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/344/yilbasi_canavari"
+    },
+    {
+      "season": 1,
+      "episode": 68,
+      "title": "Fellow Traveler",
+      "diziid": "amd%21",
+      "bolum": "345",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/345/yol_arkadasi"
+    },
+    {
+      "season": 2,
+      "episode": 69,
+      "title": "The Professor and the Coach",
+      "diziid": "amd%21",
+      "bolum": "346",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/346/profesor_ve_koc"
+    },
+    {
+      "season": 3,
+      "episode": 70,
+      "title": "Viced Principal",
+      "diziid": "amd%21",
+      "bolum": "347",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/347/mudur_yardimcisi"
+    },
+    {
+      "season": 4,
+      "episode": 71,
+      "title": "The Pleasanting at Smith House",
+      "diziid": "amd%21",
+      "bolum": "348",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/348/smith_houseda_keyif"
+    },
+    {
+      "season": 5,
+      "episode": 72,
+      "title": "Stretched Thin",
+      "diziid": "amd%21",
+      "bolum": "349",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/349/gerdirilmis_ince"
+    },
+    {
+      "season": 6,
+      "episode": 73,
+      "title": "Better on Paper",
+      "diziid": "amd%21",
+      "bolum": "350",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/350/kagit_uzerinde_daha_iyi"
+    },
+    {
+      "season": 7,
+      "episode": 74,
+      "title": "Cow I Met Your Moo-ther",
+      "diziid": "amd%21",
+      "bolum": "351",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/351/moo-nenle_nasil_tanistim"
+    },
+    {
+      "season": 8,
+      "episode": 75,
+      "title": "Stan Fixes a Shingle",
+      "diziid": "amd%21",
+      "bolum": "352",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/352/stan_kiremit_tamir_ediyor"
+    },
+    {
+      "season": 9,
+      "episode": 76,
+      "title": "Saving Face",
+      "diziid": "amd%21",
+      "bolum": "353",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/353/yuzu_kurtarmak"
+    },
+    {
+      "season": 10,
+      "episode": 77,
+      "title": "Frantastic Voyage",
+      "diziid": "amd%21",
+      "bolum": "354",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/354/frantastik_yolculuk"
+    },
+    {
+      "season": 11,
+      "episode": 78,
+      "title": "A Little Mystery",
+      "diziid": "amd%21",
+      "bolum": "355",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/355/kucuk_bir_gizem"
+    },
+    {
+      "season": 12,
+      "episode": 79,
+      "title": "Don't You Be My Neighbor",
+      "diziid": "amd%21",
+      "bolum": "356",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/356/sen_benim_komsum_olma"
+    },
+    {
+      "season": 13,
+      "episode": 80,
+      "title": "Productive Panic",
+      "diziid": "amd%21",
+      "bolum": "357",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/357/uretken_panik"
+    },
+    {
+      "season": 14,
+      "episode": 81,
+      "title": "Multiverse of American Dadness",
+      "diziid": "amd%21",
+      "bolum": "358",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/358/amerikan_babaliginin_coklu_evreni"
+    },
+    {
+      "season": 15,
+      "episode": 82,
+      "title": "Z.O.I.N.C.S.",
+      "diziid": "amd%21",
+      "bolum": "359",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/359/z.o.i.n.c.s."
+    },
+    {
+      "season": 16,
+      "episode": 83,
+      "title": "A New Era for the Smith House",
+      "diziid": "amd%21",
+      "bolum": "360",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/360/smithlerin_evi_icin_yeni_bir_donem"
+    },
+    {
+      "season": 17,
+      "episode": 84,
+      "title": "Between a Ring and a Hardass",
+      "diziid": "amd%21",
+      "bolum": "361",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/361/bir_yuzuk_ve_bir_kustah_arasinda"
+    },
+    {
+      "season": 18,
+      "episode": 85,
+      "title": "Footprints",
+      "diziid": "amd%21",
+      "bolum": "362",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/362/ayak_izleri"
+    },
+    {
+      "season": 19,
+      "episode": 86,
+      "title": "Steve, Snot, and the Quest for the Og 4LOCO",
+      "diziid": "amd%21",
+      "bolum": "363",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/363/steve_ile_snot_ve_og_4loko_arayisi"
+    },
+    {
+      "season": 20,
+      "episode": 87,
+      "title": "The Pink Sphinx Holds Her Hearts on the Turn",
+      "diziid": "amd%21",
+      "bolum": "364",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/364/the_pink_sphinx_kalbini_donuste_tutar"
+    },
+    {
+      "season": 21,
+      "episode": 88,
+      "title": "A Little Extra Scratch",
+      "diziid": "amd%21",
+      "bolum": "365",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/365/biraz_fazladan_kaziyis"
+    },
+    {
+      "season": 22,
+      "episode": 89,
+      "title": "Into the Jingleverse",
+      "diziid": "amd%21",
+      "bolum": "366",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/366/jingleversee_dogru"
+    },
+    {
+      "season": 1,
+      "episode": 90,
+      "title": "The Grocery Store Bank",
+      "diziid": "amd%21",
+      "bolum": "367",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/367/market_bankasi"
+    },
+    {
+      "season": 2,
+      "episode": 91,
+      "title": "Brown Lotus",
+      "diziid": "amd%21",
+      "bolum": "368",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/368/kahverengi_nilufer"
+    },
+    {
+      "season": 3,
+      "episode": 92,
+      "title": "I've Got a Friend in Me",
+      "diziid": "amd%21",
+      "bolum": "369",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/369/benim_dostum_benim"
+    },
+    {
+      "season": 4,
+      "episode": 93,
+      "title": "Touch the Sun: A Chimborazo Adventure",
+      "diziid": "amd%21",
+      "bolum": "370",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/370/gunese_dokunmak%3A_bir_chimborazo_macerasi"
+    },
+    {
+      "season": 5,
+      "episode": 94,
+      "title": "Under (and Over, and Beside) the Boardwalk",
+      "diziid": "amd%21",
+      "bolum": "371",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/371/iskeletin_altinda_ayrica_ustunde_ve_yaninda"
+    },
+    {
+      "season": 6,
+      "episode": 95,
+      "title": "The Violence of the Clams",
+      "diziid": "amd%21",
+      "bolum": "372",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/372/istiridyelerin_siddeti"
+    },
+    {
+      "season": 7,
+      "episode": 96,
+      "title": "An Adult Woman",
+      "diziid": "amd%21",
+      "bolum": "373",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/373/yetiskin_bir_kadin"
+    },
+    {
+      "season": 8,
+      "episode": 97,
+      "title": "Piece by Piece",
+      "diziid": "amd%21",
+      "bolum": "374",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/374/parca_parca"
+    },
+    {
+      "season": 9,
+      "episode": 98,
+      "title": "Nasty Christmas",
+      "diziid": "amd%21",
+      "bolum": "375",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/375/cirkin_noel"
+    },
+    {
+      "season": 10,
+      "episode": 99,
+      "title": "Idiot Rich",
+      "diziid": "amd%21",
+      "bolum": "376",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/376/aptal_zengin"
+    },
+    {
+      "season": 11,
+      "episode": 100,
+      "title": "Killer Mimosa",
+      "diziid": "amd%21",
+      "bolum": "377",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/377/katil_mimoza"
+    },
+    {
+      "season": 12,
+      "episode": 101,
+      "title": "The Legend of Mike Madonia, the Rototiller Man",
+      "diziid": "amd%21",
+      "bolum": "378",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/378/mike_madonia_efsanesi%2C_rototiller_adam"
+    },
+    {
+      "season": 13,
+      "episode": 102,
+      "title": "The Clearview Motel",
+      "diziid": "amd%21",
+      "bolum": "379",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/379/akik_manzara_motel"
+    },
+    {
+      "season": 14,
+      "episode": 103,
+      "title": "The Girl Who Cried Space Jam",
+      "diziid": "amd%21",
+      "bolum": "380",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/380/yalanci_coban_ve_space_jam"
+    },
+    {
+      "season": 15,
+      "episode": 104,
+      "title": "Get Him to the Greek Life Style",
+      "diziid": "amd%21",
+      "bolum": "381",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/381/yunan_gibi_yasasin"
+    },
+    {
+      "season": 16,
+      "episode": 105,
+      "title": "The Mystery of the Missing Bazooka Shark Babe",
+      "diziid": "amd%21",
+      "bolum": "382",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/382/kaybolan_bazukali_kopek_baliklari_destekcilerinin_gizemi"
+    },
+    {
+      "season": 17,
+      "episode": 106,
+      "title": "Pork 'N Feelings",
+      "diziid": "amd%21",
+      "bolum": "383",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/383/domuz_eti_ve_hisler"
+    },
+    {
+      "season": 18,
+      "episode": 107,
+      "title": "Oh Brothel, Where Art Thou?",
+      "diziid": "amd%21",
+      "bolum": "384",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/384/neredesin_be_genelev"
+    },
+    {
+      "season": 19,
+      "episode": 108,
+      "title": "The Sickness",
+      "diziid": "amd%21",
+      "bolum": "385",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/385/hastalik"
+    },
+    {
+      "season": 20,
+      "episode": 109,
+      "title": "Silicon Steve",
+      "diziid": "amd%21",
+      "bolum": "386",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/386/silikon_steve"
+    },
+    {
+      "season": 21,
+      "episode": 110,
+      "title": "Guardian",
+      "diziid": "amd%21",
+      "bolum": "387",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/387/koruyucu"
+    },
+    {
+      "season": 22,
+      "episode": 111,
+      "title": "What Great Advancements!",
+      "diziid": "amd%21",
+      "bolum": "388",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/388/ilerleme_dedigin_boyle_olur%21"
+    },
+    {
+      "season": 1,
+      "episode": 112,
+      "title": "Aw Rats, A Pool Party",
+      "diziid": "amd%21",
+      "bolum": "389",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/389/hay_aksi%2C_havuz_partisi%21"
+    },
+    {
+      "season": 2,
+      "episode": 113,
+      "title": "The Flume Flume Room",
+      "diziid": "amd%21",
+      "bolum": "390",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/390/kutuk_kutuk_odasi"
+    },
+    {
+      "season": 3,
+      "episode": 114,
+      "title": "Powering Through",
+      "diziid": "amd%21",
+      "bolum": "391",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/391/dayaniklilik"
+    },
+    {
+      "season": 4,
+      "episode": 115,
+      "title": "Camera Stan",
+      "diziid": "amd%21",
+      "bolum": "392",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/392/ekrandaki_stan"
+    },
+    {
+      "season": 5,
+      "episode": 116,
+      "title": "Idol Threat",
+      "diziid": "amd%21",
+      "bolum": "393",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/393/idol_tehdidi"
+    },
+    {
+      "season": 6,
+      "episode": 117,
+      "title": "The Treasure of Old Chinatown",
+      "diziid": "amd%21",
+      "bolum": "394",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/394/eski_cin_mahallesi_hazinesi"
+    },
+    {
+      "season": 7,
+      "episode": 118,
+      "title": "Reaper Madness",
+      "diziid": "amd%21",
+      "bolum": "395",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/395/olum_melegi_cilginligi"
+    },
+    {
+      "season": 8,
+      "episode": 119,
+      "title": "Dude, You're Getting a Del!",
+      "diziid": "amd%21",
+      "bolum": "396",
+      "url": "https://cizgivedizi.com/dizi/amd%21/american_dad%21/396/dostum%2C_bir_del_aliyorsun%21"
+    }
+  ]
+}

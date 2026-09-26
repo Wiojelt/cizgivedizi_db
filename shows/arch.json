@@ -1,0 +1,1157 @@
+{
+  "id": "arch",
+  "title": "archer",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ARCHERPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "SuÃ§/Polisiye"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Mole Hunt",
+      "diziid": "arch",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/1/pilot%3A_kostebek_avi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Training Day",
+      "diziid": "arch",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/2/egitim_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Diversity Hire",
+      "diziid": "arch",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/3/farkli_ise_alimlar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Killing Utne",
+      "diziid": "arch",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/4/utneyi_oldurmek"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Honeypot",
+      "diziid": "arch",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/5/ask_tuzagi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Skorpio",
+      "diziid": "arch",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/6/skorpio"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Skytanic",
+      "diziid": "arch",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/7/ucan_titanik"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Rock",
+      "diziid": "arch",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/8/elmas_pesinde"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Job Offer",
+      "diziid": "arch",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/9/is_teklifi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Dial M for Mother",
+      "diziid": "arch",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/10/anne_icin_a_cevir"
+    },
+    {
+      "season": 1,
+      "episode": 11,
+      "title": "Swiss Miss",
+      "diziid": "arch",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/11/isvicreli_guzel"
+    },
+    {
+      "season": 2,
+      "episode": 12,
+      "title": "A Going Concern",
+      "diziid": "arch",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/12/karli_is"
+    },
+    {
+      "season": 3,
+      "episode": 13,
+      "title": "Blood Test",
+      "diziid": "arch",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/13/kan_testi"
+    },
+    {
+      "season": 4,
+      "episode": 14,
+      "title": "Pipeline Fever",
+      "diziid": "arch",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/14/boru_hatti"
+    },
+    {
+      "season": 5,
+      "episode": 15,
+      "title": "The Double Deuce",
+      "diziid": "arch",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/15/cift_iki"
+    },
+    {
+      "season": 6,
+      "episode": 16,
+      "title": "Tragical History",
+      "diziid": "arch",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/16/trajik_gecmis"
+    },
+    {
+      "season": 7,
+      "episode": 17,
+      "title": "Movie Star",
+      "diziid": "arch",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/17/film_yildizi"
+    },
+    {
+      "season": 8,
+      "episode": 18,
+      "title": "Stage Two",
+      "diziid": "arch",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/18/ikinci_asama"
+    },
+    {
+      "season": 9,
+      "episode": 19,
+      "title": "Placebo Effect",
+      "diziid": "arch",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/19/plasebo_etkisi"
+    },
+    {
+      "season": 10,
+      "episode": 20,
+      "title": "El Secuestro",
+      "diziid": "arch",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/20/kacirma"
+    },
+    {
+      "season": 11,
+      "episode": 21,
+      "title": "Jeu Monegasque",
+      "diziid": "arch",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/21/monako_tarzi_oyun"
+    },
+    {
+      "season": 12,
+      "episode": 22,
+      "title": "White Nights",
+      "diziid": "arch",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/22/beyaz_geceler"
+    },
+    {
+      "season": 13,
+      "episode": 23,
+      "title": "Double Trouble",
+      "diziid": "arch",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/23/cifte_bela"
+    },
+    {
+      "season": 1,
+      "episode": 24,
+      "title": "Heart of Archness: Part I",
+      "diziid": "arch",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/24/kurnazligin_yuregi%2C_kisim_1"
+    },
+    {
+      "season": 2,
+      "episode": 25,
+      "title": "Heart of Archness: Part II",
+      "diziid": "arch",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/25/kurnazligin_yuregi%2C_kisim_2"
+    },
+    {
+      "season": 3,
+      "episode": 26,
+      "title": "Heart of Archness: Part III",
+      "diziid": "arch",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/26/kurnazligin_yuregi%2C_kisim_3"
+    },
+    {
+      "season": 4,
+      "episode": 27,
+      "title": "The Man from Jupiter",
+      "diziid": "arch",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/27/jupiterden_gelen_adam"
+    },
+    {
+      "season": 5,
+      "episode": 28,
+      "title": "El Contador",
+      "diziid": "arch",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/28/muhasebeci"
+    },
+    {
+      "season": 6,
+      "episode": 29,
+      "title": "The Limited",
+      "diziid": "arch",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/29/transfer"
+    },
+    {
+      "season": 7,
+      "episode": 30,
+      "title": "Drift Problem",
+      "diziid": "arch",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/30/seytan_aldi_goturdu"
+    },
+    {
+      "season": 8,
+      "episode": 31,
+      "title": "Lo Scandalo",
+      "diziid": "arch",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/31/skandal"
+    },
+    {
+      "season": 9,
+      "episode": 32,
+      "title": "Bloody Ferlin",
+      "diziid": "arch",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/32/kanli_kasaba"
+    },
+    {
+      "season": 10,
+      "episode": 33,
+      "title": "Crossing Over",
+      "diziid": "arch",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/33/gizli_iliski"
+    },
+    {
+      "season": 11,
+      "episode": 34,
+      "title": "Skin Game",
+      "diziid": "arch",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/34/ten_oyunu"
+    },
+    {
+      "season": 12,
+      "episode": 35,
+      "title": "Space Race: Part I",
+      "diziid": "arch",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/35/uzay_yarisi%2C_kisim_1"
+    },
+    {
+      "season": 13,
+      "episode": 36,
+      "title": "Space Race: Part II",
+      "diziid": "arch",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/36/uzay_yarisi%2C_kisim_2"
+    },
+    {
+      "season": 1,
+      "episode": 37,
+      "title": "Fugue and Riffs",
+      "diziid": "arch",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/37/hafiza_kaybi"
+    },
+    {
+      "season": 2,
+      "episode": 38,
+      "title": "The Wind Cries Mary",
+      "diziid": "arch",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/38/ruzgar_mary_diye_ugulduyor"
+    },
+    {
+      "season": 3,
+      "episode": 39,
+      "title": "Legs",
+      "diziid": "arch",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/39/bacaklar"
+    },
+    {
+      "season": 4,
+      "episode": 40,
+      "title": "Midnight Ron",
+      "diziid": "arch",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/40/uvey_baba"
+    },
+    {
+      "season": 5,
+      "episode": 41,
+      "title": "Vicious Coupling",
+      "diziid": "arch",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/41/sozde_yardim"
+    },
+    {
+      "season": 6,
+      "episode": 42,
+      "title": "Once Bitten",
+      "diziid": "arch",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/42/yilan_isirigi"
+    },
+    {
+      "season": 7,
+      "episode": 43,
+      "title": "Live and Let Dine",
+      "diziid": "arch",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/43/dogal_yetenek"
+    },
+    {
+      "season": 8,
+      "episode": 44,
+      "title": "Coyote Lovely",
+      "diziid": "arch",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/44/tatli_cakal"
+    },
+    {
+      "season": 9,
+      "episode": 45,
+      "title": "The Honeymooners",
+      "diziid": "arch",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/45/balayi_cifti"
+    },
+    {
+      "season": 10,
+      "episode": 46,
+      "title": "Un Chien Tangerine",
+      "diziid": "arch",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/46/fasli_kopek"
+    },
+    {
+      "season": 11,
+      "episode": 47,
+      "title": "The Papal Chase",
+      "diziid": "arch",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/47/papanin_pesinde"
+    },
+    {
+      "season": 12,
+      "episode": 48,
+      "title": "Sea Tunt: Part I",
+      "diziid": "arch",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/48/denizler_altinda%3A_1._bolum"
+    },
+    {
+      "season": 13,
+      "episode": 49,
+      "title": "Sea Tunt: Part II",
+      "diziid": "arch",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/49/denizler_altinda%3A_2._bolum"
+    },
+    {
+      "season": 1,
+      "episode": 50,
+      "title": "White Elephant",
+      "diziid": "arch",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/50/archer_vice%3A_beyaz_fil"
+    },
+    {
+      "season": 2,
+      "episode": 51,
+      "title": "A Kiss While Dying",
+      "diziid": "arch",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/51/archer_vice%3A_son_nefeste_bir_opucuk"
+    },
+    {
+      "season": 3,
+      "episode": 52,
+      "title": "A Debt of Honor",
+      "diziid": "arch",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/52/archer_vice%3A_namus_borcu"
+    },
+    {
+      "season": 4,
+      "episode": 53,
+      "title": "House Call",
+      "diziid": "arch",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/53/archer_vice%3A_ev_ziyareti"
+    },
+    {
+      "season": 5,
+      "episode": 54,
+      "title": "Southbound and Down",
+      "diziid": "arch",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/54/archer_vice%3A_guney_yollarinda"
+    },
+    {
+      "season": 6,
+      "episode": 55,
+      "title": "Smugglers' Blues",
+      "diziid": "arch",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/55/archer_vice%3A_kacakcinin_agiti"
+    },
+    {
+      "season": 7,
+      "episode": 56,
+      "title": "The Rules of Extraction",
+      "diziid": "arch",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/56/archer_vice%3A_kurtarma_kurallari"
+    },
+    {
+      "season": 8,
+      "episode": 57,
+      "title": "On the Carpet",
+      "diziid": "arch",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/57/archer_vice%3A_toplu_azar"
+    },
+    {
+      "season": 9,
+      "episode": 58,
+      "title": "Baby Shower",
+      "diziid": "arch",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/58/archer_vice%3A_bebek_hediyeleri"
+    },
+    {
+      "season": 10,
+      "episode": 59,
+      "title": "Palace Intrigue: Part I",
+      "diziid": "arch",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/59/archer_vice%3A_saray_entrikalari%3A_1._bolum"
+    },
+    {
+      "season": 11,
+      "episode": 60,
+      "title": "Palace Intrigue: Part II",
+      "diziid": "arch",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/60/archer_vice%3A_saray_entrikalari%3A_2._bolum"
+    },
+    {
+      "season": 12,
+      "episode": 61,
+      "title": "Filibuster",
+      "diziid": "arch",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/61/archer_vice%3A_haydut"
+    },
+    {
+      "season": 13,
+      "episode": 62,
+      "title": "Arrival/Departure",
+      "diziid": "arch",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/62/archer_vice%3A_varis__kalkis"
+    },
+    {
+      "season": 1,
+      "episode": 63,
+      "title": "The Holdout",
+      "diziid": "arch",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/63/anlasmazlik"
+    },
+    {
+      "season": 2,
+      "episode": 64,
+      "title": "Three to Tango",
+      "diziid": "arch",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/64/uc_kisilik_tango"
+    },
+    {
+      "season": 3,
+      "episode": 65,
+      "title": "The Archer Sanction",
+      "diziid": "arch",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/65/archer_barinagi"
+    },
+    {
+      "season": 4,
+      "episode": 66,
+      "title": "Edie's Wedding",
+      "diziid": "arch",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/66/edienin_dugunu"
+    },
+    {
+      "season": 5,
+      "episode": 67,
+      "title": "Vision Quest",
+      "diziid": "arch",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/67/asansorde"
+    },
+    {
+      "season": 6,
+      "episode": 68,
+      "title": "Sitting",
+      "diziid": "arch",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/68/bebek_bakicisi"
+    },
+    {
+      "season": 7,
+      "episode": 69,
+      "title": "Nellis",
+      "diziid": "arch",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/69/nellis"
+    },
+    {
+      "season": 8,
+      "episode": 70,
+      "title": "The Kanes",
+      "diziid": "arch",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/70/kaneler"
+    },
+    {
+      "season": 9,
+      "episode": 71,
+      "title": "Pocket Listing",
+      "diziid": "arch",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/71/emlak_satisi"
+    },
+    {
+      "season": 10,
+      "episode": 72,
+      "title": "Reignition Sequence",
+      "diziid": "arch",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/72/ask_tuzagi"
+    },
+    {
+      "season": 11,
+      "episode": 73,
+      "title": "Achub Y Morfilod",
+      "diziid": "arch",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/73/gallerde_kacamak"
+    },
+    {
+      "season": 12,
+      "episode": 74,
+      "title": "Drastic Voyage: Part I",
+      "diziid": "arch",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/74/kucuk_bir_gezi%3A_1._bolum"
+    },
+    {
+      "season": 13,
+      "episode": 75,
+      "title": "Drastic Voyage: Part II",
+      "diziid": "arch",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/75/kucuk_bir_gezi%3A_2._bolum"
+    },
+    {
+      "season": 1,
+      "episode": 76,
+      "title": "The Figgis Agency",
+      "diziid": "arch",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/76/figgis_dedektiflik"
+    },
+    {
+      "season": 2,
+      "episode": 77,
+      "title": "The Handoff",
+      "diziid": "arch",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/77/santaj"
+    },
+    {
+      "season": 3,
+      "episode": 78,
+      "title": "Deadly Prep",
+      "diziid": "arch",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/78/olumcul_hazirlik"
+    },
+    {
+      "season": 4,
+      "episode": 79,
+      "title": "Motherless Child",
+      "diziid": "arch",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/79/oksuz_cocuk"
+    },
+    {
+      "season": 5,
+      "episode": 80,
+      "title": "Bel Panto: Part I",
+      "diziid": "arch",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/80/rehine_krizi%3A_1._bolum"
+    },
+    {
+      "season": 6,
+      "episode": 81,
+      "title": "Bel Panto: Part II",
+      "diziid": "arch",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/81/rehine_krizi%3A_2._bolum"
+    },
+    {
+      "season": 7,
+      "episode": 82,
+      "title": "Double Indecency",
+      "diziid": "arch",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/82/yakisiksiz_isler"
+    },
+    {
+      "season": 8,
+      "episode": 83,
+      "title": "Liquid Lunch",
+      "diziid": "arch",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/83/sulu_bir_yemek"
+    },
+    {
+      "season": 9,
+      "episode": 84,
+      "title": "Deadly Velvet: Part I",
+      "diziid": "arch",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/84/olumcul_kadife%3A_1._bolum"
+    },
+    {
+      "season": 10,
+      "episode": 85,
+      "title": "Deadly Velvet: Part II",
+      "diziid": "arch",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/85/olumcul_kadife%3A_2._bolum"
+    },
+    {
+      "season": 1,
+      "episode": 86,
+      "title": "No Good Deed",
+      "diziid": "arch",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/86/hicbir_iyilik"
+    },
+    {
+      "season": 2,
+      "episode": 87,
+      "title": "Berenice",
+      "diziid": "arch",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/87/berenice"
+    },
+    {
+      "season": 3,
+      "episode": 88,
+      "title": "Jane Doe",
+      "diziid": "arch",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/88/kimligi_belirsiz"
+    },
+    {
+      "season": 4,
+      "episode": 89,
+      "title": "Ladyfingers",
+      "diziid": "arch",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/89/kadin_parmaklari"
+    },
+    {
+      "season": 5,
+      "episode": 90,
+      "title": "Sleepers Wake",
+      "diziid": "arch",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/90/uyanmak"
+    },
+    {
+      "season": 6,
+      "episode": 91,
+      "title": "Waxing Gibbous",
+      "diziid": "arch",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/91/siskin_ay"
+    },
+    {
+      "season": 7,
+      "episode": 92,
+      "title": "Gramercy, Halberd!",
+      "diziid": "arch",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/92/cok_tesekkurler%2C_savas_baltasi%21"
+    },
+    {
+      "season": 8,
+      "episode": 93,
+      "title": "AuflÃ¶sung",
+      "diziid": "arch",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/93/cozum"
+    },
+    {
+      "season": 1,
+      "episode": 94,
+      "title": "Strange Pilot",
+      "diziid": "arch",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/94/tuhaf_pilot"
+    },
+    {
+      "season": 2,
+      "episode": 95,
+      "title": "Disheartening Situation",
+      "diziid": "arch",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/95/ic_karartici_durum"
+    },
+    {
+      "season": 3,
+      "episode": 96,
+      "title": "Different Modes of Preparing Fruit",
+      "diziid": "arch",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/96/meyve_hazirlamanin_farkli_yollari"
+    },
+    {
+      "season": 4,
+      "episode": 97,
+      "title": "A Warrior in Costume",
+      "diziid": "arch",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/97/kostumlu_savasci"
+    },
+    {
+      "season": 5,
+      "episode": 98,
+      "title": "Strange Doings in the Taboo Groves",
+      "diziid": "arch",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/98/tabu_ormaninda_tuhaf_eylemler"
+    },
+    {
+      "season": 6,
+      "episode": 99,
+      "title": "Some Remarks on Cannibalism",
+      "diziid": "arch",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/99/yamyamlik_uzerine_birkac_not"
+    },
+    {
+      "season": 7,
+      "episode": 100,
+      "title": "Comparative Wickedness of Civilized and Unenlightened Peoples",
+      "diziid": "arch",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/100/medeni_ve_ilkel_insanlar_karsi_karsiya"
+    },
+    {
+      "season": 8,
+      "episode": 101,
+      "title": "A Discovery",
+      "diziid": "arch",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/101/bir_kesif"
+    },
+    {
+      "season": 1,
+      "episode": 102,
+      "title": "Bort the Garj",
+      "diziid": "arch",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/102/garjli_bort"
+    },
+    {
+      "season": 2,
+      "episode": 103,
+      "title": "Happy Borthday",
+      "diziid": "arch",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/103/bortun_dogum_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 104,
+      "title": "The Leftovers",
+      "diziid": "arch",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/104/yemek_artiklari"
+    },
+    {
+      "season": 4,
+      "episode": 105,
+      "title": "Dining with the Zarglorp",
+      "diziid": "arch",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/105/zarglorp_ile_yemek"
+    },
+    {
+      "season": 5,
+      "episode": 106,
+      "title": "Mr. Deadly Goes to Town",
+      "diziid": "arch",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/106/bay_olumcul"
+    },
+    {
+      "season": 6,
+      "episode": 107,
+      "title": "Road Trip",
+      "diziid": "arch",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/107/gezi"
+    },
+    {
+      "season": 7,
+      "episode": 108,
+      "title": "Space Pirates",
+      "diziid": "arch",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/108/uzay_korsanlari"
+    },
+    {
+      "season": 8,
+      "episode": 109,
+      "title": "Cubert",
+      "diziid": "arch",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/109/cubert"
+    },
+    {
+      "season": 9,
+      "episode": 110,
+      "title": "Robert De Niro",
+      "diziid": "arch",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/110/robert_de_niro"
+    },
+    {
+      "season": 1,
+      "episode": 111,
+      "title": "The Orpheus Gambit",
+      "diziid": "arch",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/111/orpheus_operasyonu"
+    },
+    {
+      "season": 2,
+      "episode": 112,
+      "title": "Bloodsploosh",
+      "diziid": "arch",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/112/kan_sicramasi"
+    },
+    {
+      "season": 3,
+      "episode": 113,
+      "title": "Helping Hands",
+      "diziid": "arch",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/113/yardimci_eller"
+    },
+    {
+      "season": 4,
+      "episode": 114,
+      "title": "Robot Factory",
+      "diziid": "arch",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/114/robot_fabrikasi"
+    },
+    {
+      "season": 5,
+      "episode": 115,
+      "title": "Best Friends",
+      "diziid": "arch",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/115/en_iyi_arkadaslar"
+    },
+    {
+      "season": 6,
+      "episode": 116,
+      "title": "The Double Date",
+      "diziid": "arch",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/116/dortlu_bulusma"
+    },
+    {
+      "season": 7,
+      "episode": 117,
+      "title": "Caught Napping",
+      "diziid": "arch",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/117/hazirliksiz_yakalanma"
+    },
+    {
+      "season": 8,
+      "episode": 118,
+      "title": "Cold Fusion",
+      "diziid": "arch",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/118/soguk_fuzyon"
+    },
+    {
+      "season": 1,
+      "episode": 119,
+      "title": "Identity Crisis",
+      "diziid": "arch",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/119/kimlik_bunalimi"
+    },
+    {
+      "season": 2,
+      "episode": 120,
+      "title": "Lowjacked",
+      "diziid": "arch",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/120/hava_korsanlari"
+    },
+    {
+      "season": 3,
+      "episode": 121,
+      "title": "London Time",
+      "diziid": "arch",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/121/londra_gunleri"
+    },
+    {
+      "season": 4,
+      "episode": 122,
+      "title": "Photo Op",
+      "diziid": "arch",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/122/fotograf_operasyonu"
+    },
+    {
+      "season": 5,
+      "episode": 123,
+      "title": "Shots",
+      "diziid": "arch",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/123/fondip"
+    },
+    {
+      "season": 6,
+      "episode": 124,
+      "title": "Dingo, Baby, Et Cetera",
+      "diziid": "arch",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/124/dingo%2C_bebek_vesaire"
+    },
+    {
+      "season": 7,
+      "episode": 125,
+      "title": "Colt Express",
+      "diziid": "arch",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/125/doktor_colt"
+    },
+    {
+      "season": 8,
+      "episode": 126,
+      "title": "Mission: Difficult",
+      "diziid": "arch",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/126/zorlu_gorev"
+    },
+    {
+      "season": 1,
+      "episode": 127,
+      "title": "The Big Con",
+      "diziid": "arch",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/127/buyuk_fuar"
+    },
+    {
+      "season": 2,
+      "episode": 128,
+      "title": "Operation: Fang",
+      "diziid": "arch",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/128/zehirli_dis_operasyonu"
+    },
+    {
+      "season": 3,
+      "episode": 129,
+      "title": "Saturday",
+      "diziid": "arch",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/129/cumartesi"
+    },
+    {
+      "season": 4,
+      "episode": 130,
+      "title": "Laws of Attraction",
+      "diziid": "arch",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/130/cekim_yasalari"
+    },
+    {
+      "season": 5,
+      "episode": 131,
+      "title": "Out of Network",
+      "diziid": "arch",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/131/ag_disi"
+    },
+    {
+      "season": 6,
+      "episode": 132,
+      "title": "Bank Run at Mr. Bank's Bank",
+      "diziid": "arch",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/132/bay_bankanin_bankasinda_soygun"
+    },
+    {
+      "season": 7,
+      "episode": 133,
+      "title": "Distraction Action",
+      "diziid": "arch",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/133/dikkat_dagitma_eylemi"
+    },
+    {
+      "season": 8,
+      "episode": 134,
+      "title": "Dough, Ray and Me",
+      "diziid": "arch",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/134/hamur%2C_ray_ve_ben"
+    },
+    {
+      "season": 1,
+      "episode": 135,
+      "title": "The Anglerfish Stratagem",
+      "diziid": "arch",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/135/fener_baligi_taktigi"
+    },
+    {
+      "season": 2,
+      "episode": 136,
+      "title": "30 for 30",
+      "diziid": "arch",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/136/30da_30"
+    },
+    {
+      "season": 3,
+      "episode": 137,
+      "title": "Plaque Removal",
+      "diziid": "arch",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/137/plak_temizleme"
+    },
+    {
+      "season": 4,
+      "episode": 138,
+      "title": "Chill Barry",
+      "diziid": "arch",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/138/sakin_ol_berry"
+    },
+    {
+      "season": 5,
+      "episode": 139,
+      "title": "Keys Open Doors",
+      "diziid": "arch",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/139/anahtarlar_kapilari_acar"
+    },
+    {
+      "season": 6,
+      "episode": 140,
+      "title": "Face Off",
+      "diziid": "arch",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/140/yuzlesme"
+    },
+    {
+      "season": 7,
+      "episode": 141,
+      "title": "Mission Out of Control Room",
+      "diziid": "arch",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/141/gorev_kontrol_odasindan_cikti"
+    },
+    {
+      "season": 8,
+      "episode": 142,
+      "title": "Breaking Fabian",
+      "diziid": "arch",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/142/fabiani_kirmak"
+    },
+    {
+      "season": 1,
+      "episode": 143,
+      "title": "Into the Cold",
+      "diziid": "arch",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/arch/archer/143/soguga_dogru"
+    }
+  ]
+}

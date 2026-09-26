@@ -1,0 +1,285 @@
+{
+  "id": "bless",
+  "title": "bless the harts",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BLESSPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Hug N' Bugs",
+      "diziid": "bless",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/1/kucaklama_ve_bocekler"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Can't Get There from Here",
+      "diziid": "bless",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/2/buradan_oraya_ulasamam"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Jenny Unfiltered",
+      "diziid": "bless",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/3/filtresiz_jenny"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Cremains of the Day",
+      "diziid": "bless",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/4/gunun_kulleri"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Trash Twins",
+      "diziid": "bless",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/5/kenar_mahalle_ikizleri"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Pig Trouble in Little Greenpoint",
+      "diziid": "bless",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/6/kucuk_greenpointte_domuz_sorunu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Myrtle Beach Memoirs",
+      "diziid": "bless",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/7/myrtle_beach_anilari"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Mega-Lo-Memories",
+      "diziid": "bless",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/8/mega-lo-anilar"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Miracle on Culpepper Slims Boulevard",
+      "diziid": "bless",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/9/culpepper_slims_bulvarinda_mucize"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Tying the Not",
+      "diziid": "bless",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/10/evlilik"
+    },
+    {
+      "season": 1,
+      "episode": 11,
+      "title": "Violet's Secret",
+      "diziid": "bless",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/11/violetin_sirri"
+    },
+    {
+      "season": 2,
+      "episode": 12,
+      "title": "The Last Supper",
+      "diziid": "bless",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/12/son_aksam_yemegi"
+    },
+    {
+      "season": 3,
+      "episode": 13,
+      "title": "My Best Frenda",
+      "diziid": "bless",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/13/en_iyi_arkadasim"
+    },
+    {
+      "season": 4,
+      "episode": 14,
+      "title": "Dead Mall",
+      "diziid": "bless",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/14/olu_alisveris_merkezi"
+    },
+    {
+      "season": 5,
+      "episode": 15,
+      "title": "Pound Pinchers",
+      "diziid": "bless",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/15/zayiflama_kulubu"
+    },
+    {
+      "season": 6,
+      "episode": 16,
+      "title": "The McEntire Truth",
+      "diziid": "bless",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/16/mcentire_gercegi"
+    },
+    {
+      "season": 7,
+      "episode": 17,
+      "title": "Mega-Lo-Memories: Part Deux",
+      "diziid": "bless",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/17/mega_lo_anilari%3A_ikinci_bolum"
+    },
+    {
+      "season": 8,
+      "episode": 18,
+      "title": "Pumped",
+      "diziid": "bless",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/18/hevesli"
+    },
+    {
+      "season": 9,
+      "episode": 19,
+      "title": "Invasion of the Potty Snatcher",
+      "diziid": "bless",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/19/lazimlik_hirsizinin_istilasi"
+    },
+    {
+      "season": 10,
+      "episode": 20,
+      "title": "Crappy Death Day",
+      "diziid": "bless",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/20/berbat_olum_gunu"
+    },
+    {
+      "season": 11,
+      "episode": 21,
+      "title": "Big Pimpin'",
+      "diziid": "bless",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/21/muhabbet_tellali"
+    },
+    {
+      "season": 12,
+      "episode": 22,
+      "title": "The Dogchurian Candidate",
+      "diziid": "bless",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/22/kopek_aday"
+    },
+    {
+      "season": 13,
+      "episode": 23,
+      "title": "Trollin' with the Homies",
+      "diziid": "bless",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/23/kankalarla_trolleme"
+    },
+    {
+      "season": 14,
+      "episode": 24,
+      "title": "Nose Bud",
+      "diziid": "bless",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/24/hizma"
+    },
+    {
+      "season": 15,
+      "episode": 25,
+      "title": "Dance Dance Resolution",
+      "diziid": "bless",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/25/dans_dans_cozumu"
+    },
+    {
+      "season": 16,
+      "episode": 26,
+      "title": "Easter's 11",
+      "diziid": "bless",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/26/paskalyanin_11i"
+    },
+    {
+      "season": 17,
+      "episode": 27,
+      "title": "Hot Tub-tation",
+      "diziid": "bless",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/27/jakuzi"
+    },
+    {
+      "season": 18,
+      "episode": 28,
+      "title": "Hoot 'n Haw",
+      "diziid": "bless",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/28/hoot_n_haw"
+    },
+    {
+      "season": 19,
+      "episode": 29,
+      "title": "The Drincan Temple",
+      "diziid": "bless",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/29/drincan_tapinagi"
+    },
+    {
+      "season": 20,
+      "episode": 30,
+      "title": "When You Lose, You Win",
+      "diziid": "bless",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/30/kaybedersen_kazanirsin"
+    },
+    {
+      "season": 21,
+      "episode": 31,
+      "title": "Haul Force One",
+      "diziid": "bless",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/31/cekme_kuvveti_bir"
+    },
+    {
+      "season": 22,
+      "episode": 32,
+      "title": "Toni with an I",
+      "diziid": "bless",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/32/i_harfli_toni"
+    },
+    {
+      "season": 23,
+      "episode": 33,
+      "title": "Tiny Pies",
+      "diziid": "bless",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/33/minik_turtalar"
+    },
+    {
+      "season": 24,
+      "episode": 34,
+      "title": "Betty's Birthday",
+      "diziid": "bless",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/bless/bless_the_harts/34/bettynin_dogum_gunu"
+    }
+  ]
+}

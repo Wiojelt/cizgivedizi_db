@@ -1,0 +1,886 @@
+{
+  "id": "btmntas",
+  "title": "batman: animasyon dizisi",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BTMNTASPoster.avif",
+  "channel": "Prime Video",
+  "genres": [
+    "SuÃ§/Polisiye",
+    "Dedektif",
+    "Gizem"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "On Leather Wings",
+      "diziid": "btmntas",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/1/deri_kanatlar"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Christmas with the Joker",
+      "diziid": "btmntas",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/2/joker_ile_noel"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Nothing to Fear",
+      "diziid": "btmntas",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/3/korkacak_bir_sey_yok"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Last Laugh",
+      "diziid": "btmntas",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/4/son_kahkaha"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Pretty Poison",
+      "diziid": "btmntas",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/5/zehirli_sarmasik"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Underdwellers",
+      "diziid": "btmntas",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/6/kanalizasyon_cetesi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "P.O.V.",
+      "diziid": "btmntas",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/7/bakis_acisi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Forgotten",
+      "diziid": "btmntas",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/8/unutulanlar"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Be a Clown",
+      "diziid": "btmntas",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/9/palyaco"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Two-Face: Part I",
+      "diziid": "btmntas",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/10/iki_yuz%2C_1._kisim"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Two-Face: Part II",
+      "diziid": "btmntas",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/11/iki_yuz%2C_2._kisim"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "It's Never Too Late",
+      "diziid": "btmntas",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/12/asla_cok_gec_sayilmaz"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "I've Got Batman in My Basement",
+      "diziid": "btmntas",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/13/batman_bodrum_katimda_saklaniyor"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Heart of Ice",
+      "diziid": "btmntas",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/14/buzdan_kalp"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Cat and the Claw: Part I",
+      "diziid": "btmntas",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/15/kedi_ve_pence%2C_1.kisim"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Cat and the Claw: Part II",
+      "diziid": "btmntas",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/16/kedi_ve_pence%2C_2._kisim"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "See No Evil",
+      "diziid": "btmntas",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/17/gorunmez_adam"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Beware the Gray Ghost",
+      "diziid": "btmntas",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/18/gri_hayalete_dikkat_edin"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Prophecy of Doom",
+      "diziid": "btmntas",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/19/kiyamet_kehaneti"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Feat of Clay: Part I",
+      "diziid": "btmntas",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/20/kil_adam%2C_1._kisim"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Feat of Clay: Part II",
+      "diziid": "btmntas",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/21/kil_adam%2C_2._kisim"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Joker's Favor",
+      "diziid": "btmntas",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/22/jokerin_istedigi_iyilik"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Vendetta",
+      "diziid": "btmntas",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/23/intikam"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Fear of Victory",
+      "diziid": "btmntas",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/24/zafer_korkusu"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "The Clock King",
+      "diziid": "btmntas",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/25/saat_krali"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Appointment in Crime Alley",
+      "diziid": "btmntas",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/26/suc_sokaginda_randevu"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Mad as a Hatter",
+      "diziid": "btmntas",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/27/cilgin_sapkaci"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Dreams in Darkness",
+      "diziid": "btmntas",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/28/karanliktaki_dusler"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Eternal Youth",
+      "diziid": "btmntas",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/29/ebedi_genclik"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Perchance to Dream",
+      "diziid": "btmntas",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/30/cok_ozel_bir_ruya"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "The Cape and Cowl Conspiracy",
+      "diziid": "btmntas",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/31/pelerin_ve_maske_komplosu"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Robin's Reckoning: Part I",
+      "diziid": "btmntas",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/32/robinin_hesaplasmasi%2C_1._kisim"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Robin's Reckoning: Part II",
+      "diziid": "btmntas",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/33/robinin_hesaplasmasi%2C_2._kisim"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "The Laughing Fish",
+      "diziid": "btmntas",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/34/gulen_balik"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Night of the Ninja",
+      "diziid": "btmntas",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/35/ninjanin_gecesi"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Cat Scratch Fever",
+      "diziid": "btmntas",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/36/kedi_tirmalamasi_atesi"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "The Strange Secret of Bruce Wayne",
+      "diziid": "btmntas",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/37/bruce_waynein_tuhaf_sirri"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Heart of Steel: Part I",
+      "diziid": "btmntas",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/38/celikten_kalp%2C_1._kisim"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Heart of Steel: Part II",
+      "diziid": "btmntas",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/39/celikten_kalp%2C_2._kisim"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "If You're So Smart, Why Aren't You Rich?",
+      "diziid": "btmntas",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/40/bu_kadar_akilliysan_neden_zengin_degilsin"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Joker's Wild",
+      "diziid": "btmntas",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/41/jokerin_donusu"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Tyger, Tyger",
+      "diziid": "btmntas",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/42/kaplan%2C_kaplan"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Moon of the Wolf",
+      "diziid": "btmntas",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/43/kurdun_dolunayi"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Day of the Samurai",
+      "diziid": "btmntas",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/44/samurayin_gunu"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Terror in the Sky",
+      "diziid": "btmntas",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/45/gokyuzunde_dehset"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Almost Got 'Im",
+      "diziid": "btmntas",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/46/neredeyse_isini_bitiriyordum"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Birds of a Feather",
+      "diziid": "btmntas",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/47/davul_bile_dengi_dengine"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "What Is Reality?",
+      "diziid": "btmntas",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/48/sanal_gerceklik"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "I Am the Night",
+      "diziid": "btmntas",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/49/ben_geceyim"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Off Balance",
+      "diziid": "btmntas",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/50/dengesiz"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "The Man Who Killed Batman",
+      "diziid": "btmntas",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/51/batmani_olduren_adam"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Mudslide",
+      "diziid": "btmntas",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/52/camur_deryasi"
+    },
+    {
+      "season": 53,
+      "episode": 53,
+      "title": "Paging the Crime Doctor",
+      "diziid": "btmntas",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/53/suc_doktoru"
+    },
+    {
+      "season": 54,
+      "episode": 54,
+      "title": "Zatanna",
+      "diziid": "btmntas",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/54/zatanna"
+    },
+    {
+      "season": 55,
+      "episode": 55,
+      "title": "The Mechanic",
+      "diziid": "btmntas",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/55/teknisyen"
+    },
+    {
+      "season": 56,
+      "episode": 56,
+      "title": "Harley and Ivy",
+      "diziid": "btmntas",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/56/harley_ve_sarmasik"
+    },
+    {
+      "season": 57,
+      "episode": 57,
+      "title": "Shadow of the Bat: Part I",
+      "diziid": "btmntas",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/57/yarasa_golgesi%2C_1._kisim"
+    },
+    {
+      "season": 58,
+      "episode": 58,
+      "title": "Shadow of the Bat: Part II",
+      "diziid": "btmntas",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/58/yarasa_golgesi%2C_2._kisim"
+    },
+    {
+      "season": 59,
+      "episode": 59,
+      "title": "Blind as a Bat",
+      "diziid": "btmntas",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/59/yarasa_kadar_kor"
+    },
+    {
+      "season": 60,
+      "episode": 60,
+      "title": "The Demon's Quest: Part I",
+      "diziid": "btmntas",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/60/seytanin_arayisi%2C_1._kisim"
+    },
+    {
+      "season": 61,
+      "episode": 61,
+      "title": "The Demon's Quest: Part II",
+      "diziid": "btmntas",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/61/seytanin_arayisi%2C_2._kisim"
+    },
+    {
+      "season": 62,
+      "episode": 62,
+      "title": "His Silicon Soul",
+      "diziid": "btmntas",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/62/silikon_bir_ruh"
+    },
+    {
+      "season": 63,
+      "episode": 63,
+      "title": "Fire from Olympus",
+      "diziid": "btmntas",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/63/olimpos_atesi"
+    },
+    {
+      "season": 64,
+      "episode": 64,
+      "title": "Read My Lips",
+      "diziid": "btmntas",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/64/dudaklarimi_oku"
+    },
+    {
+      "season": 65,
+      "episode": 65,
+      "title": "The Worry Men",
+      "diziid": "btmntas",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/65/endiseli_adamlar"
+    },
+    {
+      "season": 1,
+      "episode": 66,
+      "title": "Sideshow",
+      "diziid": "btmntas",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/66/gosteri"
+    },
+    {
+      "season": 2,
+      "episode": 67,
+      "title": "A Bullet for Bullock",
+      "diziid": "btmntas",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/67/bullocka_bir_kursun"
+    },
+    {
+      "season": 3,
+      "episode": 68,
+      "title": "Trial",
+      "diziid": "btmntas",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/68/deneme"
+    },
+    {
+      "season": 4,
+      "episode": 69,
+      "title": "Avatar",
+      "diziid": "btmntas",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/69/avatar"
+    },
+    {
+      "season": 5,
+      "episode": 70,
+      "title": "House & Garden",
+      "diziid": "btmntas",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/70/ev_ve_bahce"
+    },
+    {
+      "season": 6,
+      "episode": 71,
+      "title": "The Terrible Trio",
+      "diziid": "btmntas",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/71/korkunc_uclu"
+    },
+    {
+      "season": 7,
+      "episode": 72,
+      "title": "Harlequinade",
+      "diziid": "btmntas",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/72/harlequinade"
+    },
+    {
+      "season": 8,
+      "episode": 73,
+      "title": "Time Out of Joint",
+      "diziid": "btmntas",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/73/eklem_disi_zaman"
+    },
+    {
+      "season": 9,
+      "episode": 74,
+      "title": "Catwalk",
+      "diziid": "btmntas",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/74/podyum"
+    },
+    {
+      "season": 10,
+      "episode": 75,
+      "title": "Bane",
+      "diziid": "btmntas",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/75/yikim"
+    },
+    {
+      "season": 11,
+      "episode": 76,
+      "title": "Baby-Doll",
+      "diziid": "btmntas",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/76/oyuncak_bebek"
+    },
+    {
+      "season": 12,
+      "episode": 77,
+      "title": "The Lion and the Unicorn",
+      "diziid": "btmntas",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/77/aslan_ve_tekboynuz"
+    },
+    {
+      "season": 13,
+      "episode": 78,
+      "title": "Showdown",
+      "diziid": "btmntas",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/78/hesaplasma"
+    },
+    {
+      "season": 14,
+      "episode": 79,
+      "title": "Riddler's Reform",
+      "diziid": "btmntas",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/79/riddlerin_reformu"
+    },
+    {
+      "season": 15,
+      "episode": 80,
+      "title": "Second Chance",
+      "diziid": "btmntas",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/80/ikinci_sans"
+    },
+    {
+      "season": 16,
+      "episode": 81,
+      "title": "Harley's Holiday",
+      "diziid": "btmntas",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/81/harleyin_tatili"
+    },
+    {
+      "season": 17,
+      "episode": 82,
+      "title": "Lock-Up",
+      "diziid": "btmntas",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/82/kilitlemek"
+    },
+    {
+      "season": 18,
+      "episode": 83,
+      "title": "Make 'Em Laugh",
+      "diziid": "btmntas",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/83/onlari_guldur"
+    },
+    {
+      "season": 19,
+      "episode": 84,
+      "title": "Deep Freeze",
+      "diziid": "btmntas",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/84/derin_dondurucu"
+    },
+    {
+      "season": 20,
+      "episode": 85,
+      "title": "Batgirl Returns",
+      "diziid": "btmntas",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/85/batgirl_geri_donuyor"
+    },
+    {
+      "season": 1,
+      "episode": 86,
+      "title": "Holiday Knights",
+      "diziid": "btmntas",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/86/tatil_sovalyeleri"
+    },
+    {
+      "season": 2,
+      "episode": 87,
+      "title": "Sins of the Father",
+      "diziid": "btmntas",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/87/gunahlarin_babasi"
+    },
+    {
+      "season": 3,
+      "episode": 88,
+      "title": "Cold Comfort",
+      "diziid": "btmntas",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/88/soguk_konfor"
+    },
+    {
+      "season": 4,
+      "episode": 89,
+      "title": "Double Talk",
+      "diziid": "btmntas",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/89/cift_konusma"
+    },
+    {
+      "season": 5,
+      "episode": 90,
+      "title": "You Scratch My Back",
+      "diziid": "btmntas",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/90/sirtimi_kasidin"
+    },
+    {
+      "season": 6,
+      "episode": 91,
+      "title": "Never Fear",
+      "diziid": "btmntas",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/91/asla_korkma"
+    },
+    {
+      "season": 7,
+      "episode": 92,
+      "title": "Joker's Millions",
+      "diziid": "btmntas",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/92/jokerin_milyonlari"
+    },
+    {
+      "season": 8,
+      "episode": 93,
+      "title": "Growing Pains",
+      "diziid": "btmntas",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/93/buyuyen_agrilari"
+    },
+    {
+      "season": 9,
+      "episode": 94,
+      "title": "Love Is a Croc",
+      "diziid": "btmntas",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/94/ask_bir_timsahtir"
+    },
+    {
+      "season": 10,
+      "episode": 95,
+      "title": "Torch Song",
+      "diziid": "btmntas",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/95/mesale_sarkisi"
+    },
+    {
+      "season": 11,
+      "episode": 96,
+      "title": "The Ultimate Thrill",
+      "diziid": "btmntas",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/96/nihai_heyecan"
+    },
+    {
+      "season": 12,
+      "episode": 97,
+      "title": "Over the Edge",
+      "diziid": "btmntas",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/97/sinirin_otesinde"
+    },
+    {
+      "season": 13,
+      "episode": 98,
+      "title": "Mean Seasons",
+      "diziid": "btmntas",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/98/ortalama_mevsimler"
+    },
+    {
+      "season": 14,
+      "episode": 99,
+      "title": "Critters",
+      "diziid": "btmntas",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/99/yaratiklar"
+    },
+    {
+      "season": 15,
+      "episode": 100,
+      "title": "Cult of the Cat",
+      "diziid": "btmntas",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/100/kedi_kultu"
+    },
+    {
+      "season": 16,
+      "episode": 101,
+      "title": "Animal Act",
+      "diziid": "btmntas",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/101/hayvan_yasasi"
+    },
+    {
+      "season": 17,
+      "episode": 102,
+      "title": "Old Wounds",
+      "diziid": "btmntas",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/102/eski_yaralar"
+    },
+    {
+      "season": 18,
+      "episode": 103,
+      "title": "The Demon Within",
+      "diziid": "btmntas",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/103/icimdeki_seytan"
+    },
+    {
+      "season": 19,
+      "episode": 104,
+      "title": "Legends of the Dark Knight",
+      "diziid": "btmntas",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/104/kara_sovalye_efsaneleri"
+    },
+    {
+      "season": 20,
+      "episode": 105,
+      "title": "Girls' Night Out",
+      "diziid": "btmntas",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/105/kizlar_icin_gece_eglencesi"
+    },
+    {
+      "season": 21,
+      "episode": 106,
+      "title": "Mad Love",
+      "diziid": "btmntas",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/106/cilgin_ask"
+    },
+    {
+      "season": 22,
+      "episode": 107,
+      "title": "Chemistry",
+      "diziid": "btmntas",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/107/kimya"
+    },
+    {
+      "season": 23,
+      "episode": 108,
+      "title": "Beware the Creeper",
+      "diziid": "btmntas",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/108/creepera_dikkat_edin"
+    },
+    {
+      "season": 24,
+      "episode": 109,
+      "title": "Judgment Day",
+      "diziid": "btmntas",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/btmntas/batman%3A_animasyon_dizisi/109/yargi_gunu"
+    }
+  ]
+}

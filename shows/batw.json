@@ -1,0 +1,700 @@
+{
+  "id": "batw",
+  "title": "batwheels",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BATWPoster.avif",
+  "channel": "Cartoonito",
+  "genres": [
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Secret Origin of the Batwheels",
+      "diziid": "batw",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/1/batwheels%3A_baslangic"
+    },
+    {
+      "season": 4,
+      "episode": 2,
+      "title": "Stop That Ducky!",
+      "diziid": "batw",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/4/duckyyi_durdurun%21"
+    },
+    {
+      "season": 5,
+      "episode": 3,
+      "title": "Buff's BFF",
+      "diziid": "batw",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/5/buffin_en_iyi_arkadasi"
+    },
+    {
+      "season": 6,
+      "episode": 4,
+      "title": "Up in the Air",
+      "diziid": "batw",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/6/canli_yayin"
+    },
+    {
+      "season": 7,
+      "episode": 5,
+      "title": "Bibi's Do-Over",
+      "diziid": "batw",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/7/bibi_geri_sariyor"
+    },
+    {
+      "season": 8,
+      "episode": 6,
+      "title": "Sidekicked to the Curb",
+      "diziid": "batw",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/8/takimin_disinda_olmak"
+    },
+    {
+      "season": 9,
+      "episode": 7,
+      "title": "Keep Calm and Roll On",
+      "diziid": "batw",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/9/sakin_ol_ve_devam_et"
+    },
+    {
+      "season": 10,
+      "episode": 8,
+      "title": "Bam's Upgrade",
+      "diziid": "batw",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/10/bamin_guncellemesi"
+    },
+    {
+      "season": 11,
+      "episode": 9,
+      "title": "Redbird's Bogus Beach Day",
+      "diziid": "batw",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/11/redbirdun_sozde_sahil_gezisi"
+    },
+    {
+      "season": 12,
+      "episode": 10,
+      "title": "Cave Sweet Cave",
+      "diziid": "batw",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/12/magaram_guzel_magaram"
+    },
+    {
+      "season": 13,
+      "episode": 11,
+      "title": "Scaredy-Bat",
+      "diziid": "batw",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/13/korkak_yarasa"
+    },
+    {
+      "season": 14,
+      "episode": 12,
+      "title": "Riddle Me This",
+      "diziid": "batw",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/14/hadi_bunu_bana_coz"
+    },
+    {
+      "season": 15,
+      "episode": 13,
+      "title": "Zoomsday",
+      "diziid": "batw",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/15/zoomlarin_gunu"
+    },
+    {
+      "season": 16,
+      "episode": 14,
+      "title": "Rev and Let Rev",
+      "diziid": "batw",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/16/sesli_ve_sessiz_devir"
+    },
+    {
+      "season": 17,
+      "episode": 15,
+      "title": "Batcomputer for a Day",
+      "diziid": "batw",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/17/bir_gunlugune_batbilgisayar"
+    },
+    {
+      "season": 18,
+      "episode": 16,
+      "title": "Grass is Greener",
+      "diziid": "batw",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/18/yeseren_cimenler"
+    },
+    {
+      "season": 1,
+      "episode": 17,
+      "title": "Holidays on Ice",
+      "diziid": "batw",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/19/buzda_tatil"
+    },
+    {
+      "season": 21,
+      "episode": 18,
+      "title": "Bam's Clawful Mistake",
+      "diziid": "batw",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/21/bamin_korkunc_hatasi"
+    },
+    {
+      "season": 22,
+      "episode": 19,
+      "title": "Harley Did It",
+      "diziid": "batw",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/22/harley_yapti"
+    },
+    {
+      "season": 23,
+      "episode": 20,
+      "title": "Buff in a China Shop",
+      "diziid": "batw",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/23/buff_zuccaciye_dukkaninda"
+    },
+    {
+      "season": 24,
+      "episode": 21,
+      "title": "A Tale of Two Bibis",
+      "diziid": "batw",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/24/iki_bibinin_hikayesi"
+    },
+    {
+      "season": 25,
+      "episode": 22,
+      "title": "Batty Race",
+      "diziid": "batw",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/25/yarasa_yarisi"
+    },
+    {
+      "season": 26,
+      "episode": 23,
+      "title": "When You're a Jet",
+      "diziid": "batw",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/26/jet_olmak"
+    },
+    {
+      "season": 27,
+      "episode": 24,
+      "title": "Ride Along",
+      "diziid": "batw",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/27/devriye"
+    },
+    {
+      "season": 28,
+      "episode": 25,
+      "title": "Wheels Just Want to Have Fun",
+      "diziid": "batw",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/28/whellar_eglenmek_istiyor"
+    },
+    {
+      "season": 29,
+      "episode": 26,
+      "title": "Tough Buff Blues",
+      "diziid": "batw",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/29/sert_buff_sorunu"
+    },
+    {
+      "season": 30,
+      "episode": 27,
+      "title": "Wheel Side Story",
+      "diziid": "batw",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/30/tekerlek_yakasi_hikayesi"
+    },
+    {
+      "season": 31,
+      "episode": 28,
+      "title": "Ace in the Hole",
+      "diziid": "batw",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/31/biricik_ace"
+    },
+    {
+      "season": 32,
+      "episode": 29,
+      "title": "Mechanic Panic",
+      "diziid": "batw",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/32/teknisyen_panigi"
+    },
+    {
+      "season": 33,
+      "episode": 30,
+      "title": "Improvise My Ride",
+      "diziid": "batw",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/33/dogaclama_yapalim"
+    },
+    {
+      "season": 34,
+      "episode": 31,
+      "title": "Dynamic Du-Oh-No",
+      "diziid": "batw",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/34/dinamik_ikili"
+    },
+    {
+      "season": 35,
+      "episode": 32,
+      "title": "To the Batmobile!",
+      "diziid": "batw",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/35/batmobile%21"
+    },
+    {
+      "season": 36,
+      "episode": 33,
+      "title": "The Dark Night",
+      "diziid": "batw",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/36/kara_gece"
+    },
+    {
+      "season": 37,
+      "episode": 34,
+      "title": "License to Joke",
+      "diziid": "batw",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/37/saka_yetkisi"
+    },
+    {
+      "season": 38,
+      "episode": 35,
+      "title": "Bibi's Bad Day",
+      "diziid": "batw",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/38/bibinin_kotu_gunu"
+    },
+    {
+      "season": 39,
+      "episode": 36,
+      "title": "A Jet Out of Water",
+      "diziid": "batw",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/39/sudan_cikmis_jet"
+    },
+    {
+      "season": 40,
+      "episode": 37,
+      "title": "Batty Body Swap",
+      "diziid": "batw",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/40/batty_govde_degisimi"
+    },
+    {
+      "season": 1,
+      "episode": 38,
+      "title": "Nightbike",
+      "diziid": "batw",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/41/nightbike"
+    },
+    {
+      "season": 2,
+      "episode": 39,
+      "title": "Bat-Light Blow-Out",
+      "diziid": "batw",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/42/bat-sinyal_bozuldu"
+    },
+    {
+      "season": 3,
+      "episode": 40,
+      "title": "Kitty's Sleepover",
+      "diziid": "batw",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/43/kitty_yatiya_kaliyor"
+    },
+    {
+      "season": 4,
+      "episode": 41,
+      "title": "Mission: Stuffed Animal",
+      "diziid": "batw",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/44/gorev%3A_pelus_hayvan"
+    },
+    {
+      "season": 5,
+      "episode": 42,
+      "title": "Follow the Bouncing Bam",
+      "diziid": "batw",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/45/ziplayan_bami_takip_et"
+    },
+    {
+      "season": 6,
+      "episode": 43,
+      "title": "Big Rig Bam",
+      "diziid": "batw",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/46/tir_bam"
+    },
+    {
+      "season": 7,
+      "episode": 44,
+      "title": "Air-Show, Don't Tell",
+      "diziid": "batw",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/47/hava_gosterisinden_bahsetme"
+    },
+    {
+      "season": 8,
+      "episode": 45,
+      "title": "Monster Truck Amok",
+      "diziid": "batw",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/48/canavar_kamyon_cilginligi"
+    },
+    {
+      "season": 9,
+      "episode": 46,
+      "title": "Razzle Dazzle Frazzle",
+      "diziid": "batw",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/49/isilti%2C_parilti%2C_sihir"
+    },
+    {
+      "season": 10,
+      "episode": 47,
+      "title": "Multi-MOE",
+      "diziid": "batw",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/50/coklu_moe"
+    },
+    {
+      "season": 11,
+      "episode": 48,
+      "title": "The Ulti-Bat Rises Part 1",
+      "diziid": "batw",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/51/ulti-bat_yukseliyor_1.kisim"
+    },
+    {
+      "season": 12,
+      "episode": 49,
+      "title": "The Ulti-Bat Rises Part 2",
+      "diziid": "batw",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/52/ulti-bat_yukseliyor_2.kisim"
+    },
+    {
+      "season": 13,
+      "episode": 50,
+      "title": "A T-Rexcellent Adventure",
+      "diziid": "batw",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/53/t-rexkulade_seruven"
+    },
+    {
+      "season": 14,
+      "episode": 51,
+      "title": "Bats in Show",
+      "diziid": "batw",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/54/batlerin_gosterisi"
+    },
+    {
+      "season": 15,
+      "episode": 52,
+      "title": "The Gotham Guardians",
+      "diziid": "batw",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/55/gotham_muhafizlari"
+    },
+    {
+      "season": 16,
+      "episode": 53,
+      "title": "Save the Bat Dance for Me",
+      "diziid": "batw",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/56/dansini_bana_sakla"
+    },
+    {
+      "season": 17,
+      "episode": 54,
+      "title": "Nightbike's Noisy Night",
+      "diziid": "batw",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/57/nightbikein_gurultulu_gecesi"
+    },
+    {
+      "season": 18,
+      "episode": 55,
+      "title": "Bite-Sized Buff",
+      "diziid": "batw",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/58/minicik_buff"
+    },
+    {
+      "season": 19,
+      "episode": 56,
+      "title": "Redbird-O-Flage",
+      "diziid": "batw",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/59/redbird_kamuflaji"
+    },
+    {
+      "season": 20,
+      "episode": 57,
+      "title": "Pumpkin Panic",
+      "diziid": "batw",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/60/bal_kabagi_panigi"
+    },
+    {
+      "season": 21,
+      "episode": 58,
+      "title": "The Wizard of Bats Part 1",
+      "diziid": "batw",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/61/yarasa_buyucusu_1.bolum"
+    },
+    {
+      "season": 22,
+      "episode": 59,
+      "title": "The Wizard of Bats Part 2",
+      "diziid": "batw",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/62/yarasa_buyucusu_2.bolum"
+    },
+    {
+      "season": 23,
+      "episode": 60,
+      "title": "The Great Christmas Caper Part 1",
+      "diziid": "batw",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/63/buyuk_noel_soygunu_bolum_1"
+    },
+    {
+      "season": 24,
+      "episode": 61,
+      "title": "The Great Christmas Caper Part 2",
+      "diziid": "batw",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/64/buyuk_noel_soygunu_2.bolum"
+    },
+    {
+      "season": 25,
+      "episode": 62,
+      "title": "The Batgirlmobile",
+      "diziid": "batw",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/65/batgirlmobil"
+    },
+    {
+      "season": 26,
+      "episode": 63,
+      "title": "Music Meister Mayhem",
+      "diziid": "batw",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/66/muzik_meister_kargasasi"
+    },
+    {
+      "season": 27,
+      "episode": 64,
+      "title": "Batwing and the Nets",
+      "diziid": "batw",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/67/batwing_ve_aglar"
+    },
+    {
+      "season": 28,
+      "episode": 65,
+      "title": "Clay Date",
+      "diziid": "batw",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/68/camur_gecesi"
+    },
+    {
+      "season": 29,
+      "episode": 66,
+      "title": "Wish Upon a Car",
+      "diziid": "batw",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/69/bir_dilek_tut"
+    },
+    {
+      "season": 30,
+      "episode": 67,
+      "title": "Bibi's Bat-Belt Blunder",
+      "diziid": "batw",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/70/bibinin_bat-kemer_sorunu"
+    },
+    {
+      "season": 31,
+      "episode": 68,
+      "title": "Lend Me Your Volunteer",
+      "diziid": "batw",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/71/gonullu_olur_musun"
+    },
+    {
+      "season": 32,
+      "episode": 69,
+      "title": "Condiment Chaos!",
+      "diziid": "batw",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/72/sos_kaosu%21"
+    },
+    {
+      "season": 33,
+      "episode": 70,
+      "title": "Bat-Blast-Off!",
+      "diziid": "batw",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/73/bat-firtina%21"
+    },
+    {
+      "season": 34,
+      "episode": 71,
+      "title": "Flight of the Kitty",
+      "diziid": "batw",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/74/kittynin_ucusu"
+    },
+    {
+      "season": 35,
+      "episode": 72,
+      "title": "The Bestah Way",
+      "diziid": "batw",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/75/bestah_yontemi"
+    },
+    {
+      "season": 36,
+      "episode": 73,
+      "title": "MOE Alone",
+      "diziid": "batw",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/76/moe_tek_basina"
+    },
+    {
+      "season": 37,
+      "episode": 74,
+      "title": "Bat-Buds Forever",
+      "diziid": "batw",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/77/sonsuza_dek_bat_kankayiz"
+    },
+    {
+      "season": 38,
+      "episode": 75,
+      "title": "Banebuggy",
+      "diziid": "batw",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/78/banebuggy"
+    },
+    {
+      "season": 39,
+      "episode": 76,
+      "title": "Spiffledipped",
+      "diziid": "batw",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/79/spiffledipped"
+    },
+    {
+      "season": 40,
+      "episode": 77,
+      "title": "Bibi and the Bad Seed",
+      "diziid": "batw",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/80/bibi_ve_kotu_tohum"
+    },
+    {
+      "season": 1,
+      "episode": 78,
+      "title": "Gotham, We Have a Problem",
+      "diziid": "batw",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/81/batwheels%3A_gotham%2C_bir_sorunumuz_var_1._ve_2._bolum"
+    },
+    {
+      "season": 3,
+      "episode": 79,
+      "title": "Betterwheels",
+      "diziid": "batw",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/83/betterwheels"
+    },
+    {
+      "season": 4,
+      "episode": 80,
+      "title": "The Tumbler Begins",
+      "diziid": "batw",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/84/tumbler_basliyor"
+    },
+    {
+      "season": 5,
+      "episode": 81,
+      "title": "Sizzie Strong",
+      "diziid": "batw",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/85/birlikte_gucluyuz"
+    },
+    {
+      "season": 6,
+      "episode": 82,
+      "title": "Kitty Kong",
+      "diziid": "batw",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/86/kitty_kong"
+    },
+    {
+      "season": 7,
+      "episode": 83,
+      "title": "Sidecar Chaos",
+      "diziid": "batw",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/87/yan_sepet_kaosu"
+    },
+    {
+      "season": 8,
+      "episode": 84,
+      "title": "Flight Night",
+      "diziid": "batw",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/88/ucus_gecesi"
+    },
+    {
+      "season": 9,
+      "episode": 85,
+      "title": "It's My Bat Birthday Too, Yeah",
+      "diziid": "batw",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/89/bu_benim_de_dogum_gunum"
+    },
+    {
+      "season": 10,
+      "episode": 86,
+      "title": "Batdraft",
+      "diziid": "batw",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/batw/batwheels/90/batdraft"
+    }
+  ]
+}

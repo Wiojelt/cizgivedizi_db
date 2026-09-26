@@ -1,0 +1,53 @@
+{
+  "id": "astoburÅŸef",
+  "title": "asteriks ve oburiks: ÅŸefler savaÅŸÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ASTOBURÅEFPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Episode I",
+      "diziid": "astobur%C5%9Fef",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/astobur%C5%9Fef/asteriks_ve_oburiks%3A_sefler_savasi/1/bolum_i"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Episode II",
+      "diziid": "astobur%C5%9Fef",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/astobur%C5%9Fef/asteriks_ve_oburiks%3A_sefler_savasi/2/bolum_ii"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Episode III",
+      "diziid": "astobur%C5%9Fef",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/astobur%C5%9Fef/asteriks_ve_oburiks%3A_sefler_savasi/3/bolum_iii"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Episode IV",
+      "diziid": "astobur%C5%9Fef",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/astobur%C5%9Fef/asteriks_ve_oburiks%3A_sefler_savasi/4/bolum_iv"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Episode V",
+      "diziid": "astobur%C5%9Fef",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/astobur%C5%9Fef/asteriks_ve_oburiks%3A_sefler_savasi/5/bolum_v"
+    }
+  ]
+}

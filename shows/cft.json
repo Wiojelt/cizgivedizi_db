@@ -1,0 +1,428 @@
+{
+  "id": "cft",
+  "title": "croodlar: soy aÄŸacÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/CFTPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Sticky Business",
+      "diziid": "cft",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/1/yapiskan_isler"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Guy Time",
+      "diziid": "cft",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/2/guy_zamani"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Game Nightmare",
+      "diziid": "cft",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/3/oyun_kabusu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "What Goes Eep Must Come Dawn",
+      "diziid": "cft",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/4/eep_cikar%2C_dawn_iner"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Parental Stridence",
+      "diziid": "cft",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/5/ebeveyn_cekismesi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Flopping of the Bullruses",
+      "diziid": "cft",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/6/morslarin_cirpinisi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Remote Control",
+      "diziid": "cft",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/7/uzaktan_kumanda"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Daddy Daughter Day",
+      "diziid": "cft",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/8/baba-kiz_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "There's No Phil in Team",
+      "diziid": "cft",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/9/takimda_%E2%80%9Cphil%E2%80%9D_yok"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Thunder Games",
+      "diziid": "cft",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/10/yildirim_oyunlari"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Shock and Awww",
+      "diziid": "cft",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/11/sok_ve_ayy%21"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Straycation Part 1",
+      "diziid": "cft",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/12/ayri_tatil%3A_1._kisim"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Straycation Part 2",
+      "diziid": "cft",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/13/ayri_tatil%3A_2._kisim"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Thunder Misters",
+      "diziid": "cft",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/14/yildirim_beyler"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Eep Walking",
+      "diziid": "cft",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/15/uyurgezer_eep"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "The Gorgwatch Project",
+      "diziid": "cft",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/16/gorgwatch_projesi"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Skate or Dawn",
+      "diziid": "cft",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/17/kaykay_ya_da_dawn"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Phil's Fun Farm",
+      "diziid": "cft",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/18/phil%E2%80%99in_eglence_ciftligi"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Joy Story",
+      "diziid": "cft",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/19/nese_hikayesi"
+    },
+    {
+      "season": 1,
+      "episode": 20,
+      "title": "The Big Shine",
+      "diziid": "cft",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/20/buyuk_parilti"
+    },
+    {
+      "season": 2,
+      "episode": 21,
+      "title": "Ball in Cup",
+      "diziid": "cft",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/21/kupa-top"
+    },
+    {
+      "season": 3,
+      "episode": 22,
+      "title": "Growing Paints",
+      "diziid": "cft",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/22/resim_sancilari"
+    },
+    {
+      "season": 4,
+      "episode": 23,
+      "title": "Cave New World",
+      "diziid": "cft",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/23/yeni_magara_dunyasi"
+    },
+    {
+      "season": 5,
+      "episode": 24,
+      "title": "Thunk Tank",
+      "diziid": "cft",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/24/thunk_tanki"
+    },
+    {
+      "season": 6,
+      "episode": 25,
+      "title": "Home Punch Home",
+      "diziid": "cft",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/25/evim_yumruk_evim"
+    },
+    {
+      "season": 7,
+      "episode": 26,
+      "title": "Goodbye Crood World",
+      "diziid": "cft",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/26/elveda_crood_dunyasi"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Hwam I Am",
+      "diziid": "cft",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/27/ben_hwam%E2%80%99im"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Eep Cover",
+      "diziid": "cft",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/28/eep%E2%80%99in_gizli_oyunu"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "I.O. Crood",
+      "diziid": "cft",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/29/crood%E2%80%99a_borcluyum"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Appetite for Deception",
+      "diziid": "cft",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/30/yemek_aldatmacasi"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Shellraiser",
+      "diziid": "cft",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/31/bilezik_kurtarma_operasyonu"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Camp Thunder",
+      "diziid": "cft",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/32/gurleyen_kamp"
+    },
+    {
+      "season": 1,
+      "episode": 33,
+      "title": "Phil Pickle",
+      "diziid": "cft",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/33/phil%E2%80%99in_cikmazi"
+    },
+    {
+      "season": 2,
+      "episode": 34,
+      "title": "Best Friend in Show",
+      "diziid": "cft",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/34/gosterinin_en_iyi_dostu"
+    },
+    {
+      "season": 3,
+      "episode": 35,
+      "title": "Game of Crows",
+      "diziid": "cft",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/35/kargalarin_oyunu"
+    },
+    {
+      "season": 4,
+      "episode": 36,
+      "title": "Pie Hard",
+      "diziid": "cft",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/36/turta_ugruna"
+    },
+    {
+      "season": 5,
+      "episode": 37,
+      "title": "Snack of Dawn",
+      "diziid": "cft",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/37/dawn%E2%80%99in_atistirmalik_avi"
+    },
+    {
+      "season": 6,
+      "episode": 38,
+      "title": "Fam Farm Fun Fest",
+      "diziid": "cft",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/38/aile_ciftligi_eglence_festivali"
+    },
+    {
+      "season": 7,
+      "episode": 39,
+      "title": "It's an Under-ful Life",
+      "diziid": "cft",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/39/yeraltinda_harika_bir_hayat"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "Alphabout",
+      "diziid": "cft",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/40/alfadovus"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "Bad Luck Moon Rising",
+      "diziid": "cft",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/41/kotu_sans_ayi_yukseliyor"
+    },
+    {
+      "season": 3,
+      "episode": 42,
+      "title": "Beardfoot",
+      "diziid": "cft",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/42/sakalayak"
+    },
+    {
+      "season": 4,
+      "episode": 43,
+      "title": "Stuck ToGuyther",
+      "diziid": "cft",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/43/guy%E2%80%99la_yapisik"
+    },
+    {
+      "season": 5,
+      "episode": 44,
+      "title": "Hidelander",
+      "diziid": "cft",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/44/saklambac_ustasi"
+    },
+    {
+      "season": 6,
+      "episode": 45,
+      "title": "What Liars Beneath",
+      "diziid": "cft",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/45/yalanlarin_altinda_ne_var"
+    },
+    {
+      "season": 1,
+      "episode": 46,
+      "title": "Dared Straight",
+      "diziid": "cft",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/46/cesaret_oyunu"
+    },
+    {
+      "season": 2,
+      "episode": 47,
+      "title": "Thunkless",
+      "diziid": "cft",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/47/thunk%E2%80%99siz"
+    },
+    {
+      "season": 3,
+      "episode": 48,
+      "title": "Friday Nut Lights",
+      "diziid": "cft",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/48/cuma_gecesi_cevizleri"
+    },
+    {
+      "season": 4,
+      "episode": 49,
+      "title": "The Cantaplum Run",
+      "diziid": "cft",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/49/cantaplum_pesinde"
+    },
+    {
+      "season": 5,
+      "episode": 50,
+      "title": "Flush to Judgment",
+      "diziid": "cft",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/50/tuvalet_davasi"
+    },
+    {
+      "season": 6,
+      "episode": 51,
+      "title": "Caveheart Part 1",
+      "diziid": "cft",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/51/magara_yurek%3A_1._kisim"
+    },
+    {
+      "season": 7,
+      "episode": 52,
+      "title": "Caveheart Part 2",
+      "diziid": "cft",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/cft/croodlar%3A_soy_agaci/52/magara_yurek%3A_2._kisim"
+    }
+  ]
+}

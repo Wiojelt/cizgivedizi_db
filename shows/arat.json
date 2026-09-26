@@ -1,0 +1,1205 @@
+{
+  "id": "arat",
+  "title": "araÅŸtÄ±rmacÄ± takÄ±m",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ARATPoster.avif",
+  "channel": "Da Vinci",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici",
+    "Dedektif"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Zero Effect",
+      "diziid": "arat",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/1/sifir_etkisi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Bad Luck Bears",
+      "diziid": "arat",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/2/kotu_sansli_ayilar"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Soundcheck",
+      "diziid": "arat",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/3/ses_provasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Double Trouble",
+      "diziid": "arat",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/4/cifte_bela"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "My Better Half",
+      "diziid": "arat",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/5/esim"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Confalones",
+      "diziid": "arat",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/6/confalonlar"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Blob on the Job",
+      "diziid": "arat",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/7/gorevimiz_damla"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Party of 5, 4, 3, 2, 1",
+      "diziid": "arat",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/8/5%2C4%2C3%2C2%2C1_partisi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Reindeer Games: Part 1",
+      "diziid": "arat",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/9/ren_geyigi_oyunlari_1.bolum"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Reindeer Games: Part 2",
+      "diziid": "arat",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/10/ren_geyigi_oyunlari_2.bolum"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Oscar and the Oscarbots",
+      "diziid": "arat",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/11/oscar_ve_oscarbotlar"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Picture Day",
+      "diziid": "arat",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/12/resim_gunu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "A Case of the Sing Alongs",
+      "diziid": "arat",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/13/sarkiya_eslik_etme_vakasi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Ms. O Uh Oh",
+      "diziid": "arat",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/14/bayan_o"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Crime at Shapely Manor: Part 1",
+      "diziid": "arat",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/15/endamli_koskteki_sorun_1.bolum"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Crime at Shapely Manor: Part 2",
+      "diziid": "arat",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/16/endamli_koskteki_sorun_2.bolum"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Skip Day",
+      "diziid": "arat",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/17/izin_gunu"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Great Grinaldi",
+      "diziid": "arat",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/18/muhtesem_grinaldi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Trouble with Centigurps",
+      "diziid": "arat",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/19/minik_yaratik_sorunu"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Totally Odd Squad",
+      "diziid": "arat",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/20/gecmis_zaman"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "How to Interrogate a Unicorn",
+      "diziid": "arat",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/21/bir_unicornu_nasil_sorgularsin"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "The Briefcase",
+      "diziid": "arat",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/22/evrak_cantasi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Best Seats in the House",
+      "diziid": "arat",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/23/evdeki_en_iyi_koltuklar"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Agent Obfusco",
+      "diziid": "arat",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/24/ajan_obfusco"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Life of O'Brian",
+      "diziid": "arat",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/25/obrianin_hayati"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Whatever Happened to Agent Oz?",
+      "diziid": "arat",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/26/ajan_oza_ne_oldu"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "The Jackies",
+      "diziid": "arat",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/27/jackie_odulleri"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Invasion of the Body Switchers",
+      "diziid": "arat",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/28/vucut_degistirenlerin_istilasi"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "The Odd Antidote",
+      "diziid": "arat",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/29/tuhaf_panzehir"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "The One That Got Away",
+      "diziid": "arat",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/30/elden_kurtulan"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Odd Outbreak",
+      "diziid": "arat",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/31/tuhaf_salgin"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "The Perfect Lunch",
+      "diziid": "arat",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/32/mukemmel_ogle_yemegi"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Rise of the Hydraclops",
+      "diziid": "arat",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/33/hydraclopun_yukselisi"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "O Is Not for Old",
+      "diziid": "arat",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/34/o%2C_yasli_degil"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Dance Like Nobody's Watching",
+      "diziid": "arat",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/35/kimse_izlemiyormus_gibi_dans_et"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Recipe for Disaster",
+      "diziid": "arat",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/36/felaketin_tarifi"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Hold the Door",
+      "diziid": "arat",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/37/kapiyi_tut"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Flatastrophe",
+      "diziid": "arat",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/38/fladam_felaketi"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Puppet Show",
+      "diziid": "arat",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/39/kukla_gosterisi"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Mystic Egg Pizza",
+      "diziid": "arat",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/40/gizemli_pizza_ve_yumurtalar"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "6:00 to 6:05: Part 1",
+      "diziid": "arat",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/41/saat_06%3A00dan_06%3A05e_bolum_1"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "6:00 to 6:05: Part 2",
+      "diziid": "arat",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/42/saat_06%3A00dan_06%3A05e_bolum_2"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "The Potato Ultimato",
+      "diziid": "arat",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/43/patates_cozumu"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "A Fistful of Fruit Juice",
+      "diziid": "arat",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/44/bir_avuc_meyve_suyu"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Soundcheck Part Deux",
+      "diziid": "arat",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/45/ses_provasi_2.bolum"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Jinx",
+      "diziid": "arat",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/46/ugursuzluk"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Training Day: Part 1",
+      "diziid": "arat",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/47/egitim_gunu_bolum_1"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Training Day: Part 2",
+      "diziid": "arat",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/48/egitim_gunu_bolum_2"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Trading Places",
+      "diziid": "arat",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/49/yer_degistirme"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Bad Lemonade",
+      "diziid": "arat",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/50/kotu_limonata"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Robert Plant",
+      "diziid": "arat",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/51/robert_bitkisi"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Game Time",
+      "diziid": "arat",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/52/oyun_zamani"
+    },
+    {
+      "season": 53,
+      "episode": 53,
+      "title": "The O Games: Part 1",
+      "diziid": "arat",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/53/o_oyunlari_bolum_1"
+    },
+    {
+      "season": 54,
+      "episode": 54,
+      "title": "The O Games: Part 2",
+      "diziid": "arat",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/54/o_oyunlari_bolum_2"
+    },
+    {
+      "season": 55,
+      "episode": 55,
+      "title": "Captain Fun",
+      "diziid": "arat",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/55/kaptan_eglence"
+    },
+    {
+      "season": 56,
+      "episode": 56,
+      "title": "Switch Your Partner Round and Round",
+      "diziid": "arat",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/56/ortagini_degistir"
+    },
+    {
+      "season": 57,
+      "episode": 57,
+      "title": "Trials and Tubulations: Part 1",
+      "diziid": "arat",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/57/denemeler_ve_tupler_bolum_1"
+    },
+    {
+      "season": 58,
+      "episode": 58,
+      "title": "Trials and Tubulations: Part 2",
+      "diziid": "arat",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/58/denemeler_ve_tupler_bolum_2"
+    },
+    {
+      "season": 59,
+      "episode": 59,
+      "title": "No Ifs, Ands, or Robots",
+      "diziid": "arat",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/59/amasi%2C_mamasi%2C_robotu_yok"
+    },
+    {
+      "season": 60,
+      "episode": 60,
+      "title": "Worst First Day Ever",
+      "diziid": "arat",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/60/en_kotu_ilk_gun"
+    },
+    {
+      "season": 61,
+      "episode": 61,
+      "title": "Undercover Olive: Part 1",
+      "diziid": "arat",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/61/gizli_ajan_olive_bolum_1"
+    },
+    {
+      "season": 62,
+      "episode": 62,
+      "title": "Undercover Olive: Part 2",
+      "diziid": "arat",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/62/gizli_ajan_olive_bolum_2"
+    },
+    {
+      "season": 63,
+      "episode": 63,
+      "title": "Not So Splash",
+      "diziid": "arat",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/63/cok_sicratma"
+    },
+    {
+      "season": 64,
+      "episode": 64,
+      "title": "By the Book",
+      "diziid": "arat",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/64/kuralina_gore"
+    },
+    {
+      "season": 65,
+      "episode": 65,
+      "title": "O vs. the Ballcano",
+      "diziid": "arat",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/65/o%2C_ballcanoya_karsi"
+    },
+    {
+      "season": 66,
+      "episode": 66,
+      "title": "Assistants' Creed",
+      "diziid": "arat",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/66/asistanin_ogrencisi"
+    },
+    {
+      "season": 67,
+      "episode": 67,
+      "title": "Now You Don't See Me",
+      "diziid": "arat",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/67/artik_gorunmuyorum"
+    },
+    {
+      "season": 68,
+      "episode": 68,
+      "title": "Moustache Confidential",
+      "diziid": "arat",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/68/gizli_biyik"
+    },
+    {
+      "season": 69,
+      "episode": 69,
+      "title": "The Curious Case of Pirate-itis",
+      "diziid": "arat",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/69/korsan_vakasinin_tuhaf_hikayesi"
+    },
+    {
+      "season": 70,
+      "episode": 70,
+      "title": "Oscar the Couch",
+      "diziid": "arat",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/70/kanepe_oscar"
+    },
+    {
+      "season": 71,
+      "episode": 71,
+      "title": "Oscar of All Trades",
+      "diziid": "arat",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/71/yetenekli_oscar"
+    },
+    {
+      "season": 72,
+      "episode": 72,
+      "title": "Swamps 'N' Gators",
+      "diziid": "arat",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/72/batakliklar_ve_timsahlar"
+    },
+    {
+      "season": 73,
+      "episode": 73,
+      "title": "There Might Be Dragons",
+      "diziid": "arat",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/73/ejderhalar"
+    },
+    {
+      "season": 74,
+      "episode": 74,
+      "title": "Dawn of the Read",
+      "diziid": "arat",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/74/okumanin_safagi"
+    },
+    {
+      "season": 75,
+      "episode": 75,
+      "title": "Olive and Otto in Shmumberland: Part 1",
+      "diziid": "arat",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/75/olive_ve_otto_pinek_diyarinda_bolum_1"
+    },
+    {
+      "season": 76,
+      "episode": 76,
+      "title": "Olive and Otto in Shmumberland: Part 2",
+      "diziid": "arat",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/76/olive_ve_otto_pinek_diyarinda_bolum_2"
+    },
+    {
+      "season": 77,
+      "episode": 77,
+      "title": "Disorder in the Court: Part 1",
+      "diziid": "arat",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/77/mahkemede_kargasa_bolum_1"
+    },
+    {
+      "season": 78,
+      "episode": 78,
+      "title": "Disorder in the Court: Part 2",
+      "diziid": "arat",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/78/mahkemede_kargasa_bolum_2"
+    },
+    {
+      "season": 80,
+      "episode": 79,
+      "title": "O Is Not for Over: Part 2",
+      "diziid": "arat",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/80/onun_isi_bitmedi_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 80,
+      "title": "First Day: Part 1",
+      "diziid": "arat",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/81/birinci_gun_1.bolum"
+    },
+    {
+      "season": 2,
+      "episode": 81,
+      "title": "First Day: Part 2",
+      "diziid": "arat",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/82/birinci_gun_2.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 82,
+      "title": "Back to the Past",
+      "diziid": "arat",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/83/gecmise_donus"
+    },
+    {
+      "season": 4,
+      "episode": 83,
+      "title": "Odd Squad Needs You",
+      "diziid": "arat",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/84/arastirmaci_takiminin_sana_ihtiyaci_var"
+    },
+    {
+      "season": 5,
+      "episode": 84,
+      "title": "Mid-Day in the Garden of Good and Odd",
+      "diziid": "arat",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/85/iyilik_ve_tuhaflik_bahcesinde_gun_ortasi"
+    },
+    {
+      "season": 6,
+      "episode": 85,
+      "title": "Failure to Lunch",
+      "diziid": "arat",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/86/ogle_yemeginde_basarisizlik"
+    },
+    {
+      "season": 7,
+      "episode": 86,
+      "title": "The O Team",
+      "diziid": "arat",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/87/arastirmaci_takim"
+    },
+    {
+      "season": 8,
+      "episode": 87,
+      "title": "Show Me the Money",
+      "diziid": "arat",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/88/bana_parayi_goster"
+    },
+    {
+      "season": 9,
+      "episode": 88,
+      "title": "Flawed Squad",
+      "diziid": "arat",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/89/kusurlu_takim"
+    },
+    {
+      "season": 10,
+      "episode": 89,
+      "title": "The Creature Whisperer",
+      "diziid": "arat",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/90/yaratiga_fisildayan"
+    },
+    {
+      "season": 11,
+      "episode": 90,
+      "title": "Oscar Strikes Back: Part 1",
+      "diziid": "arat",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/91/oscar_karsi_saldirida_1.bolum"
+    },
+    {
+      "season": 12,
+      "episode": 91,
+      "title": "Oscar Strikes Back: Part 2",
+      "diziid": "arat",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/92/oscar_karsi_saldirida_2.bolum"
+    },
+    {
+      "season": 13,
+      "episode": 92,
+      "title": "Olympia's Day",
+      "diziid": "arat",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/93/olympianin_gunu"
+    },
+    {
+      "season": 14,
+      "episode": 93,
+      "title": "Otis' Day",
+      "diziid": "arat",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/94/otisin_gunu"
+    },
+    {
+      "season": 15,
+      "episode": 94,
+      "title": "And Then They Were Puppies",
+      "diziid": "arat",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/95/ve_sonra_onlar_kopek_yavrulari_oldu"
+    },
+    {
+      "season": 16,
+      "episode": 95,
+      "title": "A Case of the Sillies",
+      "diziid": "arat",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/96/sacmalik_sendromu"
+    },
+    {
+      "season": 17,
+      "episode": 96,
+      "title": "Happy Halfiversary",
+      "diziid": "arat",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/97/mutlu_yarim_yil_donumleri"
+    },
+    {
+      "season": 18,
+      "episode": 97,
+      "title": "Good Egg Bad Egg",
+      "diziid": "arat",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/98/iyi_yumurta%2C_kotu_yumurta"
+    },
+    {
+      "season": 19,
+      "episode": 98,
+      "title": "Night Shift",
+      "diziid": "arat",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/99/gece_vardiyasi"
+    },
+    {
+      "season": 20,
+      "episode": 99,
+      "title": "Put Me In, Coach",
+      "diziid": "arat",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/100/beni_al%2C_koc"
+    },
+    {
+      "season": 21,
+      "episode": 100,
+      "title": "Extreme Cake-over",
+      "diziid": "arat",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/101/asiri_pastalasma"
+    },
+    {
+      "season": 22,
+      "episode": 101,
+      "title": "A Job Well Undone",
+      "diziid": "arat",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/102/yapilmamis_bir_is"
+    },
+    {
+      "season": 23,
+      "episode": 102,
+      "title": "Three's Company",
+      "diziid": "arat",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/103/uc_kisi_fazla"
+    },
+    {
+      "season": 24,
+      "episode": 103,
+      "title": "Behind Enemy Mimes",
+      "diziid": "arat",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/104/dusman_pandomimcinin_ardinda"
+    },
+    {
+      "season": 25,
+      "episode": 104,
+      "title": "Drop Gadget Repeat",
+      "diziid": "arat",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/105/cihazi_birak_tekrar_et"
+    },
+    {
+      "season": 26,
+      "episode": 105,
+      "title": "20 Questions",
+      "diziid": "arat",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/106/yirmi_soru"
+    },
+    {
+      "season": 27,
+      "episode": 106,
+      "title": "High Maintenance",
+      "diziid": "arat",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/107/zor_tamir"
+    },
+    {
+      "season": 28,
+      "episode": 107,
+      "title": "Not OK Computer",
+      "diziid": "arat",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/108/bozuk_bilgisayar"
+    },
+    {
+      "season": 29,
+      "episode": 108,
+      "title": "O Is for Opposite",
+      "diziid": "arat",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/109/bayan_onun_yansimasi"
+    },
+    {
+      "season": 30,
+      "episode": 109,
+      "title": "Agent Oksana's Kitchen Nightmares",
+      "diziid": "arat",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/110/ajan_oksananin_mutfak_sorunlari"
+    },
+    {
+      "season": 31,
+      "episode": 110,
+      "title": "Rookie Night",
+      "diziid": "arat",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/111/acemiler_gecesi"
+    },
+    {
+      "season": 32,
+      "episode": 111,
+      "title": "Who Let the Doug Out?",
+      "diziid": "arat",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/112/kopegi_kim_saldi"
+    },
+    {
+      "season": 33,
+      "episode": 112,
+      "title": "The Cherry-on-Top-inator",
+      "diziid": "arat",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/113/kiraz_yerlestirme_makinesi"
+    },
+    {
+      "season": 34,
+      "episode": 113,
+      "title": "Sir",
+      "diziid": "arat",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/114/makarna_adam"
+    },
+    {
+      "season": 35,
+      "episode": 114,
+      "title": "Orchid's Almost Half Hour Talent Show",
+      "diziid": "arat",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/115/orkidenin_yaklasik_30_dakikalik_yemek_programi"
+    },
+    {
+      "season": 36,
+      "episode": 115,
+      "title": "The Perfect Score",
+      "diziid": "arat",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/116/mukemmel_skor"
+    },
+    {
+      "season": 37,
+      "episode": 116,
+      "title": "The Voice",
+      "diziid": "arat",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/117/ses"
+    },
+    {
+      "season": 38,
+      "episode": 117,
+      "title": "Partner Problems",
+      "diziid": "arat",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/118/ortagin_sorunlari"
+    },
+    {
+      "season": 39,
+      "episode": 118,
+      "title": "Oona and the Oonabots",
+      "diziid": "arat",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/119/oona_ve_oonabotlar"
+    },
+    {
+      "season": 40,
+      "episode": 119,
+      "title": "The Ninja Situation",
+      "diziid": "arat",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/120/ninja_durumu"
+    },
+    {
+      "season": 41,
+      "episode": 120,
+      "title": "Breakfast Club",
+      "diziid": "arat",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/121/kahvalti_kulubu"
+    },
+    {
+      "season": 42,
+      "episode": 121,
+      "title": "Dr. O: Party Time, Excellent",
+      "diziid": "arat",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/122/doktor_o%3A_parti_zamani%2C_mukemmel"
+    },
+    {
+      "season": 43,
+      "episode": 122,
+      "title": "Xs and Os",
+      "diziid": "arat",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/123/zler_ve_olar"
+    },
+    {
+      "season": 44,
+      "episode": 123,
+      "title": "Dr. O No",
+      "diziid": "arat",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/124/doktor_oya_hayir"
+    },
+    {
+      "season": 45,
+      "episode": 124,
+      "title": "Haunt Squad",
+      "diziid": "arat",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/125/musallat_takim"
+    },
+    {
+      "season": 46,
+      "episode": 125,
+      "title": "Safe House in the Woods",
+      "diziid": "arat",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/126/ormandaki_guvenli_ev"
+    },
+    {
+      "season": 47,
+      "episode": 126,
+      "title": "Negative Town",
+      "diziid": "arat",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/127/negatif_kasaba"
+    },
+    {
+      "season": 48,
+      "episode": 127,
+      "title": "License to Science",
+      "diziid": "arat",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/128/laboratuvar_lisansi"
+    },
+    {
+      "season": 49,
+      "episode": 128,
+      "title": "Two Agents and a Baby",
+      "diziid": "arat",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/129/iki_ajan_ve_bir_bebek"
+    },
+    {
+      "season": 50,
+      "episode": 129,
+      "title": "Ocean and the Fly",
+      "diziid": "arat",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/130/okyanus_ve_sinek"
+    },
+    {
+      "season": 51,
+      "episode": 130,
+      "title": "Hands on a Desk Chair",
+      "diziid": "arat",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/131/eller_sandalyenin_ustunde"
+    },
+    {
+      "season": 52,
+      "episode": 131,
+      "title": "There Is No O in O-Bot",
+      "diziid": "arat",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/132/hisleri_olmayan_robot"
+    },
+    {
+      "season": 53,
+      "episode": 132,
+      "title": "Shapely University",
+      "diziid": "arat",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/133/sekilli_universite"
+    },
+    {
+      "season": 54,
+      "episode": 133,
+      "title": "Slow Day",
+      "diziid": "arat",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/134/yavas_gun"
+    },
+    {
+      "season": 55,
+      "episode": 134,
+      "title": "Villains in Need Are Villains Indeed",
+      "diziid": "arat",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/135/muhtac_kotuler_gercek_kotulerdir"
+    },
+    {
+      "season": 56,
+      "episode": 135,
+      "title": "Happily Ever Odd",
+      "diziid": "arat",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/136/sonsuza_dek_tuhaf"
+    },
+    {
+      "season": 57,
+      "episode": 136,
+      "title": "Where There's a Wolf, There's a Way",
+      "diziid": "arat",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/137/kurdun_oldugu_yerde_bir_yol_vardir"
+    },
+    {
+      "season": 58,
+      "episode": 137,
+      "title": "New Jacket Required",
+      "diziid": "arat",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/138/yeni_ceket_gerekli"
+    },
+    {
+      "season": 59,
+      "episode": 138,
+      "title": "The Deposit Slip-Up",
+      "diziid": "arat",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/139/sahte_kasa"
+    },
+    {
+      "season": 60,
+      "episode": 139,
+      "title": "Villains Always Win",
+      "diziid": "arat",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/140/kotuler_hep_kazanir"
+    },
+    {
+      "season": 61,
+      "episode": 140,
+      "title": "Other Olympia",
+      "diziid": "arat",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/141/diger_olympia"
+    },
+    {
+      "season": 62,
+      "episode": 141,
+      "title": "Total Zeros",
+      "diziid": "arat",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/142/toplam_sifirlar"
+    },
+    {
+      "season": 63,
+      "episode": 142,
+      "title": "It Takes Goo to Make a Feud Go Right",
+      "diziid": "arat",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/143/goolarin_anlasmazliklarini_duzeltmek"
+    },
+    {
+      "season": 64,
+      "episode": 143,
+      "title": "Friends of Odd Squad",
+      "diziid": "arat",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/144/arastirmaci_takimin_arkadaslari"
+    },
+    {
+      "season": 65,
+      "episode": 144,
+      "title": "Saving Agent Orson",
+      "diziid": "arat",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/145/ajan_orsoni_kurtarmak"
+    },
+    {
+      "season": 66,
+      "episode": 145,
+      "title": "The Scientist",
+      "diziid": "arat",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/146/bilim_insani"
+    },
+    {
+      "season": 67,
+      "episode": 146,
+      "title": "Who Is Agent Otis?: Part 1",
+      "diziid": "arat",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/147/ajan_otis_kim_bolum_1"
+    },
+    {
+      "season": 68,
+      "episode": 147,
+      "title": "Who Is Agent Otis?: Part 2",
+      "diziid": "arat",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/148/ajan_otis_kim_bolum_2"
+    },
+    {
+      "season": 69,
+      "episode": 148,
+      "title": "Odds and Ends: Part 1",
+      "diziid": "arat",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/149/ufak_tefek_seyler_bolum_1"
+    },
+    {
+      "season": 70,
+      "episode": 149,
+      "title": "Odds and Ends: Part 2",
+      "diziid": "arat",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/arat/arastirmaci_takim/150/ufak_tefek_seyler_bolum_2"
+    }
+  ]
+}

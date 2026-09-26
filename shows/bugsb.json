@@ -1,0 +1,492 @@
+{
+  "id": "bugsb",
+  "title": "bugs bunny",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BUGSBPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 7,
+      "episode": 1,
+      "title": "Tortoise Beats Hare",
+      "diziid": "bugsb",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/7/kaplumbaga_tavsani_yener"
+    },
+    {
+      "season": 9,
+      "episode": 2,
+      "title": "The Heckling Hare",
+      "diziid": "bugsb",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/9/soyguncu_tavsan"
+    },
+    {
+      "season": 10,
+      "episode": 3,
+      "title": "All This and Rabbit Stew",
+      "diziid": "bugsb",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/10/tavsan_yahnisi"
+    },
+    {
+      "season": 11,
+      "episode": 4,
+      "title": "Wabbit Twouble",
+      "diziid": "bugsb",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/11/tavsan_sorunu"
+    },
+    {
+      "season": 12,
+      "episode": 5,
+      "title": "The Wabbit Who Came to Supper",
+      "diziid": "bugsb",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/12/miras"
+    },
+    {
+      "season": 13,
+      "episode": 6,
+      "title": "The Wacky Wabbit",
+      "diziid": "bugsb",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/13/cilgin_tavsan"
+    },
+    {
+      "season": 16,
+      "episode": 7,
+      "title": "Fresh Hare",
+      "diziid": "bugsb",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/16/taze_tavsan"
+    },
+    {
+      "season": 17,
+      "episode": 8,
+      "title": "The Hare-Brained Hypnotist",
+      "diziid": "bugsb",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/17/tavsan_beyinli_hipnozcu"
+    },
+    {
+      "season": 18,
+      "episode": 9,
+      "title": "Case of the Missing Hare",
+      "diziid": "bugsb",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/18/kayip_tavsan_vakasi"
+    },
+    {
+      "season": 22,
+      "episode": 10,
+      "title": "Wackiki Wabbit",
+      "diziid": "bugsb",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/22/aclik"
+    },
+    {
+      "season": 23,
+      "episode": 11,
+      "title": "Falling Hare",
+      "diziid": "bugsb",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/23/bugs_ucakta"
+    },
+    {
+      "season": 25,
+      "episode": 12,
+      "title": "What's Cookin' Doc?",
+      "diziid": "bugsb",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/25/kirmizi_binici_tavsan"
+    },
+    {
+      "season": 29,
+      "episode": 13,
+      "title": "Hare Force",
+      "diziid": "bugsb",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/29/tavsan_gucu"
+    },
+    {
+      "season": 33,
+      "episode": 14,
+      "title": "Herr Meets Hare",
+      "diziid": "bugsb",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/33/herr_tavsan%E2%80%99la_bulusuyor"
+    },
+    {
+      "season": 36,
+      "episode": 15,
+      "title": "Hare Conditioned",
+      "diziid": "bugsb",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/36/yabani_tavsan_grubu"
+    },
+    {
+      "season": 37,
+      "episode": 16,
+      "title": "Hare Tonic",
+      "diziid": "bugsb",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/37/tavsan_tonigi"
+    },
+    {
+      "season": 38,
+      "episode": 17,
+      "title": "Baseball Bugs",
+      "diziid": "bugsb",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/38/beyzbol_bugs"
+    },
+    {
+      "season": 40,
+      "episode": 18,
+      "title": "Hair-Raising Hare",
+      "diziid": "bugsb",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/40/korkunc_yabani_tavsan"
+    },
+    {
+      "season": 43,
+      "episode": 19,
+      "title": "The Big Snooze",
+      "diziid": "bugsb",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/43/buyuk_uyku_sirasinda"
+    },
+    {
+      "season": 45,
+      "episode": 20,
+      "title": "A Hare Grows in Manhattan",
+      "diziid": "bugsb",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/45/manhattan%E2%80%99da_bir_tavsan_buyuyor"
+    },
+    {
+      "season": 46,
+      "episode": 21,
+      "title": "Rabbit Transit",
+      "diziid": "bugsb",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/46/tavsan_gecisi"
+    },
+    {
+      "season": 48,
+      "episode": 22,
+      "title": "Slick Hare",
+      "diziid": "bugsb",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/48/kurnaz_tavsan"
+    },
+    {
+      "season": 49,
+      "episode": 23,
+      "title": "Gorilla My Dreams",
+      "diziid": "bugsb",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/49/hayallerimdeki_goril"
+    },
+    {
+      "season": 53,
+      "episode": 24,
+      "title": "Bugs Bunny Rides Again",
+      "diziid": "bugsb",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/53/bugs_bunny_yeniden_suvari"
+    },
+    {
+      "season": 54,
+      "episode": 25,
+      "title": "Haredevil Hare",
+      "diziid": "bugsb",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/54/tavsan_buyucusu"
+    },
+    {
+      "season": 55,
+      "episode": 26,
+      "title": "Hot Cross Bunny",
+      "diziid": "bugsb",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/55/deney_tavsani"
+    },
+    {
+      "season": 58,
+      "episode": 27,
+      "title": "My Bunny Lies over the Sea",
+      "diziid": "bugsb",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/58/golf"
+    },
+    {
+      "season": 62,
+      "episode": 28,
+      "title": "High Diving Hare",
+      "diziid": "bugsb",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/62/dalga_yapan_tavsan"
+    },
+    {
+      "season": 64,
+      "episode": 29,
+      "title": "Long-Haired Hare",
+      "diziid": "bugsb",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/64/sarkici_tavsan"
+    },
+    {
+      "season": 73,
+      "episode": 30,
+      "title": "Homeless Hare",
+      "diziid": "bugsb",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/73/evsiz_tavsan"
+    },
+    {
+      "season": 74,
+      "episode": 31,
+      "title": "Big House Bunny",
+      "diziid": "bugsb",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/74/bugs_hapishanede"
+    },
+    {
+      "season": 75,
+      "episode": 32,
+      "title": "What's Up Doc?",
+      "diziid": "bugsb",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/75/bugs%E2%80%99in_hayat_hikayesi"
+    },
+    {
+      "season": 80,
+      "episode": 33,
+      "title": "Rabbit of Seville",
+      "diziid": "bugsb",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/80/seville_tavsani"
+    },
+    {
+      "season": 83,
+      "episode": 34,
+      "title": "Bunny Hugged",
+      "diziid": "bugsb",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/83/tavsan_kucaklamasi"
+    },
+    {
+      "season": 86,
+      "episode": 35,
+      "title": "French Rarebit",
+      "diziid": "bugsb",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/86/fransiz_vahsi_tavsani"
+    },
+    {
+      "season": 88,
+      "episode": 36,
+      "title": "Ballot Box Bunny",
+      "diziid": "bugsb",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/88/bugs_bunny%E2%80%99nin_oy_sandigi"
+    },
+    {
+      "season": 89,
+      "episode": 37,
+      "title": "Big Top Bunny",
+      "diziid": "bugsb",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/89/sirk_tavsani"
+    },
+    {
+      "season": 91,
+      "episode": 38,
+      "title": "Foxy by Proxy",
+      "diziid": "bugsb",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/91/tilki_avi"
+    },
+    {
+      "season": 93,
+      "episode": 39,
+      "title": "Water, Water Every Hare",
+      "diziid": "bugsb",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/93/su_ve_tavsan"
+    },
+    {
+      "season": 96,
+      "episode": 40,
+      "title": "Rabbit Seasoning",
+      "diziid": "bugsb",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/96/tavsan_sezonu"
+    },
+    {
+      "season": 97,
+      "episode": 41,
+      "title": "Rabbit's Kin",
+      "diziid": "bugsb",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/97/korumaci_tavsan"
+    },
+    {
+      "season": 99,
+      "episode": 42,
+      "title": "Forward March Hare",
+      "diziid": "bugsb",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/99/ileri%21_mars%21"
+    },
+    {
+      "season": 103,
+      "episode": 43,
+      "title": "Bully for Bugs",
+      "diziid": "bugsb",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/103/bugs%E2%80%99in_bogayla_oyunu"
+    },
+    {
+      "season": 108,
+      "episode": 44,
+      "title": "Bugs and Thugs",
+      "diziid": "bugsb",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/108/bugs_ve_soyguncu"
+    },
+    {
+      "season": 113,
+      "episode": 45,
+      "title": "Baby Buggy Bunny",
+      "diziid": "bugsb",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/113/bebek_buggy_bunny"
+    },
+    {
+      "season": 117,
+      "episode": 46,
+      "title": "Rabbit Rampage",
+      "diziid": "bugsb",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/117/bugs_ve_cizer"
+    },
+    {
+      "season": 119,
+      "episode": 47,
+      "title": "Hyde and Hare",
+      "diziid": "bugsb",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/119/hyde_ve_tavsan"
+    },
+    {
+      "season": 123,
+      "episode": 48,
+      "title": "Broom-Stick Bunny",
+      "diziid": "bugsb",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/123/supurgeli_tavsan"
+    },
+    {
+      "season": 125,
+      "episode": 49,
+      "title": "Napoleon Bunny-Part",
+      "diziid": "bugsb",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/125/napolyon_ve_bugs"
+    },
+    {
+      "season": 126,
+      "episode": 50,
+      "title": "Barbary-Coast Bunny",
+      "diziid": "bugsb",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/126/barbar_tavsan"
+    },
+    {
+      "season": 145,
+      "episode": 51,
+      "title": "Apes of Wrath",
+      "diziid": "bugsb",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/145/ofke_maymunlari"
+    },
+    {
+      "season": 148,
+      "episode": 52,
+      "title": "Bonanza Bunny",
+      "diziid": "bugsb",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/148/zengin_tavsan"
+    },
+    {
+      "season": 150,
+      "episode": 53,
+      "title": "People Are Bunny",
+      "diziid": "bugsb",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/150/para_odulu_icin"
+    },
+    {
+      "season": 154,
+      "episode": 54,
+      "title": "From Hare to Heir",
+      "diziid": "bugsb",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/154/para_ve_kizginlik"
+    },
+    {
+      "season": 156,
+      "episode": 55,
+      "title": "The Abominable Snow Rabbit",
+      "diziid": "bugsb",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/156/kar_canavari"
+    },
+    {
+      "season": 161,
+      "episode": 56,
+      "title": "Shishkabugs",
+      "diziid": "bugsb",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/161/tavsan_yemegi"
+    },
+    {
+      "season": 163,
+      "episode": 57,
+      "title": "The Million Hare",
+      "diziid": "bugsb",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/163/milyon_tavsan"
+    },
+    {
+      "season": 166,
+      "episode": 58,
+      "title": "Mad as a Mars Hare",
+      "diziid": "bugsb",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/166/bugs_mars%E2%80%99ta"
+    },
+    {
+      "season": 170,
+      "episode": 59,
+      "title": "The Iceman Ducketh",
+      "diziid": "bugsb",
+      "bolum": "170",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/170/buz_adam_ordek"
+    },
+    {
+      "season": 171,
+      "episode": 60,
+      "title": "False Hare",
+      "diziid": "bugsb",
+      "bolum": "171",
+      "url": "https://cizgivedizi.com/dizi/bugsb/bugs_bunny/171/tavsanin_oyunu"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "id": "batwk",
+  "title": "batwheels (kÄ±salar)",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BATWKPoster.avif",
+  "channel": "Cartoonito",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Meet the Batwheels",
+      "diziid": "batwk",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/1/batwheels_ile_tanisin"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Calling All Batwheels",
+      "diziid": "batwk",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/2/karsinizda_batwheels"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Bam!",
+      "diziid": "batwk",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/3/bam"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Buff Tuff",
+      "diziid": "batwk",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/4/buff_tuff"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Faster",
+      "diziid": "batwk",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/5/hizli"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Fly",
+      "diziid": "batwk",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/6/uc"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Spooky Batcave",
+      "diziid": "batwk",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/7/urkunc_batcave"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Robin's Ride",
+      "diziid": "batwk",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/8/robinin_araci"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Bam's Bubble Trouble",
+      "diziid": "batwk",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/9/bamin_balon_sorunu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Wheelin' and Dealin'",
+      "diziid": "batwk",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/10/donuyor_ve_duzeltiyor"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Interview with a Crime-Fighter",
+      "diziid": "batwk",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/11/bir_suc_karsitiyla_roportaj"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Best Present in the World",
+      "diziid": "batwk",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/12/dunyanin_en_guzel_hediyesi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Silly Stowaway",
+      "diziid": "batwk",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/13/sapsal_yolcu"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Knight Shift",
+      "diziid": "batwk",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/14/sovalye_vardiyasi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Rockin' Robin",
+      "diziid": "batwk",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/15/harika_robin"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Bibi Bops",
+      "diziid": "batwk",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/16/bibi_vurusu"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Batwingin' It",
+      "diziid": "batwk",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/17/batwing_it"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Bad to the Chrome",
+      "diziid": "batwk",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/18/oldukca_kotuler"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "A Joking Matter",
+      "diziid": "batwk",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/19/bir_saka_meselesi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Parking Problems",
+      "diziid": "batwk",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/20/park_sorunlari"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Bat-Surfing",
+      "diziid": "batwk",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/21/yarasa_sorfu"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Bad Day",
+      "diziid": "batwk",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/22/kotu_gun"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Jet Set",
+      "diziid": "batwk",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/23/jet_kulubu"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "I'll Be Your Shelter",
+      "diziid": "batwk",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/batwk/batwheels_kisalar/24/yuvan_olacagim"
+    }
+  ]
+}

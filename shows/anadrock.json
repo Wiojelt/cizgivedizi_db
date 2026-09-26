@@ -1,0 +1,100 @@
+{
+  "id": "anadrock",
+  "title": "anadolu rock",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ANADROCKPoster.avif",
+  "channel": "TRT Ã‡ocuk",
+  "genres": [
+    "MÃ¼zik/MÃ¼zikal"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Erzurum",
+      "diziid": "anadrock",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/1/erzurum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Bursa",
+      "diziid": "anadrock",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/2/bursa"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Konya",
+      "diziid": "anadrock",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/3/konya"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Mardin",
+      "diziid": "anadrock",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/4/mardin"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Sinop",
+      "diziid": "anadrock",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/5/sinop"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Kars",
+      "diziid": "anadrock",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/6/kars"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Edirne",
+      "diziid": "anadrock",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/7/edirne"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Van",
+      "diziid": "anadrock",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/8/van"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Ã‡orum",
+      "diziid": "anadrock",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/9/corum"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "KahramanmaraÅŸ",
+      "diziid": "anadrock",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/10/kahramanmaras"
+    },
+    {
+      "season": 1,
+      "episode": 11,
+      "title": "Teknofest Ã–zel BÃ¶lÃ¼mÃ¼",
+      "diziid": "anadrock",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/anadrock/anadolu_rock/0/teknofest_ozel_bolumu"
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "id": "bellseb",
+  "title": "belle ve sebastian",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BELLSEBPoster.avif",
+  "channel": "TRT Ã‡ocuk",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The White Dragon",
+      "diziid": "bellseb",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/1/beyaz_ejderha"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Curious Kid",
+      "diziid": "bellseb",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/2/merakli_cocuk"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Wild Mountaineers",
+      "diziid": "bellseb",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/3/yabani_dagcilar"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Race Against the Train",
+      "diziid": "bellseb",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/4/trene_karsi_yaris"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Fearless Sonny",
+      "diziid": "bellseb",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/5/korkusuz_sonny"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Mountain School",
+      "diziid": "bellseb",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/6/dag_okulu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Trapped",
+      "diziid": "bellseb",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/7/kapan"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Secret Passage",
+      "diziid": "bellseb",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/8/kulaktan_kulaga"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The New Cameron",
+      "diziid": "bellseb",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/9/yeni_cameron"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Promise",
+      "diziid": "bellseb",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/10/verilen_soz"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Fear in Fearless",
+      "diziid": "bellseb",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/11/korkusuz_korkak"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Jealous",
+      "diziid": "bellseb",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/12/kiskanclik"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Beauty and the Pug",
+      "diziid": "bellseb",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/13/guzel_ve_cirkin"
+    },
+    {
+      "season": 15,
+      "episode": 14,
+      "title": "Vote Belle",
+      "diziid": "bellseb",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/15/bellee_oy_verin"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "A Picture Perfect Village",
+      "diziid": "bellseb",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/16/mukemmel_kasaba"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "The Faded Mount",
+      "diziid": "bellseb",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/17/soluk_dag"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "The Pact",
+      "diziid": "bellseb",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/18/anlasma"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "The Great Bow Shelter",
+      "diziid": "bellseb",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/19/dagdaki_kulube"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "Belle the Sheepdog",
+      "diziid": "bellseb",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/20/coban_kopegi_belle"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "No Name Peak",
+      "diziid": "bellseb",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/21/isimsiz_zirve"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "The Great Nordic Race",
+      "diziid": "bellseb",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/22/buyuk_kuzey_yari"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "The Angelina Mission",
+      "diziid": "bellseb",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/23/aile_yarisi"
+    },
+    {
+      "season": 25,
+      "episode": 23,
+      "title": "Sick as a Dog",
+      "diziid": "bellseb",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/25/hasta_kopek"
+    },
+    {
+      "season": 26,
+      "episode": 24,
+      "title": "Caspar's Journal",
+      "diziid": "bellseb",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/26/caspar%E2%80%99in_gunlugu"
+    },
+    {
+      "season": 27,
+      "episode": 25,
+      "title": "Sealed Lips",
+      "diziid": "bellseb",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/27/muhurlu_dudaklar"
+    },
+    {
+      "season": 28,
+      "episode": 26,
+      "title": "The White Bear",
+      "diziid": "bellseb",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/28/buyuk_ayi"
+    },
+    {
+      "season": 29,
+      "episode": 27,
+      "title": "The Black Eagle",
+      "diziid": "bellseb",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/29/kara_kartal"
+    },
+    {
+      "season": 30,
+      "episode": 28,
+      "title": "The Mountain Fire",
+      "diziid": "bellseb",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/30/dag_atesi"
+    },
+    {
+      "season": 31,
+      "episode": 29,
+      "title": "Home Is Where the Heart Is",
+      "diziid": "bellseb",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/31/insanin_evi%2C_yureginin_oldugu_yerdir"
+    },
+    {
+      "season": 32,
+      "episode": 30,
+      "title": "At the Top",
+      "diziid": "bellseb",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/32/zirvede"
+    },
+    {
+      "season": 33,
+      "episode": 31,
+      "title": "Chore Day",
+      "diziid": "bellseb",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/33/ev_isi_gunu"
+    },
+    {
+      "season": 34,
+      "episode": 32,
+      "title": "The Presentation",
+      "diziid": "bellseb",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/34/sunum"
+    },
+    {
+      "season": 35,
+      "episode": 33,
+      "title": "The First Meeting: The Runaway (1)",
+      "diziid": "bellseb",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/35/ilk_bulusma%2C_kacis_bolum_1"
+    },
+    {
+      "season": 36,
+      "episode": 34,
+      "title": "The First Meeting: The Hunt (2)",
+      "diziid": "bellseb",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/36/ilk_bulusma%2C_av_bolum_2"
+    },
+    {
+      "season": 37,
+      "episode": 35,
+      "title": "Lucky Star",
+      "diziid": "bellseb",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/37/kuzey_yildizi"
+    },
+    {
+      "season": 38,
+      "episode": 36,
+      "title": "Beautiful Memories",
+      "diziid": "bellseb",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/38/guzel_anilar"
+    },
+    {
+      "season": 39,
+      "episode": 37,
+      "title": "Werewolf",
+      "diziid": "bellseb",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/39/kanli_ay"
+    },
+    {
+      "season": 40,
+      "episode": 38,
+      "title": "Sebastian's Vertigo",
+      "diziid": "bellseb",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/40/sebastianin_yukseklik_korkusu"
+    },
+    {
+      "season": 41,
+      "episode": 39,
+      "title": "The Invisible Threat",
+      "diziid": "bellseb",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/41/gorunmez_tehlike"
+    },
+    {
+      "season": 42,
+      "episode": 40,
+      "title": "The Attack",
+      "diziid": "bellseb",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/42/saldiri"
+    },
+    {
+      "season": 43,
+      "episode": 41,
+      "title": "The Great Drought",
+      "diziid": "bellseb",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/43/buyuk_kuraklik"
+    },
+    {
+      "season": 44,
+      "episode": 42,
+      "title": "Adele's Bracelet",
+      "diziid": "bellseb",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/44/adelein_bilekligi"
+    },
+    {
+      "season": 45,
+      "episode": 43,
+      "title": "The Happy Shelter Needs Work",
+      "diziid": "bellseb",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/45/mutlu_barinak_tamir_edilmeli"
+    },
+    {
+      "season": 47,
+      "episode": 44,
+      "title": "The Little Mountain Guide",
+      "diziid": "bellseb",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/47/kucuk_dag_rehberi"
+    },
+    {
+      "season": 48,
+      "episode": 45,
+      "title": "Parasites",
+      "diziid": "bellseb",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/48/pireler"
+    },
+    {
+      "season": 50,
+      "episode": 46,
+      "title": "The Desperate Chamois",
+      "diziid": "bellseb",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/50/caresiz_dag_kecisi"
+    },
+    {
+      "season": 52,
+      "episode": 47,
+      "title": "Vitamin",
+      "diziid": "bellseb",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/bellseb/belle_ve_sebastian/52/vitamin"
+    }
+  ]
+}

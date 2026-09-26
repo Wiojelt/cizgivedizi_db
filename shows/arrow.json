@@ -1,0 +1,1373 @@
+{
+  "id": "arrow",
+  "title": "arrow",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/ESKÄ°/dizi/resim/poster/ARROWPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Aksiyon",
+    "SuÃ§/Polisiye"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "arrow",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/1/pilot_bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Honor Thy Father",
+      "diziid": "arrow",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/2/babani_onurlandir"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Lone Gunmen",
+      "diziid": "arrow",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/3/yalniz_tetikciler"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "An Innocent Man",
+      "diziid": "arrow",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/4/masum_bir_adam"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Damaged",
+      "diziid": "arrow",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/5/zayiat"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Legacies",
+      "diziid": "arrow",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/6/miras"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Muse of Fire",
+      "diziid": "arrow",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/7/femme_fatale"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Vendetta",
+      "diziid": "arrow",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/8/kan_davasi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Year's End",
+      "diziid": "arrow",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/9/yil_sonu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Burned",
+      "diziid": "arrow",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/10/yangin_yeri"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Trust But Verify",
+      "diziid": "arrow",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/11/guven_ama_teyit_et"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Vertigo",
+      "diziid": "arrow",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/12/vertigo"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Betrayal",
+      "diziid": "arrow",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/13/ihanet"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Odyssey",
+      "diziid": "arrow",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/14/odise"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Dodger",
+      "diziid": "arrow",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/15/madrabaz"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Dead to Rights",
+      "diziid": "arrow",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/16/suc_ustu"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Huntress Returns",
+      "diziid": "arrow",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/17/avci_donuyor"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Salvation",
+      "diziid": "arrow",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/18/kurtarici"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Unfinished Business",
+      "diziid": "arrow",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/19/yarim_kalan_is"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Home Invasion",
+      "diziid": "arrow",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/20/baskin"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Undertaking",
+      "diziid": "arrow",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/21/girisim"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Darkness on the Edge of Town",
+      "diziid": "arrow",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/22/yalanlar_ve_planlar"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Sacrifice",
+      "diziid": "arrow",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/23/kurban"
+    },
+    {
+      "season": 1,
+      "episode": 24,
+      "title": "City of Heroes",
+      "diziid": "arrow",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/24/kahramanlar_sehri"
+    },
+    {
+      "season": 2,
+      "episode": 25,
+      "title": "Identity",
+      "diziid": "arrow",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/25/kimlik"
+    },
+    {
+      "season": 3,
+      "episode": 26,
+      "title": "Broken Dolls",
+      "diziid": "arrow",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/26/kirik_bebekler"
+    },
+    {
+      "season": 4,
+      "episode": 27,
+      "title": "Crucible",
+      "diziid": "arrow",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/27/silahsizlanma"
+    },
+    {
+      "season": 5,
+      "episode": 28,
+      "title": "League of Assassins",
+      "diziid": "arrow",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/28/suikastciler_birligi"
+    },
+    {
+      "season": 6,
+      "episode": 29,
+      "title": "Keep Your Enemies Closer",
+      "diziid": "arrow",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/29/dusmanini_yakin_tut"
+    },
+    {
+      "season": 7,
+      "episode": 30,
+      "title": "State v. Queen",
+      "diziid": "arrow",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/30/dava"
+    },
+    {
+      "season": 8,
+      "episode": 31,
+      "title": "The Scientist",
+      "diziid": "arrow",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/31/uygulamali_bilimler"
+    },
+    {
+      "season": 9,
+      "episode": 32,
+      "title": "Three Ghosts",
+      "diziid": "arrow",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/32/uc_hayalet"
+    },
+    {
+      "season": 10,
+      "episode": 33,
+      "title": "Blast Radius",
+      "diziid": "arrow",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/33/sarapnel"
+    },
+    {
+      "season": 11,
+      "episode": 34,
+      "title": "Blind Spot",
+      "diziid": "arrow",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/34/kor_nokta"
+    },
+    {
+      "season": 12,
+      "episode": 35,
+      "title": "Tremors",
+      "diziid": "arrow",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/35/sarsinti"
+    },
+    {
+      "season": 13,
+      "episode": 36,
+      "title": "Heir to the Demon",
+      "diziid": "arrow",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/36/seytanin_varisi"
+    },
+    {
+      "season": 14,
+      "episode": 37,
+      "title": "Time of Death",
+      "diziid": "arrow",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/37/olum_saati"
+    },
+    {
+      "season": 15,
+      "episode": 38,
+      "title": "The Promise",
+      "diziid": "arrow",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/38/soz"
+    },
+    {
+      "season": 16,
+      "episode": 39,
+      "title": "Suicide Squad",
+      "diziid": "arrow",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/39/intihar_mangasi"
+    },
+    {
+      "season": 17,
+      "episode": 40,
+      "title": "Birds of Prey",
+      "diziid": "arrow",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/40/avci_kuslar"
+    },
+    {
+      "season": 18,
+      "episode": 41,
+      "title": "Deathstroke",
+      "diziid": "arrow",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/41/olum_vurusu"
+    },
+    {
+      "season": 19,
+      "episode": 42,
+      "title": "The Man Under the Hood",
+      "diziid": "arrow",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/42/basligin_altindaki_adam"
+    },
+    {
+      "season": 20,
+      "episode": 43,
+      "title": "Seeing Red",
+      "diziid": "arrow",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/43/ofke_atesi"
+    },
+    {
+      "season": 21,
+      "episode": 44,
+      "title": "City of Blood",
+      "diziid": "arrow",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/44/sehri_kana_bulamak"
+    },
+    {
+      "season": 22,
+      "episode": 45,
+      "title": "Streets of Fire",
+      "diziid": "arrow",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/45/sokakta_teror"
+    },
+    {
+      "season": 23,
+      "episode": 46,
+      "title": "Unthinkable",
+      "diziid": "arrow",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/46/kara_gun"
+    },
+    {
+      "season": 1,
+      "episode": 47,
+      "title": "The Calm",
+      "diziid": "arrow",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/47/firtinadan_onceki_sessizlik"
+    },
+    {
+      "season": 2,
+      "episode": 48,
+      "title": "Sara",
+      "diziid": "arrow",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/48/sara"
+    },
+    {
+      "season": 3,
+      "episode": 49,
+      "title": "Corto Maltese",
+      "diziid": "arrow",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/49/corto_maltese"
+    },
+    {
+      "season": 4,
+      "episode": 50,
+      "title": "The Magician",
+      "diziid": "arrow",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/50/sihirbaz"
+    },
+    {
+      "season": 5,
+      "episode": 51,
+      "title": "The Secret Origin of Felicity Smoak",
+      "diziid": "arrow",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/51/felicity_smoakun_gizli_gecmisi"
+    },
+    {
+      "season": 6,
+      "episode": 52,
+      "title": "Guilty",
+      "diziid": "arrow",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/52/suclu"
+    },
+    {
+      "season": 7,
+      "episode": 53,
+      "title": "Draw Back Your Bow",
+      "diziid": "arrow",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/53/yayini_ger"
+    },
+    {
+      "season": 8,
+      "episode": 54,
+      "title": "The Brave and the Bold",
+      "diziid": "arrow",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/54/cesur_iki_adam"
+    },
+    {
+      "season": 9,
+      "episode": 55,
+      "title": "The Climb",
+      "diziid": "arrow",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/55/tirmanis"
+    },
+    {
+      "season": 10,
+      "episode": 56,
+      "title": "Left Behind",
+      "diziid": "arrow",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/56/geride_kalanlar"
+    },
+    {
+      "season": 11,
+      "episode": 57,
+      "title": "Midnight City",
+      "diziid": "arrow",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/57/gece_yarisi"
+    },
+    {
+      "season": 12,
+      "episode": 58,
+      "title": "Uprising",
+      "diziid": "arrow",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/58/baskaldiri"
+    },
+    {
+      "season": 13,
+      "episode": 59,
+      "title": "Canaries",
+      "diziid": "arrow",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/59/kanaryalar"
+    },
+    {
+      "season": 14,
+      "episode": 60,
+      "title": "The Return",
+      "diziid": "arrow",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/60/donus"
+    },
+    {
+      "season": 15,
+      "episode": 61,
+      "title": "Nanda Parbat",
+      "diziid": "arrow",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/61/nanda_parbat"
+    },
+    {
+      "season": 16,
+      "episode": 62,
+      "title": "The Offer",
+      "diziid": "arrow",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/62/teklif"
+    },
+    {
+      "season": 17,
+      "episode": 63,
+      "title": "Suicidal Tendencies",
+      "diziid": "arrow",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/63/intihar_egilimleri"
+    },
+    {
+      "season": 18,
+      "episode": 64,
+      "title": "Public Enemy",
+      "diziid": "arrow",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/64/halk_dusmani"
+    },
+    {
+      "season": 19,
+      "episode": 65,
+      "title": "Broken Arrow",
+      "diziid": "arrow",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/65/kirik_ok"
+    },
+    {
+      "season": 20,
+      "episode": 66,
+      "title": "The Fallen",
+      "diziid": "arrow",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/66/zor_karar"
+    },
+    {
+      "season": 21,
+      "episode": 67,
+      "title": "Al Sah-him",
+      "diziid": "arrow",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/67/al_sah-him"
+    },
+    {
+      "season": 22,
+      "episode": 68,
+      "title": "This Is Your Sword",
+      "diziid": "arrow",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/68/bu_senin_kilicin"
+    },
+    {
+      "season": 23,
+      "episode": 69,
+      "title": "My Name Is Oliver Queen",
+      "diziid": "arrow",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/69/benim_adim_oliver_queen"
+    },
+    {
+      "season": 1,
+      "episode": 70,
+      "title": "Green Arrow",
+      "diziid": "arrow",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/70/green_arrow"
+    },
+    {
+      "season": 2,
+      "episode": 71,
+      "title": "The Candidate",
+      "diziid": "arrow",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/71/aday"
+    },
+    {
+      "season": 3,
+      "episode": 72,
+      "title": "Restoration",
+      "diziid": "arrow",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/72/dirilis"
+    },
+    {
+      "season": 4,
+      "episode": 73,
+      "title": "Beyond Redemption",
+      "diziid": "arrow",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/73/kurtarilamayacak_kadar_kotu"
+    },
+    {
+      "season": 5,
+      "episode": 74,
+      "title": "Haunted",
+      "diziid": "arrow",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/74/lanetli"
+    },
+    {
+      "season": 6,
+      "episode": 75,
+      "title": "Lost Souls",
+      "diziid": "arrow",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/75/kayip_ruhlar"
+    },
+    {
+      "season": 7,
+      "episode": 76,
+      "title": "Brotherhood",
+      "diziid": "arrow",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/76/kardeslik"
+    },
+    {
+      "season": 8,
+      "episode": 77,
+      "title": "Legends of Yesterday",
+      "diziid": "arrow",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/77/dunun_efsaneleri"
+    },
+    {
+      "season": 9,
+      "episode": 78,
+      "title": "Dark Waters",
+      "diziid": "arrow",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/78/karanlik_sular"
+    },
+    {
+      "season": 10,
+      "episode": 79,
+      "title": "Blood Debts",
+      "diziid": "arrow",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/79/kan_davasi"
+    },
+    {
+      "season": 11,
+      "episode": 80,
+      "title": "A.W.O.L.",
+      "diziid": "arrow",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/80/devamsizlik"
+    },
+    {
+      "season": 12,
+      "episode": 81,
+      "title": "Unchained",
+      "diziid": "arrow",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/81/calculator"
+    },
+    {
+      "season": 13,
+      "episode": 82,
+      "title": "Sins of the Father",
+      "diziid": "arrow",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/82/babanin_gunahlari"
+    },
+    {
+      "season": 14,
+      "episode": 83,
+      "title": "Code of Silence",
+      "diziid": "arrow",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/83/sessizlik_kurali"
+    },
+    {
+      "season": 15,
+      "episode": 84,
+      "title": "Taken",
+      "diziid": "arrow",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/84/takip"
+    },
+    {
+      "season": 16,
+      "episode": 85,
+      "title": "Broken Hearts",
+      "diziid": "arrow",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/85/kirik_kalpler"
+    },
+    {
+      "season": 17,
+      "episode": 86,
+      "title": "Beacon of Hope",
+      "diziid": "arrow",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/86/umut_isigi"
+    },
+    {
+      "season": 18,
+      "episode": 87,
+      "title": "Eleven-Fifty-Nine",
+      "diziid": "arrow",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/87/on_bir-elli-dokuz"
+    },
+    {
+      "season": 19,
+      "episode": 88,
+      "title": "Canary Cry",
+      "diziid": "arrow",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/88/canary_yasiyor_mu"
+    },
+    {
+      "season": 20,
+      "episode": 89,
+      "title": "Genesis",
+      "diziid": "arrow",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/89/yaratilis"
+    },
+    {
+      "season": 21,
+      "episode": 90,
+      "title": "Monument Point",
+      "diziid": "arrow",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/90/monument_point"
+    },
+    {
+      "season": 22,
+      "episode": 91,
+      "title": "Lost in the Flood",
+      "diziid": "arrow",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/91/tufanda_kaybolmak"
+    },
+    {
+      "season": 23,
+      "episode": 92,
+      "title": "Schism",
+      "diziid": "arrow",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/92/bolunme"
+    },
+    {
+      "season": 1,
+      "episode": 93,
+      "title": "Legacy",
+      "diziid": "arrow",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/93/miras"
+    },
+    {
+      "season": 2,
+      "episode": 94,
+      "title": "The Recruits",
+      "diziid": "arrow",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/94/yeniler"
+    },
+    {
+      "season": 3,
+      "episode": 95,
+      "title": "A Matter of Trust",
+      "diziid": "arrow",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/95/guven_konusu"
+    },
+    {
+      "season": 4,
+      "episode": 96,
+      "title": "Penance",
+      "diziid": "arrow",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/96/kefaret"
+    },
+    {
+      "season": 5,
+      "episode": 97,
+      "title": "Human Target",
+      "diziid": "arrow",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/97/insan_hedef"
+    },
+    {
+      "season": 6,
+      "episode": 98,
+      "title": "So It Begins",
+      "diziid": "arrow",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/98/iste_basliyor"
+    },
+    {
+      "season": 7,
+      "episode": 99,
+      "title": "Vigilante",
+      "diziid": "arrow",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/99/kanunsuz"
+    },
+    {
+      "season": 8,
+      "episode": 100,
+      "title": "Invasion!",
+      "diziid": "arrow",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/100/istila"
+    },
+    {
+      "season": 9,
+      "episode": 101,
+      "title": "What We Leave Behind",
+      "diziid": "arrow",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/101/gecmiste_kalanlar"
+    },
+    {
+      "season": 10,
+      "episode": 102,
+      "title": "Who Are You?",
+      "diziid": "arrow",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/102/sen_kimsin"
+    },
+    {
+      "season": 11,
+      "episode": 103,
+      "title": "Second Chances",
+      "diziid": "arrow",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/103/ikinci_sanslar"
+    },
+    {
+      "season": 12,
+      "episode": 104,
+      "title": "Bratva",
+      "diziid": "arrow",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/104/bratva"
+    },
+    {
+      "season": 13,
+      "episode": 105,
+      "title": "Spectre of the Gun",
+      "diziid": "arrow",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/105/silahlarin_golgesi"
+    },
+    {
+      "season": 14,
+      "episode": 106,
+      "title": "The Sin-Eater",
+      "diziid": "arrow",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/106/gunah_yiyen"
+    },
+    {
+      "season": 15,
+      "episode": 107,
+      "title": "Fighting Fire with Fire",
+      "diziid": "arrow",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/107/atese_atesle_karsilik"
+    },
+    {
+      "season": 16,
+      "episode": 108,
+      "title": "Checkmate",
+      "diziid": "arrow",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/108/sah_mat"
+    },
+    {
+      "season": 17,
+      "episode": 109,
+      "title": "Kapiushon",
+      "diziid": "arrow",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/109/kapuson"
+    },
+    {
+      "season": 18,
+      "episode": 110,
+      "title": "Disbanded",
+      "diziid": "arrow",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/110/dagilis"
+    },
+    {
+      "season": 19,
+      "episode": 111,
+      "title": "Dangerous Liaisons",
+      "diziid": "arrow",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/111/tehlikeli_iliskiler"
+    },
+    {
+      "season": 20,
+      "episode": 112,
+      "title": "Underneath",
+      "diziid": "arrow",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/112/altinda"
+    },
+    {
+      "season": 21,
+      "episode": 113,
+      "title": "Honor Thy Fathers",
+      "diziid": "arrow",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/113/babalarinizi_onurlandirin"
+    },
+    {
+      "season": 22,
+      "episode": 114,
+      "title": "Missing",
+      "diziid": "arrow",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/114/kayip"
+    },
+    {
+      "season": 23,
+      "episode": 115,
+      "title": "Lian Yu",
+      "diziid": "arrow",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/115/lian_yu"
+    },
+    {
+      "season": 1,
+      "episode": 116,
+      "title": "Fallout",
+      "diziid": "arrow",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/116/yansimalar"
+    },
+    {
+      "season": 2,
+      "episode": 117,
+      "title": "Tribute",
+      "diziid": "arrow",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/117/hurmet"
+    },
+    {
+      "season": 3,
+      "episode": 118,
+      "title": "Next of Kin",
+      "diziid": "arrow",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/118/aile"
+    },
+    {
+      "season": 4,
+      "episode": 119,
+      "title": "Reversal",
+      "diziid": "arrow",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/119/rol_degisimi"
+    },
+    {
+      "season": 5,
+      "episode": 120,
+      "title": "Deathstroke Returns",
+      "diziid": "arrow",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/120/deathstrokeun_donusu"
+    },
+    {
+      "season": 6,
+      "episode": 121,
+      "title": "Promises Kept",
+      "diziid": "arrow",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/121/tutulan_sozler"
+    },
+    {
+      "season": 7,
+      "episode": 122,
+      "title": "Thanksgiving",
+      "diziid": "arrow",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/122/sukran_gunu"
+    },
+    {
+      "season": 8,
+      "episode": 123,
+      "title": "Crisis on Earth-X, Part 2",
+      "diziid": "arrow",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/123/dunya-xte_kriz%2C_kisim_2"
+    },
+    {
+      "season": 9,
+      "episode": 124,
+      "title": "Irreconcilable Differences",
+      "diziid": "arrow",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/124/uzlastirilamaz_farkliliklar"
+    },
+    {
+      "season": 10,
+      "episode": 125,
+      "title": "Divided",
+      "diziid": "arrow",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/125/bolunme"
+    },
+    {
+      "season": 11,
+      "episode": 126,
+      "title": "We Fall",
+      "diziid": "arrow",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/126/dusus"
+    },
+    {
+      "season": 12,
+      "episode": 127,
+      "title": "All for Nothing",
+      "diziid": "arrow",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/127/bir_hic_ugruna"
+    },
+    {
+      "season": 13,
+      "episode": 128,
+      "title": "The Devil's Greatest Trick",
+      "diziid": "arrow",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/128/seytanin_en_buyuk_hilesi"
+    },
+    {
+      "season": 14,
+      "episode": 129,
+      "title": "Collision Course",
+      "diziid": "arrow",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/129/carpisma"
+    },
+    {
+      "season": 15,
+      "episode": 130,
+      "title": "DoppelgÃ¤nger",
+      "diziid": "arrow",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/130/gorsel_ikiz"
+    },
+    {
+      "season": 16,
+      "episode": 131,
+      "title": "The Thanatos Guild",
+      "diziid": "arrow",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/131/thanatos_loncasi"
+    },
+    {
+      "season": 17,
+      "episode": 132,
+      "title": "Brothers in Arms",
+      "diziid": "arrow",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/132/silah_arkadaslari"
+    },
+    {
+      "season": 18,
+      "episode": 133,
+      "title": "Fundamentals",
+      "diziid": "arrow",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/133/esaslar"
+    },
+    {
+      "season": 19,
+      "episode": 134,
+      "title": "The Dragon",
+      "diziid": "arrow",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/134/ejderha"
+    },
+    {
+      "season": 20,
+      "episode": 135,
+      "title": "Shifting Allegiances",
+      "diziid": "arrow",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/135/degisen_ittifaklar"
+    },
+    {
+      "season": 21,
+      "episode": 136,
+      "title": "Docket No. 11-19-41-73",
+      "diziid": "arrow",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/136/dosya_no._11-19-41-73"
+    },
+    {
+      "season": 22,
+      "episode": 137,
+      "title": "The Ties That Bind",
+      "diziid": "arrow",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/137/kritik_baglantilar"
+    },
+    {
+      "season": 23,
+      "episode": 138,
+      "title": "Life Sentence",
+      "diziid": "arrow",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/138/muebbet"
+    },
+    {
+      "season": 1,
+      "episode": 139,
+      "title": "Inmate 4587",
+      "diziid": "arrow",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/139/mahkum_4587"
+    },
+    {
+      "season": 2,
+      "episode": 140,
+      "title": "The Longbow Hunters",
+      "diziid": "arrow",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/140/uzun_yay_avcilari"
+    },
+    {
+      "season": 3,
+      "episode": 141,
+      "title": "Crossing Lines",
+      "diziid": "arrow",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/141/cizgileri_gecmek"
+    },
+    {
+      "season": 4,
+      "episode": 142,
+      "title": "Level Two",
+      "diziid": "arrow",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/142/seviye_iki"
+    },
+    {
+      "season": 5,
+      "episode": 143,
+      "title": "The Demon",
+      "diziid": "arrow",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/143/seytan"
+    },
+    {
+      "season": 6,
+      "episode": 144,
+      "title": "Due Process",
+      "diziid": "arrow",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/144/adalet_sureci"
+    },
+    {
+      "season": 7,
+      "episode": 145,
+      "title": "The Slabside Redemption",
+      "diziid": "arrow",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/145/hapishane_adasinin_kurtulusu"
+    },
+    {
+      "season": 8,
+      "episode": 146,
+      "title": "Unmasked",
+      "diziid": "arrow",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/146/maskesiz"
+    },
+    {
+      "season": 9,
+      "episode": 147,
+      "title": "Elseworlds, Part 2",
+      "diziid": "arrow",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/147/elseworlds%2C_kisim_2"
+    },
+    {
+      "season": 10,
+      "episode": 148,
+      "title": "My Name Is Emiko Queen",
+      "diziid": "arrow",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/148/benim_adim_emiko_queen"
+    },
+    {
+      "season": 11,
+      "episode": 149,
+      "title": "Past Sins",
+      "diziid": "arrow",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/149/gecmis_gunahlar"
+    },
+    {
+      "season": 12,
+      "episode": 150,
+      "title": "Emerald Archer",
+      "diziid": "arrow",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/150/zumrut_okcu"
+    },
+    {
+      "season": 13,
+      "episode": 151,
+      "title": "Star City Slayer",
+      "diziid": "arrow",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/151/star_city_katili"
+    },
+    {
+      "season": 14,
+      "episode": 152,
+      "title": "Brothers & Sisters",
+      "diziid": "arrow",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/152/kardesler"
+    },
+    {
+      "season": 15,
+      "episode": 153,
+      "title": "Training Day",
+      "diziid": "arrow",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/153/egitim_gunu"
+    },
+    {
+      "season": 16,
+      "episode": 154,
+      "title": "Star City 2040",
+      "diziid": "arrow",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/154/star_city_2040"
+    },
+    {
+      "season": 17,
+      "episode": 155,
+      "title": "Inheritance",
+      "diziid": "arrow",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/155/mirasa_konan"
+    },
+    {
+      "season": 18,
+      "episode": 156,
+      "title": "Lost Canary",
+      "diziid": "arrow",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/156/kayip_kanarya"
+    },
+    {
+      "season": 19,
+      "episode": 157,
+      "title": "Spartan",
+      "diziid": "arrow",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/157/spartan"
+    },
+    {
+      "season": 20,
+      "episode": 158,
+      "title": "Confessions",
+      "diziid": "arrow",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/158/itiraf"
+    },
+    {
+      "season": 21,
+      "episode": 159,
+      "title": "Living Proof",
+      "diziid": "arrow",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/159/kanit"
+    },
+    {
+      "season": 22,
+      "episode": 160,
+      "title": "You Have Saved This City",
+      "diziid": "arrow",
+      "bolum": "160",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/160/bu_sehri_kurtardin"
+    },
+    {
+      "season": 1,
+      "episode": 161,
+      "title": "Starling City",
+      "diziid": "arrow",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/161/starling_sehri"
+    },
+    {
+      "season": 2,
+      "episode": 162,
+      "title": "Welcome to Hong Kong",
+      "diziid": "arrow",
+      "bolum": "162",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/162/hong_konga_hos_geldiniz"
+    },
+    {
+      "season": 3,
+      "episode": 163,
+      "title": "Leap of Faith",
+      "diziid": "arrow",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/163/inanc_sicramasi"
+    },
+    {
+      "season": 4,
+      "episode": 164,
+      "title": "Present Tense",
+      "diziid": "arrow",
+      "bolum": "164",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/164/simdiki_zaman"
+    },
+    {
+      "season": 5,
+      "episode": 165,
+      "title": "Prochnost",
+      "diziid": "arrow",
+      "bolum": "165",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/165/prochnost"
+    },
+    {
+      "season": 6,
+      "episode": 166,
+      "title": "Reset",
+      "diziid": "arrow",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/166/sifirlama"
+    },
+    {
+      "season": 7,
+      "episode": 167,
+      "title": "Purgatory",
+      "diziid": "arrow",
+      "bolum": "167",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/167/cehennem"
+    },
+    {
+      "season": 8,
+      "episode": 168,
+      "title": "Crisis on Infinite Earths: Part Four",
+      "diziid": "arrow",
+      "bolum": "168",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/168/sonsuz_dunya_krizi%2C_kisim_dort"
+    },
+    {
+      "season": 9,
+      "episode": 169,
+      "title": "Green Arrow & The Canaries",
+      "diziid": "arrow",
+      "bolum": "169",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/169/yesil_ok_ve_kanaryalar"
+    },
+    {
+      "season": 10,
+      "episode": 170,
+      "title": "Fadeout",
+      "diziid": "arrow",
+      "bolum": "170",
+      "url": "https://cizgivedizi.com/dizi/arrow/arrow/170/son_perde"
+    }
+  ]
+}

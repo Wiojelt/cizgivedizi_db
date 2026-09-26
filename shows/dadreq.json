@@ -1,0 +1,92 @@
+{
+  "id": "dadreq",
+  "title": "daddies on request",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/DADORQPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Romantik Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Gift",
+      "diziid": "dadreq",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/dadreq/daddies_on_request/1/hediye"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Rescue",
+      "diziid": "dadreq",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/dadreq/daddies_on_request/2/kurtarma"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Secret",
+      "diziid": "dadreq",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/dadreq/daddies_on_request/3/sir"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Guilt",
+      "diziid": "dadreq",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/dadreq/daddies_on_request/4/suc"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Return",
+      "diziid": "dadreq",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/dadreq/daddies_on_request/5/dun"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Search",
+      "diziid": "dadreq",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/dadreq/daddies_on_request/6/arayis"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Change",
+      "diziid": "dadreq",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/dadreq/daddies_on_request/7/degisiklik"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Arrival",
+      "diziid": "dadreq",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/dadreq/daddies_on_request/8/varis"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Enemy",
+      "diziid": "dadreq",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/dadreq/daddies_on_request/9/dusman"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Destination",
+      "diziid": "dadreq",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/dadreq/daddies_on_request/10/hedef"
+    }
+  ]
+}

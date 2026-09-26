@@ -1,0 +1,29 @@
+{
+  "id": "aratdt",
+  "title": "araÅŸtÄ±rmacÄ± takÄ±m: dÃ¼nya tuhaflaÅŸtÄ±",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/ARATDTPoster.avif",
+  "channel": "Da Vinci",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici",
+    "Dedektif"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "World Turned Odd: Part 1",
+      "diziid": "aratdt",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/aratdt/arastirmaci_takim%3A_dunya_tuhaflasti/1/bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "World Turned Odd: Part 2",
+      "diziid": "aratdt",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/aratdt/arastirmaci_takim%3A_dunya_tuhaflasti/2/bolum_2"
+    }
+  ]
+}

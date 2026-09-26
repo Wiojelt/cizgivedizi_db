@@ -1,0 +1,405 @@
+{
+  "id": "candy",
+  "title": "ÅŸeker kÄ±z candy",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/CANDYPoster.avif",
+  "channel": "Kanal D",
+  "genres": [
+    "Romantik",
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Candy's Birthday",
+      "diziid": "candy",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/1/candynin_dogum_gunu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Candy and Annie's Picnic",
+      "diziid": "candy",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/2/candy_ve_annienin_piknigi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Goodbye Annie",
+      "diziid": "candy",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/3/hosca_kal_annie"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "A Letter from Annie",
+      "diziid": "candy",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/4/annieden_bir_mektup"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "From Today, I'll Be a Princess?",
+      "diziid": "candy",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/5/bugunden_itibaren_bir_prenses_olacagim"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Prince of the Hill",
+      "diziid": "candy",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/6/tepenin_prensi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Am I Elegant?",
+      "diziid": "candy",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/7/ben_zarif_miyim"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Invitation of Happiness",
+      "diziid": "candy",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/8/mutlulugun_davetiyesi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Dance Where I Met Him",
+      "diziid": "candy",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/9/onunla_tanistigim_dans"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Barn Princess",
+      "diziid": "candy",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/10/ahir_prensesi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "A Small Ribbon Connecting Hearts",
+      "diziid": "candy",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/11/kucuk_kurdele"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "A Rose-Scented Birthday",
+      "diziid": "candy",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/12/gul_kokulu_bir_dogum_gunu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Lonesome Three",
+      "diziid": "candy",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/13/yalniz_uclu"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Old Tree in Spring",
+      "diziid": "candy",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/14/baharin_yasli_agaci"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Decision Which Took Away My Happiness",
+      "diziid": "candy",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/15/mutlulugumu_alan_karar"
+    },
+    {
+      "season": 18,
+      "episode": 16,
+      "title": "The Cross of Happiness",
+      "diziid": "candy",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/18/mutlulugun_haci"
+    },
+    {
+      "season": 19,
+      "episode": 17,
+      "title": "At the End of the Difficult Journey",
+      "diziid": "candy",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/19/zorlu_yolculugun_sonunda"
+    },
+    {
+      "season": 20,
+      "episode": 18,
+      "title": "Happy Like in a Dream",
+      "diziid": "candy",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/20/bir_ruya_gibi_mutlu"
+    },
+    {
+      "season": 21,
+      "episode": 19,
+      "title": "A Pigeon That Carried Friendship",
+      "diziid": "candy",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/21/arkadaslik_tasiyan_guvercin"
+    },
+    {
+      "season": 22,
+      "episode": 20,
+      "title": "Don't Give Up, Anthony!",
+      "diziid": "candy",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/22/pes_etme%2C_anthony%21"
+    },
+    {
+      "season": 23,
+      "episode": 21,
+      "title": "The First Date",
+      "diziid": "candy",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/23/ilk_randevu"
+    },
+    {
+      "season": 24,
+      "episode": 22,
+      "title": "My Anthony",
+      "diziid": "candy",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/24/benim_anthonym"
+    },
+    {
+      "season": 25,
+      "episode": 23,
+      "title": "Overcoming the Pain",
+      "diziid": "candy",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/25/aciyi_asmak"
+    },
+    {
+      "season": 26,
+      "episode": 24,
+      "title": "Father-Tree Knows",
+      "diziid": "candy",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/26/baba-agac_bilir"
+    },
+    {
+      "season": 27,
+      "episode": 25,
+      "title": "A Present of Angels",
+      "diziid": "candy",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/27/meleklerden_hediye"
+    },
+    {
+      "season": 28,
+      "episode": 26,
+      "title": "Scar on the Healed Soul",
+      "diziid": "candy",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/28/iyilesmis_ruhtaki_yara"
+    },
+    {
+      "season": 29,
+      "episode": 27,
+      "title": "Setting Out on a Voyage Towards Hope",
+      "diziid": "candy",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/29/umut_dolu_ayrilik"
+    },
+    {
+      "season": 30,
+      "episode": 28,
+      "title": "Love Transcends Raging Waves",
+      "diziid": "candy",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/30/calkantili_dalgalari_asan_ask"
+    },
+    {
+      "season": 31,
+      "episode": 29,
+      "title": "A New Day in the Old Capital",
+      "diziid": "candy",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/31/eski_baskentte_yeni_bir_gun"
+    },
+    {
+      "season": 32,
+      "episode": 30,
+      "title": "Another Pony Hill",
+      "diziid": "candy",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/32/eski_pony_tepesi"
+    },
+    {
+      "season": 33,
+      "episode": 31,
+      "title": "A Strange Student",
+      "diziid": "candy",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/33/garip_bir_ogrenci"
+    },
+    {
+      "season": 34,
+      "episode": 32,
+      "title": "The Inverted Envelope",
+      "diziid": "candy",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/34/geri_donen_zarf"
+    },
+    {
+      "season": 35,
+      "episode": 33,
+      "title": "A Wonderful Sunday",
+      "diziid": "candy",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/35/harika_bir_pazar"
+    },
+    {
+      "season": 36,
+      "episode": 34,
+      "title": "Revived Smiles",
+      "diziid": "candy",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/36/yeniden_canlanan_gulumsemeler"
+    },
+    {
+      "season": 37,
+      "episode": 35,
+      "title": "A Wonderful Encounter",
+      "diziid": "candy",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/37/harika_bir_karsilasma"
+    },
+    {
+      "season": 38,
+      "episode": 36,
+      "title": "The Secret of Terrius",
+      "diziid": "candy",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/38/terriusun_sirri"
+    },
+    {
+      "season": 39,
+      "episode": 37,
+      "title": "A Treasure Which Caused Anger",
+      "diziid": "candy",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/39/ofkeye_sebep_olan_hazine"
+    },
+    {
+      "season": 41,
+      "episode": 38,
+      "title": "Fairy of the School Festival",
+      "diziid": "candy",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/41/okul_festivali_perisi"
+    },
+    {
+      "season": 42,
+      "episode": 39,
+      "title": "A Midnight Picnic",
+      "diziid": "candy",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/42/gece_piknigi"
+    },
+    {
+      "season": 43,
+      "episode": 40,
+      "title": "Summer School at the Shore of a Lake",
+      "diziid": "candy",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/43/bir_gol_kiyisinda_yaz_okulu"
+    },
+    {
+      "season": 44,
+      "episode": 41,
+      "title": "The Link Between a Mother and a Child",
+      "diziid": "candy",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/44/anne_ile_cocuk_arasindaki_bag"
+    },
+    {
+      "season": 45,
+      "episode": 42,
+      "title": "White Party for Two",
+      "diziid": "candy",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/45/iki_kisilik_beyaz_parti"
+    },
+    {
+      "season": 46,
+      "episode": 43,
+      "title": "End of a Vibrant Summer",
+      "diziid": "candy",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/46/canli_bir_yazin_sonu"
+    },
+    {
+      "season": 47,
+      "episode": 44,
+      "title": "Eliza's Trap",
+      "diziid": "candy",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/47/elizanin_tuzagi"
+    },
+    {
+      "season": 48,
+      "episode": 45,
+      "title": "Within the Cold, Thick Walls",
+      "diziid": "candy",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/48/soguk%2C_kalin_duvarlarin_icinde"
+    },
+    {
+      "season": 49,
+      "episode": 46,
+      "title": "Terry's Decision",
+      "diziid": "candy",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/49/terrynin_karari"
+    },
+    {
+      "season": 50,
+      "episode": 47,
+      "title": "Departure Shrouded by the Morning Mist",
+      "diziid": "candy",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/50/sabah_sisiyle_kapli_yolculuk"
+    },
+    {
+      "season": 51,
+      "episode": 48,
+      "title": "Long Way to the Port",
+      "diziid": "candy",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/51/liman_yolunda_uzun_bir_yol"
+    },
+    {
+      "season": 52,
+      "episode": 49,
+      "title": "The Star I Saw from the Barn",
+      "diziid": "candy",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/candy/seker_kiz_candy/52/ahirdan_gordugum_yildiz"
+    }
+  ]
+}

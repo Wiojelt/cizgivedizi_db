@@ -1,0 +1,421 @@
+{
+  "id": "barney",
+  "title": "barney'nin dÃ¼nyasÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BARNEYPoster.avif",
+  "channel": "Cartoonito",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici",
+    "MÃ¼zik/MÃ¼zikal"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Floor Is Grape Jelly",
+      "diziid": "barney",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/1/yerde_uzumlu_jole_var"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "I Lovey You",
+      "diziid": "barney",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/2/seni_seviyorum"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Mel's Greatest Treasure",
+      "diziid": "barney",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/3/melin_buyuk_hazinesi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "One Ripe Tomato",
+      "diziid": "barney",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/4/bir_olgun_domates"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Barney's Big Race",
+      "diziid": "barney",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/5/barneynin_buyuk_yarisi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Brave Truth",
+      "diziid": "barney",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/6/cesur_gercek"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Red Light Stop, Green Light Go",
+      "diziid": "barney",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/7/kirmizi_isik_dur%2C_yesil_isik_gec"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Big, Bigger, Best",
+      "diziid": "barney",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/8/buyuk%2C_daha_buyuk%2C_en_iyisi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Practice Makes Purple",
+      "diziid": "barney",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/9/calmak_mor_yapar"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Team Mateys",
+      "diziid": "barney",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/10/takim_arkadaslari"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Save the Garden",
+      "diziid": "barney",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/11/bahceyi_kurtar"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Dances with Goblins",
+      "diziid": "barney",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/12/cucelerle_dans"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Missing Mel",
+      "diziid": "barney",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/13/kayip_mel"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Castaway Crew",
+      "diziid": "barney",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/14/kazazedeler"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Drawing Attention",
+      "diziid": "barney",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/15/dikkat_cekme"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Worth the Wait",
+      "diziid": "barney",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/16/beklemeye_degdi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "The Big Spill",
+      "diziid": "barney",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/17/buyuk_kacak"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Nature Chat",
+      "diziid": "barney",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/18/doganin_sesi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Great Grateful Scavenger Hunt",
+      "diziid": "barney",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/19/buyuk_sukurlu_define_avi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "David the Hero",
+      "diziid": "barney",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/20/kahraman_david"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Making Magic",
+      "diziid": "barney",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/21/sihir_yapmak"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Birds of a Feather",
+      "diziid": "barney",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/22/kus_tuyu"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Bigger Wheels",
+      "diziid": "barney",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/23/buyuk_tekerlekler"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Every Little Thing",
+      "diziid": "barney",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/24/her_kucuk_sey"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Barney's Birthday",
+      "diziid": "barney",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/25/barneynin_dogum_gunu"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Finders Not Keepers",
+      "diziid": "barney",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/26/kim_bulduysa_onundur"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "The Snuzzleberry Snatcher",
+      "diziid": "barney",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/27/bogurtlen_avcisi"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "It Takes Three",
+      "diziid": "barney",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/28/uc_kisi_gerekir"
+    },
+    {
+      "season": 30,
+      "episode": 29,
+      "title": "Too Far",
+      "diziid": "barney",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/30/cok_uzak"
+    },
+    {
+      "season": 31,
+      "episode": 30,
+      "title": "Someone's Missing",
+      "diziid": "barney",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/31/biri_eksik"
+    },
+    {
+      "season": 32,
+      "episode": 31,
+      "title": "Lights Out",
+      "diziid": "barney",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/32/isiklar_sondu"
+    },
+    {
+      "season": 33,
+      "episode": 32,
+      "title": "A Work of Parts",
+      "diziid": "barney",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/33/takim_calismasi"
+    },
+    {
+      "season": 34,
+      "episode": 33,
+      "title": "Time To Try",
+      "diziid": "barney",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/34/deneme_zamani"
+    },
+    {
+      "season": 35,
+      "episode": 34,
+      "title": "One More Game",
+      "diziid": "barney",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/35/son_bir_oyun"
+    },
+    {
+      "season": 36,
+      "episode": 35,
+      "title": "Forever and Always",
+      "diziid": "barney",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/36/daima_ve_her_zaman"
+    },
+    {
+      "season": 37,
+      "episode": 36,
+      "title": "It's a Jungle Out There",
+      "diziid": "barney",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/37/orada_bir_orman_var"
+    },
+    {
+      "season": 38,
+      "episode": 37,
+      "title": "Big Energy Billy",
+      "diziid": "barney",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/38/buyuk_enerjili_billy"
+    },
+    {
+      "season": 39,
+      "episode": 38,
+      "title": "Everyday Mother's Day",
+      "diziid": "barney",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/39/her_gun_anneler_gunu"
+    },
+    {
+      "season": 40,
+      "episode": 39,
+      "title": "Father's Day Road Trip",
+      "diziid": "barney",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/40/babalar_gunu_yolculugu"
+    },
+    {
+      "season": 41,
+      "episode": 40,
+      "title": "Nonna On The Move",
+      "diziid": "barney",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/41/nonna_harekete_geciyor"
+    },
+    {
+      "season": 42,
+      "episode": 41,
+      "title": "Just Like Liam",
+      "diziid": "barney",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/42/tipki_liam_gibi"
+    },
+    {
+      "season": 43,
+      "episode": 42,
+      "title": "The Brighter Side",
+      "diziid": "barney",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/43/daha_guzel_taraf"
+    },
+    {
+      "season": 44,
+      "episode": 43,
+      "title": "Baby Bop Blues",
+      "diziid": "barney",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/44/huysuz_bebek_bop"
+    },
+    {
+      "season": 45,
+      "episode": 44,
+      "title": "Just My Style",
+      "diziid": "barney",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/45/tam_benim_tarzim"
+    },
+    {
+      "season": 46,
+      "episode": 45,
+      "title": "Eyes On The Surprise",
+      "diziid": "barney",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/46/aman_surprize_dikkat"
+    },
+    {
+      "season": 47,
+      "episode": 46,
+      "title": "Silly Time",
+      "diziid": "barney",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/47/komiklik_zamani"
+    },
+    {
+      "season": 48,
+      "episode": 47,
+      "title": "Sticky Feelings",
+      "diziid": "barney",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/48/yapiskan_hisler"
+    },
+    {
+      "season": 49,
+      "episode": 48,
+      "title": "The Pizza Extravaganza",
+      "diziid": "barney",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/49/pizza_soleni"
+    },
+    {
+      "season": 50,
+      "episode": 49,
+      "title": "Back On Board",
+      "diziid": "barney",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/50/tekrar_kaykay_basi"
+    },
+    {
+      "season": 51,
+      "episode": 50,
+      "title": "Trash To Treasure",
+      "diziid": "barney",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/51/copten_hazine"
+    },
+    {
+      "season": 52,
+      "episode": 51,
+      "title": "The Good Apology",
+      "diziid": "barney",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/barney/barneynin_dunyasi/52/iyi_bir_ozur"
+    }
+  ]
+}

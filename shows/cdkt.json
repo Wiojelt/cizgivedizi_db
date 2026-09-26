@@ -1,0 +1,525 @@
+{
+  "id": "cdkt",
+  "title": "chip ve dale: kurtarma timi",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/CDKTPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Macera",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Piratsy Under the Seas",
+      "diziid": "cdkt",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/1/denizler_altinda_korsanlik"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Catteries Not Included",
+      "diziid": "cdkt",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/2/kedi_bakimevleri_dahil_degil"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Dale Beside Himself",
+      "diziid": "cdkt",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/3/cilgin_dale"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Flash the Wonder Dog",
+      "diziid": "cdkt",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/4/harika_kopek_flash"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Out to Launch",
+      "diziid": "cdkt",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/5/firlatmaya"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Kiwi's Big Adventure",
+      "diziid": "cdkt",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/6/kivinin_buyuk_macerasi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Adventures in Squirrelsitting",
+      "diziid": "cdkt",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/7/sincap_maceralari"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Pound of the Baskervilles",
+      "diziid": "cdkt",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/8/baskerville_kosku"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Risky Beesness",
+      "diziid": "cdkt",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/9/riskli_ari_isi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Three Men and a Booby",
+      "diziid": "cdkt",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/10/uc_erkek_ve_bir_kus"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Carpetsnaggers",
+      "diziid": "cdkt",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/11/ucan_hali_hirsizlari"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Bearing Up Baby",
+      "diziid": "cdkt",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/12/bebegi_neselendirmek"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Parental Discretion Retired",
+      "diziid": "cdkt",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/13/kurtarma_timi_yardima_kosuyor_kisim_1"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Rescue Rangers to the Rescue (1)",
+      "diziid": "cdkt",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/14/kurtarma_timi_yardima_kosuyor_kisim_2"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Rescue Rangers to the Rescue (2)",
+      "diziid": "cdkt",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/15/kurtarma_timi_yardima_kosuyor_kisim_3"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Rescue Rangers to the Rescue (3)",
+      "diziid": "cdkt",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/16/kurtarma_timi_yardima_kosuyor_kisim_4"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Rescue Rangers to the Rescue (4)",
+      "diziid": "cdkt",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/17/kurtarma_timi_yardima_kosuyor_kisim_5"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Rescue Rangers to the Rescue (5)",
+      "diziid": "cdkt",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/18/ebeveyn_sagduyusu_kalmadi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "A Lad in a Lamp",
+      "diziid": "cdkt",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/19/lambadaki_cocuk"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Luck Stops Here",
+      "diziid": "cdkt",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/20/sans_bitti"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Battle of the Bulge",
+      "diziid": "cdkt",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/21/formda_kalma_cabasi"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Ghost of a Chance",
+      "diziid": "cdkt",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/22/ufacik_bir_ihtimal"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "An Elephant Never Suspects",
+      "diziid": "cdkt",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/23/bir_fil_asla_suphelenmez"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Fake Me to Your Leader",
+      "diziid": "cdkt",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/24/beni_liderine_gotur"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Last Train to Cashville",
+      "diziid": "cdkt",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/25/nakit_kentine_son_tren"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "A Case of Stage Blight",
+      "diziid": "cdkt",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/26/bir_sahne_korkusu_vakasi"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "The Case of the Cola Cult",
+      "diziid": "cdkt",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/27/lola_tarikati_vakasi"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Throw Mummy from the Train",
+      "diziid": "cdkt",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/28/mumyayi_trenden_at"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "A Wolf in Cheap Clothing",
+      "diziid": "cdkt",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/29/ucuz_giysili_kurt"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Robocat",
+      "diziid": "cdkt",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/30/robot_kedi"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Does Pavlov Ring a Bell",
+      "diziid": "cdkt",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/31/pavlovu_hatirladin_mi"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Prehysterical Pet",
+      "diziid": "cdkt",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/32/histeri_oncesinden_bir_hayvan"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "A Creep in the Deep",
+      "diziid": "cdkt",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/33/derinlerde_bir_alcak"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Normie's Science Project",
+      "diziid": "cdkt",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/34/normienin_bilim_projesi"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Seer No Evil",
+      "diziid": "cdkt",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/35/kahin"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Chipwrecked Shipmunks",
+      "diziid": "cdkt",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/36/gemi_kazasi"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "When Mice Were Men",
+      "diziid": "cdkt",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/37/fareler_insanken"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Chocolate Chips",
+      "diziid": "cdkt",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/38/cikolata_parcalari"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "The Last Leprechaun",
+      "diziid": "cdkt",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/39/son_leprikon"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Weather or Not",
+      "diziid": "cdkt",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/40/havaya_gore"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "One-Upsman-Chip",
+      "diziid": "cdkt",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/41/firsatcilik"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Shell Shocked",
+      "diziid": "cdkt",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/42/savas_bunalimi"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Love is a Many Splintered Thing",
+      "diziid": "cdkt",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/43/ask_cok_parcalanmis_bir_seydir"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Song of the Night 'n Dale",
+      "diziid": "cdkt",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/44/bulbulun_sarkisi"
+    },
+    {
+      "season": 46,
+      "episode": 45,
+      "title": "Gadget Goes Hawaiian",
+      "diziid": "cdkt",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/46/gadget_hawaiili_olur"
+    },
+    {
+      "season": 47,
+      "episode": 46,
+      "title": "It's a Bird, It's Insane, It's Dale!",
+      "diziid": "cdkt",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/47/bu_bir_kus%2C_bu_delilik%2C_dale_bu%21"
+    },
+    {
+      "season": 48,
+      "episode": 47,
+      "title": "Short Order Crooks",
+      "diziid": "cdkt",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/48/pratik_dolandiricilar"
+    },
+    {
+      "season": 49,
+      "episode": 48,
+      "title": "Mind Your Cheese and Q's",
+      "diziid": "cdkt",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/49/peynirine_dikkat_et"
+    },
+    {
+      "season": 50,
+      "episode": 49,
+      "title": "Out of Scale",
+      "diziid": "cdkt",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/50/olcusuz_-_kurtarma_timi"
+    },
+    {
+      "season": 51,
+      "episode": 50,
+      "title": "Dirty Rotten Diapers",
+      "diziid": "cdkt",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/51/pis_bebek_bezleri"
+    },
+    {
+      "season": 52,
+      "episode": 51,
+      "title": "Good Times, Bat Times",
+      "diziid": "cdkt",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/52/guzel_gunler%2C_yarasa_gunleri"
+    },
+    {
+      "season": 53,
+      "episode": 52,
+      "title": "Pie in the Sky",
+      "diziid": "cdkt",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/53/gokyuzundeki_turta"
+    },
+    {
+      "season": 54,
+      "episode": 53,
+      "title": "Le Purrfect Crime",
+      "diziid": "cdkt",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/54/le_muthis_suc"
+    },
+    {
+      "season": 55,
+      "episode": 54,
+      "title": "When You Fish Upon a Star",
+      "diziid": "cdkt",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/55/bir_yildizi_avlayinca"
+    },
+    {
+      "season": 56,
+      "episode": 55,
+      "title": "Rest Home Rangers",
+      "diziid": "cdkt",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/56/huzurevi_timi"
+    },
+    {
+      "season": 57,
+      "episode": 56,
+      "title": "A Lean on the Property",
+      "diziid": "cdkt",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/57/mulke_guven"
+    },
+    {
+      "season": 58,
+      "episode": 57,
+      "title": "The Pied Piper Power Play",
+      "diziid": "cdkt",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/58/elektrik_oyunu"
+    },
+    {
+      "season": 59,
+      "episode": 58,
+      "title": "Gorilla My Dreams",
+      "diziid": "cdkt",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/59/ruyalarimin_gorili"
+    },
+    {
+      "season": 60,
+      "episode": 59,
+      "title": "The SS Drainpipe",
+      "diziid": "cdkt",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/60/pis_su_borusu_gizli_servisi"
+    },
+    {
+      "season": 61,
+      "episode": 60,
+      "title": "Zipper Come Home",
+      "diziid": "cdkt",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/61/zipper_eve_don"
+    },
+    {
+      "season": 62,
+      "episode": 61,
+      "title": "Puffed Rangers",
+      "diziid": "cdkt",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/62/kurtarma_timi_nefes_nefese"
+    },
+    {
+      "season": 63,
+      "episode": 62,
+      "title": "A Fly in the Ointment",
+      "diziid": "cdkt",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/63/merhemdeki_sinek"
+    },
+    {
+      "season": 64,
+      "episode": 63,
+      "title": "A Chorus Crime",
+      "diziid": "cdkt",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/64/bir_koro_sucu"
+    },
+    {
+      "season": 65,
+      "episode": 64,
+      "title": "They Shoot Dogs, Don't They?",
+      "diziid": "cdkt",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/cdkt/chip_ve_dale%3A_kurtarma_timi/65/kopekleri_de_vururlar%2C_degil_mi"
+    }
+  ]
+}

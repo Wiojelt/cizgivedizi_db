@@ -1,0 +1,118 @@
+{
+  "id": "dae",
+  "title": "my daemon",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/DAEPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Bilim Kurgu",
+    "Aksiyon",
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Grave Journey",
+      "diziid": "dae",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/dae/my_daemon/1/tehlikeli_yolculuk"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "A Tough Decision",
+      "diziid": "dae",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/dae/my_daemon/2/zor_bir_karar"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Friend or Foe",
+      "diziid": "dae",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/dae/my_daemon/3/dost_mu_dusman_mi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Corrupted Soul",
+      "diziid": "dae",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/dae/my_daemon/4/ahlaksiz_ruh"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Collector",
+      "diziid": "dae",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/dae/my_daemon/5/koleksiyoncu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Awakening",
+      "diziid": "dae",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/dae/my_daemon/6/uyanis"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Impurity of Peace",
+      "diziid": "dae",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/dae/my_daemon/7/barisin_kirli_yuzu"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Separated",
+      "diziid": "dae",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/dae/my_daemon/8/ayrilik"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Little Friendship",
+      "diziid": "dae",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/dae/my_daemon/9/kucuk_dostluk"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Strong-willed",
+      "diziid": "dae",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/dae/my_daemon/10/iradeli"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "For All Departed Souls",
+      "diziid": "dae",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/dae/my_daemon/11/tum_gocmus_ruhlar_icin"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Judgement",
+      "diziid": "dae",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/dae/my_daemon/12/hukum"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "At All Cost",
+      "diziid": "dae",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/dae/my_daemon/13/ne_pahasina_olursa_olsun"
+    }
+  ]
+}

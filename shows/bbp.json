@@ -1,0 +1,413 @@
+{
+  "id": "bbp",
+  "title": "bakugan: battle planet",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/BBPPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Origin of the Species, Part 1 / Origin of the Species, Part 2",
+      "diziid": "bbp",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/1/turlerin_kokeni"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Burger Run / Monkey See, Monkey Don't",
+      "diziid": "bbp",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/2/burger_gezisi__soyledigini_yap%2C_yaptigini_yap"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Bully for You / Trolling for Laughs",
+      "diziid": "bbp",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/3/aferin_sana__kahkaha_icin_trolle"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Local Heroes / Pegatrix",
+      "diziid": "bbp",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/4/sehrin_kahramanlari__pegatrix"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Frenemies / Strata's Fear",
+      "diziid": "bbp",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/5/dost_gozuken_dusman__stratanin_korkusu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Dog Daze / In Focus",
+      "diziid": "bbp",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/6/kopek_sezgileri__ilgi_odagi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Exit / The Lost and the Cost",
+      "diziid": "bbp",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/7/exit__kaybin_bedeli"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Mister Moon / What's Up with Dan?",
+      "diziid": "bbp",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/8/bay_ay__dane_neler_oluyor"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Babysitting Bedlam / Rubbed the Wrong Way",
+      "diziid": "bbp",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/9/cocuk_bakiciligi_karmasasi__rahatsiz_edici_seyler"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Mask of Power / Story Holes",
+      "diziid": "bbp",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/10/guc_maskesi__hikayede_bosluklar"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Home on the Run / Top Slot",
+      "diziid": "bbp",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/11/evden_kacis__birincilik"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Fathers and Friends / Midsummer Nightmare",
+      "diziid": "bbp",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/12/babalar_ve_arkadaslar__yaz_ortasi_kabusu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Dawn Before Dusk, Part 1 / Dawn Before Dusk, Part 2",
+      "diziid": "bbp",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/13/safaktan_once_alacakaranlik"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Stratified / Maze Daze",
+      "diziid": "bbp",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/14/katmanlar__zorlu_labirent"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "All Jungled Up / Outer Demons",
+      "diziid": "bbp",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/15/buyuk_karmasa__harici_iblisler"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Matter of the Mind / Core Cell",
+      "diziid": "bbp",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/16/zihin_meselesi__cekirdek_hucre"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Subterranean Homesick Blues / Honey Struck",
+      "diziid": "bbp",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/17/yer_altinda_ev_ozlemi__tatli_carpmasi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Shun Shine / Ronin Son",
+      "diziid": "bbp",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/18/kin_isigi__kacak_evlat"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Framing Device / Bad Actors",
+      "diziid": "bbp",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/19/komplo_aygiti__kotu_aktorler"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Tripped Up / Power Tripp",
+      "diziid": "bbp",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/20/tripp_engeli__guclu_tripp"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "A Real Steal / Lightning Unleashed",
+      "diziid": "bbp",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/21/buyuk_hirsizlik__zincirleri_kiran_simsek"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "The Throw Down / Brawl for It All",
+      "diziid": "bbp",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/22/meydan_okuma__herkes_icin_savas"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Career Opportunities / Punch the Clock",
+      "diziid": "bbp",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/23/kariyer_firsatlari__zamani_tokatlamak"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "High Flying Hostiles / Backfire Brawl",
+      "diziid": "bbp",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/24/yuksekten_ucan_dusmanlar__geri_tepen_savas"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Hostile Take Over / The Big Bounce",
+      "diziid": "bbp",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/25/dusmana_teslim_olus__buyuk_kovulus"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Awesome vs. AAAnimus, Part 1 / Awesome vs. AAAnimus, Part 2",
+      "diziid": "bbp",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/26/muthis_cocuklar_aaanimusa_karsi"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "The Forbidden Isle / New World Orders",
+      "diziid": "bbp",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/27/yasakli_ada__yeni_dunya_duzenleri"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "In the Wild / Call Me Old Brakken",
+      "diziid": "bbp",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/28/dogada__bana_yasli_brakken_de"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Hide Matrix and Seek / Or Forever Hold Your Peace",
+      "diziid": "bbp",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/29/saklambac__ya_da_sonsuza_dek_tut"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Two Sides of the Coin / The Race for Gold",
+      "diziid": "bbp",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/30/paranin_iki_yuzu__altina_hucum"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Seek and Hide / Family First",
+      "diziid": "bbp",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/31/ara_ve_gizlen__once_aile"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "A Door Closes, A Door Opens / Kazami's Gambit",
+      "diziid": "bbp",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/32/bir_kapi_kapanir%2C_bir_kapi_acilir__kazaminin_hamlesi"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "A Devil on Your Shoulder / Vestral Visions",
+      "diziid": "bbp",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/33/omzundaki_iblis__vestral_gorusler"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Bakuzoned! / The Golden Secret",
+      "diziid": "bbp",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/34/bakubolgesi__altin_sir"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "The Bakugan Breakers / The Awful Ones",
+      "diziid": "bbp",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/35/bakugan_kiricilar__kotuler"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "The Mask of Pride / The Graveyard of Courage",
+      "diziid": "bbp",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/36/kibir_maskesi__cesaret_mezarligi"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Vestroia, Part 1 / Vestroia, Part 2",
+      "diziid": "bbp",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/37/vestroia"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Too Much / Who Are You?",
+      "diziid": "bbp",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/38/abarti__kimsin_sen"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Happy / One Way or Another",
+      "diziid": "bbp",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/39/mutluluk__su_ya_da_bu_sekilde"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Stormy Weather / Who Can It Be Now?",
+      "diziid": "bbp",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/40/firtinali_hava__kim_olabilir"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "In My Room / An Army of Their Own",
+      "diziid": "bbp",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/41/odamda__kendilerinden_bir_ordu"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Calling All Parents / Nowhere to Turn",
+      "diziid": "bbp",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/42/tum_ailelere_sesleniyorum__gidecek_yer_yok"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Girl Power / Return to the Fold",
+      "diziid": "bbp",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/43/kiz_gucu__suruye_donus"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Kazami Family Feud / Greatest of the Kazami",
+      "diziid": "bbp",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/44/kazami_ailesi_dusmanligi__kazamilerin_en_guclusu"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Our Ugly Selves / Trhyno Lives!",
+      "diziid": "bbp",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/45/kendi_cirkinliklerimiz__tryhno_yasiyor%21"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "The Healing Challenge / The Golden Drome",
+      "diziid": "bbp",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/46/iyilesme_mucadelesi__altin_drome"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "The Golden Forge / A Deep Hibernation",
+      "diziid": "bbp",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/47/altin_demir__derin_uyku"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "At the Beginning, an Ending / This Late Hour",
+      "diziid": "bbp",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/48/altin_demir___._bu_gec_saatte"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Bakuzon at the Gates, Part 1 / Bakuzon at the Gates, Part 2",
+      "diziid": "bbp",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/49/bakuzonlar_sinirda"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Planet-Ception / United We Stand",
+      "diziid": "bbp",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/bbp/bakugan%3A_battle_planet/50/gezegenlerin_kesismesi__birlikten_kuvvet_dogar"
+    }
+  ]
+}

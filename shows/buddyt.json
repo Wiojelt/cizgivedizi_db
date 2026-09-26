@@ -1,0 +1,109 @@
+{
+  "id": "buddyt",
+  "title": "buddy thunderstruck",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BUDDYPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Buddy Double/Beaver Dam Fast Pizza",
+      "diziid": "buddyt",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/buddyt/buddy_thunderstruck/1/cifte_buddy__kunduz_baraji_hizli_pizza"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "To Protect and Swerve/Robo-Truck of the Future",
+      "diziid": "buddyt",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/buddyt/buddy_thunderstruck/2/korumak_ve_hizmet_icin__gelecegin_robo-kamyoneti"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Get the Hock Out/Thunderstruck Rad Cab",
+      "diziid": "buddyt",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/buddyt/buddy_thunderstruck/3/hadi_oradan__thunderstruck_rad_taksi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Thunder Fu/Funny Money",
+      "diziid": "buddyt",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/buddyt/buddy_thunderstruck/4/thunder_fu__sahte_para"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Moneybags and His Monster/Sneezing Fits of Death",
+      "diziid": "buddyt",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/buddyt/buddy_thunderstruck/5/paratorbasi_ve_canavari__olumcul_hapsirik_nobetleri"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Truck Cab in the Woods/Truck Stop Clerks",
+      "diziid": "buddyt",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/buddyt/buddy_thunderstruck/6/ormandaki_kamyon__kamyon_duragi_tezgahtarlari"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Haters of the Lost Arcade/Stunt Fever",
+      "diziid": "buddyt",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/buddyt/buddy_thunderstruck/7/kayip_oyun_makinesi__dublorluk_heyecani"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Cannonballistic/Mayor or May Not",
+      "diziid": "buddyt",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/buddyt/buddy_thunderstruck/8/gulle_gibi__belediye_baskani"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Hit and Dumb/Babysitters Yo!",
+      "diziid": "buddyt",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/buddyt/buddy_thunderstruck/9/vurkac__dadilar_ya%21"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Buddy Shreds/Opposite of Awesome",
+      "diziid": "buddyt",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/buddyt/buddy_thunderstruck/10/buddy_parcaliyor__harikanin_zitti"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "A Bro for Weaselbrat/Health Nuts",
+      "diziid": "buddyt",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/buddyt/buddy_thunderstruck/11/weaselbratin_kankasi__saglik_icin"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Moneybags Changes Everything",
+      "diziid": "buddyt",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/buddyt/buddy_thunderstruck/12/para_torbasi_her_seyi_degistirir"
+    }
+  ]
+}

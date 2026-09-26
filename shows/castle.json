@@ -1,0 +1,271 @@
+{
+  "id": "castle",
+  "title": "castlevania",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/ESKÄ°/dizi/resim/poster/CASTLEPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Aksiyon",
+    "Korku",
+    "Fantastik",
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Witchbottle",
+      "diziid": "castle",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/1/cadi_sisesi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Necropolis",
+      "diziid": "castle",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/2/nekropolis"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Labyrinth",
+      "diziid": "castle",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/3/labirent"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Monument",
+      "diziid": "castle",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/4/anit"
+    },
+    {
+      "season": 1,
+      "episode": 5,
+      "title": "War Council",
+      "diziid": "castle",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/5/savas_konseyi"
+    },
+    {
+      "season": 2,
+      "episode": 6,
+      "title": "Old Homes",
+      "diziid": "castle",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/6/eski_evler"
+    },
+    {
+      "season": 3,
+      "episode": 7,
+      "title": "Shadow Battles",
+      "diziid": "castle",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/7/golgelerdeki_savaslar"
+    },
+    {
+      "season": 4,
+      "episode": 8,
+      "title": "Broken Mast",
+      "diziid": "castle",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/8/kirik_direk"
+    },
+    {
+      "season": 5,
+      "episode": 9,
+      "title": "Last Spell",
+      "diziid": "castle",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/9/son_buyu"
+    },
+    {
+      "season": 6,
+      "episode": 10,
+      "title": "The River",
+      "diziid": "castle",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/10/nehir"
+    },
+    {
+      "season": 7,
+      "episode": 11,
+      "title": "For Love",
+      "diziid": "castle",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/11/ask_ugruna"
+    },
+    {
+      "season": 8,
+      "episode": 12,
+      "title": "End Times",
+      "diziid": "castle",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/12/zamanin_sonu"
+    },
+    {
+      "season": 1,
+      "episode": 13,
+      "title": "Bless Your Dead Little Hearts",
+      "diziid": "castle",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/13/kucuk_olu_kalplerinize_sukurler_olsun"
+    },
+    {
+      "season": 2,
+      "episode": 14,
+      "title": "The Reparation of My Heart",
+      "diziid": "castle",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/14/kalbimin_tamiri"
+    },
+    {
+      "season": 3,
+      "episode": 15,
+      "title": "Investigators",
+      "diziid": "castle",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/15/arastirmacilar"
+    },
+    {
+      "season": 4,
+      "episode": 16,
+      "title": "I Have a Scheme",
+      "diziid": "castle",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/16/bir_planim_var"
+    },
+    {
+      "season": 5,
+      "episode": 17,
+      "title": "A Seat of Civilisation and Refinement",
+      "diziid": "castle",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/17/medeniyet_ve_zarafetin_merkezi"
+    },
+    {
+      "season": 6,
+      "episode": 18,
+      "title": "The Good Dream",
+      "diziid": "castle",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/18/guzel_bir_ruya"
+    },
+    {
+      "season": 7,
+      "episode": 19,
+      "title": "Worse Things Than Betrayal",
+      "diziid": "castle",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/19/ihanetten_daha_kotu_seyler"
+    },
+    {
+      "season": 8,
+      "episode": 20,
+      "title": "What the Night Brings",
+      "diziid": "castle",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/20/gecenin_getirdikleri"
+    },
+    {
+      "season": 9,
+      "episode": 21,
+      "title": "The Harvest",
+      "diziid": "castle",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/21/hasat"
+    },
+    {
+      "season": 10,
+      "episode": 22,
+      "title": "Abandon All Hope",
+      "diziid": "castle",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/22/umut_yok"
+    },
+    {
+      "season": 1,
+      "episode": 23,
+      "title": "Murder Wakes It Up",
+      "diziid": "castle",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/23/cinayetle_etkinlesiyor"
+    },
+    {
+      "season": 2,
+      "episode": 24,
+      "title": "Having the World",
+      "diziid": "castle",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/24/dunyaya_sahip_olmak"
+    },
+    {
+      "season": 3,
+      "episode": 25,
+      "title": "Walk Away",
+      "diziid": "castle",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/25/yurumeye_devam_et"
+    },
+    {
+      "season": 4,
+      "episode": 26,
+      "title": "You Must Sacrifice",
+      "diziid": "castle",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/26/fedakarlik_yapmalisin"
+    },
+    {
+      "season": 5,
+      "episode": 27,
+      "title": "Back in the World",
+      "diziid": "castle",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/27/dunyaya_geri_donus"
+    },
+    {
+      "season": 6,
+      "episode": 28,
+      "title": "You Don't Deserve My Blood",
+      "diziid": "castle",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/28/benim_kanimi_hak_etmiyorsunuz"
+    },
+    {
+      "season": 7,
+      "episode": 29,
+      "title": "The Great Work",
+      "diziid": "castle",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/29/buyuk_gorev"
+    },
+    {
+      "season": 8,
+      "episode": 30,
+      "title": "Death Magic",
+      "diziid": "castle",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/30/olum_buyusu"
+    },
+    {
+      "season": 9,
+      "episode": 31,
+      "title": "The Endings",
+      "diziid": "castle",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/31/sonlar"
+    },
+    {
+      "season": 10,
+      "episode": 32,
+      "title": "It's Been a Strange Ride",
+      "diziid": "castle",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/castle/castlevania/32/garip_bir_yolculuktu"
+    }
+  ]
+}

@@ -1,0 +1,2205 @@
+{
+  "id": "at",
+  "title": "adventure time",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ATPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Slumber Party Panic",
+      "diziid": "at",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/1/pijama_partisi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Trouble in Lumpy Space",
+      "diziid": "at",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/2/yumrulu_bolgede_tehlike"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Prisoners of Love",
+      "diziid": "at",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/3/ask_mahkumlari"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Tree Trunks",
+      "diziid": "at",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/4/tombis_fil"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Enchiridion!",
+      "diziid": "at",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/5/el_yazmasi%21"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Jiggler",
+      "diziid": "at",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/6/oyuncu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Ricardio the Heart Guy",
+      "diziid": "at",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/7/yurek_ricardio"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Business Time",
+      "diziid": "at",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/8/is_zamani"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "My Two Favorite People",
+      "diziid": "at",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/9/en_sevdigim_iki_kisi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Memories of Boom Boom Mountain",
+      "diziid": "at",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/10/boom_boom_dagindaki_anilar"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Wizard",
+      "diziid": "at",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/11/buyucu"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Evicted!",
+      "diziid": "at",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/12/tahliye%21"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "City of Thieves",
+      "diziid": "at",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/13/hirsizlar_sehri"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Witch's Garden",
+      "diziid": "at",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/14/buyucunun_bahcesi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "What Is Life?",
+      "diziid": "at",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/15/yasam_nedir"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Ocean of Fear",
+      "diziid": "at",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/16/okyanus_korkusu"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "When Wedding Bells Thaw",
+      "diziid": "at",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/17/dugun_canlari_caliyor"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Dungeon",
+      "diziid": "at",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/18/zindan"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Duke",
+      "diziid": "at",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/19/duk"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Freak City",
+      "diziid": "at",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/20/acayip_sehir"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Donny",
+      "diziid": "at",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/21/donny"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Henchman",
+      "diziid": "at",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/22/dalkavuk"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Rainy Day Daydream",
+      "diziid": "at",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/23/yagmurlu_gun_hayali"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "What Have You Done?",
+      "diziid": "at",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/24/naptiniz_siz"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "His Hero",
+      "diziid": "at",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/25/onun_kahramani"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Gut Grinder",
+      "diziid": "at",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/26/ogutucu"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "It Came from the Nightosphere",
+      "diziid": "at",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/27/geceosphereden_gelen"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "The Eyes",
+      "diziid": "at",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/28/gozler"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Loyalty to the King",
+      "diziid": "at",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/29/krala_baglilik"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Blood Under the Skin",
+      "diziid": "at",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/30/damardaki_kan"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Storytelling",
+      "diziid": "at",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/31/hikayeci"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Slow Love",
+      "diziid": "at",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/32/agir_ask"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Power Animal",
+      "diziid": "at",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/33/guclu_hayvan"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Crystals Have Power",
+      "diziid": "at",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/34/kristaller_gucludur"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "The Other Tarts",
+      "diziid": "at",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/35/farkli_turtalar"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "To Cut a Woman's Hair",
+      "diziid": "at",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/36/bir_kadinin_sacini_kesmek"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "The Chamber of Frozen Blades",
+      "diziid": "at",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/37/donmus_bicak_odasi"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Her Parents",
+      "diziid": "at",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/38/ebeveynler"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "The Pods",
+      "diziid": "at",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/39/kabuklar"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "The Silent King",
+      "diziid": "at",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/40/sessiz_kral"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "The Real You",
+      "diziid": "at",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/41/gercek_sen"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Guardians of Sunshine",
+      "diziid": "at",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/42/gunesin_nobetcileri"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Death in Bloom",
+      "diziid": "at",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/43/cicegin_olumu"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "Susan Strong",
+      "diziid": "at",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/44/guclu_susan"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "Mystery Train",
+      "diziid": "at",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/45/gizemli_tren"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "Go with Me",
+      "diziid": "at",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/46/benimle_gel"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "Belly of the Beast",
+      "diziid": "at",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/47/yaratigin_karni"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "The Limit",
+      "diziid": "at",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/48/sinir"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "Video Makers",
+      "diziid": "at",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/49/video_yapimcilari"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "Mortal Folly",
+      "diziid": "at",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/50/olumlu_delirir"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "Mortal Recoil",
+      "diziid": "at",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/51/olumlu_geri_gelir"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "Heat Signature",
+      "diziid": "at",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/52/isi_imzasi"
+    },
+    {
+      "season": 1,
+      "episode": 53,
+      "title": "Conquest of Cuteness",
+      "diziid": "at",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/53/sirinligin_fethi"
+    },
+    {
+      "season": 2,
+      "episode": 54,
+      "title": "Morituri Te Salutamus",
+      "diziid": "at",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/54/olume_selam_duranlar"
+    },
+    {
+      "season": 3,
+      "episode": 55,
+      "title": "Memory of a Memory",
+      "diziid": "at",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/55/bir_hatiranin_hatirasi"
+    },
+    {
+      "season": 4,
+      "episode": 56,
+      "title": "Hitman",
+      "diziid": "at",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/56/tetikci"
+    },
+    {
+      "season": 5,
+      "episode": 57,
+      "title": "Too Young",
+      "diziid": "at",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/57/cok_genc"
+    },
+    {
+      "season": 6,
+      "episode": 58,
+      "title": "The Monster",
+      "diziid": "at",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/58/canavar"
+    },
+    {
+      "season": 7,
+      "episode": 59,
+      "title": "Still",
+      "diziid": "at",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/59/yine_de"
+    },
+    {
+      "season": 8,
+      "episode": 60,
+      "title": "Wizard Battle",
+      "diziid": "at",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/60/buyucu_savasi"
+    },
+    {
+      "season": 9,
+      "episode": 61,
+      "title": "Fionna and Cake",
+      "diziid": "at",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/61/fionna_ve_cake_ile_macera_zamani"
+    },
+    {
+      "season": 10,
+      "episode": 62,
+      "title": "What Was Missing",
+      "diziid": "at",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/62/eksik_olan_neydi"
+    },
+    {
+      "season": 11,
+      "episode": 63,
+      "title": "Apple Thief",
+      "diziid": "at",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/63/elma_hirsizi"
+    },
+    {
+      "season": 12,
+      "episode": 64,
+      "title": "The Creeps",
+      "diziid": "at",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/64/ucubeler"
+    },
+    {
+      "season": 13,
+      "episode": 65,
+      "title": "From Bad to Worse",
+      "diziid": "at",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/65/kotuden_daha_betere"
+    },
+    {
+      "season": 14,
+      "episode": 66,
+      "title": "Beautopia",
+      "diziid": "at",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/66/guzelopia"
+    },
+    {
+      "season": 15,
+      "episode": 67,
+      "title": "No One Can Hear You",
+      "diziid": "at",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/67/kimse_seni_duyamaz"
+    },
+    {
+      "season": 16,
+      "episode": 68,
+      "title": "Jake vs. Me-Mow",
+      "diziid": "at",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/68/jake_mi-yava_karsi"
+    },
+    {
+      "season": 17,
+      "episode": 69,
+      "title": "Thank You",
+      "diziid": "at",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/69/tesekkur_ederim"
+    },
+    {
+      "season": 18,
+      "episode": 70,
+      "title": "The New Frontier",
+      "diziid": "at",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/70/yeni_sinir"
+    },
+    {
+      "season": 19,
+      "episode": 71,
+      "title": "Holly Jolly Secrets Part I",
+      "diziid": "at",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/71/kutsal_mutsal_sirlar_1.bolum"
+    },
+    {
+      "season": 20,
+      "episode": 72,
+      "title": "Holly Jolly Secrets Part II",
+      "diziid": "at",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/72/kutsal_mutsal_sirlar_2.bolum"
+    },
+    {
+      "season": 21,
+      "episode": 73,
+      "title": "Marceline's Closet",
+      "diziid": "at",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/73/marcelinein_dolabi"
+    },
+    {
+      "season": 22,
+      "episode": 74,
+      "title": "Paper Pete",
+      "diziid": "at",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/74/kagit_pete"
+    },
+    {
+      "season": 23,
+      "episode": 75,
+      "title": "Another Way",
+      "diziid": "at",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/75/baska_bir_yol"
+    },
+    {
+      "season": 24,
+      "episode": 76,
+      "title": "Ghost Princess",
+      "diziid": "at",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/76/hayalet_prenses"
+    },
+    {
+      "season": 25,
+      "episode": 77,
+      "title": "Dad's Dungeon",
+      "diziid": "at",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/77/babanin_zindani"
+    },
+    {
+      "season": 26,
+      "episode": 78,
+      "title": "Incendium",
+      "diziid": "at",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/78/yangin"
+    },
+    {
+      "season": 1,
+      "episode": 79,
+      "title": "Hot to the Touch",
+      "diziid": "at",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/79/dokunma_yanarsin"
+    },
+    {
+      "season": 2,
+      "episode": 80,
+      "title": "Five Short Graybles",
+      "diziid": "at",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/80/bes_kisa_hikaye"
+    },
+    {
+      "season": 3,
+      "episode": 81,
+      "title": "Web Weirdos",
+      "diziid": "at",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/81/ag_garipligi"
+    },
+    {
+      "season": 4,
+      "episode": 82,
+      "title": "Dream of Love",
+      "diziid": "at",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/82/ask_hayali"
+    },
+    {
+      "season": 5,
+      "episode": 83,
+      "title": "Return to the Nightosphere",
+      "diziid": "at",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/83/geceospheree_donus"
+    },
+    {
+      "season": 6,
+      "episode": 84,
+      "title": "Daddy's Little Monster",
+      "diziid": "at",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/84/babasinin_kucuk_canavari"
+    },
+    {
+      "season": 7,
+      "episode": 85,
+      "title": "In Your Footsteps",
+      "diziid": "at",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/85/izinden_gitmek"
+    },
+    {
+      "season": 8,
+      "episode": 86,
+      "title": "Hug Wolf",
+      "diziid": "at",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/86/sarilgan_kurt"
+    },
+    {
+      "season": 9,
+      "episode": 87,
+      "title": "Princess Monster Wife",
+      "diziid": "at",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/87/yamali_prensesin_evliligi"
+    },
+    {
+      "season": 10,
+      "episode": 88,
+      "title": "Goliad",
+      "diziid": "at",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/88/goliad"
+    },
+    {
+      "season": 11,
+      "episode": 89,
+      "title": "Beyond This Earthly Realm",
+      "diziid": "at",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/89/bu_dunyanin_otesi"
+    },
+    {
+      "season": 12,
+      "episode": 90,
+      "title": "Gotcha!",
+      "diziid": "at",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/90/yakaladim_seni%21"
+    },
+    {
+      "season": 13,
+      "episode": 91,
+      "title": "Princess Cookie",
+      "diziid": "at",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/91/kurabiye_prenses"
+    },
+    {
+      "season": 14,
+      "episode": 92,
+      "title": "Card Wars",
+      "diziid": "at",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/92/kart_savaslari"
+    },
+    {
+      "season": 15,
+      "episode": 93,
+      "title": "Sons of Mars",
+      "diziid": "at",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/93/marsin_ogullari"
+    },
+    {
+      "season": 16,
+      "episode": 94,
+      "title": "Burning Low",
+      "diziid": "at",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/94/kisik_ates"
+    },
+    {
+      "season": 17,
+      "episode": 95,
+      "title": "BMO Noire",
+      "diziid": "at",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/95/bmo_noire"
+    },
+    {
+      "season": 18,
+      "episode": 96,
+      "title": "King Worm",
+      "diziid": "at",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/96/kral_solucan"
+    },
+    {
+      "season": 19,
+      "episode": 97,
+      "title": "Lady & Peebles",
+      "diziid": "at",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/97/gokkusagi_ati_ve_peebles"
+    },
+    {
+      "season": 20,
+      "episode": 98,
+      "title": "You Made Me",
+      "diziid": "at",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/98/beni_sen_yarattin"
+    },
+    {
+      "season": 21,
+      "episode": 99,
+      "title": "Who Would Win",
+      "diziid": "at",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/99/kim_kazanirdi"
+    },
+    {
+      "season": 22,
+      "episode": 100,
+      "title": "Ignition Point",
+      "diziid": "at",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/100/patlama_noktasi"
+    },
+    {
+      "season": 23,
+      "episode": 101,
+      "title": "The Hard Easy",
+      "diziid": "at",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/101/zor_kolay"
+    },
+    {
+      "season": 24,
+      "episode": 102,
+      "title": "Reign of Gunters",
+      "diziid": "at",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/102/gunterlarin_saltanati"
+    },
+    {
+      "season": 25,
+      "episode": 103,
+      "title": "I Remember You",
+      "diziid": "at",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/103/seni_hatirliyorum"
+    },
+    {
+      "season": 26,
+      "episode": 104,
+      "title": "The Lich",
+      "diziid": "at",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/104/lich"
+    },
+    {
+      "season": 1,
+      "episode": 105,
+      "title": "Finn the Human",
+      "diziid": "at",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/105/insan_finn"
+    },
+    {
+      "season": 2,
+      "episode": 106,
+      "title": "Jake the Dog",
+      "diziid": "at",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/106/kopek_jake"
+    },
+    {
+      "season": 3,
+      "episode": 107,
+      "title": "Five More Short Graybles",
+      "diziid": "at",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/107/bes_kisa_hikaye"
+    },
+    {
+      "season": 4,
+      "episode": 108,
+      "title": "Up a Tree",
+      "diziid": "at",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/108/agacta"
+    },
+    {
+      "season": 5,
+      "episode": 109,
+      "title": "All the Little People",
+      "diziid": "at",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/109/kucuk_insanlar"
+    },
+    {
+      "season": 6,
+      "episode": 110,
+      "title": "Jake the Dad",
+      "diziid": "at",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/110/baba_jake"
+    },
+    {
+      "season": 7,
+      "episode": 111,
+      "title": "Davey",
+      "diziid": "at",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/111/davey"
+    },
+    {
+      "season": 8,
+      "episode": 112,
+      "title": "Mystery Dungeon",
+      "diziid": "at",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/112/gizemli_zindan"
+    },
+    {
+      "season": 9,
+      "episode": 113,
+      "title": "All Your Fault",
+      "diziid": "at",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/113/senin_yuzunden"
+    },
+    {
+      "season": 10,
+      "episode": 114,
+      "title": "Little Dude",
+      "diziid": "at",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/114/ufaklik"
+    },
+    {
+      "season": 11,
+      "episode": 115,
+      "title": "Bad Little Boy",
+      "diziid": "at",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/115/kucuk_kotu_cocuk"
+    },
+    {
+      "season": 12,
+      "episode": 116,
+      "title": "Vault of Bones",
+      "diziid": "at",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/116/kemik_zindani"
+    },
+    {
+      "season": 13,
+      "episode": 117,
+      "title": "The Great Bird Man",
+      "diziid": "at",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/117/buyuk_kus_adam"
+    },
+    {
+      "season": 14,
+      "episode": 118,
+      "title": "Simon & Marcy",
+      "diziid": "at",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/118/simon_ve_marcy"
+    },
+    {
+      "season": 15,
+      "episode": 119,
+      "title": "A Glitch Is a Glitch",
+      "diziid": "at",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/119/bilgisayar_virusu"
+    },
+    {
+      "season": 16,
+      "episode": 120,
+      "title": "Puhoy",
+      "diziid": "at",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/120/yastik_kalesi"
+    },
+    {
+      "season": 17,
+      "episode": 121,
+      "title": "BMO Lost",
+      "diziid": "at",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/121/kayip_bmo"
+    },
+    {
+      "season": 18,
+      "episode": 122,
+      "title": "Princess Potluck",
+      "diziid": "at",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/122/prensesin_partisi"
+    },
+    {
+      "season": 20,
+      "episode": 123,
+      "title": "Shh!",
+      "diziid": "at",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/124/shh%21"
+    },
+    {
+      "season": 21,
+      "episode": 124,
+      "title": "The Suitor",
+      "diziid": "at",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/125/talip"
+    },
+    {
+      "season": 22,
+      "episode": 125,
+      "title": "The Party's Over, Isla de SeÃ±orita",
+      "diziid": "at",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/126/parti_sona_erdi"
+    },
+    {
+      "season": 23,
+      "episode": 126,
+      "title": "One Last Job",
+      "diziid": "at",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/127/son_gorev"
+    },
+    {
+      "season": 24,
+      "episode": 127,
+      "title": "Another Five More Short Graybles",
+      "diziid": "at",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/128/bes_kisa_hikaye_daha"
+    },
+    {
+      "season": 25,
+      "episode": 128,
+      "title": "Candy Streets",
+      "diziid": "at",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/129/seker_sokaklari"
+    },
+    {
+      "season": 26,
+      "episode": 129,
+      "title": "Wizards Only, Fools",
+      "diziid": "at",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/130/sadece_buyuculer%2C_sersemler"
+    },
+    {
+      "season": 27,
+      "episode": 130,
+      "title": "Jake Suit",
+      "diziid": "at",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/131/jake_kostumu"
+    },
+    {
+      "season": 28,
+      "episode": 131,
+      "title": "Be More",
+      "diziid": "at",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/132/daha_fazlasi"
+    },
+    {
+      "season": 29,
+      "episode": 132,
+      "title": "Sky Witch",
+      "diziid": "at",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/133/gokyuzu_cadisi"
+    },
+    {
+      "season": 30,
+      "episode": 133,
+      "title": "Frost & Fire",
+      "diziid": "at",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/134/buz_ve_ates"
+    },
+    {
+      "season": 31,
+      "episode": 134,
+      "title": "Too Old",
+      "diziid": "at",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/135/cok_yaslisin"
+    },
+    {
+      "season": 32,
+      "episode": 135,
+      "title": "Earth & Water",
+      "diziid": "at",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/136/dunya_ve_su"
+    },
+    {
+      "season": 33,
+      "episode": 136,
+      "title": "Time Sandwich",
+      "diziid": "at",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/137/sandvic_zamani"
+    },
+    {
+      "season": 34,
+      "episode": 137,
+      "title": "The Vault",
+      "diziid": "at",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/138/gecit"
+    },
+    {
+      "season": 35,
+      "episode": 138,
+      "title": "Love Games",
+      "diziid": "at",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/139/ask_oyunlari"
+    },
+    {
+      "season": 36,
+      "episode": 139,
+      "title": "Dungeon Train",
+      "diziid": "at",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/140/mahsen_treni"
+    },
+    {
+      "season": 37,
+      "episode": 140,
+      "title": "The Box Prince",
+      "diziid": "at",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/141/kutu_prens"
+    },
+    {
+      "season": 38,
+      "episode": 141,
+      "title": "Red Starved",
+      "diziid": "at",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/142/kirmizi_silgi"
+    },
+    {
+      "season": 39,
+      "episode": 142,
+      "title": "We Fixed a Truck",
+      "diziid": "at",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/143/kamyonet_tamir_ettik"
+    },
+    {
+      "season": 40,
+      "episode": 143,
+      "title": "Play Date",
+      "diziid": "at",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/144/oyun_randevusu"
+    },
+    {
+      "season": 41,
+      "episode": 144,
+      "title": "The Pit",
+      "diziid": "at",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/145/cukur"
+    },
+    {
+      "season": 42,
+      "episode": 145,
+      "title": "James",
+      "diziid": "at",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/146/james"
+    },
+    {
+      "season": 43,
+      "episode": 146,
+      "title": "Root Beer Guy",
+      "diziid": "at",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/147/kopuklu_soda_adam"
+    },
+    {
+      "season": 44,
+      "episode": 147,
+      "title": "Apple Wedding",
+      "diziid": "at",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/148/elma_dugun"
+    },
+    {
+      "season": 45,
+      "episode": 148,
+      "title": "Blade of Grass",
+      "diziid": "at",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/149/cimen_kilic"
+    },
+    {
+      "season": 46,
+      "episode": 149,
+      "title": "Rattleballs",
+      "diziid": "at",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/150/sakiz_adam"
+    },
+    {
+      "season": 47,
+      "episode": 150,
+      "title": "The Red Throne",
+      "diziid": "at",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/151/ates_tahti"
+    },
+    {
+      "season": 48,
+      "episode": 151,
+      "title": "Betty",
+      "diziid": "at",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/152/betty"
+    },
+    {
+      "season": 49,
+      "episode": 152,
+      "title": "Bad Timing",
+      "diziid": "at",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/153/kotu_zamanlama"
+    },
+    {
+      "season": 50,
+      "episode": 153,
+      "title": "Lemonhope Part One",
+      "diziid": "at",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/154/umutlu_limon_1.bolum"
+    },
+    {
+      "season": 51,
+      "episode": 154,
+      "title": "Lemonhope Part Two",
+      "diziid": "at",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/155/umutlu_limon_2.bolum"
+    },
+    {
+      "season": 52,
+      "episode": 155,
+      "title": "Billy's Bucket List",
+      "diziid": "at",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/156/billynin_yapilacaklar_listesi"
+    },
+    {
+      "season": 3,
+      "episode": 156,
+      "title": "James II",
+      "diziid": "at",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/159/james_2"
+    },
+    {
+      "season": 5,
+      "episode": 157,
+      "title": "Sad Face",
+      "diziid": "at",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/161/uzgun_yuz"
+    },
+    {
+      "season": 7,
+      "episode": 158,
+      "title": "Food Chain",
+      "diziid": "at",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/163/besin_zinciri"
+    },
+    {
+      "season": 8,
+      "episode": 159,
+      "title": "Furniture & Meat",
+      "diziid": "at",
+      "bolum": "164",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/164/mobilya_ve_et"
+    },
+    {
+      "season": 9,
+      "episode": 160,
+      "title": "The Prince Who Wanted Everything",
+      "diziid": "at",
+      "bolum": "165",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/165/her_seyi_isteyen_prens"
+    },
+    {
+      "season": 10,
+      "episode": 161,
+      "title": "Something Big",
+      "diziid": "at",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/166/buyuk_bir_sey"
+    },
+    {
+      "season": 11,
+      "episode": 162,
+      "title": "Little Brother",
+      "diziid": "at",
+      "bolum": "167",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/167/kucuk_kardes"
+    },
+    {
+      "season": 12,
+      "episode": 163,
+      "title": "Ocarina",
+      "diziid": "at",
+      "bolum": "168",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/168/flut"
+    },
+    {
+      "season": 13,
+      "episode": 164,
+      "title": "Thanks for the Crabapples, Giuseppe",
+      "diziid": "at",
+      "bolum": "169",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/169/eksi_elmalar_icin_sag_ol_giuseppe%21"
+    },
+    {
+      "season": 14,
+      "episode": 165,
+      "title": "Princess Day",
+      "diziid": "at",
+      "bolum": "170",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/170/prenses_gunu"
+    },
+    {
+      "season": 15,
+      "episode": 166,
+      "title": "Nemesis",
+      "diziid": "at",
+      "bolum": "171",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/171/intikam_tanricasi"
+    },
+    {
+      "season": 16,
+      "episode": 167,
+      "title": "Joshua & Margaret Investigations",
+      "diziid": "at",
+      "bolum": "172",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/172/joshua_ve_margaret"
+    },
+    {
+      "season": 17,
+      "episode": 168,
+      "title": "Ghost Fly",
+      "diziid": "at",
+      "bolum": "173",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/173/hayalet_sinek"
+    },
+    {
+      "season": 18,
+      "episode": 169,
+      "title": "Everything's Jake",
+      "diziid": "at",
+      "bolum": "174",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/174/her_sey_jake"
+    },
+    {
+      "season": 19,
+      "episode": 170,
+      "title": "Is That You?",
+      "diziid": "at",
+      "bolum": "175",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/175/bu_sen_misin"
+    },
+    {
+      "season": 20,
+      "episode": 171,
+      "title": "Jake the Brick",
+      "diziid": "at",
+      "bolum": "176",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/176/tugla_jake"
+    },
+    {
+      "season": 21,
+      "episode": 172,
+      "title": "Dentist",
+      "diziid": "at",
+      "bolum": "177",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/177/disci"
+    },
+    {
+      "season": 22,
+      "episode": 173,
+      "title": "The Cooler",
+      "diziid": "at",
+      "bolum": "178",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/178/sogutucu"
+    },
+    {
+      "season": 23,
+      "episode": 174,
+      "title": "The Pajama War",
+      "diziid": "at",
+      "bolum": "179",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/179/pijama_savasi"
+    },
+    {
+      "season": 24,
+      "episode": 175,
+      "title": "Evergreen",
+      "diziid": "at",
+      "bolum": "180",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/180/evergreen"
+    },
+    {
+      "season": 25,
+      "episode": 176,
+      "title": "Astral Plane",
+      "diziid": "at",
+      "bolum": "181",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/181/astral_ucak"
+    },
+    {
+      "season": 26,
+      "episode": 177,
+      "title": "Gold Stars",
+      "diziid": "at",
+      "bolum": "182",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/182/altin_yildizlar"
+    },
+    {
+      "season": 27,
+      "episode": 178,
+      "title": "The Visitor",
+      "diziid": "at",
+      "bolum": "183",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/183/ziyaretci"
+    },
+    {
+      "season": 28,
+      "episode": 179,
+      "title": "The Mountain",
+      "diziid": "at",
+      "bolum": "184",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/184/dag"
+    },
+    {
+      "season": 29,
+      "episode": 180,
+      "title": "Dark Purple",
+      "diziid": "at",
+      "bolum": "185",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/185/koyu_mor"
+    },
+    {
+      "season": 30,
+      "episode": 181,
+      "title": "The Diary",
+      "diziid": "at",
+      "bolum": "186",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/186/gunluk"
+    },
+    {
+      "season": 31,
+      "episode": 182,
+      "title": "Walnuts & Rain",
+      "diziid": "at",
+      "bolum": "187",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/187/ceviz_ve_yagmur"
+    },
+    {
+      "season": 32,
+      "episode": 183,
+      "title": "Friends Forever",
+      "diziid": "at",
+      "bolum": "188",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/188/sonsuza_dek_arkadas"
+    },
+    {
+      "season": 33,
+      "episode": 184,
+      "title": "Jermaine",
+      "diziid": "at",
+      "bolum": "189",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/189/jermaine"
+    },
+    {
+      "season": 34,
+      "episode": 185,
+      "title": "Chips & Ice Cream",
+      "diziid": "at",
+      "bolum": "190",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/190/cips_ve_dondurma"
+    },
+    {
+      "season": 35,
+      "episode": 186,
+      "title": "Graybles 1000+",
+      "diziid": "at",
+      "bolum": "191",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/191/grayblelar_%2B1000"
+    },
+    {
+      "season": 36,
+      "episode": 187,
+      "title": "Hoots",
+      "diziid": "at",
+      "bolum": "192",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/192/baykuslar"
+    },
+    {
+      "season": 37,
+      "episode": 188,
+      "title": "Water Park Prank",
+      "diziid": "at",
+      "bolum": "193",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/193/su_parkinda_saka"
+    },
+    {
+      "season": 38,
+      "episode": 189,
+      "title": "You Forgot Your Floaties",
+      "diziid": "at",
+      "bolum": "194",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/194/kolluklarini_unuttun"
+    },
+    {
+      "season": 39,
+      "episode": 190,
+      "title": "Be Sweet",
+      "diziid": "at",
+      "bolum": "195",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/195/nazik_ol"
+    },
+    {
+      "season": 40,
+      "episode": 191,
+      "title": "Orgalorg",
+      "diziid": "at",
+      "bolum": "196",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/196/orgalorg"
+    },
+    {
+      "season": 41,
+      "episode": 192,
+      "title": "On the Lam",
+      "diziid": "at",
+      "bolum": "197",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/197/kacis"
+    },
+    {
+      "season": 42,
+      "episode": 193,
+      "title": "Hot Diggity Doom",
+      "diziid": "at",
+      "bolum": "198",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/198/vay_canina"
+    },
+    {
+      "season": 43,
+      "episode": 194,
+      "title": "The Comet",
+      "diziid": "at",
+      "bolum": "199",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/199/kuyruklu_yildiz"
+    },
+    {
+      "season": 1,
+      "episode": 195,
+      "title": "Bonnie & Neddy",
+      "diziid": "at",
+      "bolum": "200",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/200/bonnie_ve_neddy"
+    },
+    {
+      "season": 2,
+      "episode": 196,
+      "title": "Varmints",
+      "diziid": "at",
+      "bolum": "201",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/201/hasereler"
+    },
+    {
+      "season": 3,
+      "episode": 197,
+      "title": "Cherry Cream Soda",
+      "diziid": "at",
+      "bolum": "202",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/202/visneli_soda"
+    },
+    {
+      "season": 4,
+      "episode": 198,
+      "title": "Mama Said",
+      "diziid": "at",
+      "bolum": "203",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/203/annem_demisti"
+    },
+    {
+      "season": 5,
+      "episode": 199,
+      "title": "Football",
+      "diziid": "at",
+      "bolum": "204",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/204/futbol"
+    },
+    {
+      "season": 6,
+      "episode": 200,
+      "title": "Marceline the Vampire Queen",
+      "diziid": "at",
+      "bolum": "205",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/205/vampir_kralice_marceline"
+    },
+    {
+      "season": 7,
+      "episode": 201,
+      "title": "Everything Stays",
+      "diziid": "at",
+      "bolum": "206",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/206/her_sey_kalir"
+    },
+    {
+      "season": 8,
+      "episode": 202,
+      "title": "Vamps About",
+      "diziid": "at",
+      "bolum": "207",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/207/vampirler_hakkinda"
+    },
+    {
+      "season": 9,
+      "episode": 203,
+      "title": "The Empress Eyes",
+      "diziid": "at",
+      "bolum": "208",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/208/imparatoricenin_gozleri"
+    },
+    {
+      "season": 10,
+      "episode": 204,
+      "title": "May I Come In?",
+      "diziid": "at",
+      "bolum": "209",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/209/girebilir_miyim"
+    },
+    {
+      "season": 11,
+      "episode": 205,
+      "title": "Take Her Back",
+      "diziid": "at",
+      "bolum": "210",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/210/onu_geri_al"
+    },
+    {
+      "season": 12,
+      "episode": 206,
+      "title": "Checkmate",
+      "diziid": "at",
+      "bolum": "211",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/211/sah_mat"
+    },
+    {
+      "season": 13,
+      "episode": 207,
+      "title": "The Dark Cloud",
+      "diziid": "at",
+      "bolum": "212",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/212/karanlik_bulut"
+    },
+    {
+      "season": 1,
+      "episode": 208,
+      "title": "The More You Moe, the Moe You Know",
+      "diziid": "at",
+      "bolum": "213",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/213/ne_kadar_moe%2C_o_kadar_bilgi"
+    },
+    {
+      "season": 16,
+      "episode": 209,
+      "title": "Summer Showers",
+      "diziid": "at",
+      "bolum": "215",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/215/yaz_yagmurlari"
+    },
+    {
+      "season": 17,
+      "episode": 210,
+      "title": "Angel Face",
+      "diziid": "at",
+      "bolum": "216",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/216/melek_surat"
+    },
+    {
+      "season": 18,
+      "episode": 211,
+      "title": "President Porpoise Is Missing!",
+      "diziid": "at",
+      "bolum": "217",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/217/baskan_porpoise_kayip%21"
+    },
+    {
+      "season": 19,
+      "episode": 212,
+      "title": "Blank-Eyed Girl",
+      "diziid": "at",
+      "bolum": "218",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/218/gozu_olmayan_kiz"
+    },
+    {
+      "season": 20,
+      "episode": 213,
+      "title": "Bad Jubies",
+      "diziid": "at",
+      "bolum": "219",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/219/moral_bozucular"
+    },
+    {
+      "season": 21,
+      "episode": 214,
+      "title": "A King's Ransom",
+      "diziid": "at",
+      "bolum": "220",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/220/kralin_fidyesi"
+    },
+    {
+      "season": 22,
+      "episode": 215,
+      "title": "Scamps",
+      "diziid": "at",
+      "bolum": "221",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/221/yaramazlar"
+    },
+    {
+      "season": 23,
+      "episode": 216,
+      "title": "Crossover",
+      "diziid": "at",
+      "bolum": "222",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/222/gecit"
+    },
+    {
+      "season": 24,
+      "episode": 217,
+      "title": "The Hall of Egress",
+      "diziid": "at",
+      "bolum": "223",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/223/cikis_salonu"
+    },
+    {
+      "season": 25,
+      "episode": 218,
+      "title": "Flute Spell",
+      "diziid": "at",
+      "bolum": "224",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/224/gizemli_flut"
+    },
+    {
+      "season": 26,
+      "episode": 219,
+      "title": "The Thin Yellow Line",
+      "diziid": "at",
+      "bolum": "225",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/225/ince_sari_cizgi"
+    },
+    {
+      "season": 1,
+      "episode": 220,
+      "title": "Broke His Crown",
+      "diziid": "at",
+      "bolum": "226",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/226/onun_tacini_kirdin"
+    },
+    {
+      "season": 2,
+      "episode": 221,
+      "title": "Don't Look",
+      "diziid": "at",
+      "bolum": "227",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/227/sakin_bakma"
+    },
+    {
+      "season": 3,
+      "episode": 222,
+      "title": "Beyond the Grotto",
+      "diziid": "at",
+      "bolum": "228",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/228/magaranin_otesinde"
+    },
+    {
+      "season": 4,
+      "episode": 223,
+      "title": "Lady Rainicorn of the Crystal Dimension",
+      "diziid": "at",
+      "bolum": "229",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/229/kristal_boyut_ve_gokkusagi_ati_lady"
+    },
+    {
+      "season": 5,
+      "episode": 224,
+      "title": "I Am a Sword",
+      "diziid": "at",
+      "bolum": "230",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/230/ben_bir_kilicim"
+    },
+    {
+      "season": 6,
+      "episode": 225,
+      "title": "Bun Bun",
+      "diziid": "at",
+      "bolum": "231",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/231/bun_bun"
+    },
+    {
+      "season": 7,
+      "episode": 226,
+      "title": "Normal Man",
+      "diziid": "at",
+      "bolum": "232",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/232/normal_adam"
+    },
+    {
+      "season": 8,
+      "episode": 227,
+      "title": "Elemental",
+      "diziid": "at",
+      "bolum": "233",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/233/elementler"
+    },
+    {
+      "season": 9,
+      "episode": 228,
+      "title": "Five Short Tables",
+      "diziid": "at",
+      "bolum": "234",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/234/bes_kisa_masa"
+    },
+    {
+      "season": 10,
+      "episode": 229,
+      "title": "The Music Hole",
+      "diziid": "at",
+      "bolum": "235",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/235/muzik_deligi"
+    },
+    {
+      "season": 11,
+      "episode": 230,
+      "title": "Daddy-Daughter Card Wars",
+      "diziid": "at",
+      "bolum": "236",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/236/baba-kiz_kart_savaslari"
+    },
+    {
+      "season": 12,
+      "episode": 231,
+      "title": "Preboot",
+      "diziid": "at",
+      "bolum": "237",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/237/sistemi_baslat"
+    },
+    {
+      "season": 13,
+      "episode": 232,
+      "title": "Reboot",
+      "diziid": "at",
+      "bolum": "238",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/238/sistemi_geri_yukle"
+    },
+    {
+      "season": 14,
+      "episode": 233,
+      "title": "Two Swords",
+      "diziid": "at",
+      "bolum": "239",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/239/iki_kilic"
+    },
+    {
+      "season": 15,
+      "episode": 234,
+      "title": "Do No Harm",
+      "diziid": "at",
+      "bolum": "240",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/240/zarar_verme"
+    },
+    {
+      "season": 16,
+      "episode": 235,
+      "title": "Wheels",
+      "diziid": "at",
+      "bolum": "241",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/241/tekerler"
+    },
+    {
+      "season": 17,
+      "episode": 236,
+      "title": "High Strangeness",
+      "diziid": "at",
+      "bolum": "242",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/242/garip_ekselanslari"
+    },
+    {
+      "season": 18,
+      "episode": 237,
+      "title": "Horse and Ball",
+      "diziid": "at",
+      "bolum": "243",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/243/at_ve_top"
+    },
+    {
+      "season": 19,
+      "episode": 238,
+      "title": "Jelly Beans Have Power",
+      "diziid": "at",
+      "bolum": "244",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/244/sekerler_gucludur"
+    },
+    {
+      "season": 20,
+      "episode": 239,
+      "title": "The Invitation",
+      "diziid": "at",
+      "bolum": "245",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/245/davet"
+    },
+    {
+      "season": 21,
+      "episode": 240,
+      "title": "Whipple the Happy Dragon",
+      "diziid": "at",
+      "bolum": "246",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/246/mutlu_ejderha_whipple"
+    },
+    {
+      "season": 22,
+      "episode": 241,
+      "title": "Mysterious Island",
+      "diziid": "at",
+      "bolum": "247",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/247/gizemli_ada"
+    },
+    {
+      "season": 23,
+      "episode": 242,
+      "title": "Imaginary Resources",
+      "diziid": "at",
+      "bolum": "248",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/248/hayali_kaynaklar"
+    },
+    {
+      "season": 24,
+      "episode": 243,
+      "title": "Hide and Seek",
+      "diziid": "at",
+      "bolum": "249",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/249/saklambac"
+    },
+    {
+      "season": 25,
+      "episode": 244,
+      "title": "Min and Marty",
+      "diziid": "at",
+      "bolum": "250",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/250/minerva_ve_marty"
+    },
+    {
+      "season": 26,
+      "episode": 245,
+      "title": "Helpers",
+      "diziid": "at",
+      "bolum": "251",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/251/yardimcilar"
+    },
+    {
+      "season": 27,
+      "episode": 246,
+      "title": "The Light Cloud",
+      "diziid": "at",
+      "bolum": "252",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/252/aydinlik_bulut"
+    },
+    {
+      "season": 1,
+      "episode": 247,
+      "title": "Orb",
+      "diziid": "at",
+      "bolum": "253",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/253/kure"
+    },
+    {
+      "season": 2,
+      "episode": 248,
+      "title": "Skyhooks",
+      "diziid": "at",
+      "bolum": "254",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/254/gokyuzu_kancalari"
+    },
+    {
+      "season": 3,
+      "episode": 249,
+      "title": "Bespoken For",
+      "diziid": "at",
+      "bolum": "255",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/255/ismarlama"
+    },
+    {
+      "season": 4,
+      "episode": 250,
+      "title": "Winter Light",
+      "diziid": "at",
+      "bolum": "256",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/256/kis_isiklari"
+    },
+    {
+      "season": 5,
+      "episode": 251,
+      "title": "Cloudy",
+      "diziid": "at",
+      "bolum": "257",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/257/bulutlu"
+    },
+    {
+      "season": 6,
+      "episode": 252,
+      "title": "Slime Central",
+      "diziid": "at",
+      "bolum": "258",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/258/salgi_ussu"
+    },
+    {
+      "season": 7,
+      "episode": 253,
+      "title": "Happy Warrior",
+      "diziid": "at",
+      "bolum": "259",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/259/mutlu_savasci"
+    },
+    {
+      "season": 8,
+      "episode": 254,
+      "title": "Hero Heart",
+      "diziid": "at",
+      "bolum": "260",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/260/kahraman_yurekli"
+    },
+    {
+      "season": 9,
+      "episode": 255,
+      "title": "Skyhooks II",
+      "diziid": "at",
+      "bolum": "261",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/261/gokyuzu_kancalari_2"
+    },
+    {
+      "season": 10,
+      "episode": 256,
+      "title": "Abstract",
+      "diziid": "at",
+      "bolum": "262",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/262/soyut"
+    },
+    {
+      "season": 11,
+      "episode": 257,
+      "title": "Ketchup",
+      "diziid": "at",
+      "bolum": "263",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/263/ketcap"
+    },
+    {
+      "season": 12,
+      "episode": 258,
+      "title": "Fionna and Cake and Fionna",
+      "diziid": "at",
+      "bolum": "264",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/264/fionna_ve_cake_ve_fionna"
+    },
+    {
+      "season": 13,
+      "episode": 259,
+      "title": "Whispers",
+      "diziid": "at",
+      "bolum": "265",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/265/fisiltilar"
+    },
+    {
+      "season": 14,
+      "episode": 260,
+      "title": "Three Buckets",
+      "diziid": "at",
+      "bolum": "266",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/266/uc_kova"
+    },
+    {
+      "season": 1,
+      "episode": 261,
+      "title": "The Wild Hunt",
+      "diziid": "at",
+      "bolum": "267",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/267/vahsi_av"
+    },
+    {
+      "season": 2,
+      "episode": 262,
+      "title": "Always BMO Closing",
+      "diziid": "at",
+      "bolum": "268",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/268/satici_bmo"
+    },
+    {
+      "season": 3,
+      "episode": 263,
+      "title": "Son of Rap Bear",
+      "diziid": "at",
+      "bolum": "269",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/269/rap_ayisinin_oglu"
+    },
+    {
+      "season": 4,
+      "episode": 264,
+      "title": "Bonnibel Bubblegum",
+      "diziid": "at",
+      "bolum": "270",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/270/prenses_ciklet"
+    },
+    {
+      "season": 5,
+      "episode": 265,
+      "title": "Seventeen",
+      "diziid": "at",
+      "bolum": "271",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/271/on_yedi"
+    },
+    {
+      "season": 6,
+      "episode": 266,
+      "title": "Ring of Fire",
+      "diziid": "at",
+      "bolum": "272",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/272/ates_cemberi"
+    },
+    {
+      "season": 7,
+      "episode": 267,
+      "title": "Marcy & Hunson",
+      "diziid": "at",
+      "bolum": "273",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/273/marcy_ve_hunson"
+    },
+    {
+      "season": 8,
+      "episode": 268,
+      "title": "The First Investigation",
+      "diziid": "at",
+      "bolum": "274",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/274/ilk_inceleme"
+    },
+    {
+      "season": 9,
+      "episode": 269,
+      "title": "Blenanas",
+      "diziid": "at",
+      "bolum": "275",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/275/muz"
+    },
+    {
+      "season": 10,
+      "episode": 270,
+      "title": "Jake the Starchild",
+      "diziid": "at",
+      "bolum": "276",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/276/yildiz_cocuk_jake"
+    },
+    {
+      "season": 11,
+      "episode": 271,
+      "title": "Temple of Mars",
+      "diziid": "at",
+      "bolum": "277",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/277/mars_tapinagi"
+    },
+    {
+      "season": 12,
+      "episode": 272,
+      "title": "Gumbaldia",
+      "diziid": "at",
+      "bolum": "278",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/278/gumbaldia"
+    },
+    {
+      "season": 1,
+      "episode": 273,
+      "title": "Come Along with Me",
+      "diziid": "at",
+      "bolum": "280",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/280/benimle_gel"
+    },
+    {
+      "season": 279,
+      "episode": 274,
+      "title": "Diamonds and Lemons",
+      "diziid": "at",
+      "bolum": "279",
+      "url": "https://cizgivedizi.com/dizi/at/adventure_time/279/elmaslar_ve_limonlar"
+    }
+  ]
+}

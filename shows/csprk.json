@@ -1,0 +1,437 @@
+{
+  "id": "csprk",
+  "title": "casper",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/CSPRKPoster.avif",
+  "channel": "Planet Ã‡ocuk",
+  "genres": [
+    "Komedi",
+    "Korku"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Friendly Ghost",
+      "diziid": "csprk",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/1/dost_hayalet"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "There's Good Boos To-Night",
+      "diziid": "csprk",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/2/tilki_yavrusu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "A Haunting We Will Go",
+      "diziid": "csprk",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/3/ordek_ve_casper"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Casper's Spree Under The Sea",
+      "diziid": "csprk",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/4/casperin_su_alti_macerasi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Once Upon a Rhyme",
+      "diziid": "csprk",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/5/kaz_ana_ulkesi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Boo Hoo Baby",
+      "diziid": "csprk",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/6/aglayan_bebekler"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "To Boo Or Not To Boo",
+      "diziid": "csprk",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/7/boo_ya_da_degil"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Boo Scout",
+      "diziid": "csprk",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/8/izci"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Casper Comes To Clown",
+      "diziid": "csprk",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/9/palyaco"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Casper Takes a Bow-Wow",
+      "diziid": "csprk",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/10/casper_ve_hav_hav"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Deep Boo Sea",
+      "diziid": "csprk",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/11/korsanlik_ve_hazine"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Ghost of The Town",
+      "diziid": "csprk",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/12/kasabadaki_unlu_hayalet"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Spunky Skunky",
+      "diziid": "csprk",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/13/kokarca_skunky"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Cage Fright",
+      "diziid": "csprk",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/14/kafes_korkusu"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Pig-A-Boo",
+      "diziid": "csprk",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/15/domuz_ve_boo"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "True Boo",
+      "diziid": "csprk",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/16/noel_baba_casper"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Frightday The 13th",
+      "diziid": "csprk",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/17/on_ucuncu_korku_gunu"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "North Pal",
+      "diziid": "csprk",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/19/kuzey_kutbundaki_dost"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "By The Old Mill Scream",
+      "diziid": "csprk",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/20/kisa_kuyruk"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "Little Boo Peep",
+      "diziid": "csprk",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/21/kurt_ve_kuzu"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "Do or Diet",
+      "diziid": "csprk",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/22/hindi"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "Boos and Saddles",
+      "diziid": "csprk",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/23/vahsi_bati"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "Boo Moon",
+      "diziid": "csprk",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/24/ay"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "Zero The Hero",
+      "diziid": "csprk",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/25/kahraman_sifir"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "Casper The Genie",
+      "diziid": "csprk",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/26/cin_casper"
+    },
+    {
+      "season": 27,
+      "episode": 26,
+      "title": "Puss 'n Boos",
+      "diziid": "csprk",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/27/kedi_ve_boo"
+    },
+    {
+      "season": 28,
+      "episode": 27,
+      "title": "Boos and Arrows",
+      "diziid": "csprk",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/28/booler_ve_oklar"
+    },
+    {
+      "season": 29,
+      "episode": 28,
+      "title": "Boo Ribbon Winner",
+      "diziid": "csprk",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/29/kopek_yarismasi"
+    },
+    {
+      "season": 30,
+      "episode": 29,
+      "title": "Hide and Shriek",
+      "diziid": "csprk",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/30/kotu_spooky"
+    },
+    {
+      "season": 31,
+      "episode": 30,
+      "title": "Keep Your Grin Up",
+      "diziid": "csprk",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/31/gulmeyen_sirtlan"
+    },
+    {
+      "season": 32,
+      "episode": 31,
+      "title": "Spooking with a Brogue",
+      "diziid": "csprk",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/32/cuce_casper"
+    },
+    {
+      "season": 33,
+      "episode": 32,
+      "title": "Bull Fright",
+      "diziid": "csprk",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/33/boga_ve_casper"
+    },
+    {
+      "season": 34,
+      "episode": 33,
+      "title": "Red, White and Boo",
+      "diziid": "csprk",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/34/kirmizi%2C_beyaz_ve_ben"
+    },
+    {
+      "season": 35,
+      "episode": 34,
+      "title": "Boo Kind to Animals",
+      "diziid": "csprk",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/35/hayvanlara_karsi_kibar_olun"
+    },
+    {
+      "season": 36,
+      "episode": 35,
+      "title": "Ground Hog Play",
+      "diziid": "csprk",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/36/kayip_golgeler"
+    },
+    {
+      "season": 37,
+      "episode": 36,
+      "title": "Dutch Treat",
+      "diziid": "csprk",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/37/hollanda"
+    },
+    {
+      "season": 38,
+      "episode": 37,
+      "title": "Penguin For Your Thoughts",
+      "diziid": "csprk",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/38/yavru_penguen"
+    },
+    {
+      "season": 39,
+      "episode": 38,
+      "title": "Line of Screamage",
+      "diziid": "csprk",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/39/oyun_cizgisi"
+    },
+    {
+      "season": 40,
+      "episode": 39,
+      "title": "Fright from Wrong",
+      "diziid": "csprk",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/40/kotu_casper"
+    },
+    {
+      "season": 41,
+      "episode": 40,
+      "title": "Spooking about Africa",
+      "diziid": "csprk",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/41/hapsiran_fil"
+    },
+    {
+      "season": 42,
+      "episode": 41,
+      "title": "Hooky Spooky",
+      "diziid": "csprk",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/42/okulu_kiran_spooky"
+    },
+    {
+      "season": 43,
+      "episode": 42,
+      "title": "Peakaboo",
+      "diziid": "csprk",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/43/kotu_kedicik"
+    },
+    {
+      "season": 44,
+      "episode": 43,
+      "title": "Ghost of Honor",
+      "diziid": "csprk",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/44/onur_hayaleti"
+    },
+    {
+      "season": 45,
+      "episode": 44,
+      "title": "Ice Scream",
+      "diziid": "csprk",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/45/kaymak"
+    },
+    {
+      "season": 46,
+      "episode": 45,
+      "title": "Boo Bop",
+      "diziid": "csprk",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/46/senfoni"
+    },
+    {
+      "season": 47,
+      "episode": 46,
+      "title": "Heir Restorer",
+      "diziid": "csprk",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/47/varis"
+    },
+    {
+      "season": 48,
+      "episode": 47,
+      "title": "Spook and Span",
+      "diziid": "csprk",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/48/domuzu_temizlemek"
+    },
+    {
+      "season": 49,
+      "episode": 48,
+      "title": "Ghost Writers",
+      "diziid": "csprk",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/49/hayalet_yazarlar"
+    },
+    {
+      "season": 50,
+      "episode": 49,
+      "title": "Which is Witch",
+      "diziid": "csprk",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/50/sahil_gunu"
+    },
+    {
+      "season": 51,
+      "episode": 50,
+      "title": "Good Scream Fun",
+      "diziid": "csprk",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/51/tavus_kusu"
+    },
+    {
+      "season": 52,
+      "episode": 51,
+      "title": "Doing What's Fright",
+      "diziid": "csprk",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/52/sakalar"
+    },
+    {
+      "season": 53,
+      "episode": 52,
+      "title": "Down to Mirth",
+      "diziid": "csprk",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/53/nesenin_bitisi"
+    },
+    {
+      "season": 55,
+      "episode": 53,
+      "title": "Casper's Birthday Party",
+      "diziid": "csprk",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/csprk/casper/55/casperin_dogum_gunu_partisi"
+    }
+  ]
+}

@@ -1,0 +1,940 @@
+{
+  "id": "am",
+  "title": "arÄ± maya",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/AMPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "DoÄŸa ve Hayvanlar"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Birth of Maya",
+      "diziid": "am",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/1/mayanin_dogumu"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Take Off",
+      "diziid": "am",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/2/yuvadan_ucus"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Queen's Messenger",
+      "diziid": "am",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/3/kralicenin_habercisi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Night Blooms",
+      "diziid": "am",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/4/ay_cicekleri"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Willy's Bottle",
+      "diziid": "am",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/5/willynin_sisesi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Keep Ball Rolling",
+      "diziid": "am",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/6/topu_yuvarla"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Judge Beeswax",
+      "diziid": "am",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/7/yargic_balmumu"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Crack!",
+      "diziid": "am",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/8/catlak%21"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Powder Power",
+      "diziid": "am",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/9/pullarin_gucu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Maya to the Rescue",
+      "diziid": "am",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/10/kurtarici_maya"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "No Sleep for Maya",
+      "diziid": "am",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/11/mayaya_uyku_yok"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Royal Outing",
+      "diziid": "am",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/12/kralicenin_molasi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Stranger",
+      "diziid": "am",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/13/yedi_yabanci"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Beware of the Bear",
+      "diziid": "am",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/14/dikkat_ayi_var"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Misleading Appearances",
+      "diziid": "am",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/15/yaniltici_goruntuler"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Sleeping Beauty",
+      "diziid": "am",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/16/uyuyan_guzel"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Philibert",
+      "diziid": "am",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/17/kucuk_elma_kurdu"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Dancing with Bees",
+      "diziid": "am",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/18/arilarla_dans"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Willy Moves Out",
+      "diziid": "am",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/19/willy_tasiniyor"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Wild Bunch",
+      "diziid": "am",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/20/cekirge_cetesi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Bee Clean",
+      "diziid": "am",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/21/ari_temizligi"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Flying Licence",
+      "diziid": "am",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/22/ucus_izni"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Mrs Hermit Beetle's Journey",
+      "diziid": "am",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/23/bayan_agac_boceginin_yolculugu"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "No Friends for Dino",
+      "diziid": "am",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/24/dinonun_arkadasi_yok"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Mother Courage",
+      "diziid": "am",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/25/anne_cesareti"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Cake for the Queen",
+      "diziid": "am",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/26/kralicenin_pastasi"
+    },
+    {
+      "season": 3,
+      "episode": 27,
+      "title": "Weather on Demand",
+      "diziid": "am",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/29/ismarlama_hava"
+    },
+    {
+      "season": 4,
+      "episode": 28,
+      "title": "Shadow Play",
+      "diziid": "am",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/30/golge_oyunu"
+    },
+    {
+      "season": 5,
+      "episode": 29,
+      "title": "Hive Jive",
+      "diziid": "am",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/31/kovan_eglencesi"
+    },
+    {
+      "season": 6,
+      "episode": 30,
+      "title": "Ring-a Ring-a Caterpillar",
+      "diziid": "am",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/32/don_tirtil_don"
+    },
+    {
+      "season": 7,
+      "episode": 31,
+      "title": "What a Nice Wasp",
+      "diziid": "am",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/33/iyi_kalpli_esek_arisi"
+    },
+    {
+      "season": 8,
+      "episode": 32,
+      "title": "Sleepless Max",
+      "diziid": "am",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/34/uykusuz_max"
+    },
+    {
+      "season": 9,
+      "episode": 33,
+      "title": "King Willy",
+      "diziid": "am",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/35/kral_willy"
+    },
+    {
+      "season": 11,
+      "episode": 34,
+      "title": "The Great Pollen Robbery",
+      "diziid": "am",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/37/buyuk_cicek_tozu_soygunu"
+    },
+    {
+      "season": 12,
+      "episode": 35,
+      "title": "Shelby's Dream",
+      "diziid": "am",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/38/shelbynin_hayali"
+    },
+    {
+      "season": 13,
+      "episode": 36,
+      "title": "The Queen's Scepter",
+      "diziid": "am",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/39/kralicenin_asasi"
+    },
+    {
+      "season": 14,
+      "episode": 37,
+      "title": "Edgar the Fearless",
+      "diziid": "am",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/40/korkusuz_edgar"
+    },
+    {
+      "season": 15,
+      "episode": 38,
+      "title": "In Search of the Lost Dung",
+      "diziid": "am",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/41/kayip_gubre_topunun_pesinde"
+    },
+    {
+      "season": 16,
+      "episode": 39,
+      "title": "Forbidden Fruit",
+      "diziid": "am",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/42/yasak_meyve"
+    },
+    {
+      "season": 17,
+      "episode": 40,
+      "title": "Queen of the Solar Eclipse",
+      "diziid": "am",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/43/gunes_tutulmasi"
+    },
+    {
+      "season": 18,
+      "episode": 41,
+      "title": "The Night of the Giants",
+      "diziid": "am",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/44/devlerin_gecesi"
+    },
+    {
+      "season": 19,
+      "episode": 42,
+      "title": "Maya's Garden",
+      "diziid": "am",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/45/mayanin_bahcesi"
+    },
+    {
+      "season": 20,
+      "episode": 43,
+      "title": "Molly the Miner",
+      "diziid": "am",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/46/madenci_molly"
+    },
+    {
+      "season": 21,
+      "episode": 44,
+      "title": "Barry's Glasses",
+      "diziid": "am",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/47/barrynin_gozlugu"
+    },
+    {
+      "season": 22,
+      "episode": 45,
+      "title": "Alarm",
+      "diziid": "am",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/48/alarm"
+    },
+    {
+      "season": 23,
+      "episode": 46,
+      "title": "Harmony in the Meadow",
+      "diziid": "am",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/49/cayirin_ahengi"
+    },
+    {
+      "season": 24,
+      "episode": 47,
+      "title": "Maya Commander in Chief",
+      "diziid": "am",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/50/bas_komutan_maya"
+    },
+    {
+      "season": 25,
+      "episode": 48,
+      "title": "Sulky Willy",
+      "diziid": "am",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/51/huysuz_willy"
+    },
+    {
+      "season": 26,
+      "episode": 49,
+      "title": "Dragonfly Express",
+      "diziid": "am",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/52/helikopter_bocegi_kargo"
+    },
+    {
+      "season": 1,
+      "episode": 50,
+      "title": "Bee Day",
+      "diziid": "am",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/53/ari_gunu"
+    },
+    {
+      "season": 2,
+      "episode": 51,
+      "title": "Willy Loses His Memory",
+      "diziid": "am",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/54/willy_hafizasini_kaybediyor"
+    },
+    {
+      "season": 3,
+      "episode": 52,
+      "title": "Rainbow Pollen",
+      "diziid": "am",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/55/gokkusagi_cicek_tozu"
+    },
+    {
+      "season": 4,
+      "episode": 53,
+      "title": "Follow That Egg",
+      "diziid": "am",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/56/yumurtayi_takip_et"
+    },
+    {
+      "season": 5,
+      "episode": 54,
+      "title": "The New Shelby",
+      "diziid": "am",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/57/yeni_shelby"
+    },
+    {
+      "season": 6,
+      "episode": 55,
+      "title": "Bless You Miss Cassandra",
+      "diziid": "am",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/58/cok_yasayin_bayan_cassandra"
+    },
+    {
+      "season": 7,
+      "episode": 56,
+      "title": "On with the Show",
+      "diziid": "am",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/59/yetenek_gosterisi"
+    },
+    {
+      "season": 8,
+      "episode": 57,
+      "title": "Night Flight",
+      "diziid": "am",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/60/gece_ucusu"
+    },
+    {
+      "season": 9,
+      "episode": 58,
+      "title": "Queen for a Day",
+      "diziid": "am",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/61/bir_gunluk_kralice"
+    },
+    {
+      "season": 10,
+      "episode": 59,
+      "title": "Henry's Cabin",
+      "diziid": "am",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/62/henrynin_agac_evi"
+    },
+    {
+      "season": 11,
+      "episode": 60,
+      "title": "Wings of a Champion",
+      "diziid": "am",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/63/sampiyonun_kanatlari"
+    },
+    {
+      "season": 12,
+      "episode": 61,
+      "title": "The Haunted Hive",
+      "diziid": "am",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/64/perili_kovan"
+    },
+    {
+      "season": 13,
+      "episode": 62,
+      "title": "Thank You Wasps",
+      "diziid": "am",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/65/tesekkur_ederiz_esek_arilari"
+    },
+    {
+      "season": 14,
+      "episode": 63,
+      "title": "The Outsider",
+      "diziid": "am",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/66/yabanci"
+    },
+    {
+      "season": 15,
+      "episode": 64,
+      "title": "A Flower to Share",
+      "diziid": "am",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/67/paylasilacak_cicek"
+    },
+    {
+      "season": 16,
+      "episode": 65,
+      "title": "Greedy Frogs",
+      "diziid": "am",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/68/obur_kurbagalar"
+    },
+    {
+      "season": 17,
+      "episode": 66,
+      "title": "Once Upon a Slime",
+      "diziid": "am",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/69/sumuklu_bocekin_macerasi"
+    },
+    {
+      "season": 18,
+      "episode": 67,
+      "title": "The Big Eat",
+      "diziid": "am",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/70/buyuk_gurme"
+    },
+    {
+      "season": 19,
+      "episode": 68,
+      "title": "The Big Bad Earwig",
+      "diziid": "am",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/71/buyuk_kotu_kulagakacan_bocegi"
+    },
+    {
+      "season": 20,
+      "episode": 69,
+      "title": "Willy Guards the Hive",
+      "diziid": "am",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/72/willy_kovani_koruyor"
+    },
+    {
+      "season": 21,
+      "episode": 70,
+      "title": "A Friend for the Oak",
+      "diziid": "am",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/73/mese_agacina_arkadas"
+    },
+    {
+      "season": 22,
+      "episode": 71,
+      "title": "The Runaway Bee",
+      "diziid": "am",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/74/kacak_ari"
+    },
+    {
+      "season": 23,
+      "episode": 72,
+      "title": "Did I Say That?",
+      "diziid": "am",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/75/bunu_ben_mi_soyledim"
+    },
+    {
+      "season": 24,
+      "episode": 73,
+      "title": "The Gift from Above",
+      "diziid": "am",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/76/gokyuzunden_gelen_hediye"
+    },
+    {
+      "season": 25,
+      "episode": 74,
+      "title": "Doc Slick",
+      "diziid": "am",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/77/isportaci"
+    },
+    {
+      "season": 26,
+      "episode": 75,
+      "title": "A Surprise for Maya",
+      "diziid": "am",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/78/mayaya_surpriz"
+    },
+    {
+      "season": 1,
+      "episode": 76,
+      "title": "Roll On the Holidays",
+      "diziid": "am",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/79/tatil_zamani"
+    },
+    {
+      "season": 2,
+      "episode": 77,
+      "title": "Yes Sir!",
+      "diziid": "am",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/80/emret_komutanim%21"
+    },
+    {
+      "season": 4,
+      "episode": 78,
+      "title": "Field Trip",
+      "diziid": "am",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/82/egitim_gezisi"
+    },
+    {
+      "season": 6,
+      "episode": 79,
+      "title": "Flip Has Got the Blues",
+      "diziid": "am",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/84/flipin_cani_sikkin"
+    },
+    {
+      "season": 7,
+      "episode": 80,
+      "title": "The Meadow Friends",
+      "diziid": "am",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/85/cayirdaki_dostlar"
+    },
+    {
+      "season": 9,
+      "episode": 81,
+      "title": "Rosita",
+      "diziid": "am",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/87/rosita"
+    },
+    {
+      "season": 10,
+      "episode": 82,
+      "title": "Theo",
+      "diziid": "am",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/88/theo"
+    },
+    {
+      "season": 11,
+      "episode": 83,
+      "title": "Treasure for the Ants",
+      "diziid": "am",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/89/karincalarin_hazinesi"
+    },
+    {
+      "season": 12,
+      "episode": 84,
+      "title": "A Very Peculiar Mother",
+      "diziid": "am",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/90/cok_ozel_bir_anne"
+    },
+    {
+      "season": 13,
+      "episode": 85,
+      "title": "Shadow of a Doubt",
+      "diziid": "am",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/91/suphenin_golgesi"
+    },
+    {
+      "season": 14,
+      "episode": 86,
+      "title": "The Honeymunch",
+      "diziid": "am",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/92/bal_avcisi"
+    },
+    {
+      "season": 15,
+      "episode": 87,
+      "title": "Long Live Freedom!",
+      "diziid": "am",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/93/yasasin_ozgurluk%21"
+    },
+    {
+      "season": 16,
+      "episode": 88,
+      "title": "In the Ranks",
+      "diziid": "am",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/94/maya_kovanda"
+    },
+    {
+      "season": 18,
+      "episode": 89,
+      "title": "Bad Company",
+      "diziid": "am",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/96/kotu_arkadas"
+    },
+    {
+      "season": 20,
+      "episode": 90,
+      "title": "Stinger Stung",
+      "diziid": "am",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/98/stingerin_oyunu"
+    },
+    {
+      "season": 21,
+      "episode": 91,
+      "title": "Maya the First",
+      "diziid": "am",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/99/birinci_maya"
+    },
+    {
+      "season": 22,
+      "episode": 92,
+      "title": "Blue Tit",
+      "diziid": "am",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/100/mavi_kus"
+    },
+    {
+      "season": 23,
+      "episode": 93,
+      "title": "A Strike in the Hive",
+      "diziid": "am",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/101/kovanda_grev_var"
+    },
+    {
+      "season": 24,
+      "episode": 94,
+      "title": "No Harmony for Beeswax",
+      "diziid": "am",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/102/balmumu_ve_ahenk"
+    },
+    {
+      "season": 25,
+      "episode": 95,
+      "title": "Fab Four",
+      "diziid": "am",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/103/bocekler_grubu"
+    },
+    {
+      "season": 26,
+      "episode": 96,
+      "title": "Big Ball",
+      "diziid": "am",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/104/buyuk_top"
+    },
+    {
+      "season": 27,
+      "episode": 97,
+      "title": "Hive Certificate",
+      "diziid": "am",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/105/kovan_diplomasi"
+    },
+    {
+      "season": 29,
+      "episode": 98,
+      "title": "Remind Me to Eat You",
+      "diziid": "am",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/107/hatirlat_da_seni_yiyeyim"
+    },
+    {
+      "season": 30,
+      "episode": 99,
+      "title": "Sister Knows Best",
+      "diziid": "am",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/108/en_iyisini_ablalar_bilir"
+    },
+    {
+      "season": 31,
+      "episode": 100,
+      "title": "Question of Confidence",
+      "diziid": "am",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/109/kendine_guven_sorunu"
+    },
+    {
+      "season": 33,
+      "episode": 101,
+      "title": "Ballie Wallie Mystery",
+      "diziid": "am",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/111/benin_topu_sir_oldu"
+    },
+    {
+      "season": 34,
+      "episode": 102,
+      "title": "On Top Form",
+      "diziid": "am",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/112/formunun_zirvesinde"
+    },
+    {
+      "season": 35,
+      "episode": 103,
+      "title": "To-Xi-Kant",
+      "diziid": "am",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/113/buyuk_duello"
+    },
+    {
+      "season": 39,
+      "episode": 104,
+      "title": "Draw Me a Beeswax",
+      "diziid": "am",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/117/bana_bir_balmumu_ciz"
+    },
+    {
+      "season": 40,
+      "episode": 105,
+      "title": "Lara's Secret Love",
+      "diziid": "am",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/118/isimsiz_mektuplar"
+    },
+    {
+      "season": 41,
+      "episode": 106,
+      "title": "Private Property",
+      "diziid": "am",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/119/ozel_mulk"
+    },
+    {
+      "season": 42,
+      "episode": 107,
+      "title": "The Killer Buzz",
+      "diziid": "am",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/120/sagir_eden_vizilti"
+    },
+    {
+      "season": 43,
+      "episode": 108,
+      "title": "The Fortune Teller",
+      "diziid": "am",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/121/laranin_tahminleri"
+    },
+    {
+      "season": 44,
+      "episode": 109,
+      "title": "Willy in the Soup",
+      "diziid": "am",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/122/willy_corbanin_icinde"
+    },
+    {
+      "season": 45,
+      "episode": 110,
+      "title": "Dung Ball Drama",
+      "diziid": "am",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/123/cayirin_copleri"
+    },
+    {
+      "season": 47,
+      "episode": 111,
+      "title": "Cool in the Cooler",
+      "diziid": "am",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/125/buz_gibi_soguk"
+    },
+    {
+      "season": 48,
+      "episode": 112,
+      "title": "Second Class",
+      "diziid": "am",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/126/ikinci_sinif"
+    },
+    {
+      "season": 49,
+      "episode": 113,
+      "title": "Little Treasure",
+      "diziid": "am",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/127/kucuk_define"
+    },
+    {
+      "season": 50,
+      "episode": 114,
+      "title": "Triple Trouble",
+      "diziid": "am",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/128/uclu_sorun"
+    },
+    {
+      "season": 51,
+      "episode": 115,
+      "title": "Phobia",
+      "diziid": "am",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/129/fobi"
+    },
+    {
+      "season": 52,
+      "episode": 116,
+      "title": "Maya Don't Go!",
+      "diziid": "am",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/am/ari_maya/130/gitme_maya%21"
+    }
+  ]
+}

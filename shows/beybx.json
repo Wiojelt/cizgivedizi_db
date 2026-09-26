@@ -1,0 +1,452 @@
+{
+  "id": "beybx",
+  "title": "beyblade x",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/BEYBXPoster.jpg",
+  "channel": "Spacetoon",
+  "genres": [
+    "Spor"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "X",
+      "diziid": "beybx",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/1/x"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Multi-Colored Ambush",
+      "diziid": "beybx",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/2/suikastci_nana-iro"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Team Persona",
+      "diziid": "beybx",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/3/persona"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Bey Sponsor",
+      "diziid": "beybx",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/4/bey_sponsoru"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "To The X",
+      "diziid": "beybx",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/5/x_kulesine_dogru"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Lion's Jungle",
+      "diziid": "beybx",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/6/aslanin_ormani"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Team Zooganic",
+      "diziid": "beybx",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/7/zooganic_takimi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Mask and the King",
+      "diziid": "beybx",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/8/maskici_x_ve_ormanlar_krali"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Beycrafter",
+      "diziid": "beybx",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/9/beyblade_zanaatkari"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Pro Realm",
+      "diziid": "beybx",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/10/profesyonel_dunyasi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Warden's Exam",
+      "diziid": "beybx",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/11/kadorun_testi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Final Battle",
+      "diziid": "beybx",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/12/son_kapisma"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The First Fan",
+      "diziid": "beybx",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/13/bir_numarali_hayran"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Jax-ercise",
+      "diziid": "beybx",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/14/kurosu_ekusu_egzersizi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Riddles and Beys",
+      "diziid": "beybx",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/15/bulmaca_ve_beyblade"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Noblesse Oblige",
+      "diziid": "beybx",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/16/asillerin_mesuliyeti"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Bey Timeshift",
+      "diziid": "beybx",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/17/beyblade_zaman_kaymasi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Pride",
+      "diziid": "beybx",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/18/gurur"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Zip and Zoom",
+      "diziid": "beybx",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/19/datto"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Memories of Sushi",
+      "diziid": "beybx",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/20/susi_anisi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Pop Production",
+      "diziid": "beybx",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/21/populerlik_yetistirmek"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Black and White",
+      "diziid": "beybx",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/22/siyah_ve_beyaz"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "True Heart",
+      "diziid": "beybx",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/23/durust_kalp"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Arrival of the Fastest",
+      "diziid": "beybx",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/24/en_hizli_gelis"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Proof of the Fastest",
+      "diziid": "beybx",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/25/en_hizlinin_kaniti"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Invitation",
+      "diziid": "beybx",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/26/davetiye"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "The End of Persistence",
+      "diziid": "beybx",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/27/amansiz_bir_son"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "The King and the Phoenix",
+      "diziid": "beybx",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/28/kral_ve_anka_kusu"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Mask and Meat Buns",
+      "diziid": "beybx",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/29/maskici_x_ve_po-chan"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Riddles and Pop",
+      "diziid": "beybx",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/30/gizem_ve_populerlik"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "My Teammates",
+      "diziid": "beybx",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/31/takim_arkadaslarim"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "New Partner",
+      "diziid": "beybx",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/32/yeni_bir_partner"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Our Promise",
+      "diziid": "beybx",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/33/isaret_parmagi_sozu"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "A Rainbow Guest",
+      "diziid": "beybx",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/34/nana-ironun_ziyaretcisi"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "The Dream Contest",
+      "diziid": "beybx",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/35/dreamz_takimi_dovusu"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Bladership",
+      "diziid": "beybx",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/36/bladership"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Unpredictable",
+      "diziid": "beybx",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/37/tahmin_edilemez"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Return of the Queen",
+      "diziid": "beybx",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/38/efsanenin_donusu"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "The Greatest Blader",
+      "diziid": "beybx",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/39/en_guclu_blader"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "The Other Mask",
+      "diziid": "beybx",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/40/diger_maske"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "The Three Masks",
+      "diziid": "beybx",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/41/bir_maske_daha"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "XYZ",
+      "diziid": "beybx",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/42/x%2C_y_ve_z"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Pendragon, Back Then",
+      "diziid": "beybx",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/43/eski_gunlerdeki_pendragon"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Family, Back Then",
+      "diziid": "beybx",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/44/eski_gunlerdeki_aile"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "You, Back Then",
+      "diziid": "beybx",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/45/eski_gunlerdeki_o"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Time Off",
+      "diziid": "beybx",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/46/molada"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Battle at the Top",
+      "diziid": "beybx",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/47/zirvedeki_carpisma"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "The Nana-iro Showdown",
+      "diziid": "beybx",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/48/onemli_bir_karsilasma"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Something Xtraordinary",
+      "diziid": "beybx",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/49/gorunmeyen"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "The Two Xs",
+      "diziid": "beybx",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/50/iki_tane_x"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "The Most Fun Ever",
+      "diziid": "beybx",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/51/final_karsilasmasi"
+    },
+    {
+      "season": 1,
+      "episode": 52,
+      "title": "Restart",
+      "diziid": "beybx",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/52/yeniden"
+    },
+    {
+      "season": 2,
+      "episode": 53,
+      "title": "Signs of a New Era",
+      "diziid": "beybx",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/53/yeni_bir_cagin_isaretleri"
+    },
+    {
+      "season": 3,
+      "episode": 54,
+      "title": "Path of Resolve",
+      "diziid": "beybx",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/54/kararliligin_yolu"
+    },
+    {
+      "season": 4,
+      "episode": 55,
+      "title": "Advance Bey Timeshift",
+      "diziid": "beybx",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/beybx/beyblade_x/55/beybladein_yeni_cagi_gelisiyor"
+    }
+  ]
+}

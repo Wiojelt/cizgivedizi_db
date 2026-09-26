@@ -1,0 +1,37 @@
+{
+  "id": "aratf",
+  "title": "araÅŸtÄ±rmacÄ± takÄ±m: film",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/ARATFPoster.avif",
+  "channel": "Da Vinci",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici",
+    "Dedektif"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Odd Squad: The Movie - Part 1",
+      "diziid": "aratf",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/aratf/arastirmaci_takim%3A_film/1/bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Odd Squad: The Movie - Part 2",
+      "diziid": "aratf",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/aratf/arastirmaci_takim%3A_film/2/bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Odd Squad: The Movie - Part 3",
+      "diziid": "aratf",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/aratf/arastirmaci_takim%3A_film/3/bolum_3"
+    }
+  ]
+}

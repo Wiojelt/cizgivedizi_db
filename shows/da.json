@@ -1,0 +1,429 @@
+{
+  "id": "da",
+  "title": "drama adasÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/DAPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Not So Happy Campers: Part 1",
+      "diziid": "da",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/1/kampcilar_mutlu_degil_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Not So Happy Campers: Part 2",
+      "diziid": "da",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/2/kampcilar_mutlu_degil_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Big Sleep",
+      "diziid": "da",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/3/buyuk_uyku"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Dodgebrawl",
+      "diziid": "da",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/4/yakantop"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Not Quite Famous",
+      "diziid": "da",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/5/oldukca_unlu_degil"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Sucky Outdoors",
+      "diziid": "da",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/6/acikca_hava_gezisi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Phobia Factor",
+      "diziid": "da",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/7/fobi_faktoru"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Up the Creek",
+      "diziid": "da",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/8/nehir"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Paintball Deer Hunter",
+      "diziid": "da",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/9/paintball_geyik_avcisi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "If You Can't Take the Heat...",
+      "diziid": "da",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/10/yemek"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Who Can You Trust?",
+      "diziid": "da",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/11/kime_guvenmeliyim"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Basic Straining",
+      "diziid": "da",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/12/temel_suzme"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "X-Treme Torture",
+      "diziid": "da",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/13/asiri_iskence"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Brunch of Disgustingness",
+      "diziid": "da",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/14/branc_yemegi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "No Pain, No Game",
+      "diziid": "da",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/15/aci_yok_oyun_yok"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Search and Do Not Destroy",
+      "diziid": "da",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/16/araniyor"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Hide and Be Sneaky",
+      "diziid": "da",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/17/saklan_ve_sinsi_ol"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "That's Off the Chain!",
+      "diziid": "da",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/18/zincirsiz"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Hook, Line And Screamer",
+      "diziid": "da",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/19/kanca%2C_cizgi_ve_ciglik"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Wawanakwa Gone Wild!",
+      "diziid": "da",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/20/wawanakwa_cildirdi%21"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Trial by Tri-Armed Triathlon",
+      "diziid": "da",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/21/ikili_yaris"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Haute Camp-ture",
+      "diziid": "da",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/22/yuksek_kamp"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Camp Castaways",
+      "diziid": "da",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/23/kazazade"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Are We There Yeti?",
+      "diziid": "da",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/24/yeti_mi_var"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "I Triple Dog Dare You!",
+      "diziid": "da",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/25/uclu_kopek"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The Very Last Episode, Really!",
+      "diziid": "da",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/26/en_son_bolum%2C_gercekten"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Monster Cash",
+      "diziid": "da",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/27/canavar_filmi%21"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Alien Resurr-eggtion",
+      "diziid": "da",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/28/yaratik%3A_dirilis"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Riot on Set",
+      "diziid": "da",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/29/sette_isyan"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Beach Blanket Bogus",
+      "diziid": "da",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/30/plaj_partisi"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "3:10 to Crazytown",
+      "diziid": "da",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/31/3%3A10_treni"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "The Aftermath: Trent's Descent",
+      "diziid": "da",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/32/isler_cigirindan_cikiyor"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "The Chefshank Redemption",
+      "diziid": "da",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/33/esaretin_bedeli"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "One Flu Over the Cuckoos",
+      "diziid": "da",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/34/guguk_kusu"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "The Sand Witch Project",
+      "diziid": "da",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/35/urkutucu_sandvic_projesi"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Masters of Disasters",
+      "diziid": "da",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/36/afet"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Full Metal Drama",
+      "diziid": "da",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/37/full_metal_drama"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "The Aftermath: Forgive and For-Gwen?",
+      "diziid": "da",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/38/bagisla_ve_unut"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Ocean's Eight - Or Nine",
+      "diziid": "da",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/39/sekiz_ya_da_dokuz"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "One Million Bucks, B.C.",
+      "diziid": "da",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/40/tas_devri"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "Million Dollar Babies",
+      "diziid": "da",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/41/milyonluk_bebek"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Dial M for Merger",
+      "diziid": "da",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/42/birlesme_var"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Super Hero-ld",
+      "diziid": "da",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/43/super_kahraman"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "The Aftermath: O-wen or Lose",
+      "diziid": "da",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/44/kazan_ya_da_kaybet"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "The Princess Pride",
+      "diziid": "da",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/45/prenses_gururu"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "Get a Clue",
+      "diziid": "da",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/46/ipucu"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "Rock n' Rule",
+      "diziid": "da",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/47/rock_%26_roll"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "Crouching Courtney, Hidden Owen",
+      "diziid": "da",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/48/courtney_ve_owen"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "2008: A Space Owen",
+      "diziid": "da",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/49/2008%3A_bir_uzay_destani"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "Top Dog",
+      "diziid": "da",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/50/en_iyi_kopek"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "Mutiny on the Soundstage",
+      "diziid": "da",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/51/denizde_isyan"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "The Aftermath: Who Wants to Pick a Millionaire?",
+      "diziid": "da",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/da/drama_adasi/52/kim_milyoner_olmak_ister"
+    }
+  ]
+}

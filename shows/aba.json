@@ -1,0 +1,869 @@
+{
+  "id": "aba",
+  "title": "ailem bir acayip",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ABAPoster.avif",
+  "channel": "Nickelodeon",
+  "genres": [
+    "Komedi",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Nega-Timmy / Love at First Height",
+      "diziid": "aba",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/60/nega_timmy__ilk_boydan_ask"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "You Doo! / Just Desserts!",
+      "diziid": "aba",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/61/buduu__sadece_tatlilar"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Back to the Norm / Teeth for Two",
+      "diziid": "aba",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/62/norma_donus__ikimiz_icin_dis"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Masked Magician / The Big Bash",
+      "diziid": "aba",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/63/maskeli_buyucu__buyuk_eglence"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Blondas Have More Fun! / Five Days of F.L.A.R.G.",
+      "diziid": "aba",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/64/blondie_daha_cok_eglenir%21__bes_gunluk_f.l.a.r.g"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Go Young, West Man! / Birthday Wish!",
+      "diziid": "aba",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/65/gencles_west_adam%21__dogum_gunu_dilegi%21"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Timmy's 2-D House of Horror / It's a Wishful Life",
+      "diziid": "aba",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/66/timmynin_iki_boyutlu_korkular_evi__dilek_dolu_yasam"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Escape from Unwish Island / The Gland Plan",
+      "diziid": "aba",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/67/dilenmemis_adasindan_kacis__buyuk_plan"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Hassle in the Castle / Remy Rides Again",
+      "diziid": "aba",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/68/kalede_mucadele__remy_donuyor"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Talkin' Trash / Timmy TV",
+      "diziid": "aba",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/69/kirli_konusma__timmy_tv"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Crash Nebula",
+      "diziid": "aba",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/70/nebula_patlamasi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Mooooving Day / Big Wanda",
+      "diziid": "aba",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/71/tasinma_gunu__buyuk_wanda"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Oh, Brother! / What's the Difference?",
+      "diziid": "aba",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/72/ah%2C_agabey%21__farki_bulun"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Smart Attack! / Operation F.U.N.",
+      "diziid": "aba",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/73/bilgi_saldirisi%21__eglence_operasyonu"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Something's Fishy! / Presto Change-O",
+      "diziid": "aba",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/74/balik_gibi_bir_sey%21__hizli_degisim"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The \"Good Old Days!\" / Future Lost",
+      "diziid": "aba",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/75/eski_guzel_gunler__kayip_gelecek"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "Fairy Idol! (Part 1)",
+      "diziid": "aba",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/77/peri_super_star%21_1.bolum"
+    },
+    {
+      "season": 20,
+      "episode": 18,
+      "title": "Timmy the Barbarian! / No Substitute for Crazy!",
+      "diziid": "aba",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/80/barbar_timmy%21__delinin_yeri_doldurulamaz"
+    },
+    {
+      "season": 1,
+      "episode": 19,
+      "title": "Fairly OddBaby (Part 1)",
+      "diziid": "aba",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/81/garip_bebek_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 20,
+      "title": "Fairly OddBaby (Part 2)",
+      "diziid": "aba",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/82/bebek_fairly_2.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 21,
+      "title": "Mission Responsible / Hairicane",
+      "diziid": "aba",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/83/gorevimiz_bakicilik__sac_faciasi"
+    },
+    {
+      "season": 4,
+      "episode": 22,
+      "title": "Open Wide and Say Aaagh! / Odd Pirates",
+      "diziid": "aba",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/84/kocaman_ac_ve_aaa_de%21__tuhaf_korsanlar"
+    },
+    {
+      "season": 5,
+      "episode": 23,
+      "title": "Fairly Oddlympics",
+      "diziid": "aba",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/85/peri_olimpiyatlari"
+    },
+    {
+      "season": 6,
+      "episode": 24,
+      "title": "The Odd Squad / For Emergencies Only",
+      "diziid": "aba",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/86/tuhaf_ekip__sadece_acil_durumlar_icin"
+    },
+    {
+      "season": 7,
+      "episode": 25,
+      "title": "Cheese & Crockers / Land Before Timmy",
+      "diziid": "aba",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/87/peynir_ve_crockers__timmyden_onceki_diyarlar"
+    },
+    {
+      "season": 9,
+      "episode": 26,
+      "title": "King Chang / The End of the Universe-ity",
+      "diziid": "aba",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/89/kral_chang__universite_bitiyor"
+    },
+    {
+      "season": 10,
+      "episode": 27,
+      "title": "Sooper Poof / Wishing Well",
+      "diziid": "aba",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/90/super_poof__dilek_satosu"
+    },
+    {
+      "season": 11,
+      "episode": 28,
+      "title": "Wishy Washy / Poof's Playdate",
+      "diziid": "aba",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/91/sihirli_oto_yikama__poofun_oyun_arkadasi"
+    },
+    {
+      "season": 12,
+      "episode": 29,
+      "title": "Vicky Gets Fired / Chindred Spirits",
+      "diziid": "aba",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/92/vicky_kovuluyor__kahraman_chin"
+    },
+    {
+      "season": 13,
+      "episode": 30,
+      "title": "9 Lives / Dread 'n' Breakfast",
+      "diziid": "aba",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/93/9_canli_kedi%21__tuhaf_misafirler"
+    },
+    {
+      "season": 14,
+      "episode": 31,
+      "title": "Birthday Bashed / Momnipresent",
+      "diziid": "aba",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/94/dogum_gunu_telasi%21__eylul_festivali"
+    },
+    {
+      "season": 15,
+      "episode": 32,
+      "title": "Wishology: The Big Beginning (Part 1)",
+      "diziid": "aba",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/95/buyuk_baslangic_bolum_1"
+    },
+    {
+      "season": 16,
+      "episode": 33,
+      "title": "Wishology: The Big Beginning (Part 2)",
+      "diziid": "aba",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/96/buyuk_baslangic_bolum_2"
+    },
+    {
+      "season": 17,
+      "episode": 34,
+      "title": "Wishology: The Exciting Middle Part (Part 1)",
+      "diziid": "aba",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/97/heyecan_verici_orta_bolum%2C_bolum_1"
+    },
+    {
+      "season": 18,
+      "episode": 35,
+      "title": "Wishology: The Exciting Middle Part (Part 2)",
+      "diziid": "aba",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/98/heyecan_verici_orta_bolum%2C_bolum_2"
+    },
+    {
+      "season": 19,
+      "episode": 36,
+      "title": "Wishology: The Final Ending (Part 1)",
+      "diziid": "aba",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/99/en_son%2C_bolum_1"
+    },
+    {
+      "season": 20,
+      "episode": 37,
+      "title": "Wishology: The Final Ending (Part 2)",
+      "diziid": "aba",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/100/en_son%2C_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 38,
+      "title": "Anti-Poof",
+      "diziid": "aba",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/101/anti_poof"
+    },
+    {
+      "season": 2,
+      "episode": 39,
+      "title": "Add-a-Dad / Squirrely Puffs",
+      "diziid": "aba",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/102/bir_baba_daha_ekle__sincap_puff"
+    },
+    {
+      "season": 3,
+      "episode": 40,
+      "title": "Mice-Capades / Formula for Disaster",
+      "diziid": "aba",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/103/kedi_fare_oyunu__felaket_formulu"
+    },
+    {
+      "season": 4,
+      "episode": 41,
+      "title": "Bad Heir Day / Freaks and Greeks",
+      "diziid": "aba",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/104/crocker_kendine_bir_varis_ariyor__kaciklar_ve_yunanlar"
+    },
+    {
+      "season": 5,
+      "episode": 42,
+      "title": "Fly Boy / Temporary Fairy",
+      "diziid": "aba",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/105/ucan_cocuk__gecici_peri"
+    },
+    {
+      "season": 6,
+      "episode": 43,
+      "title": "Crocker Shocker / Super Zero",
+      "diziid": "aba",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/106/crocker_soku__super_sifir"
+    },
+    {
+      "season": 7,
+      "episode": 44,
+      "title": "Dadbra-Cadabra / Timmy Turnip",
+      "diziid": "aba",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/107/baba_kadabra__turp_timmy"
+    },
+    {
+      "season": 8,
+      "episode": 45,
+      "title": "One Man Banned / Frenemy Mine",
+      "diziid": "aba",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/108/istenmeyen_adam__dusman_arkadasim_benim"
+    },
+    {
+      "season": 9,
+      "episode": 46,
+      "title": "Chicken Poofs / Stupid Cupid",
+      "diziid": "aba",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/109/tavuk_nezlesi__sapsal_ask_tanrisi"
+    },
+    {
+      "season": 10,
+      "episode": 47,
+      "title": "Double-Oh Schnozmo! / Planet Poof",
+      "diziid": "aba",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/110/00-schnozmo%21__gezegen_poof"
+    },
+    {
+      "season": 11,
+      "episode": 48,
+      "title": "The Boss of Me / He Poofs, He Scores",
+      "diziid": "aba",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/111/kendi_patronum__top_oynuyor_ve_sayi_yapiyor%21"
+    },
+    {
+      "season": 12,
+      "episode": 49,
+      "title": "Playdate of Doom / Teacher's Pet",
+      "diziid": "aba",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/112/kaderle_oyun_arkadasi_olmak__ogretmenin_gozdesi"
+    },
+    {
+      "season": 13,
+      "episode": 50,
+      "title": "Manic Mom-Day / Crocker of Gold",
+      "diziid": "aba",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/113/bir_gun_icin_anne_olmak__bay_crocker_ve_bir_comlek_altin"
+    },
+    {
+      "season": 14,
+      "episode": 51,
+      "title": "Beach Blanket Bozos / Poltergeeks",
+      "diziid": "aba",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/114/anne_babanin_sorf_rekabeti__afacan_periler"
+    },
+    {
+      "season": 15,
+      "episode": 52,
+      "title": "Old Man and the C- / Balance of Flour",
+      "diziid": "aba",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/115/ihtiyar_adam_ve_c__un_dengesi"
+    },
+    {
+      "season": 16,
+      "episode": 53,
+      "title": "Food Fight / Please Don't Feed the Turners",
+      "diziid": "aba",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/116/yemek_savasi__lutfen_turnerlara_yemek_vermeyin"
+    },
+    {
+      "season": 17,
+      "episode": 54,
+      "title": "Take and Fake / Cosmo Rules",
+      "diziid": "aba",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/117/degisim_aygiti__cosmo_kurallari"
+    },
+    {
+      "season": 18,
+      "episode": 55,
+      "title": "Lights Out / Dad Overboard",
+      "diziid": "aba",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/118/isiklar_sonunce__baba_hep_yanlis_yoldan_gider"
+    },
+    {
+      "season": 19,
+      "episode": 56,
+      "title": "Farm Pit / Crock Talk",
+      "diziid": "aba",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/119/timmy_ciftlik_isletiyor__crockerin_gosterisi"
+    },
+    {
+      "season": 20,
+      "episode": 57,
+      "title": "Spellementary School / Operation Dinkleberg",
+      "diziid": "aba",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/120/tamamlayici_okul__dinkleberg_operasyonu"
+    },
+    {
+      "season": 1,
+      "episode": 58,
+      "title": "Love Triangle",
+      "diziid": "aba",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/121/ask_ucgeni"
+    },
+    {
+      "season": 4,
+      "episode": 59,
+      "title": "Invasion of the Dads",
+      "diziid": "aba",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/124/babalarin_istilasi"
+    },
+    {
+      "season": 5,
+      "episode": 60,
+      "title": "When L.O.S.E.R.S. Attack",
+      "diziid": "aba",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/125/kaybedenlerin_saldirisi"
+    },
+    {
+      "season": 6,
+      "episode": 61,
+      "title": "Meet the OddParents",
+      "diziid": "aba",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/126/tuhaf_ailemle_tanisin"
+    },
+    {
+      "season": 1,
+      "episode": 62,
+      "title": "Fairly OddPet",
+      "diziid": "aba",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/127/hayvanlarimiz_bir_acayip"
+    },
+    {
+      "season": 2,
+      "episode": 63,
+      "title": "Dinklescouts! / I Dream of Cosmo",
+      "diziid": "aba",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/128/dinkle_izcileri__cosmoyu_duslerim"
+    },
+    {
+      "season": 3,
+      "episode": 64,
+      "title": "Turner & Pooch / Dumbbell Curve",
+      "diziid": "aba",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/129/tuner_ve_pooch__halter_egrisi"
+    },
+    {
+      "season": 4,
+      "episode": 65,
+      "title": "The Terrible Twosome / App Trap",
+      "diziid": "aba",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/130/korkunc_ikili__uygulama_tuzagi"
+    },
+    {
+      "season": 5,
+      "episode": 66,
+      "title": "Force of Nature / Viral Vidiots",
+      "diziid": "aba",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/131/dogal_afet__internet_cilginligi"
+    },
+    {
+      "season": 6,
+      "episode": 67,
+      "title": "Scary GodCouple",
+      "diziid": "aba",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/132/korkunc_ebeveynler"
+    },
+    {
+      "season": 7,
+      "episode": 68,
+      "title": "Two and a Half Babies / Anchors Away",
+      "diziid": "aba",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/133/iki_bucuk_bebek___uzaklik"
+    },
+    {
+      "season": 8,
+      "episode": 69,
+      "title": "Finding Emo / Dust Busters",
+      "diziid": "aba",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/134/emoyu_bulmak__toz_avcilari"
+    },
+    {
+      "season": 9,
+      "episode": 70,
+      "title": "The Bored Identity / Country Clubbed",
+      "diziid": "aba",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/135/bikkin_kimik__kasaba_kulubu"
+    },
+    {
+      "season": 10,
+      "episode": 71,
+      "title": "Dog Gone / Turner Back Time",
+      "diziid": "aba",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/136/kopek_pesinde__turner_zamanda_geriye_gidiyor"
+    },
+    {
+      "season": 11,
+      "episode": 72,
+      "title": "Cosmonopoly / Hero Hound",
+      "diziid": "aba",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/137/cosmonoply__kahraman_kopek"
+    },
+    {
+      "season": 12,
+      "episode": 73,
+      "title": "A Boy and His Dog-Boy / Crock Blocked",
+      "diziid": "aba",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/138/kopekli_onun_kopek_cocugu__crock_engellendi"
+    },
+    {
+      "season": 13,
+      "episode": 74,
+      "title": "Weirdos on a Train / Tons of Timmys",
+      "diziid": "aba",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/139/trendeki_catlaklar__bir_suru_timmy"
+    },
+    {
+      "season": 14,
+      "episode": 75,
+      "title": "Let Sleeper Dogs Lie / Cat-Astrophe",
+      "diziid": "aba",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/140/uyuyan_kopekler_yalan_soylesin__fela-kedi"
+    },
+    {
+      "season": 15,
+      "episode": 76,
+      "title": "Lame Ducks / A Perfect Nightmare",
+      "diziid": "aba",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/141/topal_ordekler__mukemmel_kabus"
+    },
+    {
+      "season": 16,
+      "episode": 77,
+      "title": "Love at First Bark / Desperate Without Housewives",
+      "diziid": "aba",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/142/ilk_havlamada_ask__ev_kadinlari_olmadan_durum_umutsuz"
+    },
+    {
+      "season": 17,
+      "episode": 78,
+      "title": "Jerk of All Trades / Snack Attack",
+      "diziid": "aba",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/143/elinden_her_is_gelmez__abur_cubur_belasi"
+    },
+    {
+      "season": 18,
+      "episode": 79,
+      "title": "Turning into Turner / The Wand That Got Away",
+      "diziid": "aba",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/144/turnera_donusmek__kacan_degnek_buyuk_olur"
+    },
+    {
+      "season": 19,
+      "episode": 80,
+      "title": "Stage Fright / Gone Flushin'",
+      "diziid": "aba",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/145/sahne_korkusu__sifonu_cekmek"
+    },
+    {
+      "season": 20,
+      "episode": 81,
+      "title": "Fairly Old Parent",
+      "diziid": "aba",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/146/acayip_anne"
+    },
+    {
+      "season": 21,
+      "episode": 82,
+      "title": "School of Crock",
+      "diziid": "aba",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/147/crockin_okulu"
+    },
+    {
+      "season": 22,
+      "episode": 83,
+      "title": "Dimmsdale Tales",
+      "diziid": "aba",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/148/dimmsdale_hikayeleri"
+    },
+    {
+      "season": 23,
+      "episode": 84,
+      "title": "The Past and the Furious",
+      "diziid": "aba",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/149/gecmis_ve_ofkeli"
+    },
+    {
+      "season": 24,
+      "episode": 85,
+      "title": "The Fairy Beginning",
+      "diziid": "aba",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/150/peri_baslangic"
+    },
+    {
+      "season": 25,
+      "episode": 86,
+      "title": "Fairly Odd Fairy Tales",
+      "diziid": "aba",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/151/peri_hikayeleri"
+    },
+    {
+      "season": 26,
+      "episode": 87,
+      "title": "Man's Worst Friend",
+      "diziid": "aba",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/152/adamin_en_kotu_arkadasi"
+    },
+    {
+      "season": 1,
+      "episode": 88,
+      "title": "The Big Fairy Share Scare!",
+      "diziid": "aba",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/153/buyuk_peri_paylasma_korkusu"
+    },
+    {
+      "season": 2,
+      "episode": 89,
+      "title": "Whittle Me This! / Mayor May Not",
+      "diziid": "aba",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/154/bana_bunu_yont%21__baskan_olmayabilir"
+    },
+    {
+      "season": 3,
+      "episode": 90,
+      "title": "Girly Squirrely / Birthday Battle: Transmorphers Versus Unicorns",
+      "diziid": "aba",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/155/uslu_kiz_izciler__dogum_gunu_savasi"
+    },
+    {
+      "season": 4,
+      "episode": 91,
+      "title": "The Fair Bears / Return of the L.O.S.E.R.S.",
+      "diziid": "aba",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/156/adil_ayilar__kaybedenlerin_donusu"
+    },
+    {
+      "season": 5,
+      "episode": 92,
+      "title": "A Sash and a Rash / Fish Out of Water",
+      "diziid": "aba",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/157/kusak_ve_kasinti__sudan_cikmis_balik"
+    },
+    {
+      "season": 6,
+      "episode": 93,
+      "title": "Animal Crockers / One Flu Over the Crocker's Nest",
+      "diziid": "aba",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/158/hayvan_crockerlar__guguk_kusu_crocker"
+    },
+    {
+      "season": 7,
+      "episode": 94,
+      "title": "Booby Trapped",
+      "diziid": "aba",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/159/bubi_tuzaklari"
+    },
+    {
+      "season": 8,
+      "episode": 95,
+      "title": "Blue Angel / Marked Man",
+      "diziid": "aba",
+      "bolum": "160",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/160/mavi_melek__isaretli_adam"
+    },
+    {
+      "season": 9,
+      "episode": 96,
+      "title": "Clark Laser / Married to the Mom",
+      "diziid": "aba",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/161/clark_laser__anne_ile_evlilik"
+    },
+    {
+      "season": 10,
+      "episode": 97,
+      "title": "Which Is Wish / Nuts and Dangerous",
+      "diziid": "aba",
+      "bolum": "162",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/162/dilegim_bu__cilgin_ve_tehlikeli"
+    },
+    {
+      "season": 11,
+      "episode": 98,
+      "title": "Fairy Con / The Hungry Games",
+      "diziid": "aba",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/163/peri_senligi__aclarin_oyunu"
+    },
+    {
+      "season": 12,
+      "episode": 99,
+      "title": "Spring Break-Up / Dimmsdale Daze",
+      "diziid": "aba",
+      "bolum": "164",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/164/bahar_tatili__dimmsdale_daze"
+    },
+    {
+      "season": 13,
+      "episode": 100,
+      "title": "Cat 'n Mouse / Chip Off the Old Crock!",
+      "diziid": "aba",
+      "bolum": "165",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/165/kedi_ve_fare__hik_demis_burnundan_dusmus%21"
+    },
+    {
+      "season": 14,
+      "episode": 101,
+      "title": "Space Ca-Dad / Summer Bummer",
+      "diziid": "aba",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/166/uzayin_sersem_babasi__yaz_bombasi"
+    },
+    {
+      "season": 15,
+      "episode": 102,
+      "title": "Hare Raiser / The Kale Patch Caper",
+      "diziid": "aba",
+      "bolum": "167",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/167/tavsan_dehseti__lahana_tarlasi_hirsizlari"
+    },
+    {
+      "season": 16,
+      "episode": 103,
+      "title": "Dadlantis / Chloe Rules!",
+      "diziid": "aba",
+      "bolum": "168",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/168/babalantis__chloe_kurallari%21"
+    },
+    {
+      "season": 17,
+      "episode": 104,
+      "title": "Crockin' the House / Tardy Sauce",
+      "diziid": "aba",
+      "bolum": "169",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/169/evi_sallamak__tardy_sosu"
+    },
+    {
+      "season": 18,
+      "episode": 105,
+      "title": "Knitwits / Dimmsdale's Got Talent?",
+      "diziid": "aba",
+      "bolum": "170",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/170/orgutluler__yetenek_sensin_dimsdale"
+    },
+    {
+      "season": 19,
+      "episode": 106,
+      "title": "Certifiable Super Sitter",
+      "diziid": "aba",
+      "bolum": "171",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/171/akil_hastasi_super_bakici_grubu"
+    },
+    {
+      "season": 20,
+      "episode": 107,
+      "title": "Goldie-Crocks and the Three Fair Bears / Fancy Schmancy",
+      "diziid": "aba",
+      "bolum": "172",
+      "url": "https://cizgivedizi.com/dizi/aba/ailem_bir_acayip/172/goldie-crocklar_ve_uc_peri_ayi__parlak_sozler"
+    }
+  ]
+}

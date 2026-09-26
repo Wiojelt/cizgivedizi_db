@@ -1,0 +1,141 @@
+{
+  "id": "abbv",
+  "title": "artÄ±k ben bir vampirim",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/ABBVPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Korku",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "abbv",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/abbv/artik_ben_bir_vampirim/1/pilot_bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Power Play",
+      "diziid": "abbv",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/abbv/artik_ben_bir_vampirim/2/guc_gosterisi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Mirror Mirror",
+      "diziid": "abbv",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/abbv/artik_ben_bir_vampirim/3/ayna_ayna"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Siblings",
+      "diziid": "abbv",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/abbv/artik_ben_bir_vampirim/4/kardesler"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Family Tree",
+      "diziid": "abbv",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/abbv/artik_ben_bir_vampirim/5/soyagaci"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Creature Feature",
+      "diziid": "abbv",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/abbv/artik_ben_bir_vampirim/6/yaratik_ozelligi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Uncovered",
+      "diziid": "abbv",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/abbv/artik_ben_bir_vampirim/7/gercekler"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Musical",
+      "diziid": "abbv",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/abbv/artik_ben_bir_vampirim/8/muzikal"
+    },
+    {
+      "season": 1,
+      "episode": 9,
+      "title": "My People",
+      "diziid": "abbv",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/abbv/artik_ben_bir_vampirim/9/lisenin_ilk_gunu"
+    },
+    {
+      "season": 2,
+      "episode": 10,
+      "title": "Track and Steal",
+      "diziid": "abbv",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/abbv/artik_ben_bir_vampirim/10/atletizm_takimi"
+    },
+    {
+      "season": 3,
+      "episode": 11,
+      "title": "The Dance",
+      "diziid": "abbv",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/abbv/artik_ben_bir_vampirim/11/dans"
+    },
+    {
+      "season": 4,
+      "episode": 12,
+      "title": "Wild and Free",
+      "diziid": "abbv",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/abbv/artik_ben_bir_vampirim/12/vahsi_ve_ozgur"
+    },
+    {
+      "season": 5,
+      "episode": 13,
+      "title": "Secrets and Lies",
+      "diziid": "abbv",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/abbv/artik_ben_bir_vampirim/13/sirlar_ve_yalanlar"
+    },
+    {
+      "season": 6,
+      "episode": 14,
+      "title": "Vamptitude",
+      "diziid": "abbv",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/abbv/artik_ben_bir_vampirim/14/vampirlik_becerisi"
+    },
+    {
+      "season": 7,
+      "episode": 15,
+      "title": "Fan Con",
+      "diziid": "abbv",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/abbv/artik_ben_bir_vampirim/15/hayran_bulusmasi"
+    },
+    {
+      "season": 8,
+      "episode": 16,
+      "title": "Family Reunion",
+      "diziid": "abbv",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/abbv/artik_ben_bir_vampirim/16/aile_kavusmasi"
+    }
+  ]
+}

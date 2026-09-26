@@ -1,0 +1,1228 @@
+{
+  "id": "cdrc",
+  "title": "cedric",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/CEDRICPoster.avif",
+  "channel": "Cine 5",
+  "genres": [
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "I Love School",
+      "diziid": "cdrc",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/1/okulu_seviyorum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "I Want to Marry Her",
+      "diziid": "cdrc",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/2/onunla_evlenmek_istiyorum"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "A Pebble in a Shoe",
+      "diziid": "cdrc",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/3/ayakkabidaki_tas"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Tiberius Versus Caligula",
+      "diziid": "cdrc",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/4/tiberus_ve_caligula"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The School Dance",
+      "diziid": "cdrc",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/5/okul_dansi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Closecut Friends",
+      "diziid": "cdrc",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/6/yakin_kesim_arkadaslari"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Picture",
+      "diziid": "cdrc",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/7/fotograf"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "For Chen's Sake",
+      "diziid": "cdrc",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/8/chen_icin"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Three Cheers for Sports",
+      "diziid": "cdrc",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/9/spor_icin_uc_cagri"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Pilot",
+      "diziid": "cdrc",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/10/pilot"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "I Hate Him!",
+      "diziid": "cdrc",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/11/ondan_nefret_ediyorum%21"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "My Dad's an Astronaut!",
+      "diziid": "cdrc",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/12/babam_bir_astronot"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "I Don't Like Vacation",
+      "diziid": "cdrc",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/13/tatilden_hoslanmiyorum"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "In Style",
+      "diziid": "cdrc",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/14/modaya_uygun"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Blackmail",
+      "diziid": "cdrc",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/15/santaj"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "It's Tough to Be an Artist",
+      "diziid": "cdrc",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/16/bir_sanatci_olmak_zor"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "No Jealous, Just!",
+      "diziid": "cdrc",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/17/kiskanclik_yok%21"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "My Cousin Yolanda",
+      "diziid": "cdrc",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/18/kuzen_yolanda"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Lovesick",
+      "diziid": "cdrc",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/19/ask_hastaligi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Poppy Puts His Foot Down",
+      "diziid": "cdrc",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/20/buyukbaba_ayaklari_uzerine_dusuyor"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Breadwinner",
+      "diziid": "cdrc",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/21/ev_gecindiren"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Keep 'em Rollin'!",
+      "diziid": "cdrc",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/22/devam_edin%21"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "I Want a Horse",
+      "diziid": "cdrc",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/23/bir_at_istiyorum"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Poppy Makes a Break for It",
+      "diziid": "cdrc",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/24/buyukbaba_kaciyor"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Lovehurts",
+      "diziid": "cdrc",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/25/ask_acisi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Vote for Cedric",
+      "diziid": "cdrc",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/26/cedrice_oy_verin"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "The Damsel and the Geisha",
+      "diziid": "cdrc",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/27/damsel_ve_geisha"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "The Poor Sport",
+      "diziid": "cdrc",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/28/kotu_sporcu"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "The New Kid",
+      "diziid": "cdrc",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/29/yeni_cocuk"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "A Delicate Young Lady",
+      "diziid": "cdrc",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/30/zarif_genc_bayan"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "The Hard-Worker Deserves Good Wages",
+      "diziid": "cdrc",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/31/iyi_ucreti_hak_eden_caliskan"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "The Showoff",
+      "diziid": "cdrc",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/32/gosterisci"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "It's All in Your Head",
+      "diziid": "cdrc",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/33/her_sey_kafanizda"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Ring-a-Ding-Ding",
+      "diziid": "cdrc",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/34/zil_sesi"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "The Proof of Love",
+      "diziid": "cdrc",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/35/askin_kaniti"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "One a Big Deal",
+      "diziid": "cdrc",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/36/buyuk_bir_is"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Brains and Brawn",
+      "diziid": "cdrc",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/37/beyin_ve_kas"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "One Sweet New Year's",
+      "diziid": "cdrc",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/38/tatli_yeni_yil"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "SOS TV",
+      "diziid": "cdrc",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/39/s.o.s._tv"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Take It Easy, Poppy",
+      "diziid": "cdrc",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/40/rahat_ol%2C_buyukbaba"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Capricious Caprice",
+      "diziid": "cdrc",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/41/degisken_kapris"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Keeping Up with the Bladers",
+      "diziid": "cdrc",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/42/kizlara_uyum_saglamak"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Movie Madness",
+      "diziid": "cdrc",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/43/film_cilginligi"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Love Letters",
+      "diziid": "cdrc",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/44/ask_mektuplari"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Poppy Spies on Me",
+      "diziid": "cdrc",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/45/buyukbaba_beni_gozluyor"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "The Rally",
+      "diziid": "cdrc",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/46/ralli"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Poppy's Sulking",
+      "diziid": "cdrc",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/47/buyukbaba_huysuzlaniyor"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Our Animal Friends",
+      "diziid": "cdrc",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/48/hayvan_arkadaslarimiz"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Boy It's Tough Being Eight",
+      "diziid": "cdrc",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/49/sekiz_yasinda_olmak_zor"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Class Struggle",
+      "diziid": "cdrc",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/50/sinif_mucadelesi"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Becoming Somebody",
+      "diziid": "cdrc",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/51/kimse_olmak"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "It's My Party and I'll Lie if I Want To",
+      "diziid": "cdrc",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/52/bu_benim_partim_ve_ben_istersem_yalan_soylerim"
+    },
+    {
+      "season": 1,
+      "episode": 53,
+      "title": "Mister Fixit",
+      "diziid": "cdrc",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/53/usta_tamirci"
+    },
+    {
+      "season": 2,
+      "episode": 54,
+      "title": "Keeping Poppy Happy",
+      "diziid": "cdrc",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/54/buyukbabayi_mutlu_etmek"
+    },
+    {
+      "season": 3,
+      "episode": 55,
+      "title": "And Don't Forget to Brush",
+      "diziid": "cdrc",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/55/fircalamayi_unutma"
+    },
+    {
+      "season": 4,
+      "episode": 56,
+      "title": "Love on a Scooter",
+      "diziid": "cdrc",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/56/bir_scooter_aski"
+    },
+    {
+      "season": 5,
+      "episode": 57,
+      "title": "The Big Race",
+      "diziid": "cdrc",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/57/buyuk_yaris"
+    },
+    {
+      "season": 6,
+      "episode": 58,
+      "title": "Kidnapping",
+      "diziid": "cdrc",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/58/kacirma%21"
+    },
+    {
+      "season": 7,
+      "episode": 59,
+      "title": "Insomnia",
+      "diziid": "cdrc",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/59/uykusuzluk"
+    },
+    {
+      "season": 8,
+      "episode": 60,
+      "title": "Just Like on TV",
+      "diziid": "cdrc",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/60/sanki_televizyondaki_gibi"
+    },
+    {
+      "season": 9,
+      "episode": 61,
+      "title": "A Sweetheart of a Mouse",
+      "diziid": "cdrc",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/61/tatli_bir_fare"
+    },
+    {
+      "season": 10,
+      "episode": 62,
+      "title": "The New Kid",
+      "diziid": "cdrc",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/62/yeni_cocuk"
+    },
+    {
+      "season": 11,
+      "episode": 63,
+      "title": "Star Dancer",
+      "diziid": "cdrc",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/63/yildiz_dansci"
+    },
+    {
+      "season": 12,
+      "episode": 64,
+      "title": "Back to the Wall",
+      "diziid": "cdrc",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/64/duvara_sirtini_daya"
+    },
+    {
+      "season": 13,
+      "episode": 65,
+      "title": "Take a Hike!",
+      "diziid": "cdrc",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/65/yuruyuse_cik%21"
+    },
+    {
+      "season": 14,
+      "episode": 66,
+      "title": "Cedric Bounces Back",
+      "diziid": "cdrc",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/66/cedric_geri_zipliyor"
+    },
+    {
+      "season": 15,
+      "episode": 67,
+      "title": "Crash-in Bores",
+      "diziid": "cdrc",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/67/kaza_delileri"
+    },
+    {
+      "season": 16,
+      "episode": 68,
+      "title": "Yay! Mom's Got a Job!",
+      "diziid": "cdrc",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/68/yasasin%21_annem_is_buldu%21"
+    },
+    {
+      "season": 17,
+      "episode": 69,
+      "title": "The Divorce",
+      "diziid": "cdrc",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/69/bosanma"
+    },
+    {
+      "season": 18,
+      "episode": 70,
+      "title": "Like an Old Slipper",
+      "diziid": "cdrc",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/70/eski_terlik_gibi"
+    },
+    {
+      "season": 19,
+      "episode": 71,
+      "title": "Tomahawk and Moccasins",
+      "diziid": "cdrc",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/71/tomahawk_ve_mokasenler"
+    },
+    {
+      "season": 20,
+      "episode": 72,
+      "title": "Moving",
+      "diziid": "cdrc",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/72/tasinma"
+    },
+    {
+      "season": 21,
+      "episode": 73,
+      "title": "A Man Around the Horse",
+      "diziid": "cdrc",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/73/evde_erkek_olmak"
+    },
+    {
+      "season": 22,
+      "episode": 74,
+      "title": "The Orange Vase",
+      "diziid": "cdrc",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/74/turuncu_vazo"
+    },
+    {
+      "season": 23,
+      "episode": 75,
+      "title": "Like Father, Like Son",
+      "diziid": "cdrc",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/75/babam_gibi"
+    },
+    {
+      "season": 24,
+      "episode": 76,
+      "title": "Man Overboard",
+      "diziid": "cdrc",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/76/denize_dusmek%21"
+    },
+    {
+      "season": 25,
+      "episode": 77,
+      "title": "The Visit of the Great Aunt",
+      "diziid": "cdrc",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/77/buyuk_teyzenin_ziyareti"
+    },
+    {
+      "season": 26,
+      "episode": 78,
+      "title": "The Potion with the Motion",
+      "diziid": "cdrc",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/78/hareketli_iksir"
+    },
+    {
+      "season": 27,
+      "episode": 79,
+      "title": "Darned Report Card",
+      "diziid": "cdrc",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/79/kotu_karne%21"
+    },
+    {
+      "season": 28,
+      "episode": 80,
+      "title": "Mailsafe",
+      "diziid": "cdrc",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/80/posta_guvenligi"
+    },
+    {
+      "season": 29,
+      "episode": 81,
+      "title": "The Puzzle",
+      "diziid": "cdrc",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/81/bulmaca"
+    },
+    {
+      "season": 30,
+      "episode": 82,
+      "title": "My Ancestors",
+      "diziid": "cdrc",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/82/atalarim"
+    },
+    {
+      "season": 31,
+      "episode": 83,
+      "title": "Love and Tweezers",
+      "diziid": "cdrc",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/83/ask_ve_cimbizlar"
+    },
+    {
+      "season": 32,
+      "episode": 84,
+      "title": "Hand in Hand",
+      "diziid": "cdrc",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/84/el_ele"
+    },
+    {
+      "season": 33,
+      "episode": 85,
+      "title": "On Foot Or By Car",
+      "diziid": "cdrc",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/85/yuruyerek_mi%2C_arabayla_mi"
+    },
+    {
+      "season": 34,
+      "episode": 86,
+      "title": "Friends to the End",
+      "diziid": "cdrc",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/86/sonsuza_kadar_arkadaslar"
+    },
+    {
+      "season": 35,
+      "episode": 87,
+      "title": "Cookin' With Gag",
+      "diziid": "cdrc",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/87/gazla_yemek_pisirme"
+    },
+    {
+      "season": 36,
+      "episode": 88,
+      "title": "Breaking Up is Hard to be Done To",
+      "diziid": "cdrc",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/88/ayrilik_kolay_degil"
+    },
+    {
+      "season": 38,
+      "episode": 89,
+      "title": "Getting the Wrinkle of It",
+      "diziid": "cdrc",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/90/kirisikliklarin_sirri"
+    },
+    {
+      "season": 39,
+      "episode": 90,
+      "title": "The Lucky Charm",
+      "diziid": "cdrc",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/91/sansli_tilsim"
+    },
+    {
+      "season": 40,
+      "episode": 91,
+      "title": "A History Lesson",
+      "diziid": "cdrc",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/92/tarih_dersi"
+    },
+    {
+      "season": 41,
+      "episode": 92,
+      "title": "What Tempers!",
+      "diziid": "cdrc",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/93/ne_ofke_ama%21"
+    },
+    {
+      "season": 42,
+      "episode": 93,
+      "title": "Cats, Cats, Cats",
+      "diziid": "cdrc",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/94/kediler%2C_kediler%2C_kediler"
+    },
+    {
+      "season": 43,
+      "episode": 94,
+      "title": "A Brilliant Idea!",
+      "diziid": "cdrc",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/95/parlak_bir_fikir%21"
+    },
+    {
+      "season": 44,
+      "episode": 95,
+      "title": "The Bet",
+      "diziid": "cdrc",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/96/bahis"
+    },
+    {
+      "season": 45,
+      "episode": 96,
+      "title": "A Promise is a Promise...",
+      "diziid": "cdrc",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/97/soz_soz%21"
+    },
+    {
+      "season": 46,
+      "episode": 97,
+      "title": "Scare Her!",
+      "diziid": "cdrc",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/98/korkut_onu%21"
+    },
+    {
+      "season": 47,
+      "episode": 98,
+      "title": "I Love Winter",
+      "diziid": "cdrc",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/99/kisi_seviyorum"
+    },
+    {
+      "season": 48,
+      "episode": 99,
+      "title": "The End of the World",
+      "diziid": "cdrc",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/100/dunyanin_sonu"
+    },
+    {
+      "season": 49,
+      "episode": 100,
+      "title": "As Easy as a Phone Call",
+      "diziid": "cdrc",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/101/bir_telefon_gorusmesi_kadar_kolay"
+    },
+    {
+      "season": 50,
+      "episode": 101,
+      "title": "What Can You Do About Love?",
+      "diziid": "cdrc",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/102/ask_icin_ne_yapabilirsiniz"
+    },
+    {
+      "season": 51,
+      "episode": 102,
+      "title": "Alice",
+      "diziid": "cdrc",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/103/alice"
+    },
+    {
+      "season": 52,
+      "episode": 103,
+      "title": "Beauty and the Beast",
+      "diziid": "cdrc",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/104/guzellik_ve_cirkin"
+    },
+    {
+      "season": 4,
+      "episode": 104,
+      "title": "Birlikte GeÃ§irilen Zor GÃ¼nler!",
+      "diziid": "cdrc",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/108/birlikte_gecirilen_zor_gunler%21"
+    },
+    {
+      "season": 5,
+      "episode": 105,
+      "title": "HalÄ±",
+      "diziid": "cdrc",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/109/hali"
+    },
+    {
+      "season": 6,
+      "episode": 106,
+      "title": "DiÄŸer KÄ±zlar Gibi Bir Erkek",
+      "diziid": "cdrc",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/110/diger_kizlar_gibi_bir_erkek"
+    },
+    {
+      "season": 7,
+      "episode": 107,
+      "title": "Aslan DansÄ±",
+      "diziid": "cdrc",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/111/aslan_dansi"
+    },
+    {
+      "season": 8,
+      "episode": 108,
+      "title": "AÅŸk Ä°Ã§in SavaÅŸmak",
+      "diziid": "cdrc",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/112/ask_icin_savasmak"
+    },
+    {
+      "season": 9,
+      "episode": 109,
+      "title": "Karnaval MaceralarÄ±",
+      "diziid": "cdrc",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/113/karnaval_maceralari"
+    },
+    {
+      "season": 10,
+      "episode": 110,
+      "title": "MÄ±zÄ±kÃ§Ä±yÄ± SuskunlaÅŸtÄ±rmak",
+      "diziid": "cdrc",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/114/mizikciyi_suskunlastirmak"
+    },
+    {
+      "season": 11,
+      "episode": 111,
+      "title": "Kaygan HastalÄ±k",
+      "diziid": "cdrc",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/115/kaygan_hastalik"
+    },
+    {
+      "season": 12,
+      "episode": 112,
+      "title": "TadÄ±m Bir SÄ±nav mÄ±dÄ±r?",
+      "diziid": "cdrc",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/116/tadim_bir_sinav_midir"
+    },
+    {
+      "season": 13,
+      "episode": 113,
+      "title": "Eski AnÄ±lar",
+      "diziid": "cdrc",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/117/eski_anilar"
+    },
+    {
+      "season": 14,
+      "episode": 114,
+      "title": "Ä°ki KiÅŸilik Ã‡adÄ±r",
+      "diziid": "cdrc",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/118/iki_kisilik_cadir"
+    },
+    {
+      "season": 15,
+      "episode": 115,
+      "title": "Motor!",
+      "diziid": "cdrc",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/119/motor%21"
+    },
+    {
+      "season": 16,
+      "episode": 116,
+      "title": "Cedric'in DeÄŸiÅŸimi",
+      "diziid": "cdrc",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/120/cedricin_degisimi"
+    },
+    {
+      "season": 17,
+      "episode": 117,
+      "title": "Åov KÃ¶peÄŸi",
+      "diziid": "cdrc",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/121/sov_kopegi"
+    },
+    {
+      "season": 18,
+      "episode": 118,
+      "title": "Yeti EndiÅŸe GÃ¶sterdiÄŸinde",
+      "diziid": "cdrc",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/122/yeti_endise_gosterdiginde"
+    },
+    {
+      "season": 19,
+      "episode": 119,
+      "title": "Tatilde Analiz",
+      "diziid": "cdrc",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/123/tatilde_analiz"
+    },
+    {
+      "season": 20,
+      "episode": 120,
+      "title": "Hareket Halinde Olmak ZorundayÄ±z",
+      "diziid": "cdrc",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/124/hareket_halinde_olmak_zorundayiz"
+    },
+    {
+      "season": 21,
+      "episode": 121,
+      "title": "Genler Yalan SÃ¶ylemez",
+      "diziid": "cdrc",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/125/genler_yalan_soylemez"
+    },
+    {
+      "season": 22,
+      "episode": 122,
+      "title": "Bilinmeyen Yolculuk",
+      "diziid": "cdrc",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/126/bilinmeyen_yolculuk"
+    },
+    {
+      "season": 23,
+      "episode": 123,
+      "title": "Ä°yileÅŸtirici Ã–fke",
+      "diziid": "cdrc",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/127/iyilestirici_ofke"
+    },
+    {
+      "season": 24,
+      "episode": 124,
+      "title": "Cedric ve Bebekler",
+      "diziid": "cdrc",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/128/cedric_ve_bebekler"
+    },
+    {
+      "season": 25,
+      "episode": 125,
+      "title": "Cedric Ä°Ã§in Bir Taksi",
+      "diziid": "cdrc",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/129/cedric_icin_bir_taksi"
+    },
+    {
+      "season": 26,
+      "episode": 126,
+      "title": "Yeti'yi Kurtar",
+      "diziid": "cdrc",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/130/yetiyi_kurtar"
+    },
+    {
+      "season": 27,
+      "episode": 127,
+      "title": "UÃ§an Bir UÃ§urtma Yap",
+      "diziid": "cdrc",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/131/ucan_bir_ucurtma_yap"
+    },
+    {
+      "season": 28,
+      "episode": 128,
+      "title": "3 GÃ¼nde Bir KÄ±zÄ±n Sana AÅŸÄ±k OlmasÄ±nÄ± SaÄŸlamak",
+      "diziid": "cdrc",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/132/3_gunde_bir_kizin_sana_asik_olmasini_saglamak"
+    },
+    {
+      "season": 29,
+      "episode": 129,
+      "title": "Daha Fazla Ev Ã–devi LÃ¼tfen!",
+      "diziid": "cdrc",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/133/daha_fazla_ev_odevi_lutfen%21"
+    },
+    {
+      "season": 30,
+      "episode": 130,
+      "title": "Bayan Nelly'nin SorunlarÄ± Var",
+      "diziid": "cdrc",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/134/bayan_nellynin_sorunlari_var"
+    },
+    {
+      "season": 31,
+      "episode": 131,
+      "title": "Sihirli Cedric",
+      "diziid": "cdrc",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/135/sihirli_cedric"
+    },
+    {
+      "season": 32,
+      "episode": 132,
+      "title": "BÃ¼yÃ¼dÃ¼ÄŸÃ¼mde",
+      "diziid": "cdrc",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/136/buyudugumde"
+    },
+    {
+      "season": 33,
+      "episode": 133,
+      "title": "Ã–p ya da Anlat",
+      "diziid": "cdrc",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/137/op_ya_da_anlat"
+    },
+    {
+      "season": 34,
+      "episode": 134,
+      "title": "ÃœÃ§ Adam ve Bir Bebek",
+      "diziid": "cdrc",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/138/uc_adam_ve_bir_bebek"
+    },
+    {
+      "season": 35,
+      "episode": 135,
+      "title": "Kahin",
+      "diziid": "cdrc",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/139/kahin"
+    },
+    {
+      "season": 36,
+      "episode": 136,
+      "title": "GÃ¼l",
+      "diziid": "cdrc",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/140/gul"
+    },
+    {
+      "season": 37,
+      "episode": 137,
+      "title": "AÅŸkÄ±n DeÄŸeri Yoktur",
+      "diziid": "cdrc",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/141/askin_degeri_yoktur"
+    },
+    {
+      "season": 38,
+      "episode": 138,
+      "title": "GÃ¶rÃ¼nmez Cedric",
+      "diziid": "cdrc",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/142/gorunmez_cedric"
+    },
+    {
+      "season": 39,
+      "episode": 139,
+      "title": "PlajÄ± Berbat Etmek",
+      "diziid": "cdrc",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/143/plaji_berbat_etmek"
+    },
+    {
+      "season": 40,
+      "episode": 140,
+      "title": "YapÄ±ÅŸkan Bir Kapusin",
+      "diziid": "cdrc",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/144/yapiskan_bir_kapusin"
+    },
+    {
+      "season": 41,
+      "episode": 141,
+      "title": "TV'de GÃ¶rÃ¼ldÃ¼ÄŸÃ¼ Gibi",
+      "diziid": "cdrc",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/145/tvde_goruldugu_gibi"
+    },
+    {
+      "season": 42,
+      "episode": 142,
+      "title": "SÄ±nÄ±f FotoÄŸrafÄ±",
+      "diziid": "cdrc",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/146/sinif_fotografi"
+    },
+    {
+      "season": 43,
+      "episode": 143,
+      "title": "Hedef ÅaÅŸÄ±rtmak",
+      "diziid": "cdrc",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/147/hedef_sasirtmak"
+    },
+    {
+      "season": 44,
+      "episode": 144,
+      "title": "Ã‡evreci",
+      "diziid": "cdrc",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/148/cevreci"
+    },
+    {
+      "season": 45,
+      "episode": 145,
+      "title": "Takvimdeki Erkekler ve KÄ±zlar",
+      "diziid": "cdrc",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/149/takvimdeki_erkekler_ve_kizlar"
+    },
+    {
+      "season": 46,
+      "episode": 146,
+      "title": "HayÄ±r Ä°ÅŸi Evde BaÅŸlar",
+      "diziid": "cdrc",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/150/hayir_isi_evde_baslar"
+    },
+    {
+      "season": 47,
+      "episode": 147,
+      "title": "DanÄ±ÅŸman Cedric",
+      "diziid": "cdrc",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/151/danisman_cedric"
+    },
+    {
+      "season": 48,
+      "episode": 148,
+      "title": "Cedric'in KorkunÃ§ PlanÄ±",
+      "diziid": "cdrc",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/152/cedricin_korkunc_plani"
+    },
+    {
+      "season": 49,
+      "episode": 149,
+      "title": "KurtarÄ±cÄ± Cedric",
+      "diziid": "cdrc",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/153/kurtarici_cedric"
+    },
+    {
+      "season": 50,
+      "episode": 150,
+      "title": "Tam ZamanlÄ± Sorun",
+      "diziid": "cdrc",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/154/tam_zamanli_sorun"
+    },
+    {
+      "season": 51,
+      "episode": 151,
+      "title": "Bir ArkadaÅŸ SeÃ§ - Bir ArkadaÅŸ Kaybet",
+      "diziid": "cdrc",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/155/bir_arkadas_sec_-_bir_arkadas_kaybet"
+    },
+    {
+      "season": 52,
+      "episode": 152,
+      "title": "Abi OlacaÄŸÄ±m",
+      "diziid": "cdrc",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/cdrc/cedric/156/abi_olacagim"
+    }
+  ]
+}

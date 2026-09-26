@@ -1,0 +1,183 @@
+{
+  "id": "boss",
+  "title": "helluva boss",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BOSSPoster.avif",
+  "channel": "Prime Video",
+  "genres": [
+    "Komedi",
+    "Fantastik",
+    "MÃ¼zik/MÃ¼zikal",
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Murder Family",
+      "diziid": "boss",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/1/cinayet_ailesi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Loo Loo Land",
+      "diziid": "boss",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/2/loo_loo_land"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Spring Broken",
+      "diziid": "boss",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/3/bahar_tatili_mahvoldu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "C.H.E.R.U.B.",
+      "diziid": "boss",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/4/cocuk_melekler"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Harvest Moon Festival",
+      "diziid": "boss",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/5/hasat_ayi_festivali"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Truth Seekers",
+      "diziid": "boss",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/6/gercegi_arayanlar"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Ozzie's",
+      "diziid": "boss",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/7/ozzienin_yeri"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Queen Bee",
+      "diziid": "boss",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/8/kralice_bee"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Circus",
+      "diziid": "boss",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/9/sirk"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Seeing Stars",
+      "diziid": "boss",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/10/yildizlari_seyretmek"
+    },
+    {
+      "season": 1,
+      "episode": 11,
+      "title": "Exes and Oohs",
+      "diziid": "boss",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/11/ah_eski_sevgililer"
+    },
+    {
+      "season": 2,
+      "episode": 12,
+      "title": "Western Energy",
+      "diziid": "boss",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/12/bati_havasi"
+    },
+    {
+      "season": 3,
+      "episode": 13,
+      "title": "Unhappy Campers",
+      "diziid": "boss",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/13/mutsuz_kampcilar"
+    },
+    {
+      "season": 4,
+      "episode": 14,
+      "title": "Oops",
+      "diziid": "boss",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/14/tuh"
+    },
+    {
+      "season": 5,
+      "episode": 15,
+      "title": "Mammon's Magnificent Musical Mid-Season Special (ft Fizzarolli)",
+      "diziid": "boss",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/15/mammonin_muhtesem_muzikali-sezon_ortasi_ozel_fizzarrolli_ile"
+    },
+    {
+      "season": 6,
+      "episode": 16,
+      "title": "The Full Moon",
+      "diziid": "boss",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/16/dolunay"
+    },
+    {
+      "season": 7,
+      "episode": 17,
+      "title": "Apology Tour",
+      "diziid": "boss",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/17/ozur_turu"
+    },
+    {
+      "season": 8,
+      "episode": 18,
+      "title": "Ghostf**kers",
+      "diziid": "boss",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/18/hayalet_s%2A%2Akenler"
+    },
+    {
+      "season": 9,
+      "episode": 19,
+      "title": "Mastermind",
+      "diziid": "boss",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/19/suc_dehasi"
+    },
+    {
+      "season": 10,
+      "episode": 20,
+      "title": "Sinsmas",
+      "diziid": "boss",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/20/cehennel"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "Mission: Zero",
+      "diziid": "boss",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/boss/helluva_boss/0/gorev%3A_sifir"
+    }
+  ]
+}

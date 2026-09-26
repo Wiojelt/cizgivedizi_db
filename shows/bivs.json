@@ -1,0 +1,700 @@
+{
+  "id": "bivs",
+  "title": "blue'nun ipuÃ§larÄ± ve sen!",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BIVSPoster.avif",
+  "channel": "Nick Jr.",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Meet Josh!",
+      "diziid": "bivs",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/1/josh_ile_tanisin"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Playdate with Magenta",
+      "diziid": "bivs",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/2/magentayla_oyun_randevusu"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Big News with Blue",
+      "diziid": "bivs",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/3/blueyla_buyuk_haber"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "ABC's with Blue",
+      "diziid": "bivs",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/4/blueyla_alfabe"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "123's with Blue",
+      "diziid": "bivs",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/5/blueyla_1_2_3"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Sad Day with Blue",
+      "diziid": "bivs",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/6/blueyla_uzgun_bir_gun"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Laugh with Blue",
+      "diziid": "bivs",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/7/blueyla_gulmek"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Song Time with Blue",
+      "diziid": "bivs",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/8/blueyla_sarki_zamani"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Getting Glasses with Magenta",
+      "diziid": "bivs",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/9/magentayla_gozluk_aliyoruz"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Growing with Blue",
+      "diziid": "bivs",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/10/blueyla_buyumek"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Happy Birthday Blue",
+      "diziid": "bivs",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/11/mutlu_yillar_blue"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Story Time with Blue",
+      "diziid": "bivs",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/12/blueyla_hikaye_vakti"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Thinking Squad",
+      "diziid": "bivs",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/13/dusunenler_ekibi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Science with Blue",
+      "diziid": "bivs",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/14/blueyla_bilim"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Colors Everywhere with Blue",
+      "diziid": "bivs",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/15/blueyla_her_yeri_renklendir"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Pajama Party with Blue",
+      "diziid": "bivs",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/16/blueyla_pjama_partisi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Bluestock",
+      "diziid": "bivs",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/17/bluestock"
+    },
+    {
+      "season": 1,
+      "episode": 18,
+      "title": "Blue's Big Beat Band",
+      "diziid": "bivs",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/18/bluenun_buyuk_ritim_grubu"
+    },
+    {
+      "season": 2,
+      "episode": 19,
+      "title": "Hide and Seek with Blue",
+      "diziid": "bivs",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/19/blueyla_saklambac"
+    },
+    {
+      "season": 3,
+      "episode": 20,
+      "title": "Blue's Treasure Hunt",
+      "diziid": "bivs",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/20/bluenun_hazine_avi"
+    },
+    {
+      "season": 4,
+      "episode": 21,
+      "title": "Spooky Costume Party with Blue",
+      "diziid": "bivs",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/21/blueyla_korkunc_kostum_partisi"
+    },
+    {
+      "season": 5,
+      "episode": 22,
+      "title": "Thankful with Blue",
+      "diziid": "bivs",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/22/blueyla_sukran_gunu"
+    },
+    {
+      "season": 6,
+      "episode": 23,
+      "title": "Welcome to Blue's Bistro",
+      "diziid": "bivs",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/23/bluenun_restoranina_hos_geldiniz"
+    },
+    {
+      "season": 7,
+      "episode": 24,
+      "title": "Blue's Big Baking Show",
+      "diziid": "bivs",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/24/bluenun_buyuk_pisirme_gosterisi"
+    },
+    {
+      "season": 8,
+      "episode": 25,
+      "title": "Blue's Night Before Christmas",
+      "diziid": "bivs",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/25/bluenun_noel_oncesi"
+    },
+    {
+      "season": 9,
+      "episode": 26,
+      "title": "Sleepy Singalong With Blue",
+      "diziid": "bivs",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/26/blue_icin_uyku_vakti"
+    },
+    {
+      "season": 10,
+      "episode": 27,
+      "title": "Blue's Big Dance Party",
+      "diziid": "bivs",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/27/bluenun_buyuk_dans_partisi"
+    },
+    {
+      "season": 11,
+      "episode": 28,
+      "title": "Blue's Big Imagination",
+      "diziid": "bivs",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/28/bluenun_buyuk_hayal_gucu"
+    },
+    {
+      "season": 12,
+      "episode": 29,
+      "title": "What I Like About Blue",
+      "diziid": "bivs",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/29/blue_hakkinda_sevdigim_seyler"
+    },
+    {
+      "season": 13,
+      "episode": 30,
+      "title": "Blue's Show and Tell Surprise",
+      "diziid": "bivs",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/30/bluenun_sunum_surprizi"
+    },
+    {
+      "season": 14,
+      "episode": 31,
+      "title": "Blue's Rainy Day Rainbow",
+      "diziid": "bivs",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/31/bluenun_yagmurlu_gokkusagi_gunu"
+    },
+    {
+      "season": 15,
+      "episode": 32,
+      "title": "Spring is Here!",
+      "diziid": "bivs",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/32/bahar_geldi%21"
+    },
+    {
+      "season": 16,
+      "episode": 33,
+      "title": "Blue's Big Neighborhood Adventure",
+      "diziid": "bivs",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/33/bluenun_buyuk_kahramanlik_macerasi"
+    },
+    {
+      "season": 17,
+      "episode": 34,
+      "title": "Blue's Beach Bonanza",
+      "diziid": "bivs",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/34/bluenun_plaj_keyfi"
+    },
+    {
+      "season": 18,
+      "episode": 35,
+      "title": "Blue's Anywhere Box Surprise",
+      "diziid": "bivs",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/35/bluenun_herhangi_bir_yer_kutusu_surprizi"
+    },
+    {
+      "season": 19,
+      "episode": 36,
+      "title": "Mystery of the Missing Pies",
+      "diziid": "bivs",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/36/kayip_turtalarin_gizemi"
+    },
+    {
+      "season": 20,
+      "episode": 37,
+      "title": "Blue Makes a Movie with YOU!",
+      "diziid": "bivs",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/37/blue_seninle_film_cekiyor%21"
+    },
+    {
+      "season": 21,
+      "episode": 38,
+      "title": "It's YOUR Birthday!",
+      "diziid": "bivs",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/38/bugun_dogum_gunun%21"
+    },
+    {
+      "season": 1,
+      "episode": 39,
+      "title": "Our New Neighbor!",
+      "diziid": "bivs",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/39/yeni_komsumuz"
+    },
+    {
+      "season": 2,
+      "episode": 40,
+      "title": "The Ghost of the Living Room",
+      "diziid": "bivs",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/40/salondaki_hayalet"
+    },
+    {
+      "season": 3,
+      "episode": 41,
+      "title": "Blue's Big Costume Parade",
+      "diziid": "bivs",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/41/bluenun_buyuk_kostum_gecidi"
+    },
+    {
+      "season": 4,
+      "episode": 42,
+      "title": "A Blue's Clues Festival of Lights",
+      "diziid": "bivs",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/42/bluenun_ipuclari_isik_festivali"
+    },
+    {
+      "season": 5,
+      "episode": 43,
+      "title": "Blue's Snowy Day Surprise",
+      "diziid": "bivs",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/43/bluenun_kar_surprizi"
+    },
+    {
+      "season": 6,
+      "episode": 44,
+      "title": "Blue's Dino Clues",
+      "diziid": "bivs",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/44/bluenun_dinozor_ipuclari"
+    },
+    {
+      "season": 7,
+      "episode": 45,
+      "title": "Building with Blue",
+      "diziid": "bivs",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/45/blue_ile_insaat_etmek"
+    },
+    {
+      "season": 8,
+      "episode": 46,
+      "title": "Blue's Backyard Sports Spectacular",
+      "diziid": "bivs",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/46/bluenun_bahcesinde_eglenceli_sporlar"
+    },
+    {
+      "season": 9,
+      "episode": 47,
+      "title": "Blue's Mystery Present",
+      "diziid": "bivs",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/47/bluenun_gizemli_hediyesi"
+    },
+    {
+      "season": 10,
+      "episode": 48,
+      "title": "Mailtime Mystery",
+      "diziid": "bivs",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/48/gizemli_posta"
+    },
+    {
+      "season": 11,
+      "episode": 49,
+      "title": "Magenta's Case of the Giggles",
+      "diziid": "bivs",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/49/magentanin_kikirdamalari"
+    },
+    {
+      "season": 12,
+      "episode": 50,
+      "title": "Rainbow Puppy's Skidoo Adventure",
+      "diziid": "bivs",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/50/gokkusagi_kopekin_macerasi"
+    },
+    {
+      "season": 13,
+      "episode": 51,
+      "title": "Blue's Treasure of Clue Lagoon",
+      "diziid": "bivs",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/51/bluenun_ipucu_golundeki_hazinesi"
+    },
+    {
+      "season": 14,
+      "episode": 52,
+      "title": "Blue and Little Rainbow Riding Hood",
+      "diziid": "bivs",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/52/blue_ve_gokkusagi_kopek"
+    },
+    {
+      "season": 15,
+      "episode": 53,
+      "title": "Blue's Storytime with Camila",
+      "diziid": "bivs",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/53/bluenun_camila_ile_masal_saati"
+    },
+    {
+      "season": 16,
+      "episode": 54,
+      "title": "Tickety's Big Musical Morning",
+      "diziid": "bivs",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/54/tik_takin_buyuk_muzikal_sabahi"
+    },
+    {
+      "season": 17,
+      "episode": 55,
+      "title": "Something's New at Blue's School",
+      "diziid": "bivs",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/55/bluenun_okulundaki_yeni_sey"
+    },
+    {
+      "season": 18,
+      "episode": 56,
+      "title": "Feelin' Filipino",
+      "diziid": "bivs",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/56/filipinli_olmak"
+    },
+    {
+      "season": 1,
+      "episode": 57,
+      "title": "The Legend of the Jack O'Lantern",
+      "diziid": "bivs",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/57/kabak_fener_efsanesi"
+    },
+    {
+      "season": 2,
+      "episode": 58,
+      "title": "Into the Blueniverse!",
+      "diziid": "bivs",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/58/blue_evreni"
+    },
+    {
+      "season": 3,
+      "episode": 59,
+      "title": "Sage and Ginger's Baby Book",
+      "diziid": "bivs",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/59/ada_cayi_ve_zencefilin_bebek_hali"
+    },
+    {
+      "season": 4,
+      "episode": 60,
+      "title": "Joshini the Amazing",
+      "diziid": "bivs",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/60/muhtesem_joshini"
+    },
+    {
+      "season": 5,
+      "episode": 61,
+      "title": "Getting Healthy with Blue",
+      "diziid": "bivs",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/61/blue_ile_saglikli_yasam"
+    },
+    {
+      "season": 6,
+      "episode": 62,
+      "title": "A Blue Christmas with You!",
+      "diziid": "bivs",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/62/blue_ile_mutlu_yillar_noeller%21"
+    },
+    {
+      "season": 7,
+      "episode": 63,
+      "title": "Blue's Wish Comes True!",
+      "diziid": "bivs",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/63/bluenun_dilegi_gercek_oluyor"
+    },
+    {
+      "season": 8,
+      "episode": 64,
+      "title": "Magenta's Thank You Day Surprise",
+      "diziid": "bivs",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/64/magentanin_tesekkur_gunu_surprizi"
+    },
+    {
+      "season": 9,
+      "episode": 65,
+      "title": "Firefighter Blue to the Rescue!",
+      "diziid": "bivs",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/65/itfaiyeci_blue_is_basinda"
+    },
+    {
+      "season": 10,
+      "episode": 66,
+      "title": "Knights of the Snack Table",
+      "diziid": "bivs",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/66/bufenin_sovalyeleri"
+    },
+    {
+      "season": 11,
+      "episode": 67,
+      "title": "Night at the Blueseum",
+      "diziid": "bivs",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/67/blue_sanat_muzesinde_bir_gece"
+    },
+    {
+      "season": 12,
+      "episode": 68,
+      "title": "A Tale of Shovel & Pail",
+      "diziid": "bivs",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/68/kova_ve_kuregin_hikayesi"
+    },
+    {
+      "season": 13,
+      "episode": 69,
+      "title": "The Case of the Missing Thinking Chair",
+      "diziid": "bivs",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/69/kayip_dusunme_koltugu_vakasi"
+    },
+    {
+      "season": 14,
+      "episode": 70,
+      "title": "Return of the Thinking Squad",
+      "diziid": "bivs",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/70/dusunme_ekibinin_donusu"
+    },
+    {
+      "season": 15,
+      "episode": 71,
+      "title": "Rainbow Puppy's Big Farm Fair",
+      "diziid": "bivs",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/71/ciftlik_panayiri"
+    },
+    {
+      "season": 16,
+      "episode": 72,
+      "title": "Pearl's Kickball Championship",
+      "diziid": "bivs",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/72/incinin_kickball_sampiyonasi"
+    },
+    {
+      "season": 17,
+      "episode": 73,
+      "title": "The Big Blue Derby",
+      "diziid": "bivs",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/73/buyuk_blue_yarisi"
+    },
+    {
+      "season": 18,
+      "episode": 74,
+      "title": "Blue's New Pet",
+      "diziid": "bivs",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/74/bluenun_yeni_evcil_hayvani"
+    },
+    {
+      "season": 19,
+      "episode": 75,
+      "title": "The Wizard of Skidoo",
+      "diziid": "bivs",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/75/macera_sihirbazi"
+    },
+    {
+      "season": 20,
+      "episode": 76,
+      "title": "Josh's Crummy Day",
+      "diziid": "bivs",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/76/joshin_kotu_gunu"
+    },
+    {
+      "season": 21,
+      "episode": 77,
+      "title": "Josh and Blue's Ice Cream Shoppe",
+      "diziid": "bivs",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/77/josh_ve_bluenun_dondurma_dukkani"
+    },
+    {
+      "season": 22,
+      "episode": 78,
+      "title": "The Smelly Smell",
+      "diziid": "bivs",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/78/tuhaf_pis_koku"
+    },
+    {
+      "season": 23,
+      "episode": 79,
+      "title": "Rock On, Rainbow Puppy!",
+      "diziid": "bivs",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/79/gokkusagi_kopekin_konseri%21"
+    },
+    {
+      "season": 24,
+      "episode": 80,
+      "title": "Â¡Hola, Mexico City!",
+      "diziid": "bivs",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/80/hola%2C_meksiko_city%21"
+    },
+    {
+      "season": 25,
+      "episode": 81,
+      "title": "Kamusta, Philippines!",
+      "diziid": "bivs",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/81/josh_filipinlere_gidiyor%21"
+    },
+    {
+      "season": 26,
+      "episode": 82,
+      "title": "Happy Birthday, Sage & Ginger",
+      "diziid": "bivs",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/82/ada_cayi_ve_zencefile_mutlu_yillar"
+    },
+    {
+      "season": 27,
+      "episode": 83,
+      "title": "If You Don't See It, Be it!",
+      "diziid": "bivs",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/83/ne_olursa_olsun_kendine_inan%21"
+    },
+    {
+      "season": 28,
+      "episode": 84,
+      "title": "Hotel Blue",
+      "diziid": "bivs",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/84/blue_otel"
+    },
+    {
+      "season": 29,
+      "episode": 85,
+      "title": "Blue's Breaking News",
+      "diziid": "bivs",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/85/bluenun_son_dakika_haberleri"
+    },
+    {
+      "season": 30,
+      "episode": 86,
+      "title": "Blue's Countdown Celebration",
+      "diziid": "bivs",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/bivs/bluenun_ipuclari_ve_sen%21/86/bluenun_kutlama_geri_sayimi"
+    }
+  ]
+}

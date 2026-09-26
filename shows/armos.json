@@ -1,0 +1,117 @@
+{
+  "id": "armos",
+  "title": "armorsaurs",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/ARMOSPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Aksiyon",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Here Come the Armorsaurs Part 1",
+      "diziid": "armos",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/armos/armorsaurs/1/armorsaurs_geliyor_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Here Come the Armorsaurs Part 2",
+      "diziid": "armos",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/armos/armorsaurs/2/armorsaurs_geliyor_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Sister-Sister",
+      "diziid": "armos",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/armos/armorsaurs/3/kardes_kavgasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Bonded",
+      "diziid": "armos",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/armos/armorsaurs/4/kurulan_baglar"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Teamwork Makes the Dream Work",
+      "diziid": "armos",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/armos/armorsaurs/5/birlikten_kuvvet_dogar"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "War Games",
+      "diziid": "armos",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/armos/armorsaurs/6/savas_oyunlari"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Bust the Myth-Ventures",
+      "diziid": "armos",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/armos/armorsaurs/7/gizem_ve_macera"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Choose Your Weapons",
+      "diziid": "armos",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/armos/armorsaurs/8/silahlarini_sec"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Terror in the Sky",
+      "diziid": "armos",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/armos/armorsaurs/9/goklerdeki_dehset"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Father's Day",
+      "diziid": "armos",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/armos/armorsaurs/10/babalar_gunu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Klay's Mission",
+      "diziid": "armos",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/armos/armorsaurs/11/klayin_gorevi"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Confession",
+      "diziid": "armos",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/armos/armorsaurs/12/itiraf"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Brothers in Armorsaurs",
+      "diziid": "armos",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/armos/armorsaurs/13/armorsaurs_kardesleri"
+    }
+  ]
+}

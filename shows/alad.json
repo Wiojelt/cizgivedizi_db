@@ -1,0 +1,701 @@
+{
+  "id": "alad",
+  "title": "aladdin",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ALADPoster.avif",
+  "channel": "TRT 1",
+  "genres": [
+    "Macera",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Air Feather Friends",
+      "diziid": "alad",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/1/hava_tuy_dostlari"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Bad Mood Rising",
+      "diziid": "alad",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/2/kotu_bir_ruh_hali_yaklasiyor"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "To Cure a Thief",
+      "diziid": "alad",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/3/bir_hirsizi_iyilestirmek"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Do the Rat Thing",
+      "diziid": "alad",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/4/fare_taklidi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Never Say Nefir",
+      "diziid": "alad",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/5/asla_nefir_deme"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Getting the Bugs Out",
+      "diziid": "alad",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/6/boceklerden_kurtulma_zamani"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Vapor Chase",
+      "diziid": "alad",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/7/buhar_takibi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Garden of Evil",
+      "diziid": "alad",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/8/kotulugun_bahcesi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Much Abu About Something",
+      "diziid": "alad",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/9/cok_abu_hakkinda_bazi_seyler"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "My Fair Aladdin",
+      "diziid": "alad",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/10/benim_guzel_aladdinim"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Some Enchanted Genie",
+      "diziid": "alad",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/11/buyulu_cin"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Web of Fear",
+      "diziid": "alad",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/12/korku_agi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Mudder's Day",
+      "diziid": "alad",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/13/mudderin_gunu"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Plunder the Sea",
+      "diziid": "alad",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/14/denizde_yagma"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Strike Up the Sand",
+      "diziid": "alad",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/15/kumda_isyan"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "I Never Mechanism I Didn't Like",
+      "diziid": "alad",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/16/sevmedigim_bir_mekanizma"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Fowl Weather",
+      "diziid": "alad",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/17/yagmurda_hava"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Forget Me Lots",
+      "diziid": "alad",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/18/beni_cok_unut"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Scare Necessities",
+      "diziid": "alad",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/19/korku_gereksinimleri"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "SandSwitch",
+      "diziid": "alad",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/20/kum_degisimi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Lost and Founded",
+      "diziid": "alad",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/21/kayip_ve_bulunanlar"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Moonlight Madness",
+      "diziid": "alad",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/22/ay_isigi_cilginligi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "The Flawed Couple",
+      "diziid": "alad",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/23/kusurlu_cift"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Rain of Terror",
+      "diziid": "alad",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/24/dehset_yagmuru"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Dune Quixote",
+      "diziid": "alad",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/25/kum_ruyalari"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The Day the Bird Stood Still",
+      "diziid": "alad",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/26/kusun_durdugu_gun"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Of Ice and Men",
+      "diziid": "alad",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/27/buz_ve_adamlar"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Opposites Detract",
+      "diziid": "alad",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/28/zit_cekim"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Caught by the Tale",
+      "diziid": "alad",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/29/hikaye_anlatan"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Elemental, My Dear Jasmine",
+      "diziid": "alad",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/30/sevgili_jasmine"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Smolder and Wiser",
+      "diziid": "alad",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/31/yanan_ve_ates"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "The Game",
+      "diziid": "alad",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/32/oyun"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Snowman Is an Island",
+      "diziid": "alad",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/33/adadaki_kardan_adam"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "The Animal Kingdom",
+      "diziid": "alad",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/34/hayvan_kralligi"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Power to the Parrot",
+      "diziid": "alad",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/35/papagana_guc"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "The Sands of Fate",
+      "diziid": "alad",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/36/kaderin_kumlari"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "The Citadel",
+      "diziid": "alad",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/37/kale"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Poor Iago",
+      "diziid": "alad",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/38/zavalli_iago"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "The Secret of Dagger Rock",
+      "diziid": "alad",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/39/hancer_kayanin_sirri"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "In the Heat of the Fright",
+      "diziid": "alad",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/40/korku_dolu_sicakta"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "The Seven Faces of Genie",
+      "diziid": "alad",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/41/cinin_yedi_yuzu"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "The Wind Jackals of Mozenrath",
+      "diziid": "alad",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/42/mozenrathin_ruzgar_cakali"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "A Clockwork Hero",
+      "diziid": "alad",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/43/bir_saat_kahramani"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Mission: Imp Possible",
+      "diziid": "alad",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/44/gorev%3A_imkansiz"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Stinker Belle",
+      "diziid": "alad",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/45/kotu_kokulu"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Shadow of a Doubt",
+      "diziid": "alad",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/46/suphenin_golgesi"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Smells Like Trouble",
+      "diziid": "alad",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/47/sorun_kokuyor"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "The Way We War",
+      "diziid": "alad",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/48/savas_tarzimiz"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Night of the Living Mud",
+      "diziid": "alad",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/49/canli_camurun_gecesi"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Egg-stra Protection",
+      "diziid": "alad",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/50/ekstra_koruma"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Heads, You Lose",
+      "diziid": "alad",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/51/baslari_belada"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "The Love Bug",
+      "diziid": "alad",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/52/ask_bocegi"
+    },
+    {
+      "season": 53,
+      "episode": 53,
+      "title": "When Chaos Comes Calling",
+      "diziid": "alad",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/53/kaos_geldiginde"
+    },
+    {
+      "season": 54,
+      "episode": 54,
+      "title": "Armored and Dangerous",
+      "diziid": "alad",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/54/zirhli_ve_tehlikeli"
+    },
+    {
+      "season": 55,
+      "episode": 55,
+      "title": "Shark Treatment",
+      "diziid": "alad",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/55/kopekbaligi_tedavisi"
+    },
+    {
+      "season": 56,
+      "episode": 56,
+      "title": "Black Sand",
+      "diziid": "alad",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/56/siyah_kum"
+    },
+    {
+      "season": 57,
+      "episode": 57,
+      "title": "Love at First Sprite",
+      "diziid": "alad",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/57/ilk_spriteta_ask"
+    },
+    {
+      "season": 58,
+      "episode": 58,
+      "title": "Vocal Hero",
+      "diziid": "alad",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/58/vokal_kahraman"
+    },
+    {
+      "season": 59,
+      "episode": 59,
+      "title": "The Lost City of the Sun",
+      "diziid": "alad",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/59/gunesin_kayip_sehri"
+    },
+    {
+      "season": 60,
+      "episode": 60,
+      "title": "As the Netherworld Turns",
+      "diziid": "alad",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/60/cehennem_donerken"
+    },
+    {
+      "season": 61,
+      "episode": 61,
+      "title": "Seems Like Old Crimes - Part One",
+      "diziid": "alad",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/61/eski_suclar_gibi_bolum_1"
+    },
+    {
+      "season": 62,
+      "episode": 62,
+      "title": "Seems Like Old Crimes - Part Two",
+      "diziid": "alad",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/62/eski_suclar_gibi_bolum_2"
+    },
+    {
+      "season": 63,
+      "episode": 63,
+      "title": "From Hippsodeth, with Love",
+      "diziid": "alad",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/63/hippsodethten_sevgilerle"
+    },
+    {
+      "season": 64,
+      "episode": 64,
+      "title": "Destiny on Fire",
+      "diziid": "alad",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/64/alevler_icinde_kader"
+    },
+    {
+      "season": 65,
+      "episode": 65,
+      "title": "The Return of Malcho",
+      "diziid": "alad",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/65/malchonun_donusu"
+    },
+    {
+      "season": 1,
+      "episode": 66,
+      "title": "Raiders of the Lost Shark",
+      "diziid": "alad",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/66/kayip_kopekbaliklari"
+    },
+    {
+      "season": 2,
+      "episode": 67,
+      "title": "Sneeze the Day",
+      "diziid": "alad",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/67/hapisirma_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 68,
+      "title": "The Prophet Motive",
+      "diziid": "alad",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/68/niyet"
+    },
+    {
+      "season": 4,
+      "episode": 69,
+      "title": "That Stinking Feeling",
+      "diziid": "alad",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/69/koku_geliyor"
+    },
+    {
+      "season": 5,
+      "episode": 70,
+      "title": "Beast or Famine",
+      "diziid": "alad",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/70/canavar_ya_da_kitlik"
+    },
+    {
+      "season": 6,
+      "episode": 71,
+      "title": "The Spice Is Right",
+      "diziid": "alad",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/71/iskelet"
+    },
+    {
+      "season": 7,
+      "episode": 72,
+      "title": "Hero with a Thousand Feathers",
+      "diziid": "alad",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/72/bin_tuylu_kahraman"
+    },
+    {
+      "season": 8,
+      "episode": 73,
+      "title": "Witch Way Did She Go?",
+      "diziid": "alad",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/73/cadinin_yolu_nereye_gitti"
+    },
+    {
+      "season": 9,
+      "episode": 74,
+      "title": "Sea No Evil",
+      "diziid": "alad",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/74/denizde_kotuluk_yok"
+    },
+    {
+      "season": 10,
+      "episode": 75,
+      "title": "A Sultan Worth His Salt",
+      "diziid": "alad",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/75/tuzuna_deger_bir_sultan"
+    },
+    {
+      "season": 11,
+      "episode": 76,
+      "title": "Genie Hunt",
+      "diziid": "alad",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/76/cin_avi"
+    },
+    {
+      "season": 12,
+      "episode": 77,
+      "title": "The Lost Ones",
+      "diziid": "alad",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/77/kaybolanlar"
+    },
+    {
+      "season": 13,
+      "episode": 78,
+      "title": "Eye of the Beholder",
+      "diziid": "alad",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/78/gozlemci"
+    },
+    {
+      "season": 1,
+      "episode": 79,
+      "title": "The Hunted",
+      "diziid": "alad",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/79/avci"
+    },
+    {
+      "season": 2,
+      "episode": 80,
+      "title": "Riders Redux",
+      "diziid": "alad",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/80/yeniden_suvari"
+    },
+    {
+      "season": 3,
+      "episode": 81,
+      "title": "The Book of Khartoum",
+      "diziid": "alad",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/81/kahire_kitabi"
+    },
+    {
+      "season": 4,
+      "episode": 82,
+      "title": "While the City Snoozes",
+      "diziid": "alad",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/82/sehir_uyurken"
+    },
+    {
+      "season": 5,
+      "episode": 83,
+      "title": "Two to Tangle",
+      "diziid": "alad",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/83/sarisinla_karsilasma"
+    },
+    {
+      "season": 6,
+      "episode": 84,
+      "title": "The Ethereal",
+      "diziid": "alad",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/84/ruhani"
+    },
+    {
+      "season": 7,
+      "episode": 85,
+      "title": "The Shadow Knows",
+      "diziid": "alad",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/85/golgeleri_bilen"
+    },
+    {
+      "season": 8,
+      "episode": 86,
+      "title": "The Great Rift",
+      "diziid": "alad",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/alad/aladdin/86/buyuk_ucurum"
+    }
+  ]
+}

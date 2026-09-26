@@ -1,0 +1,92 @@
+{
+  "id": "bibtin",
+  "title": "bibi ve tina",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/BIBTINPoster.avif",
+  "channel": "Prime Video",
+  "genres": [
+    "MÃ¼zik/MÃ¼zikal"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Holidays at Last",
+      "diziid": "bibtin",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bibtin/bibi_ve_tina/1/sonunda_tatil_geldi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Splish â€“ Splash",
+      "diziid": "bibtin",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bibtin/bibi_ve_tina/2/sulu_eglence"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Fame is lame",
+      "diziid": "bibtin",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bibtin/bibi_ve_tina/3/sohret_sikicidir"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Bibi goes whole hog",
+      "diziid": "bibtin",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bibtin/bibi_ve_tina/4/bibi_domuz_olursa"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Bibi wants her best friend back",
+      "diziid": "bibtin",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bibtin/bibi_ve_tina/5/bibi_en_iyi_arkadasini_geri_istiyor"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Truth or dare",
+      "diziid": "bibtin",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bibtin/bibi_ve_tina/6/dogruluk_mu_cesaret_mi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "A storm is coming",
+      "diziid": "bibtin",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bibtin/bibi_ve_tina/7/firtina_yaklasiyor"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "It's all ruined",
+      "diziid": "bibtin",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bibtin/bibi_ve_tina/8/her_sey_mahvoldu"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Friends are family too",
+      "diziid": "bibtin",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bibtin/bibi_ve_tina/9/arkadaslar_da_ailedir"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Festival for Falkenstein",
+      "diziid": "bibtin",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bibtin/bibi_ve_tina/10/falkenstein_festivali"
+    }
+  ]
+}

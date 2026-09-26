@@ -1,0 +1,45 @@
+{
+  "id": "canter",
+  "title": "canterville hayaleti",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/CANTERPoster.avif",
+  "channel": "Epic Drama",
+  "genres": [
+    "Gizem",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Spring",
+      "diziid": "canter",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/canter/canterville_hayaleti/1/ilkbahar__yaz"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Summer",
+      "diziid": "canter",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/canter/canterville_hayaleti/2/yaz__sonbahar"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Autumn",
+      "diziid": "canter",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/canter/canterville_hayaleti/3/sonbahar__kis"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Winter",
+      "diziid": "canter",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/canter/canterville_hayaleti/4/kis"
+    }
+  ]
+}

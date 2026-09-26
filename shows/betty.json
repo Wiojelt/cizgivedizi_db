@@ -1,0 +1,341 @@
+{
+  "id": "betty",
+  "title": "Ã§irkin betty",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/BETTYPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "diziid": "betty",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/1/pilot"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Box and the Bunny",
+      "diziid": "betty",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/2/kutu_ve_tavsan"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Queens for a Day",
+      "diziid": "betty",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/3/bir_gunluk_kraliceler"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Fey's Sleigh Ride",
+      "diziid": "betty",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/4/feyin_kizak_gezisi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Lyin', the Watch, and the Wardrobe",
+      "diziid": "betty",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/5/yalan%2C_saat_ve_dolap"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Trust, Lust, and Must",
+      "diziid": "betty",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/6/guven%2C_istek_ve_zorunluluk"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "After Hours",
+      "diziid": "betty",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/7/saatler_sonra"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Four Thanksgivings and a Funeral",
+      "diziid": "betty",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/8/dort_sukran_gunu_ve_bir_cenaze"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Lose the Boss?",
+      "diziid": "betty",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/9/patronu_kaybetmek_mi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Fake Plastic Snow",
+      "diziid": "betty",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/10/sahte_plastik_kar"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Swag",
+      "diziid": "betty",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/11/satiyorum%2C_sattim"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Sofia's Choice",
+      "diziid": "betty",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/12/sofia%E2%80%99nin_secimi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "In or Out",
+      "diziid": "betty",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/13/var_misin_yok_musun"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "I'm Coming Out",
+      "diziid": "betty",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/14/buyuk_cikis"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Brothers",
+      "diziid": "betty",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/15/kardesler"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Derailed",
+      "diziid": "betty",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/16/istifa"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Icing on the Cake",
+      "diziid": "betty",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/17/kek_uzerine_krema"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Don't Ask, Don't Tell",
+      "diziid": "betty",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/18/ne_sor_ne_anlat"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Punch Out",
+      "diziid": "betty",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/19/piyadeler"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Petra-gate",
+      "diziid": "betty",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/20/kapak_kiz"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Secretaries Day",
+      "diziid": "betty",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/21/sekreterler_gunu"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "A Tree Grows in Guadalajara",
+      "diziid": "betty",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/22/guadalajarada_bir_agac_buyur"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "East Side Story",
+      "diziid": "betty",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/23/dogu_yakasi_hikayesi"
+    },
+    {
+      "season": 1,
+      "episode": 24,
+      "title": "How Betty Got Her Grieve Back",
+      "diziid": "betty",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/24/betty_elini_tasin_altina_koyar"
+    },
+    {
+      "season": 2,
+      "episode": 25,
+      "title": "Family/Affair",
+      "diziid": "betty",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/25/aile_meselesi"
+    },
+    {
+      "season": 3,
+      "episode": 26,
+      "title": "Betty's Wait Problem",
+      "diziid": "betty",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/26/bettynin_bekleme_sorunu"
+    },
+    {
+      "season": 4,
+      "episode": 27,
+      "title": "Grin and Bear It",
+      "diziid": "betty",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/27/sik_disini"
+    },
+    {
+      "season": 5,
+      "episode": 28,
+      "title": "A League of Their Own",
+      "diziid": "betty",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/28/git_gozum_gormesin_seni"
+    },
+    {
+      "season": 6,
+      "episode": 29,
+      "title": "Something Wicked This Way Comes",
+      "diziid": "betty",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/29/buyuk_tiyatro"
+    },
+    {
+      "season": 7,
+      "episode": 30,
+      "title": "A Nice Day for a Posh Wedding",
+      "diziid": "betty",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/30/sik_bir_dugun_icin_guzel_bir_gun"
+    },
+    {
+      "season": 8,
+      "episode": 31,
+      "title": "I See Me, I.C.U.",
+      "diziid": "betty",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/31/kendimi_goruyorum%2C_i.c.u."
+    },
+    {
+      "season": 9,
+      "episode": 32,
+      "title": "Giving Up the Ghost",
+      "diziid": "betty",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/32/hawaii_sortlu_hayalet"
+    },
+    {
+      "season": 10,
+      "episode": 33,
+      "title": "Bananas for Betty",
+      "diziid": "betty",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/33/betty_varken_sorun_yok"
+    },
+    {
+      "season": 11,
+      "episode": 34,
+      "title": "Zero Worship",
+      "diziid": "betty",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/34/gercek_kadinlar"
+    },
+    {
+      "season": 12,
+      "episode": 35,
+      "title": "Odor in the Court",
+      "diziid": "betty",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/35/koku"
+    },
+    {
+      "season": 13,
+      "episode": 36,
+      "title": "A Thousand Words Before Friday",
+      "diziid": "betty",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/36/cumaya_kadar_bin_kelime"
+    },
+    {
+      "season": 14,
+      "episode": 37,
+      "title": "Twenty-Four Candles",
+      "diziid": "betty",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/37/yirmi_dort_mum"
+    },
+    {
+      "season": 15,
+      "episode": 38,
+      "title": "Burning Questions",
+      "diziid": "betty",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/38/yanan_sorular"
+    },
+    {
+      "season": 16,
+      "episode": 39,
+      "title": "Betty's Baby Bump",
+      "diziid": "betty",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/39/merhaba_kuzucuk"
+    },
+    {
+      "season": 17,
+      "episode": 40,
+      "title": "The Kids Are Alright",
+      "diziid": "betty",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/40/cocuklar_iyi"
+    },
+    {
+      "season": 18,
+      "episode": 41,
+      "title": "Jump",
+      "diziid": "betty",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/betty/cirkin_betty/41/atla"
+    }
+  ]
+}

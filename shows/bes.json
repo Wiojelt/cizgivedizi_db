@@ -1,0 +1,77 @@
+{
+  "id": "bes",
+  "title": "blue eye samurai",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/BESPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Aksiyon",
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Hammerscale",
+      "diziid": "bes",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bes/blue_eye_samurai/1/kusur"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "An Unexpected Element",
+      "diziid": "bes",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bes/blue_eye_samurai/2/beklenmedik_bir_unsur"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "A Fixed Number of Paths",
+      "diziid": "bes",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bes/blue_eye_samurai/3/sinirli_sayida_secenek"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Peculiarities",
+      "diziid": "bes",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bes/blue_eye_samurai/4/tuhaf_talepler"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Tale of the Ronin and the Bride",
+      "diziid": "bes",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bes/blue_eye_samurai/5/ronin_ve_esinin_oykusu"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "All Evil Dreams and Angry Words",
+      "diziid": "bes",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bes/blue_eye_samurai/6/tum_seytani_ruyalar_ve_ofkeli_sozler"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Nothing Broken",
+      "diziid": "bes",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bes/blue_eye_samurai/7/hicbir_sey_kirilmaz"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Great Fire of 1657",
+      "diziid": "bes",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bes/blue_eye_samurai/8/1657deki_buyuk_yangin"
+    }
+  ]
+}

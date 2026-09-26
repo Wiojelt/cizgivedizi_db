@@ -1,0 +1,421 @@
+{
+  "id": "alex",
+  "title": "alex ve tayfasÄ±",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/ALEXPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "MÃ¼zik/MÃ¼zikal",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Episode 1",
+      "diziid": "alex",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/1/bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Episode 2",
+      "diziid": "alex",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/2/bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Episode 3",
+      "diziid": "alex",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/3/bolum_3"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Episode 4",
+      "diziid": "alex",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/4/bolum_4"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Episode 5",
+      "diziid": "alex",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/5/bolum_5"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Episode 6",
+      "diziid": "alex",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/6/bolum_6"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Episode 7",
+      "diziid": "alex",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/7/bolum_7"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Episode 8",
+      "diziid": "alex",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/8/bolum_8"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Episode 9",
+      "diziid": "alex",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/9/bolum_9"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Episode 10",
+      "diziid": "alex",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/10/bolum_10"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Episode 11",
+      "diziid": "alex",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/11/bolum_11"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Episode 12",
+      "diziid": "alex",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/12/bolum_12"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Episode 13",
+      "diziid": "alex",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/13/bolum_13"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Episode 14",
+      "diziid": "alex",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/14/bolum_14"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Episode 15",
+      "diziid": "alex",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/15/bolum_15"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Episode 16",
+      "diziid": "alex",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/16/bolum_16"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Episode 17",
+      "diziid": "alex",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/17/bolum_17"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Episode 18",
+      "diziid": "alex",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/18/bolum_18"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Episode 19",
+      "diziid": "alex",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/19/bolum_19"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Episode 20",
+      "diziid": "alex",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/20/bolum_20"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Episode 21",
+      "diziid": "alex",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/21/bolum_21"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Episode 22",
+      "diziid": "alex",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/22/bolum_22"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Episode 23",
+      "diziid": "alex",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/23/bolum_23"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "Episode 24",
+      "diziid": "alex",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/24/bolum_24"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Episode 25",
+      "diziid": "alex",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/25/bolum_25"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "Episode 26",
+      "diziid": "alex",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/26/bolum_26"
+    },
+    {
+      "season": 14,
+      "episode": 27,
+      "title": "Episode 27",
+      "diziid": "alex",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/27/bolum_27"
+    },
+    {
+      "season": 15,
+      "episode": 28,
+      "title": "Episode 28",
+      "diziid": "alex",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/28/bolum_28"
+    },
+    {
+      "season": 16,
+      "episode": 29,
+      "title": "Episode 29",
+      "diziid": "alex",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/29/bolum_29"
+    },
+    {
+      "season": 17,
+      "episode": 30,
+      "title": "Episode 30",
+      "diziid": "alex",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/30/bolum_30"
+    },
+    {
+      "season": 18,
+      "episode": 31,
+      "title": "Episode 31",
+      "diziid": "alex",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/31/bolum_31"
+    },
+    {
+      "season": 1,
+      "episode": 32,
+      "title": "Episode 32",
+      "diziid": "alex",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/32/bolum_32"
+    },
+    {
+      "season": 2,
+      "episode": 33,
+      "title": "Episode 33",
+      "diziid": "alex",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/33/bolum_33"
+    },
+    {
+      "season": 3,
+      "episode": 34,
+      "title": "Episode 34",
+      "diziid": "alex",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/34/bolum_34"
+    },
+    {
+      "season": 4,
+      "episode": 35,
+      "title": "Episode 35",
+      "diziid": "alex",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/35/bolum_35"
+    },
+    {
+      "season": 5,
+      "episode": 36,
+      "title": "Episode 36",
+      "diziid": "alex",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/36/bolum_36"
+    },
+    {
+      "season": 6,
+      "episode": 37,
+      "title": "Episode 37",
+      "diziid": "alex",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/37/bolum_37"
+    },
+    {
+      "season": 7,
+      "episode": 38,
+      "title": "Episode 38",
+      "diziid": "alex",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/38/bolum_38"
+    },
+    {
+      "season": 8,
+      "episode": 39,
+      "title": "Episode 39",
+      "diziid": "alex",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/39/bolum_39"
+    },
+    {
+      "season": 9,
+      "episode": 40,
+      "title": "Episode 40",
+      "diziid": "alex",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/40/bolum_40"
+    },
+    {
+      "season": 10,
+      "episode": 41,
+      "title": "Episode 41",
+      "diziid": "alex",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/41/bolum_41"
+    },
+    {
+      "season": 11,
+      "episode": 42,
+      "title": "Episode 42",
+      "diziid": "alex",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/42/bolum_42"
+    },
+    {
+      "season": 12,
+      "episode": 43,
+      "title": "Episode 43",
+      "diziid": "alex",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/43/bolum_43"
+    },
+    {
+      "season": 13,
+      "episode": 44,
+      "title": "Episode 44",
+      "diziid": "alex",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/44/bolum_44"
+    },
+    {
+      "season": 14,
+      "episode": 45,
+      "title": "Episode 45",
+      "diziid": "alex",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/45/bolum_45"
+    },
+    {
+      "season": 15,
+      "episode": 46,
+      "title": "Episode 46",
+      "diziid": "alex",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/46/bolum_46"
+    },
+    {
+      "season": 16,
+      "episode": 47,
+      "title": "Episode 47",
+      "diziid": "alex",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/47/bolum_47"
+    },
+    {
+      "season": 17,
+      "episode": 48,
+      "title": "Episode 48",
+      "diziid": "alex",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/48/bolum_48"
+    },
+    {
+      "season": 18,
+      "episode": 49,
+      "title": "Episode 49",
+      "diziid": "alex",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/49/bolum_49"
+    },
+    {
+      "season": 19,
+      "episode": 50,
+      "title": "Episode 50",
+      "diziid": "alex",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/50/bolum_50"
+    },
+    {
+      "season": 20,
+      "episode": 51,
+      "title": "Episode 51",
+      "diziid": "alex",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/alex/alex_ve_tayfasi/51/bolum_51"
+    }
+  ]
+}

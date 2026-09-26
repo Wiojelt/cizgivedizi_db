@@ -1,0 +1,381 @@
+{
+  "id": "cana",
+  "title": "canavar adasÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/CANAPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi",
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "It Cone From Outer Space",
+      "diziid": "cana",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/1/uzaydan_gelen_koni"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Knutt Drops In",
+      "diziid": "cana",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/2/knutta_sorf_dersi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Ghoul Vibrations",
+      "diziid": "cana",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/3/hortlak_titresimleri"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Frights, Camera, Action!",
+      "diziid": "cana",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/4/korku%21_kamera%21_motor%21"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Striking Bad",
+      "diziid": "cana",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/5/asiri_fena"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Dr. BFF",
+      "diziid": "cana",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/6/kader_dostlari"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "I Lava To Surf",
+      "diziid": "cana",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/7/lav_sorfu_aski"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Tiki'D Off",
+      "diziid": "cana",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/8/plajdan_kovulmak"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Next To Dogliness",
+      "diziid": "cana",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/9/mutt_ele_geciriliyor"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Termite Nation",
+      "diziid": "cana",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/10/termite_ulusu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Gone Wishin",
+      "diziid": "cana",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/11/dilek_zamani"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Swampy Thing",
+      "diziid": "cana",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/12/bataklik_canavari"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Lagoon Goons",
+      "diziid": "cana",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/13/tatil_cetesi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "High Seas Hi Jinx",
+      "diziid": "cana",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/14/acik_denizde_kavga"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Widget Loses Her Head",
+      "diziid": "cana",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/15/widget_basini_kaybediyor"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Knutty And Nice",
+      "diziid": "cana",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/16/kotu_ve_nazik"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Surf Power",
+      "diziid": "cana",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/17/sorf_gucu"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Treasure Hunters",
+      "diziid": "cana",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/18/hazine_avcilari"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Bored Games",
+      "diziid": "cana",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/19/sikici_oyunlar"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Talk to the Hand",
+      "diziid": "cana",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/20/elime_konus"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Back Nine",
+      "diziid": "cana",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/21/arka_dokuzlu"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Madge's Mug",
+      "diziid": "cana",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/22/madgein_bardagi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Switch Doctor",
+      "diziid": "cana",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/23/degistirme_doktoru"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Micro Monsters",
+      "diziid": "cana",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/24/mikro_canavarlar"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Monster Safari",
+      "diziid": "cana",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/25/canavar_safarisi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Pet Rocked",
+      "diziid": "cana",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/26/evcil_sorunu"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Lost & Found Patrol",
+      "diziid": "cana",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/27/kayip_devriye_gorev_basinda"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Brain Thaw",
+      "diziid": "cana",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/28/akil_erimesi"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Fan Service",
+      "diziid": "cana",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/29/hayran_servisi"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Whale of a Problem",
+      "diziid": "cana",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/30/balina_sorunu"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Euro So Talented",
+      "diziid": "cana",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/31/cok_yeteneklisin"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Butter Knutt Squash",
+      "diziid": "cana",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/32/butterknutt_ikilisi"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "The Murmurrmen Boys",
+      "diziid": "cana",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/33/deniz_mirmiri_erkekleri"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Boo Plate Special",
+      "diziid": "cana",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/34/urkunc_tabak_spesyali"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "You've Been Served",
+      "diziid": "cana",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/35/servislendin"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Daredevil May Careful",
+      "diziid": "cana",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/36/gozu_pek_atlayis"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Monster Wrestling",
+      "diziid": "cana",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/37/canavar_guresi"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Jailhouse Mutt",
+      "diziid": "cana",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/38/mutt_hapiste"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Monster Make Over",
+      "diziid": "cana",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/39/canavar_makyaji"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "3 Monsters and a Tiki",
+      "diziid": "cana",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/40/uc_canavar_ve_bir_tiki"
+    },
+    {
+      "season": 42,
+      "episode": 41,
+      "title": "Monster Nerd Out",
+      "diziid": "cana",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/42/canavarlar_oyunda"
+    },
+    {
+      "season": 44,
+      "episode": 42,
+      "title": "Where Wolf?!",
+      "diziid": "cana",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/44/kurt_nerede"
+    },
+    {
+      "season": 45,
+      "episode": 43,
+      "title": "Mayor May Not",
+      "diziid": "cana",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/45/valilik_secimleri"
+    },
+    {
+      "season": 46,
+      "episode": 44,
+      "title": "Rain Damage",
+      "diziid": "cana",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/46/yagmur_hasari"
+    },
+    {
+      "season": 47,
+      "episode": 45,
+      "title": "Teddle's Teddy",
+      "diziid": "cana",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/47/teddlein_oyuncak_ayisi"
+    },
+    {
+      "season": 48,
+      "episode": 46,
+      "title": "Invisible Manny",
+      "diziid": "cana",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/cana/canavar_adasi/48/gorunmez_manny"
+    }
+  ]
+}

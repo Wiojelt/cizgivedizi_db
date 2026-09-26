@@ -1,0 +1,421 @@
+{
+  "id": "cado",
+  "title": "cadÄ±lar okulu",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/CADOPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Selection Day: Part One / Selection Day: Part Two",
+      "diziid": "cado",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/1/secim_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 2,
+      "title": "Tabby",
+      "diziid": "cado",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/3/tekir"
+    },
+    {
+      "season": 4,
+      "episode": 3,
+      "title": "New Girl",
+      "diziid": "cado",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/4/yeni_kiz"
+    },
+    {
+      "season": 5,
+      "episode": 4,
+      "title": "Pond Life",
+      "diziid": "cado",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/5/golet_macerasi"
+    },
+    {
+      "season": 6,
+      "episode": 5,
+      "title": "The Great Wizard's Visit",
+      "diziid": "cado",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/6/muhtesem_buyucunun_ziyareti"
+    },
+    {
+      "season": 7,
+      "episode": 6,
+      "title": "The Best Teacher",
+      "diziid": "cado",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/7/en_iyi_ogretmen"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "title": "Maud's Big Mistake",
+      "diziid": "cado",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/8/maudun_buyuk_hatasi"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "title": "The First Witch",
+      "diziid": "cado",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/9/ilk_cadi"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "Spelling Bee",
+      "diziid": "cado",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/10/buyuleme_yarismasi"
+    },
+    {
+      "season": 11,
+      "episode": 10,
+      "title": "The Mists of Time",
+      "diziid": "cado",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/11/zamanin_sisleri"
+    },
+    {
+      "season": 12,
+      "episode": 11,
+      "title": "Out of Bounds",
+      "diziid": "cado",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/12/sinirlarin_disinda"
+    },
+    {
+      "season": 13,
+      "episode": 12,
+      "title": "The Worst Headmistress",
+      "diziid": "cado",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/13/en_kotu_mudire"
+    },
+    {
+      "season": 1,
+      "episode": 13,
+      "title": "Tortoise Trouble",
+      "diziid": "cado",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/14/kaplumbaga_sorunu"
+    },
+    {
+      "season": 2,
+      "episode": 14,
+      "title": "The Friendship Trap",
+      "diziid": "cado",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/15/dostluk_kapani"
+    },
+    {
+      "season": 3,
+      "episode": 15,
+      "title": "Ethel Everywhere",
+      "diziid": "cado",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/16/ethel_her_yerde"
+    },
+    {
+      "season": 4,
+      "episode": 16,
+      "title": "The Extraordinary Esper Vespertilio",
+      "diziid": "cado",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/17/olaganustu_esper_vespertilio"
+    },
+    {
+      "season": 5,
+      "episode": 17,
+      "title": "Mildred's Family Tree",
+      "diziid": "cado",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/18/mildredin_aile_agaci"
+    },
+    {
+      "season": 6,
+      "episode": 18,
+      "title": "Bat Girl",
+      "diziid": "cado",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/19/yarasa_kiz"
+    },
+    {
+      "season": 7,
+      "episode": 19,
+      "title": "Hollow Wood",
+      "diziid": "cado",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/20/yankili_orman"
+    },
+    {
+      "season": 8,
+      "episode": 20,
+      "title": "Miss Cackle's Birthday",
+      "diziid": "cado",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/21/bayan_cacklein_dogum_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 21,
+      "title": "Miss Softbroom",
+      "diziid": "cado",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/22/bayan_yumusaksupurge"
+    },
+    {
+      "season": 10,
+      "episode": 22,
+      "title": "A New Dawn",
+      "diziid": "cado",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/23/yeni_bir_safak"
+    },
+    {
+      "season": 11,
+      "episode": 23,
+      "title": "Love at First Sight",
+      "diziid": "cado",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/24/ilk_goruste_ask"
+    },
+    {
+      "season": 12,
+      "episode": 24,
+      "title": "All Hallow's Eve",
+      "diziid": "cado",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/25/hallow_cadilari"
+    },
+    {
+      "season": 13,
+      "episode": 25,
+      "title": "The Big Freeze",
+      "diziid": "cado",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/26/dondurucu_gorev"
+    },
+    {
+      "season": 1,
+      "episode": 26,
+      "title": "The Wishing Star",
+      "diziid": "cado",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/27/dilek_yildizi"
+    },
+    {
+      "season": 2,
+      "episode": 27,
+      "title": "Double Hubble",
+      "diziid": "cado",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/28/bayan_hubblein_zor_gunu"
+    },
+    {
+      "season": 3,
+      "episode": 28,
+      "title": "Magic Mum",
+      "diziid": "cado",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/29/sihirli_anne"
+    },
+    {
+      "season": 4,
+      "episode": 29,
+      "title": "The Swamp Troll",
+      "diziid": "cado",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/30/bataklik_trolu"
+    },
+    {
+      "season": 5,
+      "episode": 30,
+      "title": "The Owl and the Pussycat",
+      "diziid": "cado",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/31/baykus_ve_kedi"
+    },
+    {
+      "season": 6,
+      "episode": 31,
+      "title": "The Game",
+      "diziid": "cado",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/32/oyun"
+    },
+    {
+      "season": 7,
+      "episode": 32,
+      "title": "Bad Magic",
+      "diziid": "cado",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/33/kotu_buyu"
+    },
+    {
+      "season": 8,
+      "episode": 33,
+      "title": "The Cackle Run",
+      "diziid": "cado",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/34/cackle_yarisi"
+    },
+    {
+      "season": 9,
+      "episode": 34,
+      "title": "Starstruck",
+      "diziid": "cado",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/35/yildiz_carpmasi"
+    },
+    {
+      "season": 10,
+      "episode": 35,
+      "title": "Finding Joy",
+      "diziid": "cado",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/36/kayip_arkadas_joy"
+    },
+    {
+      "season": 11,
+      "episode": 36,
+      "title": "The Broom Stick Uprising",
+      "diziid": "cado",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/37/supurge_isyani"
+    },
+    {
+      "season": 12,
+      "episode": 37,
+      "title": "Ethel Hallow to the Rescue: Part 1",
+      "diziid": "cado",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/38/ufak_bir_karisiklik"
+    },
+    {
+      "season": 13,
+      "episode": 38,
+      "title": "Ethel Hallow to the Rescue: Part 2",
+      "diziid": "cado",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/39/kurtarici_ethel_hallow"
+    },
+    {
+      "season": 1,
+      "episode": 39,
+      "title": "The Three Impossibilities",
+      "diziid": "cado",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/40/uc_olanaksizlik"
+    },
+    {
+      "season": 2,
+      "episode": 40,
+      "title": "Gertrude the Great",
+      "diziid": "cado",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/41/buyuk_gertrude"
+    },
+    {
+      "season": 3,
+      "episode": 41,
+      "title": "Happy Birthday, Indigo Moon",
+      "diziid": "cado",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/42/mutlu_yillar_indigo_ay"
+    },
+    {
+      "season": 4,
+      "episode": 42,
+      "title": "Enid Nightshade, Superstar",
+      "diziid": "cado",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/43/enid_ituzumu%2C_super_yildiz"
+    },
+    {
+      "season": 5,
+      "episode": 43,
+      "title": "The Forbidden Tree",
+      "diziid": "cado",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/44/yasak_agac"
+    },
+    {
+      "season": 6,
+      "episode": 44,
+      "title": "Maud's Magical Makeover",
+      "diziid": "cado",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/45/maudun_sihirli_donusumu"
+    },
+    {
+      "season": 7,
+      "episode": 45,
+      "title": "The Crystal Lake",
+      "diziid": "cado",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/46/kristal_gol"
+    },
+    {
+      "season": 8,
+      "episode": 46,
+      "title": "Enid's Last Race",
+      "diziid": "cado",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/47/enidin_son_yarisi"
+    },
+    {
+      "season": 9,
+      "episode": 47,
+      "title": "Mildred the Detective",
+      "diziid": "cado",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/48/dedektif_mildred"
+    },
+    {
+      "season": 10,
+      "episode": 48,
+      "title": "A Witch in Time",
+      "diziid": "cado",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/49/cadinin_zaman_yolculugu"
+    },
+    {
+      "season": 11,
+      "episode": 49,
+      "title": "Grounded",
+      "diziid": "cado",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/50/temel_tasi"
+    },
+    {
+      "season": 12,
+      "episode": 50,
+      "title": "The Witching Hour, Part 1",
+      "diziid": "cado",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/51/cadilik_saati_kisim_1"
+    },
+    {
+      "season": 13,
+      "episode": 51,
+      "title": "The Witching Hour: Part 2",
+      "diziid": "cado",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/cado/cadilar_okulu/52/cadilik_saati_kisim_2"
+    }
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "id": "bbk",
+  "title": "butterbean'in kafesi",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BBKPoster.avif",
+  "channel": "Nick Jr.",
+  "genres": [
+    "Yemek"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Grand Opening!",
+      "diziid": "bbk",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/1/buyuk_acilis%21"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Grandma Nana Banana Bread/Lots and Lots of Lemons!",
+      "diziid": "bbk",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/2/buyukanne_nananin_muzlu_keki__bir_suru_limon%21"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Friendship Pretzels!/The Wild Tooth Chase",
+      "diziid": "bbk",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/3/dostluk_krakerleri%21__cilgin_dis_avi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Dazzle's Cake-tastrophe!/Cricket's First Menu!",
+      "diziid": "bbk",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/4/dazzlein_pasta_felaketi%21__kriketin_ilk_menusu%21"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Sweetest Ride!/A Grilled Cheese for the Big Cheese!",
+      "diziid": "bbk",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/5/en_tatli_yolculuk__basbakan_icin_tost%21"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Wedding Cake Switcheroo!/Fairy Berry Parfait!",
+      "diziid": "bbk",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/6/dugun_pastasi_degisimi__meyveli_peri_parfesi%21"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Rainbow Noodle Soup!/Pizza Party!",
+      "diziid": "bbk",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/7/gokkusagi_eriste_corbasi__pizza_partisi%21"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Fairy Happy Thanksgiving!/Cricket's the Boss!",
+      "diziid": "bbk",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/8/cok_mutlu_bir_sukran_gunu%21__patron_kriket%21"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Starlight Cupcake Surprise!/Summer Slushies",
+      "diziid": "bbk",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/9/yildiz_isigi_kapkek_surprizi%21__buzlu_yaz_icecekleri%21"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Switchin' in the Kitchen!/The Breadstick Bicycle!",
+      "diziid": "bbk",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/10/mutfakta_yer_degisimi%21__galeta_bisikleti%21"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Monkey Cookie Escape!/The New Neighbors!",
+      "diziid": "bbk",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/11/maymun_kurabiye_kacisi%21__yeni_komsular%21"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Sugar Plum Fairy!",
+      "diziid": "bbk",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/12/sekerleme_perisi_bayrami%21"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Butterbean Babysits!/Fairy Cozy Cocoa!",
+      "diziid": "bbk",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/13/butterbean_bebek_bakiyor%21__sicak_peri_cikolatasi%21"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Where's Cookie?/Jasper Learns to Bake!",
+      "diziid": "bbk",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/14/kurabiye_nerede__jasper_pisirmeyi_ogreniyor%21"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Surprise Cake!/Tic Tac Tomato!",
+      "diziid": "bbk",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/15/surpriz_pasta%21__tik_tak_domates%21"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "A Fairy Sneezy Day!/The Queen of Quiche",
+      "diziid": "bbk",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/16/perili_hapsirik_gunu%21__kislerin_kralicesi%21"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Cafe Ballet/Cricket Goes Camping!",
+      "diziid": "bbk",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/17/kafede_bale__kriket_kampa_gidiyor%21"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Fluttercakes!/The Perfect Picnic!",
+      "diziid": "bbk",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/18/flutterkek%21__mukemmel_piknik%21"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Spring Has Sprung!/Dazzle Loves to Sing!",
+      "diziid": "bbk",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/19/ilkbahar_geldi%21__dazzle_sarki_soylemeyi_cok_seviyor%21"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Great Egg Hunt!/Upside-Down Frown Cake!",
+      "diziid": "bbk",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/20/buyuk_yumurta_avi%21__somurtmayi_tersine_ceviren_kek%21"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Messy Barbecue!/Poppy's Lost Cookbook!",
+      "diziid": "bbk",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/21/pasaktaki_mangal_gunu%21__poppynin_kayip_yemek_kitabi%21"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Flutter Butter!/Cricket Delivers!",
+      "diziid": "bbk",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/22/ucuran_fistik%21__kriket_teslim_eder%21"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Bad Luck Jasper!/Green Machine to the Rescue!",
+      "diziid": "bbk",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/23/jasperin_kotu_sansi%21__yesil_araba_yardima_geliyor%21"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Cricket's Forever Friend/Dazzle's Tea-riffic Teapot!",
+      "diziid": "bbk",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/24/kriketin_omurluk_dostu__dazzlein_cay-linka_caydanligi"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Cricket's Treasure Hunt!/The Puddlebrook Gold Rush!",
+      "diziid": "bbk",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/25/kriketin_hazine_avi%21__puddlebrookta_altina_hucum%21"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The Missing Veggies!/Cricket the Flower Girl!",
+      "diziid": "bbk",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/26/kayip_sebzeler%21__cicekci_kiz_kriket%21"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "The Hawaiian Luau!/Kitty-sitting!",
+      "diziid": "bbk",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/27/havai_luausu%21__kedi_bakicisi%21"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "The Takeout Window!/Poppy's Fortune!",
+      "diziid": "bbk",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/28/paket_servis_penceresi%21__poppynin_fali%21."
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Poppy's Cooking Class!/A Fairy Peachy Day!",
+      "diziid": "bbk",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/29/poppynin_yemek_dersi%21__cok_guzel_bir_gun%21"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "The Towering Tower of Crepes!",
+      "diziid": "bbk",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/30/yuksek_krep_kulesi%21"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Boss for the Day!/Cricket's Get Well Wagon!",
+      "diziid": "bbk",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/31/bir_gunluk_patron%21__kriketin_iyilesme_arabasi%21"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "No Way, SoufflÃ©!/Cinnamon the Elephant!",
+      "diziid": "bbk",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/32/imkansiz_sufle%21__fil_altli_tarcin%21"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "The Fairy Bean Adventure!",
+      "diziid": "bbk",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/33/peri_sekeri_macerasi%21"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "A Kitty for Marmalady's!/Slumber Party!",
+      "diziid": "bbk",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/34/marmaladynin_kafesinde_bir_kedicik%21__pijama_partisi%21"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "A Bean for Halloween!",
+      "diziid": "bbk",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/35/cadilar_bayrami%21"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "The Marmalady Sisters!/Butterbean's Is Closing",
+      "diziid": "bbk",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/36/marmalady_kardesler%21__butterbeanin_kafesi_kapaniyor%21"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Oopsie Doodle!",
+      "diziid": "bbk",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/37/aksilik_gunu%21"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "The Gingerbread Man!/Copykitties!",
+      "diziid": "bbk",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/38/zencefilli_kek_adam%21__kucuk_taklitciler"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "The Big Tomato!/Tough Customers!",
+      "diziid": "bbk",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/39/buyuk_domates%21__zorlu_musteriler%21"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "Stella Sprinkles!/Fairy Fancy!",
+      "diziid": "bbk",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/40/stella_sprinkles%21__cok_havali%21"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "EZ-PZ!/The Splat Spot!",
+      "diziid": "bbk",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/41/ez-pz%21__leke_muhru%21"
+    },
+    {
+      "season": 3,
+      "episode": 42,
+      "title": "A Recipe for Friendship!/Team Captain Cricket!",
+      "diziid": "bbk",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/42/dostlugun_tarifi%21__kaptan_kriketin_takimi%21"
+    },
+    {
+      "season": 4,
+      "episode": 43,
+      "title": "Rebel Without a Whisk!/Key Slime Bars!",
+      "diziid": "bbk",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/43/cirpma_teli_olmayan_rebel%21__igrenc_limonlu_barlar%21"
+    },
+    {
+      "season": 5,
+      "episode": 44,
+      "title": "Cutie Pie's Pizza Pies!",
+      "diziid": "bbk",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/44/sirin_seyin_pizzalari%21"
+    },
+    {
+      "season": 7,
+      "episode": 45,
+      "title": "The April Fools' Joke! / Dazzle's Birthday Surprise!",
+      "diziid": "bbk",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/46/1_nisan_sakasi__dazzlein_dogum_gunu_surprizi%21"
+    },
+    {
+      "season": 8,
+      "episode": 46,
+      "title": "Perfectly Perfect Pancakes!/The Delivery Game!",
+      "diziid": "bbk",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/47/mukemmel_otesi_pankekler%21__teslimat_oyunu%21"
+    },
+    {
+      "season": 10,
+      "episode": 47,
+      "title": "I Love Rockin' Rolls! / A Baby at Marmalady's!",
+      "diziid": "bbk",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/49/rockn_rollsa_bayiliyorum%21__marmalady_kafede_bir_bebek%21"
+    },
+    {
+      "season": 11,
+      "episode": 48,
+      "title": "The Legend of the Shadow Bean!",
+      "diziid": "bbk",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/50/golge_sekeri_efsanesi%21"
+    },
+    {
+      "season": 12,
+      "episode": 49,
+      "title": "Ice Cream Funday! / Fairy Food Fails!",
+      "diziid": "bbk",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/51/dondurmali_eglence_gunu__perili_yemek_kazalari%21"
+    },
+    {
+      "season": 13,
+      "episode": 50,
+      "title": "Race to the Fairy Finish!/Busy, Busy Butterbean!",
+      "diziid": "bbk",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/52/peri_rotusuna_dogru_yaris%21__mesgul_mu_mesgul_butterbean%21"
+    },
+    {
+      "season": 14,
+      "episode": 51,
+      "title": "Cutie Pie's Checkup!/Puddle Scout Cookies!",
+      "diziid": "bbk",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/53/sirin_seyin_kontrolu%21__puddle_izcisi_kurabiyeleri%21"
+    },
+    {
+      "season": 15,
+      "episode": 52,
+      "title": "Sleepy Bean!/Oldies But Smoothies!",
+      "diziid": "bbk",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/54/uyutan_seker%21__ne_varsa_smoothiede_var%21"
+    },
+    {
+      "season": 16,
+      "episode": 53,
+      "title": "Fairy Pop!",
+      "diziid": "bbk",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/55/peri_popu%21"
+    },
+    {
+      "season": 17,
+      "episode": 54,
+      "title": "Firefighter Jasper!/Cookie to the Rescue!",
+      "diziid": "bbk",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/56/itfaiyeci_jasper%21__kurabiye_yardima_kosuyor%21"
+    },
+    {
+      "season": 18,
+      "episode": 55,
+      "title": "Happy Birthday, Cricket!/Friendly Frank!",
+      "diziid": "bbk",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/57/mutlu_yillar_kriket%21__sevecen_frank%21"
+    },
+    {
+      "season": 19,
+      "episode": 56,
+      "title": "Cricket's First Fairy Finish!/Tricky Sticky Buns!",
+      "diziid": "bbk",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/58/kriketin_ilk_peri_rotusu%21__karmasik_yapisan_corekler%21"
+    },
+    {
+      "season": 20,
+      "episode": 57,
+      "title": "The Big Birthday Hiccup!/Skater Taters!",
+      "diziid": "bbk",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/59/buyuk_dogum_gunu_hickirigi%21__kaykayci_patates%21"
+    },
+    {
+      "season": 21,
+      "episode": 58,
+      "title": "The Glowberry Fairy!/Hello, Marma Team!",
+      "diziid": "bbk",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/bbk/butterbeanin_kafesi/60/isilti_meyvesi_perisi%21__merhaba%2C_marma_ekibi%21"
+    }
+  ]
+}

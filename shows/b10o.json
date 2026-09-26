@@ -1,0 +1,653 @@
+{
+  "id": "b10o",
+  "title": "ben 10: omniverse",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/B10OPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The More Things Change: Part 1",
+      "diziid": "b10o",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/1/daha_fazla_sey_degistikce%2C_1.bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The More Things Change: Part 2",
+      "diziid": "b10o",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/2/daha_fazla_sey_degistikce%2C_2.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "A Jolt From the Past",
+      "diziid": "b10o",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/3/gecmisten_bir_sarsinti"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Trouble Helix",
+      "diziid": "b10o",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/4/helix_sorunu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Have I Got a Deal for You",
+      "diziid": "b10o",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/5/anlasma"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "It Was Them",
+      "diziid": "b10o",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/6/onlardi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "So Long, and Thanks for All the Smoothies",
+      "diziid": "b10o",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/7/tum_smoothieler_icin_tesekkurler"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Hot Stretch",
+      "diziid": "b10o",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/8/sicak_esneklik"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Of Predators and Prey: Part 1",
+      "diziid": "b10o",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/9/avcilar_ve_av%2C_bolum_1"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Of Predators and Prey: Part 2",
+      "diziid": "b10o",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/10/avcilar_ve_av%2C_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 11,
+      "title": "Outbreak",
+      "diziid": "b10o",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/11/isyan"
+    },
+    {
+      "season": 2,
+      "episode": 12,
+      "title": "Many Happy Returns",
+      "diziid": "b10o",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/12/mutlu_donusler"
+    },
+    {
+      "season": 3,
+      "episode": 13,
+      "title": "Gone Fishin'",
+      "diziid": "b10o",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/13/kacan_balik"
+    },
+    {
+      "season": 4,
+      "episode": 14,
+      "title": "Blukic and Driba Go to Mr. Smoothy's",
+      "diziid": "b10o",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/14/blukic_ve_driba_smoothyye_gidiyor"
+    },
+    {
+      "season": 5,
+      "episode": 15,
+      "title": "Malefactor",
+      "diziid": "b10o",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/15/suclu"
+    },
+    {
+      "season": 6,
+      "episode": 16,
+      "title": "Arrested Development",
+      "diziid": "b10o",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/16/cocuga_donusmek"
+    },
+    {
+      "season": 7,
+      "episode": 17,
+      "title": "Bros in Space",
+      "diziid": "b10o",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/17/uzaydaki_kardesler"
+    },
+    {
+      "season": 8,
+      "episode": 18,
+      "title": "Ben Again",
+      "diziid": "b10o",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/18/yine_ben"
+    },
+    {
+      "season": 9,
+      "episode": 19,
+      "title": "Store 23",
+      "diziid": "b10o",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/19/23.dukkan"
+    },
+    {
+      "season": 10,
+      "episode": 20,
+      "title": "Special Delivery",
+      "diziid": "b10o",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/20/ozel_paket"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "Showdown: Part 1",
+      "diziid": "b10o",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/21/guc_gosterisi%2C_1.bolum"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "Showdown: Part 2",
+      "diziid": "b10o",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/22/guc_gosterisi%2C_2.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "Tummy Trouble",
+      "diziid": "b10o",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/23/mide_sorunu"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "Vilgax Must Croak",
+      "diziid": "b10o",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/24/vilgax_hirlamali"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "While You Were Away",
+      "diziid": "b10o",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/25/sen_uzaklardayken"
+    },
+    {
+      "season": 6,
+      "episode": 26,
+      "title": "The Frogs of War: Part 1",
+      "diziid": "b10o",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/26/savas_kurbagalari%2C_1.bolum"
+    },
+    {
+      "season": 7,
+      "episode": 27,
+      "title": "The Frogs of War: Part 2",
+      "diziid": "b10o",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/27/savas_kurbagalari%2C_2.bolum"
+    },
+    {
+      "season": 8,
+      "episode": 28,
+      "title": "Rules of Engagement",
+      "diziid": "b10o",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/28/nisan_kurallari"
+    },
+    {
+      "season": 9,
+      "episode": 29,
+      "title": "Rad",
+      "diziid": "b10o",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/29/rad"
+    },
+    {
+      "season": 10,
+      "episode": 30,
+      "title": "Evil's Encore",
+      "diziid": "b10o",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/30/kotulugun_tekrari"
+    },
+    {
+      "season": 1,
+      "episode": 31,
+      "title": "T.G.I.S.",
+      "diziid": "b10o",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/31/cumartesiler"
+    },
+    {
+      "season": 2,
+      "episode": 32,
+      "title": "Food Around the Corner",
+      "diziid": "b10o",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/32/kosede_yemek"
+    },
+    {
+      "season": 3,
+      "episode": 33,
+      "title": "O Mother, Where Art Thou?",
+      "diziid": "b10o",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/33/ah_anne%2C_neredesin"
+    },
+    {
+      "season": 4,
+      "episode": 34,
+      "title": "Return to Forever",
+      "diziid": "b10o",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/34/ebedi_sovalyelerin_donusu"
+    },
+    {
+      "season": 5,
+      "episode": 35,
+      "title": "Mud Is Thicker Than Water",
+      "diziid": "b10o",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/35/aile_her_seyden_onemlidir"
+    },
+    {
+      "season": 6,
+      "episode": 36,
+      "title": "OTTO Motives",
+      "diziid": "b10o",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/36/otto_mobil"
+    },
+    {
+      "season": 7,
+      "episode": 37,
+      "title": "The Ultimate Heist",
+      "diziid": "b10o",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/37/nihai_soygun"
+    },
+    {
+      "season": 8,
+      "episode": 38,
+      "title": "A Fistful of Brains",
+      "diziid": "b10o",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/38/bir_avuc_zeka"
+    },
+    {
+      "season": 9,
+      "episode": 39,
+      "title": "For a Few Brains More",
+      "diziid": "b10o",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/39/birkac_beyin_icin"
+    },
+    {
+      "season": 10,
+      "episode": 40,
+      "title": "Max's Monster",
+      "diziid": "b10o",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/40/maxin_canavari"
+    },
+    {
+      "season": 1,
+      "episode": 41,
+      "title": "Something Zombozo This Way Comes",
+      "diziid": "b10o",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/41/zombozo_gibi_bir_sey_geliyor"
+    },
+    {
+      "season": 2,
+      "episode": 42,
+      "title": "Mystery, Incorporeal",
+      "diziid": "b10o",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/42/manevi_intikam"
+    },
+    {
+      "season": 3,
+      "episode": 43,
+      "title": "Bengeance Is Mine",
+      "diziid": "b10o",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/43/bentikam_benim"
+    },
+    {
+      "season": 4,
+      "episode": 44,
+      "title": "An American Benwolf in London",
+      "diziid": "b10o",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/44/kurt_ben_londrada"
+    },
+    {
+      "season": 5,
+      "episode": 45,
+      "title": "Animo Crackers",
+      "diziid": "b10o",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/45/catlak_animo"
+    },
+    {
+      "season": 6,
+      "episode": 46,
+      "title": "Rad Monster Party",
+      "diziid": "b10o",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/46/canavar_partisi"
+    },
+    {
+      "season": 7,
+      "episode": 47,
+      "title": "Charmed, I'm Sure",
+      "diziid": "b10o",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/47/buyulenmis"
+    },
+    {
+      "season": 8,
+      "episode": 48,
+      "title": "The Vampire Strikes Back",
+      "diziid": "b10o",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/48/vampirin_donusu"
+    },
+    {
+      "season": 9,
+      "episode": 49,
+      "title": "Catfight",
+      "diziid": "b10o",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/49/kiz_kavgasi"
+    },
+    {
+      "season": 10,
+      "episode": 50,
+      "title": "Collect This",
+      "diziid": "b10o",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/50/bunu_topla"
+    },
+    {
+      "season": 1,
+      "episode": 51,
+      "title": "And Then There Were None",
+      "diziid": "b10o",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/51/ve_sonra_hic_var"
+    },
+    {
+      "season": 2,
+      "episode": 52,
+      "title": "And Then There Was Ben",
+      "diziid": "b10o",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/52/ve_sonra_ben_var"
+    },
+    {
+      "season": 3,
+      "episode": 53,
+      "title": "The Vengers",
+      "diziid": "b10o",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/53/intikamcilar"
+    },
+    {
+      "season": 4,
+      "episode": 54,
+      "title": "Cough It Up",
+      "diziid": "b10o",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/54/oksurmek"
+    },
+    {
+      "season": 5,
+      "episode": 55,
+      "title": "The Rooters of All Evil",
+      "diziid": "b10o",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/55/kotulugun_kokleri"
+    },
+    {
+      "season": 6,
+      "episode": 56,
+      "title": "Blukic and Driba Go to Area 51",
+      "diziid": "b10o",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/56/blukic_ve_driba_51.bolgeye_gidiyor"
+    },
+    {
+      "season": 7,
+      "episode": 57,
+      "title": "No Honor Among Bros",
+      "diziid": "b10o",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/57/kardesler_arasinda_savas"
+    },
+    {
+      "season": 8,
+      "episode": 58,
+      "title": "Universe vs. Tennyson",
+      "diziid": "b10o",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/58/evren_tennysona_karsi"
+    },
+    {
+      "season": 9,
+      "episode": 59,
+      "title": "Weapon XI: Part 1",
+      "diziid": "b10o",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/59/11.silah%2C_bolum_1"
+    },
+    {
+      "season": 10,
+      "episode": 60,
+      "title": "Weapon XI: Part 2",
+      "diziid": "b10o",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/60/11.silah%2C_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 61,
+      "title": "Clyde Five",
+      "diziid": "b10o",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/61/clyde_5"
+    },
+    {
+      "season": 2,
+      "episode": 62,
+      "title": "Rook Tales",
+      "diziid": "b10o",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/62/rook_hikayeleri"
+    },
+    {
+      "season": 3,
+      "episode": 63,
+      "title": "Charm School",
+      "diziid": "b10o",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/63/sihir_okulu"
+    },
+    {
+      "season": 4,
+      "episode": 64,
+      "title": "The Ballad of Mr. Baumann",
+      "diziid": "b10o",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/64/bay_baumannin_okulu"
+    },
+    {
+      "season": 5,
+      "episode": 65,
+      "title": "Fight at the Museum",
+      "diziid": "b10o",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/65/muzede_kavga"
+    },
+    {
+      "season": 6,
+      "episode": 66,
+      "title": "Breakpoint",
+      "diziid": "b10o",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/66/taklitciler"
+    },
+    {
+      "season": 7,
+      "episode": 67,
+      "title": "The Color of Monkey",
+      "diziid": "b10o",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/67/maymun_rengi"
+    },
+    {
+      "season": 8,
+      "episode": 68,
+      "title": "Vreedlemania",
+      "diziid": "b10o",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/68/vreedlemania"
+    },
+    {
+      "season": 9,
+      "episode": 69,
+      "title": "It's a Mad, Mad, Mad Ben World: Part 1",
+      "diziid": "b10o",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/69/cilgin_ben_dunyasi%2C_bolum_1"
+    },
+    {
+      "season": 10,
+      "episode": 70,
+      "title": "It's a Mad, Mad, Mad Ben World: Part 2",
+      "diziid": "b10o",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/70/cilgin_ben_dunyasi%2C_bolum_2"
+    },
+    {
+      "season": 1,
+      "episode": 71,
+      "title": "From Hedorium to Eternity",
+      "diziid": "b10o",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/71/hedoriumdan_sonsuzluga"
+    },
+    {
+      "season": 2,
+      "episode": 72,
+      "title": "Stuck on You",
+      "diziid": "b10o",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/72/yapismak"
+    },
+    {
+      "season": 3,
+      "episode": 73,
+      "title": "Let's Do the Time War Again",
+      "diziid": "b10o",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/73/tekrardan_zaman_savasi"
+    },
+    {
+      "season": 4,
+      "episode": 74,
+      "title": "The Secret of Dos Santos",
+      "diziid": "b10o",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/74/dos_santosun_sirri"
+    },
+    {
+      "season": 5,
+      "episode": 75,
+      "title": "Third Time's a Charm",
+      "diziid": "b10o",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/75/ucuncu_kez_sihir"
+    },
+    {
+      "season": 6,
+      "episode": 76,
+      "title": "The Final Countdown",
+      "diziid": "b10o",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/76/son_geri_sayim"
+    },
+    {
+      "season": 7,
+      "episode": 77,
+      "title": "Malgax Attacks",
+      "diziid": "b10o",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/77/malgax_saldirilari"
+    },
+    {
+      "season": 8,
+      "episode": 78,
+      "title": "The Most Dangerous Game Show",
+      "diziid": "b10o",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/78/en_tehlikeli_oyun_gosterisi"
+    },
+    {
+      "season": 9,
+      "episode": 79,
+      "title": "The End of an Era",
+      "diziid": "b10o",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/79/bir_donemin_sonu"
+    },
+    {
+      "season": 10,
+      "episode": 80,
+      "title": "A New Dawn",
+      "diziid": "b10o",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/b10o/ben_10%3A_omniverse/80/yeni_safak"
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "id": "avd",
+  "title": "anna ve dostlarÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ANNAPoster.avif",
+  "channel": "Nick Jr.",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Strawberries",
+      "diziid": "avd",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/1/cilekler"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Swing",
+      "diziid": "avd",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/2/salincak"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Detectives",
+      "diziid": "avd",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/3/dedektifler"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Super Christopher",
+      "diziid": "avd",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/4/super_christopher"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Photo",
+      "diziid": "avd",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/5/fotograf"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "We Love Nature",
+      "diziid": "avd",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/6/dogayi_seviyoruz"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Kite",
+      "diziid": "avd",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/7/ucurtma"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Nap",
+      "diziid": "avd",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/8/sekerleme"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Bicycle",
+      "diziid": "avd",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/9/bisiklet"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Ukelele",
+      "diziid": "avd",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/10/ukulele"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Cuddle Toy",
+      "diziid": "avd",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/11/pelus_oyuncak"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Mosquito",
+      "diziid": "avd",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/12/sivrisinek"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Shooting Stars",
+      "diziid": "avd",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/13/kayan_yildizlar"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Circus",
+      "diziid": "avd",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/14/sirk"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Friendship Journal",
+      "diziid": "avd",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/15/dostluk_gunlugu"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Hide and Seek",
+      "diziid": "avd",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/16/saklambac"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "A Very Busy Afternoon",
+      "diziid": "avd",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/17/cok_yogun_bir_ogleden_sonra"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Four-Leaf Clover",
+      "diziid": "avd",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/18/dort_yaprakli_yonca"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Collection",
+      "diziid": "avd",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/19/koleksiyon"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Fixing Things",
+      "diziid": "avd",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/20/tamirat_yapmak"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Bubble Trouble",
+      "diziid": "avd",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/21/baloncuk_sorunu"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Party Time",
+      "diziid": "avd",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/22/parti_zamani"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Prank Day",
+      "diziid": "avd",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/23/saka_gunu"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "A Present for Ron",
+      "diziid": "avd",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/24/ron_icin_bir_hediye"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Trip to the Moon",
+      "diziid": "avd",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/25/ay%E2%80%99a_yolculuk"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Spider",
+      "diziid": "avd",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/26/orumcek"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Impatient Christopher",
+      "diziid": "avd",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/27/sabirsiz_christopher"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "The Friendship Statue",
+      "diziid": "avd",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/28/dostluk_heykeli"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Froga's Hat",
+      "diziid": "avd",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/29/froganin_sapka"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Anna's Horse",
+      "diziid": "avd",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/30/anna%E2%80%99nin_ati"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "The Secrets Box",
+      "diziid": "avd",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/31/sir_kutusu"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Bubu's Robot",
+      "diziid": "avd",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/32/bubunun_robotu"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Froga's Choice",
+      "diziid": "avd",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/33/froganin_secimi"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "The Great Friendship Show",
+      "diziid": "avd",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/34/buyuk_arkadaslik_sovu"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "The Rememberator",
+      "diziid": "avd",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/35/hatirlamator"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "The Treasure Hunt",
+      "diziid": "avd",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/36/hazine_avi"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Mystery Present",
+      "diziid": "avd",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/37/gizemli_hediye"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Friendship Bouquet",
+      "diziid": "avd",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/38/arkadaslik_buketi"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Leaf Pictures",
+      "diziid": "avd",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/39/yaprak_resimleri"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "The Hiccups",
+      "diziid": "avd",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/40/hickirik"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "King for a Day",
+      "diziid": "avd",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/41/bir_gunluk_kral"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Vegetable Pie",
+      "diziid": "avd",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/42/sebzeli_turta"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "The Surprise",
+      "diziid": "avd",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/43/surpriz"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "The Airplane Race",
+      "diziid": "avd",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/44/kagit_ucak_yarisi"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Give-Away Day",
+      "diziid": "avd",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/45/kurtulma_gunu"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "The Silly Sounds",
+      "diziid": "avd",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/46/sapsal_sesler"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Super Hero Teacher",
+      "diziid": "avd",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/47/super_kahramanlik_ogretmeni"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Story Without an End",
+      "diziid": "avd",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/48/sonu_olmayan_hikaye"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Apple Picking",
+      "diziid": "avd",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/49/elma_toplama"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Talking Flower",
+      "diziid": "avd",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/50/konusan_cicek"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "The Amazing Guesser",
+      "diziid": "avd",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/51/harika_tahminci"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "The Robot Player",
+      "diziid": "avd",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/52/robot_oyuncu"
+    },
+    {
+      "season": 53,
+      "episode": 53,
+      "title": "Smile Day",
+      "diziid": "avd",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/53/gulucuk_gunu"
+    },
+    {
+      "season": 54,
+      "episode": 54,
+      "title": "No Panic!",
+      "diziid": "avd",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/54/panik_yok%21"
+    },
+    {
+      "season": 55,
+      "episode": 55,
+      "title": "Ron's Sunburn",
+      "diziid": "avd",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/55/ronun_gunes_yanigi"
+    },
+    {
+      "season": 56,
+      "episode": 56,
+      "title": "Bubu's Portrait",
+      "diziid": "avd",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/56/bubunun_portresi"
+    },
+    {
+      "season": 57,
+      "episode": 57,
+      "title": "Magic Trick",
+      "diziid": "avd",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/57/sihir_numarasi"
+    },
+    {
+      "season": 58,
+      "episode": 58,
+      "title": "Go Find It",
+      "diziid": "avd",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/58/onu_bul%21"
+    },
+    {
+      "season": 59,
+      "episode": 59,
+      "title": "Ron Stays Over",
+      "diziid": "avd",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/59/ron_yatmaya_kalirsa"
+    },
+    {
+      "season": 60,
+      "episode": 60,
+      "title": "Snow Dreams",
+      "diziid": "avd",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/60/kar_hayali"
+    },
+    {
+      "season": 61,
+      "episode": 61,
+      "title": "Backwards Ron Day",
+      "diziid": "avd",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/61/tersine_ron_gunu"
+    },
+    {
+      "season": 62,
+      "episode": 62,
+      "title": "Stuck!",
+      "diziid": "avd",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/62/sikismak"
+    },
+    {
+      "season": 63,
+      "episode": 63,
+      "title": "Switcheroo",
+      "diziid": "avd",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/63/degisim_gunu"
+    },
+    {
+      "season": 64,
+      "episode": 64,
+      "title": "The Missing Sock",
+      "diziid": "avd",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/64/kayip_corap"
+    },
+    {
+      "season": 65,
+      "episode": 65,
+      "title": "Mysterious Visitor",
+      "diziid": "avd",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/65/gizemli_ziyaretci"
+    },
+    {
+      "season": 66,
+      "episode": 66,
+      "title": "The Squeaky Boots",
+      "diziid": "avd",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/66/gicirdayan_cizmeler"
+    },
+    {
+      "season": 67,
+      "episode": 67,
+      "title": "The Greedy Gobbler",
+      "diziid": "avd",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/67/ac_gozlu_yutucu"
+    },
+    {
+      "season": 68,
+      "episode": 68,
+      "title": "A Longchair for Ron",
+      "diziid": "avd",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/68/ron_icin_bir_sezlong"
+    },
+    {
+      "season": 69,
+      "episode": 69,
+      "title": "The Key",
+      "diziid": "avd",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/69/anahtar"
+    },
+    {
+      "season": 70,
+      "episode": 70,
+      "title": "Fruit Surprise",
+      "diziid": "avd",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/70/meyve_surprizi"
+    },
+    {
+      "season": 71,
+      "episode": 71,
+      "title": "Bubu's New Blue Jeans",
+      "diziid": "avd",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/71/bubunun_yeni_kot_pantolonu"
+    },
+    {
+      "season": 72,
+      "episode": 72,
+      "title": "Everywhere at Once",
+      "diziid": "avd",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/72/ayni_anda_her_yerde"
+    },
+    {
+      "season": 73,
+      "episode": 73,
+      "title": "The Blue Butterfly",
+      "diziid": "avd",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/73/mavi_kelebek"
+    },
+    {
+      "season": 74,
+      "episode": 74,
+      "title": "Atchoo!",
+      "diziid": "avd",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/74/hapsu%21"
+    },
+    {
+      "season": 75,
+      "episode": 75,
+      "title": "The Giant Strawberry",
+      "diziid": "avd",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/75/devasa_cilek"
+    },
+    {
+      "season": 76,
+      "episode": 76,
+      "title": "The Quiet Game",
+      "diziid": "avd",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/76/tepk_oyunu"
+    },
+    {
+      "season": 77,
+      "episode": 77,
+      "title": "The Funny Photo",
+      "diziid": "avd",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/77/eglenceli_fotograf"
+    },
+    {
+      "season": 78,
+      "episode": 78,
+      "title": "The Gift Box",
+      "diziid": "avd",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/avd/anna_ve_dostlari/78/hediye_kutusu"
+    }
+  ]
+}

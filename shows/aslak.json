@@ -1,0 +1,636 @@
+{
+  "id": "aslak",
+  "title": "aslan koruyucular",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ASLAKPoster.avif",
+  "channel": "Disney Jr.",
+  "genres": [
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Never Judge a Hyena by Its Spots",
+      "diziid": "aslak",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/1/her_sirtlan_ayni_degildir"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Rise of Makuu",
+      "diziid": "aslak",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/2/makuunun_yukselisi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Bunga the Wise",
+      "diziid": "aslak",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/3/bilge_bunga"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Can't Wait to Be Queen",
+      "diziid": "aslak",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/4/kralice_olmak"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Eye of the Beholder",
+      "diziid": "aslak",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/5/bakis_acisi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Kupatana Celebration",
+      "diziid": "aslak",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/6/kupatana_kutlamalari"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Fuli's New Family",
+      "diziid": "aslak",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/7/fulinin_yeni_ailesi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Search for Utamu",
+      "diziid": "aslak",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/8/utamunun_pesinde"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Follow That Hippo!",
+      "diziid": "aslak",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/9/hipopotami_takip_et%21"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Call of the Drongo",
+      "diziid": "aslak",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/10/drongonun_cagrisi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Paintings and Predictions",
+      "diziid": "aslak",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/11/resimler_ve_kehanetler"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Mbali Fields Migration",
+      "diziid": "aslak",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/12/mbali_duzlukleri_gocu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Bunga and the King",
+      "diziid": "aslak",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/13/bunga_ve_kral"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Imaginary Okapi",
+      "diziid": "aslak",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/14/hayali_okapi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Too Many Termites",
+      "diziid": "aslak",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/15/termit_istilasi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "The Trouble with Galagos",
+      "diziid": "aslak",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/16/lemurlarin_derdi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Janja's New Crew",
+      "diziid": "aslak",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/17/janjanin_yeni_cetesi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Baboons!",
+      "diziid": "aslak",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/18/babunlar%21"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Beware the Zimwi",
+      "diziid": "aslak",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/19/dikkat_zimwi%21"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Lions of the Outlands",
+      "diziid": "aslak",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/20/ote_diyarin_aslanlari"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Never Roar Again",
+      "diziid": "aslak",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/21/kukreyisin_sonu"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "The Lost Gorillas",
+      "diziid": "aslak",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/22/kayip_goriller"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "The Trail to Udugu",
+      "diziid": "aslak",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/23/udugu_yolu"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Ono's Idol",
+      "diziid": "aslak",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/24/ononun_idolu"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Beshte and the Hippo Lanes",
+      "diziid": "aslak",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/25/beshte_ve_hipopotam_yollari"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Ono the Tickbird",
+      "diziid": "aslak",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/26/kene_kusu_ono"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Babysitter Bunga",
+      "diziid": "aslak",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/27/bebek_bakicisi_bunga"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "The Savannah Summit",
+      "diziid": "aslak",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/28/savana_zirvesi"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "The Traveling Baboon Show",
+      "diziid": "aslak",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/29/gezici_babun_sirki"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Ono and the Egg",
+      "diziid": "aslak",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/30/ono_ve_yumurta"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "The Rise of Scar, Part 1",
+      "diziid": "aslak",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/31/scarin_yukselisi%2C_bolum_1"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "The Rise of Scar, Part 2",
+      "diziid": "aslak",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/32/scarin_yukselisi%2C_bolum_2"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Let Sleeping Crocs Lie",
+      "diziid": "aslak",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/33/uyuyan_timsahi_sakin_uyandirmayin"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Swept Away",
+      "diziid": "aslak",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/34/suruklenmis"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Rafiki's New Neighbors",
+      "diziid": "aslak",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/35/rafikinin_yeni_komsulari"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Rescue in the Outlands",
+      "diziid": "aslak",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/36/ote_diyarda_hayat_kurtarma"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "The Ukumbusho Tradition",
+      "diziid": "aslak",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/37/ukumbosu_gelenegi"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "The Bite of Kenge",
+      "diziid": "aslak",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/38/kengenin_isirigi"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Timon and Pumbaa's Christmas",
+      "diziid": "aslak",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/39/timon_ve_pumbaanin_noeli"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "The Morning Report",
+      "diziid": "aslak",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/40/sabah_raporu"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "The Golden Zebra",
+      "diziid": "aslak",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/41/altin_zebra"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "The Little Guy",
+      "diziid": "aslak",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/42/kucuk_gekko"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "Divide and Conquer",
+      "diziid": "aslak",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/43/bolun_ve_fethet"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "The Scorpion's Sting",
+      "diziid": "aslak",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/44/akrebin_ignesi"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "The Wisdom of Kongwe",
+      "diziid": "aslak",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/45/kongwenin_bilgeligi"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "The Kilio Valley Fire",
+      "diziid": "aslak",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/46/kilo_vadisi_yangini"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "Undercover Kinyonga",
+      "diziid": "aslak",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/47/kamufle_kinyonga"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "Cave of Secrets",
+      "diziid": "aslak",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/48/sirlar_magarasi"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "The Zebra Mastermind",
+      "diziid": "aslak",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/49/elebasi_zebra"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "The Hyena Resistance",
+      "diziid": "aslak",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/50/sirtlan_direnisi"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "The Underground Adventure",
+      "diziid": "aslak",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/51/yer_alti_macerasi"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "Beshte and the Beast",
+      "diziid": "aslak",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/52/besthe_ve_canavar"
+    },
+    {
+      "season": 27,
+      "episode": 53,
+      "title": "Pride Landers Unite!",
+      "diziid": "aslak",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/53/magrur_diyarlilar_birlesiyor%21"
+    },
+    {
+      "season": 28,
+      "episode": 54,
+      "title": "The Queen's Visit",
+      "diziid": "aslak",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/54/kralicenin_ziyareti"
+    },
+    {
+      "season": 29,
+      "episode": 55,
+      "title": "The Fall of Mizimu Grove",
+      "diziid": "aslak",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/55/mizimu_korusu_yaniyor"
+    },
+    {
+      "season": 30,
+      "episode": 56,
+      "title": "Fire from the Sky",
+      "diziid": "aslak",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/56/gokyuzunden_gelen_alevler"
+    },
+    {
+      "season": 1,
+      "episode": 57,
+      "title": "Battle for the Pride Lands - Part 1",
+      "diziid": "aslak",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/57/aslan_kayaligi_savasi_-_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 58,
+      "title": "Battle for the Pride Lands - Part 2",
+      "diziid": "aslak",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/58/aslan_kayaligi_savasi_-_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 59,
+      "title": "The Harmattan",
+      "diziid": "aslak",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/59/harmattan"
+    },
+    {
+      "season": 4,
+      "episode": 60,
+      "title": "The Accidental Avalanche",
+      "diziid": "aslak",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/60/kazara_dusen_cig"
+    },
+    {
+      "season": 5,
+      "episode": 61,
+      "title": "Ghost of the Mountain",
+      "diziid": "aslak",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/61/dagin_hayaleti"
+    },
+    {
+      "season": 6,
+      "episode": 62,
+      "title": "Marsh of Mystery",
+      "diziid": "aslak",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/62/batakliktaki_gizem"
+    },
+    {
+      "season": 7,
+      "episode": 63,
+      "title": "Dragon Island",
+      "diziid": "aslak",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/63/ejderha_adasi"
+    },
+    {
+      "season": 8,
+      "episode": 64,
+      "title": "Journey of Memories",
+      "diziid": "aslak",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/64/anilara_yolculuk"
+    },
+    {
+      "season": 9,
+      "episode": 65,
+      "title": "The Race to Tuliza",
+      "diziid": "aslak",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/65/tuliza_bulma_yarisi"
+    },
+    {
+      "season": 10,
+      "episode": 66,
+      "title": "Mama Binturong",
+      "diziid": "aslak",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/66/anne_binturong"
+    },
+    {
+      "season": 11,
+      "episode": 67,
+      "title": "Friends to the End",
+      "diziid": "aslak",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/67/ebediyen_arkadas"
+    },
+    {
+      "season": 12,
+      "episode": 68,
+      "title": "The Tree of Life",
+      "diziid": "aslak",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/68/hayat_agaci"
+    },
+    {
+      "season": 13,
+      "episode": 69,
+      "title": "The River of Patience",
+      "diziid": "aslak",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/69/sabir_nehri"
+    },
+    {
+      "season": 14,
+      "episode": 70,
+      "title": "Little Old Ginterbong",
+      "diziid": "aslak",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/70/ihtiyar_ginterbong"
+    },
+    {
+      "season": 15,
+      "episode": 71,
+      "title": "Poa the Destroyer",
+      "diziid": "aslak",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/71/yok_edici_poa"
+    },
+    {
+      "season": 16,
+      "episode": 72,
+      "title": "Long Live the Queen",
+      "diziid": "aslak",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/72/cok_yasa_kralice"
+    },
+    {
+      "season": 17,
+      "episode": 73,
+      "title": "The Lake of Reflection",
+      "diziid": "aslak",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/73/yansima_golu"
+    },
+    {
+      "season": 18,
+      "episode": 74,
+      "title": "Triumph of the Roar",
+      "diziid": "aslak",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/74/kukremenin_zaferi"
+    },
+    {
+      "season": 19,
+      "episode": 75,
+      "title": "Journey to the Pride Lands",
+      "diziid": "aslak",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/75/aslan_kayaligina_dogru_yolculuk"
+    },
+    {
+      "season": 20,
+      "episode": 76,
+      "title": "Return to the Pride Lands",
+      "diziid": "aslak",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/76/aslan_kayaligina_geri_donus"
+    },
+    {
+      "season": 1,
+      "episode": 77,
+      "title": "Return of the Roar - Part 1",
+      "diziid": "aslak",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/0/kukreme_donuyor_-_bolum_1"
+    },
+    {
+      "season": 1,
+      "episode": 78,
+      "title": "Return of the Roar - Part 2",
+      "diziid": "aslak",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/aslak/aslan_koruyucular/0/kukreme_donuyor_-_bolum_2"
+    }
+  ]
+}

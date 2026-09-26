@@ -1,0 +1,60 @@
+{
+  "id": "baymax",
+  "title": "baymax!",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BAYMAXPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Cass",
+      "diziid": "baymax",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/baymax/baymax%21/1/cass"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Kiko",
+      "diziid": "baymax",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/baymax/baymax%21/2/kiko"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Sofia",
+      "diziid": "baymax",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/baymax/baymax%21/3/sofia"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Mbita",
+      "diziid": "baymax",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/baymax/baymax%21/4/mbita"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Yachi",
+      "diziid": "baymax",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/baymax/baymax%21/5/yachi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Baymax",
+      "diziid": "baymax",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/baymax/baymax%21/6/baymax"
+    }
+  ]
+}

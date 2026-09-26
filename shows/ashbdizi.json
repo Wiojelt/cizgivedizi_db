@@ -1,0 +1,77 @@
+{
+  "id": "ashbdizi",
+  "title": "avatar: son hava bÃ¼kÃ¼cÃ¼ (dizi)",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/ESKÄ°/dizi/resim/poster/ASHBDPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Macera",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Aang",
+      "diziid": "ashbdizi",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ashbdizi/avatar%3A_son_hava_bukucu_dizi/1/aang"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Warriors",
+      "diziid": "ashbdizi",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ashbdizi/avatar%3A_son_hava_bukucu_dizi/2/savascilar"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Omashu",
+      "diziid": "ashbdizi",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ashbdizi/avatar%3A_son_hava_bukucu_dizi/3/omashu"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Into the Dark",
+      "diziid": "ashbdizi",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ashbdizi/avatar%3A_son_hava_bukucu_dizi/4/karanliga_dogru"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Spirited Away",
+      "diziid": "ashbdizi",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ashbdizi/avatar%3A_son_hava_bukucu_dizi/5/ruhlarin_kacisi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Masks",
+      "diziid": "ashbdizi",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/ashbdizi/avatar%3A_son_hava_bukucu_dizi/6/maskeler"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The North",
+      "diziid": "ashbdizi",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/ashbdizi/avatar%3A_son_hava_bukucu_dizi/7/kuzey"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Legends",
+      "diziid": "ashbdizi",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/ashbdizi/avatar%3A_son_hava_bukucu_dizi/8/efsaneler"
+    }
+  ]
+}

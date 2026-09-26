@@ -1,0 +1,428 @@
+{
+  "id": "bvh",
+  "title": "ben ve holly",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BVHPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Royal Fairy Picnic",
+      "diziid": "bvh",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/1/kraliyet_peri_piknigi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Gaston the Ladybird",
+      "diziid": "bvh",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/2/ugur_bocegi_gaston"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Holly's Magic Wand",
+      "diziid": "bvh",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/3/hollynin_sihirli_degnegi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Elf Farm",
+      "diziid": "bvh",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/4/elf_ciftligi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Daisy and Poppy",
+      "diziid": "bvh",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/5/daisy_ve_poppy"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Queen Thistle's Teapot",
+      "diziid": "bvh",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/6/kralice_thistlein_caydanligi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Frog Prince",
+      "diziid": "bvh",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/7/kurbaga_prens"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The King's Busy Day",
+      "diziid": "bvh",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/8/kralin_yogun_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Fun and Games",
+      "diziid": "bvh",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/9/eglence_ve_oyunlar"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "King Thistle is Not Well",
+      "diziid": "bvh",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/10/kral_thistle_iyi_degil"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Lost Egg",
+      "diziid": "bvh",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/11/kayip_yumurta"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Elf Games",
+      "diziid": "bvh",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/12/elf_oyunlari"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Nanny Plum's Lesson",
+      "diziid": "bvh",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/13/dadi_plumin_dersi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Elf Factory",
+      "diziid": "bvh",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/14/elf_fabrikasi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Mrs Witch",
+      "diziid": "bvh",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/15/bayan_cadi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Elf Joke Day",
+      "diziid": "bvh",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/16/elf_sakalari_gunu"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "King Thistle's New Clothes",
+      "diziid": "bvh",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/17/kral_thistlein_yeni_kiyafetleri"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Elf School",
+      "diziid": "bvh",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/18/elf_okulu"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Royal Golf Course",
+      "diziid": "bvh",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/19/kraliyet_golf_sahasi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Morning, Noon and Night",
+      "diziid": "bvh",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/20/sabah%2C_oglen_ve_aksam"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Gaston's Visit",
+      "diziid": "bvh",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/21/gastonun_ziyareti"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "A Trip to the Seaside",
+      "diziid": "bvh",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/22/deniz_kenarina_yolculuk"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Ben's Birthday Card",
+      "diziid": "bvh",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/23/benin_dogum_gunu_karti"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Books",
+      "diziid": "bvh",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/24/kitaplar"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Betty Caterpillar",
+      "diziid": "bvh",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/25/tirtil_betty"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Queen Holly",
+      "diziid": "bvh",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/26/kralice_holly"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Tooth Fairy",
+      "diziid": "bvh",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/27/dis_perisi"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "The Elf Windmill",
+      "diziid": "bvh",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/28/elf_degirmeni"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "The Elf Band",
+      "diziid": "bvh",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/29/elf_orkestrasi"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "The Ant Hill",
+      "diziid": "bvh",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/30/karinca_tepesi"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Redbeard the Elf Pirate",
+      "diziid": "bvh",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/31/korsan_elf_kizil_sakal"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Tadpoles",
+      "diziid": "bvh",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/32/kurbaga_yavrulari"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Cows",
+      "diziid": "bvh",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/33/inekler"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Queen Thistle's Day Off",
+      "diziid": "bvh",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/34/kralice_thistlein_izin_gunu"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Nature Class",
+      "diziid": "bvh",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/35/doga_dersi"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "The Toy Robot",
+      "diziid": "bvh",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/36/oyuncak_robot"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Big Bad Barry",
+      "diziid": "bvh",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/37/buyuk_kotu_barry"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "King Thistle's Birthday",
+      "diziid": "bvh",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/38/kral_thistlein_dogum_gunu"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "The Wand Factory",
+      "diziid": "bvh",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/39/asa_fabrikasi"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Camping Out",
+      "diziid": "bvh",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/40/kamp_yapiyoruz"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Dinner Party",
+      "diziid": "bvh",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/41/yemekli_parti"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "The Woodpecker",
+      "diziid": "bvh",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/42/agackakan"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Daisy and Poppy's Pet",
+      "diziid": "bvh",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/43/daisy_ile_poppynin_evcil_hayvani"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "The Elf Rocket",
+      "diziid": "bvh",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/44/elf_roketi"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Picnic on the Moon",
+      "diziid": "bvh",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/45/ayda_piknik"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Lucy's Picnic",
+      "diziid": "bvh",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/46/lucynin_piknigi"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Acorn Day",
+      "diziid": "bvh",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/47/mese_palamudu_gunu"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "The Elf Submarine",
+      "diziid": "bvh",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/48/elf_deniz_altisi"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Visiting the Marigolds",
+      "diziid": "bvh",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/49/marigoldlari_ziyaret"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "The Party",
+      "diziid": "bvh",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/50/buyuk_parti"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Snow",
+      "diziid": "bvh",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/51/kar"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "The North Pole",
+      "diziid": "bvh",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/bvh/ben_ve_holly/52/kuzey_kutbu"
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "id": "brey",
+  "title": "barbie: rÃ¼ya evi'nde yaÅŸam",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BREYPoster.avif",
+  "channel": "YouTube",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Closet Princess",
+      "diziid": "brey",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/1/gardirop_prensesi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Happy Birthday Chelsea",
+      "diziid": "brey",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/2/iyi_ki_dogdun_chelsea"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Pet Peeve",
+      "diziid": "brey",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/3/hep_ayni_sey"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Rhapsody in Buttercream",
+      "diziid": "brey",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/4/kremada_rapsodi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Ken-tastic, Hair-tastic",
+      "diziid": "brey",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/5/muhtesem_ken%2C_muhtesem_saclar"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Party Foul",
+      "diziid": "brey",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/6/partide_zor_durum"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Day at the Beach",
+      "diziid": "brey",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/7/sahilde_bir_gun"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Sticker It Up",
+      "diziid": "brey",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/8/yapistir_gitsin"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Oh How Campy",
+      "diziid": "brey",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/9/ne_kamp_ama"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Bad Hair Day",
+      "diziid": "brey",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/10/kotu_sac_gunu"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Licensed to Drive",
+      "diziid": "brey",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/11/surucu_ehliyeti"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "I Want My BTV",
+      "diziid": "brey",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/12/ben_btvmi_isterim"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Gifts, Goofs, Galore",
+      "diziid": "brey",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/13/hediyeler%2C_hatalar%2C_hepsi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "The Barbie Boutique",
+      "diziid": "brey",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/14/barbie_butik"
+    },
+    {
+      "season": 1,
+      "episode": 15,
+      "title": "The Reunion Show",
+      "diziid": "brey",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/15/yeniden_bulusma_gecesi"
+    },
+    {
+      "season": 2,
+      "episode": 16,
+      "title": "Closet Princess 2.0",
+      "diziid": "brey",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/16/dolap_prensesi_2.0"
+    },
+    {
+      "season": 3,
+      "episode": 17,
+      "title": "Sisters Ahoy",
+      "diziid": "brey",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/17/hey_kiz_kardesler"
+    },
+    {
+      "season": 4,
+      "episode": 18,
+      "title": "The Shrinkerator",
+      "diziid": "brey",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/18/kucultucu"
+    },
+    {
+      "season": 5,
+      "episode": 19,
+      "title": "Plethora of Puppies",
+      "diziid": "brey",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/19/bir_suru_yavru_kopek"
+    },
+    {
+      "season": 6,
+      "episode": 20,
+      "title": "Closet Clothes Out",
+      "diziid": "brey",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/20/gardirobu_bosalt"
+    },
+    {
+      "season": 7,
+      "episode": 21,
+      "title": "Accidentally on Porpoise",
+      "diziid": "brey",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/21/chelseanin_yunuslari"
+    },
+    {
+      "season": 8,
+      "episode": 22,
+      "title": "Gone Glitter Gone - Part 1",
+      "diziid": "brey",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/22/parilti_tukendi_bilmez_1"
+    },
+    {
+      "season": 9,
+      "episode": 23,
+      "title": "Gone Glitter Gone - Part 2",
+      "diziid": "brey",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/23/parilti_tukendi_bilmez_2"
+    },
+    {
+      "season": 1,
+      "episode": 24,
+      "title": "Playing Heart to Get",
+      "diziid": "brey",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/24/sevgililer_gunu"
+    },
+    {
+      "season": 2,
+      "episode": 25,
+      "title": "Catty on the Catwalk",
+      "diziid": "brey",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/25/podyum_sinsiligi"
+    },
+    {
+      "season": 3,
+      "episode": 26,
+      "title": "Help Wanted",
+      "diziid": "brey",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/26/yardimci_araniyor"
+    },
+    {
+      "season": 4,
+      "episode": 27,
+      "title": "A Spooky Sleepover",
+      "diziid": "brey",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/27/urkutucu_pijama_partisi"
+    },
+    {
+      "season": 5,
+      "episode": 28,
+      "title": "A Smidge of Midge",
+      "diziid": "brey",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/28/bir_tutam_midge"
+    },
+    {
+      "season": 6,
+      "episode": 29,
+      "title": "Occupational Hazards",
+      "diziid": "brey",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/29/mesleki_tehlikeler"
+    },
+    {
+      "season": 7,
+      "episode": 30,
+      "title": "Oh How Campy, Too",
+      "diziid": "brey",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/30/cok_da_yapmacik"
+    },
+    {
+      "season": 8,
+      "episode": 31,
+      "title": "Let's Make a Doll",
+      "diziid": "brey",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/31/bir_bebek_yapalim"
+    },
+    {
+      "season": 1,
+      "episode": 32,
+      "title": "Endless Summer",
+      "diziid": "brey",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/32/summerin_gelisi"
+    },
+    {
+      "season": 2,
+      "episode": 33,
+      "title": "Sour Loser",
+      "diziid": "brey",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/33/chelseanin_limonata_dukkani"
+    },
+    {
+      "season": 3,
+      "episode": 34,
+      "title": "Another Day at the Beach",
+      "diziid": "brey",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/34/plajda_bir_gun"
+    },
+    {
+      "season": 4,
+      "episode": 35,
+      "title": "Happy Bathday to You",
+      "diziid": "brey",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/35/mutlu_banyo_gunu"
+    },
+    {
+      "season": 5,
+      "episode": 36,
+      "title": "Cringing in the Rain",
+      "diziid": "brey",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/36/yagmur_eglencesi"
+    },
+    {
+      "season": 6,
+      "episode": 37,
+      "title": "The Ken Den",
+      "diziid": "brey",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/37/kenin_yeri"
+    },
+    {
+      "season": 7,
+      "episode": 38,
+      "title": "Primp My Ride",
+      "diziid": "brey",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/38/kenin_dogum_gunu_hediyesi"
+    },
+    {
+      "season": 8,
+      "episode": 39,
+      "title": "Mall Mayhem",
+      "diziid": "brey",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/39/malibuda_alisveris_macerasi"
+    },
+    {
+      "season": 9,
+      "episode": 40,
+      "title": "The Upgradening",
+      "diziid": "brey",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/40/barbienin_sonsuz_gardirobuna_yolculuk"
+    },
+    {
+      "season": 1,
+      "episode": 41,
+      "title": "Doctor Barbie",
+      "diziid": "brey",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/41/doktor_barbie"
+    },
+    {
+      "season": 2,
+      "episode": 42,
+      "title": "Stuck with You",
+      "diziid": "brey",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/42/sensiz_olmaz"
+    },
+    {
+      "season": 3,
+      "episode": 43,
+      "title": "The Only Way to Fly",
+      "diziid": "brey",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/43/ucmanin_tek_yolu"
+    },
+    {
+      "season": 4,
+      "episode": 44,
+      "title": "Perf Pool Party",
+      "diziid": "brey",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/44/muhtesem_havuz_partisi"
+    },
+    {
+      "season": 5,
+      "episode": 45,
+      "title": "Trapped in the Dreamhouse",
+      "diziid": "brey",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/45/barbie_fashionistas%3A_sonsuz_gardirop_macerasi"
+    },
+    {
+      "season": 1,
+      "episode": 46,
+      "title": "Style Super Squad - Part 1",
+      "diziid": "brey",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/46/barbie_super_takim_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 47,
+      "title": "Style Super Squad - Part 2",
+      "diziid": "brey",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/47/barbie_super_takim_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 48,
+      "title": "Little Bad Dress",
+      "diziid": "brey",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/48/kucuk_cirkin_bir_elbise"
+    },
+    {
+      "season": 4,
+      "episode": 49,
+      "title": "Going to the Dogs",
+      "diziid": "brey",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/49/rezil_olduk"
+    },
+    {
+      "season": 5,
+      "episode": 50,
+      "title": "Dream a Little Dreamhouse",
+      "diziid": "brey",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/50/kucuk_bir_ruya_evi_hayal_et"
+    },
+    {
+      "season": 6,
+      "episode": 51,
+      "title": "Mayor of Malibu",
+      "diziid": "brey",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/51/barbie_malibu_belediye_baskani"
+    },
+    {
+      "season": 7,
+      "episode": 52,
+      "title": "Bizzaro Barbie",
+      "diziid": "brey",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/52/barbieye_neler_oluyor"
+    },
+    {
+      "season": 8,
+      "episode": 53,
+      "title": "Doll vs. Dessert",
+      "diziid": "brey",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/53/oyuncak_bebek_tatliya_karsi"
+    },
+    {
+      "season": 9,
+      "episode": 54,
+      "title": "Going Viral",
+      "diziid": "brey",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/54/populer_video"
+    },
+    {
+      "season": 10,
+      "episode": 55,
+      "title": "Girls Day Out",
+      "diziid": "brey",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/55/kiz_kiza_eglence"
+    },
+    {
+      "season": 11,
+      "episode": 56,
+      "title": "Business Is Barking",
+      "diziid": "brey",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/56/kopekler_is_basinda"
+    },
+    {
+      "season": 12,
+      "episode": 57,
+      "title": "When the Cat's Away",
+      "diziid": "brey",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/57/kediler_yokken"
+    },
+    {
+      "season": 13,
+      "episode": 58,
+      "title": "The Amaze Chase",
+      "diziid": "brey",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/58/muhtesem_takip"
+    },
+    {
+      "season": 14,
+      "episode": 59,
+      "title": "Ice Ice, Barbie - Part 1",
+      "diziid": "brey",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/59/buz_gibi_barbie_bolum_1"
+    },
+    {
+      "season": 15,
+      "episode": 60,
+      "title": "Ice Ice, Barbie - Part 2",
+      "diziid": "brey",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/60/buz_gibi_barbie_bolum_2"
+    },
+    {
+      "season": 16,
+      "episode": 61,
+      "title": "New Girl in Town",
+      "diziid": "brey",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/61/sehrin_yeni_kizi"
+    },
+    {
+      "season": 1,
+      "episode": 62,
+      "title": "Malibu's Empirical Emporium",
+      "diziid": "brey",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/62/malibunun_bilim_magazasi"
+    },
+    {
+      "season": 2,
+      "episode": 63,
+      "title": "Red Carpet Caper",
+      "diziid": "brey",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/63/barbie_kirmizi_halida"
+    },
+    {
+      "season": 3,
+      "episode": 64,
+      "title": "Mission Impawsible",
+      "diziid": "brey",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/64/gorevimiz_kedili"
+    },
+    {
+      "season": 4,
+      "episode": 65,
+      "title": "The Telethon",
+      "diziid": "brey",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/65/program"
+    },
+    {
+      "season": 5,
+      "episode": 66,
+      "title": "Don't Bet on It",
+      "diziid": "brey",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/66/cok_emin_olma"
+    },
+    {
+      "season": 6,
+      "episode": 67,
+      "title": "Dissin' Cousins",
+      "diziid": "brey",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/67/rakip_kuzenler"
+    },
+    {
+      "season": 7,
+      "episode": 68,
+      "title": "Alone in the Dreamhouse",
+      "diziid": "brey",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/68/ruya_evinde_tek_basina"
+    },
+    {
+      "season": 8,
+      "episode": 69,
+      "title": "Mooning Over You",
+      "diziid": "brey",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/69/ay_tepemizde"
+    },
+    {
+      "season": 9,
+      "episode": 70,
+      "title": "Sidewalk Showdown",
+      "diziid": "brey",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/70/kaldirim_defilesi"
+    },
+    {
+      "season": 10,
+      "episode": 71,
+      "title": "Sister's Fun Day",
+      "diziid": "brey",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/71/kizlarla_bulusma_gunu"
+    },
+    {
+      "season": 11,
+      "episode": 72,
+      "title": "Send in the Clones - Part 1",
+      "diziid": "brey",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/72/klonlar_bolum_1"
+    },
+    {
+      "season": 12,
+      "episode": 73,
+      "title": "Send in the Clones - Part 2",
+      "diziid": "brey",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/73/klonlar_bolum_2"
+    },
+    {
+      "season": 13,
+      "episode": 74,
+      "title": "Send in the Clones - Part 3",
+      "diziid": "brey",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/74/klonlar_bolum_3"
+    },
+    {
+      "season": 14,
+      "episode": 75,
+      "title": "The Fantasticest Journey",
+      "diziid": "brey",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/brey/barbie%3A_ruya_evinde_yasam/75/muhtesem_yolculuk"
+    }
+  ]
+}

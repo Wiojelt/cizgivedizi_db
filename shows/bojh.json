@@ -1,0 +1,629 @@
+{
+  "id": "bojh",
+  "title": "bojack horseman",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BOJHPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "Dram"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The BoJack Horseman Story, Chapter One",
+      "diziid": "bojh",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/1/bojack_horseman%3A_bojack_horsemanin_hikayesi%2C_bolum_bir"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "BoJack Hates the Troops",
+      "diziid": "bojh",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/2/bojack_askerlerden_nefret_ediyor"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Prickly-Muffin",
+      "diziid": "bojh",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/3/huysuz_kek"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "ZoÃ«s and Zeldas",
+      "diziid": "bojh",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/4/zoeler_ve_zeldalar"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Live Fast, Diane Nguyen",
+      "diziid": "bojh",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/5/hizli_yasa_diane_nguyen"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Our A-Story Is a 'D' Story",
+      "diziid": "bojh",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/6/bizimkisi_bir_d_hikayesi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Say Anything",
+      "diziid": "bojh",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/7/bir_sey_soyle"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Telescope",
+      "diziid": "bojh",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/8/teleskop"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Horse Majeure",
+      "diziid": "bojh",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/9/acil_durum"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "One Trick Pony",
+      "diziid": "bojh",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/10/tek_numara_bilen_midilli"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Downer Ending",
+      "diziid": "bojh",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/11/moral_bozucu_bir_son"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Later",
+      "diziid": "bojh",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/12/acelesi_yok"
+    },
+    {
+      "season": 2,
+      "episode": 13,
+      "title": "Brand New Couch",
+      "diziid": "bojh",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/14/yepyeni_bir_kanepe"
+    },
+    {
+      "season": 3,
+      "episode": 14,
+      "title": "Yesterdayland",
+      "diziid": "bojh",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/15/gecmisten_gelen"
+    },
+    {
+      "season": 4,
+      "episode": 15,
+      "title": "Still Broken",
+      "diziid": "bojh",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/16/kirik"
+    },
+    {
+      "season": 5,
+      "episode": 16,
+      "title": "After the Party",
+      "diziid": "bojh",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/17/parti_sonrasi"
+    },
+    {
+      "season": 6,
+      "episode": 17,
+      "title": "Chickens",
+      "diziid": "bojh",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/18/tavuklar"
+    },
+    {
+      "season": 7,
+      "episode": 18,
+      "title": "Higher Love",
+      "diziid": "bojh",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/19/sihirli_soz"
+    },
+    {
+      "season": 8,
+      "episode": 19,
+      "title": "Hank After Dark",
+      "diziid": "bojh",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/20/hank_after_dark"
+    },
+    {
+      "season": 9,
+      "episode": 20,
+      "title": "Let's Find Out",
+      "diziid": "bojh",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/21/hadi_ogrenelim"
+    },
+    {
+      "season": 10,
+      "episode": 21,
+      "title": "The Shot",
+      "diziid": "bojh",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/22/cekim"
+    },
+    {
+      "season": 11,
+      "episode": 22,
+      "title": "Yes And",
+      "diziid": "bojh",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/23/evet_ama"
+    },
+    {
+      "season": 12,
+      "episode": 23,
+      "title": "Escape from L.A.",
+      "diziid": "bojh",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/24/laden_kacis"
+    },
+    {
+      "season": 1,
+      "episode": 24,
+      "title": "Out to Sea",
+      "diziid": "bojh",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/25/denizde"
+    },
+    {
+      "season": 2,
+      "episode": 25,
+      "title": "Start Spreading the News",
+      "diziid": "bojh",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/26/haberi_yayalim"
+    },
+    {
+      "season": 3,
+      "episode": 26,
+      "title": "The BoJack Horseman Show",
+      "diziid": "bojh",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/27/the_bojack_horseman_show"
+    },
+    {
+      "season": 4,
+      "episode": 27,
+      "title": "BoJack Kills",
+      "diziid": "bojh",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/28/katil_bojack"
+    },
+    {
+      "season": 5,
+      "episode": 28,
+      "title": "Fish Out of Water",
+      "diziid": "bojh",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/29/sudan_cikmis_balik"
+    },
+    {
+      "season": 6,
+      "episode": 29,
+      "title": "Love And/Or Marriage",
+      "diziid": "bojh",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/30/ask_ve__veya_evlilik"
+    },
+    {
+      "season": 7,
+      "episode": 30,
+      "title": "Brrap Brrap Pew Pew",
+      "diziid": "bojh",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/31/brrap_brrap_pew_pew"
+    },
+    {
+      "season": 8,
+      "episode": 31,
+      "title": "Stop the Presses",
+      "diziid": "bojh",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/32/baskiyi_durdurun"
+    },
+    {
+      "season": 9,
+      "episode": 32,
+      "title": "Old Acquaintance",
+      "diziid": "bojh",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/33/eski_tanidik"
+    },
+    {
+      "season": 10,
+      "episode": 33,
+      "title": "Best Thing That Ever Happened",
+      "diziid": "bojh",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/34/basima_gelen_en_iyi_sey"
+    },
+    {
+      "season": 11,
+      "episode": 34,
+      "title": "It's You",
+      "diziid": "bojh",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/35/mesele_sensin"
+    },
+    {
+      "season": 12,
+      "episode": 35,
+      "title": "That's Too Much, Man!",
+      "diziid": "bojh",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/36/bu_kadari_da_fazla%21"
+    },
+    {
+      "season": 1,
+      "episode": 36,
+      "title": "That Went Well",
+      "diziid": "bojh",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/37/her_sey_yolunda"
+    },
+    {
+      "season": 2,
+      "episode": 37,
+      "title": "See Mr. Peanutbutter Run",
+      "diziid": "bojh",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/38/mr._peanutbutterin_adayligi"
+    },
+    {
+      "season": 3,
+      "episode": 38,
+      "title": "The Old Sugarman Place",
+      "diziid": "bojh",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/39/sugarmanlarin_eski_evi"
+    },
+    {
+      "season": 4,
+      "episode": 39,
+      "title": "Hooray! Todd Episode!",
+      "diziid": "bojh",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/40/yasasin%21_toddlu_bolum%21"
+    },
+    {
+      "season": 5,
+      "episode": 40,
+      "title": "Commence Fracking",
+      "diziid": "bojh",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/41/hidrolik_kirilmayi_baslatin"
+    },
+    {
+      "season": 6,
+      "episode": 41,
+      "title": "Thoughts and Prayers",
+      "diziid": "bojh",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/42/dusunceler_ve_dualar"
+    },
+    {
+      "season": 7,
+      "episode": 42,
+      "title": "Stupid Piece of Sh*t",
+      "diziid": "bojh",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/43/bes_para_etmez_pislik"
+    },
+    {
+      "season": 8,
+      "episode": 43,
+      "title": "Underground",
+      "diziid": "bojh",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/44/yeralti"
+    },
+    {
+      "season": 9,
+      "episode": 44,
+      "title": "The Judge",
+      "diziid": "bojh",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/45/yargic"
+    },
+    {
+      "season": 10,
+      "episode": 45,
+      "title": "Ruthie",
+      "diziid": "bojh",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/46/ruthie"
+    },
+    {
+      "season": 11,
+      "episode": 46,
+      "title": "lovin that cali lifestyle!!",
+      "diziid": "bojh",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/47/kaliforniya_yasam_tarzina_bayiliyorum%21%21"
+    },
+    {
+      "season": 12,
+      "episode": 47,
+      "title": "Time's Arrow",
+      "diziid": "bojh",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/48/times_arrow"
+    },
+    {
+      "season": 1,
+      "episode": 48,
+      "title": "What Time Is It Right Now",
+      "diziid": "bojh",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/49/su_anda_saat_kac"
+    },
+    {
+      "season": 2,
+      "episode": 49,
+      "title": "The Light Bulb Scene",
+      "diziid": "bojh",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/50/ampul_sahnesi"
+    },
+    {
+      "season": 3,
+      "episode": 50,
+      "title": "The Dog Days Are Over",
+      "diziid": "bojh",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/51/bir_iliskinin_ardindan"
+    },
+    {
+      "season": 4,
+      "episode": 51,
+      "title": "Planned Obsolescence",
+      "diziid": "bojh",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/52/planli_eskitme"
+    },
+    {
+      "season": 5,
+      "episode": 52,
+      "title": "BoJack the Feminist",
+      "diziid": "bojh",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/53/feminist_bojack"
+    },
+    {
+      "season": 6,
+      "episode": 53,
+      "title": "The Amelia Earhart Story",
+      "diziid": "bojh",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/54/amelia_earhartin_hikayesi"
+    },
+    {
+      "season": 7,
+      "episode": 54,
+      "title": "Free Churro",
+      "diziid": "bojh",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/55/bedava_churro"
+    },
+    {
+      "season": 8,
+      "episode": 55,
+      "title": "INT. SUB",
+      "diziid": "bojh",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/56/denizaltinin_ici"
+    },
+    {
+      "season": 9,
+      "episode": 56,
+      "title": "Mr. Peanutbutter's Boos",
+      "diziid": "bojh",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/57/mr._peanutbutterin_kiz_arkadaslari"
+    },
+    {
+      "season": 10,
+      "episode": 57,
+      "title": "Ancient History",
+      "diziid": "bojh",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/58/her_sey_gecmiste_kaldi"
+    },
+    {
+      "season": 11,
+      "episode": 58,
+      "title": "Head in the Clouds",
+      "diziid": "bojh",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/59/aklim_havada"
+    },
+    {
+      "season": 12,
+      "episode": 59,
+      "title": "The Showstopper",
+      "diziid": "bojh",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/60/dizinin_kostegi"
+    },
+    {
+      "season": 1,
+      "episode": 60,
+      "title": "The Stopped Show",
+      "diziid": "bojh",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/61/durdurulan_dizi"
+    },
+    {
+      "season": 2,
+      "episode": 61,
+      "title": "A Horse Walks into a Rehab",
+      "diziid": "bojh",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/62/bir_at_rehabilitasyona_gider"
+    },
+    {
+      "season": 3,
+      "episode": 62,
+      "title": "The New Client",
+      "diziid": "bojh",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/63/yeni_musteri"
+    },
+    {
+      "season": 4,
+      "episode": 63,
+      "title": "Feel-Good Story",
+      "diziid": "bojh",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/64/iyi_hissettiren_hikaye"
+    },
+    {
+      "season": 5,
+      "episode": 64,
+      "title": "Surprise!",
+      "diziid": "bojh",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/65/bir_surpriz"
+    },
+    {
+      "season": 6,
+      "episode": 65,
+      "title": "A Little Uneven, Is All",
+      "diziid": "bojh",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/66/birazcik_yamuk%2C_hepsi_bu"
+    },
+    {
+      "season": 7,
+      "episode": 66,
+      "title": "The Kidney Stays in the Picture",
+      "diziid": "bojh",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/67/bobrek_konusu_kapanmiyor"
+    },
+    {
+      "season": 8,
+      "episode": 67,
+      "title": "The Face of Depression",
+      "diziid": "bojh",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/68/depresyonun_yuzu"
+    },
+    {
+      "season": 9,
+      "episode": 68,
+      "title": "A Quick One, While He's Away",
+      "diziid": "bojh",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/69/o_yokken%2C_cabucak_bir_tane"
+    },
+    {
+      "season": 10,
+      "episode": 69,
+      "title": "Intermediate Scene Study w/ BoJack Horseman",
+      "diziid": "bojh",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/70/bojack_horsemanla_orta_duzey_rol_calismasi"
+    },
+    {
+      "season": 11,
+      "episode": 70,
+      "title": "Good Damage",
+      "diziid": "bojh",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/71/iyi_hasar"
+    },
+    {
+      "season": 12,
+      "episode": 71,
+      "title": "Sunk Cost and All That",
+      "diziid": "bojh",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/72/batik_maliyet_ve_niceleri"
+    },
+    {
+      "season": 13,
+      "episode": 72,
+      "title": "Xerox of a Xerox",
+      "diziid": "bojh",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/73/fotokopinin_fotokopisi"
+    },
+    {
+      "season": 14,
+      "episode": 73,
+      "title": "The Horny Unicorn",
+      "diziid": "bojh",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/74/boynuzlayan_tek_boynuzlu"
+    },
+    {
+      "season": 15,
+      "episode": 74,
+      "title": "Angela",
+      "diziid": "bojh",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/75/angela"
+    },
+    {
+      "season": 16,
+      "episode": 75,
+      "title": "The View from Halfway Down",
+      "diziid": "bojh",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/76/yari_yoldaki_manzara"
+    },
+    {
+      "season": 17,
+      "episode": 76,
+      "title": "Nice While It Lasted",
+      "diziid": "bojh",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/77/yine_de_guzeldi"
+    },
+    {
+      "season": 1,
+      "episode": 77,
+      "title": "Sabrina's Christmas Wish",
+      "diziid": "bojh",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bojh/bojack_horseman/13/christinanin_yilbasi_dilegi"
+    }
+  ]
+}

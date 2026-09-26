@@ -1,0 +1,93 @@
+{
+  "id": "bb",
+  "title": "beatbuds",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BBPoster.avif",
+  "channel": "Nick Jr.",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici",
+    "MÃ¼zik/MÃ¼zikal"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Hello BeatBuddies",
+      "diziid": "bb",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bb/beatbuds/1/merhaba_beatbuds"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Silly Monkey",
+      "diziid": "bb",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bb/beatbuds/2/saskin_maymun"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Dino Dance!",
+      "diziid": "bb",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bb/beatbuds/3/dinozor_dansi%21"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Planets Song",
+      "diziid": "bb",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bb/beatbuds/4/gezegenler"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Froggy Hop",
+      "diziid": "bb",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bb/beatbuds/5/kurbaga_hoplamasi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Save the Day!",
+      "diziid": "bb",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bb/beatbuds/6/gunu_kurtar"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Up Down",
+      "diziid": "bb",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bb/beatbuds/7/yukari__asagi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Racer",
+      "diziid": "bb",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bb/beatbuds/8/bir_numarali_yarisci"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Sam the Garbage Man",
+      "diziid": "bb",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bb/beatbuds/9/cop_adam_sam"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Get Outside...AND ROCK!",
+      "diziid": "bb",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bb/beatbuds/10/disari_cik_ve_ortaligi_salla%21"
+    }
+  ]
+}

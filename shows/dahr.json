@@ -1,0 +1,61 @@
+{
+  "id": "dahr",
+  "title": "dahilerin rekabeti",
+  "type": "other",
+  "poster": "https://cizgivedizi.com/resim/DAHRPoster.avif",
+  "channel": "Da Vinci",
+  "genres": [
+    "Tarihi",
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 2,
+      "episode": 1,
+      "title": "Wright Brothers vs. Curtiss",
+      "diziid": "dahr",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/dahr/dahilerin_rekabeti/2/wright_kardesler%2C_curtisse_karsi"
+    },
+    {
+      "season": 3,
+      "episode": 2,
+      "title": "Farnsworth vs. Sarnoff",
+      "diziid": "dahr",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/dahr/dahilerin_rekabeti/3/farnsworth%2C_sarnoffa_karsi"
+    },
+    {
+      "season": 4,
+      "episode": 3,
+      "title": "Hearst vs. Pulitzer",
+      "diziid": "dahr",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/dahr/dahilerin_rekabeti/4/hearst%2C_pulitzera_karsi"
+    },
+    {
+      "season": 5,
+      "episode": 4,
+      "title": "Space Race",
+      "diziid": "dahr",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/dahr/dahilerin_rekabeti/5/amerika%2C_sovyetler_birligine_karsi"
+    },
+    {
+      "season": 7,
+      "episode": 5,
+      "title": "Oppenheimer vs. Heisenberg",
+      "diziid": "dahr",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/dahr/dahilerin_rekabeti/7/oppenheimer%2C_heisenberge_karsi"
+    },
+    {
+      "season": 8,
+      "episode": 6,
+      "title": "Edison vs. Tesla",
+      "diziid": "dahr",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/dahr/dahilerin_rekabeti/8/edison%2C_teslaya_karsi"
+    }
+  ]
+}

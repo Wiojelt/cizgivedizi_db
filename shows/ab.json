@@ -1,0 +1,420 @@
+{
+  "id": "ab",
+  "title": "ajan binky",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ABPoster.avif",
+  "channel": "Boomerang",
+  "genres": [
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "No Moussie Left Behind",
+      "diziid": "ab",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/1/geride_fare_birakilmaz"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Dragonfly Away!",
+      "diziid": "ab",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/2/yusufcuk_gitti%21"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "A Fly in My Fluff",
+      "diziid": "ab",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/3/dugumde_bir_sinek"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Fly Me to Balloon",
+      "diziid": "ab",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/4/beni_balona_ucur"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Glow Away",
+      "diziid": "ab",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/5/parilti"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Space Station Flappy",
+      "diziid": "ab",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/6/sarkan_uzay_istasyonu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Chew Chew Challenge",
+      "diziid": "ab",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/7/cigneme_yarisi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Ice Cream Shuttle",
+      "diziid": "ab",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/8/dondurma_mekigi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Dog Gone Cat",
+      "diziid": "ab",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/9/kopek_kedi_olursa"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "PURST Games",
+      "diziid": "ab",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/10/purst_oyunlari"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Hit the Road, Roach",
+      "diziid": "ab",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/11/hamam_bocegiyle_sinav"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Vacuum Vamoose",
+      "diziid": "ab",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/12/toz_ol_supurge"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Pumpking",
+      "diziid": "ab",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/13/bal_kapagi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Happy PURSTgiving",
+      "diziid": "ab",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/14/mutlu_purst_gunu"
+    },
+    {
+      "season": 16,
+      "episode": 15,
+      "title": "Bad Fur Day",
+      "diziid": "ab",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/16/kotu_kurk_gunu"
+    },
+    {
+      "season": 17,
+      "episode": 16,
+      "title": "Bye Bye Butterfly",
+      "diziid": "ab",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/17/hosca_kal_kelebek"
+    },
+    {
+      "season": 18,
+      "episode": 17,
+      "title": "Robots Gotta Go",
+      "diziid": "ab",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/18/robotlar_gitmeli"
+    },
+    {
+      "season": 19,
+      "episode": 18,
+      "title": "Roamer Rescue",
+      "diziid": "ab",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/19/gezgini_kurtarma"
+    },
+    {
+      "season": 20,
+      "episode": 19,
+      "title": "Snack Attack",
+      "diziid": "ab",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/20/abur_cubur_saldirisi"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "Flea Fling",
+      "diziid": "ab",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/21/pire_savurma"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "Free Fuzzy Wuzzy",
+      "diziid": "ab",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/22/bedava_tuylu_sey"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "Parcel Panic",
+      "diziid": "ab",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/23/paket_panigi"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "Chirp Chirp",
+      "diziid": "ab",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/24/cir_cir"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "Green Gobblers",
+      "diziid": "ab",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/25/yesil_yiyecek"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "Gobble's Gotta Go",
+      "diziid": "ab",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/26/yut_ve_git"
+    },
+    {
+      "season": 27,
+      "episode": 26,
+      "title": "Undercover of the Night",
+      "diziid": "ab",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/27/gecenin_ortusu_altinda"
+    },
+    {
+      "season": 28,
+      "episode": 27,
+      "title": "Unidentified FUN Object",
+      "diziid": "ab",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/28/tanimlanamayan_eglence_nesnesi"
+    },
+    {
+      "season": 29,
+      "episode": 28,
+      "title": "Moussie Mischief",
+      "diziid": "ab",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/29/yaramaz_fare"
+    },
+    {
+      "season": 30,
+      "episode": 29,
+      "title": "Who's the WURST?",
+      "diziid": "ab",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/30/kimmis_bu_kus"
+    },
+    {
+      "season": 31,
+      "episode": 30,
+      "title": "T'was the Night Before PURSTmas",
+      "diziid": "ab",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/31/purst_gecesi_oncesi"
+    },
+    {
+      "season": 32,
+      "episode": 31,
+      "title": "We Wish You a Merry PURSTmas",
+      "diziid": "ab",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/32/purst_gunu_kutlamasi"
+    },
+    {
+      "season": 33,
+      "episode": 32,
+      "title": "Purrfect Present",
+      "diziid": "ab",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/33/mukemmel_hediye"
+    },
+    {
+      "season": 34,
+      "episode": 33,
+      "title": "Stickin' Together",
+      "diziid": "ab",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/34/birlik_olmak"
+    },
+    {
+      "season": 35,
+      "episode": 34,
+      "title": "Gordon's Buddy-Bot",
+      "diziid": "ab",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/35/gordonin_robot_dostu"
+    },
+    {
+      "season": 36,
+      "episode": 35,
+      "title": "Adventures in Pet Sitting",
+      "diziid": "ab",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/36/hayvan_bakiciligi_maceralari"
+    },
+    {
+      "season": 37,
+      "episode": 36,
+      "title": "Lights, Camera, Agents",
+      "diziid": "ab",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/37/isik%2C_kamera%2C_ajanlar"
+    },
+    {
+      "season": 38,
+      "episode": 37,
+      "title": "A Walk in the Park",
+      "diziid": "ab",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/38/parkta_yurumek_gibi"
+    },
+    {
+      "season": 39,
+      "episode": 38,
+      "title": "Puzzlers",
+      "diziid": "ab",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/39/purst_yapbozlari"
+    },
+    {
+      "season": 40,
+      "episode": 39,
+      "title": "Little Stinker",
+      "diziid": "ab",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/40/kucuk_kokarca"
+    },
+    {
+      "season": 41,
+      "episode": 40,
+      "title": "Dog Day",
+      "diziid": "ab",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/41/kopek_gunu"
+    },
+    {
+      "season": 42,
+      "episode": 41,
+      "title": "Loo Rocks",
+      "diziid": "ab",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/42/loo_cok_iyi"
+    },
+    {
+      "season": 43,
+      "episode": 42,
+      "title": "Astounding Sounds",
+      "diziid": "ab",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/43/kulak_cinlatan_sesler"
+    },
+    {
+      "season": 44,
+      "episode": 43,
+      "title": "Dolly Folly",
+      "diziid": "ab",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/44/mini_mini"
+    },
+    {
+      "season": 45,
+      "episode": 44,
+      "title": "Binky Bunny",
+      "diziid": "ab",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/45/binky_tavsani"
+    },
+    {
+      "season": 46,
+      "episode": 45,
+      "title": "Dig Dog",
+      "diziid": "ab",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/46/kopek_kazar"
+    },
+    {
+      "season": 47,
+      "episode": 46,
+      "title": "Light Fright",
+      "diziid": "ab",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/47/isik_korkusu"
+    },
+    {
+      "season": 48,
+      "episode": 47,
+      "title": "Loo on the Loose",
+      "diziid": "ab",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/48/kacak_loo"
+    },
+    {
+      "season": 49,
+      "episode": 48,
+      "title": "PURST Pearl",
+      "diziid": "ab",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/49/purst_incisi"
+    },
+    {
+      "season": 50,
+      "episode": 49,
+      "title": "Blanky Boo-Boo",
+      "diziid": "ab",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/50/kayip_battaniye"
+    },
+    {
+      "season": 51,
+      "episode": 50,
+      "title": "Pets of the Universe",
+      "diziid": "ab",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/51/evrenin_ev_hayvanlari"
+    },
+    {
+      "season": 52,
+      "episode": 51,
+      "title": "Ready for Space Travel",
+      "diziid": "ab",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/ab/ajan_binky/52/uzay_seyahatine_hazir%21"
+    }
+  ]
+}

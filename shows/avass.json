@@ -1,0 +1,1029 @@
+{
+  "id": "avass",
+  "title": "marvel: yenilmezler birliÄŸi",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/AVASSPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Avengers Protocol Part 1",
+      "diziid": "avass",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/1/yenilmezler_protokolu_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The Avengers Protocol Part 2",
+      "diziid": "avass",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/2/yenilmezler_protokolu_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Ghost of a Chance",
+      "diziid": "avass",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/3/bir_sansin_hayaleti"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Serpent of Doom",
+      "diziid": "avass",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/4/kiyamet_yilani"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Blood Feud",
+      "diziid": "avass",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/5/kan_davasi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Super Adaptoid",
+      "diziid": "avass",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/6/super_adaptoid"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Hyperion",
+      "diziid": "avass",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/7/hyperion"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Molecule Kid",
+      "diziid": "avass",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/8/molekul_cocuk"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Depth Charge",
+      "diziid": "avass",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/9/sualti_bombasi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Doomstroyer",
+      "diziid": "avass",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/10/doomstroyer"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Hulked Out Heroes",
+      "diziid": "avass",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/11/hulk%E2%80%99siz_kahramanlar"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Avengers: Impossible!",
+      "diziid": "avass",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/12/yenilmezler%3A_asla%21"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "In Deep",
+      "diziid": "avass",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/13/derinde"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Hulk's Day Out",
+      "diziid": "avass",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/14/hulk_gunu"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Planet Doom",
+      "diziid": "avass",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/15/gezegen_kiyameti"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Bring on the Bad Guys",
+      "diziid": "avass",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/16/kotu_adamlari_getirin"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Savages",
+      "diziid": "avass",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/17/vahsiler"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Mojoworld",
+      "diziid": "avass",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/18/mojostan"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "The Ambassador",
+      "diziid": "avass",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/19/buyukelci"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "All-Father's Day",
+      "diziid": "avass",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/20/babalar_gunu"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "By the Numbers",
+      "diziid": "avass",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/21/insan"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Guardians and Space Knights",
+      "diziid": "avass",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/22/muhafizlar_ve_uzay_sovalyeleri"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "One Little Thing",
+      "diziid": "avass",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/23/kucuk_bir_sey"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Crime and Circuses",
+      "diziid": "avass",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/24/suc_ve_sirkler"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Exodus",
+      "diziid": "avass",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/25/goc"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "The Final Showdown",
+      "diziid": "avass",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/26/son_gosteri"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "The Arsenal",
+      "diziid": "avass",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/27/arsenal"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Thanos Rising",
+      "diziid": "avass",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/28/thanos_yukseliyor"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Valhalla Can Wait",
+      "diziid": "avass",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/29/valhalla_bekleyebilir"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Ghosts of the Past",
+      "diziid": "avass",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/30/gecmisin_hayaletleri"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Beneath the Surface",
+      "diziid": "avass",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/31/yuzeyin_altinda"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Nighthawk",
+      "diziid": "avass",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/32/gece_sahini"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "The Age of Tony Stark",
+      "diziid": "avass",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/33/tony_starkin_cagi"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Head to Head",
+      "diziid": "avass",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/34/kafa_kafaya"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "The Dark Avengers",
+      "diziid": "avass",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/35/karanlik_yenilmezler"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Back to the Learning Hall",
+      "diziid": "avass",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/36/ogrenme_salonuna_geri_don"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Downgraded",
+      "diziid": "avass",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/37/eski_surum"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Widow's Run",
+      "diziid": "avass",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/38/widowun_kosusu"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Thanos Triumphant",
+      "diziid": "avass",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/39/thanos_muzaffer"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "Crack in the System",
+      "diziid": "avass",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/40/sistemde_catlak"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "Avengers Disassembled",
+      "diziid": "avass",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/41/yenilmezler_ayrildi"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "Small Time Heroes",
+      "diziid": "avass",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/42/kucuk_zaman_kahramanlari"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "The Ultron Outbreak",
+      "diziid": "avass",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/43/ultron_salgini"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "Secret Avengers",
+      "diziid": "avass",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/44/gizli_yenilmezler"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "The New Guy",
+      "diziid": "avass",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/45/yeni_adam"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "Terminal Velocity",
+      "diziid": "avass",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/46/terminal_hizi"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "Spectrums",
+      "diziid": "avass",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/47/spektrumlar"
+    },
+    {
+      "season": 22,
+      "episode": 48,
+      "title": "Midgard Crisis",
+      "diziid": "avass",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/48/midgard_krizi"
+    },
+    {
+      "season": 23,
+      "episode": 49,
+      "title": "Avengers' Last Stand",
+      "diziid": "avass",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/49/yenilmezlerin_son_direnisi"
+    },
+    {
+      "season": 24,
+      "episode": 50,
+      "title": "Avengers Underground",
+      "diziid": "avass",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/50/yenilmezler_yeralti"
+    },
+    {
+      "season": 25,
+      "episode": 51,
+      "title": "New Frontiers",
+      "diziid": "avass",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/51/yeni_ufuklar"
+    },
+    {
+      "season": 26,
+      "episode": 52,
+      "title": "Avengers World",
+      "diziid": "avass",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/52/yenilmezler_dunyasi"
+    },
+    {
+      "season": 1,
+      "episode": 53,
+      "title": "Adapting to Change",
+      "diziid": "avass",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/53/degisime_uyum_saglamak"
+    },
+    {
+      "season": 2,
+      "episode": 54,
+      "title": "The Ultimates",
+      "diziid": "avass",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/54/nihailer"
+    },
+    {
+      "season": 3,
+      "episode": 55,
+      "title": "Saving Captain Rogers",
+      "diziid": "avass",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/55/kaptan_rogersi_kurtarmak"
+    },
+    {
+      "season": 4,
+      "episode": 56,
+      "title": "Under Siege",
+      "diziid": "avass",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/56/kusatma_altinda"
+    },
+    {
+      "season": 5,
+      "episode": 57,
+      "title": "The Thunderbolts",
+      "diziid": "avass",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/57/thunderbolts"
+    },
+    {
+      "season": 6,
+      "episode": 58,
+      "title": "Thunderbolts Revealed",
+      "diziid": "avass",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/58/thunderbolts_ortaya_cikti"
+    },
+    {
+      "season": 7,
+      "episode": 59,
+      "title": "Into the Dark Dimension",
+      "diziid": "avass",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/59/karanlik_boyuta"
+    },
+    {
+      "season": 8,
+      "episode": 60,
+      "title": "Dehulked",
+      "diziid": "avass",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/60/hulk%E2%80%99sizlik"
+    },
+    {
+      "season": 9,
+      "episode": 61,
+      "title": "Inhumans Among Us",
+      "diziid": "avass",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/61/aramizdaki_gaddarlar"
+    },
+    {
+      "season": 10,
+      "episode": 62,
+      "title": "The Inhuman Condition",
+      "diziid": "avass",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/62/insanlik_disi_kosul"
+    },
+    {
+      "season": 11,
+      "episode": 63,
+      "title": "The Kids Are Alright",
+      "diziid": "avass",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/63/cocuklar_iyi"
+    },
+    {
+      "season": 12,
+      "episode": 64,
+      "title": "The Conqueror",
+      "diziid": "avass",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/64/fatih"
+    },
+    {
+      "season": 13,
+      "episode": 65,
+      "title": "Into the Future",
+      "diziid": "avass",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/65/gelecege"
+    },
+    {
+      "season": 14,
+      "episode": 66,
+      "title": "Seeing Double",
+      "diziid": "avass",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/66/cift_gorme"
+    },
+    {
+      "season": 15,
+      "episode": 67,
+      "title": "A Friend in Need",
+      "diziid": "avass",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/67/dar_gunde_bir_dost"
+    },
+    {
+      "season": 16,
+      "episode": 68,
+      "title": "Captain Marvel",
+      "diziid": "avass",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/68/kaptan_marvel"
+    },
+    {
+      "season": 17,
+      "episode": 69,
+      "title": "Panther's Rage",
+      "diziid": "avass",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/69/panterin_ofkesi"
+    },
+    {
+      "season": 18,
+      "episode": 70,
+      "title": "Ant-Man Makes It Big",
+      "diziid": "avass",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/70/karinca_adam_un_kazaniyor"
+    },
+    {
+      "season": 19,
+      "episode": 71,
+      "title": "The House of Zemo",
+      "diziid": "avass",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/71/zemo_evi"
+    },
+    {
+      "season": 20,
+      "episode": 72,
+      "title": "U-Foes",
+      "diziid": "avass",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/72/u-dusmanlar"
+    },
+    {
+      "season": 21,
+      "episode": 73,
+      "title": "Building the Perfect Weapon",
+      "diziid": "avass",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/73/mukemmel_silah"
+    },
+    {
+      "season": 22,
+      "episode": 74,
+      "title": "World War Hulk",
+      "diziid": "avass",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/74/dunya_savasi_hulk%E2%80%99i"
+    },
+    {
+      "season": 23,
+      "episode": 75,
+      "title": "Civil War Part 1: The Fall of Attilan",
+      "diziid": "avass",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/75/ic_savas_bolum_1%3A_attilanin_dususu"
+    },
+    {
+      "season": 24,
+      "episode": 76,
+      "title": "Civil War Part 2: The Mighty Avengers",
+      "diziid": "avass",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/76/ic_savas_bolum_2%3A_guclu_yenilmezler"
+    },
+    {
+      "season": 25,
+      "episode": 77,
+      "title": "Civil War Part 3: The Drums of War",
+      "diziid": "avass",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/77/ic_savas_bolum_3%3A_savas_davullari"
+    },
+    {
+      "season": 26,
+      "episode": 78,
+      "title": "Civil War Part 4: Avengers Revolution",
+      "diziid": "avass",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/78/ic_savas_4._bolum%3A_yenilmezler_devrimi"
+    },
+    {
+      "season": 1,
+      "episode": 79,
+      "title": "Avengers No More: Part One",
+      "diziid": "avass",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/79/yenilmezler_artik_yok%3A_birinci_bolum"
+    },
+    {
+      "season": 2,
+      "episode": 80,
+      "title": "Avengers No More: Part Two",
+      "diziid": "avass",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/80/yenilmezler_artik_yok%3A_ikinci_bolum"
+    },
+    {
+      "season": 3,
+      "episode": 81,
+      "title": "The Sleeper Awakens",
+      "diziid": "avass",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/81/uyuyan_uyaniyor"
+    },
+    {
+      "season": 4,
+      "episode": 82,
+      "title": "Prison Break",
+      "diziid": "avass",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/82/hapishaneden_kacis"
+    },
+    {
+      "season": 5,
+      "episode": 83,
+      "title": "The Incredible Herc",
+      "diziid": "avass",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/83/inanilmaz_herc"
+    },
+    {
+      "season": 6,
+      "episode": 84,
+      "title": "Show Your Work",
+      "diziid": "avass",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/84/goster_merifetini"
+    },
+    {
+      "season": 7,
+      "episode": 85,
+      "title": "Sneakers",
+      "diziid": "avass",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/85/spor_ayakkabisi"
+    },
+    {
+      "season": 8,
+      "episode": 86,
+      "title": "Why I Hate Halloween",
+      "diziid": "avass",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/86/cadilar_bayrami%E2%80%99na_nefretimin_sebebi"
+    },
+    {
+      "season": 9,
+      "episode": 87,
+      "title": "The Once and Future Kang",
+      "diziid": "avass",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/87/bir_zamanlar_ve_gelecek_kang"
+    },
+    {
+      "season": 10,
+      "episode": 88,
+      "title": "Dimension Z",
+      "diziid": "avass",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/88/boyut_z"
+    },
+    {
+      "season": 11,
+      "episode": 89,
+      "title": "The Most Dangerous Hunt",
+      "diziid": "avass",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/89/en_tehlikeli_av"
+    },
+    {
+      "season": 12,
+      "episode": 90,
+      "title": "Under the Spell of the Enchantress",
+      "diziid": "avass",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/90/buyucunun_buyusu_altinda"
+    },
+    {
+      "season": 13,
+      "episode": 91,
+      "title": "The Return",
+      "diziid": "avass",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/91/geri_donus"
+    },
+    {
+      "season": 14,
+      "episode": 92,
+      "title": "New Year's Resolution",
+      "diziid": "avass",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/92/yeni_yil_karari"
+    },
+    {
+      "season": 15,
+      "episode": 93,
+      "title": "...Assemble",
+      "diziid": "avass",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/93/%E2%80%A6toplanin"
+    },
+    {
+      "season": 16,
+      "episode": 94,
+      "title": "The Eye of Agamotto, Part One",
+      "diziid": "avass",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/94/agamottonun_gozu%2C_birinci_bolum"
+    },
+    {
+      "season": 17,
+      "episode": 95,
+      "title": "The Eye of Agamotto, Part Two",
+      "diziid": "avass",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/95/agamottonun_gozu%2C_ikinci_bolum"
+    },
+    {
+      "season": 18,
+      "episode": 96,
+      "title": "Beyond",
+      "diziid": "avass",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/96/ote"
+    },
+    {
+      "season": 19,
+      "episode": 97,
+      "title": "Underworld",
+      "diziid": "avass",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/97/yeralti_dunyasi"
+    },
+    {
+      "season": 20,
+      "episode": 98,
+      "title": "The Immortal Weapon",
+      "diziid": "avass",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/98/olumsuz_silah"
+    },
+    {
+      "season": 21,
+      "episode": 99,
+      "title": "The Vibranium Coast",
+      "diziid": "avass",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/99/vibranyum_sahili"
+    },
+    {
+      "season": 22,
+      "episode": 100,
+      "title": "Weirdworld",
+      "diziid": "avass",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/100/tuhaf_dunya"
+    },
+    {
+      "season": 23,
+      "episode": 101,
+      "title": "Westland",
+      "diziid": "avass",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/101/westland"
+    },
+    {
+      "season": 24,
+      "episode": 102,
+      "title": "The Citadel",
+      "diziid": "avass",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/102/kale"
+    },
+    {
+      "season": 25,
+      "episode": 103,
+      "title": "The Wastelands",
+      "diziid": "avass",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/103/corak_topraklar"
+    },
+    {
+      "season": 26,
+      "episode": 104,
+      "title": "All Things Must End",
+      "diziid": "avass",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/104/her_sey_bitmeli"
+    },
+    {
+      "season": 1,
+      "episode": 105,
+      "title": "Shadow of Atlantis: Part One",
+      "diziid": "avass",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/105/atlantisin_golgesi%3A_birinci_bolum"
+    },
+    {
+      "season": 2,
+      "episode": 106,
+      "title": "Shadow of Atlantis: Part Two",
+      "diziid": "avass",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/106/atlantisin_golgesi%3A_ikinci_bolum"
+    },
+    {
+      "season": 3,
+      "episode": 107,
+      "title": "Into the Deep",
+      "diziid": "avass",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/107/derinler"
+    },
+    {
+      "season": 4,
+      "episode": 108,
+      "title": "The Panther and the Wolf",
+      "diziid": "avass",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/108/panter_ve_kurt"
+    },
+    {
+      "season": 5,
+      "episode": 109,
+      "title": "The Zemo Sanction",
+      "diziid": "avass",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/109/zemo_cezasi"
+    },
+    {
+      "season": 6,
+      "episode": 110,
+      "title": "Mists of Attilan",
+      "diziid": "avass",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/110/attilanin_sisleri"
+    },
+    {
+      "season": 7,
+      "episode": 111,
+      "title": "T'Challa Royale",
+      "diziid": "avass",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/111/tchalla_royale"
+    },
+    {
+      "season": 8,
+      "episode": 112,
+      "title": "The Night Has Wings",
+      "diziid": "avass",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/112/gecenin_kanatlari_vardir"
+    },
+    {
+      "season": 9,
+      "episode": 113,
+      "title": "Mask of the Panther",
+      "diziid": "avass",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/113/panter_maskesi"
+    },
+    {
+      "season": 10,
+      "episode": 114,
+      "title": "The Good Son",
+      "diziid": "avass",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/114/iyi_evlat"
+    },
+    {
+      "season": 11,
+      "episode": 115,
+      "title": "The Lost Temple",
+      "diziid": "avass",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/115/kayip_tapinak"
+    },
+    {
+      "season": 12,
+      "episode": 116,
+      "title": "Descent of the Shadow",
+      "diziid": "avass",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/116/golgenin_inisi"
+    },
+    {
+      "season": 13,
+      "episode": 117,
+      "title": "The Last Avenger",
+      "diziid": "avass",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/117/son_yenilmez"
+    },
+    {
+      "season": 14,
+      "episode": 118,
+      "title": "The Vibranium Curtain: Part One",
+      "diziid": "avass",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/118/vibranyum_perde%3A_birinci_kisim"
+    },
+    {
+      "season": 15,
+      "episode": 119,
+      "title": "The Vibranium Curtain: Part Two",
+      "diziid": "avass",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/119/vibranyum_perdesi%3A_bolum_iki"
+    },
+    {
+      "season": 16,
+      "episode": 120,
+      "title": "T'Chanda",
+      "diziid": "avass",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/120/tchanda"
+    },
+    {
+      "season": 17,
+      "episode": 121,
+      "title": "Yemandi",
+      "diziid": "avass",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/121/yemandi"
+    },
+    {
+      "season": 18,
+      "episode": 122,
+      "title": "Bashenga",
+      "diziid": "avass",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/122/bashenga"
+    },
+    {
+      "season": 19,
+      "episode": 123,
+      "title": "King Breaker: Part One",
+      "diziid": "avass",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/123/kral_kirici%3A_bolum_bir"
+    },
+    {
+      "season": 20,
+      "episode": 124,
+      "title": "King Breaker: Part Two",
+      "diziid": "avass",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/124/kral_bozan%3A_bolum_2"
+    },
+    {
+      "season": 21,
+      "episode": 125,
+      "title": "Widowmaker",
+      "diziid": "avass",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/125/dul_birakan"
+    },
+    {
+      "season": 22,
+      "episode": 126,
+      "title": "Atlantis Attacks",
+      "diziid": "avass",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/126/atlantis_saldirilari"
+    },
+    {
+      "season": 23,
+      "episode": 127,
+      "title": "House of M",
+      "diziid": "avass",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/avass/marvel%3A_yenilmezler_birligi/127/mnin_evi"
+    }
+  ]
+}

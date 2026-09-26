@@ -1,0 +1,589 @@
+{
+  "id": "bunkd",
+  "title": "kikiwaka kampÄ±",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/KIKIKPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Welcome to Camp Kikiwaka",
+      "diziid": "bunkd",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/1/kikiwaka_kampina_hos_geldiniz"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Gone Girl",
+      "diziid": "bunkd",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/2/kiz_gidici"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Camp Rules",
+      "diziid": "bunkd",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/3/kamp_kurallari%21"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Smells Like Camp Spirit",
+      "diziid": "bunkd",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/4/havada_kamp_kokusu_var"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Ones That Got Away",
+      "diziid": "bunkd",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/5/elden_kacanlar"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Can You Hear Me Now?",
+      "diziid": "bunkd",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/6/simdi_duyabiliyor_musun"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Friending with the Enemy",
+      "diziid": "bunkd",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/7/dusmanla_arkadaslik"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Waka, Waka, Waka!",
+      "diziid": "bunkd",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/8/waka%2C_waka%2C_waka%21"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Secret Santa",
+      "diziid": "bunkd",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/9/gizli_noel_baba"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Counselors' Night Off",
+      "diziid": "bunkd",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/10/danismanlarin_tatil_aksami"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "There's No Place Like Camp",
+      "diziid": "bunkd",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/11/kamp_gibisi_yok"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Luke's Back",
+      "diziid": "bunkd",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/12/lukeun_donusu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "No Escape",
+      "diziid": "bunkd",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/13/kacis_yok"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Close Encounters of the Camp Kind",
+      "diziid": "bunkd",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/14/kampcilarin_uzaylilarla_temasi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Crafted and Shafted",
+      "diziid": "bunkd",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/15/hizli_ve_becerikli"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Boo Boos and Birthdays",
+      "diziid": "bunkd",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/16/yaralar_ve_dogum_gunleri"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "For Love and Money",
+      "diziid": "bunkd",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/17/ask_ve_para_icin"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Love Is for the Birds",
+      "diziid": "bunkd",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/18/ask_kuslar_icindir"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Bride and Doom",
+      "diziid": "bunkd",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/19/gelin_ve_kiyamet"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Live From Camp Kikiwaka",
+      "diziid": "bunkd",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/20/kikiwaka_kampindan_canli_yayin"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Xander Says Goodbye",
+      "diziid": "bunkd",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/21/xander_veda_ediyor"
+    },
+    {
+      "season": 1,
+      "episode": 22,
+      "title": "Lou's Still the Boss, But Now There's a Ross",
+      "diziid": "bunkd",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/89/lou_hala_patron_ama_artik_ross_var"
+    },
+    {
+      "season": 2,
+      "episode": 23,
+      "title": "Rise of the Machine",
+      "diziid": "bunkd",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/90/makinelerin_yukselisi"
+    },
+    {
+      "season": 3,
+      "episode": 24,
+      "title": "R.V. Having Fun Yet?",
+      "diziid": "bunkd",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/91/karavanla_eglence_baslasin_mi"
+    },
+    {
+      "season": 4,
+      "episode": 25,
+      "title": "Tentacle Difficulties",
+      "diziid": "bunkd",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/92/dokunac_zorluklari"
+    },
+    {
+      "season": 5,
+      "episode": 26,
+      "title": "Luck of the Chuck",
+      "diziid": "bunkd",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/93/chuckin_sansi"
+    },
+    {
+      "season": 6,
+      "episode": 27,
+      "title": "Look Who's Squawking",
+      "diziid": "bunkd",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/94/bakin_su_otene"
+    },
+    {
+      "season": 7,
+      "episode": 28,
+      "title": "Raucous Science",
+      "diziid": "bunkd",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/95/nahos_bilim"
+    },
+    {
+      "season": 8,
+      "episode": 29,
+      "title": "Baton-man Begins",
+      "diziid": "bunkd",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/96/baton-adam_baslar"
+    },
+    {
+      "season": 9,
+      "episode": 30,
+      "title": "Everyone's Trap'd",
+      "diziid": "bunkd",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/97/herkes_yakalanir"
+    },
+    {
+      "season": 10,
+      "episode": 31,
+      "title": "Pop Pop Poppin' In",
+      "diziid": "bunkd",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/98/dede_ziyarette"
+    },
+    {
+      "season": 11,
+      "episode": 32,
+      "title": "Roll Models",
+      "diziid": "bunkd",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/99/rol_modeller"
+    },
+    {
+      "season": 12,
+      "episode": 33,
+      "title": "Gi Whiz",
+      "diziid": "bunkd",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/100/dojo_sorunu"
+    },
+    {
+      "season": 13,
+      "episode": 34,
+      "title": "Dancin' Up a Storm",
+      "diziid": "bunkd",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/101/firtina_engeli"
+    },
+    {
+      "season": 14,
+      "episode": 35,
+      "title": "Out of the Doghouse",
+      "diziid": "bunkd",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/102/temize_cikis"
+    },
+    {
+      "season": 15,
+      "episode": 36,
+      "title": "The Great Awkward Bake-Off",
+      "diziid": "bunkd",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/103/buyuk_garip_yemek_yarismasi"
+    },
+    {
+      "season": 16,
+      "episode": 37,
+      "title": "I Won't Let You Clown",
+      "diziid": "bunkd",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/104/paylaco_ziyareti"
+    },
+    {
+      "season": 17,
+      "episode": 38,
+      "title": "Crushin' It",
+      "diziid": "bunkd",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/105/basariyoruz"
+    },
+    {
+      "season": 18,
+      "episode": 39,
+      "title": "Camp Creepy-Waka",
+      "diziid": "bunkd",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/106/urku-waka_kampi"
+    },
+    {
+      "season": 19,
+      "episode": 40,
+      "title": "A Star Is Torn",
+      "diziid": "bunkd",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/107/yildiz_arada_kaliyor"
+    },
+    {
+      "season": 20,
+      "episode": 41,
+      "title": "Moose Queens and Possum Kings",
+      "diziid": "bunkd",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/108/geyik_kraliceleri_ve_sican_krallari"
+    },
+    {
+      "season": 21,
+      "episode": 42,
+      "title": "Frien'ds Forever",
+      "diziid": "bunkd",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/109/daima_dostlar"
+    },
+    {
+      "season": 1,
+      "episode": 43,
+      "title": "Learning the Ropes",
+      "diziid": "bunkd",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/110/iyi_ogrenmek"
+    },
+    {
+      "season": 2,
+      "episode": 44,
+      "title": "Never a Dull Moo-ment",
+      "diziid": "bunkd",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/111/sikici_tek_bir_an_bile_yok"
+    },
+    {
+      "season": 3,
+      "episode": 45,
+      "title": "Worst Aid",
+      "diziid": "bunkd",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/112/ilk_yardim"
+    },
+    {
+      "season": 4,
+      "episode": 46,
+      "title": "Wrecks Marks the Spot",
+      "diziid": "bunkd",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/113/hazine_avi"
+    },
+    {
+      "season": 5,
+      "episode": 47,
+      "title": "The Truth Will Sweat You Free",
+      "diziid": "bunkd",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/114/gercek_ozgurlestirir"
+    },
+    {
+      "season": 6,
+      "episode": 48,
+      "title": "Where the Buffalo Betties Roam",
+      "diziid": "bunkd",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/115/bufalo_kizlarin_dolastigi_yer"
+    },
+    {
+      "season": 7,
+      "episode": 49,
+      "title": "A Recipe for Disaster",
+      "diziid": "bunkd",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/116/felaket_icin_recete"
+    },
+    {
+      "season": 8,
+      "episode": 50,
+      "title": "Back in the Saddle",
+      "diziid": "bunkd",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/117/goreve_tekrar_baslamak"
+    },
+    {
+      "season": 9,
+      "episode": 51,
+      "title": "Bunkhouse of Horror",
+      "diziid": "bunkd",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/118/korku_evi"
+    },
+    {
+      "season": 10,
+      "episode": 52,
+      "title": "Hauntin' Around the Christmas Tree",
+      "diziid": "bunkd",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/119/noel_agacinin_etrafinda_dolasmak"
+    },
+    {
+      "season": 11,
+      "episode": 53,
+      "title": "Hope You Geyser Ready to Go!",
+      "diziid": "bunkd",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/120/herkes_hazir_olsun"
+    },
+    {
+      "season": 12,
+      "episode": 54,
+      "title": "The Song Remains a Pain",
+      "diziid": "bunkd",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/121/aci_olarak_kalan_sarki"
+    },
+    {
+      "season": 13,
+      "episode": 55,
+      "title": "Art Imitates Life",
+      "diziid": "bunkd",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/122/sanat_yasami_taklit_eder"
+    },
+    {
+      "season": 14,
+      "episode": 56,
+      "title": "Wild West Side Story",
+      "diziid": "bunkd",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/123/vahsi_bati_hikayesi"
+    },
+    {
+      "season": 15,
+      "episode": 57,
+      "title": "The Wrath of Con",
+      "diziid": "bunkd",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/124/conun_ofkesi"
+    },
+    {
+      "season": 16,
+      "episode": 58,
+      "title": "Finn It to Win It",
+      "diziid": "bunkd",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/125/kazanmak_icin_finnle"
+    },
+    {
+      "season": 17,
+      "episode": 59,
+      "title": "Alpaca-lypse Now",
+      "diziid": "bunkd",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/126/simdi_alpaka_kiyameti"
+    },
+    {
+      "season": 18,
+      "episode": 60,
+      "title": "The Wicked Switch of the West",
+      "diziid": "bunkd",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/127/batinin_kotu_anahtari"
+    },
+    {
+      "season": 19,
+      "episode": 61,
+      "title": "No Pain, No Grain",
+      "diziid": "bunkd",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/128/emek_olmadan_tahil_olmaz"
+    },
+    {
+      "season": 20,
+      "episode": 62,
+      "title": "Shoe Drops and Chili Plops",
+      "diziid": "bunkd",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/129/ayakkabi_damlalari_ve_aci_biber_sesleri"
+    },
+    {
+      "season": 21,
+      "episode": 63,
+      "title": "Pickett Fencing",
+      "diziid": "bunkd",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/130/bahce_citi_yapimi"
+    },
+    {
+      "season": 22,
+      "episode": 64,
+      "title": "Model Citizen",
+      "diziid": "bunkd",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/131/ornek_vatandas"
+    },
+    {
+      "season": 23,
+      "episode": 65,
+      "title": "Camp Fails and Beaver Tails",
+      "diziid": "bunkd",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/132/kamp_fiyaskolari_ve_porsuk_hikayeleri"
+    },
+    {
+      "season": 24,
+      "episode": 66,
+      "title": "Tap'd Out",
+      "diziid": "bunkd",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/133/tikir_tikir"
+    },
+    {
+      "season": 25,
+      "episode": 67,
+      "title": "Badminton to the Bone",
+      "diziid": "bunkd",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/134/dibine_kadar_badminton"
+    },
+    {
+      "season": 26,
+      "episode": 68,
+      "title": "For Letter or Worse",
+      "diziid": "bunkd",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/135/mektubun_gazabi"
+    },
+    {
+      "season": 27,
+      "episode": 69,
+      "title": "Butter You Doing Here?",
+      "diziid": "bunkd",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/136/mukemmel_danisman"
+    },
+    {
+      "season": 28,
+      "episode": 70,
+      "title": "Writer's Locked",
+      "diziid": "bunkd",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/137/yazar_bloku"
+    },
+    {
+      "season": 29,
+      "episode": 71,
+      "title": "Most Wanted",
+      "diziid": "bunkd",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/138/aranan_kisi"
+    },
+    {
+      "season": 30,
+      "episode": 72,
+      "title": "Desperate Treasures",
+      "diziid": "bunkd",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/bunkd/kikiwaka_kampi/139/hazine_telasi"
+    }
+  ]
+}

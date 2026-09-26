@@ -1,0 +1,421 @@
+{
+  "id": "avl",
+  "title": "alice ve lewis",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/AVLPoster.avif",
+  "channel": "Boomerang",
+  "genres": [
+    "Fantastik",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "It's a Win-Win!",
+      "diziid": "avl",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/1/cifte_galibiyet"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "The New Friend",
+      "diziid": "avl",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/2/yeni_bir_arkadas"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Alice in the Sky",
+      "diziid": "avl",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/3/alice_gokyuzunde"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Merry Qweensmas",
+      "diziid": "avl",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/4/mutlu_kralice_gunu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Long Live the Queen!",
+      "diziid": "avl",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/5/yasasin_kralice%21"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "The Pastry-Making Painters",
+      "diziid": "avl",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/6/pastaci_ressamlar"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Royal Teddy Bear",
+      "diziid": "avl",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/7/kraliyet_ayicigi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Someone to Blame",
+      "diziid": "avl",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/8/suclanacak_biri"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Silence Day",
+      "diziid": "avl",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/9/sessizlik_gunu"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "The Two Alices",
+      "diziid": "avl",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/10/iki_alice"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Little Queen",
+      "diziid": "avl",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/11/kucuk_kralice"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Cuckoo Hunt",
+      "diziid": "avl",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/12/guguk_avi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Fighting Back",
+      "diziid": "avl",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/13/karsi_koyus"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Crazy Hide and Seek",
+      "diziid": "avl",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/14/cilgin_saklambac"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "The Clunky Card",
+      "diziid": "avl",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/15/burusuk_kart"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Flea Jump",
+      "diziid": "avl",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/16/pire_ziplayisi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "A Journey Through Night Land",
+      "diziid": "avl",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/17/gece_diyarina_yolculuk"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Queen Moves In!",
+      "diziid": "avl",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/18/kralice_eve_tasiniyor%21"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Budding Gardeners",
+      "diziid": "avl",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/19/hevesli_bahcivanlar"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Bubble, Bubble, You're in Trouble!",
+      "diziid": "avl",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/20/dusun%2C_tasin%2C_dertli_basim%21"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "The Painting",
+      "diziid": "avl",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/21/resim"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Memory Loss",
+      "diziid": "avl",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/22/hafiza_kaybi"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Tiny Guest",
+      "diziid": "avl",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/23/minik_misafir"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "The Big Royal Quiz",
+      "diziid": "avl",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/24/buyuk_kraliyet_yarisi"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Cutie-Twee Safari",
+      "diziid": "avl",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/25/sirin-twee_safarisi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Giddy Up!",
+      "diziid": "avl",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/26/fazla_hizli%21"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Topsy-Turvy Wonderland",
+      "diziid": "avl",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/27/harikalar_diyari_tepetaklak"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Shhh! It's a Secret",
+      "diziid": "avl",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/28/ssss%2C_bu_bir_sir%21"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "And, Action!",
+      "diziid": "avl",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/29/ve_motor%21"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "The Mole and the Mirror",
+      "diziid": "avl",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/30/ben_ve_ayna"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Vote for Alice!",
+      "diziid": "avl",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/31/alicee_oy_verin%21"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Mr. Invisible",
+      "diziid": "avl",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/32/bay_gorunmez"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Funny Bird",
+      "diziid": "avl",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/33/komik_kus"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Swap-Swap",
+      "diziid": "avl",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/34/degistir"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "A Very Magic Magic Wand",
+      "diziid": "avl",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/35/cok_sihirli_degnek"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Tonight's the Night!",
+      "diziid": "avl",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/36/aksam_bu_aksamdir%21"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "The Smile Contest",
+      "diziid": "avl",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/37/gulumseme_yarismasi"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Echo Monster",
+      "diziid": "avl",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/38/canavar_eko"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Unlucky Charm",
+      "diziid": "avl",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/39/sanssiz_tilsim"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Travelling Dodo",
+      "diziid": "avl",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/40/seyahat_eden_dodo"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "Bubblemania",
+      "diziid": "avl",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/41/balon_cilginligi"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Teatime, Again and Again",
+      "diziid": "avl",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/42/tekrar%2C_tekrar_cay_saati"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "How to Train Your Cat",
+      "diziid": "avl",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/43/kedini_nasil_egitirsin"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "The Book-Wizard",
+      "diziid": "avl",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/44/kitap_sihirbazi"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Too Full for School",
+      "diziid": "avl",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/45/okul_icin_fazla_dolu"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Because I Said So!",
+      "diziid": "avl",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/46/cunku_ben_oyle_dedim%21"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "The Play",
+      "diziid": "avl",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/47/piyes"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Ahahaha!",
+      "diziid": "avl",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/48/ahahahah%21"
+    },
+    {
+      "season": 50,
+      "episode": 49,
+      "title": "The Unforgettable Trip - Part 1",
+      "diziid": "avl",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/50/unutulmaz_yolculuk_1.bolum"
+    },
+    {
+      "season": 51,
+      "episode": 50,
+      "title": "Dodson's Egg",
+      "diziid": "avl",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/51/dodsonin_yumurtasi"
+    },
+    {
+      "season": 52,
+      "episode": 51,
+      "title": "The Unforgettable Trip - Part 2",
+      "diziid": "avl",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/avl/alice_ve_lewis/52/unutulmaz_yolculuk_2.bolum"
+    }
+  ]
+}

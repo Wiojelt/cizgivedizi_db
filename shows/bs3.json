@@ -1,0 +1,429 @@
+{
+  "id": "bs3",
+  "title": "beyblade g-revolution",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/BS3Poster.avif",
+  "channel": "Star TV",
+  "genres": [
+    "Aksiyon",
+    "Spor"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "New Kid in Town",
+      "diziid": "bs3",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/1/kasabadaki_yeni_cocuk"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "A Team Divided",
+      "diziid": "bs3",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/2/bolunen_takim"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Invitation to Battle",
+      "diziid": "bs3",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/3/savasa_davet"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "We Were Once Bladebreakers...",
+      "diziid": "bs3",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/4/bir_zamanlar_biz"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "A League of His Own",
+      "diziid": "bs3",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/5/kendilerine_ait_bir_lig"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "You're the Man, Kai!",
+      "diziid": "bs3",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/6/sen_erkeksin%2C_kai%21"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Take Your Best Shot!",
+      "diziid": "bs3",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/7/en_iyi_atisini_yap%21"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Roughing It",
+      "diziid": "bs3",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/8/kaba"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Swiped on the Streets",
+      "diziid": "bs3",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/9/sokaklarda_dolasanlar"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "It's a Battle Royale...!",
+      "diziid": "bs3",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/10/bu_bir_battle_royale...%21"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Blame Game",
+      "diziid": "bs3",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/11/suc_oyunu"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "When in Rome... Let It Rip!",
+      "diziid": "bs3",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/12/romadayken..%21"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Kenny's Big Battle",
+      "diziid": "bs3",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/13/kennynin_buyuk_savasi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Picking Up the Pieces",
+      "diziid": "bs3",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/14/parcalari_toplamak"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Sleepless in Madrid",
+      "diziid": "bs3",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/15/madridde_uykusuz"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Fire and Water",
+      "diziid": "bs3",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/16/ates_ve_su"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Same Old Dirty Tricks...",
+      "diziid": "bs3",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/17/ayni_eski_kirli_numaralar"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Beyblade Like an Egyptian",
+      "diziid": "bs3",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/18/misirli_gibi_beyblade"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "One for All... Free for All!",
+      "diziid": "bs3",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/19/birimiz_hepimiz%2C_hepimiz_birimiz_icin%21"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Burdens of a Champion",
+      "diziid": "bs3",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/20/bir_sampiyonun_yukleri"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Under Pressure",
+      "diziid": "bs3",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/21/baski_altinda"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Sibling Rivalry",
+      "diziid": "bs3",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/22/kardes_rekabeti"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Ray and Kai: The Ultimate Face-Off...",
+      "diziid": "bs3",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/23/ray_ve_kai%3A_nihai_karsilasma%21"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Down Under Thunder!",
+      "diziid": "bs3",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/24/gok_gurultusu_altinda"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Max Attacks!",
+      "diziid": "bs3",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/25/maksimum_saldirilar%21"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Familiar Faces",
+      "diziid": "bs3",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/26/tanidik_yuzler"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "What a Blast!",
+      "diziid": "bs3",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/27/ne_patlama_ama%21"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Changing Gears",
+      "diziid": "bs3",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/28/vites_degistirme"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "And Then There Were Two",
+      "diziid": "bs3",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/29/ve_sonra_iki_tane_oldular"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Let the Games Begin... Again!",
+      "diziid": "bs3",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/30/oyunlar_baslasin..._tekrar%21"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Runaway Daichi!",
+      "diziid": "bs3",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/31/kacak_daichi"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Beyblade Idol",
+      "diziid": "bs3",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/32/beyblade_idolu"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Out of Their League",
+      "diziid": "bs3",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/33/liglerinin_disinda"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "The Mysterious Mystel...",
+      "diziid": "bs3",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/34/gizemli_mystel"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Pros and Ex-Cons",
+      "diziid": "bs3",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/35/artilar_ve_eksiler"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Boris, the Blade Stops Here!",
+      "diziid": "bs3",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/36/boris%2C_beyblade_burada_duruyor%21"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "The Bega Challenge",
+      "diziid": "bs3",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/37/bega_mucadelesi"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Bega on the Rise",
+      "diziid": "bs3",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/38/bega_yukseliyor"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Rebel Alliance",
+      "diziid": "bs3",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/39/asi_ittifaki"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Back to Basics",
+      "diziid": "bs3",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/40/temele_donus"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "And Justice-Five for All",
+      "diziid": "bs3",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/41/ve_herkes_icin_adalet"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "When You Wish Upon a Star",
+      "diziid": "bs3",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/42/bir_yildiz_kaydiginda_dilek_dilemek"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Sing Ming Ming Sing!",
+      "diziid": "bs3",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/43/ming_mingin_sarkisi%21"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Refuse to Lose",
+      "diziid": "bs3",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/44/kaybetmeyi_reddet"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "Max to the Max",
+      "diziid": "bs3",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/45/maksimum_max"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "The Return of Kai",
+      "diziid": "bs3",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/46/kainin_donusu"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Now You're Making Me Mad",
+      "diziid": "bs3",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/47/beni_kizdiriyorsun"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "The Beyblading Spirit",
+      "diziid": "bs3",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/48/beybladeci_ruhu"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "The Principles of Victory",
+      "diziid": "bs3",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/49/zaferin_ilkeleri"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Welcome to My Nightmare!",
+      "diziid": "bs3",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/50/kabusuma_hos_geldin"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Brooklyn's Back!",
+      "diziid": "bs3",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/51/brooklynin_donusu"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Beybattle for the Ages",
+      "diziid": "bs3",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/bs3/beyblade_g-revolution/52/caglar_boyu_beyblade_savasi"
+    }
+  ]
+}

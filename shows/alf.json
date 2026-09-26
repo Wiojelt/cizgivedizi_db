@@ -1,0 +1,781 @@
+{
+  "id": "alf",
+  "title": "alf",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/ALFPoster.avif",
+  "channel": "Meltem TV",
+  "genres": [
+    "Komedi",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "A.L.F.",
+      "diziid": "alf",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/1/a.l.f."
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Strangers in the Night",
+      "diziid": "alf",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/2/yabancilar_icin_gece_vakti"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Looking for Lucky",
+      "diziid": "alf",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/3/luckyyi_aramak"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Pennsylvania 6-5000",
+      "diziid": "alf",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/4/pennsylvania_6-5000"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Keepin' the Faith",
+      "diziid": "alf",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/5/inanci_korumak"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "For Your Eyes Only",
+      "diziid": "alf",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/6/sadece_gozlerin_icin"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Help Me, Rhonda",
+      "diziid": "alf",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/7/yardim_et_bana%2C_rhonda"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Don't It Make My Brown Eyes Blue?",
+      "diziid": "alf",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/8/kahverengi_gozlerimi_uzme"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Jump",
+      "diziid": "alf",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/9/ziplamak"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Baby, You Can Drive My Car",
+      "diziid": "alf",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/10/bebegim%2C_arabami_surebilirsin"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "On the Road Again",
+      "diziid": "alf",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/11/yeniden_yollarda"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Oh, Tannerbaum",
+      "diziid": "alf",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/12/yilbasi_agaci"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Mother and Child Reunion",
+      "diziid": "alf",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/13/anne_ve_cocugun_bulusmasi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "A Little Bit of Soap",
+      "diziid": "alf",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/14/biraz_sabun"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "I've Got a New Attitude",
+      "diziid": "alf",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/15/yeni_bir_tavrim_var"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Try to Remember: Part 1",
+      "diziid": "alf",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/16/hatirlamaya_calis%2C_1.bolum"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Try to Remember: Part 2",
+      "diziid": "alf",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/17/hatirlamaya_calis%2C_2.bolum"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Border Song",
+      "diziid": "alf",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/18/sinir_sarkisi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Wild Thing",
+      "diziid": "alf",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/19/vahsi_sey"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Going Out of My Head Over You",
+      "diziid": "alf",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/20/aklim_basimdan_cikiyor"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Lookin' Through the Windows",
+      "diziid": "alf",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/21/pencerelerden_bakmak"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "It Isn't Easy... Bein' Green",
+      "diziid": "alf",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/22/yesil_olmak_kolay_degil"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "The Gambler",
+      "diziid": "alf",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/23/kumarbaz"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Weird Science",
+      "diziid": "alf",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/24/garip_bilim"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "La Cucaracha",
+      "diziid": "alf",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/25/hamam_bocegi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Come Fly with Me",
+      "diziid": "alf",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/26/gel_benimle_uc"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "Working My Way Back to You",
+      "diziid": "alf",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/27/sana_geri_donmek_icin_calisiyorum"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Somewhere Over the Rerun (aka The Ballad of Gilligan's Island)",
+      "diziid": "alf",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/28/yeniden_gosterim"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Take a Look at Me Now",
+      "diziid": "alf",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/29/simdi_bana_bak"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Wedding Bell Blues",
+      "diziid": "alf",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/30/dugun_canlari_caliyor"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Prime Time",
+      "diziid": "alf",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/31/reyting"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Some Enchanted Evening",
+      "diziid": "alf",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/32/cadilar_bayrami"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Oh, Pretty Woman",
+      "diziid": "alf",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/33/ah%2C_guzel_kadin"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Something's Wrong with Me",
+      "diziid": "alf",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/34/hickirik_sorunu"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Night Train",
+      "diziid": "alf",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/35/gece_treni"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "Isn't It Romantic?",
+      "diziid": "alf",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/36/romantik"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Hail to the Chief",
+      "diziid": "alf",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/37/baskan"
+    },
+    {
+      "season": 14,
+      "episode": 38,
+      "title": "The Boy Next Door",
+      "diziid": "alf",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/40/komsu_cocuk"
+    },
+    {
+      "season": 15,
+      "episode": 39,
+      "title": "Can I Get a Witness?",
+      "diziid": "alf",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/41/bir_tanik_alabilir_miyim"
+    },
+    {
+      "season": 16,
+      "episode": 40,
+      "title": "We're So Sorry, Uncle Albert",
+      "diziid": "alf",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/42/cok_uzgunuz_albert_amca"
+    },
+    {
+      "season": 17,
+      "episode": 41,
+      "title": "Someone to Watch Over Me: Part 1",
+      "diziid": "alf",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/43/beni_izleyecek_biri_1.bolum"
+    },
+    {
+      "season": 18,
+      "episode": 42,
+      "title": "Someone to Watch Over Me: Part 2",
+      "diziid": "alf",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/44/beni_izleyecek_biri_2.bolum"
+    },
+    {
+      "season": 19,
+      "episode": 43,
+      "title": "We Gotta Get Out of This Place",
+      "diziid": "alf",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/45/bu_yerden_cikmaliyiz"
+    },
+    {
+      "season": 20,
+      "episode": 44,
+      "title": "You Ain't Nothin' but a Hound Dog",
+      "diziid": "alf",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/46/sen_bir_av_kopeginden_baska_bir_sey_degilsin"
+    },
+    {
+      "season": 21,
+      "episode": 45,
+      "title": "Hit Me with Your Best Shot",
+      "diziid": "alf",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/47/en_iyi_atisinla_vur_beni"
+    },
+    {
+      "season": 22,
+      "episode": 46,
+      "title": "Movin' Out",
+      "diziid": "alf",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/48/tasiniyoruz"
+    },
+    {
+      "season": 23,
+      "episode": 47,
+      "title": "I'm Your Puppet",
+      "diziid": "alf",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/49/ben_senin_kuklanim"
+    },
+    {
+      "season": 24,
+      "episode": 48,
+      "title": "Tequila",
+      "diziid": "alf",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/50/tekila"
+    },
+    {
+      "season": 25,
+      "episode": 49,
+      "title": "We Are Family",
+      "diziid": "alf",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/51/biz_bir_aileyiz"
+    },
+    {
+      "season": 26,
+      "episode": 50,
+      "title": "Varsity Drag",
+      "diziid": "alf",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/52/para_kazanmak"
+    },
+    {
+      "season": 1,
+      "episode": 51,
+      "title": "Stop in the Name of Love",
+      "diziid": "alf",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/53/ask_namina_dur"
+    },
+    {
+      "season": 2,
+      "episode": 52,
+      "title": "Stairway to Heaven",
+      "diziid": "alf",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/54/cennete_giden_merdiven"
+    },
+    {
+      "season": 3,
+      "episode": 53,
+      "title": "Breaking Up Is Hard to Do",
+      "diziid": "alf",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/55/ayrilmak_zordur"
+    },
+    {
+      "season": 4,
+      "episode": 54,
+      "title": "Tonight, Tonight: Part 1",
+      "diziid": "alf",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/56/bu_gece%2C_bu_gece_1.bolum"
+    },
+    {
+      "season": 5,
+      "episode": 55,
+      "title": "Tonight, Tonight: Part 2",
+      "diziid": "alf",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/57/bu_gece%2C_bu_gece_2.bolum"
+    },
+    {
+      "season": 6,
+      "episode": 56,
+      "title": "Promises, Promises",
+      "diziid": "alf",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/58/sozler%2C_vaatler"
+    },
+    {
+      "season": 7,
+      "episode": 57,
+      "title": "Turkey in the Straw: Part 1",
+      "diziid": "alf",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/59/sukran_gunu_1.bolum"
+    },
+    {
+      "season": 9,
+      "episode": 58,
+      "title": "Changes",
+      "diziid": "alf",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/61/degisiklikler"
+    },
+    {
+      "season": 10,
+      "episode": 59,
+      "title": "My Back Pages",
+      "diziid": "alf",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/62/arka_sayfalarim"
+    },
+    {
+      "season": 11,
+      "episode": 60,
+      "title": "Alone Again, Naturally",
+      "diziid": "alf",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/63/tekrar_yalniz"
+    },
+    {
+      "season": 12,
+      "episode": 61,
+      "title": "Do You Believe in Magic?",
+      "diziid": "alf",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/64/sihre_inanir_misin"
+    },
+    {
+      "season": 13,
+      "episode": 62,
+      "title": "Hide Away",
+      "diziid": "alf",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/65/saklanmak"
+    },
+    {
+      "season": 14,
+      "episode": 63,
+      "title": "Fight Back",
+      "diziid": "alf",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/66/direnmek"
+    },
+    {
+      "season": 15,
+      "episode": 64,
+      "title": "Suspicious Minds",
+      "diziid": "alf",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/67/supheli_dusunceler"
+    },
+    {
+      "season": 16,
+      "episode": 65,
+      "title": "Baby Love",
+      "diziid": "alf",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/68/bebek_sevgisi"
+    },
+    {
+      "season": 17,
+      "episode": 66,
+      "title": "Running Scared",
+      "diziid": "alf",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/69/korkuyla_kacmak"
+    },
+    {
+      "season": 18,
+      "episode": 67,
+      "title": "Standing in the Shadows of Love",
+      "diziid": "alf",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/70/askin_golgesinde_durmak"
+    },
+    {
+      "season": 19,
+      "episode": 68,
+      "title": "Superstition",
+      "diziid": "alf",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/71/batil_inanc"
+    },
+    {
+      "season": 20,
+      "episode": 69,
+      "title": "Torn Between Two Lovers",
+      "diziid": "alf",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/72/iki_asik_arasinda_kaldim"
+    },
+    {
+      "season": 21,
+      "episode": 70,
+      "title": "Don't Be Afraid of the Dark",
+      "diziid": "alf",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/73/karanliktan_korkmayin"
+    },
+    {
+      "season": 22,
+      "episode": 71,
+      "title": "Funeral for a Friend",
+      "diziid": "alf",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/74/bir_arkadasin_cenazesi"
+    },
+    {
+      "season": 24,
+      "episode": 72,
+      "title": "Like an Old Time Movie",
+      "diziid": "alf",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/76/eski_zaman_filmi_gibi"
+    },
+    {
+      "season": 25,
+      "episode": 73,
+      "title": "Shake, Rattle and Roll",
+      "diziid": "alf",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/77/deprem"
+    },
+    {
+      "season": 26,
+      "episode": 74,
+      "title": "Having My Baby",
+      "diziid": "alf",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/78/bebegim_olacak"
+    },
+    {
+      "season": 1,
+      "episode": 75,
+      "title": "Baby, Come Back",
+      "diziid": "alf",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/79/bakici_alf"
+    },
+    {
+      "season": 2,
+      "episode": 76,
+      "title": "Lies",
+      "diziid": "alf",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/80/yalanlar"
+    },
+    {
+      "season": 3,
+      "episode": 77,
+      "title": "Wanted: Dead or Alive",
+      "diziid": "alf",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/81/araniyor%3A_olu_ya_da_diri"
+    },
+    {
+      "season": 4,
+      "episode": 78,
+      "title": "We're in the Money",
+      "diziid": "alf",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/82/para_meselesi"
+    },
+    {
+      "season": 5,
+      "episode": 79,
+      "title": "Mind Games",
+      "diziid": "alf",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/83/zeka_oyunlari"
+    },
+    {
+      "season": 6,
+      "episode": 80,
+      "title": "Hooked on a Feeling",
+      "diziid": "alf",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/84/bir_hisse_kapildim"
+    },
+    {
+      "season": 7,
+      "episode": 81,
+      "title": "He Ain't Heavy, He's Willie's Brother",
+      "diziid": "alf",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/85/willienin_kardesi"
+    },
+    {
+      "season": 8,
+      "episode": 82,
+      "title": "The First Time Ever I Saw Your Face",
+      "diziid": "alf",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/86/yuzunu_ilk_kez_gordum"
+    },
+    {
+      "season": 9,
+      "episode": 83,
+      "title": "Live and Let Die",
+      "diziid": "alf",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/87/yasa_ve_olmesine_izin_ver"
+    },
+    {
+      "season": 10,
+      "episode": 84,
+      "title": "Break Up to Make Up",
+      "diziid": "alf",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/88/ayrilmak_icin_barismak"
+    },
+    {
+      "season": 12,
+      "episode": 85,
+      "title": "Fever",
+      "diziid": "alf",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/90/ates"
+    },
+    {
+      "season": 14,
+      "episode": 86,
+      "title": "Make 'em Laugh",
+      "diziid": "alf",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/92/onlari_guldur"
+    },
+    {
+      "season": 15,
+      "episode": 87,
+      "title": "Love on the Rocks",
+      "diziid": "alf",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/93/kayaliklarin_uzerinde_ask"
+    },
+    {
+      "season": 16,
+      "episode": 88,
+      "title": "True Colors",
+      "diziid": "alf",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/94/gercek_renkler"
+    },
+    {
+      "season": 17,
+      "episode": 89,
+      "title": "Gimme That Old Time Religion",
+      "diziid": "alf",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/95/papaz_alf"
+    },
+    {
+      "season": 18,
+      "episode": 90,
+      "title": "Future's So Bright, I Gotta Wear Shades",
+      "diziid": "alf",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/96/gelecek_cok_parlak%2C_gunes_gozlukleri_takmaliyim"
+    },
+    {
+      "season": 19,
+      "episode": 91,
+      "title": "When I'm Sixty-Four",
+      "diziid": "alf",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/97/64_yasimdayken"
+    },
+    {
+      "season": 20,
+      "episode": 92,
+      "title": "Mr. Sandman",
+      "diziid": "alf",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/98/bay_kum_adam"
+    },
+    {
+      "season": 21,
+      "episode": 93,
+      "title": "Stayin' Alive",
+      "diziid": "alf",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/99/hayatta_kalmak"
+    },
+    {
+      "season": 22,
+      "episode": 94,
+      "title": "Hungry Like a Wolf",
+      "diziid": "alf",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/100/kurt_gibi_ac"
+    },
+    {
+      "season": 23,
+      "episode": 95,
+      "title": "I Gotta Be Me",
+      "diziid": "alf",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/101/ben%2C_ben_olmaliyim"
+    },
+    {
+      "season": 24,
+      "episode": 96,
+      "title": "Consider Me Gone",
+      "diziid": "alf",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/alf/alf/102/gittigimi_hayal_et"
+    }
+  ]
+}

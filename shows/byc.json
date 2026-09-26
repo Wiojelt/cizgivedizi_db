@@ -1,0 +1,325 @@
+{
+  "id": "byc",
+  "title": "bÃ¼yÃ¼cÃ¼",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BYCPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Race for Your Life",
+      "diziid": "byc",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/1/hayatin_icin_yaris"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Black Cat",
+      "diziid": "byc",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/2/kara_kedi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Mad Train",
+      "diziid": "byc",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/3/cilgin_tren"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Cyber",
+      "diziid": "byc",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/4/siber"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Masters of Magic",
+      "diziid": "byc",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/5/buyuculerin_ustalari"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Vega Gate",
+      "diziid": "byc",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/6/vega_gecidi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "A Model Top Model",
+      "diziid": "byc",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/7/bir_model_ust_model"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Croesus Crisis",
+      "diziid": "byc",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/8/kroisis_krizi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Prophecy",
+      "diziid": "byc",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/9/kehanet"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Behind the Orb-Ball",
+      "diziid": "byc",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/10/kure_topunun_ardindaki"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "What Were You Doing in Electro City When the Lights Went Off?",
+      "diziid": "byc",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/11/isiklar_sondugunde_electro_cityde_ne_yapiyordun"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Best Wishes and Happiness",
+      "diziid": "byc",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/12/en_iyi_dilekler_ve_mutluluklar"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The Challenge",
+      "diziid": "byc",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/13/meydan_okuma"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Golden Voice",
+      "diziid": "byc",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/14/altin_ses"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Planet Electric",
+      "diziid": "byc",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/15/elektrik_gezegeni"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Stop Clowning Around",
+      "diziid": "byc",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/16/soytariligi_birak"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Stars of the Silver Screen",
+      "diziid": "byc",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/17/gumus_perde_yildizlari"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Cold Sweat, Part 1",
+      "diziid": "byc",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/18/soguk_ter%2C_bolum_1"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Cold Sweat, Part 2",
+      "diziid": "byc",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/19/soguk_ter%2C_bolum_2"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "And They Lived Happily Ever After",
+      "diziid": "byc",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/20/ve_sonsuza_dek_mutlu_yasadilar"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Twin Brothers",
+      "diziid": "byc",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/21/ikiz_kardesler"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Faceless",
+      "diziid": "byc",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/22/yuzu_olmayan"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Truth or Consequences",
+      "diziid": "byc",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/23/dogrular_ya_da_sonuclari"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Bad Program",
+      "diziid": "byc",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/24/kotu_program"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "X-Oshi",
+      "diziid": "byc",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/25/x-oshi"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Stealth Robber",
+      "diziid": "byc",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/26/gizli_soyguncu"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "The Paparazzo Affair",
+      "diziid": "byc",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/27/paparazzo_macerasi"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Multi-Flames",
+      "diziid": "byc",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/28/coklu_alevler"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Hardbeat",
+      "diziid": "byc",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/29/hardbeat"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Bad Weather for the Magician",
+      "diziid": "byc",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/30/buyucu_icin_kotu_hava_durumu"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Junior",
+      "diziid": "byc",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/31/genc"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "The Cruise",
+      "diziid": "byc",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/32/yolculuk"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "A Sheep in Wolf's Clothing",
+      "diziid": "byc",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/33/kurt_kiliginda_bir_kuzu"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "No Dice!",
+      "diziid": "byc",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/34/zarar_yok%21"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Virtual Fatality",
+      "diziid": "byc",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/35/sanal_olum"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "The Flight of Prosperity",
+      "diziid": "byc",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/36/bolluk_ucusu"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "The Chase",
+      "diziid": "byc",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/37/takip"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Professor Cosmo",
+      "diziid": "byc",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/38/profesor_cosmo"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "All Against One",
+      "diziid": "byc",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/byc/buyucu/39/hepimiz_birimiz_icin"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "akuma",
+  "title": "akuma-kun",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/AKUMAPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik",
+    "Korku"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Demons",
+      "diziid": "akuma",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/akuma/akuma-kun/1/fedakarlik"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Gluttony",
+      "diziid": "akuma",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/akuma/akuma-kun/2/oyun"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Greed",
+      "diziid": "akuma",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/akuma/akuma-kun/3/kutlama"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Envy",
+      "diziid": "akuma",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/akuma/akuma-kun/4/baba"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Angel",
+      "diziid": "akuma",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/akuma/akuma-kun/5/gercek_niyet"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Love and Hate",
+      "diziid": "akuma",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/akuma/akuma-kun/6/insan"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Human",
+      "diziid": "akuma",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/akuma/akuma-kun/7/sevgi_ve_nefret"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "True Intentions",
+      "diziid": "akuma",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/akuma/akuma-kun/8/melek"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Father",
+      "diziid": "akuma",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/akuma/akuma-kun/9/haset"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Celebration",
+      "diziid": "akuma",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/akuma/akuma-kun/10/acgozluluk"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Play",
+      "diziid": "akuma",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/akuma/akuma-kun/11/oburluk"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Sacrifice",
+      "diziid": "akuma",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/akuma/akuma-kun/12/iblisler"
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "id": "amf",
+  "title": "amfibiya",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/AMFPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Anne or Beast? / Best Fronds",
+      "diziid": "amf",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/1/anne_canavar_mi__iyi_dostlar"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Cane Crazy / Flood, Sweat & Tears",
+      "diziid": "amf",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/2/degnek_delisi__sel%2C_ter_ve_gozyasi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Hop Luck / Stakeout",
+      "diziid": "amf",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/3/hop_sans__gozetleme"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Domino Effect / Taking Charge",
+      "diziid": "amf",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/4/domino_etkisi__sorumluluk_almak"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Anne Theft Auto / Breakout Star",
+      "diziid": "amf",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/5/otomobil_hirsizi_anne__yukselen_yildiz"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Sprig vs. Hop Pop / Girl Time",
+      "diziid": "amf",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/6/sprig_hop_popa_karsi__kiz_gunu"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Dating Season / Anne vs. Wild",
+      "diziid": "amf",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/7/flort_mevsimi__anne%2C_vahsi_dogaya_karsi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Contagi-Anne / Family Shrub",
+      "diziid": "amf",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/8/anne_hasta__aile_calisi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Lily Pad Thai / Plantar's Last Stand",
+      "diziid": "amf",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/9/lily_pad_thai__plantarlarin_son_standi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Toad Tax / Prison Break",
+      "diziid": "amf",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/10/saygi__hapisten_kacis"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Grubhog Day / Hop Pop and Lock",
+      "diziid": "amf",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/11/domuz_kurdu_gunu__hop_pop_ve_dans"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Civil Wart / Hop-Popular",
+      "diziid": "amf",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/12/ic_savas__populer_hop"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Croak & Punishment / Trip to the Archives",
+      "diziid": "amf",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/13/virak_ve_hirsizlik__arsivlere_yolculuk"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Snow Day / Cracking Mrs. Croaker",
+      "diziid": "amf",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/14/karli_gun__bayan_croakeri_catlatma"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "A Night at the Inn / Wally and Anne",
+      "diziid": "amf",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/15/otelde_bir_gece__wally_ve_anne"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Family Fishing Trip / Bizarre Bazaar",
+      "diziid": "amf",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/16/ailece_balik_tutma_gezisi__tuhaf_carsi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Cursed! / Fiddle Me This",
+      "diziid": "amf",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/17/lanetli%21__keman_yarismasi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "The Big Bugball Game / Combat Camp",
+      "diziid": "amf",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/18/buyuk_bocek_toplu_maci__savas_kampi"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Children of the Spore / Anne of the Year",
+      "diziid": "amf",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/19/spor_cocuklari__yilin_annei"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Reunion",
+      "diziid": "amf",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/20/birlesme"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "Handy Anne / Fort in the Road",
+      "diziid": "amf",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/21/becerikli_anne__yolculuk_basliyor"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "The Ballad of Hopediah Plantar / Anne Hunter",
+      "diziid": "amf",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/22/hop_popun_sarkisi__avci_anne"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "Truck Stop Polly / A Caravan Named Desire",
+      "diziid": "amf",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/23/polly_durakta__oyunculuk_felaketi"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "Quarreler's Pass / Toadcatcher",
+      "diziid": "amf",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/24/kavgacilarin_gecidi__kurbaga_avcisi"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "Swamp and Sensibility / Wax Museum",
+      "diziid": "amf",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/25/bataklik_ve_duyarlilik__balmumu_muzesi"
+    },
+    {
+      "season": 6,
+      "episode": 26,
+      "title": "Marcy at the Gates",
+      "diziid": "amf",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/26/marcy_geliyor"
+    },
+    {
+      "season": 7,
+      "episode": 27,
+      "title": "Scavenger Hunt / The Plantars Check In",
+      "diziid": "amf",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/27/bulmaca__kredi_karti"
+    },
+    {
+      "season": 8,
+      "episode": 28,
+      "title": "Lost in Newtopia / Sprig Gets Schooled",
+      "diziid": "amf",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/28/yenitopyada_kayip__sprig_okullu_oldu"
+    },
+    {
+      "season": 9,
+      "episode": 29,
+      "title": "Little Frogtown / Hopping Mall",
+      "diziid": "amf",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/29/kucuk_kurbaga_koyu__avmde_yaris"
+    },
+    {
+      "season": 10,
+      "episode": 30,
+      "title": "The Sleepover to End All Sleepovers / A Day at the Aquarium",
+      "diziid": "amf",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/30/pijama_partisi__akvaryumda_bir_gun"
+    },
+    {
+      "season": 11,
+      "episode": 31,
+      "title": "The Shut-In!",
+      "diziid": "amf",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/31/kapanma"
+    },
+    {
+      "season": 12,
+      "episode": 32,
+      "title": "Night Drivers / Return to Wartwood",
+      "diziid": "amf",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/32/gece_soforleri___wartwooda_donus"
+    },
+    {
+      "season": 13,
+      "episode": 33,
+      "title": "Ivy on the Run / After the Rain",
+      "diziid": "amf",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/33/ivy_kaciyor__yagmurun_ardindan"
+    },
+    {
+      "season": 14,
+      "episode": 34,
+      "title": "The First Temple",
+      "diziid": "amf",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/34/ilk_mabet"
+    },
+    {
+      "season": 15,
+      "episode": 35,
+      "title": "New Wartwood / Friend or Frobo?",
+      "diziid": "amf",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/35/yeni_wartwood__dost_mu_krobo_mu"
+    },
+    {
+      "season": 16,
+      "episode": 36,
+      "title": "Toad to Redemption / Maddie & Marcy",
+      "diziid": "amf",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/36/kefarete_giden_karakurbagasi__maddie_ve_marcy"
+    },
+    {
+      "season": 17,
+      "episode": 37,
+      "title": "The Second Temple / Barrel's Warhammer",
+      "diziid": "amf",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/37/ikinci_mabet__barrelin_savas_cekici"
+    },
+    {
+      "season": 18,
+      "episode": 38,
+      "title": "Bessie & MicroAngelo / The Third Temple",
+      "diziid": "amf",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/38/bessie_ve_mikro-angelo__ucuncu_mabet"
+    },
+    {
+      "season": 19,
+      "episode": 39,
+      "title": "The Dinner / Battle of the Bands",
+      "diziid": "amf",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/39/aksam_yemegi__gruplarin_savasi"
+    },
+    {
+      "season": 20,
+      "episode": 40,
+      "title": "True Colors",
+      "diziid": "amf",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/amf/amfibiya/40/gercek_yuzler"
+    }
+  ]
+}

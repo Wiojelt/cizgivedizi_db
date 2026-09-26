@@ -1,0 +1,205 @@
+{
+  "id": "basi",
+  "title": "basilisk",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/BASIPoster.avif",
+  "channel": "Bilinmiyor",
+  "genres": [
+    "Aksiyon",
+    "Fantastik"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Destiny",
+      "diziid": "basi",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/1/kader"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Last Rendezvous",
+      "diziid": "basi",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/2/son_bulusma"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Onslaught of War",
+      "diziid": "basi",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/3/savasin_saldirisi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Horned Owl",
+      "diziid": "basi",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/4/boynuzlu_baykus"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Surprise Attack",
+      "diziid": "basi",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/5/surpriz_saldiri"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Longing in the Rain",
+      "diziid": "basi",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/6/yagmurda_ozlem"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Blood-Sucking Seductress",
+      "diziid": "basi",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/7/kan_emici_bastan_cikarici"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Cage of Blood",
+      "diziid": "basi",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/8/kan_kafesi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Farewell",
+      "diziid": "basi",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/9/elveda"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Divine Mandate",
+      "diziid": "basi",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/10/ilahi_emir"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "On Their Own",
+      "diziid": "basi",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/11/kendi_baslarina"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Remembrance",
+      "diziid": "basi",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/12/animsama"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "A Swarm of Butterflies",
+      "diziid": "basi",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/13/kelebek_surusu"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Fallen Flower",
+      "diziid": "basi",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/14/dusen_cicek"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Reckoning",
+      "diziid": "basi",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/15/hesaplasma"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "First Impressions",
+      "diziid": "basi",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/16/ilk_izlenimler"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Wandering Hearts",
+      "diziid": "basi",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/17/basibos_kalpler"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "A Dawn Without Light",
+      "diziid": "basi",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/18/isiksiz_safak"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Conspiracy",
+      "diziid": "basi",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/19/komplo"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "River of Mercy",
+      "diziid": "basi",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/20/merhamet_nehri"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "With All Her Heart",
+      "diziid": "basi",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/21/butun_kalbiyle"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "The Haunted",
+      "diziid": "basi",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/22/perili"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Emancipation",
+      "diziid": "basi",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/23/ozgurlesme"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Requiem",
+      "diziid": "basi",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/basi/basilisk/24/son_soz"
+    }
+  ]
+}

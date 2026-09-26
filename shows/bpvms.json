@@ -1,0 +1,429 @@
+{
+  "id": "bpvms",
+  "title": "bay peabody ve meraklÄ± sherman",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BPVMSPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "The Perfect Show / Napoleon",
+      "diziid": "bpvms",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/1/mukemmel_bir_gosteri__napolyon"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Stuck / Mozart",
+      "diziid": "bpvms",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/2/sikisip_kalmak__mozart"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Sherman's Pet / Marco Polo",
+      "diziid": "bpvms",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/3/shermanin_evcil_hayvani__marco_polo"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Handcuffs for a Song / Wright Brothers",
+      "diziid": "bpvms",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/4/santaj__wright_kardesler"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "New Sponsor / Cleopatra",
+      "diziid": "bpvms",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/5/yeni_sponsor__kleopatra"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Black Hole / Winston Churchill",
+      "diziid": "bpvms",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/6/kara_delik__winston_churchill"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Big Boy / Blackbeard",
+      "diziid": "bpvms",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/7/adam_bebek__karasakal"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Biggest Fan / Queen Isabella",
+      "diziid": "bpvms",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/8/en_buyuk_hayran__kralice_isabella"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Peabody's Parents / Galileo",
+      "diziid": "bpvms",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/9/peabodynin_ailesi__galileo"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Patch Games / Mark Twain",
+      "diziid": "bpvms",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/10/rozet_oyunlari__mark_twain"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Favor for Christine / Lady Godiva",
+      "diziid": "bpvms",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/11/christine_icin_bir_iyilik__leydi_godiva"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Medieval Fest / John Sutter",
+      "diziid": "bpvms",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/12/orta_cag_festivali__john_sutter"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Outbreak / Ancient Greek Games",
+      "diziid": "bpvms",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/13/grip_salgini__antik_yunan_oyunlari"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Show on the Road / Catherine the Great",
+      "diziid": "bpvms",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/14/ayda_gosteri__buyuk_katerina"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Scrambled Eggs / George Stephenson",
+      "diziid": "bpvms",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/15/yumurta_ebeveyni__george_stephenson"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Big Top Peabody / Taj Mahal",
+      "diziid": "bpvms",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/16/buyuk_sirk__tac_mahal"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "World Records / Hotu Matu'a",
+      "diziid": "bpvms",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/17/dunya_rekorlari__hotu_matua"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Sherman from A to Zzzz / Akashi Shiganosuke",
+      "diziid": "bpvms",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/18/adan_zzzzye_sherman__akashi_shiganosuke"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Orchoptitron in Love / John Harrington",
+      "diziid": "bpvms",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/19/asik_orchoptitron__john_harrington"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Inside Hobson / Annie Oakley",
+      "diziid": "bpvms",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/20/bay_hobsonin_icinde__annie_oakley"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Peabody's Diet / Ponce de LeÃ³n",
+      "diziid": "bpvms",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/21/peabodynin_diyeti__ponce_de_le%C3%B3n"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Secret Agent Sherman / Alexander Cartwright",
+      "diziid": "bpvms",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/22/gizli_ajan_sherman__alexander_cartwright"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Sherman Exchange Program / Charles Dickens",
+      "diziid": "bpvms",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/23/shermanin_degisim_programi__charles_dickens"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "Ruff Guyz / George Crum",
+      "diziid": "bpvms",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/24/ruff_guyz__george_crum"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "I Knew That Was Gonna Happen / Sacagawea",
+      "diziid": "bpvms",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/25/bunun_olacagini_biliyordum__sacagawea"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "The Perfect Show Again / Aristophanes",
+      "diziid": "bpvms",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/26/yine_mukemmel_bir_gosteri__aristofanes"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "The Wrath of Hughes",
+      "diziid": "bpvms",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/27/hughes%E2%80%99un_gazabi"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Jump the Whale Shark / FrÃ©dÃ©ric Bartholdi",
+      "diziid": "bpvms",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/28/balina_kopekbaliginin_uzerinden_atlama__frederic_bartholdi"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "Pea Dummy / Mary Anning",
+      "diziid": "bpvms",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/29/aptal_peabody__mary_anning"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "Climate Control / Ziryab",
+      "diziid": "bpvms",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/30/iklim_kontrolu__ziryab"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "Brain Switch / Koikawa Harumachi",
+      "diziid": "bpvms",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/31/beyin_degisimi__koikawa_harumachi"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "Super Sherman / Ada Lovelace",
+      "diziid": "bpvms",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/32/super_sherman__ada_lovelace"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "Mouse Hunt / David Bushnell",
+      "diziid": "bpvms",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/33/fare_avi__david_bushnell"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "Sweet Little Lies / Allan Pinkerton",
+      "diziid": "bpvms",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/34/tatli_kucuk_yalanlar__allan_pinkerton"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "Tree House / Queen Hatshepsut",
+      "diziid": "bpvms",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/35/agac_ev__kralice_hatsepsut"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "This Is Your Life? / Robert Edwin Peary",
+      "diziid": "bpvms",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/36/bu_senin_hayatin_mi__robert_edwin_peary"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "Telethon / Enrico Caruso",
+      "diziid": "bpvms",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/37/bagis_maratonu__enrico_caruso"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "Spooktacular / Nicolas-Joseph Cugnot",
+      "diziid": "bpvms",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/38/korkunc_sov__nicolas-joseph_cugnot"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "Return of the Guapos Part 1 / Lucy Walker",
+      "diziid": "bpvms",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/39/guapolarin_donusu%3A_1._kisim__lucy_walker"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "Return of the Guapos Part 2",
+      "diziid": "bpvms",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/40/guapolarin_donusu%3A_2._kisim"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "Return of the Guapos Part 3",
+      "diziid": "bpvms",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/41/guapolarin_donusu%3A_3._kisim"
+    },
+    {
+      "season": 3,
+      "episode": 42,
+      "title": "Magic Hiccups / Gaius Maecenas",
+      "diziid": "bpvms",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/42/sihirli_hickiriklar__gaius_maecenas"
+    },
+    {
+      "season": 4,
+      "episode": 43,
+      "title": "Sherman's Tooth / Voyager Gold Record",
+      "diziid": "bpvms",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/43/sherman%E2%80%99in_disi__voyager_altin_plagi"
+    },
+    {
+      "season": 5,
+      "episode": 44,
+      "title": "Gone Comic Gone / Harry Houdini",
+      "diziid": "bpvms",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/44/kayip_cizgi_roman__harry_houdini"
+    },
+    {
+      "season": 6,
+      "episode": 45,
+      "title": "P-Bro / First Canine Police Force",
+      "diziid": "bpvms",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/45/p-kardes__ilk_kopek_polis_gucu"
+    },
+    {
+      "season": 7,
+      "episode": 46,
+      "title": "Cheerleaders / Mansa Musa",
+      "diziid": "bpvms",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/46/amigolar__mansa_musa"
+    },
+    {
+      "season": 8,
+      "episode": 47,
+      "title": "Bring Your Kids to Work Day / Leif Erikson",
+      "diziid": "bpvms",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/47/cocuklarini_ise_getirme_gunu__leif_erikson"
+    },
+    {
+      "season": 9,
+      "episode": 48,
+      "title": "Orchopti-NOT-ron / Mulan",
+      "diziid": "bpvms",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/48/orchopti-not-ron__mulan"
+    },
+    {
+      "season": 10,
+      "episode": 49,
+      "title": "The Show's the Thing / Peter Cooper",
+      "diziid": "bpvms",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/49/butun_mesele_sov__peter_cooper"
+    },
+    {
+      "season": 11,
+      "episode": 50,
+      "title": "Peabody's Delivery / Joe vs P&S",
+      "diziid": "bpvms",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/50/peabody%E2%80%99nin_teslimati__joe%2C_peabody_ve_sherman%E2%80%99a_karsi"
+    },
+    {
+      "season": 12,
+      "episode": 51,
+      "title": "Seen It / Edgar Allan Poe",
+      "diziid": "bpvms",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/51/gordum_bunu__edgar_allan_poe"
+    },
+    {
+      "season": 13,
+      "episode": 52,
+      "title": "The Perfect Perfect Show Again Again / Abraham Lincoln",
+      "diziid": "bpvms",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/bpvms/bay_peabody_ve_merakli_sherman/52/mukemmel_mukemmel_sov_yine_yine__abraham_lincoln"
+    }
+  ]
+}

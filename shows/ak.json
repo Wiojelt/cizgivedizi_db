@@ -1,0 +1,1669 @@
+{
+  "id": "ak",
+  "title": "angelo kurallarÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/AKPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Detention",
+      "diziid": "ak",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/1/ceza"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Cat Box",
+      "diziid": "ak",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/2/kum_kabi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Yakking It Up",
+      "diziid": "ak",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/3/yak_guresi_sampiyonasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "The Greatest Free Sample Ever",
+      "diziid": "ak",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/4/tum_zamanlarin_en_harika_ikrami"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Go Mental Fest",
+      "diziid": "ak",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/5/yasasin_cilgin_senlik"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Clean Break",
+      "diziid": "ak",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/6/temiz_kacis"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Battle Underwear",
+      "diziid": "ak",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/7/savas_baksiri"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Pop Quiz",
+      "diziid": "ak",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/8/surpriz_sinav"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Picked Last",
+      "diziid": "ak",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/9/son_secilen"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Lords of the Prize",
+      "diziid": "ak",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/10/odullerin_efendisi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Bolivia Exports Farts",
+      "diziid": "ak",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/11/bolivya_ihracatinda_pirt"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "A Fish Called Mr. Bubble",
+      "diziid": "ak",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/12/bay_bubbles_isimli_balik"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Snack Thief",
+      "diziid": "ak",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/13/abur_cubur_hirsizi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Spitball Wars",
+      "diziid": "ak",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/14/tukuruk_savaslari"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Let Manetti Win",
+      "diziid": "ak",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/15/birak_manetti_kazansin"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "A Longer Recess",
+      "diziid": "ak",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/16/uzatmali_teneffus"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Chore Wars",
+      "diziid": "ak",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/17/ev_isi_savaslari"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Changing the Channel",
+      "diziid": "ak",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/18/kumanda_maci"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Riding the Dragontail",
+      "diziid": "ak",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/19/ejder_kuyrugu"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "The Great Wait",
+      "diziid": "ak",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/20/buyuk_bekleyis"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Adorable Horrible Peter",
+      "diziid": "ak",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/21/sevimli_korkunc_peter"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Who Killed the Rabbit?",
+      "diziid": "ak",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/22/tavsani_kim_oldurdu"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Stop the Experimental Music",
+      "diziid": "ak",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/23/deneysel_muzigi_durdurun"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "No Substitute",
+      "diziid": "ak",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/24/bos_ders"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "The Casserole",
+      "diziid": "ak",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/25/guvec"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Out of the Saddle",
+      "diziid": "ak",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/26/kontrol_kaybi"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Angelo's Blunder",
+      "diziid": "ak",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/27/asparagas"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "The Sneeze",
+      "diziid": "ak",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/28/hapsirik"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Shame of Lame",
+      "diziid": "ak",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/29/yeni_moda"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Here Comes the Judge",
+      "diziid": "ak",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/30/yeni_juri"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Break Up",
+      "diziid": "ak",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/31/ayrilik"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "The Fake Sick Day",
+      "diziid": "ak",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/32/sahte_hastalik"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "The Kid Who Has Everything",
+      "diziid": "ak",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/33/her_seyi_olan_cocuk"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Zonka's Death March",
+      "diziid": "ak",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/34/zonkanin_kosusu"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "The Beach",
+      "diziid": "ak",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/35/plaj"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Collect Them All",
+      "diziid": "ak",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/36/hepsini_topla"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Manetti's Crush",
+      "diziid": "ak",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/37/manettinin_aski"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Manetti Must Not Fail",
+      "diziid": "ak",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/38/manetti_basarmak_zorunda"
+    },
+    {
+      "season": 40,
+      "episode": 39,
+      "title": "The Brush Off",
+      "diziid": "ak",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/40/savusturma"
+    },
+    {
+      "season": 41,
+      "episode": 40,
+      "title": "A Little Romance",
+      "diziid": "ak",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/41/kucuk_bir_ask"
+    },
+    {
+      "season": 42,
+      "episode": 41,
+      "title": "Mission: Frog",
+      "diziid": "ak",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/42/gorev%3A_kurbaga"
+    },
+    {
+      "season": 43,
+      "episode": 42,
+      "title": "USB Mine",
+      "diziid": "ak",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/43/tasinir_bellek_benim"
+    },
+    {
+      "season": 44,
+      "episode": 43,
+      "title": "School Heist",
+      "diziid": "ak",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/44/okulda_soygun"
+    },
+    {
+      "season": 45,
+      "episode": 44,
+      "title": "Working Hard",
+      "diziid": "ak",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/45/cok_calismak"
+    },
+    {
+      "season": 46,
+      "episode": 45,
+      "title": "Scary Movie",
+      "diziid": "ak",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/46/korkunc_bir_film"
+    },
+    {
+      "season": 47,
+      "episode": 46,
+      "title": "Final Countdown",
+      "diziid": "ak",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/47/geri_sayim"
+    },
+    {
+      "season": 48,
+      "episode": 47,
+      "title": "Thar He Blows!",
+      "diziid": "ak",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/48/muzisyen_peter"
+    },
+    {
+      "season": 49,
+      "episode": 48,
+      "title": "Yesterbirthday",
+      "diziid": "ak",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/49/gecmis_dogum_gunu"
+    },
+    {
+      "season": 50,
+      "episode": 49,
+      "title": "Career Day",
+      "diziid": "ak",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/50/kariyer_gunu"
+    },
+    {
+      "season": 51,
+      "episode": 50,
+      "title": "The Break In",
+      "diziid": "ak",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/51/soygun"
+    },
+    {
+      "season": 52,
+      "episode": 51,
+      "title": "Director's Cut",
+      "diziid": "ak",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/52/yonetmenin_secimi"
+    },
+    {
+      "season": 53,
+      "episode": 52,
+      "title": "One Shot",
+      "diziid": "ak",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/53/tek_atis"
+    },
+    {
+      "season": 54,
+      "episode": 53,
+      "title": "The Chimp Sleeps Tonight",
+      "diziid": "ak",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/54/sempanze_bu_gece_uyayacak"
+    },
+    {
+      "season": 55,
+      "episode": 54,
+      "title": "Savant Idiot",
+      "diziid": "ak",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/55/basarisiz_bilgin"
+    },
+    {
+      "season": 56,
+      "episode": 55,
+      "title": "Face the Music",
+      "diziid": "ak",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/56/muzikle_yuzles"
+    },
+    {
+      "season": 57,
+      "episode": 56,
+      "title": "The Thousandth",
+      "diziid": "ak",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/57/bininci"
+    },
+    {
+      "season": 58,
+      "episode": 57,
+      "title": "Fearless",
+      "diziid": "ak",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/58/korkusuz"
+    },
+    {
+      "season": 59,
+      "episode": 58,
+      "title": "Dirty Politics",
+      "diziid": "ak",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/59/kirli_politika"
+    },
+    {
+      "season": 60,
+      "episode": 59,
+      "title": "Friend vs. Friend",
+      "diziid": "ak",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/60/arkadas_arkadasa_karsi"
+    },
+    {
+      "season": 61,
+      "episode": 60,
+      "title": "The Audition Mission",
+      "diziid": "ak",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/61/gorevimiz_secmeler"
+    },
+    {
+      "season": 62,
+      "episode": 61,
+      "title": "Tea Time",
+      "diziid": "ak",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/62/cay_zamani"
+    },
+    {
+      "season": 63,
+      "episode": 62,
+      "title": "Wanna Piece of Me?",
+      "diziid": "ak",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/63/dovusmek_mi_istiyorsun"
+    },
+    {
+      "season": 64,
+      "episode": 63,
+      "title": "The List",
+      "diziid": "ak",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/64/liste"
+    },
+    {
+      "season": 65,
+      "episode": 64,
+      "title": "Shower Up",
+      "diziid": "ak",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/65/dus_al"
+    },
+    {
+      "season": 66,
+      "episode": 65,
+      "title": "The Fever",
+      "diziid": "ak",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/66/ates"
+    },
+    {
+      "season": 67,
+      "episode": 66,
+      "title": "In the Bag",
+      "diziid": "ak",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/67/cantada"
+    },
+    {
+      "season": 68,
+      "episode": 67,
+      "title": "King of the Sidewalk",
+      "diziid": "ak",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/68/kaldirimin_krali"
+    },
+    {
+      "season": 69,
+      "episode": 68,
+      "title": "Money Money Money",
+      "diziid": "ak",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/69/para_para_para"
+    },
+    {
+      "season": 70,
+      "episode": 69,
+      "title": "Cereal Zombie",
+      "diziid": "ak",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/70/gevrek_zombi"
+    },
+    {
+      "season": 71,
+      "episode": 70,
+      "title": "Picture Perfect",
+      "diziid": "ak",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/71/mukemmel"
+    },
+    {
+      "season": 72,
+      "episode": 71,
+      "title": "Career Test",
+      "diziid": "ak",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/72/kariyer_testi"
+    },
+    {
+      "season": 73,
+      "episode": 72,
+      "title": "Sherwood's Fault",
+      "diziid": "ak",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/73/sherwoodun_sucu"
+    },
+    {
+      "season": 74,
+      "episode": 73,
+      "title": "Curse",
+      "diziid": "ak",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/74/kufur"
+    },
+    {
+      "season": 75,
+      "episode": 74,
+      "title": "Cool Kid",
+      "diziid": "ak",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/75/harika_cocuk"
+    },
+    {
+      "season": 76,
+      "episode": 75,
+      "title": "The Book Club",
+      "diziid": "ak",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/76/kitap_kulubu"
+    },
+    {
+      "season": 77,
+      "episode": 76,
+      "title": "Manettied",
+      "diziid": "ak",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/77/manetti_belasi"
+    },
+    {
+      "season": 78,
+      "episode": 77,
+      "title": "Ticking Clock",
+      "diziid": "ak",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/78/geri_sayim"
+    },
+    {
+      "season": 1,
+      "episode": 78,
+      "title": "Junkboy",
+      "diziid": "ak",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/79/copcu"
+    },
+    {
+      "season": 2,
+      "episode": 79,
+      "title": "Kick-it-Ball",
+      "diziid": "ak",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/80/kick-it_ball"
+    },
+    {
+      "season": 3,
+      "episode": 80,
+      "title": "Game Off",
+      "diziid": "ak",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/81/oyun_bitti"
+    },
+    {
+      "season": 4,
+      "episode": 81,
+      "title": "The Sandman Cometh",
+      "diziid": "ak",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/82/uyku_direnisi"
+    },
+    {
+      "season": 5,
+      "episode": 82,
+      "title": "Bullicus Smarticus",
+      "diziid": "ak",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/83/kabadayuz_zekiyuz"
+    },
+    {
+      "season": 6,
+      "episode": 83,
+      "title": "The Cool Hat",
+      "diziid": "ak",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/84/guzel_sapka"
+    },
+    {
+      "season": 7,
+      "episode": 84,
+      "title": "Spoiler Alert",
+      "diziid": "ak",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/85/kimse_konusmasin"
+    },
+    {
+      "season": 8,
+      "episode": 85,
+      "title": "How to Dismantle an Alien Attack",
+      "diziid": "ak",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/86/uzayli_istilasi"
+    },
+    {
+      "season": 9,
+      "episode": 86,
+      "title": "Operation Waterpark",
+      "diziid": "ak",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/87/operasyon%3A_su_parki"
+    },
+    {
+      "season": 10,
+      "episode": 87,
+      "title": "Doy to the World",
+      "diziid": "ak",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/88/dunyanin_seyi"
+    },
+    {
+      "season": 11,
+      "episode": 88,
+      "title": "Book War",
+      "diziid": "ak",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/89/kitap_savasi"
+    },
+    {
+      "season": 12,
+      "episode": 89,
+      "title": "Ninja for Hire",
+      "diziid": "ak",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/90/kiralik_ninja"
+    },
+    {
+      "season": 13,
+      "episode": 90,
+      "title": "Wiznimals",
+      "diziid": "ak",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/91/wiznimals"
+    },
+    {
+      "season": 14,
+      "episode": 91,
+      "title": "Ping Pong",
+      "diziid": "ak",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/92/pinpon"
+    },
+    {
+      "season": 15,
+      "episode": 92,
+      "title": "Bring It Back",
+      "diziid": "ak",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/93/geri_gelsin"
+    },
+    {
+      "season": 16,
+      "episode": 93,
+      "title": "Buddy Page",
+      "diziid": "ak",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/94/arkadas_sayfasi"
+    },
+    {
+      "season": 17,
+      "episode": 94,
+      "title": "Courtroom TV",
+      "diziid": "ak",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/95/televizyon_mahkemesi"
+    },
+    {
+      "season": 18,
+      "episode": 95,
+      "title": "Damage Remote Control",
+      "diziid": "ak",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/96/uzaktan_kumanda"
+    },
+    {
+      "season": 19,
+      "episode": 96,
+      "title": "Family Game Night",
+      "diziid": "ak",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/97/aile_oyunu_gecesi"
+    },
+    {
+      "season": 20,
+      "episode": 97,
+      "title": "Fame",
+      "diziid": "ak",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/98/sohret"
+    },
+    {
+      "season": 21,
+      "episode": 98,
+      "title": "The Funniest Kid",
+      "diziid": "ak",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/99/en_komik_cocuk"
+    },
+    {
+      "season": 24,
+      "episode": 99,
+      "title": "Soccer Tryouts",
+      "diziid": "ak",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/102/futbol_secmeleri"
+    },
+    {
+      "season": 26,
+      "episode": 100,
+      "title": "Fieldtrip of Dreams",
+      "diziid": "ak",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/104/hayallerdeki_okul_gezisi"
+    },
+    {
+      "season": 28,
+      "episode": 101,
+      "title": "Heatwave",
+      "diziid": "ak",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/106/sicak_dalgasi"
+    },
+    {
+      "season": 29,
+      "episode": 102,
+      "title": "Clean Up!",
+      "diziid": "ak",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/107/temizlik"
+    },
+    {
+      "season": 30,
+      "episode": 103,
+      "title": "When Peter Attacks!",
+      "diziid": "ak",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/108/peter_saldirinca"
+    },
+    {
+      "season": 31,
+      "episode": 104,
+      "title": "Cabin Fever",
+      "diziid": "ak",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/109/kabin_sendromu"
+    },
+    {
+      "season": 32,
+      "episode": 105,
+      "title": "Frontier Family",
+      "diziid": "ak",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/110/sinirdaki_aile"
+    },
+    {
+      "season": 33,
+      "episode": 106,
+      "title": "Karate Kids",
+      "diziid": "ak",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/111/karateci_cocuklar"
+    },
+    {
+      "season": 34,
+      "episode": 107,
+      "title": "Ice Cream Panic",
+      "diziid": "ak",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/112/dondurma_panigi"
+    },
+    {
+      "season": 35,
+      "episode": 108,
+      "title": "Mini Grand Prix",
+      "diziid": "ak",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/113/mini_grand_prix"
+    },
+    {
+      "season": 36,
+      "episode": 109,
+      "title": "The Case of the Missing Controllers",
+      "diziid": "ak",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/114/kayip_kumanda_vakasi"
+    },
+    {
+      "season": 37,
+      "episode": 110,
+      "title": "Stealth Plan",
+      "diziid": "ak",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/115/gizli_plan"
+    },
+    {
+      "season": 38,
+      "episode": 111,
+      "title": "Break a Leg",
+      "diziid": "ak",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/116/iyi_sanslar"
+    },
+    {
+      "season": 39,
+      "episode": 112,
+      "title": "Buddy Guard",
+      "diziid": "ak",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/117/ozel_koruma"
+    },
+    {
+      "season": 40,
+      "episode": 113,
+      "title": "Girl Pyjama Party",
+      "diziid": "ak",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/118/kizlar_pijama_partisi"
+    },
+    {
+      "season": 41,
+      "episode": 114,
+      "title": "Revolution",
+      "diziid": "ak",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/119/devrim"
+    },
+    {
+      "season": 42,
+      "episode": 115,
+      "title": "Cosmic Pirates",
+      "diziid": "ak",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/120/kozmik_korsanlar"
+    },
+    {
+      "season": 43,
+      "episode": 116,
+      "title": "Battle for the Room",
+      "diziid": "ak",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/121/oda_icin_savas"
+    },
+    {
+      "season": 44,
+      "episode": 117,
+      "title": "Foot by Foot",
+      "diziid": "ak",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/122/adim_adim"
+    },
+    {
+      "season": 1,
+      "episode": 118,
+      "title": "Space Cadet",
+      "diziid": "ak",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/131/uzay_sarkisi"
+    },
+    {
+      "season": 2,
+      "episode": 119,
+      "title": "The Cheating Kind",
+      "diziid": "ak",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/132/duzenbaz_cocuk"
+    },
+    {
+      "season": 3,
+      "episode": 120,
+      "title": "Mudman",
+      "diziid": "ak",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/133/camur_adam"
+    },
+    {
+      "season": 4,
+      "episode": 121,
+      "title": "Back to School",
+      "diziid": "ak",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/134/okula_donus"
+    },
+    {
+      "season": 5,
+      "episode": 122,
+      "title": "Worlds Record",
+      "diziid": "ak",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/135/dunya_rekorlari"
+    },
+    {
+      "season": 6,
+      "episode": 123,
+      "title": "Out Lunch",
+      "diziid": "ak",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/136/disarida_ogle_yemeginde"
+    },
+    {
+      "season": 7,
+      "episode": 124,
+      "title": "Tracysitting",
+      "diziid": "ak",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/137/tracynin_bakiciligi"
+    },
+    {
+      "season": 8,
+      "episode": 125,
+      "title": "Zonked Out",
+      "diziid": "ak",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/138/bitkin_dusmus"
+    },
+    {
+      "season": 9,
+      "episode": 126,
+      "title": "Prime Time",
+      "diziid": "ak",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/139/prime_time"
+    },
+    {
+      "season": 10,
+      "episode": 127,
+      "title": "Brownie Points",
+      "diziid": "ak",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/140/brownie_puanlari"
+    },
+    {
+      "season": 11,
+      "episode": 128,
+      "title": "Mind Reader",
+      "diziid": "ak",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/141/zihin_okuyucu"
+    },
+    {
+      "season": 12,
+      "episode": 129,
+      "title": "Double Agent",
+      "diziid": "ak",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/142/cift_tarafli_ajan"
+    },
+    {
+      "season": 13,
+      "episode": 130,
+      "title": "Surprise Package",
+      "diziid": "ak",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/143/surpriz_paket"
+    },
+    {
+      "season": 14,
+      "episode": 131,
+      "title": "April Fools",
+      "diziid": "ak",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/144/1_nisan"
+    },
+    {
+      "season": 15,
+      "episode": 132,
+      "title": "Get Well Soon",
+      "diziid": "ak",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/145/gecmis_olsun"
+    },
+    {
+      "season": 16,
+      "episode": 133,
+      "title": "Slobber School",
+      "diziid": "ak",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/146/slobber_okul"
+    },
+    {
+      "season": 17,
+      "episode": 134,
+      "title": "Night at the Department Store",
+      "diziid": "ak",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/147/magazada_bir_gece"
+    },
+    {
+      "season": 18,
+      "episode": 135,
+      "title": "Fish Nappers",
+      "diziid": "ak",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/148/balik_hirsizlari"
+    },
+    {
+      "season": 19,
+      "episode": 136,
+      "title": "Thanksgifting",
+      "diziid": "ak",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/149/sukran_hediyesi"
+    },
+    {
+      "season": 20,
+      "episode": 137,
+      "title": "Another Side of Slobber",
+      "diziid": "ak",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/150/slobberin_diger_yuzu"
+    },
+    {
+      "season": 21,
+      "episode": 138,
+      "title": "When Mom's Away",
+      "diziid": "ak",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/151/annem_uzaktayken"
+    },
+    {
+      "season": 22,
+      "episode": 139,
+      "title": "Book of Tracy",
+      "diziid": "ak",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/152/tracynin_kitabi"
+    },
+    {
+      "season": 23,
+      "episode": 140,
+      "title": "Road Trip",
+      "diziid": "ak",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/153/yolculuk"
+    },
+    {
+      "season": 24,
+      "episode": 141,
+      "title": "Angelo Time",
+      "diziid": "ak",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/154/angelo_zamani"
+    },
+    {
+      "season": 25,
+      "episode": 142,
+      "title": "Into the Wild",
+      "diziid": "ak",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/155/vahsi_dogada"
+    },
+    {
+      "season": 27,
+      "episode": 143,
+      "title": "Magic Show",
+      "diziid": "ak",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/157/sihir_gosterisi"
+    },
+    {
+      "season": 28,
+      "episode": 144,
+      "title": "Yoga Mum",
+      "diziid": "ak",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/158/yoga_anne"
+    },
+    {
+      "season": 29,
+      "episode": 145,
+      "title": "How Not to Be Angelo",
+      "diziid": "ak",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/159/nasil_angelo_olunmaz"
+    },
+    {
+      "season": 30,
+      "episode": 146,
+      "title": "His Thing",
+      "diziid": "ak",
+      "bolum": "160",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/160/ozel_bir_sey"
+    },
+    {
+      "season": 31,
+      "episode": 147,
+      "title": "Bachelor Angelo",
+      "diziid": "ak",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/161/yalniz_yasayan_angelo"
+    },
+    {
+      "season": 32,
+      "episode": 148,
+      "title": "Dumb Luck",
+      "diziid": "ak",
+      "bolum": "162",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/162/acemi_sansi"
+    },
+    {
+      "season": 33,
+      "episode": 149,
+      "title": "Bad Roommate",
+      "diziid": "ak",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/163/kotu_oda_arkadasi"
+    },
+    {
+      "season": 34,
+      "episode": 150,
+      "title": "My Name in the Title",
+      "diziid": "ak",
+      "bolum": "164",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/164/baslikta_benim_adim"
+    },
+    {
+      "season": 35,
+      "episode": 151,
+      "title": "Go Green",
+      "diziid": "ak",
+      "bolum": "165",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/165/cevreyi_koru"
+    },
+    {
+      "season": 36,
+      "episode": 152,
+      "title": "Remember Last Summer",
+      "diziid": "ak",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/166/gecen_yazi_hatirla"
+    },
+    {
+      "season": 37,
+      "episode": 153,
+      "title": "Spot Remover",
+      "diziid": "ak",
+      "bolum": "167",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/167/hayali_kopek_spot"
+    },
+    {
+      "season": 38,
+      "episode": 154,
+      "title": "Rock or Rock",
+      "diziid": "ak",
+      "bolum": "168",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/168/rock_ya_da_tas"
+    },
+    {
+      "season": 39,
+      "episode": 155,
+      "title": "Best Seat Ever",
+      "diziid": "ak",
+      "bolum": "169",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/169/gelmis_gecmis_en_iyi_sira"
+    },
+    {
+      "season": 40,
+      "episode": 156,
+      "title": "Backseat Driver",
+      "diziid": "ak",
+      "bolum": "170",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/170/arka_koltuktaki_surucu"
+    },
+    {
+      "season": 41,
+      "episode": 157,
+      "title": "Soccermania",
+      "diziid": "ak",
+      "bolum": "171",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/171/futbol_cilginligi"
+    },
+    {
+      "season": 43,
+      "episode": 158,
+      "title": "Li'l Bear and Sweetness",
+      "diziid": "ak",
+      "bolum": "173",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/173/kucuk_ayi_ve_tatli_sey"
+    },
+    {
+      "season": 44,
+      "episode": 159,
+      "title": "Family Fun Time",
+      "diziid": "ak",
+      "bolum": "174",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/174/ailecek_eglence_zamani"
+    },
+    {
+      "season": 45,
+      "episode": 160,
+      "title": "Dark Angelo",
+      "diziid": "ak",
+      "bolum": "175",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/175/kara_angelo"
+    },
+    {
+      "season": 46,
+      "episode": 161,
+      "title": "Usually the Suspect",
+      "diziid": "ak",
+      "bolum": "176",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/176/cogunlukla_supheli"
+    },
+    {
+      "season": 1,
+      "episode": 162,
+      "title": "Dumb Phone",
+      "diziid": "ak",
+      "bolum": "183",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/183/akilsiz_telefon"
+    },
+    {
+      "season": 2,
+      "episode": 163,
+      "title": "The Note King",
+      "diziid": "ak",
+      "bolum": "184",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/184/notlar_krali"
+    },
+    {
+      "season": 3,
+      "episode": 164,
+      "title": "Rock Star Dad",
+      "diziid": "ak",
+      "bolum": "185",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/185/rock_yildizi_baba"
+    },
+    {
+      "season": 4,
+      "episode": 165,
+      "title": "School Council",
+      "diziid": "ak",
+      "bolum": "186",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/186/okul_konseyi"
+    },
+    {
+      "season": 5,
+      "episode": 166,
+      "title": "Sleepover",
+      "diziid": "ak",
+      "bolum": "187",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/187/pijama_partisi"
+    },
+    {
+      "season": 6,
+      "episode": 167,
+      "title": "Fake Stuntman",
+      "diziid": "ak",
+      "bolum": "188",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/188/sahte_dublor"
+    },
+    {
+      "season": 7,
+      "episode": 168,
+      "title": "The Balance of Nature",
+      "diziid": "ak",
+      "bolum": "189",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/189/tabiatin_dengesi"
+    },
+    {
+      "season": 8,
+      "episode": 169,
+      "title": "Cat Burglar",
+      "diziid": "ak",
+      "bolum": "190",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/190/hirsiz_kedi"
+    },
+    {
+      "season": 9,
+      "episode": 170,
+      "title": "Here Comes the Science",
+      "diziid": "ak",
+      "bolum": "191",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/191/karsinizda_bilim"
+    },
+    {
+      "season": 10,
+      "episode": 171,
+      "title": "The Arm",
+      "diziid": "ak",
+      "bolum": "192",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/192/kol"
+    },
+    {
+      "season": 11,
+      "episode": 172,
+      "title": "Catnapped",
+      "diziid": "ak",
+      "bolum": "193",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/193/kedi_hirsizi"
+    },
+    {
+      "season": 12,
+      "episode": 173,
+      "title": "Pen Pal",
+      "diziid": "ak",
+      "bolum": "194",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/194/mektup_arkadasi"
+    },
+    {
+      "season": 13,
+      "episode": 174,
+      "title": "Employee of the Month",
+      "diziid": "ak",
+      "bolum": "195",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/195/ayin_elemani"
+    },
+    {
+      "season": 14,
+      "episode": 175,
+      "title": "Bobbleheads Are Gonna Roll",
+      "diziid": "ak",
+      "bolum": "196",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/196/sallanan_kafalar_begeniye_sunuluyor"
+    },
+    {
+      "season": 15,
+      "episode": 176,
+      "title": "Secret Recipe",
+      "diziid": "ak",
+      "bolum": "197",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/197/gizli_tarif"
+    },
+    {
+      "season": 16,
+      "episode": 177,
+      "title": "Angelo vs. the Test",
+      "diziid": "ak",
+      "bolum": "198",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/198/angelo_sinava_karsi"
+    },
+    {
+      "season": 17,
+      "episode": 178,
+      "title": "What Now?",
+      "diziid": "ak",
+      "bolum": "199",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/199/simdi_ne_olacak"
+    },
+    {
+      "season": 18,
+      "episode": 179,
+      "title": "Grounded",
+      "diziid": "ak",
+      "bolum": "200",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/200/ev_hapsi"
+    },
+    {
+      "season": 19,
+      "episode": 180,
+      "title": "The Pigeons",
+      "diziid": "ak",
+      "bolum": "201",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/201/guvercinler"
+    },
+    {
+      "season": 20,
+      "episode": 181,
+      "title": "Cupcake War",
+      "diziid": "ak",
+      "bolum": "202",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/202/kek_savaslari"
+    },
+    {
+      "season": 21,
+      "episode": 182,
+      "title": "Best Sister Ever",
+      "diziid": "ak",
+      "bolum": "203",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/203/gelmis_gecmis_en_iyi_abla"
+    },
+    {
+      "season": 22,
+      "episode": 183,
+      "title": "Snow and Tell",
+      "diziid": "ak",
+      "bolum": "204",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/204/goster_ve_anlat"
+    },
+    {
+      "season": 23,
+      "episode": 184,
+      "title": "Photobomb",
+      "diziid": "ak",
+      "bolum": "205",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/205/fotograflara_sizanlar"
+    },
+    {
+      "season": 24,
+      "episode": 185,
+      "title": "Not Gym Class",
+      "diziid": "ak",
+      "bolum": "206",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/206/beden_egitimine_ara"
+    },
+    {
+      "season": 25,
+      "episode": 186,
+      "title": "Van Dunk's Mojo",
+      "diziid": "ak",
+      "bolum": "207",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/207/van_dunkin_cazibesi"
+    },
+    {
+      "season": 26,
+      "episode": 187,
+      "title": "The Fence",
+      "diziid": "ak",
+      "bolum": "208",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/208/cit_deneyi"
+    },
+    {
+      "season": 27,
+      "episode": 188,
+      "title": "The World According to Angelo",
+      "diziid": "ak",
+      "bolum": "209",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/209/angelonun_gozunden_dunyaya_bakis"
+    },
+    {
+      "season": 28,
+      "episode": 189,
+      "title": "In the Game",
+      "diziid": "ak",
+      "bolum": "210",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/210/oyundayim"
+    },
+    {
+      "season": 29,
+      "episode": 190,
+      "title": "Geezer's Nephew",
+      "diziid": "ak",
+      "bolum": "211",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/211/geezerin_yegeni"
+    },
+    {
+      "season": 30,
+      "episode": 191,
+      "title": "Enter the Karate Kid",
+      "diziid": "ak",
+      "bolum": "212",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/212/karate_kide_giris"
+    },
+    {
+      "season": 31,
+      "episode": 192,
+      "title": "A Perfect Day",
+      "diziid": "ak",
+      "bolum": "213",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/213/kusursuz_bir_gun"
+    },
+    {
+      "season": 32,
+      "episode": 193,
+      "title": "Home Security",
+      "diziid": "ak",
+      "bolum": "214",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/214/ev_guvenligi"
+    },
+    {
+      "season": 33,
+      "episode": 194,
+      "title": "Peng!",
+      "diziid": "ak",
+      "bolum": "215",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/215/toplanti"
+    },
+    {
+      "season": 34,
+      "episode": 195,
+      "title": "Better Call Angelo",
+      "diziid": "ak",
+      "bolum": "216",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/216/care_angeloyu_aramak"
+    },
+    {
+      "season": 35,
+      "episode": 196,
+      "title": "Electra",
+      "diziid": "ak",
+      "bolum": "217",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/217/electra"
+    },
+    {
+      "season": 36,
+      "episode": 197,
+      "title": "Best Friends Forever",
+      "diziid": "ak",
+      "bolum": "218",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/218/sonsuza_dek_en_iyi_arkadaslar"
+    },
+    {
+      "season": 37,
+      "episode": 198,
+      "title": "Cook Off",
+      "diziid": "ak",
+      "bolum": "219",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/219/yemek_yarismasi"
+    },
+    {
+      "season": 38,
+      "episode": 199,
+      "title": "Most Likely to Succeed",
+      "diziid": "ak",
+      "bolum": "220",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/220/ileride_en_basarili_olacak_kisi"
+    },
+    {
+      "season": 39,
+      "episode": 200,
+      "title": "Parent of the Year",
+      "diziid": "ak",
+      "bolum": "221",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/221/yilin_ebeveyni"
+    },
+    {
+      "season": 40,
+      "episode": 201,
+      "title": "Snake Pit",
+      "diziid": "ak",
+      "bolum": "222",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/222/yilan_deligi"
+    },
+    {
+      "season": 41,
+      "episode": 202,
+      "title": "Professor Angelo",
+      "diziid": "ak",
+      "bolum": "223",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/223/profesor_angelo"
+    },
+    {
+      "season": 42,
+      "episode": 203,
+      "title": "The Future of Us",
+      "diziid": "ak",
+      "bolum": "224",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/224/gelecegimiz"
+    },
+    {
+      "season": 44,
+      "episode": 204,
+      "title": "The Replacements",
+      "diziid": "ak",
+      "bolum": "226",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/226/yedekler"
+    },
+    {
+      "season": 1,
+      "episode": 205,
+      "title": "Peter for President",
+      "diziid": "ak",
+      "bolum": "229",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/229/baskan_adayi_peter"
+    },
+    {
+      "season": 1,
+      "episode": 206,
+      "title": "Dark Angelo 2: Wiznimals War",
+      "diziid": "ak",
+      "bolum": "231",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/231/kara_angelo_2%3A_wiznimal_savaslari"
+    },
+    {
+      "season": 1,
+      "episode": 207,
+      "title": "Deep Undercover",
+      "diziid": "ak",
+      "bolum": "233",
+      "url": "https://cizgivedizi.com/dizi/ak/angelo_kurallari/233/cok_gizli_gorev"
+    }
+  ]
+}

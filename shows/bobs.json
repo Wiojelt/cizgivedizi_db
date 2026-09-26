@@ -1,0 +1,1084 @@
+{
+  "id": "bobs",
+  "title": "bob's burgers",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BOBPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Human Flesh",
+      "diziid": "bobs",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/1/insan_eti"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Crawl Space",
+      "diziid": "bobs",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/2/doseme_alti"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Sacred Cow",
+      "diziid": "bobs",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/3/kutsal_inek"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Sexy Dance Fighting",
+      "diziid": "bobs",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/4/seksi_dans_kavgasi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Hamburger Dinner Theater",
+      "diziid": "bobs",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/5/aksam_yemeginde_hamburger_ve_tiyatro"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Sheesh! Cab, Bob?",
+      "diziid": "bobs",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/6/daha_neler%21_taksi%2C_bob"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Bed & Breakfast",
+      "diziid": "bobs",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/7/yatak_%26_kahvalti"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Art Crawl",
+      "diziid": "bobs",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/8/sanat_haftasi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Spaghetti Western and Meatballs",
+      "diziid": "bobs",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/9/spagetti_western_ve_kofteler"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Burger War",
+      "diziid": "bobs",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/10/burger_savasi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Weekend at Mort's",
+      "diziid": "bobs",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/11/mort_ile_hafta_sonu"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Lobsterfest",
+      "diziid": "bobs",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/12/istakoz_festivali"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Torpedo",
+      "diziid": "bobs",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/13/torpido"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "The Belchies",
+      "diziid": "bobs",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/14/belchies"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Bob Day Afternoon",
+      "diziid": "bobs",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/15/bobun_ogleden_sonrasi"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Synchronized Swimming",
+      "diziid": "bobs",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/16/senkronize_yuzme"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Burgerboss",
+      "diziid": "bobs",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/17/burger_patronu"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Food Truckin'",
+      "diziid": "bobs",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/18/yemek_kamyonu"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Dr. Yap",
+      "diziid": "bobs",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/19/dr._yap"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "Moody Foodie",
+      "diziid": "bobs",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/20/yemek_modu"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Bad Tina",
+      "diziid": "bobs",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/21/kotu_tina"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Beefsquatch",
+      "diziid": "bobs",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/22/koca_herif"
+    },
+    {
+      "season": 1,
+      "episode": 23,
+      "title": "Ear-Sy Rider",
+      "diziid": "bobs",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/23/ear-sy_rider"
+    },
+    {
+      "season": 2,
+      "episode": 24,
+      "title": "Full Bars",
+      "diziid": "bobs",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/24/dolu_barlar"
+    },
+    {
+      "season": 3,
+      "episode": 25,
+      "title": "Bob Fires the Kids",
+      "diziid": "bobs",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/25/bob_cocuklari_atesliyor"
+    },
+    {
+      "season": 4,
+      "episode": 26,
+      "title": "Mutiny on the Windbreaker",
+      "diziid": "bobs",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/26/ruzgarliktaki_isyan"
+    },
+    {
+      "season": 5,
+      "episode": 27,
+      "title": "An Indecent Thanksgiving Proposal",
+      "diziid": "bobs",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/27/ahlaksiz_sukran_gunu_teklifi"
+    },
+    {
+      "season": 6,
+      "episode": 28,
+      "title": "The Deepening",
+      "diziid": "bobs",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/28/derinlesme"
+    },
+    {
+      "season": 7,
+      "episode": 29,
+      "title": "Tina-Rannosaurus Wrecks",
+      "diziid": "bobs",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/29/tinarannosaurus_enkazlari"
+    },
+    {
+      "season": 8,
+      "episode": 30,
+      "title": "The Unbearable Like-Likeness of Gene",
+      "diziid": "bobs",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/30/dayanilmaz_benzerlik"
+    },
+    {
+      "season": 9,
+      "episode": 31,
+      "title": "Bob Rest Ye Merry Gentle-Mannequins",
+      "diziid": "bobs",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/31/bob_ve_neseli_nazik_mankenler"
+    },
+    {
+      "season": 10,
+      "episode": 32,
+      "title": "Mother Daughter Laser Razor",
+      "diziid": "bobs",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/32/anne_kizin_lazer_jileti"
+    },
+    {
+      "season": 11,
+      "episode": 33,
+      "title": "Nude Beach",
+      "diziid": "bobs",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/33/ciplaklar_plaji"
+    },
+    {
+      "season": 12,
+      "episode": 34,
+      "title": "Broadcast Wagstaff School News",
+      "diziid": "bobs",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/34/wagstaff_okul_haberleri"
+    },
+    {
+      "season": 13,
+      "episode": 35,
+      "title": "My Fuzzy Valentine",
+      "diziid": "bobs",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/35/bulanik_sevgilim"
+    },
+    {
+      "season": 14,
+      "episode": 36,
+      "title": "Lindapendant Woman",
+      "diziid": "bobs",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/36/ozgur_linda"
+    },
+    {
+      "season": 15,
+      "episode": 37,
+      "title": "O.T.: The Outside Toilet",
+      "diziid": "bobs",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/37/disaridaki_tuvalet"
+    },
+    {
+      "season": 16,
+      "episode": 38,
+      "title": "Topsy",
+      "diziid": "bobs",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/38/topsy"
+    },
+    {
+      "season": 17,
+      "episode": 39,
+      "title": "Two for Tina",
+      "diziid": "bobs",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/39/tina_icin_iki_adet"
+    },
+    {
+      "season": 18,
+      "episode": 40,
+      "title": "It Snakes a Village",
+      "diziid": "bobs",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/40/koyun_yilanlari"
+    },
+    {
+      "season": 19,
+      "episode": 41,
+      "title": "Family Fracas",
+      "diziid": "bobs",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/41/aile_kavgasi"
+    },
+    {
+      "season": 20,
+      "episode": 42,
+      "title": "The Kids Run the Restaurant",
+      "diziid": "bobs",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/42/cocuklar_restoranin_basinda"
+    },
+    {
+      "season": 21,
+      "episode": 43,
+      "title": "Boyz 4 Now",
+      "diziid": "bobs",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/43/boyz_4_now"
+    },
+    {
+      "season": 22,
+      "episode": 44,
+      "title": "Carpe Museum",
+      "diziid": "bobs",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/44/hayat_muzesi"
+    },
+    {
+      "season": 23,
+      "episode": 45,
+      "title": "The Unnatural",
+      "diziid": "bobs",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/45/dogal_olmayan"
+    },
+    {
+      "season": 1,
+      "episode": 46,
+      "title": "Manic Pixie Crap Show",
+      "diziid": "bobs",
+      "bolum": "217",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/217/karmakarisik_pixie_sovu"
+    },
+    {
+      "season": 2,
+      "episode": 47,
+      "title": "Crystal Mess",
+      "diziid": "bobs",
+      "bolum": "218",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/218/kristal_karmasasi"
+    },
+    {
+      "season": 3,
+      "episode": 48,
+      "title": "The Pumpkinening",
+      "diziid": "bobs",
+      "bolum": "219",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/219/balkabaklasma"
+    },
+    {
+      "season": 4,
+      "episode": 49,
+      "title": "Driving Big Dummy",
+      "diziid": "bobs",
+      "bolum": "220",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/220/buyuk_sapsal_yolculugu"
+    },
+    {
+      "season": 5,
+      "episode": 50,
+      "title": "Seven-tween Again",
+      "diziid": "bobs",
+      "bolum": "221",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/221/on_yediymis"
+    },
+    {
+      "season": 6,
+      "episode": 51,
+      "title": "Beach, Please",
+      "diziid": "bobs",
+      "bolum": "222",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/222/sahil_lutfen"
+    },
+    {
+      "season": 7,
+      "episode": 52,
+      "title": "Loft in Bedslation",
+      "diziid": "bobs",
+      "bolum": "223",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/223/yatak_kurma_maceralari"
+    },
+    {
+      "season": 8,
+      "episode": 53,
+      "title": "Stuck in the Kitchen with You",
+      "diziid": "bobs",
+      "bolum": "224",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/224/mutfakta_seninle_mahsur_kalmak"
+    },
+    {
+      "season": 9,
+      "episode": 54,
+      "title": "FOMO You Didn't",
+      "diziid": "bobs",
+      "bolum": "225",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/225/kacirma_korkusu"
+    },
+    {
+      "season": 10,
+      "episode": 55,
+      "title": "Gene's Christmas Break",
+      "diziid": "bobs",
+      "bolum": "226",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/226/genein_yilbasi_tatili"
+    },
+    {
+      "season": 11,
+      "episode": 56,
+      "title": "Touch of Eval(uations)",
+      "diziid": "bobs",
+      "bolum": "227",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/227/ufak_bir_degerlendirme"
+    },
+    {
+      "season": 12,
+      "episode": 57,
+      "title": "Ferry on My Wayward Bob and Linda",
+      "diziid": "bobs",
+      "bolum": "228",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/228/devam_et_asi_bob_ve_linda"
+    },
+    {
+      "season": 13,
+      "episode": 58,
+      "title": "Frigate Me Knot",
+      "diziid": "bobs",
+      "bolum": "229",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/229/donanmayi_unutma"
+    },
+    {
+      "season": 14,
+      "episode": 59,
+      "title": "Video Killed the Gene-io Star",
+      "diziid": "bobs",
+      "bolum": "230",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/230/yildiz_genei_mahveden_klip"
+    },
+    {
+      "season": 15,
+      "episode": 60,
+      "title": "Ancient Misbehavin",
+      "diziid": "bobs",
+      "bolum": "231",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/231/eski_yaramazliklar"
+    },
+    {
+      "season": 16,
+      "episode": 61,
+      "title": "Interview with a Pop-pop-pire",
+      "diziid": "bobs",
+      "bolum": "232",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/232/pop-pop_ile_gorusme"
+    },
+    {
+      "season": 17,
+      "episode": 62,
+      "title": "The Spider House Rules",
+      "diziid": "bobs",
+      "bolum": "233",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/233/orumcek_evi_kurallari"
+    },
+    {
+      "season": 18,
+      "episode": 63,
+      "title": "Clear and Present Ginger",
+      "diziid": "bobs",
+      "bolum": "234",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/234/acik_ve_mevcut_ginger"
+    },
+    {
+      "season": 19,
+      "episode": 64,
+      "title": "A-Sprout a Boy",
+      "diziid": "bobs",
+      "bolum": "235",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/235/bir_cocuk_aciyor"
+    },
+    {
+      "season": 20,
+      "episode": 65,
+      "title": "Sauce Side Story",
+      "diziid": "bobs",
+      "bolum": "236",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/236/sos_yakasi_hikayesi"
+    },
+    {
+      "season": 21,
+      "episode": 66,
+      "title": "Some Like It Bot Part 1: Eighth Grade Runner",
+      "diziid": "bobs",
+      "bolum": "237",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/237/sekizinci_sinif_kosucusu_bolum_1"
+    },
+    {
+      "season": 22,
+      "episode": 67,
+      "title": "Some Like It Bot Part 2: Judge-bot Day",
+      "diziid": "bobs",
+      "bolum": "238",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/238/bazilari_bot_sever_2._bolum%3A_yargic_-_bot_gunu"
+    },
+    {
+      "season": 1,
+      "episode": 68,
+      "title": "To Bob, or Not to Bob",
+      "diziid": "bobs",
+      "bolum": "239",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/239/boba_ya_da_boba_degil"
+    },
+    {
+      "season": 2,
+      "episode": 69,
+      "title": "The Reeky Lake Show",
+      "diziid": "bobs",
+      "bolum": "240",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/240/reeky_lake_gosterisi"
+    },
+    {
+      "season": 3,
+      "episode": 70,
+      "title": "What About Job?",
+      "diziid": "bobs",
+      "bolum": "241",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/241/peki_ya_is"
+    },
+    {
+      "season": 4,
+      "episode": 71,
+      "title": "Comet-y of Errors",
+      "diziid": "bobs",
+      "bolum": "242",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/242/kuyruklu_yildiz-y_yanilmasi"
+    },
+    {
+      "season": 5,
+      "episode": 72,
+      "title": "So You Stink You Can Dance",
+      "diziid": "bobs",
+      "bolum": "243",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/243/kokuyorsun_dans_edebilirsin"
+    },
+    {
+      "season": 6,
+      "episode": 73,
+      "title": "Apple Gore-chard! (But Not Gory)",
+      "diziid": "bobs",
+      "bolum": "244",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/244/kirmizi_elma_bahcesi%21_ama_kanli_degil"
+    },
+    {
+      "season": 7,
+      "episode": 74,
+      "title": "Ready Player Gene",
+      "diziid": "bobs",
+      "bolum": "245",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/245/hazir_oyuncu_gene"
+    },
+    {
+      "season": 8,
+      "episode": 75,
+      "title": "Putts-giving",
+      "diziid": "bobs",
+      "bolum": "246",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/246/golf_topuna_hafifce_vurma-gunu"
+    },
+    {
+      "season": 9,
+      "episode": 76,
+      "title": "Show Mama from the Grave",
+      "diziid": "bobs",
+      "bolum": "247",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/247/mezardaki_anneyi_goster"
+    },
+    {
+      "season": 10,
+      "episode": 77,
+      "title": "The Plight Before Christmas",
+      "diziid": "bobs",
+      "bolum": "248",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/248/noel_oncesi_felaketi"
+    },
+    {
+      "season": 11,
+      "episode": 78,
+      "title": "Cheaty Cheaty Bang Bang",
+      "diziid": "bobs",
+      "bolum": "249",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/249/hilebaz_hilebaz_pat_pat"
+    },
+    {
+      "season": 12,
+      "episode": 79,
+      "title": "Oh Row You Didn't",
+      "diziid": "bobs",
+      "bolum": "250",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/250/oh_row_yapma"
+    },
+    {
+      "season": 13,
+      "episode": 80,
+      "title": "Stop! Or My Mom Will Sleuth!",
+      "diziid": "bobs",
+      "bolum": "251",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/251/durun%21_yoksa_annem_dedektiflik_yapacak%21"
+    },
+    {
+      "season": 14,
+      "episode": 81,
+      "title": "These Boots Are Made for Stalking",
+      "diziid": "bobs",
+      "bolum": "252",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/252/bu_botlar_iz_surmek_icin_uretildi"
+    },
+    {
+      "season": 15,
+      "episode": 82,
+      "title": "The Show (And Tell) Must Go On",
+      "diziid": "bobs",
+      "bolum": "253",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/253/gosteri_ve_soylesi_devam_etmeli"
+    },
+    {
+      "season": 16,
+      "episode": 83,
+      "title": "What a (April) Fool Believes",
+      "diziid": "bobs",
+      "bolum": "254",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/254/bir_nisan_aptalinin_inandiklari"
+    },
+    {
+      "season": 17,
+      "episode": 84,
+      "title": "Crows Encounters of the Bird Kind",
+      "diziid": "bobs",
+      "bolum": "255",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/255/kargalarin_kus_turuyle_karsilasmalari"
+    },
+    {
+      "season": 18,
+      "episode": 85,
+      "title": "Gift Card or Buy Trying",
+      "diziid": "bobs",
+      "bolum": "256",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/256/hediye_karti_ya_da_deneyerek_al"
+    },
+    {
+      "season": 19,
+      "episode": 86,
+      "title": "Crab-solutely Fabulous",
+      "diziid": "bobs",
+      "bolum": "257",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/257/yengec-sinlikle_muhtesem"
+    },
+    {
+      "season": 20,
+      "episode": 87,
+      "title": "Radio No You Didn't",
+      "diziid": "bobs",
+      "bolum": "258",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/258/radyo_hayir_yapmadin"
+    },
+    {
+      "season": 21,
+      "episode": 88,
+      "title": "Mother Author Laser Pointer",
+      "diziid": "bobs",
+      "bolum": "259",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/259/yazar_anne_lazer_kalem"
+    },
+    {
+      "season": 22,
+      "episode": 89,
+      "title": "Amelia",
+      "diziid": "bobs",
+      "bolum": "260",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/260/amelia"
+    },
+    {
+      "season": 1,
+      "episode": 90,
+      "title": "Fight at the Not Okay Chore-ral",
+      "diziid": "bobs",
+      "bolum": "261",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/261/ev_isi_catismasi"
+    },
+    {
+      "season": 2,
+      "episode": 91,
+      "title": "The Amazing Rudy",
+      "diziid": "bobs",
+      "bolum": "262",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/262/inanilmaz_rudy"
+    },
+    {
+      "season": 3,
+      "episode": 92,
+      "title": "The Pickleorette",
+      "diziid": "bobs",
+      "bolum": "263",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/263/tursucu_kiz"
+    },
+    {
+      "season": 4,
+      "episode": 93,
+      "title": "Gene It On",
+      "diziid": "bobs",
+      "bolum": "264",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/264/genein_sarkisi"
+    },
+    {
+      "season": 5,
+      "episode": 94,
+      "title": "Bully-ieve It or Not",
+      "diziid": "bobs",
+      "bolum": "265",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/265/zorba-inanin_ister_inanmayin"
+    },
+    {
+      "season": 6,
+      "episode": 95,
+      "title": "Escape from Which Island?",
+      "diziid": "bobs",
+      "bolum": "266",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/266/hangi_adadan_kaciyoruz"
+    },
+    {
+      "season": 7,
+      "episode": 96,
+      "title": "The (Raccoon) King and I",
+      "diziid": "bobs",
+      "bolum": "267",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/267/rakun_kral_ve_ben"
+    },
+    {
+      "season": 8,
+      "episode": 97,
+      "title": "Wharf, Me Worry?",
+      "diziid": "bobs",
+      "bolum": "268",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/268/wharf%2C_me_worry"
+    },
+    {
+      "season": 9,
+      "episode": 98,
+      "title": "Fraud of the Dead: Docu-pocalypse",
+      "diziid": "bobs",
+      "bolum": "269",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/269/olulerin_aldatmacasi%3A_zombi-belgesel-kiyamet"
+    },
+    {
+      "season": 10,
+      "episode": 99,
+      "title": "The Nightmare 2 Days Before Christmas",
+      "diziid": "bobs",
+      "bolum": "270",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/270/noelden_2_gun_oncesi_kabusu"
+    },
+    {
+      "season": 11,
+      "episode": 100,
+      "title": "Mission Impossi-Bob",
+      "diziid": "bobs",
+      "bolum": "271",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/271/gorevimiz_tehlike_-_bob"
+    },
+    {
+      "season": 12,
+      "episode": 101,
+      "title": "Jade in the Shade",
+      "diziid": "bobs",
+      "bolum": "272",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/272/golgedeki_yesim"
+    },
+    {
+      "season": 13,
+      "episode": 102,
+      "title": "Butt Sweat and Fears",
+      "diziid": "bobs",
+      "bolum": "273",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/273/kic_teri_ve_korkular"
+    },
+    {
+      "season": 14,
+      "episode": 103,
+      "title": "The Big Stieblitzki",
+      "diziid": "bobs",
+      "bolum": "274",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/274/bowling_krali"
+    },
+    {
+      "season": 15,
+      "episode": 104,
+      "title": "The Right Tough Stuff",
+      "diziid": "bobs",
+      "bolum": "275",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/275/gerekli_zorlu_seyler"
+    },
+    {
+      "season": 16,
+      "episode": 105,
+      "title": "To Catch a Beef",
+      "diziid": "bobs",
+      "bolum": "276",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/276/etin_pesinde"
+    },
+    {
+      "season": 1,
+      "episode": 106,
+      "title": "The Tina Table: The Tables Have Tina-Ed",
+      "diziid": "bobs",
+      "bolum": "277",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/277/tina_masasi%3A_isler_tinaya_dondu"
+    },
+    {
+      "season": 2,
+      "episode": 107,
+      "title": "Saving Favorite Drive-In",
+      "diziid": "bobs",
+      "bolum": "278",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/278/favori_arabali_sinemayi_kurtarmak"
+    },
+    {
+      "season": 3,
+      "episode": 108,
+      "title": "Colon-ly the Dronely",
+      "diziid": "bobs",
+      "bolum": "279",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/279/kolon-ca_ve_drone-ca"
+    },
+    {
+      "season": 4,
+      "episode": 109,
+      "title": "For Whom the Doll Toes",
+      "diziid": "bobs",
+      "bolum": "280",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/280/oyuncak_bebekler_kimin_icin_caliyor"
+    },
+    {
+      "season": 5,
+      "episode": 110,
+      "title": "Don't Stop Be-Cheesin",
+      "diziid": "bobs",
+      "bolum": "281",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/281/peynirlenmek_gerek"
+    },
+    {
+      "season": 6,
+      "episode": 111,
+      "title": "Hope N' Mic Night",
+      "diziid": "bobs",
+      "bolum": "282",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/282/acik_mikrofon_gecesi"
+    },
+    {
+      "season": 7,
+      "episode": 112,
+      "title": "Boogie Days",
+      "diziid": "bobs",
+      "bolum": "283",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/283/sorf_gunleri"
+    },
+    {
+      "season": 8,
+      "episode": 113,
+      "title": "They Slug Horses, Don't They?",
+      "diziid": "bobs",
+      "bolum": "284",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/284/atlara_vuruyorlar%2C_degil_mi"
+    },
+    {
+      "season": 9,
+      "episode": 114,
+      "title": "Dog Christmas Day After Afternoon",
+      "diziid": "bobs",
+      "bolum": "285",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/285/sonrasi_kopeklerin_gunu"
+    },
+    {
+      "season": 10,
+      "episode": 115,
+      "title": "Advice Things Are Ad-nice",
+      "diziid": "bobs",
+      "bolum": "286",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/286/guzel_tavsiyeler"
+    },
+    {
+      "season": 11,
+      "episode": 116,
+      "title": "Mr. Fischoeder's Opus",
+      "diziid": "bobs",
+      "bolum": "287",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/287/bay_fischoederin_basyapiti"
+    },
+    {
+      "season": 12,
+      "episode": 117,
+      "title": "Like a Candle in the Gym",
+      "diziid": "bobs",
+      "bolum": "288",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/288/spor_salonunda_mum_gibi"
+    },
+    {
+      "season": 13,
+      "episode": 118,
+      "title": "Snackface",
+      "diziid": "bobs",
+      "bolum": "289",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/289/lokma_surat"
+    },
+    {
+      "season": 14,
+      "episode": 119,
+      "title": "The Place Beyond the Pinecones",
+      "diziid": "bobs",
+      "bolum": "290",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/290/kozalaklarin_otesindeki_yer"
+    },
+    {
+      "season": 15,
+      "episode": 120,
+      "title": "The Lost City of Atlantic",
+      "diziid": "bobs",
+      "bolum": "291",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/291/kayip_sehir_atlantik"
+    },
+    {
+      "season": 16,
+      "episode": 121,
+      "title": "The Shell Game",
+      "diziid": "bobs",
+      "bolum": "292",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/292/kabuk_oyunu"
+    },
+    {
+      "season": 17,
+      "episode": 122,
+      "title": "Wild Steal-ions",
+      "diziid": "bobs",
+      "bolum": "293",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/293/aygir_elden_gitti"
+    },
+    {
+      "season": 18,
+      "episode": 123,
+      "title": "Don't Worry, Be Hoopy",
+      "diziid": "bobs",
+      "bolum": "294",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/294/telas_yok%2C_atisa_devam"
+    },
+    {
+      "season": 19,
+      "episode": 124,
+      "title": "The Dead Bo-ats Society",
+      "diziid": "bobs",
+      "bolum": "295",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/295/olu_tekneler_dernegi"
+    },
+    {
+      "season": 20,
+      "episode": 125,
+      "title": "Dad-urday Kite Fever",
+      "diziid": "bobs",
+      "bolum": "296",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/296/babartesi_ucurtma_atesi"
+    },
+    {
+      "season": 21,
+      "episode": 126,
+      "title": "Mr. Safebody",
+      "diziid": "bobs",
+      "bolum": "297",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/297/bay_guvenlikimse"
+    },
+    {
+      "season": 22,
+      "episode": 127,
+      "title": "Insomnibob",
+      "diziid": "bobs",
+      "bolum": "298",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/298/insomnibob"
+    },
+    {
+      "season": 1,
+      "episode": 128,
+      "title": "Grand Pre-Pre-Pre-Opening",
+      "diziid": "bobs",
+      "bolum": "299",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/299/buyuk_on-on-on-acilis"
+    },
+    {
+      "season": 2,
+      "episode": 129,
+      "title": "'Til Death Do Us Art",
+      "diziid": "bobs",
+      "bolum": "300",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/300/sanat_bizi_ayirana_dek"
+    },
+    {
+      "season": 3,
+      "episode": 130,
+      "title": "The Twinnening",
+      "diziid": "bobs",
+      "bolum": "301",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/301/ikizlik"
+    },
+    {
+      "season": 4,
+      "episode": 131,
+      "title": "The Skids in the Hall",
+      "diziid": "bobs",
+      "bolum": "302",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/302/koridordaki_cocuklar"
+    },
+    {
+      "season": 5,
+      "episode": 132,
+      "title": "The Secret Guardin'",
+      "diziid": "bobs",
+      "bolum": "303",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/303/sir_muhafizlari"
+    },
+    {
+      "season": 6,
+      "episode": 133,
+      "title": "Get Her to the Zeke",
+      "diziid": "bobs",
+      "bolum": "304",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/304/onu_zekee_goturun"
+    },
+    {
+      "season": 7,
+      "episode": 134,
+      "title": "Tube for Tina",
+      "diziid": "bobs",
+      "bolum": "305",
+      "url": "https://cizgivedizi.com/dizi/bobs/bobs_burgers/305/tinanin_bluzu"
+    }
+  ]
+}

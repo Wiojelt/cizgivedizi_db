@@ -1,0 +1,1436 @@
+{
+  "id": "bvyc",
+  "title": "blaze ve yol canavarlarÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BVYCPoster.avif",
+  "channel": "Nick Jr.",
+  "genres": [
+    "Aksiyon"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Blaze of Glory, Part 1",
+      "diziid": "bvyc",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/1/zaferin_piriltisi_1.bolum"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Blaze of Glory, Part 2",
+      "diziid": "bvyc",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/2/zaferin_piriltisi_2.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The Driving Force",
+      "diziid": "bvyc",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/3/itici_guc"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Tool Duel",
+      "diziid": "bvyc",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/4/alet_duellosu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "The Bouncy Tires",
+      "diziid": "bvyc",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/5/ziplayan_tekerler"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Stuntmania!",
+      "diziid": "bvyc",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/6/akrobasi_stadi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Epic Sail",
+      "diziid": "bvyc",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/7/destansi_yelken"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "The Team Truck Challenge",
+      "diziid": "bvyc",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/8/kamyonlar_takim_yarisi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "The Jungle Horn",
+      "diziid": "bvyc",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/9/orman_kornasi"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Truckball Team-Up",
+      "diziid": "bvyc",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/10/yol_canavarlari_takimi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Cake-tastrophe!",
+      "diziid": "bvyc",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/11/pasta"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "The Mystery Bandit",
+      "diziid": "bvyc",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/12/gizemli_haydut"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Zeg and the Egg",
+      "diziid": "bvyc",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/13/zeg_ve_yumurta"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Gasquatch!",
+      "diziid": "bvyc",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/14/gasquatch%21"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Truck Rangers",
+      "diziid": "bvyc",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/15/izci_kamyonlar"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Trouble at the Truck Wash",
+      "diziid": "bvyc",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/16/motor_yikama_merkezinde_sorun"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Cattle Drive",
+      "diziid": "bvyc",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/17/harika_surus"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Dragon Island Duel",
+      "diziid": "bvyc",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/18/ejder_adasi_duellosu"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Runaway Rocket",
+      "diziid": "bvyc",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/19/kacis_roketi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Sneezing Cold",
+      "diziid": "bvyc",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/20/hapsirtan_soguk"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "title": "Race to the Top of the World, Part 1",
+      "diziid": "bvyc",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/21/dunyanin_tepesine_yaris_1.bolum"
+    },
+    {
+      "season": 2,
+      "episode": 22,
+      "title": "Race to the Top of the World, Part 2",
+      "diziid": "bvyc",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/22/dunyanin_tepesine_yaris_2.bolum"
+    },
+    {
+      "season": 3,
+      "episode": 23,
+      "title": "Truck or Treat!",
+      "diziid": "bvyc",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/23/seker_mi_saka_mi"
+    },
+    {
+      "season": 4,
+      "episode": 24,
+      "title": "Dino Dash",
+      "diziid": "bvyc",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/24/dinozor_oyunu"
+    },
+    {
+      "season": 5,
+      "episode": 25,
+      "title": "Piggy 500",
+      "diziid": "bvyc",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/25/500_domuzcuk"
+    },
+    {
+      "season": 6,
+      "episode": 26,
+      "title": "Fired Up!",
+      "diziid": "bvyc",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/26/coskulu%21"
+    },
+    {
+      "season": 7,
+      "episode": 27,
+      "title": "Knight Riders",
+      "diziid": "bvyc",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/27/sovalye_suruculer"
+    },
+    {
+      "season": 8,
+      "episode": 28,
+      "title": "Monster Machine Christmas",
+      "diziid": "bvyc",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/28/yol_canavarlarinin_noeli"
+    },
+    {
+      "season": 9,
+      "episode": 29,
+      "title": "Darington to the Moon!",
+      "diziid": "bvyc",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/29/cambaz_aya_cikiyor"
+    },
+    {
+      "season": 10,
+      "episode": 30,
+      "title": "Spark Bug",
+      "diziid": "bvyc",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/30/ates_bocegi"
+    },
+    {
+      "season": 11,
+      "episode": 31,
+      "title": "Five Alarm Blaze",
+      "diziid": "bvyc",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/31/bes_alarm_blaze"
+    },
+    {
+      "season": 12,
+      "episode": 32,
+      "title": "Axle City Grand Prix",
+      "diziid": "bvyc",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/32/aks_sehri_grand_prixi"
+    },
+    {
+      "season": 13,
+      "episode": 33,
+      "title": "Treasure Track",
+      "diziid": "bvyc",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/33/hazine_pisligi"
+    },
+    {
+      "season": 14,
+      "episode": 34,
+      "title": "Rocket Ski Rescue",
+      "diziid": "bvyc",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/34/roket_kayagi_kurtarmasi"
+    },
+    {
+      "season": 15,
+      "episode": 35,
+      "title": "Dinosaur Parade",
+      "diziid": "bvyc",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/35/dinozor_gecit_toreni"
+    },
+    {
+      "season": 16,
+      "episode": 36,
+      "title": "Pickle Power",
+      "diziid": "bvyc",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/36/tursu_gucu"
+    },
+    {
+      "season": 17,
+      "episode": 37,
+      "title": "Race Car Superstar",
+      "diziid": "bvyc",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/37/super_yildiz_yaris_arabasi"
+    },
+    {
+      "season": 18,
+      "episode": 38,
+      "title": "Race to Eagle Rock",
+      "diziid": "bvyc",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/38/kartal_kayasina_yaris"
+    },
+    {
+      "season": 19,
+      "episode": 39,
+      "title": "Sky Track",
+      "diziid": "bvyc",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/39/gokyuzu_pisti"
+    },
+    {
+      "season": 20,
+      "episode": 40,
+      "title": "The Wishing Wheel",
+      "diziid": "bvyc",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/40/dilek_tekerlegi"
+    },
+    {
+      "season": 1,
+      "episode": 41,
+      "title": "The Hundred Mile Race",
+      "diziid": "bvyc",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/41/100_kilometre_yarisi"
+    },
+    {
+      "season": 2,
+      "episode": 42,
+      "title": "The Polar Derby",
+      "diziid": "bvyc",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/42/kutup_mucadelesi"
+    },
+    {
+      "season": 3,
+      "episode": 43,
+      "title": "Dinocoaster",
+      "diziid": "bvyc",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/43/dino_treni"
+    },
+    {
+      "season": 4,
+      "episode": 44,
+      "title": "Knighty Knights",
+      "diziid": "bvyc",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/44/iyi_geceler_sovalyeler"
+    },
+    {
+      "season": 5,
+      "episode": 45,
+      "title": "Mega Mud Robot",
+      "diziid": "bvyc",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/45/mega_camur_robotu"
+    },
+    {
+      "season": 6,
+      "episode": 46,
+      "title": "Light Riders",
+      "diziid": "bvyc",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/46/isik_suruculeri"
+    },
+    {
+      "season": 7,
+      "episode": 47,
+      "title": "The Bouncing Bull Racetrack",
+      "diziid": "bvyc",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/47/ziplayan_boga_pisti"
+    },
+    {
+      "season": 8,
+      "episode": 48,
+      "title": "Tow Truck Tough",
+      "diziid": "bvyc",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/48/kuvvetli_cekici"
+    },
+    {
+      "season": 9,
+      "episode": 49,
+      "title": "Catch That Cake!",
+      "diziid": "bvyc",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/49/pastayi_yakala%21"
+    },
+    {
+      "season": 10,
+      "episode": 50,
+      "title": "Animal Island",
+      "diziid": "bvyc",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/50/hayvan_adasi"
+    },
+    {
+      "season": 11,
+      "episode": 51,
+      "title": "Toucan Do It!",
+      "diziid": "bvyc",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/51/toucan_yapabilir%21"
+    },
+    {
+      "season": 12,
+      "episode": 52,
+      "title": "The Big Ant-Venture",
+      "diziid": "bvyc",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/52/buyuk_karinca_macerasi"
+    },
+    {
+      "season": 13,
+      "episode": 53,
+      "title": "Falcon Quest",
+      "diziid": "bvyc",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/53/dogan_aramasi"
+    },
+    {
+      "season": 14,
+      "episode": 54,
+      "title": "Ready, Set, Roar!",
+      "diziid": "bvyc",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/54/yerlerinize%2C_hazir%2C_kukre%21"
+    },
+    {
+      "season": 15,
+      "episode": 55,
+      "title": "The Great Animal Crown",
+      "diziid": "bvyc",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/55/buyuk_hayvan_taci"
+    },
+    {
+      "season": 16,
+      "episode": 56,
+      "title": "Fast Friends",
+      "diziid": "bvyc",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/56/hizli_arkadaslar"
+    },
+    {
+      "season": 17,
+      "episode": 57,
+      "title": "Race for the Golden Treasure",
+      "diziid": "bvyc",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/57/altin_hazine_yarisi"
+    },
+    {
+      "season": 18,
+      "episode": 58,
+      "title": "Need for Blazing Speed",
+      "diziid": "bvyc",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/58/ates_hizina_ihtiyac"
+    },
+    {
+      "season": 19,
+      "episode": 59,
+      "title": "Defeat the Cheat",
+      "diziid": "bvyc",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/59/hileyi_yenme"
+    },
+    {
+      "season": 20,
+      "episode": 60,
+      "title": "Raceday Rescue",
+      "diziid": "bvyc",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/60/yaris_gunu_kurtarmasi"
+    },
+    {
+      "season": 1,
+      "episode": 61,
+      "title": "Robot Power",
+      "diziid": "bvyc",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/61/robot_gucu"
+    },
+    {
+      "season": 2,
+      "episode": 62,
+      "title": "The Pickle Family Campout",
+      "diziid": "bvyc",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/62/tursu_aile_kampi"
+    },
+    {
+      "season": 3,
+      "episode": 63,
+      "title": "The Chicken Circus!",
+      "diziid": "bvyc",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/63/tavuk_sirki%21"
+    },
+    {
+      "season": 4,
+      "episode": 64,
+      "title": "Ninja Blaze",
+      "diziid": "bvyc",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/64/ninja_blaze"
+    },
+    {
+      "season": 5,
+      "episode": 65,
+      "title": "The Supersize Prize",
+      "diziid": "bvyc",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/65/asiri_buyuk_odul"
+    },
+    {
+      "season": 6,
+      "episode": 66,
+      "title": "Breaking the Ice",
+      "diziid": "bvyc",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/66/buzlari_kirmak"
+    },
+    {
+      "season": 7,
+      "episode": 67,
+      "title": "Robots to the Rescue",
+      "diziid": "bvyc",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/67/robotlar_kurtarmaya"
+    },
+    {
+      "season": 8,
+      "episode": 68,
+      "title": "T-Rex Trouble",
+      "diziid": "bvyc",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/68/t-rex_sorunu"
+    },
+    {
+      "season": 9,
+      "episode": 69,
+      "title": "Meatball Mayhem",
+      "diziid": "bvyc",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/69/kofte_kargasasi"
+    },
+    {
+      "season": 10,
+      "episode": 70,
+      "title": "Robots in Space",
+      "diziid": "bvyc",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/70/robotlar_uzayda"
+    },
+    {
+      "season": 11,
+      "episode": 71,
+      "title": "Power Tires!",
+      "diziid": "bvyc",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/71/guc_lastikleri"
+    },
+    {
+      "season": 12,
+      "episode": 72,
+      "title": "Snow Day Showdown",
+      "diziid": "bvyc",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/72/kar_keyfi"
+    },
+    {
+      "season": 13,
+      "episode": 73,
+      "title": "Construction Crew to the Rescue",
+      "diziid": "bvyc",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/73/insaat_ekibi_yardima_geliyor"
+    },
+    {
+      "season": 14,
+      "episode": 74,
+      "title": "Officer Blaze",
+      "diziid": "bvyc",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/74/memur_blaze"
+    },
+    {
+      "season": 15,
+      "episode": 75,
+      "title": "The Flying Lion",
+      "diziid": "bvyc",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/75/ucan_aslan"
+    },
+    {
+      "season": 16,
+      "episode": 76,
+      "title": "Ninja Soup",
+      "diziid": "bvyc",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/76/ninja_corbasi"
+    },
+    {
+      "season": 17,
+      "episode": 77,
+      "title": "Royal Rescue",
+      "diziid": "bvyc",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/77/kralligi_kurtarmak"
+    },
+    {
+      "season": 18,
+      "episode": 78,
+      "title": "Blaze and the Magic Genie",
+      "diziid": "bvyc",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/78/blaze_ve_lambadaki_cin"
+    },
+    {
+      "season": 19,
+      "episode": 79,
+      "title": "The 100 Egg Challenge",
+      "diziid": "bvyc",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/79/100_yumurta_mucadelesi"
+    },
+    {
+      "season": 20,
+      "episode": 80,
+      "title": "The Midnight Mile",
+      "diziid": "bvyc",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/80/gece_yarisi_yarisi"
+    },
+    {
+      "season": 1,
+      "episode": 81,
+      "title": "AJ to the Rescue",
+      "diziid": "bvyc",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/81/aj_kurtarma_gorevinde"
+    },
+    {
+      "season": 2,
+      "episode": 82,
+      "title": "The Trophy Chase",
+      "diziid": "bvyc",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/82/kupa_yarisi"
+    },
+    {
+      "season": 3,
+      "episode": 83,
+      "title": "The Island of Lost Treasure",
+      "diziid": "bvyc",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/83/kayip_hazine_adasi"
+    },
+    {
+      "season": 4,
+      "episode": 84,
+      "title": "Babysitting Heroes",
+      "diziid": "bvyc",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/84/bebek_bakicisi_kahramanlar"
+    },
+    {
+      "season": 5,
+      "episode": 85,
+      "title": "Abra-Ka-Pickle!",
+      "diziid": "bvyc",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/85/abra-ka-tursu%21"
+    },
+    {
+      "season": 6,
+      "episode": 86,
+      "title": "Toy Trouble!",
+      "diziid": "bvyc",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/86/oyuncak_belasi%21"
+    },
+    {
+      "season": 7,
+      "episode": 87,
+      "title": "Ice Cream Monster Machine",
+      "diziid": "bvyc",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/87/yol_canavari_dondurma_makinesi"
+    },
+    {
+      "season": 8,
+      "episode": 88,
+      "title": "The Gold Medal Games",
+      "diziid": "bvyc",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/88/altin_madalya_yarislari"
+    },
+    {
+      "season": 9,
+      "episode": 89,
+      "title": "The Great Space Race",
+      "diziid": "bvyc",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/89/buyuk_uzay_yarisi"
+    },
+    {
+      "season": 10,
+      "episode": 90,
+      "title": "Deep Sea Grand Prix",
+      "diziid": "bvyc",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/90/buyuk_su_alti_yarisi"
+    },
+    {
+      "season": 11,
+      "episode": 91,
+      "title": "Recycling Power!",
+      "diziid": "bvyc",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/91/geri_donusum_gucu%21"
+    },
+    {
+      "season": 12,
+      "episode": 92,
+      "title": "The Mechanic Team!",
+      "diziid": "bvyc",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/92/tamir_ekibi%21"
+    },
+    {
+      "season": 13,
+      "episode": 93,
+      "title": "The Big Balloon Rescue",
+      "diziid": "bvyc",
+      "bolum": "93",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/93/buyuk_balon_kurtarisi"
+    },
+    {
+      "season": 14,
+      "episode": 94,
+      "title": "Blazing Amazing Stories",
+      "diziid": "bvyc",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/94/muhtesem_otesi_masallar"
+    },
+    {
+      "season": 15,
+      "episode": 95,
+      "title": "Big Rig Blaze",
+      "diziid": "bvyc",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/95/buyuk_tir_blaze"
+    },
+    {
+      "season": 16,
+      "episode": 96,
+      "title": "Space Alien Adventure!",
+      "diziid": "bvyc",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/96/uzayli_macerasi"
+    },
+    {
+      "season": 17,
+      "episode": 97,
+      "title": "The Blaze Family",
+      "diziid": "bvyc",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/97/blaze_ailesi"
+    },
+    {
+      "season": 18,
+      "episode": 98,
+      "title": "Video Game Heroes",
+      "diziid": "bvyc",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/98/video_oyunu_kahramanlari"
+    },
+    {
+      "season": 19,
+      "episode": 99,
+      "title": "The Treat Thief",
+      "diziid": "bvyc",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/99/tatli_hirsizi"
+    },
+    {
+      "season": 20,
+      "episode": 100,
+      "title": "The Race Around the Earth",
+      "diziid": "bvyc",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/100/dunya_turu_yarisi"
+    },
+    {
+      "season": 1,
+      "episode": 101,
+      "title": "Big Rig to the Rescue!",
+      "diziid": "bvyc",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/101/tir_blaze_yollarda"
+    },
+    {
+      "season": 2,
+      "episode": 102,
+      "title": "The Amazing Stunt Kitty",
+      "diziid": "bvyc",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/102/muhtesem_akrobat_kedi"
+    },
+    {
+      "season": 3,
+      "episode": 103,
+      "title": "Dino Derby",
+      "diziid": "bvyc",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/103/dinozor_derbisi"
+    },
+    {
+      "season": 4,
+      "episode": 104,
+      "title": "Sir Blaze and the Unicorn",
+      "diziid": "bvyc",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/104/sir_blaze_ve_tek_boynuz"
+    },
+    {
+      "season": 5,
+      "episode": 105,
+      "title": "Race to Sky High Mountain",
+      "diziid": "bvyc",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/105/yuksek_dag_yarisi"
+    },
+    {
+      "season": 6,
+      "episode": 106,
+      "title": "Sparkle's Racing Badge",
+      "diziid": "bvyc",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/106/kivilcimin_yaris_rozeti"
+    },
+    {
+      "season": 7,
+      "episode": 107,
+      "title": "The Construction Contest",
+      "diziid": "bvyc",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/107/insaat_yarismasi"
+    },
+    {
+      "season": 8,
+      "episode": 108,
+      "title": "The Puppy Chase!",
+      "diziid": "bvyc",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/108/yavru_kopek_kovalamacasi"
+    },
+    {
+      "season": 9,
+      "episode": 109,
+      "title": "The Great Pizza Race",
+      "diziid": "bvyc",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/109/buyuk_pizza_yarisi"
+    },
+    {
+      "season": 10,
+      "episode": 110,
+      "title": "Starla's Wild West Birthday",
+      "diziid": "bvyc",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/110/starlanin_vahsi_batida_dogum_gunu"
+    },
+    {
+      "season": 11,
+      "episode": 111,
+      "title": "Firefighters to the Rescue!",
+      "diziid": "bvyc",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/111/itfaiyeciler_is_basinda"
+    },
+    {
+      "season": 12,
+      "episode": 112,
+      "title": "Big Rig: Dolphin Delivery",
+      "diziid": "bvyc",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/112/tirla_yunus_tasima"
+    },
+    {
+      "season": 13,
+      "episode": 113,
+      "title": "Race to the Golden Gift",
+      "diziid": "bvyc",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/113/altin_hediye_yarisi"
+    },
+    {
+      "season": 14,
+      "episode": 114,
+      "title": "The Tiger Treasure",
+      "diziid": "bvyc",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/114/kaplan_hazinesi"
+    },
+    {
+      "season": 15,
+      "episode": 115,
+      "title": "The Boingies!",
+      "diziid": "bvyc",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/115/zipziplar%21"
+    },
+    {
+      "season": 16,
+      "episode": 116,
+      "title": "Special Mission Blaze",
+      "diziid": "bvyc",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/116/ozel_gorev_araci_blaze"
+    },
+    {
+      "season": 17,
+      "episode": 117,
+      "title": "The Snow Spectacular",
+      "diziid": "bvyc",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/117/karlar_diyari"
+    },
+    {
+      "season": 18,
+      "episode": 118,
+      "title": "The Fastest of them All",
+      "diziid": "bvyc",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/118/en_hizlisi"
+    },
+    {
+      "season": 19,
+      "episode": 119,
+      "title": "Snow Rescue Blaze",
+      "diziid": "bvyc",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/119/blazein_karda_kurtarma_operasyonu"
+    },
+    {
+      "season": 20,
+      "episode": 120,
+      "title": "Megabot!",
+      "diziid": "bvyc",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/120/megabot%21"
+    },
+    {
+      "season": 21,
+      "episode": 121,
+      "title": "The Treasure of the Broken Key: A Musical Adventure",
+      "diziid": "bvyc",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/121/kirik_anahtarli_hazine%3A_muzikal_bir_macera"
+    },
+    {
+      "season": 22,
+      "episode": 122,
+      "title": "Lifeguard Blaze",
+      "diziid": "bvyc",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/122/can_kurtaran_blaze"
+    },
+    {
+      "season": 23,
+      "episode": 123,
+      "title": "Campfire Stories!",
+      "diziid": "bvyc",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/123/kamp_atesi_masallari%21"
+    },
+    {
+      "season": 24,
+      "episode": 124,
+      "title": "Super Wheels",
+      "diziid": "bvyc",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/124/super_tekerler"
+    },
+    {
+      "season": 25,
+      "episode": 125,
+      "title": "Monster Machine Halloween",
+      "diziid": "bvyc",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/125/yol_canavarlarinin_cadilar_bayrami"
+    },
+    {
+      "season": 26,
+      "episode": 126,
+      "title": "A Blazing Amazing Christmas",
+      "diziid": "bvyc",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/126/ates_hizinda_muhtesem_noel"
+    },
+    {
+      "season": 1,
+      "episode": 127,
+      "title": "Sparkle's Big Rescue",
+      "diziid": "bvyc",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/127/kivilcimin_kurtarma_gorevi"
+    },
+    {
+      "season": 2,
+      "episode": 128,
+      "title": "Mail Truck Blaze",
+      "diziid": "bvyc",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/128/postaci_blaze"
+    },
+    {
+      "season": 3,
+      "episode": 129,
+      "title": "The Super Skateboard",
+      "diziid": "bvyc",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/129/super_kaykay"
+    },
+    {
+      "season": 4,
+      "episode": 130,
+      "title": "Knights in Sparkling Armor",
+      "diziid": "bvyc",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/130/parlak_zirhli_sovalyeler"
+    },
+    {
+      "season": 5,
+      "episode": 131,
+      "title": "Paramedic Power",
+      "diziid": "bvyc",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/131/ilk_yardim_ekibinin_gucu"
+    },
+    {
+      "season": 6,
+      "episode": 132,
+      "title": "The Snowflake Games",
+      "diziid": "bvyc",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/132/kar_tanesi_oyunlari"
+    },
+    {
+      "season": 7,
+      "episode": 133,
+      "title": "The Flying Contest",
+      "diziid": "bvyc",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/133/ucus_yarismasi"
+    },
+    {
+      "season": 8,
+      "episode": 134,
+      "title": "Mission to Mars",
+      "diziid": "bvyc",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/134/mars_gorevi"
+    },
+    {
+      "season": 9,
+      "episode": 135,
+      "title": "Renewable Energy Racers",
+      "diziid": "bvyc",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/135/yenilenebilir_enerjili_yariscilar"
+    },
+    {
+      "season": 10,
+      "episode": 136,
+      "title": "The Baby Robot From Outer Space",
+      "diziid": "bvyc",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/136/uzaydan_gelen_robot_bebek"
+    },
+    {
+      "season": 11,
+      "episode": 137,
+      "title": "The Yucky Ducky",
+      "diziid": "bvyc",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/137/pis_ordek"
+    },
+    {
+      "season": 12,
+      "episode": 138,
+      "title": "The Pillow Pirate",
+      "diziid": "bvyc",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/138/yastik_korsani"
+    },
+    {
+      "season": 13,
+      "episode": 139,
+      "title": "Arcade Adventure",
+      "diziid": "bvyc",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/139/atari_macerasi"
+    },
+    {
+      "season": 14,
+      "episode": 140,
+      "title": "Pickleworld!",
+      "diziid": "bvyc",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/140/tursu_dunyasi"
+    },
+    {
+      "season": 15,
+      "episode": 141,
+      "title": "Super Slide Trophy",
+      "diziid": "bvyc",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/141/super_kaydirakli_kupa"
+    },
+    {
+      "season": 16,
+      "episode": 142,
+      "title": "Wild West Heroes",
+      "diziid": "bvyc",
+      "bolum": "142",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/142/vahsi_bati_kahramanlari"
+    },
+    {
+      "season": 17,
+      "episode": 143,
+      "title": "Super Wheels vs. The Bubblemaker",
+      "diziid": "bvyc",
+      "bolum": "143",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/143/super_tekerlekler_baloncukcuya_karsi%21"
+    },
+    {
+      "season": 18,
+      "episode": 144,
+      "title": "Super Wheels vs. The Green Queen",
+      "diziid": "bvyc",
+      "bolum": "144",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/144/super_tekerlekler_yesil_kraliceye_karsi"
+    },
+    {
+      "season": 19,
+      "episode": 145,
+      "title": "Super Wheels vs. Pancakeio",
+      "diziid": "bvyc",
+      "bolum": "145",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/145/super_tekerlekler_krepciye_karsi"
+    },
+    {
+      "season": 20,
+      "episode": 146,
+      "title": "Valentine's Day Rescue",
+      "diziid": "bvyc",
+      "bolum": "146",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/146/arkadaslik_gunu_kurtarma_gorevi"
+    },
+    {
+      "season": 21,
+      "episode": 147,
+      "title": "Flying Robot Rescue",
+      "diziid": "bvyc",
+      "bolum": "147",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/147/ucan_robotlar_kurtarma_gorevinde"
+    },
+    {
+      "season": 22,
+      "episode": 148,
+      "title": "The Ice Treasure",
+      "diziid": "bvyc",
+      "bolum": "148",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/148/buz_hazinesi"
+    },
+    {
+      "season": 23,
+      "episode": 149,
+      "title": "Magic Spell Mayhem",
+      "diziid": "bvyc",
+      "bolum": "149",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/149/sihir_karmasasi"
+    },
+    {
+      "season": 24,
+      "episode": 150,
+      "title": "The Robot Championship",
+      "diziid": "bvyc",
+      "bolum": "150",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/150/robot_sampiyonasi"
+    },
+    {
+      "season": 25,
+      "episode": 151,
+      "title": "Super Smash Race",
+      "diziid": "bvyc",
+      "bolum": "151",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/151/super_parcalama_yarisi"
+    },
+    {
+      "season": 26,
+      "episode": 152,
+      "title": "School Bus Blaze!",
+      "diziid": "bvyc",
+      "bolum": "152",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/152/okul_otobusu_blaze%21"
+    },
+    {
+      "season": 1,
+      "episode": 153,
+      "title": "Pirate Grand Prix",
+      "diziid": "bvyc",
+      "bolum": "153",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/153/korsan_yarisi"
+    },
+    {
+      "season": 2,
+      "episode": 154,
+      "title": "Video Game Land: A Monster Machine Super Special",
+      "diziid": "bvyc",
+      "bolum": "154",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/154/video_oyunu_diyari_bir_canavar_makineler_super_ozel_bolumu%2C_1._bolum"
+    },
+    {
+      "season": 3,
+      "episode": 155,
+      "title": "Video Game Land: A Monster Machine Super Special",
+      "diziid": "bvyc",
+      "bolum": "155",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/155/video_oyunu_diyari_bir_canavar_makineler_super_ozel_bolumu%2C_2._bolum"
+    },
+    {
+      "season": 4,
+      "episode": 156,
+      "title": "The Garbage Truck Challenge",
+      "diziid": "bvyc",
+      "bolum": "156",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/156/cop_kamyonu_mucadelesi"
+    },
+    {
+      "season": 5,
+      "episode": 157,
+      "title": "Monster Machine Rescue Team",
+      "diziid": "bvyc",
+      "bolum": "157",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/157/yol_canavarlari_kurtarma_ekibi"
+    },
+    {
+      "season": 6,
+      "episode": 158,
+      "title": "Tire Trouble!",
+      "diziid": "bvyc",
+      "bolum": "158",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/158/lastik_sorunu%21"
+    },
+    {
+      "season": 7,
+      "episode": 159,
+      "title": "Tool Truck Blaze",
+      "diziid": "bvyc",
+      "bolum": "159",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/159/alet_kamyonu_blaze"
+    },
+    {
+      "season": 8,
+      "episode": 160,
+      "title": "Snow, Sea, Sky Race",
+      "diziid": "bvyc",
+      "bolum": "160",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/160/kar%2C_deniz%2C_gokyuzu_yarisi"
+    },
+    {
+      "season": 9,
+      "episode": 161,
+      "title": "Blaze's First Race",
+      "diziid": "bvyc",
+      "bolum": "161",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/161/blazein_ilk_yarisi"
+    },
+    {
+      "season": 10,
+      "episode": 162,
+      "title": "Trick or Treat Treasure",
+      "diziid": "bvyc",
+      "bolum": "162",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/162/seker_mi_saka_mi_hazinesi"
+    },
+    {
+      "season": 11,
+      "episode": 163,
+      "title": "The Super Snowman Contest",
+      "diziid": "bvyc",
+      "bolum": "163",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/163/super_kardan_adam_yarismasi"
+    },
+    {
+      "season": 12,
+      "episode": 164,
+      "title": "Get the Letters to Santa!",
+      "diziid": "bvyc",
+      "bolum": "164",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/164/mektuplari_noel_babaya_ulastirmak"
+    },
+    {
+      "season": 13,
+      "episode": 165,
+      "title": "Space Mission Blaze",
+      "diziid": "bvyc",
+      "bolum": "165",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/165/blaze%E2%80%99in_uzay_gorevi"
+    },
+    {
+      "season": 1,
+      "episode": 166,
+      "title": "Dino Smash!",
+      "diziid": "bvyc",
+      "bolum": "166",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/166/dinozor_yarisi"
+    },
+    {
+      "season": 2,
+      "episode": 167,
+      "title": "Pit Crew Power",
+      "diziid": "bvyc",
+      "bolum": "167",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/167/tamir_ekibi_gucu"
+    },
+    {
+      "season": 3,
+      "episode": 168,
+      "title": "The Weather Machine",
+      "diziid": "bvyc",
+      "bolum": "168",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/168/hava_makinesi"
+    },
+    {
+      "season": 4,
+      "episode": 169,
+      "title": "The Rocketship Ride",
+      "diziid": "bvyc",
+      "bolum": "169",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/169/roket_gemisi_oyuncagi"
+    },
+    {
+      "season": 5,
+      "episode": 170,
+      "title": "The Great Bedtime Race",
+      "diziid": "bvyc",
+      "bolum": "170",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/170/buyuk_uyku_vakti_yarisi"
+    },
+    {
+      "season": 6,
+      "episode": 171,
+      "title": "Ice Cream Team",
+      "diziid": "bvyc",
+      "bolum": "171",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/171/dondurma_ekibi"
+    },
+    {
+      "season": 7,
+      "episode": 172,
+      "title": "The Dragon Game",
+      "diziid": "bvyc",
+      "bolum": "172",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/172/ejderha_oyunu"
+    },
+    {
+      "season": 8,
+      "episode": 173,
+      "title": "Monster Machines at the Movies",
+      "diziid": "bvyc",
+      "bolum": "173",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/173/yol_canavarlari_sinemada"
+    },
+    {
+      "season": 9,
+      "episode": 174,
+      "title": "Sea Turtle Submarine",
+      "diziid": "bvyc",
+      "bolum": "174",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/174/deniz_kaplumbagasi_denizaltisi"
+    },
+    {
+      "season": 10,
+      "episode": 175,
+      "title": "The Clean Machine",
+      "diziid": "bvyc",
+      "bolum": "175",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/175/temiz_makine"
+    },
+    {
+      "season": 11,
+      "episode": 176,
+      "title": "The Great Train Race",
+      "diziid": "bvyc",
+      "bolum": "176",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/176/buyuk_tren_yarisi"
+    },
+    {
+      "season": 12,
+      "episode": 177,
+      "title": "Breakfast Bots",
+      "diziid": "bvyc",
+      "bolum": "177",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/177/kahvalti_robotlari"
+    },
+    {
+      "season": 13,
+      "episode": 178,
+      "title": "The Far, Far Away Machine",
+      "diziid": "bvyc",
+      "bolum": "178",
+      "url": "https://cizgivedizi.com/dizi/bvyc/blaze_ve_yol_canavarlari/178/cok%2C_cok_uzaklar_makinesi"
+    }
+  ]
+}

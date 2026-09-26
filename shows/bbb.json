@@ -1,0 +1,645 @@
+{
+  "id": "bbb",
+  "title": "bugs bunny yapÄ± ustalarÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BBBPoster.avif",
+  "channel": "Cartoonito",
+  "genres": [
+    "Komedi",
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Splash Zone",
+      "diziid": "bbb",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/1/islanma_bolgesi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Ice Creamed",
+      "diziid": "bbb",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/2/dondurma"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Race Track Race",
+      "diziid": "bbb",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/3/yaris_pisti_yarisi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Dino Fright",
+      "diziid": "bbb",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/4/dino_nakliyesi"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Snow Cap",
+      "diziid": "bbb",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/5/karla_kapli"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Tweety-Go-Round",
+      "diziid": "bbb",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/6/tweetynin_atlikarinca"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Smash House",
+      "diziid": "bbb",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/7/ev_yikimi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Play Day",
+      "diziid": "bbb",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/8/oyun_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Rock On",
+      "diziid": "bbb",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/9/kayalar"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Buzz In",
+      "diziid": "bbb",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/10/yuvalar"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Stories",
+      "diziid": "bbb",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/11/hikayeler"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Cheesy Peasy",
+      "diziid": "bbb",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/12/cok_kolay"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Looney Science",
+      "diziid": "bbb",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/13/neseli_bilim"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Big Feet",
+      "diziid": "bbb",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/14/koca_ayak"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Squirreled Away",
+      "diziid": "bbb",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/15/daginik_sincap"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Beach Battle",
+      "diziid": "bbb",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/16/plaj_yarismasi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Game Time",
+      "diziid": "bbb",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/17/oyun_zamani"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Soup Up",
+      "diziid": "bbb",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/18/corba"
+    },
+    {
+      "season": 1,
+      "episode": 19,
+      "title": "Looneyburg Lights",
+      "diziid": "bbb",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/19/looneyburg_isiklari"
+    },
+    {
+      "season": 21,
+      "episode": 20,
+      "title": "Blast Off",
+      "diziid": "bbb",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/21/firlatma"
+    },
+    {
+      "season": 22,
+      "episode": 21,
+      "title": "K-9: Space Puppy",
+      "diziid": "bbb",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/22/k-9%3A_uzay_kopegi"
+    },
+    {
+      "season": 23,
+      "episode": 22,
+      "title": "Cousin Billy",
+      "diziid": "bbb",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/23/kuzen_billy"
+    },
+    {
+      "season": 24,
+      "episode": 23,
+      "title": "Cheddar Days",
+      "diziid": "bbb",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/24/cheddar_gunler"
+    },
+    {
+      "season": 25,
+      "episode": 24,
+      "title": "Taz Recycle",
+      "diziid": "bbb",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/25/geri_donusturen_taz"
+    },
+    {
+      "season": 26,
+      "episode": 25,
+      "title": "Sea School",
+      "diziid": "bbb",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/26/deniz_okulu"
+    },
+    {
+      "season": 27,
+      "episode": 26,
+      "title": "Underwater Star",
+      "diziid": "bbb",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/27/su_alti_yildizi"
+    },
+    {
+      "season": 28,
+      "episode": 27,
+      "title": "Party Boat",
+      "diziid": "bbb",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/28/parti_gemisi"
+    },
+    {
+      "season": 29,
+      "episode": 28,
+      "title": "Mail Whale",
+      "diziid": "bbb",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/29/posta_balinasi"
+    },
+    {
+      "season": 30,
+      "episode": 29,
+      "title": "Bright Light",
+      "diziid": "bbb",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/30/parlak_isiklar"
+    },
+    {
+      "season": 31,
+      "episode": 30,
+      "title": "Mini Golf",
+      "diziid": "bbb",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/31/mini_golf"
+    },
+    {
+      "season": 32,
+      "episode": 31,
+      "title": "Goofballs",
+      "diziid": "bbb",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/32/oyuncular"
+    },
+    {
+      "season": 33,
+      "episode": 32,
+      "title": "Skate Park",
+      "diziid": "bbb",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/33/kaykay_parki"
+    },
+    {
+      "season": 34,
+      "episode": 33,
+      "title": "Batty Kathy",
+      "diziid": "bbb",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/34/yarasa_kedi"
+    },
+    {
+      "season": 35,
+      "episode": 34,
+      "title": "Honey Bunny",
+      "diziid": "bbb",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/35/balli_tavsan"
+    },
+    {
+      "season": 36,
+      "episode": 35,
+      "title": "Castle Hassle",
+      "diziid": "bbb",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/36/kale_insaati"
+    },
+    {
+      "season": 37,
+      "episode": 36,
+      "title": "Catwalk",
+      "diziid": "bbb",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/37/podyum"
+    },
+    {
+      "season": 38,
+      "episode": 37,
+      "title": "Dim Sum",
+      "diziid": "bbb",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/38/cin_mantisi"
+    },
+    {
+      "season": 39,
+      "episode": 38,
+      "title": "Crane Game",
+      "diziid": "bbb",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/39/kiskac_oyunu"
+    },
+    {
+      "season": 40,
+      "episode": 39,
+      "title": "Speedy",
+      "diziid": "bbb",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/40/speedy"
+    },
+    {
+      "season": 1,
+      "episode": 40,
+      "title": "The Easter Bunnies",
+      "diziid": "bbb",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/41/paskalya_tavsanlari"
+    },
+    {
+      "season": 2,
+      "episode": 41,
+      "title": "Junior",
+      "diziid": "bbb",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/42/junior"
+    },
+    {
+      "season": 3,
+      "episode": 42,
+      "title": "Looney Moon",
+      "diziid": "bbb",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/43/neseli_ay"
+    },
+    {
+      "season": 4,
+      "episode": 43,
+      "title": "Glamp Out",
+      "diziid": "bbb",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/44/mukemmel_kamp"
+    },
+    {
+      "season": 5,
+      "episode": 44,
+      "title": "Outer Space",
+      "diziid": "bbb",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/45/uzayda"
+    },
+    {
+      "season": 6,
+      "episode": 45,
+      "title": "The Great Flying Flea",
+      "diziid": "bbb",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/46/harika_ucan_pire"
+    },
+    {
+      "season": 7,
+      "episode": 46,
+      "title": "The Snuffles",
+      "diziid": "bbb",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/47/nezle"
+    },
+    {
+      "season": 8,
+      "episode": 47,
+      "title": "Rainy Day",
+      "diziid": "bbb",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/48/yagmurlu_gun"
+    },
+    {
+      "season": 9,
+      "episode": 48,
+      "title": "Bugs and the Beanstalk",
+      "diziid": "bbb",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/49/bugs_ve_fasulye_sirigi"
+    },
+    {
+      "season": 10,
+      "episode": 49,
+      "title": "Jazz Hooves",
+      "diziid": "bbb",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/50/jazz_evi"
+    },
+    {
+      "season": 11,
+      "episode": 50,
+      "title": "Looney Games",
+      "diziid": "bbb",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/51/looney_oyunlari"
+    },
+    {
+      "season": 12,
+      "episode": 51,
+      "title": "Roller Disco",
+      "diziid": "bbb",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/52/patenli_disko"
+    },
+    {
+      "season": 13,
+      "episode": 52,
+      "title": "Grandpa Oink",
+      "diziid": "bbb",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/53/buyukbaba_oink"
+    },
+    {
+      "season": 14,
+      "episode": 53,
+      "title": "Hare Ball",
+      "diziid": "bbb",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/54/tavsan_topu"
+    },
+    {
+      "season": 15,
+      "episode": 54,
+      "title": "Squeaky Clean",
+      "diziid": "bbb",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/55/piril_piril"
+    },
+    {
+      "season": 16,
+      "episode": 55,
+      "title": "Prizeworthy Birdie",
+      "diziid": "bbb",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/56/odule_layik_kus"
+    },
+    {
+      "season": 17,
+      "episode": 56,
+      "title": "Cake Bake",
+      "diziid": "bbb",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/57/pasta_pisirme"
+    },
+    {
+      "season": 18,
+      "episode": 57,
+      "title": "Porky Perfect Parade",
+      "diziid": "bbb",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/58/porky_mukemmelliginde_gecit_toreni"
+    },
+    {
+      "season": 19,
+      "episode": 58,
+      "title": "Coaster Contest",
+      "diziid": "bbb",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/59/hiz_treni_yarismasi"
+    },
+    {
+      "season": 20,
+      "episode": 59,
+      "title": "Sam's Stylin' Salon",
+      "diziid": "bbb",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/60/samin_berber_salonu"
+    },
+    {
+      "season": 21,
+      "episode": 60,
+      "title": "Polar Plunge",
+      "diziid": "bbb",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/61/kutuplara_dalis"
+    },
+    {
+      "season": 22,
+      "episode": 61,
+      "title": "This Sand is Your Sand",
+      "diziid": "bbb",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/62/bu_col_senin_colun"
+    },
+    {
+      "season": 23,
+      "episode": 62,
+      "title": "Fire Fighters",
+      "diziid": "bbb",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/63/itfaiyeciler"
+    },
+    {
+      "season": 24,
+      "episode": 63,
+      "title": "Beignet Day",
+      "diziid": "bbb",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/64/benye_gunu"
+    },
+    {
+      "season": 25,
+      "episode": 64,
+      "title": "Pauleen's Pins",
+      "diziid": "bbb",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/65/pauleenin_lobutlari"
+    },
+    {
+      "season": 26,
+      "episode": 65,
+      "title": "Coconut Hut",
+      "diziid": "bbb",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/66/hindistan_cevizi_kulubesi"
+    },
+    {
+      "season": 27,
+      "episode": 66,
+      "title": "Balloon Voyage",
+      "diziid": "bbb",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/67/balon_yolculugu"
+    },
+    {
+      "season": 28,
+      "episode": 67,
+      "title": "Yosemite Sam's Dude Ranch",
+      "diziid": "bbb",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/68/yosemite_samin_ciftligi"
+    },
+    {
+      "season": 30,
+      "episode": 68,
+      "title": "Spellbound",
+      "diziid": "bbb",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/70/buyulenmek"
+    },
+    {
+      "season": 34,
+      "episode": 69,
+      "title": "Robo-Runner",
+      "diziid": "bbb",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/74/robo-kosucu"
+    },
+    {
+      "season": 40,
+      "episode": 70,
+      "title": "Santa's Toyshop",
+      "diziid": "bbb",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/80/noel_baba%E2%80%99nin_oyuncak_dukkani"
+    },
+    {
+      "season": 29,
+      "episode": 71,
+      "title": "Baseball Bunnies",
+      "diziid": "bbb",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/69/beyzbolcu_tavsanlar"
+    },
+    {
+      "season": 31,
+      "episode": 72,
+      "title": "Miss Prissy's Market",
+      "diziid": "bbb",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/71/bayan_prissynin_marketi"
+    },
+    {
+      "season": 32,
+      "episode": 73,
+      "title": "Super Builders",
+      "diziid": "bbb",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/72/super_ustalar"
+    },
+    {
+      "season": 33,
+      "episode": 74,
+      "title": "Dodo's Wacky Funhouse",
+      "diziid": "bbb",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/73/dodonun_cilgin_eglence_evi"
+    },
+    {
+      "season": 35,
+      "episode": 75,
+      "title": "Cuckoo Cuckoo",
+      "diziid": "bbb",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/75/guguk_guguk"
+    },
+    {
+      "season": 36,
+      "episode": 76,
+      "title": "Surf's Up",
+      "diziid": "bbb",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/76/sorf_zamani"
+    },
+    {
+      "season": 37,
+      "episode": 77,
+      "title": "Mamma Mia Pizzeria",
+      "diziid": "bbb",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/77/mamma_mia_pizza"
+    },
+    {
+      "season": 38,
+      "episode": 78,
+      "title": "Carnaval",
+      "diziid": "bbb",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/78/karnaval"
+    },
+    {
+      "season": 39,
+      "episode": 79,
+      "title": "Puppet Showstopper",
+      "diziid": "bbb",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/bbb/bugs_bunny_yapi_ustalari/79/kukla_gosterisi"
+    }
+  ]
+}

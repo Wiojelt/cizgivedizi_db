@@ -1,0 +1,165 @@
+{
+  "id": "andy",
+  "title": "andy'nin nesi var?",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ANDYPoster.avif",
+  "channel": "Cine 5",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Just Stuffing",
+      "diziid": "andy",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/1/kilik_degistirme"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Gooey Chewies",
+      "diziid": "andy",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/2/sakiz_sekerleme"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Beat the Bomb",
+      "diziid": "andy",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/3/bombayi_durdur"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Rhyme Time",
+      "diziid": "andy",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/4/kafiye_zamani"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Food Fight",
+      "diziid": "andy",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/5/yemek_savasi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "101 Underpants / Playing Dead",
+      "diziid": "andy",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/6/okul_fotografi__olu_taklidi"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "title": "Emergency Spew Relish / Busting",
+      "diziid": "andy",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/8/acil_durum_kusmugu__sikismak"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "title": "Very Bad Idea / Cockroaches",
+      "diziid": "andy",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/9/cok_kotu_bir_fikir__hamam_bocekleri"
+    },
+    {
+      "season": 10,
+      "episode": 9,
+      "title": "It Came from East Gackle",
+      "diziid": "andy",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/10/uzaylilar_cefakardoguda"
+    },
+    {
+      "season": 14,
+      "episode": 10,
+      "title": "Mascot",
+      "diziid": "andy",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/14/maskot"
+    },
+    {
+      "season": 15,
+      "episode": 11,
+      "title": "Little Foot / Grandpa Crazy",
+      "diziid": "andy",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/15/kucuk_ayak__cilgin_buyukbaba"
+    },
+    {
+      "season": 16,
+      "episode": 12,
+      "title": "Gnome for the Holidays",
+      "diziid": "andy",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/16/tatil_ve_cuceler"
+    },
+    {
+      "season": 17,
+      "episode": 13,
+      "title": "The Royal Secret Society of Zombies",
+      "diziid": "andy",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/17/gizli_zombi_orgutu"
+    },
+    {
+      "season": 19,
+      "episode": 14,
+      "title": "Very Scary Stuff",
+      "diziid": "andy",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/19/aman_ne_korkunc%21"
+    },
+    {
+      "season": 20,
+      "episode": 15,
+      "title": "The Answers",
+      "diziid": "andy",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/20/cevaplar"
+    },
+    {
+      "season": 21,
+      "episode": 16,
+      "title": "Campaign in the Butt",
+      "diziid": "andy",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/21/kucuk_baskan"
+    },
+    {
+      "season": 22,
+      "episode": 17,
+      "title": "Bring It Off",
+      "diziid": "andy",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/22/amigo_andy"
+    },
+    {
+      "season": 23,
+      "episode": 18,
+      "title": "Pranks a Lot",
+      "diziid": "andy",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/23/bol_saka"
+    },
+    {
+      "season": 26,
+      "episode": 19,
+      "title": "Teen Dreamboats",
+      "diziid": "andy",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/andy/andynin_nesi_var/26/zoraki"
+    }
+  ]
+}

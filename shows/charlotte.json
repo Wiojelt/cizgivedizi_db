@@ -1,0 +1,37 @@
+{
+  "id": "charlotte",
+  "title": "charlotte'un sevgi aÄŸÄ±",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/CHARLOTTEPoster.avif",
+  "channel": "[HBO] Max",
+  "genres": [
+    "Dram",
+    "Macera"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Part 1",
+      "diziid": "charlotte",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/charlotte/charlotteun_sevgi_agi/1/bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Part 2",
+      "diziid": "charlotte",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/charlotte/charlotteun_sevgi_agi/2/bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Part 3",
+      "diziid": "charlotte",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/charlotte/charlotteun_sevgi_agi/3/bolum_3"
+    }
+  ]
+}

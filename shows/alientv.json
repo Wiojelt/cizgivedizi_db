@@ -1,0 +1,221 @@
+{
+  "id": "alientv",
+  "title": "alien tv",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/ALIENTVPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Bicycle / Gymnastics / Camping",
+      "diziid": "alientv",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/1/bisiklet__jimnastik__kamp"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Playground / Art / Gum",
+      "diziid": "alientv",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/2/oyun_parki__sanat__sakiz"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Gym / Birthday / Restaurant",
+      "diziid": "alientv",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/3/spor_salonu__dogum_gunu__restoran"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "BBQ / Office / Halloween",
+      "diziid": "alientv",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/4/barbeku__ofis__cadilar_bayrami"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Pizza / Magic / Cleaning",
+      "diziid": "alientv",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/5/pizza__sihir__temizlik"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Arcade / Dumplings / Presents",
+      "diziid": "alientv",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/6/atari_salonu__manti__hediyeler"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Junkyard / Spa / Love",
+      "diziid": "alientv",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/7/hurdalik__spa__ask"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Movie / Kindergarten / Sick",
+      "diziid": "alientv",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/8/sinema__anaokulu__hasta"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Baby / Supermarket / Tea",
+      "diziid": "alientv",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/9/bebek__supermarket__cay"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Wedding / Loch Ness / Soccer",
+      "diziid": "alientv",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/10/dugun__gol_canavari__futbol"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Skateboard / Mannequin / Survival",
+      "diziid": "alientv",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/11/kaykay__manken__hayatta_kalma"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Toyshop / Laundromat / Yoga",
+      "diziid": "alientv",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/12/oyuncakci__camasirhane__yoga"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Santa / Trophy / Makeup",
+      "diziid": "alientv",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/13/noel_baba__kupa__makyaj"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "title": "Trains / Barbershop / Gnome",
+      "diziid": "alientv",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/14/trenler__berber_dukkani__bahce_cucesi"
+    },
+    {
+      "season": 2,
+      "episode": 15,
+      "title": "Florist / Fashion / Teeth",
+      "diziid": "alientv",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/15/cicekci__moda__disler"
+    },
+    {
+      "season": 3,
+      "episode": 16,
+      "title": "Pool / Dinner Party / Skiing",
+      "diziid": "alientv",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/16/havuz__yemekli_davet__kayak"
+    },
+    {
+      "season": 4,
+      "episode": 17,
+      "title": "Joke Shop / Outback / Fire Hall",
+      "diziid": "alientv",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/17/saka_dukkani__avustralya_kirsali__itfaiye_binasi"
+    },
+    {
+      "season": 5,
+      "episode": 18,
+      "title": "Baby Shower / Yard Sale / Aquarium",
+      "diziid": "alientv",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/18/bebek_partisi__bahce_satisi__akvaryum"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "title": "Dance / International Games / Shopping",
+      "diziid": "alientv",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/19/dans__uluslararasi_turnuvalar__alisveris"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "title": "School / Holiday / Lucha Libre",
+      "diziid": "alientv",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/20/okul__tatil__lucha_libre"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "title": "Car / Sleep / Golf",
+      "diziid": "alientv",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/21/araba__uyku__golf"
+    },
+    {
+      "season": 9,
+      "episode": 22,
+      "title": "Airplane / Water Park / Mail",
+      "diziid": "alientv",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/22/ucak__su_parki__posta"
+    },
+    {
+      "season": 10,
+      "episode": 23,
+      "title": "Music / Bowling / Gardening",
+      "diziid": "alientv",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/23/muzik__bovling__bahcecilik"
+    },
+    {
+      "season": 11,
+      "episode": 24,
+      "title": "Museum / Bollywood / Castle",
+      "diziid": "alientv",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/24/muze__bollywood__kale"
+    },
+    {
+      "season": 12,
+      "episode": 25,
+      "title": "Ballet / Energy / Leprechauns",
+      "diziid": "alientv",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/25/bale__enerji__leprikonlar"
+    },
+    {
+      "season": 13,
+      "episode": 26,
+      "title": "Glasses / Trial / Scary",
+      "diziid": "alientv",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/alientv/alien_tv/26/gozluk__durusma__korku"
+    }
+  ]
+}

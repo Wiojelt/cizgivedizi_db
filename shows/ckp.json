@@ -1,0 +1,1164 @@
+{
+  "id": "ckp",
+  "title": "cesur kÃ¶pek pat",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/CKPPoster.avif",
+  "channel": "Boomerang",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Cave-Pat",
+      "diziid": "ckp",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/1/pat_tunelde"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Yard Sale",
+      "diziid": "ckp",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/2/bahce_satisi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Caterpillar Catastrophe",
+      "diziid": "ckp",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/3/tirtil_karmasasi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Strawberries and Screams",
+      "diziid": "ckp",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/4/cilekler_ve_cigliklar"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Baboon Beasties vs. Bouncy Castles",
+      "diziid": "ckp",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/5/sebek_canavarlar_zip_zip_satosuna_karsi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Panic at the Vet",
+      "diziid": "ckp",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/6/veterinerde_panik"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Hoodie on the Loose",
+      "diziid": "ckp",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/7/hoodie_firarda"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Strict Surveillance",
+      "diziid": "ckp",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/8/siki_gozetim"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Pat on Guard Duty",
+      "diziid": "ckp",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/9/pat_bekcilik_gorevinde"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Playing Sick",
+      "diziid": "ckp",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/10/hasta_numarasi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Anchors Away!",
+      "diziid": "ckp",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/11/demir_atma_zamani"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Jurassik Pat",
+      "diziid": "ckp",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/12/fosil_pat"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Easter Eggs",
+      "diziid": "ckp",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/13/paskalya_yumurtalari"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Invisible Enemy",
+      "diziid": "ckp",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/14/gorunmeyen_dusman"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Pet Parlour Panic",
+      "diziid": "ckp",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/15/hayvan_kuaforunde_panik"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Picnic Palaver",
+      "diziid": "ckp",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/16/piknik_dumeni"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Lola in Space",
+      "diziid": "ckp",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/17/lola_uzayda"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Over-Inflated",
+      "diziid": "ckp",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/18/asiri_siskin"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Frenemies",
+      "diziid": "ckp",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/19/dost_dusmanlar"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Camping Carnage",
+      "diziid": "ckp",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/20/kampta_katliam"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Pat versus Titan",
+      "diziid": "ckp",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/21/pat_deve_karsi"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "House of Spooks",
+      "diziid": "ckp",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/22/perili_ev"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "3D Printer",
+      "diziid": "ckp",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/23/3_boyutlu_yazici"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Mayhem at the Museum",
+      "diziid": "ckp",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/24/muzede_kargasa"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Like a Ton of Bricks",
+      "diziid": "ckp",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/25/bir_ton_tugla_kadar"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Trick or Treat Terror",
+      "diziid": "ckp",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/26/seker_mi_saka_mi"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "The Real Pat",
+      "diziid": "ckp",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/27/gercek_pat"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "The Ransom",
+      "diziid": "ckp",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/28/fidye"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Commander Sandy",
+      "diziid": "ckp",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/29/komutan_sandy"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Rescue Tank",
+      "diziid": "ckp",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/30/tanke_yardim"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Pat's Cat Cold-Case",
+      "diziid": "ckp",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/31/patin_soguk_alginligi"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Special Delivery",
+      "diziid": "ckp",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/32/ozel_teslimat"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "Worst Day Ever",
+      "diziid": "ckp",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/33/en_kotu_gun"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Monster Melon",
+      "diziid": "ckp",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/34/dev_karpuz"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Good Dog",
+      "diziid": "ckp",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/35/harika_kopek"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Pat's Big Heist",
+      "diziid": "ckp",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/36/patin_buyuk_soygunu"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Hypno-Pat",
+      "diziid": "ckp",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/37/hipnotize_pat"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "A Star Passes By",
+      "diziid": "ckp",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/38/bir_yildiz_gecti"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Bodyguard",
+      "diziid": "ckp",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/39/yakin_koruma"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Fast and Clean",
+      "diziid": "ckp",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/40/hizli_ve_temiz"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "The Guanos",
+      "diziid": "ckp",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/41/guanolar"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Maxi Golf",
+      "diziid": "ckp",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/42/maxi_golf"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Marathon Pat",
+      "diziid": "ckp",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/43/yarisci_pat"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "A Day at the Museum",
+      "diziid": "ckp",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/44/muzede_kargasa"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "April Fool!",
+      "diziid": "ckp",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/45/nisan_sakasi"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "Disaster for Dinner",
+      "diziid": "ckp",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/46/aksam_yemeginde_felaket"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Crunching Numbers",
+      "diziid": "ckp",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/47/zor_matematik"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "Geocaching",
+      "diziid": "ckp",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/48/define_avi"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Eyes Wide Open",
+      "diziid": "ckp",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/49/gozleri_tamamen_acik"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "Tirouli",
+      "diziid": "ckp",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/50/cik_cik"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Bird-Brain Buffet",
+      "diziid": "ckp",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/51/kus_yemi_bufesi"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Circus Chaos",
+      "diziid": "ckp",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/52/sirk_kargasasi"
+    },
+    {
+      "season": 53,
+      "episode": 53,
+      "title": "Dances With Fleas",
+      "diziid": "ckp",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/53/pirelerle_dans"
+    },
+    {
+      "season": 54,
+      "episode": 54,
+      "title": "Dogfish",
+      "diziid": "ckp",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/54/kucuk_kopek_baligi"
+    },
+    {
+      "season": 55,
+      "episode": 55,
+      "title": "All Fired Up",
+      "diziid": "ckp",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/55/heyecan_dolu"
+    },
+    {
+      "season": 56,
+      "episode": 56,
+      "title": "Face the Music",
+      "diziid": "ckp",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/56/muzigi_kucakla"
+    },
+    {
+      "season": 57,
+      "episode": 57,
+      "title": "Fundraising for Furballs",
+      "diziid": "ckp",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/57/tuy_yumaklari_icin_bagis"
+    },
+    {
+      "season": 58,
+      "episode": 58,
+      "title": "Shooting Stars",
+      "diziid": "ckp",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/58/kayan_yildiz"
+    },
+    {
+      "season": 59,
+      "episode": 59,
+      "title": "No Rest for Pat",
+      "diziid": "ckp",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/59/pate_mola_yok"
+    },
+    {
+      "season": 60,
+      "episode": 60,
+      "title": "Robopat",
+      "diziid": "ckp",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/60/robot_pat"
+    },
+    {
+      "season": 61,
+      "episode": 61,
+      "title": "Pat Goes Green",
+      "diziid": "ckp",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/61/cevreci_pat"
+    },
+    {
+      "season": 62,
+      "episode": 62,
+      "title": "The Cat Tree",
+      "diziid": "ckp",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/62/dev_tirmalama_tahtasi"
+    },
+    {
+      "season": 63,
+      "episode": 63,
+      "title": "Sir Pat the Knight",
+      "diziid": "ckp",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/63/sovalye_pat"
+    },
+    {
+      "season": 64,
+      "episode": 64,
+      "title": "PiÃ±ata Party",
+      "diziid": "ckp",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/64/pinyata_partisi"
+    },
+    {
+      "season": 65,
+      "episode": 65,
+      "title": "Photo-Bomb",
+      "diziid": "ckp",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/65/surpriz_kareler"
+    },
+    {
+      "season": 66,
+      "episode": 66,
+      "title": "Player One",
+      "diziid": "ckp",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/66/birinci_oyuncu"
+    },
+    {
+      "season": 67,
+      "episode": 67,
+      "title": "Punk Rock",
+      "diziid": "ckp",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/67/punk_rock"
+    },
+    {
+      "season": 68,
+      "episode": 68,
+      "title": "My Dog, the Hero",
+      "diziid": "ckp",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/68/benim_kopegim%2C_kahramanim"
+    },
+    {
+      "season": 69,
+      "episode": 69,
+      "title": "Tricked Out",
+      "diziid": "ckp",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/69/sihirbaz_numaralari"
+    },
+    {
+      "season": 70,
+      "episode": 70,
+      "title": "Inspector Pat",
+      "diziid": "ckp",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/70/mufettis_pat"
+    },
+    {
+      "season": 71,
+      "episode": 71,
+      "title": "High Security Christmas",
+      "diziid": "ckp",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/71/noelde_siki_guvenlik"
+    },
+    {
+      "season": 72,
+      "episode": 72,
+      "title": "Pat Academy",
+      "diziid": "ckp",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/72/patin_ogrencisi"
+    },
+    {
+      "season": 73,
+      "episode": 73,
+      "title": "The Gang Gangs Up",
+      "diziid": "ckp",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/73/takim_olmak"
+    },
+    {
+      "season": 74,
+      "episode": 74,
+      "title": "The Interview",
+      "diziid": "ckp",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/74/roportaj"
+    },
+    {
+      "season": 75,
+      "episode": 75,
+      "title": "Phantom of the Park",
+      "diziid": "ckp",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/75/parktaki_gizem"
+    },
+    {
+      "season": 76,
+      "episode": 76,
+      "title": "Iron Pat",
+      "diziid": "ckp",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/76/demir_pat"
+    },
+    {
+      "season": 77,
+      "episode": 77,
+      "title": "Piece of Cake",
+      "diziid": "ckp",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/77/cocuk_oyuncagi"
+    },
+    {
+      "season": 78,
+      "episode": 78,
+      "title": "Smoothie Party",
+      "diziid": "ckp",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/78/smoothie_partisi"
+    },
+    {
+      "season": 1,
+      "episode": 79,
+      "title": "Collector",
+      "diziid": "ckp",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/79/koleksiyoncu"
+    },
+    {
+      "season": 2,
+      "episode": 80,
+      "title": "Superbowl",
+      "diziid": "ckp",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/80/super_top"
+    },
+    {
+      "season": 3,
+      "episode": 81,
+      "title": "Blunder Bus",
+      "diziid": "ckp",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/81/acemi_otobus"
+    },
+    {
+      "season": 4,
+      "episode": 82,
+      "title": "How Puzzling",
+      "diziid": "ckp",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/82/kayip_parca"
+    },
+    {
+      "season": 5,
+      "episode": 83,
+      "title": "Cake Me Happy",
+      "diziid": "ckp",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/83/pastayla_mutluluk"
+    },
+    {
+      "season": 6,
+      "episode": 84,
+      "title": "The Sandwich",
+      "diziid": "ckp",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/84/sandvic"
+    },
+    {
+      "season": 7,
+      "episode": 85,
+      "title": "Guanos and Juliet",
+      "diziid": "ckp",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/85/guanolar_ve_julyet"
+    },
+    {
+      "season": 8,
+      "episode": 86,
+      "title": "Tank Gets the Blues",
+      "diziid": "ckp",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/86/tankin_morali_bozuk"
+    },
+    {
+      "season": 9,
+      "episode": 87,
+      "title": "Day at the Museum",
+      "diziid": "ckp",
+      "bolum": "87",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/87/muzede_bir_gun"
+    },
+    {
+      "season": 10,
+      "episode": 88,
+      "title": "3 Birds and a Basket",
+      "diziid": "ckp",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/88/uc_kus_bir_sepet"
+    },
+    {
+      "season": 11,
+      "episode": 89,
+      "title": "The Medal",
+      "diziid": "ckp",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/89/madalya"
+    },
+    {
+      "season": 12,
+      "episode": 90,
+      "title": "Inseparable",
+      "diziid": "ckp",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/90/ayrilmazlar"
+    },
+    {
+      "season": 13,
+      "episode": 91,
+      "title": "Summersaults Under the Stars",
+      "diziid": "ckp",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/91/yildizlarin_altinda_perendeler"
+    },
+    {
+      "season": 14,
+      "episode": 92,
+      "title": "Without a Sound",
+      "diziid": "ckp",
+      "bolum": "92",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/92/gurultu_olmadan"
+    },
+    {
+      "season": 16,
+      "episode": 93,
+      "title": "Sit, Stand, Heel",
+      "diziid": "ckp",
+      "bolum": "94",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/94/otur%2C_kalk%2C_yat"
+    },
+    {
+      "season": 17,
+      "episode": 94,
+      "title": "Kung-fu Hamster",
+      "diziid": "ckp",
+      "bolum": "95",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/95/kung_fu_ustasi_hamster"
+    },
+    {
+      "season": 18,
+      "episode": 95,
+      "title": "The Flying Page",
+      "diziid": "ckp",
+      "bolum": "96",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/96/ucan_sayfa"
+    },
+    {
+      "season": 19,
+      "episode": 96,
+      "title": "Guanozilla",
+      "diziid": "ckp",
+      "bolum": "97",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/97/tisort_kazasi"
+    },
+    {
+      "season": 20,
+      "episode": 97,
+      "title": "The Ferret Sitter",
+      "diziid": "ckp",
+      "bolum": "98",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/98/gelincik_bakicisi"
+    },
+    {
+      "season": 21,
+      "episode": 98,
+      "title": "The Automated House",
+      "diziid": "ckp",
+      "bolum": "99",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/99/otomatik_ev_sistemi"
+    },
+    {
+      "season": 22,
+      "episode": 99,
+      "title": "The Mask",
+      "diziid": "ckp",
+      "bolum": "100",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/100/maske"
+    },
+    {
+      "season": 23,
+      "episode": 100,
+      "title": "Special Delivery",
+      "diziid": "ckp",
+      "bolum": "101",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/101/ozel_teslimat"
+    },
+    {
+      "season": 24,
+      "episode": 101,
+      "title": "Tank Gets Amnesia",
+      "diziid": "ckp",
+      "bolum": "102",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/102/tankin_hafiza_kaybi"
+    },
+    {
+      "season": 25,
+      "episode": 102,
+      "title": "Guano Scooter",
+      "diziid": "ckp",
+      "bolum": "103",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/103/guano_scooteri"
+    },
+    {
+      "season": 26,
+      "episode": 103,
+      "title": "Reducing Your Pawprint",
+      "diziid": "ckp",
+      "bolum": "104",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/104/geri_donusum_pensesi"
+    },
+    {
+      "season": 27,
+      "episode": 104,
+      "title": "Anything for Little George",
+      "diziid": "ckp",
+      "bolum": "105",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/105/kucuk_george_icin"
+    },
+    {
+      "season": 28,
+      "episode": 105,
+      "title": "The Friendship Letter",
+      "diziid": "ckp",
+      "bolum": "106",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/106/dostluk_mektubu"
+    },
+    {
+      "season": 29,
+      "episode": 106,
+      "title": "The Recruit",
+      "diziid": "ckp",
+      "bolum": "107",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/107/iyilestirme"
+    },
+    {
+      "season": 30,
+      "episode": 107,
+      "title": "Where Is My Phone?",
+      "diziid": "ckp",
+      "bolum": "108",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/108/telefonum_nerede"
+    },
+    {
+      "season": 31,
+      "episode": 108,
+      "title": "The Wrong Bag",
+      "diziid": "ckp",
+      "bolum": "109",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/109/yanlis_canta"
+    },
+    {
+      "season": 32,
+      "episode": 109,
+      "title": "Fancy Fancy",
+      "diziid": "ckp",
+      "bolum": "110",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/110/fancy_fancy"
+    },
+    {
+      "season": 33,
+      "episode": 110,
+      "title": "Tiki to the Limit",
+      "diziid": "ckp",
+      "bolum": "111",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/111/heykel_yarisi"
+    },
+    {
+      "season": 34,
+      "episode": 111,
+      "title": "Relax Pat",
+      "diziid": "ckp",
+      "bolum": "112",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/112/sakin_pat"
+    },
+    {
+      "season": 35,
+      "episode": 112,
+      "title": "Soap Box Derby",
+      "diziid": "ckp",
+      "bolum": "113",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/113/kutu_araba_yarisi"
+    },
+    {
+      "season": 36,
+      "episode": 113,
+      "title": "The Treasure Map",
+      "diziid": "ckp",
+      "bolum": "114",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/114/hazine_haritasi"
+    },
+    {
+      "season": 37,
+      "episode": 114,
+      "title": "Mama Guano",
+      "diziid": "ckp",
+      "bolum": "115",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/115/anne_guano"
+    },
+    {
+      "season": 38,
+      "episode": 115,
+      "title": "The Lost Ring",
+      "diziid": "ckp",
+      "bolum": "116",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/116/kayip_yuzuk"
+    },
+    {
+      "season": 39,
+      "episode": 116,
+      "title": "Messy Bedroom",
+      "diziid": "ckp",
+      "bolum": "117",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/117/daginik_yatak_odasi"
+    },
+    {
+      "season": 40,
+      "episode": 117,
+      "title": "The Perfect Cabin",
+      "diziid": "ckp",
+      "bolum": "118",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/118/kusursuz_kulube"
+    },
+    {
+      "season": 41,
+      "episode": 118,
+      "title": "A Gift for Lola",
+      "diziid": "ckp",
+      "bolum": "119",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/119/lola_icin_hediye"
+    },
+    {
+      "season": 42,
+      "episode": 119,
+      "title": "Go Pat Go!",
+      "diziid": "ckp",
+      "bolum": "120",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/120/kos_pat_kos%21"
+    },
+    {
+      "season": 43,
+      "episode": 120,
+      "title": "Horsing Around",
+      "diziid": "ckp",
+      "bolum": "121",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/121/atli_macera"
+    },
+    {
+      "season": 44,
+      "episode": 121,
+      "title": "Favorite Toy",
+      "diziid": "ckp",
+      "bolum": "122",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/122/favori_oyuncak"
+    },
+    {
+      "season": 45,
+      "episode": 122,
+      "title": "Imaginary Friend",
+      "diziid": "ckp",
+      "bolum": "123",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/123/hayali_arkadasim"
+    },
+    {
+      "season": 46,
+      "episode": 123,
+      "title": "Fasting is Slow!",
+      "diziid": "ckp",
+      "bolum": "124",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/124/aclik_cok_zor%21"
+    },
+    {
+      "season": 47,
+      "episode": 124,
+      "title": "Veggie Garden",
+      "diziid": "ckp",
+      "bolum": "125",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/125/sebze_bahcesi"
+    },
+    {
+      "season": 48,
+      "episode": 125,
+      "title": "Citizenship Day",
+      "diziid": "ckp",
+      "bolum": "126",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/126/vatandaslik_gunu"
+    },
+    {
+      "season": 49,
+      "episode": 126,
+      "title": "Lucie's Doll",
+      "diziid": "ckp",
+      "bolum": "127",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/127/lucynin_oyuncak_bebegi"
+    },
+    {
+      "season": 50,
+      "episode": 127,
+      "title": "Birds and Castles",
+      "diziid": "ckp",
+      "bolum": "128",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/128/kuslar_ve_evler"
+    },
+    {
+      "season": 51,
+      "episode": 128,
+      "title": "Locked in the Museum!",
+      "diziid": "ckp",
+      "bolum": "129",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/129/muzede_bir_gun"
+    },
+    {
+      "season": 52,
+      "episode": 129,
+      "title": "Scared of the Dark",
+      "diziid": "ckp",
+      "bolum": "130",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/130/karanlik_korkusu"
+    },
+    {
+      "season": 53,
+      "episode": 130,
+      "title": "Diorama Drama",
+      "diziid": "ckp",
+      "bolum": "131",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/131/diorama_projesi"
+    },
+    {
+      "season": 54,
+      "episode": 131,
+      "title": "Geometry Homework",
+      "diziid": "ckp",
+      "bolum": "132",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/132/geometri_odevi"
+    },
+    {
+      "season": 55,
+      "episode": 132,
+      "title": "Sewers Hideout",
+      "diziid": "ckp",
+      "bolum": "133",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/133/kanalizasyon_macerasi"
+    },
+    {
+      "season": 56,
+      "episode": 133,
+      "title": "Pat Needs a Nap",
+      "diziid": "ckp",
+      "bolum": "134",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/134/patin_dinlenmesi_gerek"
+    },
+    {
+      "season": 57,
+      "episode": 134,
+      "title": "Spying Games",
+      "diziid": "ckp",
+      "bolum": "135",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/135/casus_oyunlari"
+    },
+    {
+      "season": 58,
+      "episode": 135,
+      "title": "Last Minute",
+      "diziid": "ckp",
+      "bolum": "136",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/136/son_dakikada"
+    },
+    {
+      "season": 59,
+      "episode": 136,
+      "title": "The Best Tomorrow of Our Lives",
+      "diziid": "ckp",
+      "bolum": "137",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/137/hayatlarimizin_en_guzel_yarini"
+    },
+    {
+      "season": 60,
+      "episode": 137,
+      "title": "Hoody Express",
+      "diziid": "ckp",
+      "bolum": "138",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/138/hoodie_ekspres"
+    },
+    {
+      "season": 61,
+      "episode": 138,
+      "title": "Panic at the Bowling Alley",
+      "diziid": "ckp",
+      "bolum": "139",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/139/bowling_salonunda_panik"
+    },
+    {
+      "season": 62,
+      "episode": 139,
+      "title": "No Rest for Pat",
+      "diziid": "ckp",
+      "bolum": "140",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/140/pat_icin_dinlenmek_yok"
+    },
+    {
+      "season": 63,
+      "episode": 140,
+      "title": "Lost Dog",
+      "diziid": "ckp",
+      "bolum": "141",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/141/kayip_kopek"
+    },
+    {
+      "season": 1,
+      "episode": 141,
+      "title": "A Very Special Dog",
+      "diziid": "ckp",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/0/cok_ozel_bir_kopek"
+    },
+    {
+      "season": 1,
+      "episode": 142,
+      "title": "A Too Scary Story",
+      "diziid": "ckp",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/0/korkunc_bir_hikaye"
+    },
+    {
+      "season": 1,
+      "episode": 143,
+      "title": "Into the Wild",
+      "diziid": "ckp",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/0/vahsi_dogada"
+    },
+    {
+      "season": 1,
+      "episode": 144,
+      "title": "Santa Pat",
+      "diziid": "ckp",
+      "bolum": "0",
+      "url": "https://cizgivedizi.com/dizi/ckp/cesur_kopek_pat/0/pat_noeli_kurtariyor"
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+  "id": "ant",
+  "title": "yetenek Ã§iftliÄŸi",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/ANTPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "TransplANTed",
+      "diziid": "ant",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/1/yeni_ogrenci"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "ParticipANTs",
+      "diziid": "ant",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/2/etkinlik"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "The PhANTom Locker",
+      "diziid": "ant",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/3/perili_dolap"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "SciANTs Fair",
+      "diziid": "ant",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/4/bilim_insanlari_fuari"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "StudANT Council",
+      "diziid": "ant",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/5/ogrenci_konseyi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Bad RomANTs",
+      "diziid": "ant",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/6/ask_macerasi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The InformANT",
+      "diziid": "ant",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/7/okul_cantasi"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "ReplicANT",
+      "diziid": "ant",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/8/yeni_uye"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "ClairvoyANT",
+      "diziid": "ant",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/9/kahin"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "ManagemANT",
+      "diziid": "ant",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/10/menajer"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "PhilANThropy",
+      "diziid": "ant",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/11/hayirsever"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "FraudulANT",
+      "diziid": "ant",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/12/kurtarma_operasyonu"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "The ReplacemANT",
+      "diziid": "ant",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/13/yeni_ogretmen"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "MutANT Farm",
+      "diziid": "ant",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/14/canavar_ciftligi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "cANTonese Style Cuisine",
+      "diziid": "ant",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/15/kanton_mutfagi"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "IgnorANTs Is Bliss",
+      "diziid": "ant",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/16/cahillik_mutluluktur"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Slumber Party ANTics",
+      "diziid": "ant",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/17/pijama_partisi"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "America Needs TalANT, Part 1",
+      "diziid": "ant",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/18/yetenek_sizsiniz_amerika%2C_bolum_1"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "America Needs TalANT, Part 2",
+      "diziid": "ant",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/19/yetenek_sizsiniz_amerika%2C_bolum_2"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "SANTa's Little Helpers",
+      "diziid": "ant",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/20/noel_babanin_minik_yardimcilari"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "You're the One That I wANT",
+      "diziid": "ant",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/21/istedigim_sensin"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "PerformANTs",
+      "diziid": "ant",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/22/konser"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Some EnchANTed Evening",
+      "diziid": "ant",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/23/buyulu_bir_aksam"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "PatANT Pending",
+      "diziid": "ant",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/24/urun_tasarimi"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Ballet dANTser",
+      "diziid": "ant",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/25/balet"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "Body of EvidANTs",
+      "diziid": "ant",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/26/evcil_robot"
+    },
+    {
+      "season": 1,
+      "episode": 27,
+      "title": "InfANT",
+      "diziid": "ant",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/27/yenidogan"
+    },
+    {
+      "season": 2,
+      "episode": 28,
+      "title": "Creative ConsultANT",
+      "diziid": "ant",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/28/film_yildizi"
+    },
+    {
+      "season": 3,
+      "episode": 29,
+      "title": "FANTasy Girl",
+      "diziid": "ant",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/29/hayalimdeki_kiz"
+    },
+    {
+      "season": 4,
+      "episode": 30,
+      "title": "modeling assignmANT",
+      "diziid": "ant",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/30/katalog_cekimi"
+    },
+    {
+      "season": 5,
+      "episode": 31,
+      "title": "ANTswers",
+      "diziid": "ant",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/31/internet"
+    },
+    {
+      "season": 6,
+      "episode": 32,
+      "title": "The ANTagonist",
+      "diziid": "ant",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/32/bas_dusman"
+    },
+    {
+      "season": 7,
+      "episode": 33,
+      "title": "EndurANTs",
+      "diziid": "ant",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/33/idy_toplantisi"
+    },
+    {
+      "season": 8,
+      "episode": 34,
+      "title": "AmusemANT Park",
+      "diziid": "ant",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/34/panayir"
+    },
+    {
+      "season": 9,
+      "episode": 35,
+      "title": "ContestANTs",
+      "diziid": "ant",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/35/yarismacilar"
+    },
+    {
+      "season": 10,
+      "episode": 36,
+      "title": "ConfinemANT",
+      "diziid": "ant",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/36/cikis_yok"
+    },
+    {
+      "season": 11,
+      "episode": 37,
+      "title": "IntelligANT",
+      "diziid": "ant",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/37/zeka_testi"
+    },
+    {
+      "season": 12,
+      "episode": 38,
+      "title": "SignificANT Other",
+      "diziid": "ant",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/38/kiz_arkadas"
+    },
+    {
+      "season": 13,
+      "episode": 39,
+      "title": "MutANT Farm 2",
+      "diziid": "ant",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/39/canavar_ciftligi_2"
+    },
+    {
+      "season": 14,
+      "episode": 40,
+      "title": "Detective AgANTcy",
+      "diziid": "ant",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/40/dedektiflik_burosu"
+    },
+    {
+      "season": 15,
+      "episode": 41,
+      "title": "ScavANTger Hunt",
+      "diziid": "ant",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/41/toplama_etkinligi"
+    },
+    {
+      "season": 16,
+      "episode": 42,
+      "title": "ChANTs of a Lifetime, Part 1",
+      "diziid": "ant",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/42/hayatinin_firsati%2C_bolum_1"
+    },
+    {
+      "season": 17,
+      "episode": 43,
+      "title": "ChANTs of a Lifetime, Part 2",
+      "diziid": "ant",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/43/hayatinin_firsati%2C_bolum_2"
+    },
+    {
+      "season": 18,
+      "episode": 44,
+      "title": "Early RetiremANT",
+      "diziid": "ant",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/44/erken_emeklilik"
+    },
+    {
+      "season": 19,
+      "episode": 45,
+      "title": "InfluANTces",
+      "diziid": "ant",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/45/tarihi_ay"
+    },
+    {
+      "season": 20,
+      "episode": 46,
+      "title": "IdANTity Crisis",
+      "diziid": "ant",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/46/kimlik_bunalimi"
+    },
+    {
+      "season": 21,
+      "episode": 47,
+      "title": "RestaurANTeur",
+      "diziid": "ant",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/47/genc_sef"
+    },
+    {
+      "season": 1,
+      "episode": 48,
+      "title": "TrANTsferred, Part 1",
+      "diziid": "ant",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/48/yatili_okul%2C_bolum_1"
+    },
+    {
+      "season": 2,
+      "episode": 49,
+      "title": "TrANTsferred, Part 2",
+      "diziid": "ant",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/49/yatili_okul%2C_bolum_2"
+    },
+    {
+      "season": 3,
+      "episode": 50,
+      "title": "IndependANTs",
+      "diziid": "ant",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/50/ozgurluk"
+    },
+    {
+      "season": 4,
+      "episode": 51,
+      "title": "Animal HusbANTry",
+      "diziid": "ant",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/51/hayvan_bakimi"
+    },
+    {
+      "season": 5,
+      "episode": 52,
+      "title": "Secret AgANT",
+      "diziid": "ant",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/52/gizli_ajan"
+    },
+    {
+      "season": 6,
+      "episode": 53,
+      "title": "Past, PresANT, and Future",
+      "diziid": "ant",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/53/gecmis%2C_simdi_ve_gelecek"
+    },
+    {
+      "season": 7,
+      "episode": 54,
+      "title": "Angus' First MovemANT",
+      "diziid": "ant",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/54/angustan_istek"
+    },
+    {
+      "season": 8,
+      "episode": 55,
+      "title": "Unforseen CircumstANTs",
+      "diziid": "ant",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/55/ongorulemeyen_durumlar"
+    },
+    {
+      "season": 9,
+      "episode": 56,
+      "title": "PANTs on Fire",
+      "diziid": "ant",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/56/dogruyu_soyle"
+    },
+    {
+      "season": 10,
+      "episode": 57,
+      "title": "Product MisplacemANT",
+      "diziid": "ant",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/57/gizli_kacis"
+    },
+    {
+      "season": 11,
+      "episode": 58,
+      "title": "Uncanny ResemblANTs",
+      "diziid": "ant",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/58/akil_hocasi"
+    },
+    {
+      "season": 12,
+      "episode": 59,
+      "title": "MutANT Farm 3.0",
+      "diziid": "ant",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/59/canavar_ciftligi_3.0"
+    },
+    {
+      "season": 13,
+      "episode": 60,
+      "title": "Feature PresANTation",
+      "diziid": "ant",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/60/kucuk_bir_ziyaret"
+    },
+    {
+      "season": 14,
+      "episode": 61,
+      "title": "FinANTial Crisis",
+      "diziid": "ant",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/61/finansal_kriz"
+    },
+    {
+      "season": 15,
+      "episode": 62,
+      "title": "SilANT Night",
+      "diziid": "ant",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/62/sessiz_gece"
+    },
+    {
+      "season": 16,
+      "episode": 63,
+      "title": "UnwANTed",
+      "diziid": "ant",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/63/terk_edilmis"
+    },
+    {
+      "season": 17,
+      "episode": 64,
+      "title": "MeANT to Be?",
+      "diziid": "ant",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/64/uyumlu_cift"
+    },
+    {
+      "season": 18,
+      "episode": 65,
+      "title": "The New York ExperiANTs",
+      "diziid": "ant",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/ant/yetenek_ciftligi/65/new_york_gezisi"
+    }
+  ]
+}

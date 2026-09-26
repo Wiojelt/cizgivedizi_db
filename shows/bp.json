@@ -1,0 +1,109 @@
+{
+  "id": "bp",
+  "title": "blue period",
+  "type": "anime",
+  "poster": "https://cizgivedizi.com/resim/BPPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Dram",
+    "GÃ¼nlÃ¼k Hayattan"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Awakening to the Joy of Painting",
+      "diziid": "bp",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bp/blue_period/1/resim_yapmanin_verdigi_zevki_tatmak"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "He's Not Tanned At All",
+      "diziid": "bp",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bp/blue_period/2/hic_bronzlasmamis"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Prep School Debut of the Dead",
+      "diziid": "bp",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bp/blue_period/3/olulerin_ilk_hazirlik_sinifi_deneyimi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Where are We Headed?",
+      "diziid": "bp",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bp/blue_period/4/nereye_gidiyoruz"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Helpless Even If I Know What to Do",
+      "diziid": "bp",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bp/blue_period/5/ne_yapacagimi_bilsem_de_caresizim"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Serious Mental Breakdown",
+      "diziid": "bp",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bp/blue_period/6/agir_sinir_krizleri"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "The Start of the First Exam",
+      "diziid": "bp",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bp/blue_period/7/ilk_sinav_basliyor"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Brain-Racking",
+      "diziid": "bp",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bp/blue_period/8/kafa_yorma"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Wandering Knife",
+      "diziid": "bp",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bp/blue_period/9/basibos_bicak"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Our Color Blue",
+      "diziid": "bp",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bp/blue_period/10/bizim_rengimiz_mavi"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "The Start of the Second Exam",
+      "diziid": "bp",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bp/blue_period/11/ikinci_sinav_basliyor"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "When I Started to Be Dyed in Color",
+      "diziid": "bp",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bp/blue_period/12/renklerle_boyanmaya_basladigim_an"
+    }
+  ]
+}

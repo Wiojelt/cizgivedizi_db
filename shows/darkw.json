@@ -1,0 +1,733 @@
+{
+  "id": "darkw",
+  "title": "karakanat Ã¶rdek",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/%C3%96DARKPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Aksiyon",
+    "Komedi"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Beauty and the Beet",
+      "diziid": "darkw",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/1/guzel_ve_pancar"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Getting Antsy",
+      "diziid": "darkw",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/2/sabirsizlanmak"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Night of the Living Spud",
+      "diziid": "darkw",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/3/yasayan_cipa_gecesi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Apes of Wrath",
+      "diziid": "darkw",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/4/ofkenin_fedaileri"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Dirty Money",
+      "diziid": "darkw",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/5/kirli_para"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Duck Blind",
+      "diziid": "darkw",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/6/kor_ordek"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Comic Book Capers",
+      "diziid": "darkw",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/7/cizgi_roman_hirsizlari"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Water Way to Go",
+      "diziid": "darkw",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/8/su_yolu"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Paraducks",
+      "diziid": "darkw",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/9/paralel_ordekler"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Easy Comes, Easy Grows",
+      "diziid": "darkw",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/10/haydan_gelen_huyda_buyur"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "A Revolution in Home Appliances",
+      "diziid": "darkw",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/11/ev_aletlerinde_devrim"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Trading Faces",
+      "diziid": "darkw",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/12/catisma"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Hush, Hush, Sweet Charlatan",
+      "diziid": "darkw",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/13/sus_tatli_sarlatan"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Can't Bayou Love",
+      "diziid": "darkw",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/14/bataklik_sevemez_mi"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Bearskin Thug",
+      "diziid": "darkw",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/15/ayi_postu_haydutu"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "You Sweat Your Life",
+      "diziid": "darkw",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/16/zorlu_hayat"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Days of Blunder",
+      "diziid": "darkw",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/17/acemilik_gunleri"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Just Us Justice Ducks (1)",
+      "diziid": "darkw",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/18/adalet_ordekleri_-_bolum_1"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Just Us Justice Ducks (2)",
+      "diziid": "darkw",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/19/adalet_ordekleri_-_bolum_2"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Double Darkwings",
+      "diziid": "darkw",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/20/duble_darkwing"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Aduckyphobia",
+      "diziid": "darkw",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/21/ordek_fobisi"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "When Aliens Collide",
+      "diziid": "darkw",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/22/uzaylilar_carpisinca"
+    },
+    {
+      "season": 23,
+      "episode": 23,
+      "title": "Jurassic Jumble",
+      "diziid": "darkw",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/23/jurassic_karmasasi"
+    },
+    {
+      "season": 24,
+      "episode": 24,
+      "title": "Cleanliness Is Next to Badliness",
+      "diziid": "darkw",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/24/temizlikle_kotuluk_yan_yana"
+    },
+    {
+      "season": 25,
+      "episode": 25,
+      "title": "Smarter Than a Speeding Bullet",
+      "diziid": "darkw",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/25/hizlanan_mermiden_daha_akilli"
+    },
+    {
+      "season": 26,
+      "episode": 26,
+      "title": "All's Fahrenheit in Love and War",
+      "diziid": "darkw",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/26/askta_ve_savasta_fahrenayt"
+    },
+    {
+      "season": 27,
+      "episode": 27,
+      "title": "Whiffle While You Work",
+      "diziid": "darkw",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/27/calisirken_savrulmak"
+    },
+    {
+      "season": 28,
+      "episode": 28,
+      "title": "Ghoul of My Dreams",
+      "diziid": "darkw",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/28/hayallerimin_hirsizi"
+    },
+    {
+      "season": 29,
+      "episode": 29,
+      "title": "Darkly Dawns the Duck, Part 1",
+      "diziid": "darkw",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/29/ordegin_karanlik_baslangici_-_bolum_1"
+    },
+    {
+      "season": 30,
+      "episode": 30,
+      "title": "Darkly Dawns the Duck, Part 2",
+      "diziid": "darkw",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/30/ordegin_karanlik_baslangici_-_bolum_2"
+    },
+    {
+      "season": 31,
+      "episode": 31,
+      "title": "Adopt-a-Con",
+      "diziid": "darkw",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/31/dolandirici-sahiplen"
+    },
+    {
+      "season": 32,
+      "episode": 32,
+      "title": "Toys Czar Us",
+      "diziid": "darkw",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/32/oyuncak_cari"
+    },
+    {
+      "season": 33,
+      "episode": 33,
+      "title": "The Secret Origins of Darkwing Duck",
+      "diziid": "darkw",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/33/ordek_darkwingin_gizli_gecmisi"
+    },
+    {
+      "season": 34,
+      "episode": 34,
+      "title": "Up, Up, and Awry",
+      "diziid": "darkw",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/34/yukari%2C_yukari_ve_yana"
+    },
+    {
+      "season": 35,
+      "episode": 35,
+      "title": "Life, the Negaverse, and Everything",
+      "diziid": "darkw",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/35/hayat%2C_negaverse_ve_her_sey"
+    },
+    {
+      "season": 36,
+      "episode": 36,
+      "title": "Dry Hard",
+      "diziid": "darkw",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/36/kuru_siki"
+    },
+    {
+      "season": 37,
+      "episode": 37,
+      "title": "Heavy Mental",
+      "diziid": "darkw",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/37/agir_mental"
+    },
+    {
+      "season": 38,
+      "episode": 38,
+      "title": "Disguise the Limit",
+      "diziid": "darkw",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/38/siniri_gizle"
+    },
+    {
+      "season": 39,
+      "episode": 39,
+      "title": "Planet of the Capes",
+      "diziid": "darkw",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/39/pelerinler_gezegeni"
+    },
+    {
+      "season": 40,
+      "episode": 40,
+      "title": "Darkwing Doubloon",
+      "diziid": "darkw",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/40/darkwing_altini"
+    },
+    {
+      "season": 41,
+      "episode": 41,
+      "title": "It's a Wonderful Leaf",
+      "diziid": "darkw",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/41/harika_yaprak"
+    },
+    {
+      "season": 42,
+      "episode": 42,
+      "title": "Twitching Channels",
+      "diziid": "darkw",
+      "bolum": "42",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/42/karisan_kanallar"
+    },
+    {
+      "season": 43,
+      "episode": 43,
+      "title": "Dances with Bigfoot",
+      "diziid": "darkw",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/43/kocaayak_ile_dans"
+    },
+    {
+      "season": 44,
+      "episode": 44,
+      "title": "Twin Beaks",
+      "diziid": "darkw",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/44/twin_beaks"
+    },
+    {
+      "season": 45,
+      "episode": 45,
+      "title": "The Incredible Bulk",
+      "diziid": "darkw",
+      "bolum": "45",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/45/muthis_govde"
+    },
+    {
+      "season": 46,
+      "episode": 46,
+      "title": "My Valentine Ghoul",
+      "diziid": "darkw",
+      "bolum": "46",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/46/svegili_hortlagim"
+    },
+    {
+      "season": 47,
+      "episode": 47,
+      "title": "Dead Duck",
+      "diziid": "darkw",
+      "bolum": "47",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/47/olu_ordek"
+    },
+    {
+      "season": 48,
+      "episode": 48,
+      "title": "A Duck by Any Other Name",
+      "diziid": "darkw",
+      "bolum": "48",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/48/baska_bir_isimle_ordek"
+    },
+    {
+      "season": 49,
+      "episode": 49,
+      "title": "Let's Get Respectable",
+      "diziid": "darkw",
+      "bolum": "49",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/49/saygin_olalim"
+    },
+    {
+      "season": 50,
+      "episode": 50,
+      "title": "In Like Blunt",
+      "diziid": "darkw",
+      "bolum": "50",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/50/kor_severim"
+    },
+    {
+      "season": 51,
+      "episode": 51,
+      "title": "Quack of Ages",
+      "diziid": "darkw",
+      "bolum": "51",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/51/caglarin_vakvaki"
+    },
+    {
+      "season": 52,
+      "episode": 52,
+      "title": "Time and Punishment",
+      "diziid": "darkw",
+      "bolum": "52",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/52/zaman_ve_ceza"
+    },
+    {
+      "season": 53,
+      "episode": 53,
+      "title": "Stressed to Kill",
+      "diziid": "darkw",
+      "bolum": "53",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/53/oldurmeye_zorlanmak"
+    },
+    {
+      "season": 54,
+      "episode": 54,
+      "title": "The Darkwing Squad",
+      "diziid": "darkw",
+      "bolum": "54",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/54/karakanat_timi"
+    },
+    {
+      "season": 55,
+      "episode": 55,
+      "title": "Inside Binkie's Brain",
+      "diziid": "darkw",
+      "bolum": "55",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/55/binkienin_beyninde"
+    },
+    {
+      "season": 56,
+      "episode": 56,
+      "title": "The Haunting of Mr. Banana Brain",
+      "diziid": "darkw",
+      "bolum": "56",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/56/bay_muz_beyinin_ruhu"
+    },
+    {
+      "season": 57,
+      "episode": 57,
+      "title": "Slime Okay, You're Okay",
+      "diziid": "darkw",
+      "bolum": "57",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/57/balcik_tamam%2C_sen_tamam"
+    },
+    {
+      "season": 58,
+      "episode": 58,
+      "title": "Whirled History",
+      "diziid": "darkw",
+      "bolum": "58",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/58/kesmekes_tarih"
+    },
+    {
+      "season": 59,
+      "episode": 59,
+      "title": "U.F. Foe",
+      "diziid": "darkw",
+      "bolum": "59",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/59/u.f._dusman"
+    },
+    {
+      "season": 60,
+      "episode": 60,
+      "title": "A Star is Scorned",
+      "diziid": "darkw",
+      "bolum": "60",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/60/bir_yildiz_kucumsendi"
+    },
+    {
+      "season": 61,
+      "episode": 61,
+      "title": "The Quiverwing Quack",
+      "diziid": "darkw",
+      "bolum": "61",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/61/quiverwing_quack"
+    },
+    {
+      "season": 62,
+      "episode": 62,
+      "title": "Jail Bird",
+      "diziid": "darkw",
+      "bolum": "62",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/62/hapis_kusu"
+    },
+    {
+      "season": 63,
+      "episode": 63,
+      "title": "Dirtysomething",
+      "diziid": "darkw",
+      "bolum": "63",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/63/kirli_seyler"
+    },
+    {
+      "season": 64,
+      "episode": 64,
+      "title": "Kung Fooled",
+      "diziid": "darkw",
+      "bolum": "64",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/64/kung_fooled"
+    },
+    {
+      "season": 65,
+      "episode": 65,
+      "title": "Bad Luck Duck",
+      "diziid": "darkw",
+      "bolum": "65",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/65/sanssiz_ordek"
+    },
+    {
+      "season": 66,
+      "episode": 66,
+      "title": "Negaduck",
+      "diziid": "darkw",
+      "bolum": "66",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/66/negaduck"
+    },
+    {
+      "season": 67,
+      "episode": 67,
+      "title": "Fungus Amongus",
+      "diziid": "darkw",
+      "bolum": "67",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/67/mantar_amongus"
+    },
+    {
+      "season": 68,
+      "episode": 68,
+      "title": "Battle of the Brainteasers",
+      "diziid": "darkw",
+      "bolum": "68",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/68/bilmece_savaslari"
+    },
+    {
+      "season": 69,
+      "episode": 69,
+      "title": "Something Fishy",
+      "diziid": "darkw",
+      "bolum": "69",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/69/supheli_seyler"
+    },
+    {
+      "season": 70,
+      "episode": 70,
+      "title": "That Sinking Feeling",
+      "diziid": "darkw",
+      "bolum": "70",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/70/batma_hissi"
+    },
+    {
+      "season": 71,
+      "episode": 71,
+      "title": "Tiff of the Titans",
+      "diziid": "darkw",
+      "bolum": "71",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/71/devlerin_atismasi"
+    },
+    {
+      "season": 72,
+      "episode": 72,
+      "title": "Film Flam",
+      "diziid": "darkw",
+      "bolum": "72",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/72/film_hilesi"
+    },
+    {
+      "season": 73,
+      "episode": 73,
+      "title": "Calm a Chameleon",
+      "diziid": "darkw",
+      "bolum": "73",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/73/bukalemunu_yatistirmak"
+    },
+    {
+      "season": 74,
+      "episode": 74,
+      "title": "The Merchant of Menace",
+      "diziid": "darkw",
+      "bolum": "74",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/74/korku_taciri"
+    },
+    {
+      "season": 75,
+      "episode": 75,
+      "title": "Slaves to Fashion",
+      "diziid": "darkw",
+      "bolum": "75",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/75/modanin_koleleri"
+    },
+    {
+      "season": 76,
+      "episode": 76,
+      "title": "Bad Tidings",
+      "diziid": "darkw",
+      "bolum": "76",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/76/kotu_havadisler"
+    },
+    {
+      "season": 77,
+      "episode": 77,
+      "title": "Going Nowhere Fast",
+      "diziid": "darkw",
+      "bolum": "77",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/77/hicbir_yere_gitmiyorsun"
+    },
+    {
+      "season": 78,
+      "episode": 78,
+      "title": "A Brush with Oblivion",
+      "diziid": "darkw",
+      "bolum": "78",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/78/belirsizlik_fircasi"
+    },
+    {
+      "season": 1,
+      "episode": 79,
+      "title": "Steerminator",
+      "diziid": "darkw",
+      "bolum": "79",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/79/yonetim"
+    },
+    {
+      "season": 2,
+      "episode": 80,
+      "title": "Star Crossed Circuits",
+      "diziid": "darkw",
+      "bolum": "80",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/80/yildiz_devreleri"
+    },
+    {
+      "season": 3,
+      "episode": 81,
+      "title": "Revenge of the Return of the Brainteasers",
+      "diziid": "darkw",
+      "bolum": "81",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/81/bilmecelerin_intikami"
+    },
+    {
+      "season": 4,
+      "episode": 82,
+      "title": "Monsters R Us",
+      "diziid": "darkw",
+      "bolum": "82",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/82/canavarlar_biziz"
+    },
+    {
+      "season": 5,
+      "episode": 83,
+      "title": "Inherit the Wimp",
+      "diziid": "darkw",
+      "bolum": "83",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/83/miras"
+    },
+    {
+      "season": 6,
+      "episode": 84,
+      "title": "Clash Reunion",
+      "diziid": "darkw",
+      "bolum": "84",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/84/gurultulu_bulusma"
+    },
+    {
+      "season": 7,
+      "episode": 85,
+      "title": "Mutantcy on the Bouncy",
+      "diziid": "darkw",
+      "bolum": "85",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/85/hevesli_mutant"
+    },
+    {
+      "season": 8,
+      "episode": 86,
+      "title": "Paint Misbehavin'",
+      "diziid": "darkw",
+      "bolum": "86",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/86/canlanan_tablolar"
+    },
+    {
+      "season": 10,
+      "episode": 87,
+      "title": "The Frequency Fiends",
+      "diziid": "darkw",
+      "bolum": "88",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/88/frekans_arkadaslari"
+    },
+    {
+      "season": 11,
+      "episode": 88,
+      "title": "Fraudcast News",
+      "diziid": "darkw",
+      "bolum": "89",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/89/duzenbaz_haberler"
+    },
+    {
+      "season": 12,
+      "episode": 89,
+      "title": "Extinct Possibility",
+      "diziid": "darkw",
+      "bolum": "90",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/90/tukenme_olasiligi"
+    },
+    {
+      "season": 13,
+      "episode": 90,
+      "title": "Malice's Restaurant",
+      "diziid": "darkw",
+      "bolum": "91",
+      "url": "https://cizgivedizi.com/dizi/darkw/karakanat_ordek/91/kotulukun_restorani"
+    }
+  ]
+}

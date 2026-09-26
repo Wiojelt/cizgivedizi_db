@@ -1,0 +1,77 @@
+{
+  "id": "ctesialls",
+  "title": "saturday morning all star hits!",
+  "type": "dizi",
+  "poster": "https://cizgivedizi.com/resim/CTESÄ°ALLSPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "AbsÃ¼rt"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Tape 1: SCHOOL",
+      "diziid": "ctesialls",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/ctesialls/saturday_morning_all_star_hits%21/1/1._kaset%3A_okul"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Tape 2: LOST",
+      "diziid": "ctesialls",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/ctesialls/saturday_morning_all_star_hits%21/2/2._kaset%3A_kayip"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Tape 3: ZOO",
+      "diziid": "ctesialls",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/ctesialls/saturday_morning_all_star_hits%21/3/3._kaset%3A_hayvanat_bahcesi"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Tape 4: SMASH!",
+      "diziid": "ctesialls",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/ctesialls/saturday_morning_all_star_hits%21/4/4._kaset%3A_s.m.a.s.h.%21"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Tape 5: NEWS",
+      "diziid": "ctesialls",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/ctesialls/saturday_morning_all_star_hits%21/5/5._kaset%3A_haberler"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Tape 6: MOVIE",
+      "diziid": "ctesialls",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/ctesialls/saturday_morning_all_star_hits%21/6/6._kaset%3A_film"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Tape 7: DANGER",
+      "diziid": "ctesialls",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/ctesialls/saturday_morning_all_star_hits%21/7/7._kaset%3A_tehlike"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Tape 8: LIVE!",
+      "diziid": "ctesialls",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/ctesialls/saturday_morning_all_star_hits%21/8/8._kaset%3A_canli_yayin%21"
+    }
+  ]
+}

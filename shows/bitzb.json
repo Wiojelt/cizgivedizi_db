@@ -1,0 +1,356 @@
+{
+  "id": "bitzb",
+  "title": "bitz ve bob",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BITZBPoster.avif",
+  "channel": "Da Vinci",
+  "genres": [
+    "EÄŸitici/Ã–ÄŸretici"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Castle Makeover",
+      "diziid": "bitzb",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/1/kale_degisimi"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "Marmalade Mayhem",
+      "diziid": "bitzb",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/2/marmelat_karmasasi"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "Ready, Set, Check",
+      "diziid": "bitzb",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/3/hazir%2C_kontrol_et%21"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Desert Road Trip",
+      "diziid": "bitzb",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/4/col_yolculugu"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "Monster Mountain",
+      "diziid": "bitzb",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/5/canavar_dagi"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "X Marks the Spot",
+      "diziid": "bitzb",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/6/carpinin_oldugu_yer"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "Princess Purl's Big Sleep",
+      "diziid": "bitzb",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/7/prenses_purl%E2%80%99un_son_uykusu"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "Bob's Balloon Adventure",
+      "diziid": "bitzb",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/8/bob%E2%80%99un_balon_macerasi"
+    },
+    {
+      "season": 9,
+      "episode": 9,
+      "title": "Losing Steam",
+      "diziid": "bitzb",
+      "bolum": "9",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/9/kaybolan_buhar"
+    },
+    {
+      "season": 10,
+      "episode": 10,
+      "title": "Little Bev Riding Hood",
+      "diziid": "bitzb",
+      "bolum": "10",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/10/kirmizi_baslikli_bev"
+    },
+    {
+      "season": 11,
+      "episode": 11,
+      "title": "Brilliant Beach Circus",
+      "diziid": "bitzb",
+      "bolum": "11",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/11/muthis_plaj_sirki"
+    },
+    {
+      "season": 12,
+      "episode": 12,
+      "title": "Sinking Feeling",
+      "diziid": "bitzb",
+      "bolum": "12",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/12/batma_hissi"
+    },
+    {
+      "season": 13,
+      "episode": 13,
+      "title": "Periscope Peril",
+      "diziid": "bitzb",
+      "bolum": "13",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/13/periskop_tehlikesi"
+    },
+    {
+      "season": 14,
+      "episode": 14,
+      "title": "Plipp and Zopp",
+      "diziid": "bitzb",
+      "bolum": "14",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/14/plipp_ve_zopp"
+    },
+    {
+      "season": 15,
+      "episode": 15,
+      "title": "Princess Purl Day",
+      "diziid": "bitzb",
+      "bolum": "15",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/15/prenses_purl_gunu"
+    },
+    {
+      "season": 16,
+      "episode": 16,
+      "title": "Bubble Quest",
+      "diziid": "bitzb",
+      "bolum": "16",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/16/baloncuk_gorevi"
+    },
+    {
+      "season": 17,
+      "episode": 17,
+      "title": "Big Pop on Top",
+      "diziid": "bitzb",
+      "bolum": "17",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/17/buyuk_pop_tepede"
+    },
+    {
+      "season": 18,
+      "episode": 18,
+      "title": "Ahoy There",
+      "diziid": "bitzb",
+      "bolum": "18",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/18/gemiye_selam"
+    },
+    {
+      "season": 19,
+      "episode": 19,
+      "title": "Jungle Fashion Show",
+      "diziid": "bitzb",
+      "bolum": "19",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/19/orman_defilesi"
+    },
+    {
+      "season": 20,
+      "episode": 20,
+      "title": "Show Bitzness",
+      "diziid": "bitzb",
+      "bolum": "20",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/20/gosteri_dunyasi"
+    },
+    {
+      "season": 21,
+      "episode": 21,
+      "title": "Rock And Roll",
+      "diziid": "bitzb",
+      "bolum": "21",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/21/salla_ve_yuvarla"
+    },
+    {
+      "season": 22,
+      "episode": 22,
+      "title": "Bitz's Campout Conundrum",
+      "diziid": "bitzb",
+      "bolum": "22",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/22/bitz%E2%80%99in_kamp_cikmazi"
+    },
+    {
+      "season": 1,
+      "episode": 23,
+      "title": "Bitz's Big Build",
+      "diziid": "bitzb",
+      "bolum": "23",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/23/bitz%E2%80%99in_buyuk_yapisi"
+    },
+    {
+      "season": 2,
+      "episode": 24,
+      "title": "Tower Top Princess Party",
+      "diziid": "bitzb",
+      "bolum": "24",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/24/kule_ustu_prenses_partisi"
+    },
+    {
+      "season": 3,
+      "episode": 25,
+      "title": "Greatest Gig in Town",
+      "diziid": "bitzb",
+      "bolum": "25",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/25/sehirdeki_en_buyuk_konser"
+    },
+    {
+      "season": 4,
+      "episode": 26,
+      "title": "Merry Go Round",
+      "diziid": "bitzb",
+      "bolum": "26",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/26/atlikarinca"
+    },
+    {
+      "season": 5,
+      "episode": 27,
+      "title": "Cake Calamity",
+      "diziid": "bitzb",
+      "bolum": "27",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/27/pasta_felaketi"
+    },
+    {
+      "season": 6,
+      "episode": 28,
+      "title": "Incredible Duck Trek",
+      "diziid": "bitzb",
+      "bolum": "28",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/28/inanilmaz_ordek_yuruyusu"
+    },
+    {
+      "season": 7,
+      "episode": 29,
+      "title": "Bitz's Beach Party",
+      "diziid": "bitzb",
+      "bolum": "29",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/29/bitz%E2%80%99in_plaj_partisi"
+    },
+    {
+      "season": 8,
+      "episode": 30,
+      "title": "Snowy Sports Day",
+      "diziid": "bitzb",
+      "bolum": "30",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/30/karli_spor_gunu"
+    },
+    {
+      "season": 9,
+      "episode": 31,
+      "title": "Bevel Genie's Home Sweet Home",
+      "diziid": "bitzb",
+      "bolum": "31",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/31/cin_bevel%E2%80%99in_guzel_evi"
+    },
+    {
+      "season": 10,
+      "episode": 32,
+      "title": "Castle Bake Off",
+      "diziid": "bitzb",
+      "bolum": "32",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/32/kalede_pizza_yarisi"
+    },
+    {
+      "season": 11,
+      "episode": 33,
+      "title": "Snowy Sneezy Goat Gala",
+      "diziid": "bitzb",
+      "bolum": "33",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/33/karli_soguk_keci_senligi"
+    },
+    {
+      "season": 12,
+      "episode": 34,
+      "title": "A-Maze-ing Adventure",
+      "diziid": "bitzb",
+      "bolum": "34",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/34/labirent_macerasi"
+    },
+    {
+      "season": 13,
+      "episode": 35,
+      "title": "The Frog Log Bridge",
+      "diziid": "bitzb",
+      "bolum": "35",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/35/kurbaga_kutuk_koprusu"
+    },
+    {
+      "season": 14,
+      "episode": 36,
+      "title": "Woolly Wonder Girl",
+      "diziid": "bitzb",
+      "bolum": "36",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/36/yunlu_harika_kiz"
+    },
+    {
+      "season": 15,
+      "episode": 37,
+      "title": "Amazing Owl Club",
+      "diziid": "bitzb",
+      "bolum": "37",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/37/inanilmaz_baykus_kulubu"
+    },
+    {
+      "season": 16,
+      "episode": 38,
+      "title": "A Birthday Surprise",
+      "diziid": "bitzb",
+      "bolum": "38",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/38/dogum_gunu_surprizi"
+    },
+    {
+      "season": 17,
+      "episode": 39,
+      "title": "Bitz and Bob's Toy Shop",
+      "diziid": "bitzb",
+      "bolum": "39",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/39/bitz_ve_bob%E2%80%99un_oyuncak_dukkani"
+    },
+    {
+      "season": 18,
+      "episode": 40,
+      "title": "Mayor Bevel's Mega Wheel",
+      "diziid": "bitzb",
+      "bolum": "40",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/40/belediye_baskani_bevel%E2%80%99in_donme_dolabi"
+    },
+    {
+      "season": 1,
+      "episode": 41,
+      "title": "The Every Place Chase Race",
+      "diziid": "bitzb",
+      "bolum": "41",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/41/her_yerde_kovalama_yarisi"
+    },
+    {
+      "season": 21,
+      "episode": 42,
+      "title": "Up, Up and Away",
+      "diziid": "bitzb",
+      "bolum": "43",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/43/uzaga_havalanma"
+    },
+    {
+      "season": 22,
+      "episode": 43,
+      "title": "Gripping Yarn",
+      "diziid": "bitzb",
+      "bolum": "44",
+      "url": "https://cizgivedizi.com/dizi/bitzb/bitz_ve_bob/44/surukleyici_hikaye"
+    }
+  ]
+}

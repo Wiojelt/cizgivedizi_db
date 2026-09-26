@@ -1,0 +1,78 @@
+{
+  "id": "boys",
+  "title": "boys sunar: ÅŸeytani",
+  "type": "cizgi",
+  "poster": "https://cizgivedizi.com/resim/BOYSPoster.avif",
+  "channel": "Prime Video",
+  "genres": [
+    "Aksiyon",
+    "Komedi",
+    "Bilim Kurgu"
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Laser Baby's Day Out",
+      "diziid": "boys",
+      "bolum": "1",
+      "url": "https://cizgivedizi.com/dizi/boys/boys_sunar%3A_seytani/1/lazer_bebek_gezintide"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "title": "An Animated Short Where Pissed-Off Supes Kill Their Parents",
+      "diziid": "boys",
+      "bolum": "2",
+      "url": "https://cizgivedizi.com/dizi/boys/boys_sunar%3A_seytani/2/ofkeli_super_kahramanlarin_ebeveynlerini_oldurdugu_kisa_anime"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "title": "I'm Your Pusher",
+      "diziid": "boys",
+      "bolum": "3",
+      "url": "https://cizgivedizi.com/dizi/boys/boys_sunar%3A_seytani/3/torbaciniz_benim"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "title": "Boyd in 3D",
+      "diziid": "boys",
+      "bolum": "4",
+      "url": "https://cizgivedizi.com/dizi/boys/boys_sunar%3A_seytani/4/3ddeki_boyd"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "title": "BFFs",
+      "diziid": "boys",
+      "bolum": "5",
+      "url": "https://cizgivedizi.com/dizi/boys/boys_sunar%3A_seytani/5/siki_dostlar"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "title": "Nubian vs Nubian",
+      "diziid": "boys",
+      "bolum": "6",
+      "url": "https://cizgivedizi.com/dizi/boys/boys_sunar%3A_seytani/6/nubyeli_nubyeliye_karsi"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "title": "John and Sun-Hee",
+      "diziid": "boys",
+      "bolum": "7",
+      "url": "https://cizgivedizi.com/dizi/boys/boys_sunar%3A_seytani/7/john_ve_sunhee"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "title": "One Plus One Equals Two",
+      "diziid": "boys",
+      "bolum": "8",
+      "url": "https://cizgivedizi.com/dizi/boys/boys_sunar%3A_seytani/8/bir_arti_bir_iki_eder"
+    }
+  ]
+}
