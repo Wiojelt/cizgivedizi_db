@@ -1,0 +1,12 @@
+{
+  "id": "bobf",
+  "title": "bir bob's burgers filmi",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/BOBSFPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "MÃ¼zik/MÃ¼zikal"
+  ],
+  "episodes": []
+}

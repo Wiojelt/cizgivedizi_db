@@ -1,0 +1,11 @@
+{
+  "id": "bill",
+  "title": "bill",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/BILLPoster.avif",
+  "channel": "Sinema Aile",
+  "genres": [
+    "Komedi"
+  ],
+  "episodes": []
+}

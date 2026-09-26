@@ -1,0 +1,12 @@
+{
+  "id": "cars1",
+  "title": "arabalar 1",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/CARS1Poster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Komedi",
+    "Spor"
+  ],
+  "episodes": []
+}

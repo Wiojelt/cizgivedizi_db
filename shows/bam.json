@@ -1,0 +1,12 @@
+{
+  "id": "bam",
+  "title": "bir ay masalÄ±",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/BAMFilmPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": []
+}

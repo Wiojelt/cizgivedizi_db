@@ -1,0 +1,12 @@
+{
+  "id": "sdfg",
+  "title": "sÃ¼rekli dizi: film",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/SDFPoster.avif",
+  "channel": "Cartoon Network",
+  "genres": [
+    "Bilim Kurgu",
+    "Komedi"
+  ],
+  "episodes": []
+}

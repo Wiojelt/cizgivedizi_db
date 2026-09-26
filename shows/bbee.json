@@ -1,0 +1,12 @@
+{
+  "id": "bbee",
+  "title": "bumblebee",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/BBEPoster.avif",
+  "channel": "Sinema Aile",
+  "genres": [
+    "Aksiyon",
+    "Bilim Kurgu"
+  ],
+  "episodes": []
+}

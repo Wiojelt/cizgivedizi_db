@@ -1,0 +1,12 @@
+{
+  "id": "gelej",
+  "title": "gelecek jenerasyon",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/GELEJPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Bilim Kurgu",
+    "Aksiyon"
+  ],
+  "episodes": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "petp",
+  "title": "peter pan",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/PETPPoster.avif",
+  "channel": "Disney+",
+  "genres": [
+    "Fantastik",
+    "Macera"
+  ],
+  "episodes": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "turbo",
+  "title": "turbo",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/TurboPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "Spor"
+  ],
+  "episodes": []
+}

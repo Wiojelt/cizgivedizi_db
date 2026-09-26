@@ -1,0 +1,12 @@
+{
+  "id": "birtff",
+  "title": "bir tuhaf futbol filmi",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/BIRTFFPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Komedi",
+    "Spor"
+  ],
+  "episodes": []
+}

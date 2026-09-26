@@ -1,0 +1,12 @@
+{
+  "id": "scoob",
+  "title": "scoob!",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/SCOOB.avif",
+  "channel": "Sinema Aile",
+  "genres": [
+    "Komedi",
+    "Macera"
+  ],
+  "episodes": []
+}

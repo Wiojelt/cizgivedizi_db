@@ -1,0 +1,12 @@
+{
+  "id": "nimona",
+  "title": "nimona",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/NIMONAFilmPoster.avif",
+  "channel": "Netflix",
+  "genres": [
+    "Bilim Kurgu",
+    "Macera"
+  ],
+  "episodes": []
+}

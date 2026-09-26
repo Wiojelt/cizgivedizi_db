@@ -1,0 +1,13 @@
+{
+  "id": "abd",
+  "title": "annem bir dinozor",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/ABDPoster.avif",
+  "channel": "Kanal D",
+  "genres": [
+    "Komedi",
+    "Bilim Kurgu",
+    "Macera"
+  ],
+  "episodes": []
+}

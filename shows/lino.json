@@ -1,0 +1,12 @@
+{
+  "id": "lino",
+  "title": "lino",
+  "type": "film",
+  "poster": "https://cizgivedizi.com/resim/LINOPoster.avif",
+  "channel": "Sinema Aile",
+  "genres": [
+    "Komedi",
+    "Fantastik"
+  ],
+  "episodes": []
+}
